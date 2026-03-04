@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4891858475",
+    "access": "private",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "271",
+    "addr:postcode": "8038",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "capacity": "108",
+    "email": "siszuerichwollishofen@zfv.ch",
+    "name": "Mensa SIS Z\u00fcrich-Wollishofen",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "operator": "ZFV-Unternehmungen",
+    "phone": "+41 79 199 94 50",
+    "self_service": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/mensa-sis-zuerich-wollishofen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328394,
+      47.3508842
+    ]
+  },
+  "id": "node-4891858475"
+}

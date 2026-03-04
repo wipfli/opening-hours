@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3926088056",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8001",
+    "addr:street": "Oberdorfstrasse",
+    "alt_name": "Burgermeister Oberdorf",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oberdorf",
+    "check_date": "2025-07-02",
+    "check_date:diet:vegan": "2025-07-02",
+    "check_date:diet:vegetarian": "2025-07-02",
+    "cuisine": "burger",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Burgermeister",
+    "old_name": "b.good Oberdorf",
+    "opening_hours": "Mo-Th 11:30-22:00; Fr-Sa 11:30-22:30; Su 12:00-21:00; PH closed",
+    "website": "https://www.burger-meister.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5458392,
+      47.3684514
+    ]
+  },
+  "id": "node-3926088056"
+}

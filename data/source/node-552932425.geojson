@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/552932425",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "102",
+    "addr:postcode": "8006",
+    "addr:street": "Stampfenbachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pizzeria Veneziana",
+    "old_name": "Grottino 85",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:30, Fr,Sa 11:00-14:00,17:00-23:00",
+    "operator": "Sares Invest",
+    "website": "https://pizzeriaveneziana.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5413332,
+      47.383118
+    ]
+  },
+  "id": "node-552932425"
+}

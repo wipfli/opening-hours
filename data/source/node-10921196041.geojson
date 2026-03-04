@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10921196041",
+    "amenity": "restaurant",
+    "check_date": "2023-05-23",
+    "cuisine": "italian",
+    "email": "eat@brenso.ch",
+    "name": "Brenso",
+    "opening_hours": "We-Sa 12:00-24:00",
+    "phone": "+41 77 254 11 41",
+    "website": "https://www.brenso.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5249235,
+      47.375571
+    ]
+  },
+  "id": "node-10921196041"
+}

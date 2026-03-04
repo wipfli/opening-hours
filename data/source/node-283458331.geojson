@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/283458331",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "Schweizergasse",
+    "alt_name": "SAM'S Schweizergasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich City",
+    "check_date": "2025-11-12",
+    "cuisine": "american",
+    "indoor_seating": "yes",
+    "name": "SAM'S Pizza Land",
+    "opening_hours": "Mo-Th 09:00-22:00; Fr,Sa 09:00-24:00; Su 11:00-22:00",
+    "operator": "its1world Management",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.samspizza.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5384828,
+      47.3760268
+    ]
+  },
+  "id": "node-283458331"
+}

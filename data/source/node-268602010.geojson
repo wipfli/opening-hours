@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268602010",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "87",
+    "addr:postcode": "8008",
+    "addr:street": "Feldeggstrasse",
+    "amenity": "restaurant",
+    "email": "service.zuerich@laendli.ch",
+    "name": "L\u00e4ndli",
+    "opening_hours": "Mo-Fr 09:00-15:00",
+    "phone": "+41 44 269 69 22",
+    "website": "https://www.laendlizueri.ch/gastronomie/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545618,
+      47.3627304
+    ]
+  },
+  "id": "node-268602010"
+}

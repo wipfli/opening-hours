@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/808458794",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-23",
+    "cuisine": "chinese",
+    "email": "langstrasse@peking-garden.ch",
+    "name": "Peking Garden",
+    "opening_hours": "Mo-We,Su 11:00-24:00; Th-Sa 11:00-26:00",
+    "opening_hours:covid19": "off",
+    "phone": "+41 44 241 23 23",
+    "takeaway": "yes",
+    "website": "https://www.peking-garden.ch/zh-langstrasse",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.524534,
+      47.3750304
+    ]
+  },
+  "id": "node-808458794"
+}

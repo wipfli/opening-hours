@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/639029708",
+    "alt_name": "Bauernsch\u00e4nke",
+    "amenity": "restaurant",
+    "check_date": "2023-04-22",
+    "cuisine": "regional",
+    "email": "hunger@bauernschaenke.ch",
+    "indoor_seating": "yes",
+    "name": "Bauern Sch\u00e4nke",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-24:00; Sa 18:00-24:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 262 41 30",
+    "website": "http://www.bauernschaenke.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5452101,
+      47.3724243
+    ]
+  },
+  "id": "node-639029708"
+}

@@ -1,0 +1,15 @@
+Looking at the website, there are two sets of opening hours mentioned:
+
+1. Under "UNSERE ÖFFNUNGSZEITEN 2022 BIS AUF WEITERES":
+   - Montag-Freitag: 11:30 – 14:00 | 17:00 – 21:30
+   - Samstag / Sonntag: 17:00 – 21:30
+
+2. Under "KONTAKT" / "ÖFFNUNGSZEITEN":
+   - 11:00 bis 22:00 unter der Woche
+   - 16:00 bis 22:00 am Wochenende
+
+These two sets conflict with each other. The first set is labeled "2022 BIS AUF WEITERES" (2022 until further notice), and the contact section shows different, possibly more current hours. The footer says "2026 Tiffins" suggesting the site is current. The contact section hours appear to be the more up-to-date simplified version.
+
+However, given the contradiction between the two sets of hours on the same page, I cannot be fully confident which is correct.
+
+UNSURE

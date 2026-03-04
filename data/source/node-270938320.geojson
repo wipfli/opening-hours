@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270938320",
+    "access:covid19": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Waaggasse",
+    "alt_name": "Santa Lucia Paradeplatz",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Paradeplatz",
+    "brand": "Santa Lucia",
+    "brand:wikidata": "Q110419156",
+    "check_date": "2023-05-13",
+    "cuisine": "pizza;italian",
+    "name": "Santa Lucia",
+    "old_name": "Contrapunto",
+    "opening_hours": "Mo-Sa 11:30-22:30; Su off",
+    "operator": "Bindella",
+    "oven": "wood_fired",
+    "takeaway": "yes",
+    "website": "https://www.bindella.ch/de/santa-lucia-paradeplatz.html",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398264,
+      47.3700603
+    ]
+  },
+  "id": "node-270938320"
+}

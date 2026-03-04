@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/446784538",
+    "addr:city": "Z\u00fcrich",
+    "addr:postcode": "8005",
+    "addr:street": "Josefstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-10",
+    "cuisine": "tacos;mexican",
+    "name": "LA Brea SoCal Tacos",
+    "opening_hours": "Mo-Th 18:00-22:00; Sa 10:00-14:00,17:30-22:30; Su 10:00-14:00",
+    "phone": "+41 44 311 20 20",
+    "website": "https://de.la-brea.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5317241,
+      47.3821979
+    ]
+  },
+  "id": "node-446784538"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/269913252",
+    "addr:housenumber": "9",
+    "addr:street": "Torgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-10",
+    "contact:email": "info@weissero.se",
+    "name": "Weisse Rose",
+    "opening_hours": "Tu-Sa 17:00+; PH closed",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.weissero.se",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456652,
+      47.3682061
+    ]
+  },
+  "id": "node-269913252"
+}

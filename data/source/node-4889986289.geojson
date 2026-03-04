@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4889986289",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "170",
+    "addr:postcode": "8008",
+    "addr:street": "Bellerivestrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "restaurant@lake-side.ch",
+    "indoor_seating": "yes",
+    "name": "Lake Side",
+    "opening_hours": "Mo-Sa 11:30-23:30; Su 11:00-23:30",
+    "operator": "Kramer Gastronomie",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 385 86 00",
+    "smoking": "outside",
+    "website": "https://lake-side.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537217,
+      47.3527249
+    ]
+  },
+  "id": "node-4889986289"
+}

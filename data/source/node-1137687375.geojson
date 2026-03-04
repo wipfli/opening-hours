@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1137687375",
+    "amenity": "restaurant",
+    "check_date": "2024-06-19",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Lele",
+    "opening_hours": "Mo-We 11:30-15:00,17:00-00:00; Th 11:30-15:00,17:00-02:00; Fr 11:30-15:00,17:00-04:00; Sa 18:00-04:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurantlele.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.530352,
+      47.3784747
+    ]
+  },
+  "id": "node-1137687375"
+}

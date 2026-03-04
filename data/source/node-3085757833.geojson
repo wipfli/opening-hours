@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3085757833",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "29",
+    "addr:postcode": "8001",
+    "addr:street": "L\u00f6wenstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "check_date": "2025-09-29",
+    "cuisine": "japanese",
+    "name": "SEAM \u2013 Japanese Kappo Cuisine",
+    "opening_hours": "Mo-Sa 11:30-14:30,18:00-22:30",
+    "phone": "+41438102929",
+    "website": "https://www.kappo-seam.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.535733,
+      47.374608
+    ]
+  },
+  "id": "node-3085757833"
+}

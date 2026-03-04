@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5016528002",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8045",
+    "addr:street": "Grubenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Pizzeria Trattoria da Michele",
+    "opening_hours": "Mo-Tu 08:00-18:00; We-Fr 08:00-23:00; Sa 17:00-23:00; Su,PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 333 32 05",
+    "website": "https://www.trattoriadamichele.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163974,
+      47.3620219
+    ]
+  },
+  "id": "node-5016528002"
+}

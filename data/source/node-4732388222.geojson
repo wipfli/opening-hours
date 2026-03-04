@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4732388222",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "Zunfthaus zur Zimmerleuten",
+    "opening_hours": "Mo-Su 11:30-23:30",
+    "operator": "Kramer Gastronomie",
+    "outdoor_seating": "yes",
+    "website": "https://zunfthaus-zimmerleuten.ch/",
+    "wheelchair": "limited",
+    "wikidata": "Q229912",
+    "wikimedia_commons": "Category:Zunfthaus zur Zimmerleuten",
+    "wikipedia": "en:Zunfthaus zur Zimmerleuten"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5432314,
+      47.3706365
+    ]
+  },
+  "id": "node-4732388222"
+}

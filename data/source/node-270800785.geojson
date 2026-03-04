@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270800785",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "air_conditioning": "no",
+    "alt_name": "Molino Select",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Limmatquai",
+    "brand": "Molino",
+    "check_date": "2026-02-20",
+    "check_date:diet:vegan": "2026-02-20",
+    "check_date:diet:vegetarian": "2026-02-20",
+    "check_date:opening_hours": "2025-09-24",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Molino",
+    "old_name": "Select",
+    "opening_hours": "10:00-23:00",
+    "opening_hours:kitchen": "11:30-22:00",
+    "operator": "Ospena Group",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://molino.ch/de/pizzeria-ristorante-molino-select",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439586,
+      47.3690472
+    ]
+  },
+  "id": "node-270800785"
+}

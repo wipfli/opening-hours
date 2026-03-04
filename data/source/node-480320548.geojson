@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/480320548",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "email": "info@vietnamrestaurant.ch",
+    "name": "Vietnam",
+    "opening_hours": "Mo-Fr 11:00-14:00, Sa 12:00-15:00, Mo-Sa 17:00-22:00",
+    "phone": "+41 43 333 19 39",
+    "toilets:wheelchair": "no",
+    "website": "https://restaurant-vietnam.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5179538,
+      47.3606785
+    ]
+  },
+  "id": "node-480320548"
+}

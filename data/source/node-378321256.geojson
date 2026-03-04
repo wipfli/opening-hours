@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/378321256",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8045",
+    "addr:street": "Kalanderplatz",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegan": "limited",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Hong-Kong Food Paradise",
+    "opening_hours": "Mo-Sa 10:30-22:30",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://hongkongfoodparadise.ch/store_locator/sihlcity-2/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5233652,
+      47.3585224
+    ]
+  },
+  "id": "node-378321256"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/313212546",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "120",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-09-17",
+    "cuisine": "chinese;asian",
+    "level": "0",
+    "name": "Yuma",
+    "opening_hours": "Mo-Fr 08:00-24:00; Sa 10:00-02:00, Su 10:00-17:00",
+    "phone": "+41 43 243 88 88",
+    "start_date": "2018-06-01",
+    "website": "https://www.yuma-zurich.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5239732,
+      47.374422
+    ]
+  },
+  "id": "node-313212546"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1346146716",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8005",
+    "addr:street": "Zollstrasse",
+    "alt_name": "Wirtschaft zum Vorbahnhof",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-08-10",
+    "cuisine": "regional",
+    "diet:vegetarian": "no",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Brasserie zum Vorbahnhof",
+    "opening_hours": "Mo-Fr 11:00-23:00; Sa,Su,PH off",
+    "operator": "Candrian Catering",
+    "outdoor_seating": "yes",
+    "phone": "+41442720100",
+    "website": "https://www.vorbahnhof.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372003,
+      47.3797298
+    ]
+  },
+  "id": "node-1346146716"
+}

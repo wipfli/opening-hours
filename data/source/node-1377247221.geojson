@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1377247221",
+    "addr:city": "Z\u00fcrich",
+    "addr:postcode": "8005",
+    "amenity": "restaurant",
+    "check_date": "2024-08-09",
+    "cuisine": "brazilian",
+    "name": "Casa da Picanha",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-22:00; Sa-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 271 61 61",
+    "website": "https://picanha-brasil.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5300961,
+      47.382094
+    ]
+  },
+  "id": "node-1377247221"
+}

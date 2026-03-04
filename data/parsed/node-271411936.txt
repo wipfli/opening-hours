@@ -1,0 +1,7 @@
+Looking at the footer of the website, the hours are clearly stated:
+
+- Dienstag bis Freitag: 9:00 bis 23:00 Uhr
+- Samstag: 10:00 bis 23:00 Uhr
+- Sonntag und Montag: Ruhetag
+
+Tu-Fr 09:00-23:00; Sa 10:00-23:00

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/8124534023",
+    "addr:housenumber": "45",
+    "addr:street": "Utoquai",
+    "amenity": "restaurant",
+    "cuisine": "peruvian",
+    "description": "Rooftop. 15 Gault-Millau Points.",
+    "level": "5",
+    "name": "La Mu\u00f1a",
+    "opening_hours": "Mo-Su 12:00-14:00,18:00-23:00",
+    "phone": "+41 44 266 25 25",
+    "website": "https://www.lareserve-zurich.com/de/restaurants/la-muna/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5472553,
+      47.3628911
+    ]
+  },
+  "id": "node-8124534023"
+}

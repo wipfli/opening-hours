@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5390216988",
+    "amenity": "restaurant",
+    "name": "Clubhaus TC Uetliberg",
+    "opening_hours": "Tu-Su 10:00-21:00 \"bei sch\u00f6nem Wetter\"",
+    "operator": "Tennisclub Uetliberg",
+    "website": "https://www.tcuetliberg.ch/restaurant"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5052902,
+      47.3526531
+    ]
+  },
+  "id": "node-5390216988"
+}

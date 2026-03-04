@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/331183362",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "132",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "amenity": "restaurant",
+    "check_date": "2025-10-01",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Bierhalle Wolf",
+    "opening_hours": "Mo-Th,Su 11:00-23:15; Fr-Sa 11:00-02:00",
+    "operator": "Holenstein Gastro",
+    "outdoor_seating": "no",
+    "website": "https://www.bierhalle-wolf.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.543866,
+      47.3758264
+    ]
+  },
+  "id": "node-331183362"
+}

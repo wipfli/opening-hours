@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4857867456",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8004",
+    "addr:street": "Kasernenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Riki Ramen B\u0101",
+    "opening_hours": "Mo-Sa 11:30-14:00,17:30-23:00",
+    "opening_hours:kitchen": "Mo-We 11:30-13:30,17:30-21:30; Th-Sa 11:30-13:30,17:30-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.riki-ramen.com/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Rollstuhl-WC \u00fcber Treppenlift erreichbar. Treppenlift kann mit Eurokey bedient werden."
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5320042,
+      47.3735366
+    ]
+  },
+  "id": "node-4857867456"
+}

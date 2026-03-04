@@ -1,0 +1,5 @@
+The website states:
+- Lunch: Monday to Friday 11:30–14:30
+- Dinner: Monday to Saturday 18:30–22:00
+
+Mo-Fr 11:30-14:30,18:30-22:00; Sa 18:30-22:00

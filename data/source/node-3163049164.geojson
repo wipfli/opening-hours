@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3163049164",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "8004",
+    "addr:street": "Morgartenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-24",
+    "name": "Werdguet",
+    "opening_hours": "Mo-Fr 10:00-24:00; Sa-Su \"auf Anfrage\"; 2017 Jul 21-31 off; 2017 Aug 01-20 off",
+    "website": "https://www.werdguet.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274873,
+      47.3715104
+    ]
+  },
+  "id": "node-3163049164"
+}

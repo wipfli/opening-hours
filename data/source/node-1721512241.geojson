@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1721512241",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8002",
+    "addr:street": "Gartenstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 44 542 92 50",
+    "cuisine": "burger",
+    "name": "Korner",
+    "opening_hours": "Mo-We 11:30-13:30,17:30-21:30; Th-Sa 11:30-22:00; PH closed",
+    "outdoor_seating": "yes",
+    "website": "https://www.gourmetburger.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339963,
+      47.3686567
+    ]
+  },
+  "id": "node-1721512241"
+}

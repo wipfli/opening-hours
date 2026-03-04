@@ -1,0 +1,9 @@
+Looking at the Öffnungszeiten (opening hours) section:
+
+- Dienstag – Donnerstag: 11.30 – 24.00 Uhr
+- Freitag: 11.30 – 01.45 Uhr
+- Samstag: 19.00 – 01.45 Uhr
+
+Since this is a restaurant (amenity=restaurant), I should use the general opening hours rather than just the kitchen hours.
+
+Tu-Th 11:30-24:00; Fr 11:30-01:45; Sa 19:00-01:45

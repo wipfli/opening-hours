@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5688147984",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "40",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "alt_name": "Kai Sushi Seefeld",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "check_date": "2025-11-03",
+    "check_date:diet:vegan": "2025-11-03",
+    "check_date:diet:vegetarian": "2025-11-03",
+    "check_date:smoking": "2025-11-03",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "seefeld@kaisushi.ch",
+    "indoor_seating": "yes",
+    "name": "Kai Sushi",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Su 17:30-22:00; PH 17:30-22:00",
+    "operator": "Urban Food Culture",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://kaisushi.ch/de/standorte/kai-sushi-seefeld/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5497941,
+      47.3629249
+    ]
+  },
+  "id": "node-5688147984"
+}

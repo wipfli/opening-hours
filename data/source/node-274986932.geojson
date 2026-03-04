@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/274986932",
+    "amenity": "restaurant",
+    "check_date": "2025-01-16",
+    "name": "Trinity",
+    "old_name": "Le Poisson",
+    "opening_hours": "Mo-Fr 11:30-14:00, Tu-Sa 18:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 221 35 49",
+    "website": "https://www.trinity-swiss.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372866,
+      47.3676805
+    ]
+  },
+  "id": "node-274986932"
+}

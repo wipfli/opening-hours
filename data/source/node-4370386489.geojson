@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4370386489",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "364",
+    "addr:postcode": "8055",
+    "addr:street": "Birmensdorferstrasse",
+    "alt_name": "Caf\u00e9 Riedhus",
+    "amenity": "restaurant",
+    "cuisine": "ethiopian",
+    "name": "Meskerem Restaurant",
+    "old_name": "Caf\u00e9 Riedhus",
+    "opening_hours": "Tu 14:00-24:00; We-Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.meskerem-restaurant.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5056903,
+      47.3695561
+    ]
+  },
+  "id": "node-4370386489"
+}

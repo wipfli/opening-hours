@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/289890175",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housename": "Restaurant Belvoirpark",
+    "addr:housenumber": "125",
+    "addr:postcode": "8002",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Belvoirpark",
+    "opening_hours": "We-Su 11:00-23:00",
+    "operator": "Kramer Gastronomie",
+    "website": "https://belvoirpark.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533274,
+      47.3577263
+    ]
+  },
+  "id": "node-289890175"
+}

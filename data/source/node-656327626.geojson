@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/656327626",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8001",
+    "addr:street": "Z\u00e4hringerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Walliser Keller",
+    "opening_hours": "Mo-Fr 11:30-13:15, 17:00-23:00; Sa 17:00-23:00",
+    "operator": "Best Western",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://walliser-keller.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445108,
+      47.3749804
+    ]
+  },
+  "id": "node-656327626"
+}

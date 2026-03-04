@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2456775289",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "148",
+    "addr:postcode": "8008",
+    "addr:street": "M\u00fchlebachstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Blindekuh",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "zuerich@blindekuh.ch",
+    "indoor_seating": "yes",
+    "name": "blindekuh",
+    "opening_hours": "Tu-Sa 18:00-22:00; Su 17:30-22:00; Mo off",
+    "outdoor_seating": "no",
+    "phone": "+41 44 421 50 50",
+    "smoking": "no",
+    "website": "https://www.blindekuh.ch/",
+    "wheelchair": "limited",
+    "wikidata": "Q884224",
+    "wikipedia": "en:Blindekuh (restaurant)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5571633,
+      47.3583286
+    ]
+  },
+  "id": "node-2456775289"
+}

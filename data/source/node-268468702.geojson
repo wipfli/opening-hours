@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268468702",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8001",
+    "addr:street": "St. Urbangasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-13",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "Yume Ramen",
+    "opening_hours": "Mo-Fr 11:30-13:30,18:00-21:30; Sa 12:00-13:30,18:00-21:30",
+    "phone": "+41 44 518 03 60",
+    "website": "https://www.yume-ramen.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462454,
+      47.3670484
+    ]
+  },
+  "id": "node-268468702"
+}

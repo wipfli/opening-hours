@@ -1,0 +1,16 @@
+The hours are:
+- Sunday to Thursday (So. - Do.): 06:30 - 04:00 (next day)
+- Friday and Saturday (Fr., Sa.): 24 hours open
+
+In OSM format:
+- Su-Th 06:30-04:00 (note: closes at 04:00 the next day, which means past midnight)
+- Fr-Sa 00:00-24:00 (open 24 hours)
+
+For Su-Th, the closing time of 04:00 is after midnight, so it's actually 06:30-28:00 in OSM notation... but OSM doesn't support that directly in a simple way. The correct representation would be that the venue is open from 06:30 until 04:00 the next morning.
+
+In OSM opening hours, this can be written as:
+Su-Th 06:30-04:00; Fr-Sa 00:00-24:00
+
+But since Fr-Sa is 24 hours and Su-Th closes at 04:00 which is part of the continuous opening on Fr and Sa, this is complex. The straightforward reading is:
+
+Su-Th 06:30-04:00; Fr-Sa 00:00-24:00

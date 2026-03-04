@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/848761371",
+    "addr:housenumber": "147",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-03",
+    "cuisine": "french",
+    "email": "info@zebra-bistro.ch",
+    "name": "Zebra Bistro",
+    "opening_hours": "Tu-Sa 17:00-23:00",
+    "website": "https://www.zebra-bistro.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5225397,
+      47.3773918
+    ]
+  },
+  "id": "node-848761371"
+}

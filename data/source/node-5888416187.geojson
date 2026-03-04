@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5888416187",
+    "amenity": "restaurant",
+    "check_date": "2025-11-06",
+    "check_date:diet:vegan": "2025-11-06",
+    "check_date:diet:vegetarian": "2025-11-06",
+    "check_date:opening_hours": "2025-11-06",
+    "check_date:smoking": "2025-11-06",
+    "cuisine": "moroccan;mediterranean",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Hammam Salon",
+    "opening_hours": "Tu-Th 11:00-22:00; Fr,Sa 10:00-22:30; Su 10:00-19:30",
+    "outdoor_seating": "no",
+    "phone": "+41 44 382 90 60",
+    "smoking": "no",
+    "website": "https://www.hammambasar.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5586356,
+      47.3569676
+    ]
+  },
+  "id": "node-5888416187"
+}

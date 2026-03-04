@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7580656369",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8005",
+    "addr:street": "Maagplatz",
+    "amenity": "restaurant",
+    "name": "Clouds",
+    "opening_hours": "Mo-Fr 11:45-14:00, We-Su 18:00-23:00",
+    "operator": "Candrian Catering",
+    "website": "https://clouds.ch/#restaurant"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5171898,
+      47.3860799
+    ]
+  },
+  "id": "node-7580656369"
+}

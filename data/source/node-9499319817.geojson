@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9499319817",
+    "addr:housenumber": "15",
+    "addr:street": "Weinbergstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-30",
+    "email": "info@mohini.ch",
+    "indoor_seating": "yes",
+    "name": "Mohini",
+    "opening_hours": "Mo-Fr 11:00-15:00 || \"einmal im Monat 18:00-23:00\"",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 52 11",
+    "website": "https://mohini.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441334,
+      47.3781881
+    ]
+  },
+  "id": "node-9499319817"
+}

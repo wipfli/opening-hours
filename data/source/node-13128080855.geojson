@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/13128080855",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "142",
+    "addr:postcode": "8004",
+    "addr:street": "Feldstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "drive_through": "no",
+    "name": "OMA MAO",
+    "opening_hours": "Tu-Fr 11:00-14:00",
+    "takeaway": "yes",
+    "website": "https://omamao.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5250743,
+      47.3804002
+    ]
+  },
+  "id": "node-13128080855"
+}

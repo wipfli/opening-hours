@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370844602",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8001",
+    "addr:street": "M\u00fcnstergasse",
+    "alt_name": "Cucina Niederdorf",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Niederdorf",
+    "cuisine": "italian;pizza",
+    "name": "Cucina",
+    "opening_hours": "Mo-Sa 11:00-24:00",
+    "website": "https://www.cucinarestaurant.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445409,
+      47.370856
+    ]
+  },
+  "id": "node-370844602"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9271949217",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8005",
+    "addr:street": "Maschinenstrasse",
+    "amenity": "restaurant",
+    "brand": "roots",
+    "check_date": "2025-09-23",
+    "diet:vegan": "yes",
+    "name": "roots",
+    "opening_hours": "Mo-Fr 07:30-16:00; Sa 09:00-16:00; PH,Su 09:00-16:00",
+    "website": "https://rootsandfriends.com/locations/Roots/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5171254,
+      47.3873149
+    ]
+  },
+  "id": "node-9271949217"
+}

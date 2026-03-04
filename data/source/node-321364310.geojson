@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/321364310",
+    "addr:housename": "ETH TAN",
+    "addr:street": "Tannenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-10",
+    "check_date:opening_hours": "2025-06-27",
+    "cuisine": "asian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "students",
+    "name": "Clausiusbar",
+    "opening_hours": "Mo-Fr 11:15-14:00",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:notes": "yes",
+    "payment:twint": "yes",
+    "smoking": "no",
+    "website": "https://web.sv-restaurant.ch/stores/42011/details",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5470004,
+      47.3772558
+    ]
+  },
+  "id": "node-321364310"
+}

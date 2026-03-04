@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268470293",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Hatecke du Th\u00e9\u00e2tre",
+    "opening_hours": "Mo 09:00-18:00; Tu-Fr 09:00-22:00; Sa 09:00-17:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.hatecke.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5473846,
+      47.363996
+    ]
+  },
+  "id": "node-268470293"
+}

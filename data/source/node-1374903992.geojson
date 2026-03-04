@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1374903992",
+    "amenity": "restaurant",
+    "check_date": "2026-02-14",
+    "check_date:diet:vegetarian": "2026-02-14",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "St. Gallerhof",
+    "opening_hours": "Mo-Fr 09:30-24:00; Sa 09:30-22:00; Su 10:00-21:00",
+    "outdoor_seating": "sidewalk",
+    "phone": "+41442715260",
+    "website": "https://www.st-gallerhof.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5373936,
+      47.3799976
+    ]
+  },
+  "id": "node-1374903992"
+}

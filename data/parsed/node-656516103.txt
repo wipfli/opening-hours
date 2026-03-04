@@ -1,0 +1,5 @@
+I can see this is the website for Volkshaus restaurant in Zürich, but the content provided does not include regular opening hours information. The only time mentioned is "14:00–17:00 «SALON DE THÉ»" which appears to be specific hours for a tea salon service, not the full operating hours of the restaurant.
+
+Without complete opening hours information for all days of the week, I cannot confidently extract a proper OpenStreetMap opening_hours string.
+
+UNSURE

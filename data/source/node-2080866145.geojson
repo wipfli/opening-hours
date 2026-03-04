@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2080866145",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "45",
+    "addr:postcode": "8003",
+    "addr:street": "Sihlfeldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-09",
+    "cuisine": "indian",
+    "name": "Sher-E-Punjab",
+    "opening_hours": "Mo-Sa 10:00-22:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.punjab.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5167916,
+      47.3745738
+    ]
+  },
+  "id": "node-2080866145"
+}

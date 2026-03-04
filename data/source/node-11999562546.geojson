@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/11999562546",
+    "addr:floor": "EG",
+    "addr:housenumber": "66",
+    "addr:street": "Konradstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-12",
+    "cuisine": "south_tyrolean",
+    "level": "0",
+    "name": "fink's",
+    "opening_hours": "Mo-Fr 11:30-13:45,17:30-21:45; Sa 11:30-13:30,17:30-21:30; Su off",
+    "phone": "+41 44 271 26 42",
+    "website": "https://finks.eu/zurich",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339618,
+      47.3817769
+    ]
+  },
+  "id": "node-11999562546"
+}

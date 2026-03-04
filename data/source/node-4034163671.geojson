@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4034163671",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8004",
+    "addr:street": "Europaallee",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "check_date": "2025-05-17",
+    "cuisine": "international",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "sihlpost@hiltl.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Hiltl Sihlpost",
+    "opening_hours": "Mo-We 07:00-22:00; Th,Fr 07:00-23:00; Sa 07:00-22:00; Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 344 11 11",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.hiltl.ch/de/standorte/sihlpost",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357174,
+      47.3777357
+    ]
+  },
+  "id": "node-4034163671"
+}

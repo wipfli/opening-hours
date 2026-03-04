@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9082340503",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "level": "0",
+    "name": "Sushi Shin",
+    "opening_hours": "Mo,Sa 09:00-22:00; Tu-Fr 11:30-14:30,18:00-22:30; PH closed",
+    "operator": "Omakase",
+    "website": "https://www.sushishin.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5413961,
+      47.370499
+    ]
+  },
+  "id": "node-9082340503"
+}

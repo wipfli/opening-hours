@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/299610695",
+    "amenity": "restaurant",
+    "check_date": "2024-08-14",
+    "cuisine": "mexican",
+    "name": "Don Weber",
+    "opening_hours": "Mo-Fr 11:30-24:00, Sa 17:00-24:00, Su 17:00-23:00",
+    "opening_hours:covid19": "Tu-Fr 11:30-24:00; Sa 17:00-24:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-24:00, Su 18:00-23:00",
+    "website": "https://donweber.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5244404,
+      47.3878614
+    ]
+  },
+  "id": "node-299610695"
+}

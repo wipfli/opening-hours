@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/261914358",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "20",
+    "addr:postcode": "8003",
+    "addr:street": "Weststrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-28",
+    "check_date:opening_hours": "2023-09-11",
+    "cuisine": "moroccan;spanish",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "name": "Dar",
+    "opening_hours": "We-Fr 18:00-22:00; Sa,Su 10:00-14:00,18:00-22:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.restaurantdar.com/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5239637,
+      47.3693682
+    ]
+  },
+  "id": "node-261914358"
+}

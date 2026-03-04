@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/261651356",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "24",
+    "addr:postcode": "8032",
+    "addr:street": "Z\u00fcrichbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Oberhof",
+    "opening_hours": "Mo-Fr 10:00-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurant-oberhof.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.553472,
+      47.3734628
+    ]
+  },
+  "id": "node-261651356"
+}

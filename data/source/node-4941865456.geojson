@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4941865456",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "88",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "dachterrasse@hiltl.ch",
+    "indoor_seating": "yes",
+    "level": "3",
+    "name": "Hiltl Dachterrasse",
+    "opening_hours": "Mo-Sa 09:00-22:00; Fr 09:00-24:00; Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 888 88 00",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://hiltl.ch/standorte/uebersicht/#dachterrasse",
+    "wheelchair": "limited",
+    "wheelchair:description": "Durch anruf: Hintereingang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398019,
+      47.3756521
+    ]
+  },
+  "id": "node-4941865456"
+}

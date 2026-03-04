@@ -1,0 +1,6 @@
+The hours are:
+- Tuesday to Saturday: 18:00 - 23:00
+- Thursday and Friday additionally: 11:30 - 14:00
+- Monday and Sunday: Closed
+
+Tu-We 18:00-23:00; Th-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00; Mo off; Su off

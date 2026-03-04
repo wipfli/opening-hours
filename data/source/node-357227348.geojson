@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/357227348",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8004",
+    "addr:street": "Strassburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-09-24",
+    "cuisine": "italian",
+    "name": "Ristorante Bar Certo",
+    "opening_hours": "Mo-Th 09:00-23:00, Fr 09:00-24:00, Sa 12:00-24:00; PH off",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00, Sa 12:00-18:00, Mo-Sa 18:00+",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://casa-certo.ch/",
+    "website:menu": "https://casa-certo.ch/menu",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289743,
+      47.372245
+    ]
+  },
+  "id": "node-357227348"
+}

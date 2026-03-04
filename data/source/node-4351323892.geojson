@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4351323892",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "61",
+    "addr:postcode": "8001",
+    "addr:street": "Talstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich",
+    "name": "Luigia",
+    "opening_hours": "Mo-Th 11:30-14:00,18:00-22:30; Fr 11:30-14:00,18:00-23:00; Sa 12:00-22:30; Su 12:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.luigia.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5355364,
+      47.3704056
+    ]
+  },
+  "id": "node-4351323892"
+}

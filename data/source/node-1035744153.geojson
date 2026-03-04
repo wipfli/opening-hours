@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1035744153",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "64",
+    "addr:postcode": "8004",
+    "addr:street": "M\u00fcllerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-19",
+    "cuisine": "cake;tea;coffee_shop",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "name": "The Sacred",
+    "opening_hours": "Mo-Sa 11:00-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://vegelateria.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5288696,
+      47.3760618
+    ]
+  },
+  "id": "node-1035744153"
+}

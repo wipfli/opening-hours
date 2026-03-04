@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3581352897",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-11-07",
+    "cuisine": "italian",
+    "diet:vegetarian": "no",
+    "name": "La Zagra",
+    "opening_hours": "Mo-Sa 11:30-15:00,18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 550 40 00",
+    "smoking": "outside",
+    "website": "https://www.la-zagra.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5633128,
+      47.3488821
+    ]
+  },
+  "id": "node-3581352897"
+}

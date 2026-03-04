@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5267716256",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8001",
+    "addr:street": "St. Annagasse",
+    "amenity": "restaurant",
+    "check_date": "2024-05-11",
+    "cuisine": "italian",
+    "email": "info@ristorante-ornellaia.ch",
+    "name": "Ornellaia",
+    "opening_hours": "Mo-Sa 11:30-23:30",
+    "opening_hours:kitchen": "Mo-Sa 11:30-14:00, 18:30-22:00",
+    "operator": "Bindella",
+    "phone": "+41 44 212 00 22",
+    "start_date": "2018-04-09",
+    "website": "https://www.ristorante-ornellaia.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q90311837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5376855,
+      47.372457
+    ]
+  },
+  "id": "node-5267716256"
+}

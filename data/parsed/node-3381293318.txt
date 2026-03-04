@@ -1,0 +1,8 @@
+The venue I need is SimSim City on Kronenstrasse in Zürich.
+
+From the website:
+- MO – SA: 11:30-14:00 | 17:30 – 22:00
+
+The website mentions "Current Opening Hours" which could be JavaScript-rendered, but the content appears to be fully extracted with specific hours shown. There's no Sunday hours mentioned, implying it's closed on Sunday.
+
+Mo-Sa 11:30-14:00,17:30-22:00; Su off

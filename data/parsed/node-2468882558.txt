@@ -1,0 +1,9 @@
+Looking at the opening hours from the website:
+
+"MI-FR 11:30-14.30 UND 17:30 – 23:00 UND SA: 16:00 – 23:00 Uhr"
+
+This translates to:
+- Wednesday to Friday: 11:30-14:30 and 17:30-23:00
+- Saturday: 16:00-23:00
+
+We-Fr 11:30-14:30,17:30-23:00; Sa 16:00-23:00

@@ -1,0 +1,9 @@
+Looking at the website content for Les Halles restaurant, I can extract the opening hours:
+
+The website clearly states:
+- Restaurant opening hours: MO-MI (Monday-Wednesday) 11:00-24:00, DO und FR (Thursday-Friday) 11:00-till late, SA (Saturday) 16:00-till late
+- Kitchen hours: MO-FR (Monday-Friday) 11:45-13:45 / 18:00-22:00, SA (Saturday) 18:00-22:00
+
+However, "till late" is not a specific time, which makes it imprecise. The kitchen hours are more specific. Since the instructions require absolute confidence in the correctness of the opening hours string, and "till late" is vague and non-standard for OpenStreetMap format, I cannot be completely certain of the exact closing times for Thursday, Friday, and Saturday.
+
+UNSURE

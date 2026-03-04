@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/485617148",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "88",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "brand": "Stripped Pizza",
+    "check_date": "2025-11-03",
+    "check_date:smoking": "2025-11-03",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "name": "Stripped Pizza",
+    "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-24:00; Su 10:00-22:00",
+    "operator": "Stripped Pizza",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.stripped-pizza.com/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5521363,
+      47.3602524
+    ]
+  },
+  "id": "node-485617148"
+}

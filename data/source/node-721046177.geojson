@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/721046177",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8005",
+    "addr:street": "Fabrikstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-08",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Alpenrose",
+    "opening_hours": "Tu-Fr 11:00-23:00; Sa 17:00-23:30; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurantalpenrose.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.528489,
+      47.3871627
+    ]
+  },
+  "id": "node-721046177"
+}

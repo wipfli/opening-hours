@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270938093",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "1",
+    "addr:place": "Heimplatz",
+    "addr:postcode": "8001",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "diet:non-vegetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Bei Moudi am Kunsthaus",
+    "opening_hours": "Mo-Su 11:00-23:00; PH off",
+    "operator": "Moudis Restaurants & Catering GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 251 53 53",
+    "smoking": "outside",
+    "website": "https://www.beimoudi.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5479863,
+      47.3707349
+    ]
+  },
+  "id": "node-270938093"
+}

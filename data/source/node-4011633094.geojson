@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4011633094",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "24",
+    "addr:postcode": "8004",
+    "addr:street": "Milit\u00e4rstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-03",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Nep",
+    "opening_hours": "Mo-Su 11:00-22:30",
+    "phone": "+41 76 839 68 68",
+    "website": "https://nepasiankitchen.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325272,
+      47.3769216
+    ]
+  },
+  "id": "node-4011633094"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3070546033",
+    "amenity": "restaurant",
+    "check_date": "2024-04-09",
+    "name": "Schmiedhof",
+    "opening_hours": "Mo-Fr 08:00-17:30; PH off",
+    "outdoor_seating": "yes",
+    "website": "https://restaurant.schmiedhof.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5196543,
+      47.3709578
+    ]
+  },
+  "id": "node-3070546033"
+}

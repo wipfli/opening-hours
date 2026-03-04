@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1097023259",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Schiffl\u00e4nde",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "level": "0",
+    "name": "Le C\u00e8dre",
+    "opening_hours": "Mo-Fr 11:30-15:00,18:00-24:00; Sa-Su 11:30-16:00,18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 83 70",
+    "toilets:wheelchair": "no",
+    "website": "https://libanesisch.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444063,
+      47.3686275
+    ]
+  },
+  "id": "node-1097023259"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/656628375",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8004",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "brazilian",
+    "name": "Bossa Nova",
+    "opening_hours": "Tu-Th 18:30-22:00; Fr-Sa 18:30-23:00; Su 12:30-15:00",
+    "website": "https://bossanovasteakhouse.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274942,
+      47.3770748
+    ]
+  },
+  "id": "node-656628375"
+}

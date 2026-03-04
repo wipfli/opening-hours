@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/848938980",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "alt_name": "Burgermeister Langstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Langstrasse",
+    "check_date": "2023-05-23",
+    "cuisine": "burger",
+    "level": "0",
+    "name": "Burgermeister",
+    "old_name": "Broadway;Chopstick;Colosseum",
+    "opening_hours": "Mo-Sa 11:00-23:00, Su 12:00-21:30",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.burger-meister.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5245378,
+      47.3745663
+    ]
+  },
+  "id": "node-848938980"
+}

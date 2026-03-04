@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/632562127",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "40",
+    "addr:postcode": "8006",
+    "addr:street": "Universit\u00e4tstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-05",
+    "check_date:opening_hours": "2023-05-17",
+    "cuisine": "italian",
+    "name": "Ristorante Al Forno da Angelo",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 251 65 77",
+    "website": "https://de-de.facebook.com/RistoranteAlFornoDaAngelo/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5483371,
+      47.3805744
+    ]
+  },
+  "id": "node-632562127"
+}

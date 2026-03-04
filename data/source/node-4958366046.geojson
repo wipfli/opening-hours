@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4958366046",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Capri",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-00:00; Sa-Su 17:30-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 501 23 44",
+    "smoking": "outside",
+    "website": "https://capri.restaurant/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5501478,
+      47.3604176
+    ]
+  },
+  "id": "node-4958366046"
+}

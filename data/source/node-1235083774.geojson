@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1235083774",
+    "amenity": "restaurant",
+    "check_date": "2024-06-14",
+    "cuisine": "regional",
+    "name": "Eichh\u00f6rnli",
+    "opening_hours": "Mo,Su off; Tu-Fr 12:00-14:00,18:30-23:30; Sa 18:30-23:30",
+    "website": "https://www.restaurant-eichhoernli.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.525707,
+      47.3796942
+    ]
+  },
+  "id": "node-1235083774"
+}

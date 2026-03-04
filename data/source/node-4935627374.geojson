@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4935627374",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "159",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "no",
+    "indoor_seating": "yes",
+    "name": "Metzg",
+    "opening_hours": "Mo-Fr 11:30-13:45,18:00-21:45",
+    "outdoor_seating": "no",
+    "phone": "+41 44 422 47 13",
+    "smoking": "no",
+    "website": "http://www.restaurant-metzg.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.556448,
+      47.355851
+    ]
+  },
+  "id": "node-4935627374"
+}

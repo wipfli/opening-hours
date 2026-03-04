@@ -1,0 +1,14 @@
+The website shows:
+- Open Monday, Wednesday, Thursday, Friday, Saturday, Sunday
+- Closed Tuesday
+- Lunch: 11:30-14:00
+- Dinner: 18:00-00:00
+- Brunch Saturday & Sunday: 10:00-15:00
+
+For Saturday and Sunday, brunch runs 10:00-15:00 and dinner 18:00-00:00 (lunch hours may also apply, but brunch seems to replace lunch on weekends).
+
+Let me construct the opening hours:
+- Mo, We-Fr: 11:30-14:00, 18:00-00:00
+- Sa-Su: 10:00-15:00, 18:00-00:00
+
+Mo,We-Fr 11:30-14:00,18:00-00:00; Sa,Su 10:00-15:00,18:00-00:00

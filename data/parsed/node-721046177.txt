@@ -1,0 +1,8 @@
+I found contradicting opening hours for Tuesday to Friday in the website content:
+
+1. First occurrence: "Dienstag bis Freitag 11.30 - 14.00 Uhr / 17.30 - 23.00 Uhr"
+2. Second occurrence: "Dienstag bis Freitag: 11.00 - 14.00 Uhr / 17.30 - 23.00 Uhr"
+
+The lunch opening time differs (11.30 vs 11.00). Since there are contradicting hours for the same days, I cannot confidently provide a single correct opening hours string.
+
+UNSURE

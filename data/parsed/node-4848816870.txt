@@ -1,0 +1,5 @@
+I notice a slight contradiction: the main content says Monday-Friday 07:00-23:00 and Saturday 07:00-24:00, but the footer says Monday-Saturday 07:00-23:00. There's also no mention of Sunday hours. Let me analyze this carefully.
+
+The footer seems to be a summary and may be slightly inaccurate compared to the more detailed breakdown. The detailed section specifically differentiates Saturday (07:00-24:00) from weekdays. However, these are contradicting hours for Saturday.
+
+UNSURE

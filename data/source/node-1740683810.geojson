@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1740683810",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8001",
+    "addr:street": "Sechsel\u00e4utenplatz",
+    "amenity": "restaurant",
+    "check_date": "2024-02-06",
+    "name": "Brasserie Schiller",
+    "note": "Durch das Parkhaus Op\u00e9ra ist der Theaterplatz weggefallen und diese Geb\u00e4ude haben eine neue Adresse erhalten. Siehe http://www.stadt-zuerich.ch/ted/de/index/geoz/adressierung/strasssennamen.html",
+    "opening_hours": "Mo-Sa 11:30-24:00; Su 10:00-24:00",
+    "operator": "Candrian Catering",
+    "website": "https://www.brasserie-schiller.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5471561,
+      47.3654045
+    ]
+  },
+  "id": "node-1740683810"
+}

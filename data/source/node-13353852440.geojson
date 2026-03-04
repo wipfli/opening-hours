@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/13353852440",
+    "addr:housenumber": "9",
+    "addr:street": "Kanonengasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-02",
+    "check_date:opening_hours": "2026-02-02",
+    "cuisine": "african",
+    "name": "Cindys Bistro",
+    "opening_hours": "Mo-We 11:00-24:00, Th-Su 11:00-04:00",
+    "website": "https://cindys-bistro.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5291308,
+      47.3772862
+    ]
+  },
+  "id": "node-13353852440"
+}

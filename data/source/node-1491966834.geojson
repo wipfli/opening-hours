@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1491966834",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8002",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-01-21",
+    "cuisine": "french",
+    "indoor_seating": "yes",
+    "name": "Le Rendez-Vous",
+    "opening_hours": "Mo-Fr 10:30-14:00, 18:00-24:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 201 24 20",
+    "website": "https://restaurant-le-rendez-vous.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5321082,
+      47.3654301
+    ]
+  },
+  "id": "node-1491966834"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4644391123",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "58",
+    "addr:postcode": "8003",
+    "addr:street": "Sihlfeldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-17",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "LILY'S Factory",
+    "opening_hours": "Mo-Sa 11:00-24:00; Su 11:00-22:30",
+    "phone": "+41 44 267 34 00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://lilys.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5169163,
+      47.3754023
+    ]
+  },
+  "id": "node-4644391123"
+}

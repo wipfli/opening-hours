@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1536879938",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "331",
+    "addr:postcode": "8038",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-09-23",
+    "cuisine": "asian",
+    "email": "wollishofen@peking-garden.ch",
+    "name": "Peking Garden",
+    "opening_hours": "Mo-Su,PH 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 228 78 78",
+    "takeaway": "yes",
+    "website": "https://www.peking-garden.ch/pg_restaurant/zuerich-wollishofen/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5334884,
+      47.3474258
+    ]
+  },
+  "id": "node-1536879938"
+}

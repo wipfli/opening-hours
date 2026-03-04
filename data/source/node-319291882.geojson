@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/319291882",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "457",
+    "addr:postcode": "8003",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-15",
+    "contact:facebook": "ookiZH",
+    "contact:instagram": "ooki.pavillon",
+    "cuisine": "japanese",
+    "email": "pavillon@ooki.tokyo",
+    "indoor_seating": "yes",
+    "name": "Ooki Pavillon Letzigrund",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-00:00; Sa 17:30-00:00; Su 17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 400 29 29",
+    "reservation": "no",
+    "takeaway": "yes",
+    "website": "https://pavillon.ooki.tokyo",
+    "website:menu": "https://pavillon.ooki.tokyo/data/files/EN_Ooki_Pavillon_MenueInhalt_20241007.pdf",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5040594,
+      47.3807554
+    ]
+  },
+  "id": "node-319291882"
+}

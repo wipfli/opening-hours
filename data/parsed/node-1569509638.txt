@@ -1,0 +1,9 @@
+Looking at the opening hours listed on the website:
+
+- Montag, Mittwoch bis Samstag: 8:30 — 23:00
+- Dienstag: 17:30 — 23:00
+- Sonntag: 12:30 — 23:00
+
+Converting to OpenStreetMap format:
+
+Mo,We-Sa 08:30-23:00; Tu 17:30-23:00; Su 12:30-23:00

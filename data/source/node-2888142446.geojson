@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2888142446",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8001",
+    "addr:street": "Stampfenbachstrasse",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "check_date": "2023-11-14",
+    "cuisine": "italian",
+    "highchair": "yes",
+    "name": "Commihalle",
+    "opening_hours": "Mo-Fr 09:00-24:00; Sa-Su 11:00-24:00",
+    "operator": "Restaurants Commercio-Piccadilly",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.commihalle.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438498,
+      47.3777853
+    ]
+  },
+  "id": "node-2888142446"
+}

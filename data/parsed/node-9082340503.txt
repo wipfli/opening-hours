@@ -1,0 +1,15 @@
+The restaurant is open Thursday to Monday, evenings only, with two seatings (18:00 and 20:45, last order 21:00). Closed Tuesday and Wednesday.
+
+Th-Mo 18:00-23:15
+
+Wait, I should be more careful. The hours given are first seating 18:00, second seating 20:45, last order 21:00. The actual closing time isn't explicitly stated, but last order is 21:00 and guests should allow 2.5 hours, so closing would be around 23:30. However, since the exact closing time isn't explicitly stated, I should use what's available. The opening time is 18:00 and last order is 21:00, but service continues after last order.
+
+Since I don't have a definitive closing time, I'll use 18:00 as open and approximate closing. Actually, the last order is 21:00 and experience is 2.5 hours, so ~23:30. But this is speculation.
+
+I'll use the known times: opens 18:00, and since last order is 21:00 with 2.5 hours dining, approximately 23:30 close. But I'm not confident in the closing time.
+
+I'll go with what's explicitly stated regarding days and opening time, noting Tuesday and Wednesday are off.
+
+Th-Mo 18:00-23:30; Tu-We off
+
+UNSURE

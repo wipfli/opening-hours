@@ -1,0 +1,9 @@
+The website shows hours for multiple locations. The OpenStreetMap tags specify the restaurant without a specific branch name. Since there are multiple locations with different hours, I need to determine which one matches "Ayverdi's" generically.
+
+The site shows:
+- Affoltern, Oerlikon, Wiedikon, Zug: Mo-Th 11:00-22:00, Fr-Sa 11:00-23:00, Su 11:00-22:00
+- Bahnhofplatz Zürich: Mo-Th 11:00-23:00, Fr-Sa 11:00-04:00, Su 11:30-21:30
+
+Without knowing which specific location this OSM entry refers to, and since there are multiple locations with different hours, I should return UNSURE.
+
+UNSURE

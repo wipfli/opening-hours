@@ -1,0 +1,13 @@
+Based on the website content provided, I can only find partial opening hours information:
+
+- All You Can Eat Sushi Lunch is available Tuesday-Friday from 11:30
+
+However, this appears to be only for a specific service (lunch), and I don't have complete information about:
+- Regular restaurant opening hours
+- Evening/dinner hours
+- Weekend hours
+- Whether the restaurant is closed on certain days
+
+Since I cannot confidently determine the complete opening hours for the restaurant with certainty, I cannot provide a reliable OpenStreetMap opening_hours string.
+
+UNSURE

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/638966009",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "82",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "cuisine": "fish",
+    "name": "Bianchi",
+    "opening_hours": "Mo-Sa 11:30-23:30; Su 11:30-22:30",
+    "operator": "Bindella",
+    "phone": "+41 44 262 98 44",
+    "website": "https://www.bindella.ch/de/bianchi.html",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5430124,
+      47.3735273
+    ]
+  },
+  "id": "node-638966009"
+}

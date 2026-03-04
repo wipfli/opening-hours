@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4958439555",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8008",
+    "addr:street": "Zollikerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Giusi's",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://giusis-ristorante-pizzeria-2.jimdosite.com/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545452,
+      47.3637686
+    ]
+  },
+  "id": "node-4958439555"
+}

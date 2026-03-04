@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3352544250",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "71",
+    "addr:postcode": "8005",
+    "addr:street": "Viaduktstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-08-08",
+    "email": "info@restaurant-viadukt.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Viadukt",
+    "opening_hours": "Mo-Fr 08:00-24:00; Sa 09:00-24:00; Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 204 18 99",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.restaurant-viadukt.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5220289,
+      47.3861426
+    ]
+  },
+  "id": "node-3352544250"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/13038863684",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "31",
+    "addr:postcode": "8001",
+    "addr:street": "Sihlstrasse",
+    "amenity": "restaurant",
+    "name": "Conrad",
+    "opening_hours": "Mo-Fr 11:45-14:00,18:00-22:00; Sa 18:00-22:00; Su 11:45-22:00",
+    "phone": "+41 44 225 91 91",
+    "website": "info@glockenhof.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5364627,
+      47.3729172
+    ]
+  },
+  "id": "node-13038863684"
+}

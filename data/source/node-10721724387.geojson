@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10721724387",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8001",
+    "addr:street": "Schweizergasse",
+    "amenity": "restaurant",
+    "brand": "Segm\u00fcller Collection",
+    "cuisine": "french",
+    "level": "5",
+    "name": "Roof Garden",
+    "opening_hours": "Mo-Fr 11:00-20:00, Sa 10:00-20:00; PH off",
+    "operator": "Carlton Z\u00fcrich AG",
+    "outdoor_seating": "yes",
+    "website": "https://www.roofgarden.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5378026,
+      47.3759329
+    ]
+  },
+  "id": "node-10721724387"
+}

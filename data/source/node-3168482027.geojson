@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3168482027",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Thai Erawan",
+    "opening_hours": "Mo-Fr 11:00-15:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://thaierawan-restaurant.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5366583,
+      47.3694613
+    ]
+  },
+  "id": "node-3168482027"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6828843870",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "49",
+    "addr:postcode": "8004",
+    "addr:street": "Zypressenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-17",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "Machida Shoten",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "website": "https://ch.machidashoten.com/",
+    "website:menu": "https://ch.machidashoten.com/pdf/menu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5127223,
+      47.3774336
+    ]
+  },
+  "id": "node-6828843870"
+}

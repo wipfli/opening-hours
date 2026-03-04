@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9178495731",
+    "amenity": "restaurant",
+    "capacity": "200",
+    "diet:vegetarian": "no",
+    "indoor_seating": "yes",
+    "name": "Fischergarten",
+    "opening_hours": "Mar-Oct: Mo-Su,PH 11:30-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.fischerstube-zuerich.ch/fischerdorf",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5511478,
+      47.3529697
+    ]
+  },
+  "id": "node-9178495731"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4364350638",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "3",
+    "addr:postcode": "8001",
+    "addr:street": "Sihlporte",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich",
+    "check_date": "2023-10-10",
+    "cuisine": "mexican",
+    "level": "0",
+    "name": "Cartell",
+    "opening_hours": "Tu-Sa 11:30-22:00",
+    "operator": "Cartell Gastro",
+    "phone": "+41 43 558 28 27",
+    "website": "https://www.cartell.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339208,
+      47.3726072
+    ]
+  },
+  "id": "node-4364350638"
+}

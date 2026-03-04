@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4070417589",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8004",
+    "addr:street": "Molkenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-10-29",
+    "indoor_seating": "yes",
+    "name": "Bank",
+    "opening_hours": "Mo 10:00-23:00; Tu-Sa 09:00-24:00; Su 09:00-22:00",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.bankzuerich.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5264559,
+      47.3764213
+    ]
+  },
+  "id": "node-4070417589"
+}

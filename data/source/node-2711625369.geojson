@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2711625369",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8001",
+    "addr:street": "Glockengasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "steak_house",
+    "fax": "+41 44 212 32 35",
+    "name": "Churrasco Steakhouse & Bar",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 221 11 44",
+    "website": "https://churrasco.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5402773,
+      47.3719325
+    ]
+  },
+  "id": "node-2711625369"
+}

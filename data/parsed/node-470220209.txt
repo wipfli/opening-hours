@@ -1,0 +1,5 @@
+I can see the website mentions "ÖFFNUNGSZEITEN" (opening hours) as a section header, but the actual opening hours content is not provided in the text you've shared. The page shows "Heute geschlossen" (Closed today), but this appears to be dynamic content showing only the current day's status.
+
+Since the actual opening hours table/details are not visible in the provided website content, and there are signs that the page uses JavaScript to display current day information only:
+
+UNSURE

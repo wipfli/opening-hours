@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/334300587",
+    "addr:housenumber": "43",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-24",
+    "cuisine": "regional;swiss",
+    "name": "Aargauerhof",
+    "opening_hours": "Mo,We-Th,Sa 11:00-23:00; Tu,Fr 10:00-23:00; Su 16:00-22:00",
+    "operator": "Beffa Gastro",
+    "phone": "+41 44 242 46 16",
+    "website": "https://restaurant-aargauerhof.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526169,
+      47.3773665
+    ]
+  },
+  "id": "node-334300587"
+}

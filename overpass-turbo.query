@@ -1,0 +1,16 @@
+/*
+  Overpass Turbo – Nodes with opening_hours and a website URL
+  The query works on the “Map view” (current viewport).
+*/
+
+[out:json][timeout:25];
+
+// fetch nodes in the current map bounds that have both tags
+(
+  node["opening_hours"]["website"]["amenity"="restaurant"]({{bbox}});
+);
+
+// output the results
+out body;
+>;
+out skel qt;

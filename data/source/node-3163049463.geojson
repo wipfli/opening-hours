@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3163049463",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "8004",
+    "addr:street": "Morgartenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-09-24",
+    "cuisine": "greek",
+    "name": "MAZI im Morgarten",
+    "opening_hours": "Mo-Fr 11:00-14:00, 16:00-24:00; Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 242 86 66",
+    "website": "https://mazi-morgarten.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5278588,
+      47.3714815
+    ]
+  },
+  "id": "node-3163049463"
+}

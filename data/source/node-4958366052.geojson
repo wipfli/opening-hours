@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4958366052",
+    "amenity": "restaurant",
+    "check_date": "2023-09-24",
+    "cuisine": "asian;sushi",
+    "name": "Yen's",
+    "opening_hours": "Tu-Fr 11:30-14:00, Tu-Th 18:00-23:00, Fr-Su 17:30-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.yens-restaurant.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.52865,
+      47.371199
+    ]
+  },
+  "id": "node-4958366052"
+}

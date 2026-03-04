@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10162798340",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Bleicherweg",
+    "amenity": "restaurant",
+    "check_date": "2025-11-04",
+    "cuisine": "european",
+    "name": "AURA 800\u00b0 Grill & Bar",
+    "opening_hours": "Mo-Fr 11:45-24:00; Sa 18:00-24:00; Su off",
+    "website": "https://www.aura-zurich.ch/grill/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.537791,
+      47.3686081
+    ]
+  },
+  "id": "node-10162798340"
+}

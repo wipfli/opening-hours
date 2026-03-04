@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/317774611",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "8001",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "cuisine": "bistro",
+    "indoor_seating": "yes",
+    "name": "Karl der Grosse",
+    "opening_hours": "Mo 09:00-17:00; Tu-Fr 09:00-23:00; Sa 11:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.stadt-zuerich.ch/karldergrosse",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445846,
+      47.3697813
+    ]
+  },
+  "id": "node-317774611"
+}

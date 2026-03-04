@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9112683047",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-01",
+    "cuisine": "sushi",
+    "name": "Datto",
+    "opening_hours": "Mo-Sa 10:30-22:30",
+    "website": "https://hongkongfoodparadise.ch/store_locator/sihlcity/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5232322,
+      47.3585135
+    ]
+  },
+  "id": "node-9112683047"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4579719494",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8001",
+    "addr:street": "Museumstrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "email": "info@restaurantspitz.ch",
+    "name": "Spitz",
+    "name:de": "Spitz",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-24:00; Sa 17:00-24:00",
+    "phone": "+41 44 221 94 77",
+    "toilets:wheelchair": "yes",
+    "website": "https://restaurantspitz.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5409931,
+      47.3789138
+    ]
+  },
+  "id": "node-4579719494"
+}

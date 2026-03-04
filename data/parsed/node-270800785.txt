@@ -1,0 +1,3 @@
+The website shows "Heute geöffnet von 11:00 bis 23:00 Uhr" which means "Today open from 11:00 to 23:00". However, this only shows today's hours, which is a common pattern for JavaScript-based dynamic content that displays only the current day's hours. The website doesn't show the full weekly schedule.
+
+UNSURE

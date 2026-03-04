@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370841402",
+    "amenity": "restaurant",
+    "check_date": "2025-08-04",
+    "check_date:opening_hours": "2025-08-04",
+    "indoor_seating": "yes",
+    "name": "Raclette Factory",
+    "opening_hours": "Mo-Th 11:00-22:00; Sa,Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.raclette-factory.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439299,
+      47.3723807
+    ]
+  },
+  "id": "node-370841402"
+}

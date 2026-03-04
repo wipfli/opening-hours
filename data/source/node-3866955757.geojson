@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3866955757",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "230",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-09-17",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Grand Caf\u00e9 Lochergut",
+    "opening_hours": "Mo-We 07:30-23:00; Th-Fr 07:30-24:00; Sa 09:00-24:00; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 212 13 14",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.lochergut.net/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5169598,
+      47.3757826
+    ]
+  },
+  "id": "node-3866955757"
+}

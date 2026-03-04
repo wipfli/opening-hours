@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4833061567",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "124",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "alt_name": "Toto",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Tot\u00f2",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa-Su 12:00-22:00",
+    "operator": "H\u00f6schgass Gastro",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.ristorante-toto.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5538491,
+      47.3580896
+    ]
+  },
+  "id": "node-4833061567"
+}

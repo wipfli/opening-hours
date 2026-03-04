@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2915847505",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-23",
+    "cuisine": "vietnamese",
+    "name": "PHO Vietnam",
+    "opening_hours": "Mo-Th 11:00-14:00,16:30-22:00; Fr 11:00-14:00,17:00-23:00; Sa 11:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "http://www.pho-vietnam.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5244837,
+      47.3749537
+    ]
+  },
+  "id": "node-2915847505"
+}

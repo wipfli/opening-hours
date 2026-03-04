@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2710664809",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8004",
+    "addr:street": "Hardplatz",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "D'Ouro",
+    "opening_hours": "Tu-Th 16:00-23:00, Fr-Sa 16:00-24:00",
+    "website": "https://www.douro-tapas.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5141198,
+      47.3824288
+    ]
+  },
+  "id": "node-2710664809"
+}

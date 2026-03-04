@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5497101350",
+    "access": "yes",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "fixme": "check opening hours again after reopening on 2025-08-11",
+    "name": "Mensa UZH Zentrum Mercato (Untere Mensa)",
+    "opening_hours": "closed \"Closed for renovation in 2025, see website, open from August 11 again\"",
+    "opening_hours:kitchen": "Mo-Fr 11:00-13:30",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.mensa.uzh.ch/de/menueplaene/zentrum-mercato"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5482495,
+      47.3738499
+    ]
+  },
+  "id": "node-5497101350"
+}

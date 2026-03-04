@@ -1,0 +1,12 @@
+Looking at the opening hours section:
+
+- Tuesday-Thursday: 11:30am-13:30pm and 18:30pm-00am
+- Friday-Saturday: 18:30pm-01am
+- Sunday-Monday: closed
+
+Converting to OSM format:
+- Tu-Th: 11:30-13:30, 18:30-00:00
+- Fr-Sa: 18:30-01:00
+- Su-Mo: off
+
+Tu-Th 11:30-13:30,18:30-24:00; Fr-Sa 18:30-01:00; Su-Mo off

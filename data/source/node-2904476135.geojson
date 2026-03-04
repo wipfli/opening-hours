@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2904476135",
+    "addr:housenumber": "83",
+    "addr:street": "Heinrichstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-12-02",
+    "check_date:opening_hours": "2025-07-27",
+    "contact:email": "info@lacontrada.ch",
+    "name": "La Contrada",
+    "opening_hours": "Tu-Fr 09:30-14:00,17:30-00:30, Sa,Su 17:30-00:30",
+    "phone": "+41442725090",
+    "website": "https://www.lacontrada.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295929,
+      47.384832
+    ]
+  },
+  "id": "node-2904476135"
+}

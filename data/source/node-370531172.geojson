@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370531172",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8001",
+    "addr:street": "N\u00e4gelihof",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "M\u00e8re Catherine",
+    "opening_hours": "Mo-Fr 11:30-15:00, 17:30-23:00; Sa 11:30-23:00; Su closed",
+    "operator": "Restaurants Commercio-Piccadilly",
+    "outdoor_seating": "yes",
+    "website": "https://www.mere-catherine.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.543806,
+      47.3708655
+    ]
+  },
+  "id": "node-370531172"
+}

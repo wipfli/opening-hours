@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4451656418",
+    "amenity": "restaurant",
+    "name": "chez Smith",
+    "opening_hours": "Mo-Fr 11:30-24:00; Sa 16:00-01:00; Su 10:00-22:00",
+    "phone": "+41 43 333 04 53",
+    "toilets:wheelchair": "yes",
+    "website": "https://chez-smith.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5146383,
+      47.3614005
+    ]
+  },
+  "id": "node-4451656418"
+}

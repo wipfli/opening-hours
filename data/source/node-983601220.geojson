@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/983601220",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "83",
+    "addr:postcode": "8001",
+    "addr:street": "Talstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-10",
+    "cuisine": "asian",
+    "name": "Long Huang",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa 11:00-22:00",
+    "operator": "Suan Long Enge",
+    "phone": "+41 43 211 02 07",
+    "website": "https://longhuang.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Eingang \u00fcber Terasse von hinten"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5340237,
+      47.372174
+    ]
+  },
+  "id": "node-983601220"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9844600412",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8045",
+    "addr:street": "Wolframplatz",
+    "amenity": "restaurant",
+    "name": "La Lup",
+    "opening_hours": "Mo-Th 07:00-23:00; Fr 07:00-24:00; Sa 08:00-24:00; Su 08:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 347 49 38",
+    "website": "https://lalup.ch/zurich-wolfram/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5221221,
+      47.3625417
+    ]
+  },
+  "id": "node-9844600412"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2341965691",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8001",
+    "addr:street": "Werdm\u00fchlestrasse",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Black Tap",
+    "opening_hours": "Su,Mo 11:30-22:00; Tu-Sa 11:30-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://blacktap.com/location/zurich/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.539532,
+      47.3749062
+    ]
+  },
+  "id": "node-2341965691"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/803245796",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8004",
+    "addr:street": "Nietengasse",
+    "amenity": "restaurant",
+    "check_date": "2023-09-29",
+    "name": "Gamper",
+    "opening_hours": "We 12:00-14:00, 18:00-22:00; Tu 12:00-14:00, 18:00-23:00; Fr 12:00-14:00, 17:00-24:00; Sa 16:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.gamper-restaurant.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5250934,
+      47.3791312
+    ]
+  },
+  "id": "node-803245796"
+}

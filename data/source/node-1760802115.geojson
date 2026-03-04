@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1760802115",
+    "addr:housenumber": "14",
+    "addr:postcode": "8004",
+    "addr:street": "Freisch\u00fctzgasse",
+    "amenity": "restaurant",
+    "capacity": "150",
+    "check_date:opening_hours": "2022-09-01",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Kennedy's Irish Pub",
+    "opening_hours": "Mo-Th 11:30-24:00; Fr-Sa 11:30-24:00+; Su 13:00-24:00",
+    "opening_hours:kitchen": "Mo-Sa 11:30-22:00; Su 13:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "theme": "irish",
+    "toilets:wheelchair": "no",
+    "website": "https://www.kennedys.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5332076,
+      47.3773415
+    ]
+  },
+  "id": "node-1760802115"
+}

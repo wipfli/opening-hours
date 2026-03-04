@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/312580271",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "197",
+    "addr:postcode": "8005",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-24",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "name": "LILY'S",
+    "opening_hours": "Mo-Sa 11:00-24:00; Su 12:00-22:30",
+    "payment:postfinance_card": "yes",
+    "phone": "+41 44 440 18 85",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://lilys.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5296036,
+      47.3825398
+    ]
+  },
+  "id": "node-312580271"
+}

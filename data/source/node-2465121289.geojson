@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2465121289",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "8005",
+    "addr:street": "Geroldstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-09-11",
+    "check_date:opening_hours:url": "2023-09-11",
+    "cuisine": "italian",
+    "name": "Rosso",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00,18:00-00:30; Sa 18:00-00:30; Su 17:30-00:30",
+    "opening_hours:url": "https://restaurant-rosso.ch/oeffnungszeiten/",
+    "phone": "+41 43 818 22 54",
+    "website": "https://www.restaurant-rosso.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5183169,
+      47.3854018
+    ]
+  },
+  "id": "node-2465121289"
+}

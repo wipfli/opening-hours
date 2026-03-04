@@ -1,0 +1,12 @@
+Looking at the opening hours section:
+
+RESTAURANT:
+- Mo-Fr: 11:30 - 14:00 | 18:00 - 23:30
+- Saturday: 18:00 - 23:30
+- Sunday: geschlossen (closed)
+
+But there's also a "Nouveautés" notice saying "Sonntags - geöffnet ab 17:30" (Sundays - open from 17:30), which contradicts the listed Sunday hours of "geschlossen."
+
+This is a contradiction between the main hours listed and the news/update notice.
+
+UNSURE

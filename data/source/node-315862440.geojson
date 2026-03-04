@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/315862440",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "163",
+    "addr:postcode": "8004",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "name": "EquiTable",
+    "old_name": "Sankt Meinrad",
+    "opening_hours": "Tu-Sa 18:30-24:00",
+    "phone": "+41 43 534 82 77",
+    "website": "https://www.equi-table.ch",
+    "wikidata": "Q90309502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5211491,
+      47.3778609
+    ]
+  },
+  "id": "node-315862440"
+}

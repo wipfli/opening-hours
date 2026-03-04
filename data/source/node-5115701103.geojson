@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5115701103",
+    "amenity": "restaurant",
+    "name": "Leafs Restaurant",
+    "opening_hours": "Mo-Fr 11:30-15:00, 18:30-23:30; Sa 12:00-15:00, 18:00-23:30; Su 12:00-15:00, 18:00-22:30",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:45, 18:30-21:30; Sa-Su 12:00-13:45, 18:30-21:30",
+    "outdoor_seating": "yes",
+    "website": "https://engimatt.ch/de/leafs/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5247174,
+      47.3595759
+    ]
+  },
+  "id": "node-5115701103"
+}

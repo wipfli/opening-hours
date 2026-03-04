@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6680755386",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8005",
+    "addr:street": "Fierzgasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-21",
+    "cuisine": "afghan",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Afghan Anar",
+    "opening_hours": "Mo-Fr 11:30-23:00; Sa 18:00-23:30; Su off",
+    "outdoor_seating": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 44 223 17 87",
+    "website": "https://www.afghananar.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5318712,
+      47.3840078
+    ]
+  },
+  "id": "node-6680755386"
+}

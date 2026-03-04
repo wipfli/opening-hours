@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4915582736",
+    "amenity": "restaurant",
+    "cuisine": "american;burger",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Public Burger",
+    "opening_hours": "Mo-Th 09:00-22:00, Fr-Sa 09:00-23:00",
+    "opening_hours:kitchen": "Mo-Th 09:00-21:30, Fr-Sa 09:00-22:00",
+    "operator": "Candrian Catering",
+    "outdoor_seating": "yes",
+    "website": "https://www.public-burger.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5234939,
+      47.3580937
+    ]
+  },
+  "id": "node-4915582736"
+}

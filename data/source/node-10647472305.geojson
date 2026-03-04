@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10647472305",
+    "amenity": "restaurant",
+    "check_date": "2024-06-07",
+    "cuisine": "taiwanese",
+    "name": "Simon Says Taste Taiwan",
+    "opening_hours": "Mo off; Tu-Fr 11:30-13:30,18:00-21:15; Sa 11:30-21:45; Su 17:30-21:00",
+    "phone": "+41 44 241 63 88",
+    "website": "https://simonsaystastetaiwan.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277431,
+      47.3787381
+    ]
+  },
+  "id": "node-10647472305"
+}

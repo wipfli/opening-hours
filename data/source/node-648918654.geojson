@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/648918654",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8001",
+    "addr:street": "Bleicherweg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Coco Grill & Bar",
+    "not:brand:wikidata": "Q65084369",
+    "opening_hours": "Mo-Fr 11:30-14:30, Mo-Sa 17:00-24:00",
+    "operator": "Pumpstation Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 211 98 98",
+    "website": "https://www.restaurant-coco.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5384389,
+      47.3689525
+    ]
+  },
+  "id": "node-648918654"
+}

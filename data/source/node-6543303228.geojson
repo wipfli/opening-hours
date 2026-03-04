@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6543303228",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "298",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-09-17",
+    "cuisine": "italian",
+    "diet:gluten_free": "only",
+    "indoor_seating": "yes",
+    "name": "Gran\u00f2",
+    "opening_hours": "Tu-Sa 18:00-22:00",
+    "phone": "+41 44 401 11 99",
+    "start_date": "2024-02-29",
+    "website": "https://www.gra-no.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5132636,
+      47.3771838
+    ]
+  },
+  "id": "node-6543303228"
+}

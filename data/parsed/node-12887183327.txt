@@ -1,0 +1,12 @@
+Looking at the opening hours, there are two different schedules with a transition date:
+
+**Until 28.02.2026:**
+- Tuesday to Friday: 11:30–14:00 and 18:00–00:00
+- Saturday: 18:00–00:00
+
+**From 02.03.2026 onwards:**
+- Monday to Sunday: 18:00–00:00
+
+Since the transition date is in the near future (March 2, 2026), I need to decide which to use. The current hours (until Feb 28, 2026) are the active ones as of now, but the future hours are also specified. I'll represent the current schedule since that's what's active.
+
+Tu-Fr 11:30-14:00,18:00-24:00; Sa 18:00-24:00

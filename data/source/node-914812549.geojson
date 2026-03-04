@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/914812549",
+    "addr:housenumber": "19",
+    "addr:street": "B\u00e4ckerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-09-24",
+    "cuisine": "asian",
+    "name": "Sweet Basil",
+    "opening_hours": "Mo-Th 11:00-14:00,18:30-23:00;Fr 11:30-14:30,18:00-23:30;Sa 18:00-23:30;PH closed",
+    "phone": "+41 44 240 33 55",
+    "website": "https://www.sweet-basil.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295536,
+      47.3743454
+    ]
+  },
+  "id": "node-914812549"
+}

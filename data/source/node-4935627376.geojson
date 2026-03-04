@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4935627376",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "154",
+    "addr:postcode": "8008",
+    "addr:street": "Dufourstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-11-02",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "T\u00fcfenegg",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-tuefenegg.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5541539,
+      47.3553163
+    ]
+  },
+  "id": "node-4935627376"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2140368471",
+    "amenity": "restaurant",
+    "check_date": "2025-09-25",
+    "cuisine": "chinese",
+    "name": "Bamboo Inn",
+    "opening_hours": "Tu-Sa 11:45-14:00,18:00-22:00; Su 11:45-14:00; Mo off",
+    "website": "https://bamboo-inn.ch/",
+    "website:menu": "https://bamboo-inn.ch/menu"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5472423,
+      47.3804786
+    ]
+  },
+  "id": "node-2140368471"
+}

@@ -1,0 +1,12 @@
+Looking at the opening hours:
+
+- MO bis FR: 11.30 - 14.00 Uhr (Monday to Friday lunch)
+- MO bis SA: ab 19.00 Uhr (Monday to Saturday from 19:00)
+
+The evening closing time is not explicitly stated. "ab 19.00 Uhr" means "from 19:00" without a specified closing time. This is common for restaurants that stay open until late. However, I need to note that Sunday appears to be closed entirely, and Saturday only has evening hours.
+
+Since the closing time for the evening is not specified, I'll use open-ended notation:
+
+Mo-Fr 11:30-14:00, Mo-Sa 19:00+
+
+Mo-Fr 11:30-14:00; Mo-Sa 19:00+

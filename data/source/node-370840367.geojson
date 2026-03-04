@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370840367",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-04-24",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Brasserie Louis",
+    "opening_hours": "Su-Th 11:30-23:00; Fr-Sa 11:30-24:00",
+    "operator": "Kramer Gastronomie",
+    "outdoor_seating": "yes",
+    "website": "https://brasserie-louis.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438598,
+      47.3730001
+    ]
+  },
+  "id": "node-370840367"
+}

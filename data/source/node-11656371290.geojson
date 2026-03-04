@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/11656371290",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "36",
+    "addr:postcode": "8002",
+    "addr:street": "Claridenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-27",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Kailash Parbat",
+    "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+    "phone": "+41 43 366 83 45",
+    "website": "https://kailashparbat.ch",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5370912,
+      47.3679576
+    ]
+  },
+  "id": "node-11656371290"
+}

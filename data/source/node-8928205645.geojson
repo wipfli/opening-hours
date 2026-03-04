@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/8928205645",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "160",
+    "addr:postcode": "8008",
+    "addr:street": "Bellerivestrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "check_date:opening_hours": "2025-11-02",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Fischerstube Z\u00fcrihorn",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 250 59 50",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.fischerstube-zuerich.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5505084,
+      47.3530226
+    ]
+  },
+  "id": "node-8928205645"
+}

@@ -1,0 +1,7 @@
+The opening hours are clearly stated as Wednesday to Sunday 11:00–23:00, with Monday and Tuesday as rest days.
+
+We: 11:00-23:00; Th 11:00-23:00; Fr 11:00-23:00; Sa 11:00-23:00; Su 11:00-23:00; Mo off; Tu off
+
+Simplifying:
+
+We-Su 11:00-23:00; Mo,Tu off

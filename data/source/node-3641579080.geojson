@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3641579080",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "57",
+    "addr:postcode": "8032",
+    "addr:street": "Neptunstrasse",
+    "alt_name": "Lemon Grass",
+    "amenity": "restaurant",
+    "cuisine": "chinese;thai;vietnamese",
+    "indoor_seating": "yes",
+    "name": "Lemongrass",
+    "old_name": "Suan Long",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 17:30-22:00",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://restaurant-lemongrass.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5572165,
+      47.3662005
+    ]
+  },
+  "id": "node-3641579080"
+}

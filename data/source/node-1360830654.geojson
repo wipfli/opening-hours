@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1360830654",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "20",
+    "addr:postcode": "8004",
+    "addr:street": "Kanonengasse",
+    "amenity": "restaurant",
+    "check_date": "2025-01-06",
+    "cuisine": "international",
+    "name": "Zeughaushof",
+    "opening_hours": "Mo,We-Fr 09:00-14:00; Tu 09:00-14:00,19:00-24:00; Sa-Su,PH off",
+    "operator": "HOP! Z\u00fcri",
+    "website": "https://www.hopzueri.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5304532,
+      47.3778272
+    ]
+  },
+  "id": "node-1360830654"
+}

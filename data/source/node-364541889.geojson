@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/364541889",
+    "alt_name": "Santa Lucia Hohlstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Hohlstrasse",
+    "brand": "Santa Lucia",
+    "brand:wikidata": "Q110419156",
+    "cuisine": "italian;pizza",
+    "name": "Santa Lucia Subito",
+    "opening_hours": "Mo-Fr 11:30-13:30,17:30-22:00, Sa 17:00-22:00, Su 16:45-21:00",
+    "operator": "Bindella",
+    "reservation": "no",
+    "takeaway": "yes",
+    "website": "https://www.bindella.ch/gastronomie/santa-lucia-hohlstrasse-subito"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5084472,
+      47.3848593
+    ]
+  },
+  "id": "node-364541889"
+}

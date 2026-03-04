@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4833061570",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "74",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "level": "6",
+    "name": "Rooftop",
+    "opening_hours": "Mo-We 09:00-24:00; Th 09:00-02:00; Fr-Sa 09:00-04:00; Su 10:00-22:00",
+    "operator": "Pumpstation Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 400 05 55",
+    "website": "https://www.ooo-zh.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5391076,
+      47.3746638
+    ]
+  },
+  "id": "node-4833061570"
+}

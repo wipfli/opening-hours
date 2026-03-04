@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/11497255969",
+    "addr:postcode": "8003",
+    "amenity": "restaurant",
+    "check_date": "2024-06-24",
+    "contact:facebook": "AMEO.fine.dining.arts",
+    "contact:instagram": "ameo.fine.dining.arts",
+    "cuisine": "french;regional",
+    "email": "info@ameo-restaurant.ch",
+    "level": "0",
+    "name": "Ameo",
+    "opening_hours": "Tu 18:30-23:00; We-Fr 11:30-14:00, 18:30-23:00; Sa 18:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 620 01 80",
+    "website": "https://www.ameo-restaurant.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5197963,
+      47.3716984
+    ]
+  },
+  "id": "node-11497255969"
+}

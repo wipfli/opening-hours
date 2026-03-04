@@ -1,0 +1,3 @@
+Looking at the website content, I can see there's a mention of "Öffnungszeiten" (opening hours) as a navigation link, but the actual opening hours are not displayed in the extracted content. The hours are likely loaded dynamically or on a separate page.
+
+UNSURE

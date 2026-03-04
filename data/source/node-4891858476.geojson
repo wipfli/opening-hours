@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4891858476",
+    "access": "private",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8006",
+    "addr:street": "Scheuchzerstrasse",
+    "amenity": "restaurant",
+    "capacity": "70",
+    "email": "minerva@zfv.ch",
+    "name": "Mensa Institut Minerva",
+    "opening_hours": "Mo-Fr 07:30-15:00",
+    "operator": "ZFV-Unternehmungen",
+    "self_service": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/mensa-minerva"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455532,
+      47.3819656
+    ]
+  },
+  "id": "node-4891858476"
+}

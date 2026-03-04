@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/470220209",
+    "addr:city": "Z\u00fcrich",
+    "addr:postcode": "8005",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Eisenhof",
+    "opening_hours": "Tu-We 18:00-22:30; Th-Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restauranteisenhof.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287302,
+      47.3836276
+    ]
+  },
+  "id": "node-470220209"
+}

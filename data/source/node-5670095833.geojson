@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5670095833",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "La Soupi\u00e8re",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:30-23:00",
+    "phone": "+41 44 218 88 88",
+    "website": "https://www.hotelschweizerhof.com/restaurant-la-soupiere"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5393403,
+      47.3769342
+    ]
+  },
+  "id": "node-5670095833"
+}

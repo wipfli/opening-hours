@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270796495",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "34",
+    "addr:postcode": "8008",
+    "addr:street": "Neum\u00fcnsterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-16",
+    "check_date:smoking": "2025-11-16",
+    "cuisine": "barbecue",
+    "indoor_seating": "yes",
+    "name": "ButchersTable",
+    "opening_hours": "Tu-Sa 11:30-14:00,18:00+",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.williamsbutcherstable.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5603652,
+      47.3615601
+    ]
+  },
+  "id": "node-270796495"
+}

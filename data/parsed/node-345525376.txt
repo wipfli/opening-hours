@@ -1,0 +1,8 @@
+Based on the website content, I can extract the opening hours for Restaurant Beke:
+
+- Tuesday to Friday: 10:00 - 24:00
+- Saturday: 10:00 - 24:00
+- Sunday: 10:00 - 16:00
+- Monday: Closed (not mentioned in the hours)
+
+Tu-Fr 10:00-24:00; Sa 10:00-24:00; Su 10:00-16:00; Mo off

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/321364237",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "34",
+    "addr:postcode": "8092",
+    "addr:street": "Leonhardstrasse",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "-1",
+    "name": "SV Mensa Polyterrasse",
+    "opening_hours": "Mo-Fr 11:15-14:00,17:30-19:30",
+    "outdoor_seating": "no",
+    "phone": "+41 44 632 62 02",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/mensa-polyterrasse.html",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5465369,
+      47.3763026
+    ]
+  },
+  "id": "node-321364237"
+}

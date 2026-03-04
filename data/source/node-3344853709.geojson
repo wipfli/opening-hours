@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3344853709",
+    "addr:housenumber": "33",
+    "addr:street": "Bleicherweg",
+    "amenity": "restaurant",
+    "cuisine": "arab;italian",
+    "indoor_seating": "yes",
+    "name": "Ristorante 33",
+    "opening_hours": "Mo-Fr 09:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://ristorante33.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339821,
+      47.3668389
+    ]
+  },
+  "id": "node-3344853709"
+}

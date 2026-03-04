@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2289533439",
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:place": "Hauptbahnhof, Nordtrakt",
+    "addr:postcode": "8001",
+    "alt_name": "SBB Restaurant Oase chez SBB",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "email": "oase@zfv.ch",
+    "fast_food": "cafeteria",
+    "level": "3",
+    "name": "Restaurant Oase",
+    "note": "15-19S.Fr. f\u00fcr externe. Fr\u00fchst\u00fcck von 06.00 bis 10.00 Uhr Warme K\u00fcche von 10.15 bis 21.00 Uhr",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "opening_hours:kitchen": "Mo-Su 10:15-21:00",
+    "operator": "ZFV-Unternehmungen",
+    "phone": "+41 44 430 00 83",
+    "website": "https://www.zfv.ch/de/essen-gehen/sbb-restaurant-oase",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5408542,
+      47.3782017
+    ]
+  },
+  "id": "node-2289533439"
+}

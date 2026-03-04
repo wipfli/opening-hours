@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/656646048",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "113",
+    "addr:postcode": "8004",
+    "addr:street": "Ankerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "indoor_seating": "yes",
+    "name": "Brasserie Caf\u00e9 de Paris",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:30; Sa 18:00-23:00",
+    "operator": "Prinzenpark AG",
+    "outdoor_seating": "no",
+    "website": "https://www.brasseriedeparis.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527878,
+      47.376328
+    ]
+  },
+  "id": "node-656646048"
+}

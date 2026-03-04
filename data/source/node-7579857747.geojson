@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7579857747",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8002",
+    "addr:street": "Bleicherweg",
+    "alt_name": "Wild Bowls Bleicherweg",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Bleicherweg",
+    "check_date": "2024-02-23",
+    "name": "Wild Bowls",
+    "opening_hours": "Mo-Fr 09:00-15:00; Sa 10:00-15:00",
+    "website": "https://www.wild-bowls.com/locations/bleicherweg/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343157,
+      47.3678059
+    ]
+  },
+  "id": "node-7579857747"
+}

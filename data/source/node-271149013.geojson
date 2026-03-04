@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/271149013",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "19-21",
+    "addr:postcode": "8008",
+    "addr:street": "Falkenstrasse",
+    "alt_name": "Migros Restaurant Stadelhofen",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Stadelhofen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date": "2025-07-15",
+    "cuisine": "international",
+    "delivery": "no",
+    "indoor_seating": "no",
+    "level": "1",
+    "loc_name": "Restaurant Gallery",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "no",
+    "phone": "+41 44 261 46 64",
+    "self_service": "yes",
+    "takeaway": "only",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-stadelhofen",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478765,
+      47.3654324
+    ]
+  },
+  "id": "node-271149013"
+}

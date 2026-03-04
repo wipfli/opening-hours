@@ -1,0 +1,3 @@
+The website shows hours for each day. Saturday and Sunday are "By Appointment" only, so those must be excluded.
+
+Mo-Fr 09:00-00:00

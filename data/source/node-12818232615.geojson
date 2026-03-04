@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/12818232615",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8005",
+    "addr:street": "Gasometerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian;indian;burmese;chinese",
+    "diet:vegan": "yes",
+    "name": "Borderless Kitchen popup",
+    "opening_hours": "We-Su 18:00-22:00",
+    "website": "https://www.borderlesskitchen.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5284303,
+      47.3837006
+    ]
+  },
+  "id": "node-12818232615"
+}

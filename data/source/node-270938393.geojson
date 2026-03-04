@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270938393",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "M\u00fcnsterhof",
+    "alt_name": "Wirtsstube M\u00fcnsterh\u00f6fli",
+    "amenity": "restaurant",
+    "name": "M\u00fcnsterh\u00f6fli",
+    "old_name": "M\u00fcnsterhof",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-24:00, Sa 11:30-24:00",
+    "operator": "Pumpstation Gastro",
+    "website": "https://www.muensterhoefli.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403598,
+      47.3700175
+    ]
+  },
+  "id": "node-270938393"
+}

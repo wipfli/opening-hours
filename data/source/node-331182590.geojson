@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/331182590",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-01",
+    "indoor_seating": "yes",
+    "name": "Johanniter",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 253 62 00",
+    "toilets:wheelchair": "no",
+    "website": "https://www.johanniter.com/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441431,
+      47.3757513
+    ]
+  },
+  "id": "node-331182590"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/286038266",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8001",
+    "addr:street": "Pelikanstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "international",
+    "email": "info@jamesjoyce.ch",
+    "name": "James Joyce",
+    "opening_hours": "Mo-Sa 11:00-23:00",
+    "opening_hours:kitchen": "Mo-Sa 11:00-22:30",
+    "operator": "Segm\u00fcller Collection",
+    "phone": "+41 44 221 18 28",
+    "website": "https://www.jamesjoyce.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5371777,
+      47.3722044
+    ]
+  },
+  "id": "node-286038266"
+}

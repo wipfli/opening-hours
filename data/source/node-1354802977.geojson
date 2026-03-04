@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1354802977",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "47",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "alt_name": "Suan Long Niederdorf",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Niederdorf",
+    "check_date": "2025-10-01",
+    "cuisine": "chinese;thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Suan Long",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "yes",
+    "source": "survey",
+    "takeaway": "yes",
+    "website": "https://suanlong.ch/restaurant/suan-long-niederdorf/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5437776,
+      47.3752069
+    ]
+  },
+  "id": "node-1354802977"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268469567",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8008",
+    "addr:street": "M\u00fchlebachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-19",
+    "cuisine": "italian",
+    "name": "Commercio",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "operator": "Restaurants Commercio-Piccadilly",
+    "website": "https://www.commercio.ch/commercio/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5490837,
+      47.3659313
+    ]
+  },
+  "id": "node-268469567"
+}

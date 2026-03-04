@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/813914380",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "8004",
+    "addr:street": "Kanzleistrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "name": "Brera",
+    "opening_hours": "Tu-Sa 18:00-24:00; Su 18:00-24:00",
+    "phone": "+41 44 240 22 55",
+    "takeaway": "yes",
+    "website": "https://www.brera.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5202111,
+      47.3771472
+    ]
+  },
+  "id": "node-813914380"
+}

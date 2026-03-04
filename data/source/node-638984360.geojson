@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/638984360",
+    "amenity": "restaurant",
+    "check_date": "2025-11-26",
+    "cuisine": "regional",
+    "name": "Zum K\u00f6nigstuhl",
+    "opening_hours": "Mo-Su 11:30-23:30",
+    "phone": "+41 44 261 76 18",
+    "website": "https://koenigstuhl.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5432563,
+      47.3725751
+    ]
+  },
+  "id": "node-638984360"
+}

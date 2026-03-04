@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3751319529",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "243",
+    "addr:postcode": "8005",
+    "addr:street": "Langstrasse",
+    "alt_name": "Burgermeister Limmatplatz",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Limmatplatz",
+    "check_date": "2024-08-24",
+    "cuisine": "burger",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "name": "Burgermeister",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 271 58 10",
+    "website": "https://www.burger-meister.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5311512,
+      47.384344
+    ]
+  },
+  "id": "node-3751319529"
+}

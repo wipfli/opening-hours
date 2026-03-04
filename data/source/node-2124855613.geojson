@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2124855613",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "23",
+    "addr:postcode": "8005",
+    "addr:street": "Geroldstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-06-06",
+    "indoor_seating": "yes",
+    "name": "Frau Gerolds Garten",
+    "opening_hours": "Th-Sa 11:00-23:45; Su 12:00-22:00; Mo-We 11:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.fraugerold.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5190628,
+      47.385169
+    ]
+  },
+  "id": "node-2124855613"
+}

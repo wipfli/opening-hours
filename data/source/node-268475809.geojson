@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268475809",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8032",
+    "addr:street": "Kreuzplatz",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Kreuzplatz",
+    "changing_table": "yes",
+    "check_date:opening_hours": "2025-12-10",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Nooba",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 14:00-22:00",
+    "operator": "Two Spice",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.nooba.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.554528,
+      47.3651703
+    ]
+  },
+  "id": "node-268475809"
+}

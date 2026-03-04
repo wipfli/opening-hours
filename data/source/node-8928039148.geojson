@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/8928039148",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "13",
+    "addr:postcode": "8001",
+    "addr:street": "Oetenbachgasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-21",
+    "diet:meat": "yes",
+    "name": "Ojo de Agua",
+    "opening_hours": "Mo-We 10:00-22:00, Th-Sa 10:00-23:00",
+    "phone": "+41 44 210 47 00",
+    "website": "https://ojodeagua.global/de/restaurants/details/zurich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5394258,
+      47.3739113
+    ]
+  },
+  "id": "node-8928039148"
+}

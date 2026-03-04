@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5137182675",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8038",
+    "addr:street": "Muggenb\u00fchlstrasse",
+    "amenity": "restaurant",
+    "check_date": "2022-10-02",
+    "check_date:opening_hours": "2022-10-02",
+    "cuisine": "regional",
+    "email": "gaststuben@muggenbuehl.ch",
+    "fax": "+41 44 482 84 54",
+    "name": "Muggenb\u00fchl",
+    "opening_hours": "Mo-Su 09:00+",
+    "operator": "Ernst Bachmann",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 482 84 54",
+    "reservation": "recommended",
+    "smoking": "isolated",
+    "sport": "9pin",
+    "website": "http://www.muggenbuehl.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5266714,
+      47.3507677
+    ]
+  },
+  "id": "node-5137182675"
+}

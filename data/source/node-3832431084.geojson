@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3832431084",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8003",
+    "addr:street": "Zentralstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-24",
+    "cuisine": "chicken",
+    "name": "Wingman",
+    "old_name": "Jacky's Wok",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-22:15, Sa-Su 17:30-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.wing-man.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5207807,
+      47.3707492
+    ]
+  },
+  "id": "node-3832431084"
+}

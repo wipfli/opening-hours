@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/327453260",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "61",
+    "addr:postcode": "8004",
+    "addr:street": "Zeughausstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Ristorante Italia",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-24:00; Sa-Su 18:00-23:00",
+    "opening_hours:kitchen": "Mo-We 11:30-13:30, 18:30-22:00; Th-Fr 11:30-13:30, 18:30-22:30; Sa-Su 18:30-22:30; Su 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 233 88 44",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.ristorante-italia.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5292946,
+      47.3763729
+    ]
+  },
+  "id": "node-327453260"
+}

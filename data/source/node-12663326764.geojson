@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/12663326764",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "82",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "welcome@razzia-zuerich.ch",
+    "indoor_seating": "yes",
+    "name": "Razzia Restaurant",
+    "opening_hours": "Tu-Fr 11:45-14:30, 18:00-23:00; Sa 18:00-23:00; Su,Mo off",
+    "outdoor_seating": "no",
+    "phone": "+41 44 2967070",
+    "smoking": "outside",
+    "website": "https://razzia-zuerich.ch/restaurant/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5516525,
+      47.3608124
+    ]
+  },
+  "id": "node-12663326764"
+}

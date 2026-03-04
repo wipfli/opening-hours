@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/289669851",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8002",
+    "addr:street": "General-Wille-Strasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "no",
+    "check_date": "2025-03-04",
+    "cuisine": "pizza;pasta;italian",
+    "highchair": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "La Mimosa",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-21:30",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:qr_code": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:fee": "no",
+    "toilets:gender_segregated": "yes",
+    "website": "http://la-mimosa.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339001,
+      47.3635147
+    ]
+  },
+  "id": "node-289669851"
+}

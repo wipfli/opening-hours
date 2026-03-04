@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1815839613",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8004",
+    "addr:street": "Freyastrasse",
+    "amenity": "restaurant",
+    "name": "Silex",
+    "old_name": "Freya",
+    "opening_hours": "Mo-Sa 18:00-24:00",
+    "start_date": "2017-07-08",
+    "toilets:wheelchair": "no",
+    "website": "https://www.silexrestaurant.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5245483,
+      47.3715144
+    ]
+  },
+  "id": "node-1815839613"
+}

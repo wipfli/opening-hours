@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/808458835",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-09-17",
+    "cuisine": "italian",
+    "email": "restaurant.celia@hispeed.ch",
+    "name": "Celia",
+    "opening_hours": "Mo-Sa 11:30-24:00; Su 17:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 240 04 75",
+    "website": "https://celia-restaurant.com",
+    "website:menu": "https://api2.lunchgate.ch//digital-menu/dm/menu/09fd2fe837bf1df718dfcc2538d0a1da",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5251128,
+      47.3758647
+    ]
+  },
+  "id": "node-808458835"
+}

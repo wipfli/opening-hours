@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/313026928",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "81",
+    "addr:postcode": "8004",
+    "addr:street": "Sihlfeldstrasse",
+    "alt_name": "Five Spice",
+    "amenity": "restaurant",
+    "brand": "FiveSpice",
+    "check_date": "2024-09-17",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/sfda1d9ca33ad2fea/image/ic3f16377230c69cc/version/1403807116/image.jpg",
+    "name": "FiveSpice",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-23:00; Sa-Su 17:30-23:00",
+    "phone": "+41 44 291 00 42",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.fivespices.biz/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5164278,
+      47.3758295
+    ]
+  },
+  "id": "node-313026928"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5354821207",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "55",
+    "addr:postcode": "8002",
+    "addr:street": "Stockerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "name": "Vemezza",
+    "old_name": "G\u00e4rtnerei",
+    "opening_hours": "Mo-Fr 10:00-21:00, Sa 11:00-21:00",
+    "takeaway": "yes",
+    "website": "https://www.vemezza.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533995,
+      47.3687901
+    ]
+  },
+  "id": "node-5354821207"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1588996926",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Okay Italia",
+    "opening_hours": "Mo-Sa 08:00-14:15, 17:30-22:00",
+    "website": "https://www.okay-italia.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5555706,
+      47.379193
+    ]
+  },
+  "id": "node-1588996926"
+}

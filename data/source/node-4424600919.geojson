@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4424600919",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:place": "Hauptbahnhof, S\u00fcdtrakt",
+    "addr:postcode": "8001",
+    "amenity": "restaurant",
+    "contact:facebook": "sorasushihb",
+    "contact:phone": "+41 44 217 15 10",
+    "cuisine": "japanese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Sora Sushi",
+    "opening_hours": "Mo-Su 11:30-21:30",
+    "operator": "Candrian Catering",
+    "outdoor_seating": "yes",
+    "website": "https://website.sora-sushi.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.53946,
+      47.3775929
+    ]
+  },
+  "id": "node-4424600919"
+}

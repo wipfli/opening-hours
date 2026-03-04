@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268482384",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "115",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "alt_name": "Yooji's Seefeld",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "brand": "Yooji's",
+    "check_date:opening_hours": "2025-06-17",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Yooji's",
+    "opening_hours": "Mo-Sa 11:00-22:00; Su 16:00-22:00",
+    "operator": "Two Spice",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.yoojis.com/standorte/sushi-im-seefeld-zuerich/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5541672,
+      47.3582879
+    ]
+  },
+  "id": "node-268482384"
+}

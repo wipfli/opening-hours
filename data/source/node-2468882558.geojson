@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2468882558",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "70",
+    "addr:postcode": "8032",
+    "addr:street": "Asylstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-27",
+    "name": "Bistrot \u00e0 Paris",
+    "opening_hours": "Mo-Tu off; We-Fr 11:30-14:30,17:30-23:00; Sa 16:00-23:00; Su 10:00-15:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.bistrotaparis.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56085,
+      47.3673012
+    ]
+  },
+  "id": "node-2468882558"
+}

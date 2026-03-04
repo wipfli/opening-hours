@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3645923201",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Simplon",
+    "opening_hours": "Mo-Fr 11:00-01:00; Sa 16:00-01:00; Su,PH off",
+    "outdoor_seating": "no",
+    "website": "https://www.simplonbar.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5391331,
+      47.3766199
+    ]
+  },
+  "id": "node-3645923201"
+}

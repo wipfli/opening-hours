@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/271225677",
+    "amenity": "restaurant",
+    "check_date": "2024-03-03",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Marcellino Pane e Vino",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 380 26 90",
+    "website": "https://marcellino.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5655522,
+      47.3602234
+    ]
+  },
+  "id": "node-271225677"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7900044076",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8032",
+    "addr:street": "Hottingerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-25",
+    "cuisine": "ramen",
+    "email": "info@mori.ch",
+    "indoor_seating": "yes",
+    "name": "Mori Ramen",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00; Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://mori.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.549533,
+      47.3703532
+    ]
+  },
+  "id": "node-7900044076"
+}

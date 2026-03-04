@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/12704813185",
+    "addr:housenumber": "14",
+    "addr:street": "M\u00fchlegasse",
+    "amenity": "restaurant",
+    "description": "Indian restaurant",
+    "name": "The South Indian",
+    "opening_hours": "Mo-Fr 11:30-14:30, 17:00-22:00; Sa, Su 12:00-22:00",
+    "phone": "+41442531191",
+    "website": "https://thesouthindian.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441423,
+      47.3741387
+    ]
+  },
+  "id": "node-12704813185"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5497101349",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "fixme": "check opening hours again after reopening on 2025-08-11",
+    "name": "Mensa UZH Zentrum (Obere Mensa)",
+    "opening_hours": "closed \"Closed for renovation in 2025, see website, open from August 11 again\"",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.mensa.uzh.ch/de/menueplaene/lichthof-rondell.html"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5482357,
+      47.3739705
+    ]
+  },
+  "id": "node-5497101349"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4501493398",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "8045",
+    "addr:street": "Binzstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "email": "binz@binz-38.ch",
+    "level": "0",
+    "name": "Binz 38",
+    "opening_hours": "Mo-Fr 10:00-15:00",
+    "phone": "+41 44 455 77 66",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.binz-38.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5123747,
+      47.3622545
+    ]
+  },
+  "id": "node-4501493398"
+}

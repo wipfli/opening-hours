@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1978573306",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8005",
+    "addr:street": "Luisenstrasse",
+    "alt_name": "Cucina Limmatplatz",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Limmatplatz",
+    "check_date": "2025-08-07",
+    "cuisine": "italian;pizza",
+    "name": "Cucina",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr-Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cucinarestaurant.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5304006,
+      47.384162
+    ]
+  },
+  "id": "node-1978573306"
+}

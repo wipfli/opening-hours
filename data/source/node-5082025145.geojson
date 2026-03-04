@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5082025145",
+    "amenity": "restaurant",
+    "name": "Napa Grill",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
+    "website": "https://napagrill.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5254957,
+      47.36482
+    ]
+  },
+  "id": "node-5082025145"
+}

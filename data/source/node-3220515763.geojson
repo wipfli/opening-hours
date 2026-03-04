@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3220515763",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8001",
+    "addr:street": "Glockengasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-28",
+    "cuisine": "local",
+    "diet:vegetarian": "only",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "Neue Taverne",
+    "opening_hours": "Tu-Sa 11:30-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.neuetaverne.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403664,
+      47.3720697
+    ]
+  },
+  "id": "node-3220515763"
+}

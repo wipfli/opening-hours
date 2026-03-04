@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/914812583",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "8004",
+    "addr:street": "M\u00fcllerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Real",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurant-real.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5306087,
+      47.3743453
+    ]
+  },
+  "id": "node-914812583"
+}

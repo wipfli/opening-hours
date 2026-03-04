@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/480320551",
+    "amenity": "restaurant",
+    "cuisine": "regional\nswiss",
+    "name": "Utoburg",
+    "opening_hours": "Mo-Fr 09:00-14:30, 18:00-22:00",
+    "toilets:wheelchair": "no",
+    "website": "http://utoburg.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5180157,
+      47.3616035
+    ]
+  },
+  "id": "node-480320551"
+}

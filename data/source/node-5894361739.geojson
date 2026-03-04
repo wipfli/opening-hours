@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5894361739",
+    "amenity": "restaurant",
+    "level": "1",
+    "name": "\u00c9mile",
+    "opening_hours": "Mo-Sa 07:30-00:00",
+    "website": "https://www.emile-restaurant.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398194,
+      47.367541
+    ]
+  },
+  "id": "node-5894361739"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/633584181",
+    "addr:housenumber": "15",
+    "addr:street": "Universit\u00e4tstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-10",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Hot Pasta",
+    "opening_hours": "Mo-Fr 11:00-24:00",
+    "opening_hours:kitchen": "Mo-Fr 11:00-23:00; Sa 11:00-15:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 535 76 65",
+    "website": "https://hotpasta.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.547952,
+      47.3786854
+    ]
+  },
+  "id": "node-633584181"
+}

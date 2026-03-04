@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7204669291",
+    "addr:housenumber": "86",
+    "addr:street": "Aemtlerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-03",
+    "name": "Tapas & Friends",
+    "opening_hours": "Mo,Su off; Tu-We 18:00-22:00; Th-Sa 18:00-23:00",
+    "phone": "+41 44 542 89 89",
+    "website": "https://tapasandfriends.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5138059,
+      47.3737738
+    ]
+  },
+  "id": "node-7204669291"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10995816514",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "25",
+    "addr:postcode": "8006",
+    "addr:street": "Universit\u00e4tstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "mi-te",
+    "note": "Vietnamese Street Food",
+    "opening_hours": "Mo-Fr 11:00-19:00",
+    "phone": "+41782362599",
+    "website": "https://mi-te.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5479282,
+      47.3791998
+    ]
+  },
+  "id": "node-10995816514"
+}

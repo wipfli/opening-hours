@@ -1,0 +1,8 @@
+Looking at the opening hours listed on the website:
+
+- MON: 17:30 - 22:00
+- TUE - FRI: 11:30 - 14:00, 17:30 - 22:00
+- SAT: 17:30 - 22:00
+- SUN: CLOSED
+
+Mo 17:30-22:00; Tu-Fr 11:30-14:00,17:30-22:00; Sa 17:30-22:00; Su off

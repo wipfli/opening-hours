@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5631126821",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8002",
+    "addr:street": "Alfred-Escher-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2024-01-26",
+    "cuisine": "thai",
+    "name": "Vee's Bistro",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 17:30-22:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 44 201 44 90",
+    "website": "https://www.veesbistro.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328569,
+      47.3650602
+    ]
+  },
+  "id": "node-5631126821"
+}

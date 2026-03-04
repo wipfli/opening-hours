@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/327453057",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8004",
+    "addr:street": "Zeughausstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Bernerhof",
+    "opening_hours": "Mo-Fr 11:30-14:00, Tu-Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "website": "https://www.bernerhof-zuerich.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5320588,
+      47.3745992
+    ]
+  },
+  "id": "node-327453057"
+}

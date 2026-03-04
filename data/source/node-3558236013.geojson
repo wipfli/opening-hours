@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3558236013",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8008",
+    "addr:street": "Horneggstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Brasserie Seefeld",
+    "opening_hours": "Mo-Fr 11:45-14:30,18:30-23:00",
+    "opening_hours:kitchen": "Mo-Fr 11:45-13:45,18:30-21:45",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://brasserieseefeld.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5591926,
+      47.3526098
+    ]
+  },
+  "id": "node-3558236013"
+}

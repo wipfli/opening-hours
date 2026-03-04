@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4244055293",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "31-35",
+    "addr:postcode": "8001",
+    "addr:street": "L\u00f6wenstrasse",
+    "alt_name": "Migros Restaurant City",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich City",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "changing_table": "yes",
+    "cuisine": "international",
+    "delivery": "no",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "level": "4",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 09:00-19:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 227 10 60",
+    "self_service": "yes",
+    "smoking": "outside",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-city",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5360876,
+      47.3754925
+    ]
+  },
+  "id": "node-4244055293"
+}

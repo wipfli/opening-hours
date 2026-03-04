@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4968280517",
+    "amenity": "restaurant",
+    "name": "Four Twenty",
+    "old_name": "LetziLeu",
+    "opening_hours": "12:00-22:00",
+    "website": "https://www.ihg.com/crowneplaza/hotels/de/de/zurich/zrhha/hoteldetail/dining",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5066494,
+      47.3801026
+    ]
+  },
+  "id": "node-4968280517"
+}

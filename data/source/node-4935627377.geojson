@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4935627377",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "161",
+    "addr:postcode": "8008",
+    "addr:street": "Dufourstrasse",
+    "alt_name": "Riviera: Enoteca con Cucina",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "check_date:diet:vegan": "2025-11-02",
+    "check_date:diet:vegetarian": "2025-11-02",
+    "check_date:opening_hours": "2025-11-02",
+    "check_date:smoking": "2025-11-02",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Enoteca Riviera",
+    "old_name": "Hornb\u00e4chli Riviera",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:30-24:00; Sa 18:30-24:00",
+    "smoking": "outside",
+    "website": "https://enoteca-riviera.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5550456,
+      47.3549625
+    ]
+  },
+  "id": "node-4935627377"
+}

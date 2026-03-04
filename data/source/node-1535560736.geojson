@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1535560736",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "96",
+    "addr:postcode": "8002",
+    "addr:street": "Bederstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-19",
+    "cuisine": "french;fine_dining",
+    "name": "Weisses R\u00f6ssli",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-24:00; May-Sep Mo off",
+    "phone": "+41 44 212 63 00",
+    "website": "https://www.weisses-roessli.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5261633,
+      47.361886
+    ]
+  },
+  "id": "node-1535560736"
+}

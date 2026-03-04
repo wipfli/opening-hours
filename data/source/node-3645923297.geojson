@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3645923297",
+    "amenity": "restaurant",
+    "brand": "roots",
+    "indoor_seating": "yes",
+    "name": "roots",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-17:00; Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "website": "https://rootsandfriends.com/location/lintheschergasse",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.538611,
+      47.3762774
+    ]
+  },
+  "id": "node-3645923297"
+}

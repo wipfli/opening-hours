@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10967807766",
+    "amenity": "restaurant",
+    "brand": "roots",
+    "indoor_seating": "yes",
+    "name": "roots",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://rootsandfriends.com/location/muenstergasse",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445043,
+      47.3709497
+    ]
+  },
+  "id": "node-10967807766"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/331184721",
+    "access:covid19": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "In Gassen",
+    "alt_name": "Bindella Z\u00fcrich",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bindella",
+    "opening_hours": "Mo-Sa 11:30-23:30; Su 17:30-22:30",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "website": "https://www.bindella.ch/de/bindella-zuerich.html"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406432,
+      47.3706846
+    ]
+  },
+  "id": "node-331184721"
+}

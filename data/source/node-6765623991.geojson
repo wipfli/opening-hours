@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6765623991",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "80",
+    "addr:postcode": "8005",
+    "addr:street": "Zollstrasse",
+    "alt_name": "Ambossrampe",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "cuisine": "international",
+    "name": "Amboss Rampe",
+    "opening_hours": "Tu-Fr 11:30-13:30,17:30-23:00; Sa 10:00-15:00,17:30-23:00; Su 10:00-15:00",
+    "phone": "+41 43 558 20 00",
+    "toilets:wheelchair": "designated",
+    "website": "https://ambossrampe.ch/restaurant/",
+    "website:menu": "https://www.lunchgate.ch/restaurant/spritzwerk/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531395,
+      47.3812815
+    ]
+  },
+  "id": "node-6765623991"
+}

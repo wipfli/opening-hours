@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3584059568",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8002",
+    "addr:street": "Lessingstrasse",
+    "alt_name": "Kai Sushi Lessing",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Utobr\u00fccke",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "email": "lessing@kaisushi.ch",
+    "indoor_seating": "yes",
+    "name": "Kai Sushi",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa-Su 17:30-23:00",
+    "operator": "Urban Food Culture",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "https://kaisushi.ch/de/standorte/kai-sushi-lessing/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5239764,
+      47.3598916
+    ]
+  },
+  "id": "node-3584059568"
+}

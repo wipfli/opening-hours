@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10831702421",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "27",
+    "addr:postcode": "8005",
+    "addr:street": "Josefstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-26",
+    "cuisine": "pizza;pasta;italian",
+    "name": "DaPizi",
+    "opening_hours": "Tu-Fr 11:00-13:45,17:00-22:00; Sa 11:30-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+41 43 818 27 76",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://dapizi2017.ch/",
+    "website:menu": "https://dapizi2017.ch/wp-content/uploads/2022/05/Menukarte-english.pdf",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5331802,
+      47.3812322
+    ]
+  },
+  "id": "node-10831702421"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1241219823",
+    "addr:housenumber": "3",
+    "addr:postcode": "8004",
+    "addr:street": "Zwinglistrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-14",
+    "cuisine": "chinese",
+    "name": "Hongxi",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa 11:30-22:00; Su 12:00-21:00",
+    "phone": "+41 43 549 20 20",
+    "website": "http://www.hongxi-restaurant.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5296685,
+      47.3777904
+    ]
+  },
+  "id": "node-1241219823"
+}

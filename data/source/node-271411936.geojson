@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/271411936",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8001",
+    "addr:street": "Werdm\u00fchleplatz",
+    "amenity": "restaurant",
+    "email": "info@lotti-lokal.ch",
+    "name": "Lotti",
+    "old_name": "Casa Mia",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00; Su, Mo off",
+    "phone": "+41 43 399 01 01",
+    "website": "https://www.lotti-lokal.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5397124,
+      47.3751744
+    ]
+  },
+  "id": "node-271411936"
+}

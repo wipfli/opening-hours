@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/906855932",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "26",
+    "addr:postcode": "8003",
+    "addr:street": "Aemtlerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-02",
+    "cuisine": "steak_house;french",
+    "indoor_seating": "yes",
+    "name": "La C\u00f4te",
+    "opening_hours": "Tu-Fr 11:30-14:30, Tu-Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://lacote-zuerich.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5159377,
+      47.3717505
+    ]
+  },
+  "id": "node-906855932"
+}

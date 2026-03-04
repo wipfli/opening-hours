@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/914703113",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "37",
+    "addr:postcode": "8004",
+    "addr:street": "B\u00e4ckerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-18",
+    "check_date:opening_hours": "2025-09-18",
+    "cuisine": "japanese",
+    "email": "info@ikoo.ch",
+    "name": "Ikoo",
+    "opening_hours": "Mo-Fr 11:30-14:00, Su-Fr 18:00-22:30, Sa 12:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 370 37 76",
+    "smoking": "outside",
+    "website": "http://www.ikoo.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287964,
+      47.3748928
+    ]
+  },
+  "id": "node-914703113"
+}

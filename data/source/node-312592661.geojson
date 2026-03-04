@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/312592661",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "amenity": "restaurant",
+    "brand": "Saravanaa Bhavan",
+    "brand:wikidata": "Q3528082",
+    "check_date": "2025-11-17",
+    "check_date:diet:vegan": "2025-11-17",
+    "check_date:opening_hours": "2025-07-08",
+    "check_date:smoking": "2025-11-17",
+    "cuisine": "indian;south_indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "email": "zurich@saravanaabhavan.swiss",
+    "level": "0",
+    "name": "Saravanaa Bhavan",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "self_service": "no",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.saravanaabhavan.swiss",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.535575,
+      47.3818876
+    ]
+  },
+  "id": "node-312592661"
+}

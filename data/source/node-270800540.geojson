@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270800540",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Weisser Wind",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa 12:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://weisserwind.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455086,
+      47.3688249
+    ]
+  },
+  "id": "node-270800540"
+}

@@ -1,0 +1,8 @@
+I found two different opening hours statements on the website:
+
+1. First statement: "Mo – Fr ab 11.30 bis 14 Uhr und jeden Abend ab 18 Uhr"
+2. Second statement: "Wir haben Montag bis Freitag von 11.30 Uhr bis 14.00 Uhr und jeden Abend ab 17.30 Uhr für Sie geöffnet."
+
+These statements contradict each other regarding evening opening time (18:00 vs 17:30). The second statement appears more detailed and official as it's in the main description section. However, given this contradiction and the possibility that JavaScript may be involved in displaying current hours, I cannot be absolutely confident.
+
+UNSURE

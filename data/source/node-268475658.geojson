@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268475658",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8032",
+    "addr:street": "Klosbachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "american",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Bohemia",
+    "opening_hours": "Mo-Th 07:45-24:00, Fr 07:45-01:00, Sa 09:00-01:00, Su 09:00-17:00",
+    "operator": "H\u00f6schgass Gastro",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.bohemia.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5548938,
+      47.364789
+    ]
+  },
+  "id": "node-268475658"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3770491170",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Brandschenkestrasse",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "email": "mail@moudi-bar.ch",
+    "indoor_seating": "yes",
+    "name": "Moudi",
+    "opening_hours": "Mo-We 11:30-23:00; Th-Fr 11:30-24:00; Sa 12:30-24:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 12:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 390 13 14",
+    "website": "https://www.moudi-bar.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343368,
+      47.3697863
+    ]
+  },
+  "id": "node-3770491170"
+}

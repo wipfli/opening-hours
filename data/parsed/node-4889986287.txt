@@ -1,0 +1,10 @@
+Looking at the website content, I can see the opening hours for the restaurant:
+
+- Breakfast: Monday-Friday 06:30-10:30, Saturday-Sunday 07:30-10:30
+- Lunch: Daily 11:45-14:00
+- Afternoon menu: 14:00-18:00
+- Dinner: Daily 18:00-21:30
+
+The restaurant appears to be open daily. On weekdays, it opens at 06:30 and closes at 21:30. On weekends, it opens at 07:30 and closes at 21:30. The afternoon card bridges the gap between lunch and dinner, so the restaurant is essentially open continuously from opening to 21:30.
+
+Mo-Fr 06:30-21:30; Sa-Su 07:30-21:30

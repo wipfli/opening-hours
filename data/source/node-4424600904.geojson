@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4424600904",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/sued.zuerich/",
+    "email": "reservation@sued-zuerich.ch",
+    "indoor": "yes",
+    "level": "0",
+    "name": "S\u00fcd",
+    "old_name": "Brasserie S\u00fcd",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa-Su 09:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 244 32 15",
+    "toilets:wheelchair": "yes",
+    "website": "https://sued-zuerich.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403976,
+      47.3773153
+    ]
+  },
+  "id": "node-4424600904"
+}

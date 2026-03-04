@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1491966830",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "99",
+    "addr:postcode": "8002",
+    "addr:street": "Bederstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-19",
+    "check_date:opening_hours": "2023-02-13",
+    "cuisine": "italian;pizza",
+    "name": "Ristorante Pizzeria 99",
+    "opening_hours": "Mo-Fr 11:00-14:30, Mo-Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.ristorante-99.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5260442,
+      47.3615099
+    ]
+  },
+  "id": "node-1491966830"
+}

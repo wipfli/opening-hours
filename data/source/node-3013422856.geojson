@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3013422856",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "47",
+    "addr:postcode": "8004",
+    "addr:street": "Europaallee",
+    "amenity": "restaurant",
+    "check_date": "2024-08-09",
+    "cuisine": "greek",
+    "level": "0",
+    "name": "Ynos",
+    "opening_hours": "Mo-We 11:30-23:00; Th-Sa 11:30-00:00",
+    "phone": "+41 44 536 44 44",
+    "website": "http://www.ynos.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314462,
+      47.3789304
+    ]
+  },
+  "id": "node-3013422856"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5653783775",
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "name": "Ayverdi's",
+    "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+    "takeaway": "yes",
+    "website": "https://ayverdis.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5061904,
+      47.3798658
+    ]
+  },
+  "id": "node-5653783775"
+}

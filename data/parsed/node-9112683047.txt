@@ -1,0 +1,11 @@
+Looking at the website content, I can find opening hours information in the "Öffnungszeiten" (Opening Hours) section.
+
+The text states: "Unser Restaurant ist täglich, ausser Sonntags bis 22:30 Uhr geöffnet."
+
+This translates to: "Our restaurant is open daily, except Sundays until 22:30."
+
+However, the website does not provide specific opening times (what time they open in the morning). It only specifies closing time (22:30) and that they are closed on Sundays.
+
+Since I cannot determine the opening times for each day with confidence, I cannot create a complete and accurate OpenStreetMap opening_hours string.
+
+UNSURE

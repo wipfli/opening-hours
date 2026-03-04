@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4370078092",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "16",
+    "addr:postcode": "8004",
+    "addr:street": "Ankerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-26",
+    "cuisine": "greek",
+    "name": "V.P. Catering",
+    "name:de": "V.P. Catering",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 11:00-17:00; Su off",
+    "website": "http://www.vp-catering.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5242929,
+      47.3730087
+    ]
+  },
+  "id": "node-4370078092"
+}

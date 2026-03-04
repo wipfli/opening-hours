@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2463374628",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "8003",
+    "addr:street": "Gertrudstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "name": "Restaurant Gertrudhof",
+    "opening_hours": "Tu-Fr 11:00-14:00, 17:30-23:00; Sa 17:00-23:00; Su 16:00-22:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.gertrudhof.ch/",
+    "wheelchair": "no",
+    "wheelchair:description": "Sitzpl\u00e4tze draussen, werden bedient"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5157835,
+      47.3739155
+    ]
+  },
+  "id": "node-2463374628"
+}

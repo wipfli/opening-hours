@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1434789864",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "8003",
+    "addr:street": "Bertastrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-21",
+    "cuisine": "italian",
+    "name": "Bottega Berta",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-23:00; Sa 18:30-23:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.bottegaberta.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5136406,
+      47.3741175
+    ]
+  },
+  "id": "node-1434789864"
+}

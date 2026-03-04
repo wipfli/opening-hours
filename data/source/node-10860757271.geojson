@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10860757271",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "10",
+    "addr:postcode": "8001",
+    "addr:street": "Leonhardstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-08-25",
+    "cuisine": "lebanese;turkish",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Orient World",
+    "opening_hours": "Mo-Sa 10:00-21:00",
+    "outdoor_seating": "sidewalk",
+    "phone": "+41 43 268 48 48",
+    "website": "https://orientworld.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545135,
+      47.3788419
+    ]
+  },
+  "id": "node-10860757271"
+}

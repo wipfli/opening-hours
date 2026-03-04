@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10638716073",
+    "addr:housenumber": "3",
+    "addr:street": "Elisabethenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-26",
+    "cuisine": "pizza",
+    "email": "pizza@butegar.ch",
+    "name": "Butegar",
+    "opening_hours": "Mo,Su off; Tu-Sa 17:00-22:00",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "https://www.butegar.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523149,
+      47.3724559
+    ]
+  },
+  "id": "node-10638716073"
+}

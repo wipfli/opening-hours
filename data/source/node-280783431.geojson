@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/280783431",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8001",
+    "addr:street": "Marktgasse",
+    "alt_name": "Santa Lucia Niederdorf",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Niederdorf",
+    "brand": "Santa Lucia",
+    "brand:wikidata": "Q110419156",
+    "check_date": "2023-04-24",
+    "cuisine": "pizza;italian",
+    "indoor_seating": "yes",
+    "name": "Santa Lucia",
+    "opening_hours": "Mo-Sa 11:30-02:00; Su 11:30-24:00",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "oven": "wood_fired",
+    "takeaway": "yes",
+    "website": "https://www.bindella.ch/de/santa-lucia-niederdorf.html",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5437442,
+      47.3722057
+    ]
+  },
+  "id": "node-280783431"
+}

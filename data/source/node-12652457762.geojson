@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/12652457762",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "37",
+    "addr:postcode": "8004",
+    "addr:street": "Brauerstrasse",
+    "all_you_can_eat": "yes",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Happy Panda",
+    "opening_hours": "Mo-Fr 11:00-14:00; Sa 17:30-22:00",
+    "phone": "+41 76 455 88 55",
+    "takeaway": "yes",
+    "website": "https://www.happy-panda.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526895,
+      47.3777441
+    ]
+  },
+  "id": "node-12652457762"
+}

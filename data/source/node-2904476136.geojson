@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2904476136",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "146",
+    "addr:postcode": "8005",
+    "addr:street": "Josefstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-04",
+    "check_date:opening_hours": "2023-01-15",
+    "cuisine": "sri_lankan",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Friends Corner",
+    "opening_hours": "Mo-Sa 11:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.friendscorner.ch",
+    "wheelchair": "no",
+    "wheelchair:description": "Terassensitzpl\u00e4tze vor dem Restaurant"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277141,
+      47.3847907
+    ]
+  },
+  "id": "node-2904476136"
+}

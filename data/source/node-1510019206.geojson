@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1510019206",
+    "addr:housenumber": "5",
+    "addr:street": "Drahtzugstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-11",
+    "check_date:diet:vegan": "2025-11-11",
+    "check_date:diet:vegetarian": "2025-11-11",
+    "check_date:opening_hours": "2025-11-11",
+    "check_date:smoking": "2025-11-11",
+    "cuisine": "korean",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Misoga",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-22:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://www.r2.misoga.ch/hegibachplatz",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5608856,
+      47.3614068
+    ]
+  },
+  "id": "node-1510019206"
+}

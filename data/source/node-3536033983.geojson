@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3536033983",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "cuisine": "thai",
+    "name": "Ban Song Thai",
+    "opening_hours": "Mo,Su off; Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "source": "knowledge",
+    "website": "https://www.bansongthai.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5442106,
+      47.3694128
+    ]
+  },
+  "id": "node-3536033983"
+}

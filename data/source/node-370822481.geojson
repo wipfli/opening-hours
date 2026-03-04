@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370822481",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "142",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-10-31",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Weinstube 1923",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa,Su off",
+    "phone": "+41 44 267 60 42",
+    "website": "https://weinstube1923.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441261,
+      47.3764199
+    ]
+  },
+  "id": "node-370822481"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10721724386",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8001",
+    "addr:street": "Schweizergasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "level": "5",
+    "name": "Leo",
+    "opening_hours": "Mo-We 11:00-24:00, Th-Sa 11:00-02:00",
+    "opening_hours:kitchen": "Mo-Sa 11:00-22:00",
+    "operator": "Don Leone Gastro AG",
+    "website": "https://ristorante-leo.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5382808,
+      47.3758207
+    ]
+  },
+  "id": "node-10721724386"
+}

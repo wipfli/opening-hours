@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4935627380",
+    "amenity": "restaurant",
+    "contact:instagram": "murarestaurant",
+    "cuisine": "japanese",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Mura Omakase Restaurant",
+    "opening_hours": "Tu-Fr 11:30-14:30, 18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41443832139",
+    "self_service": "no",
+    "smoking": "no",
+    "website": "https://www.mura39.ch/",
+    "website:menu": "https://www.mura39.ch/_files/ugd/602dd0_d225d7d244c34c2782c0428d9aca1cc0.pdf"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5561613,
+      47.3545891
+    ]
+  },
+  "id": "node-4935627380"
+}

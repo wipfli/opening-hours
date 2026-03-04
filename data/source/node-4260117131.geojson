@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4260117131",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "19",
+    "addr:street": "Kanonengasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-02",
+    "check_date:opening_hours": "2026-02-02",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Cima Curry",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 241 16 30",
+    "takeaway": "yes",
+    "website": "https://cimacurry.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295685,
+      47.3776729
+    ]
+  },
+  "id": "node-4260117131"
+}

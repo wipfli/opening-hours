@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10896827512",
+    "addr:housenumber": "11",
+    "addr:street": "Walchestrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-02-17",
+    "cuisine": "vietnamese",
+    "name": "Sapa Canteen",
+    "opening_hours": "Mo-Sa 11:30-14:30, 17:30-22:00",
+    "phone": "+41 44 364 93 93",
+    "website": "https://www.sapacanteen.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5422229,
+      47.3800211
+    ]
+  },
+  "id": "node-10896827512"
+}

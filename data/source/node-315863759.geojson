@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/315863759",
+    "addr:postcode": "8003",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich",
+    "cuisine": "italian;italian_pizza",
+    "email": "info@lartista.ch",
+    "name": "L'Artista",
+    "old_name": "Axoi",
+    "opening_hours": "Mo-Th 11:00-14:00, 17:00-22:00; Fr-Sa 11:00-14:00, 17:00-23:00; Su 11:00-22:00",
+    "phone": "+41 44 527 71 20",
+    "self_service": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://lartista.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5178314,
+      47.375093
+    ]
+  },
+  "id": "node-315863759"
+}

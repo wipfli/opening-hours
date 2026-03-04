@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1829912224",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "36",
+    "addr:postcode": "8004",
+    "addr:street": "B\u00e4ckerstrasse",
+    "alt_name": "Don Leone Aperitivo",
+    "amenity": "restaurant",
+    "check_date": "2024-08-24",
+    "cuisine": "italian;pizza",
+    "email": "laperitivo@donleone.ch",
+    "name": "Don Leone",
+    "opening_hours": "Mo-Tu 17:00-24:00; We-Fr 11:00-14:30, 17:30-24:00; Sa-Su 17:30-24:00",
+    "website": "https://donleone.ch/laperitivo/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5291408,
+      47.3749163
+    ]
+  },
+  "id": "node-1829912224"
+}

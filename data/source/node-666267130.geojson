@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/666267130",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "66",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich",
+    "cuisine": "crepe",
+    "name": "Grepery",
+    "opening_hours": "Tu-Th 10:00-23:00; Fr,Sa 10:00-00:00; Su 10:00-22:00",
+    "phone": "+41 44 211 80 00",
+    "website": "https://www.grepery.ch/standort/grepery-am-stauffacher",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5273055,
+      47.3735871
+    ]
+  },
+  "id": "node-666267130"
+}

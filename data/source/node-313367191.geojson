@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/313367191",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "78",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 44 241 42 72",
+    "cuisine": "lebanese",
+    "name": "Le C\u00e8dre",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-24:00;Sa 18:00-24:00;PH closed",
+    "website": "https://libanesisch.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5264947,
+      47.3738833
+    ]
+  },
+  "id": "node-313367191"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/725764771",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "10",
+    "addr:postcode": "8005",
+    "addr:street": "Baumgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-08",
+    "cuisine": "peruvian;japanese;chinese",
+    "name": "Chifa Izakaya",
+    "opening_hours": "Mo,Su off; Tu-Fr 11:30-14:00,18:00-22:00; Sa 18:00-23:00",
+    "website": "https://chifa-izakaya.ch/",
+    "website:menu": "https://chifa-izakaya.ch/wp-content/uploads/2025/11/CHIFA-FOOD-DRINK-MENU.pdf",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357577,
+      47.3821574
+    ]
+  },
+  "id": "node-725764771"
+}

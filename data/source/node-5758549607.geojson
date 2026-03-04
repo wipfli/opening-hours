@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5758549607",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8001",
+    "addr:street": "N\u00fcschelerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-15",
+    "cuisine": "regional",
+    "email": "info@labottegadimario.ch",
+    "name": "La Bottega di Mario",
+    "opening_hours": "Mo-Sa 11:30-23:00; Jul 21-Aug 12 off; PH,Su off",
+    "operator": "Segm\u00fcller Collection",
+    "phone": "+41 44 227 19 22",
+    "website": "https://www.labottegadimario.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5376179,
+      47.3712595
+    ]
+  },
+  "id": "node-5758549607"
+}

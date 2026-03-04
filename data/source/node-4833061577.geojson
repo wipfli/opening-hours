@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4833061577",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8003",
+    "addr:street": "Aemtlerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Grottino 77",
+    "opening_hours": "Tu-Fr 10:00-14:00, Tu-Su 17:00-23:00",
+    "takeaway": "yes",
+    "website": "https://grottino77.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163605,
+      47.3709294
+    ]
+  },
+  "id": "node-4833061577"
+}

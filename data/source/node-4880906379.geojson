@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4880906379",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "alt_name": "Tibits Seefeld",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "brand": "tibits",
+    "check_date": "2024-02-06",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "name": "Tibits",
+    "opening_hours": "Mo-Tu 06:30-23:30; Fr 06:30-24:00; Sa 08:00-24:00; Su 09:00-23:30",
+    "operator": "Tibits",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 260 32 22",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.tibits.ch/de/restaurants#tibits-zuerich",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478868,
+      47.3649526
+    ]
+  },
+  "id": "node-4880906379"
+}

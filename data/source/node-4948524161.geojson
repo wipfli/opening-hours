@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4948524161",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Il Basilico",
+    "opening_hours": "Mo- Fr 10:00-13:30, 17:00-22:30; Sa 16:00-23:00; Su 14:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 450 88 99",
+    "takeaway": "yes",
+    "website": "https://www.ilbasilico.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5058334,
+      47.3695668
+    ]
+  },
+  "id": "node-4948524161"
+}

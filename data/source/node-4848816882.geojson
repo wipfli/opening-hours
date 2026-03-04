@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4848816882",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8001",
+    "addr:street": "Talstrasse",
+    "alt_name": "Gabbani Z\u00fcrich",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich",
+    "name": "Gabbani",
+    "old_name": "vis-\u00e0-vis",
+    "opening_hours": "Mo 11:30-15:00, Tu 11:30-23:00, We-Fr 11:30-22:30, Sa 16:00-23:30",
+    "operator": "Gabbani SA",
+    "outdoor_seating": "yes",
+    "website": "https://www.gabbani.com/de/gabbani-zurich/restaurant-gabbani/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365761,
+      47.3701012
+    ]
+  },
+  "id": "node-4848816882"
+}

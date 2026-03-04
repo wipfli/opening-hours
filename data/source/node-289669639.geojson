@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/289669639",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "82",
+    "addr:postcode": "8002",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-03",
+    "cuisine": "italian;pizza",
+    "name": "Sternen Da Guido",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa,Su 17:30-22:00",
+    "smoking": "outside",
+    "website": "http://www.daguido.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5318434,
+      47.3597047
+    ]
+  },
+  "id": "node-289669639"
+}

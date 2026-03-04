@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4941865455",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "95",
+    "addr:postcode": "8002",
+    "addr:street": "Mythenquai",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "strandbad-mythenquai@hiltl.ch",
+    "name": "Hiltl am Strand",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-12:00; Su 09:00-18:30",
+    "operator": "Hiltl",
+    "outdoor_seating": "yes",
+    "website": "https://hiltl.ch/standorte/uebersicht/#amstrand"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5345926,
+      47.353585
+    ]
+  },
+  "id": "node-4941865455"
+}

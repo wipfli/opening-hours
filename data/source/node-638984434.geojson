@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/638984434",
+    "amenity": "restaurant",
+    "check_date": "2024-02-12",
+    "cuisine": "regional",
+    "name": "Madrid",
+    "opening_hours": "Mo off; Tu-Su 11:30-24:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.restaurant-madrid.ch",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5446831,
+      47.3731853
+    ]
+  },
+  "id": "node-638984434"
+}

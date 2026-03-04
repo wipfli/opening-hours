@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1083769431",
+    "addr:housenumber": "29",
+    "addr:postcode": "8004",
+    "addr:street": "Kanonengasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-14",
+    "cuisine": "sri_lankan",
+    "name": "Neela",
+    "old_name": "Le Chef",
+    "opening_hours": "Mo 11:00-14:30; Tu-Fr 11:00-14:30, 17:30-22:30; Sa-Su 17:00-22:30",
+    "phone": "+41 44 242 71 11",
+    "website": "https://neela.ch/",
+    "website:menu": "https://neela.ch/wp-content/uploads/2022/04/Neela_Abendkarte.pdf",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5298119,
+      47.3779493
+    ]
+  },
+  "id": "node-1083769431"
+}

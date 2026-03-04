@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268467807",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8001",
+    "addr:street": "R\u00e4mistrasse",
+    "amenity": "restaurant",
+    "cuisine": "french;regional",
+    "name": "Kronenhalle",
+    "opening_hours": "Mo-Su 12:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 262 99 00",
+    "website": "https://www.kronenhalle.com",
+    "wheelchair": "no",
+    "wikidata": "Q1789864",
+    "wikimedia_commons": "Category:Kronenhalle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457188,
+      47.3675511
+    ]
+  },
+  "id": "node-268467807"
+}

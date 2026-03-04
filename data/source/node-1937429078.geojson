@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1937429078",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8005",
+    "addr:street": "Pfingstweidstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-04",
+    "check_date:diet:vegetarian": "2026-02-04",
+    "cuisine": "Southern_BBQ;american",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Brisket",
+    "opening_hours": "Tu-Fr 11:30-13:30,17:00-23:00; Sa 16:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.brisket.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5187881,
+      47.387695
+    ]
+  },
+  "id": "node-1937429078"
+}

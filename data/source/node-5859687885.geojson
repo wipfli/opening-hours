@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5859687885",
+    "addr:postcode": "8008",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "info@sakusaku.ch",
+    "name": "Japan saku",
+    "opening_hours": "Tu-Th 11:30-14:00, 18:00-21:00; Fr 11:30-14:00, 17:30-21:00; Sa 17:30-21:00",
+    "phone": "+41 44 254 57 54",
+    "website": "https://www.sakusaku.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478329,
+      47.3643245
+    ]
+  },
+  "id": "node-5859687885"
+}

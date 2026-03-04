@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/920613220",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "106",
+    "addr:postcode": "8003",
+    "addr:street": "Zweierstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "louszurich",
+    "cuisine": "american",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Lou's Restaurant & Bar",
+    "opening_hours": "Mo-Tu 17:30-23:00; We-Sa 17:30-24:00, Sa 10:00-14:00; Su 10:00-17:00",
+    "phone": "+41 44 451 07 07",
+    "reservation": "yes",
+    "website": "https://www.lous-restaurant.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5214185,
+      47.3717267
+    ]
+  },
+  "id": "node-920613220"
+}

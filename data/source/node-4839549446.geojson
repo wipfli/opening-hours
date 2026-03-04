@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4839549446",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "8045",
+    "addr:street": "R\u00e4ffelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "diet:gluten_free": "yes",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Binz & Kunz",
+    "opening_hours": "Mo-Fr 11:30-23:00; Sa 13:00-23:00",
+    "phone": "+41 79 153 06 06",
+    "website": "https://www.binzundkunz.ch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5131571,
+      47.362924
+    ]
+  },
+  "id": "node-4839549446"
+}

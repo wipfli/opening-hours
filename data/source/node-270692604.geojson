@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270692604",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "96",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "seefeld@na081.ch",
+    "indoor_seating": "yes",
+    "name": "NA081",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-22:00; Sa 13:30-22:30; Su-Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 202 00 21",
+    "smoking": "outside",
+    "website": "https://na081.ch/seefeld/",
+    "website:menu": "https://na081.ch/seefeld/#menu",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5524861,
+      47.3597536
+    ]
+  },
+  "id": "node-270692604"
+}

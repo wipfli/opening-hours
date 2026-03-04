@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/11244280030",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "104",
+    "addr:postcode": "8004",
+    "addr:street": "Lagerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "latin_american",
+    "level": "0",
+    "name": "Casi Casa",
+    "opening_hours": "Mo-Th 09:00-00:00; Fr-Sa 09:00-01:00; Su 10:00-00:00",
+    "phone": "+41 44 212 12 19",
+    "website": "https://www.casicasa.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289015,
+      47.3800736
+    ]
+  },
+  "id": "node-11244280030"
+}

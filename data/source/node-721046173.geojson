@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/721046173",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "127",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-07",
+    "indoor_seating": "yes",
+    "name": "Limmathof",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 16:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.arbeitskette.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5272804,
+      47.3874963
+    ]
+  },
+  "id": "node-721046173"
+}

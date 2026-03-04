@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/316839692",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "8004",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "level": "0",
+    "name": "Masala",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-22:30; Sa 18:00-22:30",
+    "phone": "+41 44 240 03 61",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://masala.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289781,
+      47.3730187
+    ]
+  },
+  "id": "node-316839692"
+}

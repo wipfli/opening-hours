@@ -1,0 +1,25 @@
+I need to extract the opening hours for the Restaurant Spitz (amenity=restaurant).
+
+The restaurant hours are:
+- Mo-Fr: 11:30-14:00 and 18:00-24:00
+- Sa: Closed in February (with exception of Feb 14, 2026) — this seems like a temporary seasonal closure
+- So: Geschlossen (closed)
+
+The Saturday closure appears to be a temporary February closure, not a permanent state. The normal hours for Saturday are not clearly stated outside of February. This makes it ambiguous.
+
+Actually, looking more carefully, Saturday says "Im Februar geschlossen" which implies it's normally open on Saturday but currently closed. The normal Saturday hours aren't given explicitly.
+
+Since Saturday's normal hours aren't listed and the current status is a temporary closure, I can only confidently state the Monday-Friday hours.
+
+For the restaurant (amenity=restaurant), the clear hours are:
+- Mo-Fr: 11:30-14:00, 18:00-24:00
+- Su: off
+- Sa: uncertain (temporary closure in February, normal hours not stated)
+
+Given the uncertainty around Saturday, I'll only include the confirmed days:
+
+Mo-Fr 11:30-14:00,18:00-24:00; Sa off; Su off
+
+But Sa being "off" is only temporary (February). I don't know the normal Sa hours.
+
+UNSURE

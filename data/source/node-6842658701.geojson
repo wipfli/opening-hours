@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6842658701",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "213",
+    "addr:postcode": "8005",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-24",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@th1.ch",
+    "internet_access": "yes",
+    "internet_access:ssid": "Salt_5GHz_F92175",
+    "name": "Thali House",
+    "opening_hours": "Mo-Su 11:00-21:45",
+    "opening_hours:signed": "no",
+    "phone": "+41 44 821 67 33",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.th1.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5301347,
+      47.3831028
+    ]
+  },
+  "id": "node-6842658701"
+}

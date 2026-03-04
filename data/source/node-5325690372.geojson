@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5325690372",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "248",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "level": "0",
+    "name": "mit&ohne",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-23:30; Su 11:00-22:30",
+    "outdoor_seating": "no",
+    "website": "https://www.mitundohne-kebab.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5161558,
+      47.375895
+    ]
+  },
+  "id": "node-5325690372"
+}

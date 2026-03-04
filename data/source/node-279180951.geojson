@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/279180951",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8001",
+    "addr:street": "Beatenplatz",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-05-29",
+    "cuisine": "international",
+    "name": "Dupont Brasserie & Bar",
+    "opening_hours": "Mo-Th 10:00-23:00, Fr-Sa 10:00-01:00",
+    "operator": "Candrian Catering",
+    "website": "https://dupont.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5413414,
+      47.3761856
+    ]
+  },
+  "id": "node-279180951"
+}

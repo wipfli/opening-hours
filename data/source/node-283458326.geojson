@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/283458326",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8001",
+    "addr:street": "Lintheschergasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-01-20",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Walliser Kanne",
+    "opening_hours": "Mo-Sa 11:30-23:00; Su 17:30-22:30",
+    "opening_hours:url": "https://www.walliserkanne-zuerich.ch/kontakt/",
+    "outdoor_seating": "sidewalk",
+    "phone": "+41 44 211 31 33",
+    "website": "https://www.walliserkanne-zuerich.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5388369,
+      47.3766974
+    ]
+  },
+  "id": "node-283458326"
+}

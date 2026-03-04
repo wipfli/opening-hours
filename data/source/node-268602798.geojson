@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268602798",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8001",
+    "addr:street": "Theaterstrasse",
+    "air_conditioning": "yes",
+    "alt_name": "Santa Lucia Corso",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Bellevue",
+    "brand": "Santa Lucia",
+    "brand:wikidata": "Q110419156",
+    "cuisine": "pizza;italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Santa Lucia",
+    "opening_hours": "Su-Tu 11:30-24:00; We-Th 11:30-02:00; Fr-Sa 11:30-05:00",
+    "opening_hours:covid19": "11:30-22:30",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "oven": "wood_fired",
+    "takeaway": "yes",
+    "website": "https://www.bindella.ch/de/santa-lucia-corso.html",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5467367,
+      47.3663196
+    ]
+  },
+  "id": "node-268602798"
+}

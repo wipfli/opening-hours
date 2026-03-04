@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4958366048",
+    "amenity": "restaurant",
+    "contact:phone": "+41 44 462 01 48",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Vereinigung",
+    "opening_hours": "Mo-Sa 17:00-22:00",
+    "opening_hours:kitchen": "Mo-Sa 18:00-22:00",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "http://www.vereinigung-barsol.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5220138,
+      47.3632257
+    ]
+  },
+  "id": "node-4958366048"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/13116652401",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Neumarkt",
+    "amenity": "restaurant",
+    "cuisine": "italian;japanese",
+    "name": "Cucina itameshi",
+    "opening_hours": "Mo-Sa 12:00-14:00, 18:00-23:00",
+    "phone": "+41442440290",
+    "website": "https://www.cucina-itameshi.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456439,
+      47.3728285
+    ]
+  },
+  "id": "node-13116652401"
+}

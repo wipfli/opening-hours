@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370839377",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "alt_name": "Liguria",
+    "amenity": "restaurant",
+    "check_date": "2023-09-13",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Vallocaia",
+    "old_name": "Malatesta",
+    "opening_hours": "Mo-Su 11:30-23:30",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 268 51 68",
+    "website": "https://www.bindella.ch/de/vallocaia.html",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436348,
+      47.3734874
+    ]
+  },
+  "id": "node-370839377"
+}

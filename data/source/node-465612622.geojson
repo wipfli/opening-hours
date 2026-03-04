@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/465612622",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "151",
+    "addr:postcode": "8005",
+    "addr:street": "Josefstrasse",
+    "alt_name": "Schwanen",
+    "amenity": "restaurant",
+    "check_date": "2025-09-08",
+    "cuisine": "syrian",
+    "email": "info@restaurantdamas.ch",
+    "name": "Damas",
+    "opening_hours": "Mo-Fr 10:30-14:00,17:30-23:00; Sa-Su 17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 273 28 58",
+    "website": "http://www.restaurantdamas.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5275777,
+      47.384599
+    ]
+  },
+  "id": "node-465612622"
+}

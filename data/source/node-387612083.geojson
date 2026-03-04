@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/387612083",
+    "addr:housenumber": "9",
+    "addr:street": "Sch\u00f6neggplatz",
+    "amenity": "restaurant",
+    "check_date": "2024-03-15",
+    "email": "info@piccologiardino.ch",
+    "name": "Piccolo Giardino",
+    "opening_hours": "Mo-Th 16:00-00:00; Fr 16:00-02:00; Sa 14:00-02:00; Su 14:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 317 91 10",
+    "website": "https://www.piccologiardino.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5257086,
+      47.380803
+    ]
+  },
+  "id": "node-387612083"
+}

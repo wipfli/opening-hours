@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270799836",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8001",
+    "addr:street": "Kruggasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-10",
+    "cuisine": "regional",
+    "name": "Blockhus",
+    "opening_hours": "Mo-Tu 11:30-14:00,17:30-23:00; We-Sa 11:30-24:00",
+    "operator": "Beffa Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 14 53",
+    "website": "https://restaurant-blockhus.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451811,
+      47.3681833
+    ]
+  },
+  "id": "node-270799836"
+}

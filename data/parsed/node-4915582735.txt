@@ -1,0 +1,30 @@
+I need to parse the opening hours carefully.
+
+The restaurant has:
+- **Öffnungszeiten (Opening hours):**
+  - Tuesday–Saturday: 11:30–13:30 and 18:00–21:30
+  - Sunday & Monday: Bar Food 15:00–00:00
+
+- **Frühstück & Brunch:**
+  - Monday–Friday: 07:00–10:00
+  - Saturday & Sunday: 07:00–13:00
+  - Saturday & Sunday: Brunch 11:00–13:00
+
+Since the OSM tag is `amenity=restaurant`, I'll focus on the restaurant opening hours (Öffnungszeiten), which includes the bar food hours. Breakfast hours could also be considered part of restaurant service.
+
+Combining all hours per day:
+- Monday: 07:00–10:00 (breakfast), 15:00–00:00 (bar food)
+- Tuesday–Friday: 07:00–10:00 (breakfast), 11:30–13:30, 18:00–21:30
+- Saturday: 07:00–13:00 (breakfast/brunch), 11:30–13:30, 18:00–21:30
+- Sunday: 07:00–13:00 (breakfast/brunch), 15:00–00:00 (bar food)
+
+Saturday breakfast (07:00–13:00) overlaps with lunch (11:30–13:30), so Saturday: 07:00–13:30, 18:00–21:30.
+
+This is complex. Let me write it out:
+
+Mo: 07:00-10:00,15:00-00:00
+Tu-Fr: 07:00-10:00,11:30-13:30,18:00-21:30
+Sa: 07:00-13:30,18:00-21:30
+Su: 07:00-13:00,15:00-00:00
+
+Mo 07:00-10:00,15:00-00:00; Tu-Fr 07:00-10:00,11:30-13:30,18:00-21:30; Sa 07:00-13:30,18:00-21:30; Su 07:00-13:00,15:00-00:00

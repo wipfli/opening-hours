@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4833061582",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8008",
+    "addr:street": "Dufourstrasse",
+    "alt_name": "Conti da Bianca",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Conti",
+    "opening_hours": "Mo-Su 11:30-24:00",
+    "operator": "Bindella",
+    "outdoor_seating": "no",
+    "website": "http://conti-zuerich.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5474123,
+      47.3645073
+    ]
+  },
+  "id": "node-4833061582"
+}

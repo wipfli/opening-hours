@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/315861625",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "85",
+    "addr:postcode": "8004",
+    "addr:street": "Sihlfeldstrasse",
+    "alt_name": "Restaurant Derby",
+    "amenity": "restaurant",
+    "check_date": "2024-02-05",
+    "cuisine": "pizza",
+    "name": "Derby",
+    "opening_hours": "Sa-Su 17:00-00:00; Tu-Fr 17:30-00:00",
+    "oven": "wood_fired",
+    "phone": "+41 44 545 21 11",
+    "website": "https://pizzaderby.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163348,
+      47.3761196
+    ]
+  },
+  "id": "node-315861625"
+}

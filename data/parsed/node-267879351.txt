@@ -1,0 +1,9 @@
+Looking at the timing section:
+
+- MON TO FRI: 11:00am - 02:00pm and 17:30 - 22:00
+- SAT: Closed (only open for private parties)
+- SUN: 17:30 - 22:00
+
+Converting to OpenStreetMap format:
+
+Mo-Fr 11:00-14:00,17:30-22:00; Sa off; Su 17:30-22:00

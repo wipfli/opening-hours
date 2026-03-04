@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1867263239",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "56",
+    "addr:postcode": "8006",
+    "addr:street": "Universit\u00e4tstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "check_date": "2025-07-29",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Rubina",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 350 30 15",
+    "website": "https://restaurant-rubina.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5483263,
+      47.381545
+    ]
+  },
+  "id": "node-1867263239"
+}

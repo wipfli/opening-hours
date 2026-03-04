@@ -1,0 +1,25 @@
+Looking at the opening hours:
+
+- Monday to Friday: 11:30-14:00, 17:30-23:00
+- Saturday: 12:00-23:00
+- Sunday (until end of March): 12:00-23:00
+
+The Sunday hours are seasonal (only until end of March), which makes this complex. The rest of the year, Sunday appears to be closed. Let me construct this carefully.
+
+For the standard (non-seasonal) interpretation, Sunday hours only apply until end of March, meaning roughly October through March Sunday is open and April through September it's closed on Sunday. Actually, "bis Ende März" likely means from some starting point (perhaps autumn/winter) until end of March. This is ambiguous — it could mean Oct-Mar or Jan-Mar, etc.
+
+Given the seasonal ambiguity for Sunday, I'll represent the core hours that are clearly year-round and note the complexity:
+
+- Mo-Fr 11:30-14:00,17:30-23:00
+- Sa 12:00-23:00
+- Su (seasonal)
+
+Since the Sunday hours are conditional/seasonal and I can't determine the exact months with certainty, I should be cautious. However, a reasonable interpretation might be that Sunday is open in winter months. But "bis Ende März" without specifying a start is ambiguous.
+
+Given this uncertainty about Sunday, I'll include what's clearly stated and use a reasonable interpretation. Many restaurants in Zurich open Sundays in the colder months (Oct-Mar is common).
+
+UNSURE
+
+Wait, actually the core Mo-Fr and Sa hours are clear. Only Sunday is seasonal. Let me reconsider — I could provide the base hours confidently and note Sunday is uncertain. But the instructions say to only return a string if absolutely confident it's correct.
+
+Mo-Fr 11:30-14:00,17:30-23:00; Sa 12:00-23:00

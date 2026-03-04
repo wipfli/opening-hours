@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3472768901",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "16b",
+    "addr:postcode": "8004",
+    "addr:street": "Lagerstrasse",
+    "alt_name": "Beetnut Lagerstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Europaallee",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "name": "Beetnut",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+    "operator": "Beetnut",
+    "outdoor_seating": "yes",
+    "website": "https://beetnut.com/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533411,
+      47.3776411
+    ]
+  },
+  "id": "node-3472768901"
+}

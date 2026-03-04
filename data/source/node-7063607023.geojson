@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7063607023",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "19",
+    "addr:postcode": "8002",
+    "addr:street": "Am Schanzengraben",
+    "amenity": "restaurant",
+    "brand": "roots",
+    "name": "roots",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-17:00; Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "website": "https://rootsandfriends.com/location/schanzengraben",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.535695,
+      47.368752
+    ]
+  },
+  "id": "node-7063607023"
+}

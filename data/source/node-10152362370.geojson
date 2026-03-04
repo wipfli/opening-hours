@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10152362370",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "24",
+    "addr:postcode": "8001",
+    "addr:street": "R\u00e4mistrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Soi Thai",
+    "opening_hours": "Mo-Su 18:00-23:30",
+    "website": "https://www.soithai.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478024,
+      47.3684091
+    ]
+  },
+  "id": "node-10152362370"
+}

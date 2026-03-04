@@ -1,0 +1,16 @@
+The website mentions:
+- Daily (täglich) from 11:00 to 14:00 and then again from 17:30
+- On Fridays and Saturdays, delivery until 2:00 AM
+
+I need to figure out the closing times. The text says "freitags ebenso wie samstags bis zwei Uhr morgens" (Fridays and Saturdays until 2 AM), and the general hours are 11-14 and from 17:30. But the closing time for other days isn't explicitly stated.
+
+The closing time on regular days is not clearly specified - only that on weekends (Fr/Sa) they deliver until 2 AM. The opening from 17:30 is mentioned but no general closing time for weekdays is given explicitly.
+
+This is somewhat ambiguous - we know:
+- Daily 11:00-14:00
+- Daily from 17:30
+- Friday and Saturday until 02:00
+
+Without a clear closing time for Mo-Th and Su, I cannot construct a complete valid opening hours string confidently.
+
+UNSURE

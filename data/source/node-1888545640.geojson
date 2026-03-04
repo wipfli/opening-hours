@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1888545640",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "69",
+    "addr:postcode": "8005",
+    "addr:street": "Konradstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-21",
+    "cuisine": "mexican",
+    "indoor_seating": "yes",
+    "name": "El Luchador",
+    "opening_hours": "Mo-Th 17:00-00:00; Fr-Sa 17:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 271 72 00",
+    "website": "http://www.elluchador.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533656,
+      47.3817668
+    ]
+  },
+  "id": "node-1888545640"
+}

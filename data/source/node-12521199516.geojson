@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/12521199516",
+    "addr:housenumber": "11",
+    "addr:street": "General-Wille-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2025-01-21",
+    "email": "hello@spoonthaikitchen.ch",
+    "indoor_seating": "yes",
+    "name": "Spoon Thai Kitchen",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.spoonthaikitchen.ch/enge"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5333524,
+      47.3632634
+    ]
+  },
+  "id": "node-12521199516"
+}

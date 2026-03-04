@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4860115709",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8001",
+    "addr:street": "Theaterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "cuisine": "grill;regional",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Sternen Grill",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-21:00",
+    "operator": "Belgrill Gastronomie",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.sternengrill.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455633,
+      47.3672776
+    ]
+  },
+  "id": "node-4860115709"
+}

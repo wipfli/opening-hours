@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/656327772",
+    "addr:housenumber": "16",
+    "addr:street": "Z\u00e4hringerstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Raclette Stube",
+    "opening_hours": "Mo-Fr 18:00+; Sa,Su 17:00+",
+    "outdoor_seating": "no",
+    "website": "https://www.raclette-stube.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5447832,
+      47.3747617
+    ]
+  },
+  "id": "node-656327772"
+}

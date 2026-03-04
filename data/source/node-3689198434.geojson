@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3689198434",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "86",
+    "addr:postcode": "8003",
+    "addr:street": "Aemtlerstrasse",
+    "amenity": "restaurant",
+    "capacity": "40",
+    "check_date": "2024-03-03",
+    "cuisine": "italian;pizza",
+    "name": "La Piccola Trattoria",
+    "opening_hours": "Mo-Fr 11:30-13:30, 17:30-23:00; Tu 11:30-13:30; Sa-Su 17:30-23:30",
+    "phone": "+41 44 461 01 64",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lapiccolatrattoria.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5137204,
+      47.3738667
+    ]
+  },
+  "id": "node-3689198434"
+}

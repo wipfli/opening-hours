@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/310788549",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "78",
+    "addr:postcode": "8004",
+    "addr:street": "Kanzleistrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Kobal",
+    "opening_hours": "Mo-Su 11:00-14:30, 17:30-23:30",
+    "phone": "+41 44 241 26 19",
+    "website": "https://www.kobal-curry-restaurant-zuerich.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5243755,
+      47.3756685
+    ]
+  },
+  "id": "node-310788549"
+}

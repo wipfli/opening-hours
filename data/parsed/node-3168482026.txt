@@ -1,0 +1,9 @@
+Looking at the opening hours section:
+
+**ÖFFNUNGSZEITEN**
+- Montag – Freitag: 11:30 – 24:00 h
+- Samstag: 11:30 – 24:00 h
+
+The restaurant appears to be closed on Sunday (not listed). The kitchen hours are listed separately (lunch and dinner), but the venue hours (11:30–24:00) are what should be used for OpenStreetMap.
+
+Mo-Fr 11:30-24:00; Sa 11:30-24:00

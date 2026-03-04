@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/289669794",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:street": "General-Wille-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2025-12-18",
+    "check_date:opening_hours": "2025-12-18",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "name": "Amara",
+    "opening_hours": "Mo-Sa 09:00-22:00; Su off",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 280 57 75",
+    "website": "https://amara-zurich.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5323081,
+      47.3635082
+    ]
+  },
+  "id": "node-289669794"
+}

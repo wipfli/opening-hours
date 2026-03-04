@@ -1,0 +1,3 @@
+I can see the website states "Öffnungszeiten" (opening hours) and provides "täglich geöffnet ab 9.00 Uhr" which means "daily open from 9:00 AM". However, no closing time is specified on the website. Without a closing time, I cannot create a complete and accurate OpenStreetMap opening hours string.
+
+UNSURE

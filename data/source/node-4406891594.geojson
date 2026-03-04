@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4406891594",
+    "amenity": "restaurant",
+    "check_date": "2025-10-10",
+    "name": "Wesley's Kitchen",
+    "name:de": "Wesley's Kitchen",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00; Sa 11:00-22:00; Su 10:00-21:00",
+    "website": "https://www.wesleys-kitchen.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5326917,
+      47.381828
+    ]
+  },
+  "id": "node-4406891594"
+}

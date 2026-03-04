@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1817263418",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8004",
+    "addr:street": "Gartenhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-03-10",
+    "cuisine": "regional",
+    "email": "info@gartenhof.net",
+    "name": "Gartenhof",
+    "opening_hours": "Mo,Su off; Tu-Fr 11:30-14:00,18:00+; Sa 18:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 266 63 63",
+    "toilets:wheelchair": "no",
+    "website": "https://www.gartenhof.net/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.525645,
+      47.3719093
+    ]
+  },
+  "id": "node-1817263418"
+}

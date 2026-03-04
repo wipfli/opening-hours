@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4891858488",
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8005",
+    "addr:street": "Maagplatz",
+    "amenity": "restaurant",
+    "capacity": "168",
+    "email": "ey@zfv.ch",
+    "name": "EY Restaurant Platform",
+    "opening_hours": "Mo-Th 07:30-16:00; Fr 07:30-15:00",
+    "operator": "ZFV-Unternehmungen",
+    "phone": "+41 44 273 59 22",
+    "self_service": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/ey-restaurant-platform"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5161972,
+      47.3859677
+    ]
+  },
+  "id": "node-4891858488"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1586370722",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/rechberg1837/",
+    "email": "Info@rechberg.ch",
+    "indoor_seating": "yes",
+    "name": "Rechberg",
+    "opening_hours": "Mo-Fr 11:45-14:00,18:00-22:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 222 18 37",
+    "website": "https://www.rechberg1837.com/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.546249,
+      47.3739693
+    ]
+  },
+  "id": "node-1586370722"
+}

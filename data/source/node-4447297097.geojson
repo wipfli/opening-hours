@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4447297097",
+    "addr:housenumber": "53",
+    "addr:postcode": "8003",
+    "addr:street": "Zentralstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-24",
+    "contact:facebook": "ookiZH",
+    "contact:instagram": "ooki.izakaya",
+    "cuisine": "japanese",
+    "email": "info@ooki.tokyo",
+    "name": "Ooki Izakaya Wiedikon",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-00:00; Sa 18:00-00:00; Su 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 461 15 86",
+    "toilets:wheelchair": "no",
+    "website": "https://ooki.tokyo/home",
+    "website:menu": "https://ooki.tokyo/data/files/ENG_Ooki_MenueInhalt_20241017.pdf",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5188077,
+      47.3721676
+    ]
+  },
+  "id": "node-4447297097"
+}

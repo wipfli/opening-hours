@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9201917991",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "14",
+    "addr:postcode": "8002",
+    "addr:street": "Claridenstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2025-01-14",
+    "cuisine": "grill;regional",
+    "name": "1Komma7",
+    "opening_hours": "Mo-Tu 11:00-23:00; We-Fr 11:00-00:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 208 24 04",
+    "website": "https://1komma7.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5383568,
+      47.3663842
+    ]
+  },
+  "id": "node-9201917991"
+}

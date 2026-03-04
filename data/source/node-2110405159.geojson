@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2110405159",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "8005",
+    "addr:street": "Gasometerstrasse",
+    "alt_name": "Molino Gasometer",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Industrie",
+    "brand": "Molino",
+    "check_date": "2024-06-04",
+    "cuisine": "pizza",
+    "name": "Molino",
+    "old_name": "Al Solito Posto",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
+    "operator": "Ospena Group",
+    "outdoor_seating": "yes",
+    "start_date": "2017-06-10",
+    "takeaway": "yes",
+    "website": "https://molino.ch/de/pizzeria-ristorante-molino-gasometerstrasse",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5291751,
+      47.3840714
+    ]
+  },
+  "id": "node-2110405159"
+}

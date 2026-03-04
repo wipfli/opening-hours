@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1819652476",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "8002",
+    "addr:street": "Lavaterstrasse",
+    "amenity": "restaurant",
+    "cuisine": "jewish",
+    "description": "The only kosher meat restaurant in Zurich. Entrance through the Jewish community center ICZ. For security reasons, all visitors will be subject to a personal check and questioning. Please bring identification for this and avoid larger bags.",
+    "diet:fish": "yes",
+    "diet:kosher": "yes",
+    "diet:meat": "yes",
+    "diet:mediterranean": "yes",
+    "email": "info@florentin.rest",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Florentin",
+    "opening_hours": "Mo-Th 12:00-14:30,18:00-22:00; Su 17:00-21:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 280 50 05",
+    "smoking": "no",
+    "website": "https://florentin.rest/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5324508,
+      47.3629747
+    ]
+  },
+  "id": "node-1819652476"
+}

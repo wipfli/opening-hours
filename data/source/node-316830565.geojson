@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/316830565",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "45",
+    "addr:postcode": "8003",
+    "addr:street": "Sihlfeldstrasse",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "email": "hoi@zurgoldigeguttere.ch",
+    "name": "Zur Goldige Guttere",
+    "opening_hours": "Tu-Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 451 14 14",
+    "smoking": "outside",
+    "takeaway": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.zurgoldigeguttere.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.516816,
+      47.3744885
+    ]
+  },
+  "id": "node-316830565"
+}

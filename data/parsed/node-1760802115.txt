@@ -1,0 +1,12 @@
+Looking at the opening hours listed:
+
+- Monday: 11:30 - 23:00
+- Tuesday and Wednesday: 11:30 - 23:30
+- Thursday: 11:30 - 00:00
+- Friday: 11:30 - late
+- Saturday: 11:30 - late
+- Sunday: 11:30 - 23:00
+
+The problem is that Friday and Saturday close at "late," which is ambiguous and doesn't give a specific closing time. This makes it impossible to produce a fully confident, accurate OpenStreetMap opening_hours string.
+
+UNSURE

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268468109",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "air_conditioning": "yes",
+    "alt_name": "Odeon",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "name": "Caf\u00e9 Bar ODEON",
+    "opening_hours": "Mo-Th 07:00-24:00, Fr-Sa 07:00-02:00, Su 09:00-24:00",
+    "operator": "Fred Tschanz AG",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://odeon.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451446,
+      47.3677942
+    ]
+  },
+  "id": "node-268468109"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/365892432",
+    "addr:city": "Z\u00fcrich",
+    "amenity": "restaurant",
+    "cuisine": "cake;coffee_shop",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Chuchi am Wasser",
+    "opening_hours": "Tu,We,Sa,Su 10:30-19:00; Th,Fr 10:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 415 76 90",
+    "website": "https://www.dynamo.ch/restaurant-bar",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5396636,
+      47.3830272
+    ]
+  },
+  "id": "node-365892432"
+}

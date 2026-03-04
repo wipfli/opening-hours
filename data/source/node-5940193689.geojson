@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5940193689",
+    "amenity": "restaurant",
+    "check_date": "2024-08-30",
+    "cuisine": "regional;mediterranean",
+    "level": "0",
+    "name": "Zunfthaus zur Haue",
+    "opening_hours": "Tu-Sa 10:30-21:30; PH closed",
+    "operator": "Gabriele & Marcel Schellenberg",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 33 62",
+    "website": "https://www.zunfthaus-zur-haue.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5431142,
+      47.3713843
+    ]
+  },
+  "id": "node-5940193689"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2917046566",
+    "addr:housenumber": "4",
+    "addr:street": "Pfalzgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-30",
+    "level": "0",
+    "name": "Lindenhofkeller",
+    "opening_hours": "Tu-Fr 18:00-24:00; We 11:30-14:00",
+    "website": "https://www.lindenhofkeller.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.540819,
+      47.3724638
+    ]
+  },
+  "id": "node-2917046566"
+}

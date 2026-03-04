@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268467884",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "amenity": "restaurant",
+    "name": "Terrasse Restaurant",
+    "opening_hours": "Mo-Th 11:30-23:00; Fr-Sa 11:30-24:00; Su 10:00-14:00 \"Brunch\", 14:15-23:00",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 251 10 74",
+    "website": "https://www.bindella.ch/de/terrasse-restaurant.html",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5443882,
+      47.3678872
+    ]
+  },
+  "id": "node-268467884"
+}

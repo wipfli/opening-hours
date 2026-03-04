@@ -1,0 +1,9 @@
+Looking at the website content, the hours are given in German:
+
+- SONNTAG (Sunday): 16:00-22:00
+- DIENSTAG-FREITAG (Tuesday-Friday): 16:00-00:00
+- SAMSTAG (Saturday): 12:00-00:00
+
+Monday is not listed, implying it's closed.
+
+Tu-Fr 16:00-00:00; Sa 12:00-00:00; Su 16:00-22:00

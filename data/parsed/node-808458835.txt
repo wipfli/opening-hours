@@ -1,0 +1,3 @@
+I can see there is a line that says "Heute 09:00–00:00" (Today 09:00–00:00) under "ÖFFNUNGSZEITEN" (Opening Hours). However, this only shows the hours for today, not the complete weekly schedule. The website appears to be using JavaScript or dynamic content to display only the current day's hours, which means I cannot reliably determine the full opening hours for all days of the week.
+
+UNSURE

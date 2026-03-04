@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/312137617",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "35",
+    "addr:postcode": "8004",
+    "addr:street": "K\u00f6chlistrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@cantinazurich.ch",
+    "cuisine": "peruvian",
+    "name": "Chicher\u00eda Cantina",
+    "old_name": "Ristorante Cinecitta",
+    "opening_hours": "Mo-Fr 11:30-23:00; Sa 14:00-23:30; Su closed",
+    "phone": "+41 44 302 42 42",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cantinazurich.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222246,
+      47.3739825
+    ]
+  },
+  "id": "node-312137617"
+}

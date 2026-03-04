@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10623709323",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "12",
+    "addr:postcode": "8005",
+    "addr:street": "Neue Hard",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "check_date": "2025-07-29",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Kleinw\u00e4scherei",
+    "opening_hours": "Mo off; Tu-We 11:30-23:00; Th-Fr 11:30-03:00; Sa 13:00-03:00; Su 16:00-23:00",
+    "outdoor_seating": "pedestrian_zone",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 591 78 58",
+    "smoking": "outside",
+    "website": "https://zentralwaescherei.space/gastro",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5201885,
+      47.3870148
+    ]
+  },
+  "id": "node-10623709323"
+}

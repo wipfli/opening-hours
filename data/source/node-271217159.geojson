@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/271217159",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "269",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-11-07",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@trattoria-blumenau.ch",
+    "name": "La Trattoria Blumenau",
+    "old_name": "Quartierbeiz Blumenau",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 750 02 33",
+    "smoking": "outside",
+    "website": "https://trattoria-blumenau.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5631953,
+      47.3490341
+    ]
+  },
+  "id": "node-271217159"
+}

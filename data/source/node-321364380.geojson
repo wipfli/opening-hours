@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/321364380",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8092",
+    "addr:street": "Universit\u00e4tstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-28",
+    "cuisine": "fusion",
+    "indoor_seating": "yes",
+    "name": "food&lab",
+    "opening_hours": "Mo-Fr 08:30-15:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30",
+    "outdoor_seating": "no",
+    "phone": "+41 44 632 80 11",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/food-lab.html",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.548805,
+      47.378314
+    ]
+  },
+  "id": "node-321364380"
+}

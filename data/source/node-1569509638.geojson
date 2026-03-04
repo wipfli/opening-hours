@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1569509638",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "136",
+    "addr:postcode": "8003",
+    "addr:street": "Zentralstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-02-26",
+    "cuisine": "african;eritrean;ethiopian",
+    "name": "Filfl",
+    "old_name": "Zentralstube",
+    "opening_hours": "Mo-Sa 08:30-23:00, Su 12:00-23:00",
+    "phone": "+41 78 659 82 16",
+    "website": "https://www.filflrestaurant.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154091,
+      47.375292
+    ]
+  },
+  "id": "node-1569509638"
+}

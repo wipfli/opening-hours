@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268421310",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "61",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "tiffins@tiffins.ch",
+    "indoor_seating": "yes",
+    "name": "Tiffins",
+    "opening_hours": "Mo-Fr 11:30-23:00; Sa,Su 15:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 382 18 88",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "http://www.tiffins.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.551033,
+      47.3618934
+    ]
+  },
+  "id": "node-268421310"
+}

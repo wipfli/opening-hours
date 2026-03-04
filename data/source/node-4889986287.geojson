@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4889986287",
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8044",
+    "addr:street": "Orellistrasse",
+    "amenity": "restaurant",
+    "email": "info@zuerichberg.ch",
+    "name": "Z\u00fcrichberg",
+    "opening_hours": "Mo-Fr 06:30-10:30, Sa-Su 07:30-10:30 \"Fr\u00fchst\u00fcck\", Mo-Su 11:45-14:00 \"Lunch \u00e0 la carte und Mittagsangebot\", 14:00-18:00 \"kleines Speiseangebot mit kalten, warmen und s\u00fcssen Gerichten\", Mo-Su 18:00-21:30 \"Dinner \u00e0 la carte\"",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 268 35 35",
+    "website": "https://www.zuerichberg.ch/restaurant"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5669037,
+      47.3823685
+    ]
+  },
+  "id": "node-4889986287"
+}

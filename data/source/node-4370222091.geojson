@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4370222091",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "8003",
+    "addr:street": "Bremgartnerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-03-21",
+    "cuisine": "pizza",
+    "email": "ciao@alba.pizza",
+    "name": "Alba Pizza",
+    "opening_hours": "Mo,We-Th,Su 17:30-23:00; Tu off; Fr-Sa 17:30-24:30",
+    "payment:cash": "no",
+    "phone": "+41 76 651 27 37",
+    "website": "https://www.alba.pizza/alba-locations/alba-wiedikon",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.517246,
+      47.3704622
+    ]
+  },
+  "id": "node-4370222091"
+}

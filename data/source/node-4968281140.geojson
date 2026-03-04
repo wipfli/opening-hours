@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4968281140",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "94",
+    "addr:postcode": "8004",
+    "addr:street": "Zypressenstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/anchayzurich/",
+    "cuisine": "vietnamese",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "An Chay",
+    "opening_hours": "Tu-Fr 11:30-13:30,18:00-22:00; Sa 18:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.anchayzurich.com/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154904,
+      47.3790326
+    ]
+  },
+  "id": "node-4968281140"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/267879347",
+    "amenity": "restaurant",
+    "check_date": "2025-01-10",
+    "cuisine": "italian",
+    "name": "AnaMiRa",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa 17:30-22:00; Su off",
+    "phone": "+41 44 463 90 90",
+    "website": "https://anamira.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5204226,
+      47.3641859
+    ]
+  },
+  "id": "node-267879347"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4773455116",
+    "addr:housenumber": "7",
+    "addr:street": "R\u00f6ssligasse",
+    "amenity": "restaurant",
+    "check_date": "2024-02-06",
+    "cuisine": "italian",
+    "name": "Il Gattopardo",
+    "opening_hours": "Tu-Fr 12:00-14:30, Mo-Sa 18:00-24:00",
+    "website": "https://www.ilgattopardo.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444905,
+      47.3692887
+    ]
+  },
+  "id": "node-4773455116"
+}

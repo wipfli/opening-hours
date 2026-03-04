@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2888142445",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "32",
+    "addr:postcode": "8001",
+    "addr:street": "Stampfenbachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "name": "Bombay Karachi",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-21:30",
+    "outdoor_seating": "pedestrian_zone",
+    "phone": "+41 44 262 65 00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://bombaykarachi.com/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5435476,
+      47.3793233
+    ]
+  },
+  "id": "node-2888142445"
+}

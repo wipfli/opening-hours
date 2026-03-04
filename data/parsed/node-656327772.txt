@@ -1,0 +1,11 @@
+The website states:
+- Monday to Friday from 17:30
+- Weekends continuously from 13:00
+
+No closing time is mentioned, which is a concern. However, the opening times are clearly stated. I'll construct the best possible string:
+
+Mo-Fr 17:30+; Sa-Su 13:00+
+
+But since no closing time is given, I should use the "+" notation to indicate open-ended, or I could return UNSURE. The "+" in OSM means "at least until". Given the information available:
+
+Mo-Fr 17:30+; Sa-Su 13:00+

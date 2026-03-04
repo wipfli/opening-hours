@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/297711157",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "47",
+    "addr:postcode": "8002",
+    "addr:street": "Bleicherweg",
+    "amenity": "restaurant",
+    "name": "Old Inn",
+    "opening_hours": "Tu-Fr 11:30-14:00, Tu-Sa 18:00-24:00",
+    "website": "https://theoldinn.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325611,
+      47.365841
+    ]
+  },
+  "id": "node-297711157"
+}

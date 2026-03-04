@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6284033411",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "77b",
+    "addr:postcode": "8004",
+    "addr:street": "Kasernenstrasse",
+    "alt_name": "Brooklyn Burgermeister Kaserne",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Aussersihl",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Burgermeister",
+    "opening_hours": "Mo-Th 11:00-22:30; Fr-Sa 11:00-23:30; Su 12:00-21:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.burger-meister.ch/locations/restaurant-zuerich-kaserne/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5341042,
+      47.3763268
+    ]
+  },
+  "id": "node-6284033411"
+}

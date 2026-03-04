@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370840562",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "alt_name": "Spaghetti Factory Rosenhof",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Rosenhof",
+    "brand": "Spaghetti Factory",
+    "check_date": "2023-04-24",
+    "cuisine": "pasta",
+    "name": "Spaghetti Factory",
+    "opening_hours": "Mo-Th 11:30-23:00; Fr-Sa 11:30-25:00; Su 11:30-22:30",
+    "opening_hours:covid19": "Tu-Fr 11:30-14:00, 17:30-22:00, Sa 11:30-22:00",
+    "operator": "Bindella",
+    "phone": "+41 44 251 94 00",
+    "website": "https://www.bindella.ch/de/spaghetti-factory-rosenhof.html",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436598,
+      47.3729061
+    ]
+  },
+  "id": "node-370840562"
+}

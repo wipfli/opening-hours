@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5034474651",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "310",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-09-17",
+    "cuisine": "asian",
+    "name": "Sentosa",
+    "opening_hours": "Tu-Su 11:30-14:00,18:00-23:00",
+    "website": "https://restaurant-sentosa.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5125757,
+      47.377487
+    ]
+  },
+  "id": "node-5034474651"
+}

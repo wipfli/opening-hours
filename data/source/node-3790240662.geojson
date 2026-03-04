@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3790240662",
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "59",
+    "addr:postcode": "8001",
+    "addr:street": "R\u00e4mistrasse",
+    "amenity": "restaurant",
+    "capacity": "80",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "raemi59@zfv.ch",
+    "name": "Mensa R\u00e4mi 59",
+    "opening_hours": "Mo-Fr 07:30-15:00 \"w\u00e4hrend Hauptsemester\"",
+    "opening_hours:kitchen": "Mo-Fr 11:00-14:00",
+    "operator": "ZFV-Unternehmungen",
+    "self_service": "yes",
+    "website": "https://www.mensa.uzh.ch/de/menueplaene/raemi59.html"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5498961,
+      47.3720996
+    ]
+  },
+  "id": "node-3790240662"
+}

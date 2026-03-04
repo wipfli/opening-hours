@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6549508262",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "In Gassen",
+    "amenity": "restaurant",
+    "check_date": "2025-08-08",
+    "check_date:opening_hours": "2025-08-08",
+    "cuisine": "steak_house",
+    "name": "Le Relais de l'Entrec\u00f4te",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 12:00-14:45,18:00-22:00",
+    "outdoor_seating": "yes",
+    "start_date": "2019-04",
+    "website": "https://www.relaisentrecote.fr/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406702,
+      47.3705792
+    ]
+  },
+  "id": "node-6549508262"
+}

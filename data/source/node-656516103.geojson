@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/656516103",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "8004",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-19",
+    "name": "Volkshaus",
+    "opening_hours": "Mo-We 08:00-23:30; Th,Fr 08:00-01:00, Sa 09:00-01:00, Su 10:00-23:30",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.restaurantvolkshaus.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5271252,
+      47.3755766
+    ]
+  },
+  "id": "node-656516103"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/983601215",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:street": "Sch\u00fctzengasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-03",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Palette",
+    "opening_hours": "Mo-We 07:00-23:00; Th-Fr 07:00-24:00; Sa 08:00-24:00, Su 08:00-17:00",
+    "outdoor_seating": "yes",
+    "website": "https://palette-z\u00fcrich.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5400686,
+      47.3762153
+    ]
+  },
+  "id": "node-983601215"
+}

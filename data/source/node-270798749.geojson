@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270798749",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "27",
+    "addr:postcode": "8032",
+    "addr:street": "Hottingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "afghan;oriental",
+    "indoor_seating": "yes",
+    "name": "Afghan Anar",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 324 71 78",
+    "website": "https://www.afghananar.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5529812,
+      47.3697919
+    ]
+  },
+  "id": "node-270798749"
+}

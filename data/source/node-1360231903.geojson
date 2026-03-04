@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1360231903",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8003",
+    "addr:street": "Sandstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-09-23",
+    "cuisine": "italian",
+    "name": "Napoli (da Gerardo)",
+    "opening_hours": "Mo 18:00-23:00; Tu-Fr 11:45-14:00,18:00-24:00; Sa 18:00-24:00",
+    "phone": "+41 44 462 07 64",
+    "website": "http://restaurantnapoli.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212488,
+      47.3662269
+    ]
+  },
+  "id": "node-1360231903"
+}

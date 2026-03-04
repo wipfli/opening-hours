@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/10267138041",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "101",
+    "addr:postcode": "8004",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-23",
+    "cuisine": "japanese",
+    "name": "PUTPUTakeaway",
+    "opening_hours": "Mo 11:30-14:30; Tu-Fr 11:30-14:30,17:30-21:00",
+    "website": "http://www.putput.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5252048,
+      47.3764992
+    ]
+  },
+  "id": "node-10267138041"
+}

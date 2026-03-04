@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2648419400",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "112",
+    "addr:postcode": "8003",
+    "addr:street": "Weststrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-25",
+    "contact:instagram": "cor_zurich",
+    "cuisine": "spanish",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@corwineandpintxos.com",
+    "level": "0",
+    "name": "COR Wine & Pintxos",
+    "name:de": "COR Wine & Pintxos",
+    "opening_hours": "We-Sa 17:00-23:00",
+    "phone": "+41 44 548 10 33",
+    "toilets:wheelchair": "no",
+    "website": "https://corwineandpintxos.com/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5203339,
+      47.3722553
+    ]
+  },
+  "id": "node-2648419400"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/914812684",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "30",
+    "addr:postcode": "8004",
+    "addr:street": "B\u00e4ckerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "korean",
+    "name": "Akaraka",
+    "name:ko": "\uc131\uc545\uac00\uc5d0\uc11c \ud55c\uc2dd \uc694\ub9ac\uc0ac\ub85c \ubcc0\uc2e0",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:30",
+    "website": "https://www.akaraka.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5294759,
+      47.3746892
+    ]
+  },
+  "id": "node-914812684"
+}

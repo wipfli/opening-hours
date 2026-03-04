@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9703112521",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "11",
+    "addr:postcode": "8045",
+    "addr:street": "Grubenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "international;pizza;pasta;mezze",
+    "delivery": "yes",
+    "name": "Pizza Binz",
+    "opening_hours": "Mo-Th 11:00-14:00, 17:00-21:00; Fr, Sa 11:00-14:00, 17:00-22:00; Su 11:00-21:00",
+    "phone": "+41 43 333 00 76",
+    "website": "https://pizzabinz.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163091,
+      47.3617013
+    ]
+  },
+  "id": "node-9703112521"
+}

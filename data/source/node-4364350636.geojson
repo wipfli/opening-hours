@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4364350636",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "41",
+    "addr:postcode": "8001",
+    "addr:street": "Talacker",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Talacker",
+    "brand": "Stripped Pizza",
+    "check_date": "2025-06-30",
+    "cuisine": "pizza",
+    "level": "0",
+    "name": "Stripped Pizza",
+    "opening_hours": "11:30-22:00",
+    "operator": "Stripped Pizza",
+    "website": "https://www.stripped-pizza.com/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5347473,
+      47.3717437
+    ]
+  },
+  "id": "node-4364350636"
+}

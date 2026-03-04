@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/271411935",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8001",
+    "addr:street": "Uraniastrasse",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "indoor_seating": "yes",
+    "name": "Brasserie Lipp",
+    "opening_hours": "Mo-Fr 12:00-15:00,18:00-23:00; Sa 12:00-23:00; Su 16:30-22:00",
+    "operator": "Candrian Catering",
+    "outdoor_seating": "yes",
+    "website": "https://www.brasserie-lipp.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5394674,
+      47.3743748
+    ]
+  },
+  "id": "node-271411935"
+}

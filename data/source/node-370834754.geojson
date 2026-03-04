@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370834754",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "68",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "N-68",
+    "opening_hours": "Mo-Th 11:00-23:00, Fr,Sa 11:00-24:00, Su 11:00-22:00",
+    "operator": "Holenstein Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 261 08 12",
+    "website": "https://www.n68.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441177,
+      47.3756656
+    ]
+  },
+  "id": "node-370834754"
+}

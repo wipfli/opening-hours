@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6830405408",
+    "amenity": "restaurant",
+    "check_date": "2025-07-10",
+    "check_date:opening_hours": "2025-06-17",
+    "cuisine": "steak_house",
+    "email": "bellevue@williamsbutcherstable.ch",
+    "level": "0",
+    "name": "Williams ButchersTable",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00; Sa 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 506 75 06",
+    "website": "https://www.williamsbutcherstable.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5450622,
+      47.3682436
+    ]
+  },
+  "id": "node-6830405408"
+}

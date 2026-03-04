@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370840605",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-04-24",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Trattoria Sempre",
+    "opening_hours": "11:30-23:00; Fr,Sa 11:30-23:30",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "website": "https://www.bindella.ch/gastronomie/trattoria-sempre",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436586,
+      47.3729877
+    ]
+  },
+  "id": "node-370840605"
+}

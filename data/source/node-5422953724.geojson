@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5422953724",
+    "addr:housenumber": "140",
+    "addr:street": "Josefstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-08",
+    "cuisine": "ramen",
+    "name": "Sappo",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:00; Sa 12:00-22:00; Su 17:30-22:00",
+    "website": "https://sappo.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5283789,
+      47.3844486
+    ]
+  },
+  "id": "node-5422953724"
+}

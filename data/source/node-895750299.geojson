@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/895750299",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Le D\u00e9zaley Restaurant Vaudois",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://le-dezaley.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438655,
+      47.3705962
+    ]
+  },
+  "id": "node-895750299"
+}

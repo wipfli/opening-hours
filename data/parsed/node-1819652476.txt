@@ -1,0 +1,8 @@
+Looking at the opening hours listed on the website:
+
+- Sunday: 17:00 - 21:00
+- Monday - Thursday: 12:00 - 14:30, 18:00 - 22:00
+
+I notice that Friday and Saturday are not listed at all. This could mean the restaurant is closed on those days, or it could mean the website is only showing partial hours. However, the section appears to be a complete "Opening hours" block, so I'll interpret the absence of Friday and Saturday as closed days.
+
+Su 17:00-21:00; Mo-Th 12:00-14:30,18:00-22:00

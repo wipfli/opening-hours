@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4909023756",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "62",
+    "addr:postcode": "8001",
+    "addr:street": "Talstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "email": "info@edomae.ch",
+    "level": "0",
+    "name": "Edomae",
+    "opening_hours": "Mo-Sa 11:45-14:00, We-Fr,Su-Mo 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 497 26 75",
+    "takeaway": "yes",
+    "website": "https://www.edomae.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357379,
+      47.3706147
+    ]
+  },
+  "id": "node-4909023756"
+}

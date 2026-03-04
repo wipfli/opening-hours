@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4857867455",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8004",
+    "addr:street": "Stauffacherquai",
+    "amenity": "restaurant",
+    "check_date": "2023-09-24",
+    "level": "1",
+    "name": "Helvetia",
+    "opening_hours": "Mo-We 11:30-14:00, 18:30-24:00; Th-Fr 11:30-14:00, 18:00-24:00; Sa-Su 18:00-24:00",
+    "website": "http://www.hotel-helvetia.ch/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5317044,
+      47.3732354
+    ]
+  },
+  "id": "node-4857867455"
+}

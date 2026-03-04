@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/504484427",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8004",
+    "addr:street": "Kochstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-15",
+    "cuisine": "regional",
+    "name": "Caf\u00e9 Boy",
+    "opening_hours": "Mo-Fr 11:30-15:00, 18:00-24:00",
+    "phone": "+41 44 240 40 24",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cafeboy.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Hohe Schwelle am Eingang"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5160184,
+      47.3779179
+    ]
+  },
+  "id": "node-504484427"
+}

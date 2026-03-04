@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1695186448",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "150",
+    "addr:postcode": "8003",
+    "addr:street": "Birmensdorferstrasse",
+    "amenity": "restaurant",
+    "name": "Gasthof Falken Wiedikon",
+    "opening_hours": "Mo-Sa 11:30-24:00, Su 11:30-23:00",
+    "short_name": "Falken",
+    "toilets:wheelchair": "no",
+    "website": "https://www.falken-wiedikon.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5194587,
+      47.3702244
+    ]
+  },
+  "id": "node-1695186448"
+}

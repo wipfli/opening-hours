@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7204648136",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "71",
+    "addr:postcode": "8005",
+    "addr:street": "Konradstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Industrie",
+    "check_date": "2025-07-26",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "NA081",
+    "opening_hours": "Mo 07:30-22:00; Tu-Su 11:30-14:00, 17:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 205 27 93",
+    "website": "https://na081.ch/",
+    "website:menu": "https://zurich.na081.ch/assets/pdf/NA081_Menukarte_DE.pdf",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5334773,
+      47.3818826
+    ]
+  },
+  "id": "node-7204648136"
+}

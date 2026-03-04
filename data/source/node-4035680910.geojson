@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4035680910",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "52",
+    "addr:postcode": "8005",
+    "addr:street": "Ackerstrasse",
+    "amenity": "restaurant",
+    "capacity": "10",
+    "check_date": "2023-04-07",
+    "check_date:opening_hours": "2025-03-31",
+    "cuisine": "indian",
+    "email": "info@himalaya-restaurant.ch",
+    "name": "Himalaya",
+    "opening_hours": "Mo 11:30-14:00; Tu-Fr 11:00-14:00,18:00-22:30; Sa 18:00-22:30",
+    "phone": "+41 44 550 44 00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.himalaya-restaurant.ch/",
+    "website:menu": "https://www.himalaya-restaurant.ch/menukarte/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329144,
+      47.3830864
+    ]
+  },
+  "id": "node-4035680910"
+}

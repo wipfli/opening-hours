@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270800743",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "cuisine": "american",
+    "level": "0",
+    "name": "Papa Joe's Z\u00fcrich",
+    "opening_hours": "Fr-Sa 11:30-01:00; Su-Th 11:30-23:00",
+    "opening_hours:covid19": "off",
+    "outdoor_seating": "yes",
+    "website": "https://www.papajoes.ch/de/Restaurants/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445743,
+      47.3687595
+    ]
+  },
+  "id": "node-270800743"
+}

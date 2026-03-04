@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/6214525777",
+    "amenity": "restaurant",
+    "cuisine": "swiss;regional",
+    "diet:vegetarian": "yes",
+    "email": "info@vrenelis.ch",
+    "name": "Vrenelisg\u00e4rtli",
+    "opening_hours": "Su-Tu 09:00-19:00; We,Sa 09:00-22:00; Th,Fr 10:00-20:00",
+    "operator": "Vrenelisg\u00e4rtli Trendgastronomie GmbH",
+    "phone": "+41 44 461 20 13",
+    "regional": "yes",
+    "website": "https://www.vrenelis.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.505399,
+      47.3677807
+    ]
+  },
+  "id": "node-6214525777"
+}

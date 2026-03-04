@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2920747284",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "8001",
+    "addr:street": "Augustinergasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "So\u00ef 28",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:00-22:00; Tu,We off; Sa 12:00-16:00,18:00-22:00; Su 18:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.widderhotel.com/de/restaurants/soi-28/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5393486,
+      47.3722486
+    ]
+  },
+  "id": "node-2920747284"
+}

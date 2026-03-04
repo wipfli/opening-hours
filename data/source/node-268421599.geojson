@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268421599",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "alt_name": "Suan Long Seefeld",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Suan Long",
+    "old_name": "Asian Moon",
+    "opening_hours": "Mo-Sa 17:30-22:00, Su 11:30-22:00, Mo-Fr 10:30-14:00",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://suanlong.ch/restaurant/suan-long-oerlikon/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5495281,
+      47.3630112
+    ]
+  },
+  "id": "node-268421599"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/305586626",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8005",
+    "addr:street": "Pfingstweidstrasse",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Les Halles",
+    "opening_hours": "Mo-We 11:00-24:00; Th,Fr 11:00+ \"11:00 till late\"; Sa 16:00+ \"16:00 till late\"",
+    "outdoor_seating": "yes",
+    "website": "https://www.les-halles.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5186448,
+      47.3878633
+    ]
+  },
+  "id": "node-305586626"
+}

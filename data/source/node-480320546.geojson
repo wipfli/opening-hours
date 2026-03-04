@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/480320546",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8045",
+    "addr:street": "Uetlibergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Chez Nhan",
+    "old_name": "Hoi An",
+    "opening_hours": "Mo-Fr 10:00-14:30,17:30-23:00, Sa 17:00-23:00; Aug 1 off",
+    "website": "https://www.cheznhan.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.520783,
+      47.3645425
+    ]
+  },
+  "id": "node-480320546"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4313510389",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "8045",
+    "addr:street": "R\u00e4ffelstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-03",
+    "diet:gluten_free": "yes",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@daizy.ch",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Daizy",
+    "opening_hours": "Mo-Fr 08:00-24:00; Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 333 03 28",
+    "self_service": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://daizy.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5123238,
+      47.3631314
+    ]
+  },
+  "id": "node-4313510389"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4869996373",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8001",
+    "addr:street": "N\u00e4gelihof",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Niederdorf",
+    "check_date": "2024-02-12",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "email": "niederdorf@negishi.ch",
+    "level": "0",
+    "name": "Negishi Sushi Bar",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "opening_hours:kitchen": "Mo-Sa 11:00-22:00; Su 12:00-21:30",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 05 10",
+    "takeaway": "yes",
+    "website": "https://www.negishi.ch/zuerich-niederdorf",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5434759,
+      47.3708593
+    ]
+  },
+  "id": "node-4869996373"
+}

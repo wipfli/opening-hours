@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1536879758",
+    "addr:housenumber": "137",
+    "addr:street": "Mutschellenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-19",
+    "check_date:opening_hours": "2022-12-10",
+    "cuisine": "italian",
+    "name": "Allegro",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00",
+    "phone": "+41 44 482 99 55",
+    "ref:vatin": "CHE-307323747",
+    "website": "https://www.restaurantallegro.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287676,
+      47.3468443
+    ]
+  },
+  "id": "node-1536879758"
+}

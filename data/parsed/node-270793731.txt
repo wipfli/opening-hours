@@ -1,0 +1,9 @@
+Looking at the website content, I can see the restaurant mentions specific hours only for their Sunday offering:
+
+"jeden Sonntag, 11.30 – 21.30 Uhr"
+
+However, the website doesn't clearly state the full weekly opening hours. There's a link to "Öffnungszeiten" (opening hours) but the actual hours for other days aren't displayed in the content provided. The site seems to have links that would reveal more details but the content isn't shown here.
+
+Since I only have confirmed hours for Sunday and no information about the rest of the week, I cannot confidently construct a complete opening hours string.
+
+UNSURE

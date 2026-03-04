@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1375347145",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "29",
+    "addr:postcode": "8005",
+    "addr:street": "Mattengasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-09",
+    "check_date:opening_hours": "2022-10-13",
+    "cuisine": "indian",
+    "name": "Don\u2019t Worry Eat Curry",
+    "opening_hours": "Mo-Th 11:30-22:00; Fr,Sa 11:30-23:00",
+    "opening_hours:signed": "no",
+    "phone": "+41 43 366 82 94",
+    "takeaway": "yes",
+    "website": "https://www.dontworry-eatcurry.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5307697,
+      47.3828582
+    ]
+  },
+  "id": "node-1375347145"
+}

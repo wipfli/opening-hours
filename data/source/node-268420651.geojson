@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/268420651",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "62",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-12-11",
+    "check_date:diet:vegan": "2025-12-11",
+    "check_date:diet:vegetarian": "2025-12-11",
+    "check_date:smoking": "2025-11-13",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Ginger",
+    "opening_hours": "Mo-We 11:45-14:00,17:30-23:00; Th-Fr 11:45-14:00,17:30-24:00; Sa 17:30-24:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 422 95 09",
+    "smoking": "outside",
+    "website": "https://ginger-restaurant.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5506873,
+      47.3618394
+    ]
+  },
+  "id": "node-268420651"
+}

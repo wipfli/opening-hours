@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3862642766",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "102",
+    "addr:postcode": "8005",
+    "addr:street": "Josefstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-03-19",
+    "name": "MeiXin",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://meixin-tischgrill.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5303841,
+      47.3834555
+    ]
+  },
+  "id": "node-3862642766"
+}

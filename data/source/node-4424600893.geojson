@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4424600893",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:place": "Hauptbahnhof, S\u00fcdtrakt",
+    "addr:postcode": "8001",
+    "amenity": "restaurant",
+    "check_date": "2025-05-23",
+    "cuisine": "pizza",
+    "indoor": "yes",
+    "level": "0",
+    "name": "San Gennaro",
+    "opening_hours": "06:00-21:00",
+    "opening_hours:kitchen": "11:00-21:00",
+    "website": "https://sangennarozurigo.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398232,
+      47.3777733
+    ]
+  },
+  "id": "node-4424600893"
+}

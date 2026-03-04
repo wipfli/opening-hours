@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/289669633",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8002",
+    "addr:street": "Sternenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "L'Altro",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-24:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00, 18:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.l-altro.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5340786,
+      47.3600645
+    ]
+  },
+  "id": "node-289669633"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5280373588",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "7",
+    "addr:postcode": "8045",
+    "addr:street": "Friesenbergplatz",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@restaurant-lapiazza.ch",
+    "name": "La Piazza",
+    "opening_hours": "Mo off; Tu-Th 11:00-22:00; Fr 11:00-23:00; Sa 10:00-23:00; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 291 99 11",
+    "website": "https://www.restaurant-lapiazza.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5072374,
+      47.3606107
+    ]
+  },
+  "id": "node-5280373588"
+}

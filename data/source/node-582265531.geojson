@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/582265531",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "103",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-12",
+    "cuisine": "regional",
+    "name": "Gambrinus",
+    "opening_hours": "Mo-Fr 09:00-24:00; Sa-Su 10:00-24:00",
+    "operator": "Beffa Gastro",
+    "website": "https://gambrinus-langstrasse.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5270372,
+      47.3787576
+    ]
+  },
+  "id": "node-582265531"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5924367485",
+    "addr:housenumber": "35",
+    "addr:street": "Stauffacherstrasse",
+    "alt_name": "Mythos Z\u00fcrich",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich",
+    "check_date": "2026-02-28",
+    "cuisine": "greek",
+    "indoor_seating": "yes",
+    "name": "Mythos",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-22:30; Su 12:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 372 29 54",
+    "website": "https://mymythos.ch/de/zuerich/home",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5285146,
+      47.3737799
+    ]
+  },
+  "id": "node-5924367485"
+}

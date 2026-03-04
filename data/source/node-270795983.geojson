@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270795983",
+    "amenity": "restaurant",
+    "check_date": "2025-11-15",
+    "check_date:smoking": "2025-11-15",
+    "name": "Restaurant Zauberberg",
+    "opening_hours": "Mo-Fr 08:30-14:00",
+    "smoking": "no",
+    "website": "https://www.pukzh.ch/patienten-angehoerige/informationen-fuer-erwachsene/hotellerie/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5599915,
+      47.3632165
+    ]
+  },
+  "id": "node-270795983"
+}

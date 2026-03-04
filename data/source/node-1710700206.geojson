@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1710700206",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8008",
+    "addr:street": "Bellerivestrasse",
+    "alt_name": "Molino Frascati",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Seefeld",
+    "brand": "Molino",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Ristorante Frascati",
+    "opening_hours": "Mo-Sa 09:00-24:00; Su 10:00-24:00",
+    "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
+    "operator": "Ospena Group",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 443 06 06",
+    "source": "bing",
+    "website": "https://molino.ch/de/ristorante-frascati",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478901,
+      47.3608803
+    ]
+  },
+  "id": "node-1710700206"
+}

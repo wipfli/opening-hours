@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1413703430",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "141",
+    "addr:postcode": "8004",
+    "addr:street": "Sihlfeldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-01",
+    "check_date:opening_hours": "2025-09-01",
+    "cuisine": "peruvian",
+    "name": "Barranco",
+    "opening_hours": "Tu-Su 18:00-24:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.barranco.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5158016,
+      47.3792301
+    ]
+  },
+  "id": "node-1413703430"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1535560721",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8002",
+    "addr:street": "Waffenplatzstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Don Leone",
+    "opening_hours": "Mo-Sa 11:00-14:30,17:30-22:00, Su 17:30-22:00, Sa 17:00-22:00",
+    "phone": "+41 44 281 94 30",
+    "takeaway": "yes",
+    "website": "https://donleone.ch/waffenplatz/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5266838,
+      47.3611874
+    ]
+  },
+  "id": "node-1535560721"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4833061595",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:place": "Hauptbahnhof, Querhalle",
+    "addr:postcode": "8001",
+    "amenity": "restaurant",
+    "check_date": "2025-05-23",
+    "indoor": "yes",
+    "level": "1",
+    "name": "Time... Lounge",
+    "opening_hours": "Mo-We 07:30-22:00; Th 07:30-23:00; Fr 07:30-24:00; Sa 09:00-24:00; Su 09:00-22:00",
+    "operator": "Candrian Catering",
+    "website": "https://www.time-lounge.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5393944,
+      47.3777455
+    ]
+  },
+  "id": "node-4833061595"
+}

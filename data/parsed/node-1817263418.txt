@@ -1,0 +1,11 @@
+Let me parse the hours from the website:
+
+- Mittag (lunch): Mo-Fr 11:30-14:00
+- Abend (evening): Mo-Sa 18:00-24:00
+
+So:
+- Monday to Friday: 11:30-14:00 and 18:00-24:00
+- Saturday: 18:00-24:00
+- Sunday: closed
+
+Mo-Fr 11:30-14:00,18:00-24:00; Sa 18:00-24:00

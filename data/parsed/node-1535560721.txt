@@ -1,0 +1,7 @@
+The Waffenplatz location hours are:
+
+- Montag - Freitag: 11:00-14:30, 17:00-22:30
+- Samstag: 17:00-22:00
+- Sonntag: 17:00-22:30
+
+Mo-Fr 11:00-14:30,17:00-22:30; Sa 17:00-22:00; Su 17:00-22:30

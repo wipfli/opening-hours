@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/105459350",
+    "access:covid19": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "28a",
+    "addr:postcode": "8001",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-20",
+    "delivery:covid19": "no",
+    "drive_through:covid19": "no",
+    "email": "info@zeughauskeller.ch",
+    "name": "Zeughauskeller",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "outdoor_seating": "pedestrian_zone",
+    "phone": "+41 44 220 15 15",
+    "takeaway:covid19": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.zeughauskeller.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Zugang m. kleinem Absatz, tlw. sehr eng"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399233,
+      47.3703727
+    ]
+  },
+  "id": "node-105459350"
+}

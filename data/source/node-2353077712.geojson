@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2353077712",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "59",
+    "addr:postcode": "8004",
+    "addr:street": "Herdernstrasse",
+    "amenity": "restaurant",
+    "name": "Schlachthof Letzigrund",
+    "opening_hours": "Tu-Su 11:30-23:00",
+    "opening_hours:kitchen": "Tu-Su 11:30-21:30",
+    "website": "http://schlachthof-letzigrund.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5060791,
+      47.3834741
+    ]
+  },
+  "id": "node-2353077712"
+}

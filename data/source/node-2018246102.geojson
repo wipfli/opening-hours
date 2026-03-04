@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2018246102",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "341",
+    "addr:postcode": "8045",
+    "addr:street": "Uetlibergstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@albisguetli.ch",
+    "contact:facebook": "https://www.facebook.com/Albisguetli/",
+    "contact:phone": "+41 43 333 30 00",
+    "contact:website": "https://www.albisguetli.ch",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Sch\u00fctzenhaus Albisg\u00fcetli",
+    "opening_hours": "Mo-Sa 08:00-23:30; Su 09:00-23:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.albisguetli.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5083976,
+      47.3522874
+    ]
+  },
+  "id": "node-2018246102"
+}

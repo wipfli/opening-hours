@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1363069723",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8001",
+    "addr:street": "Gessnerallee",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2024-12-13",
+    "cuisine": "regional",
+    "email": "reservation@riithalle.ch",
+    "name": "Riithalle",
+    "opening_hours": "Mo-We 11:00-23:00; Th-Fr 11:00-24:00; Sa 12:00-24:00; Su 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 212 07 66",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.riithalle.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Code f\u00fcr Toilette im Restaurant verlangen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5345411,
+      47.3745929
+    ]
+  },
+  "id": "node-1363069723"
+}

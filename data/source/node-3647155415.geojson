@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3647155415",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "65",
+    "addr:postcode": "8045",
+    "addr:street": "Giessh\u00fcbelstrasse",
+    "alt_name": "Migros Restaurant Brunaupark",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Brunaupark",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "delivery": "no",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "phone": "+41 44 462 38 66",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-brunaupark"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5175686,
+      47.3581623
+    ]
+  },
+  "id": "node-3647155415"
+}

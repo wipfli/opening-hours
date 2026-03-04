@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/5803645582",
+    "amenity": "restaurant",
+    "check_date": "2024-08-24",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Roi-Et",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 291 58 30",
+    "website": "https://www.roi-et.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5261448,
+      47.3805838
+    ]
+  },
+  "id": "node-5803645582"
+}

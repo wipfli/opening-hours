@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/848939013",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "125",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-03-02",
+    "cuisine": "african",
+    "name": "Queen Idia African Restaurant",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-02:00; Su 15:00-22:00",
+    "website": "https://www.queenidia.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5234872,
+      47.3742019
+    ]
+  },
+  "id": "node-848939013"
+}

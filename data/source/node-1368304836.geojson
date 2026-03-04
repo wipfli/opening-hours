@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1368304836",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "81",
+    "addr:postcode": "8032",
+    "addr:street": "Asylstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-27",
+    "cuisine": "italian",
+    "email": "info@restaurant-luca.ch",
+    "indoor_seating": "yes",
+    "name": "Luca\u00b2",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-24:00; Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 03 53",
+    "website": "https://www.restaurant-luca.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5616996,
+      47.3667843
+    ]
+  },
+  "id": "node-1368304836"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1728953807",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-12-11",
+    "check_date:diet:vegetarian": "2025-12-11",
+    "check_date:smoking": "2025-12-11",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Sazio Osteria",
+    "opening_hours": "Mo 11:00-18:30; Tu-Th 11:00-23:00; Fr 11:00-18:30; Sa 11:00-16:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.sazio.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5495722,
+      47.3635603
+    ]
+  },
+  "id": "node-1728953807"
+}

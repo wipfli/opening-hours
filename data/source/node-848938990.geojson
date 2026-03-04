@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/848938990",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-23",
+    "cuisine": "pizza",
+    "name": "SO Pizza",
+    "opening_hours": "Mo-Th 12:00-13:30, 18:00-22:00; Fr 12:00-13:30, 18:00-23:00; Sa 18:00-23:00; Su 18:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.so.pizza/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5250339,
+      47.3752425
+    ]
+  },
+  "id": "node-848938990"
+}

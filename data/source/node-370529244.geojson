@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/370529244",
+    "addr:housenumber": "15",
+    "addr:street": "Untere Z\u00e4une",
+    "amenity": "restaurant",
+    "check_date": "2024-02-12",
+    "name": "zum Gr\u00fcnen Glas",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00; PH closed",
+    "phone": "+41 44 251 62 04",
+    "website": "https://www.gruenesglas.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457722,
+      47.3715334
+    ]
+  },
+  "id": "node-370529244"
+}

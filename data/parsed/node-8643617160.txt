@@ -1,0 +1,9 @@
+The website content contains the following opening hours statement:
+
+"Wir sind Montag bis Freitag ab 9 Uhr für Sie da. Samstags ab 14 Uhr."
+
+This translates to: "We are open Monday to Friday from 9 AM. Saturdays from 2 PM."
+
+However, there is no information about closing times or Sunday hours, making the opening hours string incomplete. Since I cannot confidently determine the complete and accurate opening hours string (closing times are missing, and Sunday status is unclear), I must return:
+
+UNSURE

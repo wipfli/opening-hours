@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/9811058009",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "cuisine": "lebanese",
+    "level": "0",
+    "name": "Noon",
+    "opening_hours": "Tu-Fr 11:30-14:30,17:30-23:00; Sa 17:00-23:00; PH closed",
+    "outdoor_seating": "yes",
+    "website": "https://noonexpress.ch",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5454206,
+      47.3686967
+    ]
+  },
+  "id": "node-9811058009"
+}

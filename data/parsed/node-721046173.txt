@@ -1,0 +1,11 @@
+I can see information about multiple restaurants belonging to the Stiftung Arbeitskette organization, including Limmathof. However, the website content only provides detailed opening hours for the Alpenrose restaurant:
+
+Alpenrose:
+- Montag Ruhetag (Monday closed)
+- Dienstag bis Freitag 11.00 - 23.00 Uhr
+- Samstag 17.30 bis 23.00 Uhr
+- Sonntag 17.30 bis 22.00 Uhr
+
+For Limmathof (the venue specified in the OpenStreetMap tags), the website only lists it as "Restaurant & Bar Limmathof" with an address but does NOT provide any opening hours information.
+
+UNSURE

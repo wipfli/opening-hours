@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/894788899",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "19",
+    "addr:postcode": "8001",
+    "addr:street": "Obere Z\u00e4une",
+    "amenity": "restaurant",
+    "email": "info@hotelbourbon.ch",
+    "indoor_seating": "yes",
+    "name": "H\u00f4tel Bourbon",
+    "note": "This is the bar belonging to the restaurant next door. It's not a hotel, despite the name.",
+    "opening_hours": "Mo-Th 11:00-00:00; Fr 11:00-25:00; Sa 12:00-25:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 253 20 20",
+    "website": "https://www.hotelbourbon.ch/",
+    "website:menu": "https://www.hotelbourbon.ch/menu",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5446644,
+      47.3716921
+    ]
+  },
+  "id": "node-894788899"
+}

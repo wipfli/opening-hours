@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/656649674",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8004",
+    "addr:street": "Brauerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-19",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Ach'i",
+    "note:covid19": "Take Away verf\u00fcgbar im Restaurant Khujug an der Sch\u00f6neggstrasse 5",
+    "opening_hours": "Mo-Fr 11:00-14:30, 18:00-22:00; Sa 12:00-22:00; Su 17:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 542 88 85",
+    "website": "https://www.achi.restaurant/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287783,
+      47.3770439
+    ]
+  },
+  "id": "node-656649674"
+}

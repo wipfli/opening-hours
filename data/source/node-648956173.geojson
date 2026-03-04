@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/648956173",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8001",
+    "addr:street": "Selnaustrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "asian",
+    "name": "Nagasui",
+    "opening_hours": "Mo-Fr 11:00-15:00,18:00-22:00; Sa 18:00-23:00; PH closed",
+    "phone": "+41 44 288 38 88",
+    "website": "http://www.nagasui.ch",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328922,
+      47.3702331
+    ]
+  },
+  "id": "node-648956173"
+}

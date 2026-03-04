@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/313212365",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "alt_name": "Suan Long Langstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Langstrasse",
+    "check_date": "2023-05-23",
+    "cuisine": "chinese;thai",
+    "name": "Suan Long",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://suanlong.ch/restaurant/suan-long-langstrasse/",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5244037,
+      47.3748589
+    ]
+  },
+  "id": "node-313212365"
+}

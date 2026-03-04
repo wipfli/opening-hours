@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/312530452",
+    "addr:housenumber": "38",
+    "addr:street": "Rotwandstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-24",
+    "cuisine": "regional;swiss",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Fribourger St\u00fcbli",
+    "opening_hours": "Tu-Su 18:00+",
+    "website": "https://www.fribourger-fondue-stuebli.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5281814,
+      47.375039
+    ]
+  },
+  "id": "node-312530452"
+}

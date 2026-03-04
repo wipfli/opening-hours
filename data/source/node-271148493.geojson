@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/271148493",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:place": "Stadelhoferpassage",
+    "addr:postcode": "8001",
+    "addr:street": "Stadelhoferstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Stadelhofen",
+    "check_date": "2025-07-02",
+    "check_date:diet:vegetarian": "2025-07-02",
+    "diet:vegetarian": "yes",
+    "email": "stadelhofen@outback-lodge.ch",
+    "level": "0",
+    "name": "Outback Lodge",
+    "opening_hours": "Mo-Th 11:30-24:00, Fr-Sa 11:30-01:00, Su 11:30-23:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 252 15 75",
+    "website": "https://www.outback-lodge.ch/stadelhofen",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5477023,
+      47.3670788
+    ]
+  },
+  "id": "node-271148493"
+}

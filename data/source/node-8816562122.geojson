@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/8816562122",
+    "addr:housenumber": "111",
+    "addr:postcode": "8005",
+    "addr:street": "Zollstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-17",
+    "cuisine": "italian",
+    "email": "riservazioni@lasantasete.restaurant",
+    "level": "0",
+    "name": "La Santa Sete",
+    "name:de": "La Santa Sete",
+    "name:it": "La Santa Sete",
+    "opening_hours": "Mo-Fr 12:00-01:00; Sa 16:00-02:00",
+    "phone": "+41 44 440 15 44",
+    "website": "https://lasantasete.restaurant",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5309594,
+      47.381234
+    ]
+  },
+  "id": "node-8816562122"
+}

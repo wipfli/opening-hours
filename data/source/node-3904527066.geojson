@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3904527066",
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8005",
+    "addr:street": "Pfingstweidstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-04",
+    "check_date:diet:vegetarian": "2026-02-04",
+    "cuisine": "regional;asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Flor",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 201 30 90",
+    "website": "https://www.restaurant-flor.ch/angebot",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5176146,
+      47.3882232
+    ]
+  },
+  "id": "node-3904527066"
+}

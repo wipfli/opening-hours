@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4833061571",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "51",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldquai",
+    "amenity": "restaurant",
+    "name": "Restaurant Kiosk",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "operator": "Pumpstation Gastro",
+    "outdoor_seating": "yes",
+    "website": "https://restaurant-kiosk.ch/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478933,
+      47.358135
+    ]
+  },
+  "id": "node-4833061571"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/270797381",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8008",
+    "addr:street": "Hammerstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Neum\u00fcnster",
+    "opening_hours": "Tu-Fr 11:00-14:00, Tu-Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.restaurant-neumuenster.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5585046,
+      47.3596206
+    ]
+  },
+  "id": "node-270797381"
+}

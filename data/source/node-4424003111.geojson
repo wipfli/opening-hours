@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/4424003111",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "97",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Badenerstrasse",
+    "check_date": "2024-06-19",
+    "cuisine": "korean",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Miss Miu",
+    "old_name": "The Butcher",
+    "opening_hours": "Mo-Fr 11:00-23:00, Sa 12:00-23:00, Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:twint": "yes",
+    "phone": "+41 44 525 00 80",
+    "start_date": "2020-08-17",
+    "toilets:wheelchair": "no",
+    "website": "https://www.miss-miu.ch/de/home",
+    "wheelchair": "limited"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5254278,
+      47.3739923
+    ]
+  },
+  "id": "node-4424003111"
+}

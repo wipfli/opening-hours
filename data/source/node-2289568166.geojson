@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2289568166",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8008",
+    "addr:street": "Zollikerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Darbar",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa-Su 12:00-22:00; PH closed",
+    "takeaway": "yes",
+    "website": "https://www.darbar.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5548578,
+      47.3642732
+    ]
+  },
+  "id": "node-2289568166"
+}

@@ -1,0 +1,10 @@
+Looking at the website content for Restaurant Vulkan, I can find the opening hours in the "ÖFFNUNGSZEITEN" section:
+
+- Mon bis Don (Mon-Thu): 11:30-13:30, 17:30-22:00
+- Fre (Fri): 11:30-13:30, 17:30-23:00
+- Sam (Sat): 17:30-23:00
+- Son (Sun): 11:00-21:30
+
+Converting to OpenStreetMap format:
+
+Mo-Th 11:30-13:30,17:30-22:00; Fr 11:30-13:30,17:30-23:00; Sa 17:30-23:00; Su 11:00-21:30

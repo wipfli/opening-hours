@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/311607628",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "44",
+    "addr:postcode": "8004",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "capacity": "70",
+    "check_date": "2023-09-24",
+    "cuisine": "tibetan",
+    "email": "langstrasse@tenz.ch",
+    "name": "Tenz Momo",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr 11:30-14:00,17:30-24:00; Sa 16:00-24:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 816 80 44",
+    "website": "https://www.tenz.ch",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5262968,
+      47.3775516
+    ]
+  },
+  "id": "node-311607628"
+}

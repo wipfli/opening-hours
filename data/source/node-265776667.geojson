@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/265776667",
+    "amenity": "restaurant",
+    "check_date": "2023-11-14",
+    "currency:BCH": "yes",
+    "email": "info@grain.ch",
+    "name": "Grain",
+    "old_name": "Zum Vorderberg",
+    "opening_hours": "Su 10:00-23:00; Tu-Th 11:00-14:00, 17:00-23:00; Fr 11:00-14:00, 17:00-00:00",
+    "website": "https://grain.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.559374,
+      47.3761503
+    ]
+  },
+  "id": "node-265776667"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2915838517",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8004",
+    "addr:street": "Lutherstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Stauffacher",
+    "cuisine": "pasta",
+    "indoor_seating": "yes",
+    "name": "Tschingg",
+    "opening_hours": "Mo-Sa 08:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 210 38 13",
+    "smoking": "outside",
+    "website": "https://www.tschingg.eu/",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5296981,
+      47.373809
+    ]
+  },
+  "id": "node-2915838517"
+}

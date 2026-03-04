@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/8194906483",
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "138",
+    "addr:postcode": "8001",
+    "addr:street": "Limmatquai",
+    "amenity": "restaurant",
+    "check_date": "2025-10-01",
+    "cuisine": "chinese",
+    "email": "chopstick168@gmx.ch",
+    "name": "Chopstick",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "opening_hours:kitchen": "Mo-Fr 11:00-14:00,17:00-24:00, Sa-Su 11:00-24:00",
+    "phone": "+41 44 262 58 88",
+    "website": "https://www.hotpot-restaurant.ch/",
+    "website:menu": "https://www.hotpot-restaurant.ch/uber-uns#&gid=1152691079&pid=1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438763,
+      47.3760514
+    ]
+  },
+  "id": "node-8194906483"
+}

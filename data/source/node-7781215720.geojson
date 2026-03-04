@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/7781215720",
+    "amenity": "restaurant",
+    "level": "13;14",
+    "name": "Haute",
+    "opening_hours": "Mo-Fr 11:30-24:00",
+    "website": "https://haute.ch/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5352381,
+      47.3704443
+    ]
+  },
+  "id": "node-7781215720"
+}

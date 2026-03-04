@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/3210925378",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "134",
+    "addr:postcode": "8003",
+    "addr:street": "Kalkbreitestrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-20",
+    "cuisine": "vietnamese",
+    "indoor_seating": "yes",
+    "name": "Xi Muoi",
+    "old_name": "Cafe Uetli",
+    "opening_hours": "Mo-Fr 05:30-20:00, Sa-Su 06:30-20:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://ximuoi.ch/",
+    "wheelchair": "no"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5138447,
+      47.3706027
+    ]
+  },
+  "id": "node-3210925378"
+}
