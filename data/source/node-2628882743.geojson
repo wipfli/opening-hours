@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8943236,
+      47.2190428
+    ]
+  },
+  "properties": {
+    "id": 2628882743,
+    "addr:city": "Bollingen",
+    "addr:country": "CH",
+    "addr:housenumber": "43",
+    "addr:postcode": "8715",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "location": "lakeside",
+    "name": "Schifffahrt",
+    "opening_hours": "Th-Sa 11:00+, Su 09:00+",
+    "phone": "+41 55 212 33 16",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurant-schifffahrt.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2628882743
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.851225,
+      46.1811434
+    ]
+  },
+  "properties": {
+    "id": 6475027135,
+    "addr:city": "Tenero-Contra",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "6598",
+    "addr:street": "Piazza G. Canevascini",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "ristorantebarpiazza@gmail.com",
+    "facebook": "https://www.facebook.com/Ristorantepizzeriapiazzatenero/",
+    "name": "Piazza",
+    "opening_hours": "Mo-Sa 07:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 745 82 26",
+    "website": "https://www.ristorantepiazzatenero.ch/"
+  },
+  "id": 6475027135
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7235598,
+      47.501673
+    ]
+  },
+  "properties": {
+    "id": 4095987418,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "21",
+    "addr:postcode": "8400",
+    "addr:street": "Rudolfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "Mo-Sa 11:30-13:30,17:30-21:30; Su 17:30-21:30",
+    "indoor_seating": "yes",
+    "name": "Gastronomie am Gleis",
+    "opening_hours": "Mo-Th 09:00-23:00, Fr 09:00-00:30, Sa 09:00-00:30, Su 13:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.gastronomieamgleiswinterthur.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4095987418
+}

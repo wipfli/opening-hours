@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0338472,
+      47.4800302
+    ]
+  },
+  "properties": {
+    "id": 4945476936,
+    "addr:city": "Bronschhofen",
+    "addr:housenumber": "43",
+    "addr:postcode": "9552",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@restaurantwuere.ch",
+    "cuisine": "pizza;italian",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant W\u00fcre",
+    "opening_hours": "Tu-Fr 08:00-14:00,17:00-23:30; Sa 17:00-23:30; Su 17:00-21:30",
+    "phone": "+41 71 912 31 41",
+    "website": "https://restaurantwuere.ch/"
+  },
+  "id": 4945476936
+}

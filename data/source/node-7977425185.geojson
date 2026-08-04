@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9230729,
+      46.3952768
+    ]
+  },
+  "properties": {
+    "id": 7977425185,
+    "addr:city": "Villeneuve VD",
+    "addr:housenumber": "89",
+    "addr:postcode": "1844",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "internet_access": "wlan",
+    "name": "La Gondola",
+    "opening_hours": "Mo,Th,Fr,Sa 08:30-15:00,18:00-24:00; Tu 08:30-15:00; Su 08:30-15:00",
+    "phone": "+41 21 960 31 36",
+    "website": "https://www.la-gondola-veneziana.ch/"
+  },
+  "id": 7977425185
+}

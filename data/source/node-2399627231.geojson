@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5938323,
+      47.4537478
+    ]
+  },
+  "properties": {
+    "id": 2399627231,
+    "addr:housenumber": "54",
+    "addr:street": "Graswinkelstrasse",
+    "amenity": "restaurant",
+    "name": "Hans im Gl\u00fcck Gasthaus",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa-Su 10:00-23:00",
+    "operator": "Pigna",
+    "phone": "+41 44 800 15 15",
+    "website": "https://www.pigna.ch/gasthaus",
+    "wheelchair": "yes"
+  },
+  "id": 2399627231
+}

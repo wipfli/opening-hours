@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5096105,
+      47.3783291
+    ]
+  },
+  "properties": {
+    "id": 266630370,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "355",
+    "addr:postcode": "8003",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "email": "info@loklak.ch",
+    "name": "Lok Lak Asian Eatery",
+    "opening_hours": "Mo-Su 11:00-14:00,17:30-22:00",
+    "phone": "+41 44 492 00 07",
+    "website": "https://loklak.ch/"
+  },
+  "id": 266630370
+}

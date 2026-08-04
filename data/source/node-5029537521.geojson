@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9040822,
+      47.3636578
+    ]
+  },
+  "properties": {
+    "id": 5029537521,
+    "addr:city": "Trimbach",
+    "addr:country": "CH",
+    "addr:postcode": "4632",
+    "amenity": "restaurant",
+    "cuisine": "burger;sandwich;coffee_shop;pasta;pizza;chicken;italian_pizza;kebab;turkish;barbecue",
+    "delivery": "yes",
+    "email": "info@pizzeria-mor.ch",
+    "internet_access": "wlan",
+    "name": "Pizzeria mor",
+    "name:de": "Pizzeria mor",
+    "name:en": "Pizzeria mor",
+    "name:fr": "Pizzeria mor",
+    "name:tr": "Pizzeria mor",
+    "opening_hours": "Tu-Su 10:00-23:00",
+    "phone": "+41622932030",
+    "takeaway": "yes",
+    "website": "https://www.pizzeria-mor.ch/"
+  },
+  "id": 5029537521
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4483505,
+      46.9483873
+    ]
+  },
+  "properties": {
+    "id": 1822197927,
+    "amenity": "restaurant",
+    "contact:addr": "Rathausgasse 73, 3011 Bern",
+    "contact:phone": "+41 31 3181888",
+    "cuisine": "asian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Soriya Asia Restaurant",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "source": "website",
+    "takeaway": "yes",
+    "website": "https://soriya.ch/"
+  },
+  "id": 1822197927
+}

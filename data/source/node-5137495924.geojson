@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.447453,
+      46.946631
+    ]
+  },
+  "properties": {
+    "id": 5137495924,
+    "amenity": "restaurant",
+    "contact:addr": "Kochergasse 1, 3011 Bern",
+    "contact:email": "info@dakeli.ch",
+    "contact:facebook": "https://www.facebook.com/dakelibern",
+    "contact:instagram": "https://www.instagram.com/restaurantpizzeriadakeli",
+    "contact:phone": "+41 31 8192020",
+    "contact:twitter": "https://twitter.com/pizzeriadakeli",
+    "contact:website": "http://www.dakeli.ch/contact",
+    "cuisine": "italian;pizza",
+    "name": "Da Keli",
+    "opening_hours": "Mo-Th 07:00-23:00; Fr 07:00-00:30; Sa 09:00-00:30; Su off; PH off",
+    "source": "Survey and website",
+    "website": "https://www.dakeli.ch/"
+  },
+  "id": 5137495924
+}

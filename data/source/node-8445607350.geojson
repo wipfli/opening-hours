@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5144729,
+      47.3904223
+    ]
+  },
+  "properties": {
+    "id": 8445607350,
+    "addr:floor": "0",
+    "addr:housenumber": "60",
+    "addr:street": "Pfingstweidstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-14",
+    "check_date:opening_hours": "2024-10-10",
+    "cuisine": "thai",
+    "level": "0",
+    "name": "Thai Style",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.thaistylerestaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 8445607350
+}

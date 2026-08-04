@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5999814,
+      47.2612888
+    ]
+  },
+  "properties": {
+    "id": 2603710987,
+    "addr:city": "Horgen",
+    "addr:housenumber": "29",
+    "addr:postcode": "8810",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "location": "lakeside",
+    "name": "L'O",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "operator": "Pumpstation Gastro",
+    "website": "https://www.lo-horgen.ch/"
+  },
+  "id": 2603710987
+}

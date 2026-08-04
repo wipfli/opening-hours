@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2998512,
+      46.7955091
+    ]
+  },
+  "properties": {
+    "id": 2652022158,
+    "addr:city": "Scuol",
+    "addr:country": "CH",
+    "addr:housenumber": "152",
+    "addr:street": "Rabl\u00fczza",
+    "addr:zip": "7550",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Engiadina",
+    "opening_hours": "Mo-Su 16:30-18:00+",
+    "outdoor_seating": "no",
+    "phone": "+41818641421",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.hotel-engiadina.ch/"
+  },
+  "id": 2652022158
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6232503,
+      46.5260991
+    ]
+  },
+  "properties": {
+    "id": 12706726191,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "2",
+    "addr:postcode": "1004",
+    "addr:street": "Chemin des Rosiers",
+    "amenity": "restaurant",
+    "description": "La Cantine sociale et solidaire g\u00e8re les fourneaux et le service du midi en semaine de La Station",
+    "name": "La Cantine sociale et solidaire",
+    "opening_hours": "Mo-Fr 11:30-14:30",
+    "phone": "+41 21 646 31 60",
+    "reservation": "no",
+    "website": "https://www.lacantinelausanne.ch/"
+  },
+  "id": 12706726191
+}

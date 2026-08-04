@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4422891,
+      46.9502636
+    ]
+  },
+  "properties": {
+    "id": 3269626137,
+    "alt_name": "COWBOYS-BAR",
+    "amenity": "restaurant",
+    "check_date": "2023-02-02",
+    "contact:addr": "Speichergasse 37, 3011 Bern",
+    "contact:email": "info@cowboysbar.ch",
+    "contact:fax": "+41 31 3119269",
+    "contact:phone": "+41 31 3119270",
+    "name": "Cowboys",
+    "opening_hours": "Tu-Th 22:00-03:30; Fr-Sa 21:00-05:30",
+    "operator": "Mehmet Anik",
+    "source": "survey and website",
+    "website": "https://www.cowboysbar.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3269626137
+}

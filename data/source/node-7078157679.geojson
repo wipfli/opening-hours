@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1387342,
+      47.1722577
+    ]
+  },
+  "properties": {
+    "id": 7078157679,
+    "addr:city": "Schenkon",
+    "addr:housenumber": "23",
+    "addr:postcode": "6214",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "OXN",
+    "amenity": "restaurant",
+    "email": "info@oxn-schenkon.ch",
+    "name": "OX'n",
+    "opening_hours": "We-Th 11:30-14:00,17:00-23:00; Fr 11:30-13:00,17:00-24:00; Sa 11:00-24:00",
+    "phone": "+41 41 921 20 00",
+    "website": "https://www.oxn-schenkon.ch/",
+    "wheelchair": "no"
+  },
+  "id": 7078157679
+}

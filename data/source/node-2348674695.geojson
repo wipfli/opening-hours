@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.487962,
+      47.375994
+    ]
+  },
+  "properties": {
+    "id": 2348674695,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "330",
+    "addr:postcode": "8047",
+    "addr:street": "Albisriederstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Trattoria Emilia",
+    "name:de": "Trattoria Emilia",
+    "opening_hours": "Tu-Su 11:00-23:00; Mo off",
+    "outdoor_seating": "yes",
+    "website": "https://trattoriaemilia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2348674695
+}

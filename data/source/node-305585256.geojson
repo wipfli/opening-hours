@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8578081,
+      47.2554163
+    ]
+  },
+  "properties": {
+    "id": 305585256,
+    "addr:city": "R\u00fcti ZH",
+    "addr:housenumber": "72",
+    "addr:postcode": "8630",
+    "addr:street": "Ferrachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sternen",
+    "opening_hours": "Tu-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 240 45 51",
+    "website": "https://sternenrueti.ch"
+  },
+  "id": 305585256
+}

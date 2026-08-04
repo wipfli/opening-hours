@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4360958,
+      46.9466117
+    ]
+  },
+  "properties": {
+    "id": 11871616433,
+    "addr:city": "Bern",
+    "addr:housenumber": "14",
+    "addr:postcode": "3011",
+    "addr:street": "Maulbeerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;cake;salad",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "BoulderBad Bistro",
+    "opening_hours": "Mo-We 07:00-22:30; Th 11:30-22:30; Fr 09:00-22:30; Sa 09:00-19:00; Su 09:00-19:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.muubeeri.ch"
+  },
+  "id": 11871616433
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4534189,
+      46.9608671
+    ]
+  },
+  "properties": {
+    "id": 540599716,
+    "alt_name": "Ristorante Dolce Vita",
+    "amenity": "restaurant",
+    "contact:addr": "Scheibenstrasse 25, 3014 Bern",
+    "contact:email": "info@la-dolcevita.ch",
+    "contact:phone": "+41 31 3315515",
+    "contact:website": "http://www.la-dolcevita.ch/index.php?page=kontakt",
+    "cuisine": "italian",
+    "name": "Dolce Vita",
+    "opening_hours": "Mo-Th 08:00-23:30; Fr-Sa 08:00-00:30; Su 08:00-23:30",
+    "source": "survey and website",
+    "website": "https://la-dolcevita.ch/"
+  },
+  "id": 540599716
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7402957,
+      47.4963918
+    ]
+  },
+  "properties": {
+    "id": 359683408,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "23",
+    "addr:postcode": "8400",
+    "addr:street": "Pflanzschulstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-04-06",
+    "cuisine": "pizza;italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@al-agi-m.ch",
+    "level": "0",
+    "name": "Ristorante Pizzeria al Agi-M",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:30; PH closed",
+    "outdoor_seating": "terrace",
+    "phone": "+41 52 238 04 32",
+    "reservation": "yes",
+    "website": "https://al-agi-m.ch/",
+    "wheelchair": "no"
+  },
+  "id": 359683408
+}

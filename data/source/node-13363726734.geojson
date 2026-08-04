@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6228612,
+      46.7638533
+    ]
+  },
+  "properties": {
+    "id": 13363726734,
+    "addr:city": "Steffisburg",
+    "addr:housenumber": "12",
+    "addr:postcode": "3613",
+    "addr:street": "Merkurstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Prima Pronto Pizza",
+    "opening_hours": "Mo-Su 17:00-22:00",
+    "website": "https://www.prima-pronto-steffisburg.ch/"
+  },
+  "id": 13363726734
+}

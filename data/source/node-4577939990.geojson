@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9502441,
+      46.004562
+    ]
+  },
+  "properties": {
+    "id": 4577939990,
+    "addr:city": "Lugano",
+    "addr:housenumber": "10",
+    "addr:postcode": "6900",
+    "addr:street": "Via Francesco Soave",
+    "amenity": "restaurant",
+    "check_date": "2025-07-14",
+    "check_date:currency:XBT": "2025-10-30",
+    "contact:facebook": "spaghettipomodoro",
+    "contact:instagram": "spaghetti_pomodoro_",
+    "cuisine": "italian",
+    "currency:XBT": "no",
+    "diet:vegetarian": "yes",
+    "email": "lugano@spaghettipomodoro.ch",
+    "name": "Spaghetti Pomodoro",
+    "opening_hours": "Su-Th 09:00-23:30; Fr-Sa 09:00-00:00",
+    "payment:lightning": "no",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+41 91 922 01 70",
+    "website": "https://spaghettipomodoro.ch/"
+  },
+  "id": 4577939990
+}

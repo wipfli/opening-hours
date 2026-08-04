@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4317931,
+      46.8282348
+    ]
+  },
+  "properties": {
+    "id": 4154253400,
+    "amenity": "restaurant",
+    "capacity": "400",
+    "cuisine": "international",
+    "delivery": "yes",
+    "description": "Personalrestaurant Sitzungszimmerservice Catering und Events Lunchraum Snackautomaten Tortenbestellservice Fr\u00fcchtelieferdienst Mineralwasserlieferdienst Blumenbestellservice",
+    "email": "cantinettabialla@zfv.ch",
+    "name": "Cantinetta Bialla",
+    "opening_hours": "Mo-Fr 07:00-15:00",
+    "phone": "+41 81 633 20 50",
+    "website": "https://zfv.ch/de/microsites/cantinetta-bialla/ueber-uns"
+  },
+  "id": 4154253400
+}

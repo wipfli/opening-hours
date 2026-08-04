@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5930357,
+      47.5437378
+    ]
+  },
+  "properties": {
+    "id": 9524853160,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "info@peng-dumplings.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Peng Dumplings",
+    "opening_hours": "Tu-Th 11:45-14:30,18:00-23:00; Fr 11:45-14:30,18:00-24:00; Sa 17:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 361 72 32",
+    "reservation": "recommended",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://peng-dumplings.ch"
+  },
+  "id": 9524853160
+}

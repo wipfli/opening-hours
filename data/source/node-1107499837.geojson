@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.251414,
+      47.3124627
+    ]
+  },
+  "properties": {
+    "id": 1107499837,
+    "addr:city": "Sarmenstorf",
+    "addr:housenumber": "11",
+    "addr:postcode": "5614",
+    "addr:street": "Kreuzrain",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Kreuz",
+    "opening_hours": "We-Fr 09:00-24:00; Sa 10:00-22:00; Su 10:00-21:00",
+    "phone": "+41 56 667 12 38",
+    "website": "https://www.kreuz-sarmenstorf.ch/"
+  },
+  "id": 1107499837
+}

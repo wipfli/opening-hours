@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5087806,
+      47.2517474
+    ]
+  },
+  "properties": {
+    "id": 498131566,
+    "amenity": "restaurant",
+    "contact:email": "info@kurhausweissenstein.ch",
+    "contact:phone": "+41 32 530 17 17",
+    "cuisine": "regional",
+    "name": "Kurhaus Weissenstein",
+    "opening_hours": "09:00-22:00",
+    "website": "https://www.hotelweissenstein.ch/de/restaurant",
+    "wheelchair": "yes"
+  },
+  "id": 498131566
+}

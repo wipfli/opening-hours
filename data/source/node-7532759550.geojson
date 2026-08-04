@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6465282,
+      47.0152057
+    ]
+  },
+  "properties": {
+    "id": 7532759550,
+    "addr:city": "Ibach",
+    "addr:housenumber": "18",
+    "addr:postcode": "6438",
+    "addr:street": "Mythencenterstrasse",
+    "alt_name": "Migros Restaurant Mythen-Center",
+    "amenity": "restaurant",
+    "branch": "Ibach Mythen-Center",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Th 08:30-20:00, Fr 08:30-21:00, Sa 07:30-18:00",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-ibach-schwyz-mythen-center"
+  },
+  "id": 7532759550
+}

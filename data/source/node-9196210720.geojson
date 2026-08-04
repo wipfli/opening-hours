@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9062469,
+      47.3582924
+    ]
+  },
+  "properties": {
+    "id": 9196210720,
+    "addr:city": "Trimbach",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "4632",
+    "addr:street": "Br\u00fcckenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-02",
+    "description": "Italian Restaurant",
+    "name": "Bellavista zur F\u00e4hre",
+    "opening_hours": "Mo-Fr 11:00-14:00; Tu-Sa 17:30-23:00",
+    "phone": "+41 62 293 39 89",
+    "website": "https://www.bellavista-trimbach.ch/"
+  },
+  "id": 9196210720
+}

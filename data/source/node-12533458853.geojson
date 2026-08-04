@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5754054,
+      47.5628454
+    ]
+  },
+  "properties": {
+    "id": 12533458853,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "114",
+    "addr:postcode": "4056",
+    "addr:street": "St. Johanns-Ring",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@sommereck.ch",
+    "indoor_seating": "yes",
+    "mobile": "+41 79 667 54 63",
+    "name": "Sommereck",
+    "opening_hours": "Mo-Fr 10:30-14:00,17:00-00:00; Sa 17:00-23:00; Jul-Sep Su 17:00-23:00",
+    "operator": "Veli Savsa",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 381 68 33",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.sommereck.ch/"
+  },
+  "id": 12533458853
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.143316,
+      46.7697193
+    ]
+  },
+  "properties": {
+    "id": 9360645008,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Ch\u00e0 da f\u00f6",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "reservation": "required",
+    "smoking": "outside",
+    "website": "https://lampert-guarda.ch/oeffentliche-kantine/",
+    "wheelchair": "yes"
+  },
+  "id": 9360645008
+}

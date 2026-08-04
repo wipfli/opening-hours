@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3072355,
+      47.474156
+    ]
+  },
+  "properties": {
+    "id": 266823849,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "5400",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Stadtbistro Iseb\u00e4hnli",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:30; Sa 11:00-16:00",
+    "operator": "Wolfram Siebeck",
+    "phone": "+41 56 222 57 58",
+    "website": "https://www.stadtbistro.ch/"
+  },
+  "id": 266823849
+}

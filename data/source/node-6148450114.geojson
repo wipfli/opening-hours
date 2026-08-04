@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8235465,
+      46.7939763
+    ]
+  },
+  "properties": {
+    "id": 6148450114,
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "name": "Steakhouse Ochsen",
+    "opening_hours": "Nov-Mar: Mo-Su 17:00-23:00",
+    "website": "https://www.ochsen-davos.ch/"
+  },
+  "id": 6148450114
+}

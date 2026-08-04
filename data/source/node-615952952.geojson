@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5145711,
+      47.1691606
+    ]
+  },
+  "properties": {
+    "id": 615952952,
+    "addr:city": "Zug",
+    "addr:housenumber": "20",
+    "addr:postcode": "6300",
+    "addr:street": "Vorstadt",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "check_date": "2025-02-01",
+    "cuisine": "mexican",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@juanitos.ch",
+    "microbrewery": "no",
+    "name": "Juanitos Bodega & Bar",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Th 17:00-24:00, Fr 17:00-02:00, Sa 17:00-02:30, Su 17:00-22:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 712 01 01",
+    "reservation": "yes",
+    "smoking": "outside",
+    "source": "survey",
+    "toilets": "yes",
+    "website": "https://juanitos.ch",
+    "wheelchair": "no"
+  },
+  "id": 615952952
+}

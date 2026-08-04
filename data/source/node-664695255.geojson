@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2680214,
+      47.0736082
+    ]
+  },
+  "properties": {
+    "id": 664695255,
+    "addr:city": "Flumserberg",
+    "addr:postcode": "8897",
+    "addr:street": "Prodkamm",
+    "amenity": "restaurant",
+    "cuisine": "pasta;burger;barbecue;salad",
+    "email": "info@prodkamm.ch",
+    "internet_access": "wlan",
+    "internet_access:ssid": "flumserberg_guest",
+    "name": "Prodkamm",
+    "opening_hours": "Tu-Su 08:15-16:30",
+    "operator": "BBF Gastro AG",
+    "phone": "+41 81 733 23 13",
+    "website": "https://www.prodkamm.ch",
+    "website:menu": "https://storage.e.jimdo.com/file/2de91761-12fe-4bdc-8d1d-4831d6a5d36e/Speisekarte%20Prodkamm.pdf"
+  },
+  "id": 664695255
+}

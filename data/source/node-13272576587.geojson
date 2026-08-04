@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6908841,
+      47.3432656
+    ]
+  },
+  "properties": {
+    "id": 13272576587,
+    "addr:city": "Uster",
+    "addr:floor": "0",
+    "addr:housenumber": "3",
+    "addr:postcode": "8610",
+    "addr:street": "Uferweg",
+    "amenity": "restaurant",
+    "name": "Im Schilf",
+    "opening_hours": "Mo-Su 09:00-22:30",
+    "website": "https://www.schilf.ch/"
+  },
+  "id": 13272576587
+}

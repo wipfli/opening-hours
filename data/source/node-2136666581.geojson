@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6028985,
+      46.5252991
+    ]
+  },
+  "properties": {
+    "id": 2136666581,
+    "addr:housenumber": "35",
+    "addr:postcode": "1008",
+    "addr:street": "Avenue du Chablais",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "La Casa",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Fr 18:00-22:30, Sa 18:30-22:30; Su,PH off",
+    "outdoor_seating": "no",
+    "website": "https://mcalzolari93.wixsite.com/piadineriamammamia"
+  },
+  "id": 2136666581
+}

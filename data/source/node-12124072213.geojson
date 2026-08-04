@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1889827,
+      47.2394427
+    ]
+  },
+  "properties": {
+    "id": 12124072213,
+    "addr:city": "Menziken",
+    "addr:housenumber": "67",
+    "addr:postcode": "5737",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Dong Fan",
+    "opening_hours": "Mo-Tu 18:00-23:00; We-Fr 11:30-14:00, 18:00-23:00; Sa 18:00-23:00; Su 11:30-14:00, 18:00-23:00",
+    "phone": "+41 62 771 17 24",
+    "website": "https://www.chinarestaurant-dongfan.ch/"
+  },
+  "id": 12124072213
+}

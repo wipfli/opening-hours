@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457621,
+      47.414823
+    ]
+  },
+  "properties": {
+    "id": 700787608,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "410",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Golden India",
+    "opening_hours": "Mo-Su 11:30-14:00,17:30-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 363 93 93",
+    "takeaway": "yes",
+    "website": "https://goldenindia.ch/"
+  },
+  "id": 700787608
+}

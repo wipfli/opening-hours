@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5388369,
+      47.3766974
+    ]
+  },
   "properties": {
-    "@id": "node/283458326",
+    "id": 283458326,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "21",
@@ -19,12 +26,5 @@
     "website": "https://www.walliserkanne-zuerich.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5388369,
-      47.3766974
-    ]
-  },
-  "id": "node-283458326"
+  "id": 283458326
 }

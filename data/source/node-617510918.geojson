@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3620303,
+      47.5198452
+    ]
+  },
+  "properties": {
+    "id": 617510918,
+    "addr:city": "Schneisingen",
+    "addr:housenumber": "39",
+    "addr:postcode": "5425",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Leuehof",
+    "opening_hours": "We-Sa 11:30-14:30,17:30-24:00; Su 11:00-22:00",
+    "operator": "Beatrice & Jean-Claude Brun",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 241 19 41",
+    "website": "http://www.leuehof-schneisingen.ch/"
+  },
+  "id": 617510918
+}

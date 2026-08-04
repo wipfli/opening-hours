@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2285084,
+      47.1336507
+    ]
+  },
+  "properties": {
+    "id": 3572859140,
+    "addr:city": "Biel / Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "134",
+    "addr:postcode": "2505",
+    "addr:street": "Neuenburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-25",
+    "cuisine": "italian",
+    "email": "info@capriccio-biel.ch/",
+    "name": "Restaurant Pizzeria Capriccio",
+    "opening_hours": "Mo-Th 10:00-22:30; Fr-Sa 10:00-23:00; Su 10:00-22:00",
+    "phone": "+41 32 323 87 00",
+    "website": "https://www.instagram.com/ristorante_capriccio_biel"
+  },
+  "id": 3572859140
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8781937,
+      46.1703643
+    ]
+  },
+  "properties": {
+    "id": 2494681326,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-12",
+    "contact:facebook": "https://www.facebook.com/cantinedesrives/?locale=fr_FR",
+    "contact:instagram": "https://www.instagram.com/cantinedesrives/",
+    "cuisine": "regional",
+    "ele": "1178",
+    "name": "Cantine des Rives",
+    "opening_hours": "May 01-Nov 15 Mo,Tu 09:00-18:30; May 01-Nov 15 Th-Sa 09:00-21:00; May 01-Nov 15 Su 09:30-18:30",
+    "operator": "Annelise et Martial Gay",
+    "phone": "+41 24 479 11 71",
+    "source:opening_hours": "instagram",
+    "website": "https://www.lesrives.ch/"
+  },
+  "id": 2494681326
+}

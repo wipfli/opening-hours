@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3350807,
+      47.1404758
+    ]
+  },
+  "properties": {
+    "id": 2427061152,
+    "addr:city": "Meienried",
+    "addr:housenumber": "1c",
+    "addr:postcode": "3294",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "savory_pancakes",
+    "delivery": "no",
+    "email": "Info@beikaesers.ch",
+    "internet_access": "wlan",
+    "name": "Stallbeizli bei K\u00e4sers",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Familie K\u00e4ser",
+    "phone": "+41 32 351 24 07",
+    "takeaway": "no",
+    "website": "http://www.beikaesers.ch",
+    "wheelchair": "limited"
+  },
+  "id": 2427061152
+}

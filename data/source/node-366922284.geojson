@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7016315,
+      47.3437776
+    ]
+  },
+  "properties": {
+    "id": 366922284,
+    "addr:floor": "0",
+    "amenity": "restaurant",
+    "check_date": "2025-05-01",
+    "name": "Seestern",
+    "opening_hours": "Mo 10:00-21:45; Tu 10:30-21:45; We 10:30-21:45; Th 10:30-13:45,16:45-21:45; Fr 10:30-13:45,16:30-21:45; Sa,Su 10:30-21:45",
+    "website": "https://ristorante-pizzeria-seestern.ch/"
+  },
+  "id": 366922284
+}

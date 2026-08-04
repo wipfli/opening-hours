@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9215884,
+      47.4486007
+    ]
+  },
+  "properties": {
+    "id": 10908419021,
+    "addr:housenumber": "28",
+    "addr:postcode": "8363",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "email": "info@landhaus-bichelsee.ch",
+    "name": "Landhaus Bichelsee",
+    "opening_hours": "Mo 09:00-14:00,17:00-23:30; Th-Sa 11:00-23:30; Su 11:00-22:00",
+    "phone": "+41 78 313 14 00",
+    "self_service": "no",
+    "website": "https://landhaus-bichelsee.ch/",
+    "website:menu": "https://landhaus-bichelsee.ch/speisekarte/"
+  },
+  "id": 10908419021
+}

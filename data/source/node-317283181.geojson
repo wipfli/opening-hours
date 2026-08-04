@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4631377,
+      47.2437622
+    ]
+  },
+  "properties": {
+    "id": 317283181,
+    "addr:floor": "0",
+    "amenity": "restaurant",
+    "check_date": "2025-10-04",
+    "cuisine": "regional",
+    "email": "info@roessli-mettmenstetten.ch",
+    "fax": "+41 44 768 30 62",
+    "indoor_seating": "yes",
+    "name": "zum weissen R\u00f6ssli",
+    "opening_hours": "Mo-Th 09:00-14:00,17:00-23:00; Fr,Sa 09:00-23:00; Su 09:30-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 767 02 01",
+    "website": "https://www.roessli-mettmenstetten.ch/"
+  },
+  "id": 317283181
+}

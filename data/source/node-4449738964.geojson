@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2406065,
+      47.1340582
+    ]
+  },
+  "properties": {
+    "id": 4449738964,
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "99",
+    "addr:postcode": "2502",
+    "addr:street": "Rue d'Aarberg / Aarbergstrasse",
+    "addr:street:de": "Aarbergstrasse",
+    "addr:street:fr": "Rue d'Aarberg",
+    "amenity": "restaurant",
+    "check_date": "2026-07-12",
+    "cuisine": "mediterranean",
+    "level": "0",
+    "name": "Restaurant Bel-air",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-23:00; Sa-Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41325253399",
+    "website": "https://www.bel-air-bienne.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4449738964
+}

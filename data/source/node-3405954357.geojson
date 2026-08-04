@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3093,
+      47.4809087
+    ]
+  },
+  "properties": {
+    "id": 3405954357,
+    "addr:housenumber": "24",
+    "addr:postcode": "5400",
+    "addr:street": "R\u00f6merstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-08",
+    "cuisine": "regional",
+    "name": "elements",
+    "opening_hours": "12:00-24:00",
+    "opening_hours:kitchen": "Mo-Fr 12:00-14:00,17:00-21:30; Sa,Su 12:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 203 15 15",
+    "toilets:wheelchair": "yes",
+    "website": "https://hotelduparc.ch/restaurant-elements/",
+    "wheelchair": "yes"
+  },
+  "id": 3405954357
+}

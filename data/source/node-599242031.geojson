@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9645775,
+      46.3169115
+    ]
+  },
+  "properties": {
+    "id": 599242031,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/saadiakhalouk/",
+    "name": "Buffet de la Gare",
+    "opening_hours": "Mo, Tu 06:30-20:30; We-Fr 06:30-22:00; Su 07:00-20:00",
+    "phone": "+41 24 466 26 61",
+    "toilets:wheelchair": "no",
+    "website": "https://buffetdelagare.business.site/",
+    "wheelchair": "yes"
+  },
+  "id": 599242031
+}

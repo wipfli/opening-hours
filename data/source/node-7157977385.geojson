@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5612806,
+      47.4186188
+    ]
+  },
+  "properties": {
+    "id": 7157977385,
+    "addr:housenumber": "74a",
+    "addr:postcode": "8152",
+    "addr:street": "Wright-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-26",
+    "cuisine": "italian;italian_pizza",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "casacosi",
+    "name:de": "Casacosi",
+    "opening_hours": "Mo-Su 08:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 811 90 91",
+    "website": "https://casacosi.restaurant"
+  },
+  "id": 7157977385
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1384587,
+      46.1913571
+    ]
+  },
+  "properties": {
+    "id": 2821041286,
+    "addr:city": "Les Acacias",
+    "addr:housenumber": "10",
+    "addr:postcode": "1227",
+    "addr:street": "Rue Caroline",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "Le Bistroquet",
+    "opening_hours": "Tu-Fr 12:00-14:00, Sa 19:00-22:00, Tu-Fr 19:00-22:00, Su 12:00-14:00",
+    "phone": "+41223430636",
+    "smoking": "isolated",
+    "source": "V0lv0X",
+    "website": "http://www.lebistroquet.ch/"
+  },
+  "id": 2821041286
+}

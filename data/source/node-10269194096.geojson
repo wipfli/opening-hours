@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7507742,
+      46.0225317
+    ]
+  },
+  "properties": {
+    "id": 10269194096,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "20",
+    "addr:postcode": "3920",
+    "addr:street": "Getwingstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-05",
+    "cuisine": "sweets;wine",
+    "email": "info@ateliergrandsire.ch",
+    "name": "L'Atelier Grandsire",
+    "opening_hours": "Mo off; Tu-We,Fr-Sa 12:00-22:30; Th 12:00-16:00; Su 10:00-22:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:twint": "no",
+    "phone": "+41 27 967 10 00",
+    "website": "https://zermatt.swiss/en/p/latelier-grandsire-01tVj000005DmtbIAC"
+  },
+  "id": 10269194096
+}

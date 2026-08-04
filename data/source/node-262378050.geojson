@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5563885,
+      47.3697879
+    ]
+  },
   "properties": {
-    "@id": "node/262378050",
+    "id": 262378050,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "60",
@@ -15,12 +22,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.rosengarten.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5563885,
-      47.3697879
-    ]
-  },
-  "id": "node-262378050"
+  "id": 262378050
 }

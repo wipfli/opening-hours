@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5208041,
+      47.3884346
+    ]
+  },
+  "properties": {
+    "id": 267345309,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "260",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "steak_house;tapas",
+    "name": "Soho",
+    "opening_hours": "Tu-Th 17:00-24:00, Fr 17:00-02:00, Sa 18:00-04:00",
+    "website": "https://www.soho-zurich.ch/"
+  },
+  "id": 267345309
+}

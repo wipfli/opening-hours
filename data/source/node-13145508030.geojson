@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6684994,
+      46.6906857
+    ]
+  },
+  "properties": {
+    "id": 13145508030,
+    "addr:city": "Spiez",
+    "addr:housenumber": "58",
+    "addr:postcode": "3700",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Bao Gong",
+    "opening_hours": "Tu-Fr 11:00-14:00; Tu-Fr 17:00-22:00; Sa 17:00-22:00; Su 11:30-14:30; Su 17:00-21:30",
+    "website": "https://bao-gong.digitalone.site/"
+  },
+  "id": 13145508030
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3745146,
+      47.4266685
+    ]
+  },
+  "properties": {
+    "id": 445420081,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "13",
+    "addr:postcode": "9000",
+    "addr:street": "Engelgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Sauceria",
+    "opening_hours": "Mo-Sa 11:30-13:30, 17:30-23:30",
+    "website": "https://www.sauceria.ch/"
+  },
+  "id": 445420081
+}

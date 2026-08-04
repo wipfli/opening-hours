@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0207744,
+      47.0072849
+    ]
+  },
+  "properties": {
+    "id": 420295428,
+    "addr:city": "La T\u00e8ne",
+    "addr:housenumber": "10",
+    "addr:postcode": "2075",
+    "addr:street": "Route des Marais",
+    "amenity": "restaurant",
+    "name": "Milano",
+    "opening_hours": "Mo-Fr 11:30-13:45; Sa, Su 12:00-14:15; Mo-Su 18:30-21:45",
+    "phone": "+41 32 755 71 76",
+    "website": "https://milano-restaurant.ch/?utm_source=brevo&utm_medium=email&utm_campaign=wave1_repermission&utm_content=fr"
+  },
+  "id": 420295428
+}

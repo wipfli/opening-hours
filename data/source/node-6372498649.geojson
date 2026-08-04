@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5875874,
+      47.5519347
+    ]
+  },
+  "properties": {
+    "id": 6372498649,
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "cuisine": "mexican",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "El Mexicano",
+    "opening_hours": "Mo-Th 00:00-00:30,09:00-24:00; Fr 00:00-01:00,09:00-24:00; Sa 00:00-03:00,09:00-24:00; Su 00:00-03:00,10:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://basel.elmexicano.ch/"
+  },
+  "id": 6372498649
+}

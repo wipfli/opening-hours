@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9226427,
+      46.4262037
+    ]
+  },
+  "properties": {
+    "id": 3390849438,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Le Contretemps",
+    "opening_hours": "We-Fr 11:30-14:30, 18:00-23:00; Sa 11:00-14:30, 18:00-23:00; Su 11:00-16:00",
+    "outdoor_seating": "yes",
+    "website": "https://le-contretemps.ch/"
+  },
+  "id": 3390849438
+}

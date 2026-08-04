@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9415655,
+      46.9952071
+    ]
+  },
+  "properties": {
+    "id": 10073034231,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "11",
+    "addr:postcode": "2000",
+    "addr:street": "Rue de la Pierre-\u00e0-Mazel",
+    "amenity": "restaurant",
+    "cuisine": "japanese;sushi",
+    "name": "Tokyo Eat",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-22:15; Su 17:30-22:15",
+    "phone": "+41 32 725 42 42",
+    "toilets:wheelchair": "no",
+    "website": "https://www.tokyo-eat.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 10073034231
+}

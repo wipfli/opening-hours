@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7557879,
+      46.3679546
+    ]
+  },
+  "properties": {
+    "id": 4705539162,
+    "addr:city": "Goppenstein",
+    "addr:housenumber": "2",
+    "addr:postcode": "3917",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Felsheim",
+    "opening_hours": "Tu-Sa 08:30-20:00; Su 09:00-20:00",
+    "phone": "+41 27 939 14 84",
+    "website": "https://www.felsheim.ch"
+  },
+  "id": 4705539162
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4410267,
+      46.9471914
+    ]
+  },
+  "properties": {
+    "id": 5737037068,
+    "access": "private",
+    "amenity": "restaurant",
+    "contact:addr": "Schauplatzgasse 37, 3011 Bern",
+    "contact:email": "info@cledeberne.ch",
+    "contact:phone": "+41 31 3115111",
+    "name": "Cl\u00e9 de Berne",
+    "opening_hours": "Mo-Fr 11:00-14:00; Sa-Su off; PH off",
+    "operator": "Cl\u00e9 de Berne GmbH",
+    "source": "Survey and website",
+    "website": "http://www.cledeberne.ch"
+  },
+  "id": 5737037068
+}

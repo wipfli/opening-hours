@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4521392,
+      46.9483881
+    ]
+  },
+  "properties": {
+    "id": 2433655016,
+    "alt_name": "Volver \u00b7 BarTapasCaf\u00e9 \u00b7 TakeAway",
+    "amenity": "restaurant",
+    "contact:addr": "Rathausplatz 8, 3011 Bern",
+    "contact:email": "info@barvolver.ch",
+    "contact:facebook": "https://www.facebook.com/Volver-TapasBarCaf%C3%A9-TakeAway-243512803821",
+    "contact:instagram": "http://instagram.com/volverbartapascafe",
+    "contact:phone": "+41 31 3120404",
+    "contact:twitter": "https://twitter.com/Barvolver",
+    "cuisine": "spanish",
+    "indoor_seating": "yes",
+    "name": "Volver",
+    "opening_hours": "Mo 17:00-22:00; Tu-We 08:00-23:30; Th-Sa 08:00-00:30; Su off",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://barvolver.ch"
+  },
+  "id": 2433655016
+}

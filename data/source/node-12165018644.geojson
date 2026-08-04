@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1574301,
+      46.8052882
+    ]
+  },
+  "properties": {
+    "id": 12165018644,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Solemio",
+    "opening_hours": "Mo-Su 11:30-14:00, 18:30-22:00",
+    "website": "https://www.solemio-restaurants.ch/restaurant/"
+  },
+  "id": 12165018644
+}

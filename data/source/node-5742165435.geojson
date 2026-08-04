@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4486508,
+      46.9567891
+    ]
+  },
+  "properties": {
+    "id": 5742165435,
+    "amenity": "restaurant",
+    "check_date": "2022-07-07",
+    "contact:addr": "Kyburgstrasse 12, 3013 Bern",
+    "name": "Bistro Breiten",
+    "opening_hours": "Mo-Sa 08:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "http://www.bistrobreiten.ch/"
+  },
+  "id": 5742165435
+}

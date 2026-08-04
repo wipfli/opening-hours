@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2984732,
+      47.545315
+    ]
+  },
+  "properties": {
+    "id": 4544481191,
+    "addr:housenumber": "2",
+    "addr:postcode": "8580",
+    "addr:street": "Weinfelderstrasse",
+    "amenity": "restaurant",
+    "name": "Olivers",
+    "name:de": "Olivers",
+    "opening_hours": "Tu-Fr 11:00-14:00, 18:00-00:00; Sa 18:00-00:00",
+    "website": "https://www.olivers-restaurant.ch/"
+  },
+  "id": 4544481191
+}

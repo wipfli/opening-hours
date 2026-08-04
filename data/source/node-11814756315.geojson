@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4487703,
+      47.2771518
+    ]
+  },
+  "properties": {
+    "id": 11814756315,
+    "addr:housenumber": "3",
+    "addr:street": "Poststrasse",
+    "amenity": "restaurant",
+    "name": "H\u00c4PP(L)IMACHER",
+    "opening_hours": "Tu-Th 11:30-14:00,17:00-23:00; Fr 11:30-14:00,17:00-00:00; Sa 17:00-00:00",
+    "phone": "+41 44 760 04 04",
+    "website": "https://www.haepplimacher.ch"
+  },
+  "id": 11814756315
+}

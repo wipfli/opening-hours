@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9863902,
+      47.4285649
+    ]
+  },
+  "properties": {
+    "id": 580640003,
+    "addr:city": "Kienberg",
+    "addr:postcode": "4468",
+    "amenity": "restaurant",
+    "email": "lucek@chalet-saalhoehe.ch",
+    "name": "Waldgasthaus Chalet Saalh\u00f6he",
+    "opening_hours": "Tu-Sa 09:00-23:30; Su 09:00-22:00",
+    "phone": "+41 62 844 10 14",
+    "toilets:wheelchair": "yes",
+    "website": "https://chalet-saalhoehe.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 580640003
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0828691,
+      46.74654
+    ]
+  },
+  "properties": {
+    "id": 7175436268,
+    "amenity": "restaurant",
+    "name": "Osteria Novazzano",
+    "opening_hours": "We-Su",
+    "website": "https://ballenberg.ch/de/besuch-planen/essen-und-trinken/osteria-novazzano/"
+  },
+  "id": 7175436268
+}

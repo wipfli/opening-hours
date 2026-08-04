@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6680042,
+      46.777577
+    ]
+  },
+  "properties": {
+    "id": 6875845185,
+    "addr:housenumber": "65",
+    "addr:postcode": "6474",
+    "addr:street": "Grund",
+    "amenity": "restaurant",
+    "cuisine": "tea;burger;cake;sandwich;breakfast;coffee_shop;local",
+    "email": "info@kostbar-uri.ch",
+    "internet_access": "wlan",
+    "name": "Kostbar Uri",
+    "name:de": "Restaurant Kostbar",
+    "opening_hours": "Mo-Fr 08:00-14:00",
+    "phone": "+41 41 884 05 05",
+    "website": "http://www.kostbar-uri.ch"
+  },
+  "id": 6875845185
+}

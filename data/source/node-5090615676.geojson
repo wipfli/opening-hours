@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5887888,
+      46.5241215
+    ]
+  },
+  "properties": {
+    "id": 5090615676,
+    "addr:housenumber": "201",
+    "addr:street": "Route de Chavannes",
+    "amenity": "restaurant",
+    "name": "Restaurant de la Bourdonnette",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa 09:00-00:00",
+    "phone": "+41 21 625 62 62",
+    "website": "http://www.restaurant-de-la-bourdonnette.com/"
+  },
+  "id": 5090615676
+}

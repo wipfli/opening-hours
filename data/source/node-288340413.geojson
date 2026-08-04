@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5447955,
+      47.3735998
+    ]
+  },
   "properties": {
-    "@id": "node/288340413",
+    "id": 288340413,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "11",
     "addr:postcode": "8001",
@@ -27,12 +34,5 @@
     "website": "https://www.zaehringer.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5447955,
-      47.3735998
-    ]
-  },
-  "id": "node-288340413"
+  "id": 288340413
 }

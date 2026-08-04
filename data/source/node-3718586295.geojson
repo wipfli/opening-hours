@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6402436,
+      46.7784328
+    ]
+  },
+  "properties": {
+    "id": 3718586295,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "1400",
+    "addr:street": "Rue du Four",
+    "amenity": "restaurant",
+    "cuisine": "ethiopian;eritrean",
+    "diet:vegetarian": "yes",
+    "email": "info@dahlak-yverdon.ch",
+    "facebook": "Dahlak-111208927820302",
+    "indoor_seating": "yes",
+    "instagram": "dahlak_yverdon",
+    "name": "Dahlak Caf\u00e9 Restaurant",
+    "opening_hours": "We-Sa 08:30-23:00; Su 12:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 438 33 03",
+    "smoking": "outside",
+    "website": "https://dahlak-yverdon.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3718586295
+}

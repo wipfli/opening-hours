@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4530574,
+      46.9482676
+    ]
+  },
+  "properties": {
+    "id": 286879776,
+    "alt_name": "Restaurant Krone Bern",
+    "amenity": "restaurant",
+    "check_date": "2026-02-22",
+    "contact:addr": "Gerechtigkeitsgasse 66, 3011 Bern",
+    "contact:email": "info@kronebern.ch",
+    "contact:phone": "+41 31 3121314",
+    "cuisine": "regional",
+    "name": "Krone",
+    "opening_hours": "Mo-Fr 09:00-23:30; Sa 16:00-00:30; Su off",
+    "operator": "Krone Bern AG",
+    "smoking": "no",
+    "source": "survey and website",
+    "website": "https://www.kronebern.ch/"
+  },
+  "id": 286879776
+}

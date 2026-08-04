@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5404932,
+      46.7118251
+    ]
+  },
+  "properties": {
+    "id": 6433096185,
+    "addr:postcode": "7078",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "hotel@guardaval.ch",
+    "internet_access": "wlan",
+    "name": "Crap Naros",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "phone": "+41813858585",
+    "website": "https://www.guardaval.ch/en/restaurants/crap-naros.html"
+  },
+  "id": 6433096185
+}

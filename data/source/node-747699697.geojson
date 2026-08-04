@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7350015,
+      46.8008169
+    ]
+  },
+  "properties": {
+    "id": 747699697,
+    "addr:city": "Yvonand",
+    "addr:housenumber": "19",
+    "addr:postcode": "1462",
+    "addr:street": "Avenue de Mordagne",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "name": "Tapas sablia",
+    "opening_hours": "Tu-Fr 08:30-14:00,17:30-22:30; Sa 10:00-14:00,17:30-22:30",
+    "phone": "+41 21 553 24 52",
+    "website": "https://www.tapassablia.ch/"
+  },
+  "id": 747699697
+}

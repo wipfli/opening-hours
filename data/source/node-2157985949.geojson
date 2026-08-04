@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1457318,
+      46.195674
+    ]
+  },
+  "properties": {
+    "id": 2157985949,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "1205",
+    "addr:street": "Rue Pr\u00e9vost-Martin",
+    "amenity": "restaurant",
+    "name": "Les Philosophes",
+    "note": "surveyed by Alex-7",
+    "opening_hours": "Mo-Th 11:30-15:00,19:00-00:00; Fr-Sa 11:30-15:00,19:00-01:00",
+    "phone": "+41 22 320 54 77",
+    "source": "survey",
+    "survey:date": "2013-02-16",
+    "website": "https://lesphilosophes.ch/"
+  },
+  "id": 2157985949
+}

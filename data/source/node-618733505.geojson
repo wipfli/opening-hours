@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9088136,
+      47.1443343
+    ]
+  },
+  "properties": {
+    "id": 618733505,
+    "addr:city": "Siebnen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8854",
+    "addr:street": "Schwendenen",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@kapelle-schwendenen.ch",
+    "name": "Restaurant Kapelle",
+    "opening_hours": "We-Su 09:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+4155 283 31 00",
+    "website": "https://www.kapelle-schwendenen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 618733505
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6173165,
+      47.4071881
+    ]
+  },
+  "properties": {
+    "id": 4703399050,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Optik-Huus",
+    "opening_hours": "Mo-Fr 08:00-14:00",
+    "operator": "SV Group",
+    "outdoor_seating": "garden",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "website": "https://optik-hus.sv-restaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 4703399050
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4257234,
+      47.196218
+    ]
+  },
+  "properties": {
+    "id": 4796544568,
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;ice_cream;regional",
+    "name": "Ziegler-Beizli",
+    "opening_hours": "Apr 15-Oct 22 We-Sa 14:00-17:30; Apr 15-Oct 22 Su 11:00-17:30",
+    "operator": "Stiftung Ziegelei-Museum",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 740 41 20",
+    "website": "https://www.ziegelei-museum.ch/"
+  },
+  "id": 4796544568
+}

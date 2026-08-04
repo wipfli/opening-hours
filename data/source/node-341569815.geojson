@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8236356,
+      47.2847611
+    ]
+  },
+  "properties": {
+    "id": 341569815,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sternen Rotenstein",
+    "opening_hours": "We, Th 08:30-22:00; Fr, Sa 08:30-23:00; Su 09:00-17:00",
+    "phone": "+41 44 937 40 40",
+    "smoking": "outside",
+    "website": "https://www.sternenrotenstein.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 341569815
+}

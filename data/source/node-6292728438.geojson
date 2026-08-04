@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6561255,
+      46.5067107
+    ]
+  },
+  "properties": {
+    "id": 6292728438,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "new_york;american",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "East Side Pully",
+    "opening_hours": "Tu 11:30-14:30; We-Fr 09:00-14:30; Sa 08:00-15:00; Su 08:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 729 55 82",
+    "website": "https://www.eastsidepully.ch/"
+  },
+  "id": 6292728438
+}

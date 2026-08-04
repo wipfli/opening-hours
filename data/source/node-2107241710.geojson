@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.501816,
+      46.9286135
+    ]
+  },
+  "properties": {
+    "id": 2107241710,
+    "addr:city": "G\u00fcmligen",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "3073",
+    "addr:street": "Feldstrasse",
+    "alt_name": "Sensi Restaurant & Bar",
+    "amenity": "restaurant",
+    "contact:email": "info@sensi-restaurant.ch",
+    "contact:facebook": "http://www.facebook.com/SensiRestaurant",
+    "contact:fax": "+41 31 9502245",
+    "contact:phone": "+41 31 9502244",
+    "name": "Sensi",
+    "opening_hours": "Mo off; Tu-Sa 10:30-14:00; 17:00-23:30; Su off",
+    "operator": "Thomas Eggimann",
+    "source": "survey and website",
+    "website": "https://www.sensi-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2107241710
+}

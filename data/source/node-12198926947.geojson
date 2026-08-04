@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4598523,
+      46.7146355
+    ]
+  },
+  "properties": {
+    "id": 12198926947,
+    "addr:city": "Scharans",
+    "addr:housenumber": "2",
+    "addr:postcode": "7412",
+    "addr:street": "Carutta",
+    "amenity": "restaurant",
+    "name": "Restaurant Scalottas",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "phone": "+41 81 632 18 52",
+    "website": "https://www.scalottas.ch/restaurant"
+  },
+  "id": 12198926947
+}

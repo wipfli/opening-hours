@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4536634,
+      46.9484657
+    ]
+  },
+  "properties": {
+    "id": 3085288680,
+    "alt_name": "Restaurant les Terroirs",
+    "amenity": "restaurant",
+    "check_date": "2026-02-22",
+    "contact:addr": "Postgasse 49 / Gerechtigkeitsgasse 56, 3011 Bern",
+    "contact:email": "info@moment-bern.ch",
+    "contact:phone": "+41 31 3321020",
+    "name": "moment",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00; 18:00-24:00; Sa 18:00-24:00; Su off; PH off",
+    "source": "Survey and website",
+    "website": "https://www.moment-bern.ch/"
+  },
+  "id": 3085288680
+}

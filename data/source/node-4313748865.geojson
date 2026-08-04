@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1367062,
+      46.1977066
+    ]
+  },
+  "properties": {
+    "id": 4313748865,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "65",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;french",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "cafedumeg@gmail.com",
+    "indoor_seating": "yes",
+    "mobile": "+41 76 290 33 96",
+    "name": "Caf\u00e9 du Meg",
+    "opening_hours": "Tu-Su 09:30-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 418 90 86",
+    "website": "https://www.meg.ch/fr/cafe-du-meg",
+    "wheelchair": "yes"
+  },
+  "id": 4313748865
+}

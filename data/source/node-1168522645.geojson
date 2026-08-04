@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.143795,
+      46.2092074
+    ]
+  },
+  "properties": {
+    "id": 1168522645,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "26",
+    "addr:postcode": "1201",
+    "addr:street": "Rue du Mont-Blanc",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-04-24",
+    "cuisine": "steak_house",
+    "delivery": "no",
+    "name": "Caf\u00e9 de Paris",
+    "opening_hours": "Su-Th 08:30-00:30, Fr,Sa 08:30-01:00",
+    "phone": "+41 22 732 84 50",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "http://www.cafe-de-paris.ch"
+  },
+  "id": 1168522645
+}

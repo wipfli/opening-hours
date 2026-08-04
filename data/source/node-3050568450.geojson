@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0337056,
+      45.8322822
+    ]
+  },
+  "properties": {
+    "id": 3050568450,
+    "addr:street": "Corso San Gottardo",
+    "amenity": "restaurant",
+    "check_date": "2023-04-15",
+    "cuisine": "indian",
+    "name": "Shiva",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 683 05 88",
+    "smoking": "outside",
+    "website": "https://ristoranteshiva.ch",
+    "wheelchair": "no"
+  },
+  "id": 3050568450
+}

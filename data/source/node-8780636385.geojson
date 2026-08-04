@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61873,
+      47.6808334
+    ]
+  },
+  "properties": {
+    "id": 8780636385,
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "1",
+    "addr:postcode": "8212",
+    "addr:street": "Wildenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "delivery": "Mo-Fr 11:30-13:30",
+    "diet:vegetarian": "yes",
+    "email": "info@yings.ch",
+    "name": "Ying's",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 615 55 66",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:access": "customers",
+    "website": "https://yings.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8780636385
+}

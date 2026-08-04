@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5484299,
+      47.4202502
+    ]
+  },
+  "properties": {
+    "id": 310134149,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:floor": "0",
+    "addr:housenumber": "475",
+    "addr:postcode": "8052",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-17",
+    "cuisine": "vietnamese",
+    "diet:vegetarian": "yes",
+    "email": "dong.que1668@gmail.com",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "D\u00f4ng Qu\u00ea",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-23:00; Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 303 00 01",
+    "takeaway": "yes",
+    "website": "https://www.dongque1668.ch/"
+  },
+  "id": 310134149
+}

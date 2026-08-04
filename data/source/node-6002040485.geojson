@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1448027,
+      46.2024514
+    ]
+  },
+  "properties": {
+    "id": 6002040485,
+    "addr:housenumber": "3",
+    "addr:postcode": "1204",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Osteria della Bottega",
+    "opening_hours": "Mo-Fr 12:00-14:30,19:00-22:00; Sa,Su,PH 12:30-15:00,18:30-21:30; Sa 18:30-22:30",
+    "website": "https://www.osteriadellabottega.com/"
+  },
+  "id": 6002040485
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4748209,
+      47.3945224
+    ]
+  },
+  "properties": {
+    "id": 2232152207,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "8048",
+    "addr:street": "Hermetschloostrasse",
+    "amenity": "restaurant",
+    "name": "Kantine Hermetschloo",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00",
+    "operator": "Marktl\u00fccke GmbH",
+    "phone": "+41 44 212 77 28",
+    "website": "https://www.kantine-hermetschloo.ch/",
+    "website:menu": "https://www.markt-luecke.ch/de/restaurant/menueplan"
+  },
+  "id": 2232152207
+}

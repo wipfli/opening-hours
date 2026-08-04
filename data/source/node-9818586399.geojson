@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.888872,
+      47.214669
+    ]
+  },
+  "properties": {
+    "id": 9818586399,
+    "addr:city": "Roggliswil",
+    "addr:housenumber": "35",
+    "addr:postcode": "6265",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Rollstuhlzugang nur in der Sommersaison (Garten) m\u00f6glich. Das gleiche gilt f\u00fcr die Behinderten-Toilette",
+    "email": "info@ochsen-roggliswil.ch",
+    "name": "Restaurant Ochsen",
+    "opening_hours": "We-Sa",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 754 13 40",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "website": "https://www.ochsen-roggliswil.ch",
+    "wheelchair": "limited"
+  },
+  "id": 9818586399
+}

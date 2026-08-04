@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3039058,
+      46.2200218
+    ]
+  },
+  "properties": {
+    "id": 9083634996,
+    "addr:housenumber": "18",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Jo Pizza",
+    "opening_hours": "Mo-Th 09:45-14:00, 17:30-22:00; Fr-Sa 09:45-14:00, 17:30-23:00",
+    "phone": "+41273465000",
+    "takeaway": "yes",
+    "website": "https://jopizza.ch/"
+  },
+  "id": 9083634996
+}

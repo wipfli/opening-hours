@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9576699,
+      47.173428
+    ]
+  },
+  "properties": {
+    "id": 1814571678,
+    "addr:city": "Buttikon SZ",
+    "addr:country": "CH",
+    "addr:housenumber": "65",
+    "addr:postcode": "8863",
+    "addr:street": "Kantonsstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 55 444 11 20",
+    "name": "Traube",
+    "opening_hours": "Mo-Fr 06:00-24:00; Tu off; Sa,Su,PH 08:00-24:00",
+    "operator": "Ruth & Balz H\u00f6sli",
+    "website": "http://www.graag.ch/"
+  },
+  "id": 1814571678
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5785293,
+      47.3190697
+    ]
+  },
+  "properties": {
+    "id": 9863681273,
+    "addr:housenumber": "120",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-10",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Seegarten",
+    "opening_hours": "off; Mar 02-Oct 18 11:30-23:00",
+    "outdoor_seating": "only",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 914 18 18",
+    "website": "https://sonneamsee.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9863681273
+}

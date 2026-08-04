@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3365518,
+      47.2738455
+    ]
+  },
+  "properties": {
+    "id": 11608271880,
+    "amenity": "restaurant",
+    "name": "Ochsen",
+    "opening_hours": "We-Sa 18:00-23:00",
+    "website": "https://www.ochsenmuri.ch"
+  },
+  "id": 11608271880
+}

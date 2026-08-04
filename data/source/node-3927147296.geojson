@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0445802,
+      47.3926487
+    ]
+  },
+  "properties": {
+    "id": 3927147296,
+    "addr:housenumber": "10",
+    "addr:postcode": "5000",
+    "addr:street": "Pelzgasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Thai Time",
+    "opening_hours": "Tu-Sa 11:30-14:30,17:30-22:00; Su-Mo off",
+    "opening_hours:url": "https://www.thaitime-aarau.ch/",
+    "phone": "+41 62 822 38 22",
+    "website": "https://m.facebook.com/Thai-Time-Restaurant-Take-Away-145826055514900/"
+  },
+  "id": 3927147296
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5121351,
+      47.3626283
+    ]
+  },
+  "properties": {
+    "id": 13711711002,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "25",
+    "addr:postcode": "8045",
+    "addr:street": "R\u00e4ffelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "delivery": "yes",
+    "level": "-1",
+    "name": "Typisch Spanisch",
+    "opening_hours": "Mo-Fr 11:30-17:00",
+    "takeaway": "only",
+    "website": "https://typischspanisch.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13711711002
+}

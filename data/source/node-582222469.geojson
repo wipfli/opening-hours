@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5109337,
+      47.3781646
+    ]
+  },
   "properties": {
-    "@id": "node/582222469",
+    "id": 582222469,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "344",
@@ -19,12 +26,5 @@
     "website": "https://restaurant-hardhof.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5109337,
-      47.3781646
-    ]
-  },
-  "id": "node-582222469"
+  "id": 582222469
 }

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6753782,
+      47.1926425
+    ]
+  },
+  "properties": {
+    "id": 1609210834,
+    "addr:housename": "Restaurant Schmiedhof",
+    "addr:housenumber": "168",
+    "addr:postcode": "8833",
+    "addr:street": "Bergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Schmiedhof",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:00-23:59+",
+    "website": "https://www.restaurant-schmiedhof.ch"
+  },
+  "id": 1609210834
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4579335,
+      47.2442494
+    ]
+  },
+  "properties": {
+    "id": 346301450,
+    "addr:city": "Mettmenstetten",
+    "addr:housenumber": "10",
+    "addr:postcode": "8932",
+    "addr:street": "Untere Bahnhofstrasse",
+    "amenity": "restaurant",
+    "capacity": "350",
+    "cuisine": "grill;steak_house;barbecue",
+    "email": "kontakt@steakhouse-bahnhof.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "loc_name": "Bahnh\u00f6fli",
+    "name": "Steakhouse Bahnhof",
+    "opening_hours": "Mo-Su 10:00-00:00",
+    "operator": "Urs Koffel",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 767 06 06",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.steakhouse-bahnhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 346301450
+}

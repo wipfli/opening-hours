@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5525758,
+      47.0007504
+    ]
+  },
+  "properties": {
+    "id": 3556757066,
+    "amenity": "restaurant",
+    "name": "Alter Torkel",
+    "opening_hours": "Mo,Tu,Fr 11:30-14:00, Mo,Tu,Fr 18:00-22:00, Sa 11:30-22:00, Su 11:30-16:00",
+    "tourism": "wine_cellar",
+    "website": "https://www.alter-torkel.ch/"
+  },
+  "id": 3556757066
+}

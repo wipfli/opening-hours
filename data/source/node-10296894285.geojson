@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8337769,
+      46.9489186
+    ]
+  },
+  "properties": {
+    "id": 10296894285,
+    "addr:housenumber": "2",
+    "addr:street": "Route de Grandson",
+    "amenity": "restaurant",
+    "name": "Auberge des vieux toits",
+    "opening_hours": "Tu-Fr 08:00-14:00,17:00-23:00; Sa 17:00-23:00",
+    "phone": "+41 32 525 97 97",
+    "website": "https://www.vieuxtoits.com"
+  },
+  "id": 10296894285
+}

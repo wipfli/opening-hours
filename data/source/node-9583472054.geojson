@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6658844,
+      46.7836649
+    ]
+  },
+  "properties": {
+    "id": 9583472054,
+    "addr:city": "Cheseaux-Nor\u00e9az",
+    "addr:postcode": "1400",
+    "addr:street": "Chemin de la Cari\u00e7aie",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "email": "restaurant-champ-pittet@pronatura.ch",
+    "indoor_seating": "yes",
+    "name": "Caf\u00e9-restaurant Pro Natura Champ-Pittet",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 423 35 70",
+    "website": "https://www.pronatura-champ-pittet.ch/fr/restaurant"
+  },
+  "id": 9583472054
+}

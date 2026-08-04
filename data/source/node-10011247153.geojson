@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5951152,
+      47.5026246
+    ]
+  },
+  "properties": {
+    "id": 10011247153,
+    "amenity": "restaurant",
+    "check_date": "2024-08-11",
+    "cuisine": "indian",
+    "name": "Scent of Spice",
+    "opening_hours": "Mo off; Tu-Sa 11:00-14:30, 16:00-22:30; Su off",
+    "website": "https://www.scent-of-spice.ch/"
+  },
+  "id": 10011247153
+}

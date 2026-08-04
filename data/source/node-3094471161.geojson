@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9356325,
+      46.9922941
+    ]
+  },
+  "properties": {
+    "id": 3094471161,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "7",
+    "addr:postcode": "2000",
+    "addr:street": "Rue Jean-Jacques-Lallemand",
+    "amenity": "restaurant",
+    "cuisine": "tibetan",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Himalaya Momo",
+    "opening_hours": "Mo-Sa 08:00-21:00",
+    "phone": "+41 32 555 46 60",
+    "website": "https://himalaya-momo.ch"
+  },
+  "id": 3094471161
+}

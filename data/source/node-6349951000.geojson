@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0196637,
+      46.4091237
+    ]
+  },
+  "properties": {
+    "id": 6349951000,
+    "amenity": "restaurant",
+    "name": "Bahnhofbuffet Ospizio Bernina",
+    "opening_hours": "Jun-Sep PH,Mo-Su 08:30-17:30",
+    "website": "http://www.daprimo.com"
+  },
+  "id": 6349951000
+}

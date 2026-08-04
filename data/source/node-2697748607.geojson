@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5256303,
+      47.3885207
+    ]
+  },
+  "properties": {
+    "id": 2697748607,
+    "amenity": "restaurant",
+    "check_date": "2025-03-19",
+    "cuisine": "spanish",
+    "name": "Costa Brava",
+    "not:brand:wikidata": "Q608845",
+    "opening_hours": "Mo-Fr 11:30-14:30, Mo-Sa 18:00-24:00",
+    "phone": "+41 44 272 27 71",
+    "website": "https://www.costabrava-zuerich.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2697748607
+}

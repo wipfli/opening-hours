@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3786488,
+      47.4250316
+    ]
+  },
+  "properties": {
+    "id": 13149140979,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "38",
+    "addr:postcode": "9000",
+    "addr:street": "Br\u00fchlgasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pantaleo",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-21:00",
+    "website": "https://pantaleo.pizza/"
+  },
+  "id": 13149140979
+}

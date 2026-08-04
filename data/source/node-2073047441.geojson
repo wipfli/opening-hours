@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5182501,
+      46.9322594
+    ]
+  },
+  "properties": {
+    "id": 2073047441,
+    "addr:city": "G\u00fcmligen",
+    "addr:country": "CH",
+    "addr:housenumber": "326",
+    "addr:postcode": "3073",
+    "addr:street": "Worbstrasse",
+    "addr:suburb": "G\u00fcmligen",
+    "alt_name": "Restaurant acapella",
+    "amenity": "restaurant",
+    "contact:email": "info@restaurant-acappella.ch",
+    "contact:phone": "+41 31 9581881",
+    "contact:website": "http://restaurant-acappella.ch/kontakt/allgemeine-anfragen/",
+    "name": "acappella",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "source": "survey and website",
+    "website": "https://www.restaurant-acappella.ch/"
+  },
+  "id": 2073047441
+}

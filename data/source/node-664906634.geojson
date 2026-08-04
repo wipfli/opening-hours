@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8017482,
+      46.1716501
+    ]
+  },
+  "properties": {
+    "id": 664906634,
+    "addr:city": "Muralto",
+    "addr:housenumber": "9",
+    "addr:postcode": "6600",
+    "addr:street": "Viale Verbano",
+    "amenity": "restaurant",
+    "check_date": "2026-05-31",
+    "check_date:opening_hours": "2026-05-31",
+    "email": "sensi@ristoranti-ff.ch",
+    "name": "Sensi",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 91 743 17 17",
+    "reservation": "recommended",
+    "toilets": "yes",
+    "website": "https://www.ristoranti-ff.ch/it/ristorante-sensi-muralto",
+    "wheelchair": "yes"
+  },
+  "id": 664906634
+}

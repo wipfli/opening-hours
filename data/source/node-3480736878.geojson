@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4565883,
+      46.9475234
+    ]
+  },
+  "properties": {
+    "id": 3480736878,
+    "addr:city": "Bern",
+    "addr:housenumber": "34",
+    "addr:postcode": "3011",
+    "addr:street": "Gerberngasse",
+    "alt_name": "Restaurant & Bar Suresh",
+    "amenity": "restaurant",
+    "contact:addr": "Gerberngasse 34, 3011 Bern",
+    "contact:email": "info@suresh.ch",
+    "contact:facebook": "https://www.facebook.com/sures.fischerstubli",
+    "contact:phone": "+41 31 3115367",
+    "name": "Suresh",
+    "old_name": "Santorini",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa-Su 18:00-23:30",
+    "source": "survey and website",
+    "website": "https://www.suresh.ch/"
+  },
+  "id": 3480736878
+}

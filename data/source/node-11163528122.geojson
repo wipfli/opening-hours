@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6955917,
+      46.5615182
+    ]
+  },
+  "properties": {
+    "id": 11163528122,
+    "addr:city": "Lausanne 26",
+    "addr:housenumber": "73",
+    "addr:postcode": "1000",
+    "addr:street": "Route du Jorat",
+    "amenity": "restaurant",
+    "check_date": "2024-04-26",
+    "email": "info@lacarillere.ch",
+    "name": "La Carill\u00e8re",
+    "opening_hours": "Tu-Su 10:00-14:30,18:00-23:00",
+    "phone": "+41217840425",
+    "website": "https://lacarillere.ch"
+  },
+  "id": 11163528122
+}

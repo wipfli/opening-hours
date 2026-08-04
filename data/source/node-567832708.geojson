@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6387909,
+      47.3709154
+    ]
+  },
+  "properties": {
+    "id": 567832708,
+    "addr:city": "F\u00e4llanden",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8117",
+    "addr:street": "D\u00fcbendorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Asia Lena Take Away",
+    "opening_hours": "Mo-Sa 09:00-21:00",
+    "website": "https://asialenacom.wordpress.com/"
+  },
+  "id": 567832708
+}

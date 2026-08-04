@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4431948,
+      46.7500738
+    ]
+  },
+  "properties": {
+    "id": 13104258082,
+    "amenity": "restaurant",
+    "name": "Triangel",
+    "opening_hours": "We-Sa 11:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "source": "bing",
+    "website": "https://www.triangel.ch/"
+  },
+  "id": 13104258082
+}

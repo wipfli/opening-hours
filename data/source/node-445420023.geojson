@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3744683,
+      47.4268922
+    ]
+  },
+  "properties": {
+    "id": 445420023,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Augustinergasse",
+    "amenity": "restaurant",
+    "cuisine": "curry",
+    "name": "House of Curries",
+    "opening_hours": "Tu-Fr 12:00-14:00, 18:00-22:00; Sa 18:00-22:00",
+    "website": "https://www.houseofcurries.ch/"
+  },
+  "id": 445420023
+}

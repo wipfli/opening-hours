@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5808066,
+      47.5665142
+    ]
+  },
+  "properties": {
+    "id": 9381912099,
+    "addr:city": "Basel",
+    "addr:housenumber": "20",
+    "addr:postcode": "4056",
+    "addr:street": "St. Johanns-Platz",
+    "amenity": "restaurant",
+    "check_date": "2025-08-14",
+    "cuisine": "chinese",
+    "name": "Lotus Garden",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-24:00; Sa-Su 18:00-24:00; PH off",
+    "phone": "+41613221151",
+    "website": "https://www.lotus-garden.ch/"
+  },
+  "id": 9381912099
+}

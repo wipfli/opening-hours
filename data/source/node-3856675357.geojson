@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3680354,
+      47.421439
+    ]
+  },
+  "properties": {
+    "id": 3856675357,
+    "amenity": "restaurant",
+    "branch": "Spreitenbach Shoppi",
+    "brand": "Hans im Gl\u00fcck",
+    "brand:wikidata": "Q22569868",
+    "cuisine": "burger",
+    "level": "1",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Su 11:00-23:00, Mo-Th 09:00-23:00, Fr-Sa 09:00-01:00",
+    "website": "https://hansimglueck-burgergrill.ch/"
+  },
+  "id": 3856675357
+}

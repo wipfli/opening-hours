@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4016123,
+      46.8199805
+    ]
+  },
+  "properties": {
+    "id": 6175313242,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Tuifelsstei",
+    "opening_hours": "Tu-Fr 07:30-14:00,17:30+; Sa 08:00-11:00,17:30+",
+    "website": "http://www.tuifelsstei.ch"
+  },
+  "id": 6175313242
+}

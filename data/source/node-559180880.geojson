@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7984423,
+      47.0580331
+    ]
+  },
+  "properties": {
+    "id": 559180880,
+    "addr:city": "Unteriberg",
+    "addr:housenumber": "40",
+    "addr:postcode": "8842",
+    "addr:street": "Oberibergerstrasse",
+    "amenity": "restaurant",
+    "email": "info@restaurant-horat.ch",
+    "name": "Restaurant Horat",
+    "opening_hours": "Mo-Tu 08:30-14:00; Fr 17:00-23:00; Sa 08:30-23:00; Su 09:30-21:00",
+    "phone": "+41 55 414 22 21",
+    "website": "https://restaurant-horat.ch"
+  },
+  "id": 559180880
+}

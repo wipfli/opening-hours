@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5211491,
+      47.3778609
+    ]
+  },
   "properties": {
-    "@id": "node/315862440",
+    "id": 315862440,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "163",
@@ -16,12 +23,5 @@
     "website": "https://www.equi-table.ch",
     "wikidata": "Q90309502"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5211491,
-      47.3778609
-    ]
-  },
-  "id": "node-315862440"
+  "id": 315862440
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.162407,
+      46.8067863
+    ]
+  },
+  "properties": {
+    "id": 645641934,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "4",
+    "addr:postcode": "1700",
+    "addr:street": "Place de Notre-Dame",
+    "alt_name": "Salle de la Grenette;Grenette",
+    "amenity": "restaurant",
+    "cuisine": "malaysian;thai",
+    "diet:non-vegetarian": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Punkt",
+    "opening_hours": "Tu-Fr 10:00-14:00; Tu-Fr 17:00-23:00; Sa 11:00-23:00",
+    "phone": "+41263226521",
+    "website": "https://www.restaurant-punkt.ch/"
+  },
+  "id": 645641934
+}

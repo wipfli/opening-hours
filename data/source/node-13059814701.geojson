@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.594983,
+      47.4087065
+    ]
+  },
+  "properties": {
+    "id": 13059814701,
+    "addr:housenumber": "6",
+    "addr:postcode": "4208",
+    "addr:street": "Eichelbergstrasse",
+    "amenity": "restaurant",
+    "name": "Landgasthof Roderis",
+    "opening_hours": "We-Sa 11:00-14:00, 17:30-22:30; Su 11:00-19:00",
+    "phone": "+41 61 791 03 21",
+    "self_service": "no",
+    "website": "https://www.roderis-nunningen.ch/restaurant",
+    "website:menu": "https://www.roderis-nunningen.ch/menu"
+  },
+  "id": 13059814701
+}

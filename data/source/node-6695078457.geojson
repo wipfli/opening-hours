@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8542109,
+      46.982965
+    ]
+  },
+  "properties": {
+    "id": 6695078457,
+    "amenity": "restaurant",
+    "name": "Alpwirtschaft Roggenloch",
+    "opening_hours": "Jun 1-Oct 15 08:00-24:00; \"Anfang und End der Saison ist jedes Jahr anders.\"",
+    "tourism": "alpine_hut",
+    "website": "http://www.roggenloch.ch"
+  },
+  "id": 6695078457
+}

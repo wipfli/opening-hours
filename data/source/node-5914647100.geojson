@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5249274,
+      47.0253762
+    ]
+  },
+  "properties": {
+    "id": 5914647100,
+    "addr:city": "Gersau",
+    "addr:housenumber": "1",
+    "addr:postcode": "6442",
+    "addr:street": "Rigi Burggeist",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Burggeist",
+    "opening_hours": "We-Mo",
+    "phone": "+41 41 828 16 86",
+    "tourism": "guest_house",
+    "website": "https://www.rigi-burggeist.ch/"
+  },
+  "id": 5914647100
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6436346,
+      47.350406
+    ]
+  },
+  "properties": {
+    "id": 436656156,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "name": "Crown of India",
+    "note": "Is in the same rooms as Peri Peri Kitchen, but is treated as a separate restaurant",
+    "opening_hours": "Mo-Sa 08:00-14:00, 17:00-00:00; Su 17:00-00:00",
+    "phone": "+41 43 499 02 02",
+    "website": "http://crown-of-india.ch/"
+  },
+  "id": 436656156
+}

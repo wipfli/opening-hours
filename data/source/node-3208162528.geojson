@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7080089,
+      47.6771252
+    ]
+  },
+  "properties": {
+    "id": 3208162528,
+    "addr:city": "Schlatt (TG)",
+    "addr:country": "CH",
+    "addr:place": "Kundelfingerhof",
+    "addr:postcode": "8252",
+    "amenity": "restaurant",
+    "email": "restaurant@kundelfingerhof.ch",
+    "name": "Hofrestaurant Kundelfingerhof",
+    "opening_hours": "We-Fr 11:00-14:00,17:30-22:30, Sa 10:00-22:30, Su 10:00-21:00",
+    "phone": "+41 52 657 11 22",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.kundelfingerhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3208162528
+}

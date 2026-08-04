@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6250716,
+      46.5121889
+    ]
+  },
+  "properties": {
+    "id": 3515520557,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "amenity": "restaurant",
+    "cuisine": "chinese;cantonese",
+    "name": "La Jonque",
+    "opening_hours": "Mo-Sa 11:45-14:00, Mo-Su 18:30-22:00",
+    "phone": "+41 21 616 55 11",
+    "website": "https://www.lajonque.com/",
+    "wheelchair": "yes"
+  },
+  "id": 3515520557
+}

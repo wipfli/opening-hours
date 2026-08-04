@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3722647,
+      47.4241058
+    ]
+  },
+  "properties": {
+    "id": 5873384085,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "8",
+    "addr:postcode": "9000",
+    "addr:street": "Sch\u00fctzengasse",
+    "amenity": "restaurant",
+    "cuisine": "persian",
+    "name": "Sofreh",
+    "opening_hours": "Tu-Su 11:00-14:00,16:00-22:00",
+    "toilets:wheelchair": "no",
+    "website": "https://www.sofreh-sg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5873384085
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2772596,
+      46.8745145
+    ]
+  },
+  "properties": {
+    "id": 7167791385,
+    "addr:housenumber": "7",
+    "addr:postcode": "3184",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "name": "Gasthof St. Jakob",
+    "opening_hours": "Tu-Th 11:00-14:00, 17:00-23:00; Fr-Sa 11:00-00:00; Su 10:00-17:00",
+    "phone": "+41 26 496 11 04",
+    "website": "http://www.st-jakob-gasthof.ch/"
+  },
+  "id": 7167791385
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.745775,
+      47.4993039
+    ]
+  },
+  "properties": {
+    "id": 4145958789,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "16",
+    "addr:postcode": "8400",
+    "addr:street": "Werkstrasse",
+    "amenity": "restaurant",
+    "leisure": "sports_centre",
+    "name": "Billardcenter Borsalino",
+    "opening_hours": "Mo-Th 14:00-24:00; Fr-Sa 14:00-02:00, Su 14:00-24:00",
+    "sport": "billiards",
+    "website": "https://www.borsalino.li/"
+  },
+  "id": 4145958789
+}

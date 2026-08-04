@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2765769,
+      46.6317562
+    ]
+  },
+  "properties": {
+    "id": 7716145085,
+    "addr:housenumber": "19",
+    "addr:postcode": "7109",
+    "addr:street": "Gassli",
+    "amenity": "restaurant",
+    "email": "info@gasslihof.ch",
+    "name": "Gasslihof",
+    "opening_hours": "24/7",
+    "phone": "+41 79 746 20 87",
+    "website": "https://www.gasslihof.ch/"
+  },
+  "id": 7716145085
+}

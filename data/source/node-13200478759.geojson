@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.675075,
+      46.6899873
+    ]
+  },
+  "properties": {
+    "id": 13200478759,
+    "addr:city": "Spiez",
+    "addr:housenumber": "2",
+    "addr:postcode": "3700",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Primo Amore",
+    "opening_hours": "Mo-Sa 09:30-23:00",
+    "website": "https://primoamore.ch/"
+  },
+  "id": 13200478759
+}

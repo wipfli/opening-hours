@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4838926,
+      47.3822104
+    ]
+  },
+  "properties": {
+    "id": 503707638,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "223",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-10",
+    "check_date:diet:vegan": "2025-07-10",
+    "check_date:diet:vegetarian": "2025-07-10",
+    "check_date:opening_hours": "2025-07-10",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "enso",
+    "opening_hours": "Tu-Th,Su 11:30-14:00, Tu-Th 17:00-22:00, Fr,Sa 11:30-14:00,17:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 203 98 15",
+    "website": "https://www.enso-sushi-wok.ch"
+  },
+  "id": 503707638
+}

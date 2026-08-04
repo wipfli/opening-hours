@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6679231,
+      47.2289782
+    ]
+  },
+  "properties": {
+    "id": 7171798747,
+    "addr:city": "W\u00e4denswil",
+    "addr:housenumber": "27",
+    "addr:postcode": "8820",
+    "addr:street": "Oberdorfstrasse",
+    "alt_name": "Migros Restaurant W\u00e4denswil",
+    "amenity": "restaurant",
+    "branch": "W\u00e4denswil",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "female_toilet",
+    "check_date:opening_hours": "2025-04-25",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 11:00-14:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-waedenswil",
+    "wheelchair": "yes"
+  },
+  "id": 7171798747
+}

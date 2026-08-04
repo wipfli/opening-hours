@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3921277,
+      47.4357605
+    ]
+  },
+  "properties": {
+    "id": 7840638542,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "29",
+    "addr:postcode": "9008",
+    "addr:street": "Bachstrasse",
+    "alt_name": "Migros Restaurant St. Fiden",
+    "amenity": "restaurant",
+    "branch": "St. Gallen St. Fiden",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date": "2023-08-28",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-st-gallen-st-fiden"
+  },
+  "id": 7840638542
+}

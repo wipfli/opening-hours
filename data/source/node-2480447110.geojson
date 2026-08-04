@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5643261,
+      47.2852391
+    ]
+  },
+  "properties": {
+    "id": 2480447110,
+    "addr:city": "Thalwil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8800",
+    "addr:street": "B\u00f6nirainstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Makoto Sushi Bar & Take-Away",
+    "opening_hours": "Tu-Fr 11:45-13:30,18:00-21:00; Sa 18:00-21:00",
+    "phone": "+41 43 377 92 88",
+    "website": "https://www.makoto.ch/"
+  },
+  "id": 2480447110
+}

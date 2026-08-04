@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2293874,
+      46.606313
+    ]
+  },
+  "properties": {
+    "id": 11879339946,
+    "addr:city": "Le Sentier",
+    "addr:housenumber": "17",
+    "addr:postcode": "1347",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "cuisine": "creole",
+    "name": "Restaurant Black Lions",
+    "opening_hours": "Mo-Fr 09:00-14:00; 17:00-23:00",
+    "phone": "+41 21 845 57 25",
+    "website": "https://www.restaurantblacklions.ch/"
+  },
+  "id": 11879339946
+}

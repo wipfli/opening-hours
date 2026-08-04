@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8212019,
+      47.3048982
+    ]
+  },
+  "properties": {
+    "id": 11379725545,
+    "amenity": "restaurant",
+    "email": "info@d-garage.ch",
+    "name": "d'Garage",
+    "opening_hours": "Mo 15:30-23:00; Tu-Th 11:30-13:30,15:30-23:00; Fr-Sa 15:30-00:00; PH off",
+    "phone": "+41795753399",
+    "website": "https://d-garage.ch"
+  },
+  "id": 11379725545
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.165424,
+      47.4151532
+    ]
+  },
+  "properties": {
+    "id": 1725529246,
+    "addr:housenumber": "4",
+    "addr:postcode": "5103",
+    "addr:street": "Bruggerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "delivery": "no",
+    "email": "info@diaw.ch",
+    "name": "Diaw",
+    "old_name": "Schmiedstube",
+    "opening_hours": "Mo 11:00-14:00; Tu-Th 11:00-14:00,17:30-22:00; Fr 17:30-23:00; Sa 17:30-23:00",
+    "phone": "+41 62 893 10 15",
+    "takeaway": "yes",
+    "website": "https://diaw.ch/"
+  },
+  "id": 1725529246
+}

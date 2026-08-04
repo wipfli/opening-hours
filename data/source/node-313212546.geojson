@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5239732,
+      47.374422
+    ]
+  },
   "properties": {
-    "@id": "node/313212546",
+    "id": 313212546,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "120",
@@ -18,12 +25,5 @@
     "website": "https://www.yuma-zurich.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5239732,
-      47.374422
-    ]
-  },
-  "id": "node-313212546"
+  "id": 313212546
 }

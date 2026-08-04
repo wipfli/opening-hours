@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3743056,
+      47.4240025
+    ]
+  },
+  "properties": {
+    "id": 12613419819,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "54",
+    "addr:postcode": "9000",
+    "addr:street": "Neugasse",
+    "amenity": "restaurant",
+    "name": "Razzo",
+    "opening_hours": "Mo-We 09:00-21:00; Th-Sa 09:00-23:00",
+    "website": "https://www.razzo.sg/"
+  },
+  "id": 12613419819
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3915409,
+      47.1175201
+    ]
+  },
+  "properties": {
+    "id": 12726662872,
+    "addr:city": "Root",
+    "addr:housenumber": "15",
+    "addr:postcode": "6037",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;pasta;regional",
+    "email": "info@villaggio-root.ch",
+    "name": "Villaggio",
+    "opening_hours": "Mo 09:00-23:30; We-Sa 09:00-23:30; Su 10:30-21:30",
+    "phone": "+41 41 450 40 20",
+    "website": "https://www.villaggio-root.ch"
+  },
+  "id": 12726662872
+}

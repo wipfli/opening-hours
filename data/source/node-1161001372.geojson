@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4982637,
+      46.8900028
+    ]
+  },
+  "properties": {
+    "id": 1161001372,
+    "addr:city": "Belp",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "3123",
+    "addr:street": "Bahnhofstrasse",
+    "air_conditioning": "no",
+    "alt_name": "Ristorante & Bar Puccini",
+    "amenity": "restaurant",
+    "contact:email": "mail@puccinibelp.ch",
+    "contact:phone": "+41 31 8120202",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Puccini",
+    "opening_hours": "Mo-Fr 11:00-23:00; Sa 16:00-23:30; Su off",
+    "operator": "Th\u00e9r\u00e8se K\u00e4mpf-Hirschi",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://www.puccinibelp.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1161001372
+}

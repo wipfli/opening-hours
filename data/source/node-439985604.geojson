@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7430196,
+      47.1846397
+    ]
+  },
+  "properties": {
+    "id": 439985604,
+    "addr:city": "Feusisberg",
+    "addr:housenumber": "10",
+    "addr:postcode": "8835",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;asian;fusion",
+    "name": "Itaki",
+    "opening_hours": "Mo 11:30-14:30,18:00-23:00; We-Fr 11:30-14:30; Sa 18:00-23:00; Su 12:00-20:00",
+    "phone": "+41 44 380 77 00",
+    "website": "https://itaki.ch/"
+  },
+  "id": 439985604
+}

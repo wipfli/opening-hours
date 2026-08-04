@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7170969,
+      47.3468325
+    ]
+  },
+  "properties": {
+    "id": 355232199,
+    "addr:housenumber": "28",
+    "addr:street": "Zentralstrasse",
+    "amenity": "restaurant",
+    "name": "Arena",
+    "opening_hours": "Mo 11:00-14:00,17:00-22:00; We-Fr 11:00-14:00,17:00-22:00; Sa,Su 10:00-22:00",
+    "toilets:wheelchair": "no",
+    "website": "http://www.arenagelati.ch/index.php/en/",
+    "wheelchair": "limited"
+  },
+  "id": 355232199
+}

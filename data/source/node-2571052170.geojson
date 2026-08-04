@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.912214,
+      46.693553
+    ]
+  },
+  "properties": {
+    "id": 2571052170,
+    "addr:city": "Romont FR",
+    "addr:housenumber": "1",
+    "addr:postcode": "1680",
+    "addr:street": "La Gare",
+    "amenity": "restaurant",
+    "cuisine": "chinese;vietnamese",
+    "description": "Buffet de la gare",
+    "name": "La Baie d'Halong",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "takeaway": "yes",
+    "website": "https://restaurantlabaiedhalong.business.site/"
+  },
+  "id": 2571052170
+}

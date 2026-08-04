@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1486715,
+      46.1957189
+    ]
+  },
+  "properties": {
+    "id": 10731546410,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "105",
+    "addr:postcode": "1205",
+    "addr:street": "Rue Louise-De-Frott\u00e9",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100089976652107",
+    "contact:instagram": "https://www.instagram.com/peroudunas/",
+    "cuisine": "peruvian",
+    "mobile": "+41 79 902 24 72",
+    "name": "Mi Per\u00fa",
+    "opening_hours": "Mo-Fr 12:00-15:00, 18:00-23:00, Sa-Su, PH 18:00-23:00",
+    "phone": "+41 22 314 57 58",
+    "website": "https://restaurant-perou.ch"
+  },
+  "id": 10731546410
+}

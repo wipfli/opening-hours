@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4316443,
+      47.3898727
+    ]
+  },
+  "properties": {
+    "id": 3778265759,
+    "addr:city": "Urdorf",
+    "addr:housenumber": "34",
+    "addr:postcode": "8902",
+    "addr:street": "Bergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "email": "info@ilgabbiano.ch",
+    "indoor_seating": "yes",
+    "name": "Il Gabbino",
+    "opening_hours": "Mo-Su 17:30-22:00",
+    "outdoor_seating": "terrace",
+    "phone": "+41 44 734 01 24",
+    "website": "https://www.ilgabbiano.ch/"
+  },
+  "id": 3778265759
+}

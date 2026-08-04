@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5885699,
+      47.555844
+    ]
+  },
+  "properties": {
+    "id": 5341699522,
+    "amenity": "restaurant",
+    "contact:phone": "+41 61 2617017",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Walliser Kanne",
+    "opening_hours": "Mo-Sa 11:30-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://walliserkanne-basel.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5341699522
+}

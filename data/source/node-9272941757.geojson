@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3385329,
+      46.2420464
+    ]
+  },
+  "properties": {
+    "id": 9272941757,
+    "addr:city": "Savi\u00e8se",
+    "addr:housenumber": "49",
+    "addr:postcode": "1965",
+    "addr:street": "Route de Savi\u00e8se",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Suchada",
+    "opening_hours": "Tu-Sa 11:00-13:30,18:00-21:30",
+    "phone": "+41 79 210 88 55",
+    "takeaway": "yes",
+    "website": "https://suchada-thaifood.ch/"
+  },
+  "id": 9272941757
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8610295,
+      47.0938154
+    ]
+  },
+  "properties": {
+    "id": 3870574223,
+    "addr:postcode": "4950",
+    "amenity": "restaurant",
+    "diet:vegetarian": "no",
+    "email": "r-schuep@hotmail.com",
+    "name": "Sch\u00fcpbach's Burehofbeizli",
+    "opening_hours": "\"Geplante Events\"",
+    "phone": "+41 62 962 34 23",
+    "website": "https://www.schuepbach-huttwil.ch"
+  },
+  "id": 3870574223
+}

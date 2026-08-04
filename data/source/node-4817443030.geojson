@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9498672,
+      47.2219115
+    ]
+  },
+  "properties": {
+    "id": 4817443030,
+    "addr:city": "Schmerikon",
+    "addr:postcode": "8716",
+    "addr:street": "Aabachstrasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "thai",
+    "delivery": "no",
+    "name": "Philok Thai",
+    "opening_hours": "Sep-May: Tu-Fr 11:30-14:00,18:00-22:00, Sep-May: Sa 18:00-22:00; Jun-Aug: Tu-Fr 11:30-14:00,18:00-22:00; Jun-Aug: Sa-Su 12:00-22:00",
+    "phone": "+41 78 756 44 06",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.philokthai.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4817443030
+}

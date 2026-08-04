@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5479863,
+      47.3707349
+    ]
+  },
   "properties": {
-    "@id": "node/270938093",
+    "id": 270938093,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "1",
     "addr:place": "Heimplatz",
@@ -22,12 +29,5 @@
     "website": "https://www.beimoudi.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5479863,
-      47.3707349
-    ]
-  },
-  "id": "node-270938093"
+  "id": 270938093
 }

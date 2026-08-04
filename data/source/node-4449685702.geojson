@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7923945,
+      47.3210307
+    ]
+  },
+  "properties": {
+    "id": 4449685702,
+    "addr:housenumber": "8",
+    "addr:street": "Solothurnerstrasse",
+    "amenity": "restaurant",
+    "name": "Halbmond",
+    "opening_hours": "Mo-Sa 11:00-14:00; Mo-Sa 17:00-23:00; Su 11:00-21:00",
+    "phone": "+41 62 398 19 19",
+    "website": "https://restauranthalbmond.ch"
+  },
+  "id": 4449685702
+}

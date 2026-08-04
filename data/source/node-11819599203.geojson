@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9017398,
+      47.3479162
+    ]
+  },
+  "properties": {
+    "id": 11819599203,
+    "addr:city": "Olten",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4600",
+    "addr:street": "Hausmattrain",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "Los Jalape\u00f1os",
+    "opening_hours": "Mo 11:00-14:00,17:00-22:00; Tu off; We-Fr 11:00-14:00,17:00-22:00; Sa-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41622120780",
+    "website": "https://losjalapenos.ch/"
+  },
+  "id": 11819599203
+}

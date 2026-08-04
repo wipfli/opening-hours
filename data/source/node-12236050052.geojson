@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1458474,
+      46.2065641
+    ]
+  },
+  "properties": {
+    "id": 12236050052,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "29",
+    "addr:postcode": "1201",
+    "addr:street": "Quai des Bergues",
+    "amenity": "restaurant",
+    "cuisine": "french;bistro",
+    "name": "Rivage",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "phone": "+41 22 313 10 13",
+    "website": "https://www.rivagegeneve.ch/"
+  },
+  "id": 12236050052
+}

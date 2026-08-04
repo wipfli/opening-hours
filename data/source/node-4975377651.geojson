@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7883885,
+      47.2132426
+    ]
+  },
+  "properties": {
+    "id": 4975377651,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "4",
+    "addr:postcode": "4900",
+    "addr:street": "Aarwangenstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant zur alten Post",
+    "opening_hours": "Mo off; Tu-Th 08:30-23:30; Fr 08:30-00:30, Sa 09:00-00:30, Su 09:00-18:00",
+    "phone": "+41 62 530 49 39",
+    "toilets:wheelchair": "no",
+    "website": "https://www.poestlilangenthal.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "T\u00fcrschliesser"
+  },
+  "id": 4975377651
+}

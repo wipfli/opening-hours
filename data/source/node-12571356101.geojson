@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3877082,
+      46.8992209
+    ]
+  },
+  "properties": {
+    "id": 12571356101,
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "local",
+    "description": "Nur auf Voranmeldung und ab 12 Personen offen",
+    "description:gsw": "\u00dcses Restaurant isch nume uf Voram\u00e4udig und ab 12 Persone offe.",
+    "name": "Zum alte Burehus",
+    "opening_hours": "\"on request only\"",
+    "phone": "+41 31 849 20 72",
+    "reservation": "required",
+    "website": "https://www.burren-mengestorf.ch"
+  },
+  "id": 12571356101
+}

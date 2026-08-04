@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5278855,
+      47.2848415
+    ]
+  },
+  "properties": {
+    "id": 1073626966,
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "name": "L\u00f6wen",
+    "opening_hours": "Th-Mo 11:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 713 31 10",
+    "website": "https://www.landgasthofloewen.ch/"
+  },
+  "id": 1073626966
+}

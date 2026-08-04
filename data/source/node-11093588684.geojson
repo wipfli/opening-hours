@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7412083,
+      46.4043155
+    ]
+  },
+  "properties": {
+    "id": 11093588684,
+    "addr:city": "Ferden",
+    "addr:housenumber": "1",
+    "addr:postcode": "3916",
+    "addr:street": "Kummenalpstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;burger;sandwich",
+    "name": "Gasthaus Kummenalp",
+    "opening_hours": "Mo-Su 08:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41797504772",
+    "website": "https://www.kummenalp.ch"
+  },
+  "id": 11093588684
+}

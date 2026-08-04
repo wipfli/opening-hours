@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4480647,
+      46.9482359
+    ]
+  },
+  "properties": {
+    "id": 379712215,
+    "addr:city": "Bern",
+    "addr:housenumber": "7",
+    "addr:place": "Kornhausplatz",
+    "addr:postcode": "3011",
+    "amenity": "restaurant",
+    "contact:addr": "Kornhausplatz 7, 3011 Bern",
+    "contact:phone": "+41315572300",
+    "cuisine": "vietnamese",
+    "diet:vegetarian": "yes",
+    "name": "Hung Thinh",
+    "opening_hours": "Mo-Sa 11:30-14:30,17:30-22:00; Su 11:30-14:00,17:00-21:00",
+    "source": "survey and website",
+    "website": "https://hung-thinh.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 379712215
+}

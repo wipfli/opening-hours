@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2427963,
+      47.1362577
+    ]
+  },
+  "properties": {
+    "id": 1608381933,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "21",
+    "addr:postcode": "2502",
+    "addr:street": "Spitalstrasse",
+    "addr:street:fr": "Rue de l'H\u00f4pital",
+    "amenity": "restaurant",
+    "cuisine": "greek;serbian;pizza;regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@restaurant-diligence.com",
+    "indoor_seating": "yes",
+    "name": "Restaurant \u00e0 la Diligence",
+    "opening_hours": "Mo-Fr 08:00-14:00; 17:30-23:30; Sa 18:00-00:30; Su 18:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 322 20 60",
+    "website": "https://restaurant-diligence.com/",
+    "wheelchair": "no"
+  },
+  "id": 1608381933
+}

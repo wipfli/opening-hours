@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.139729,
+      46.2003558
+    ]
+  },
+  "properties": {
+    "id": 4502591790,
+    "addr:housenumber": "3",
+    "addr:postcode": "1204",
+    "addr:street": "Avenue du Mail",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "email": "info@lapignata.ch",
+    "name": "La Pignata",
+    "name:it": "La Pignata",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:30-22:30; Su 18:30-22:30",
+    "phone": "+41 22 320 22 08",
+    "website": "https://lapignata.ch/"
+  },
+  "id": 4502591790
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4893633,
+      47.3993584
+    ]
+  },
+  "properties": {
+    "id": 317816283,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8049",
+    "addr:street": "Werdinsel",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "fixme": "openinghours only correct in summer. add opening hours for winter when they are published (see website)",
+    "indoor_seating": "no",
+    "name": "Restaurant Werdinsel",
+    "opening_hours": "Mo-Su 09:00-20:00 open \"nur bei sch\u00f6nem Wetter\"",
+    "opening_hours:url": "http://twitter.com/werdinsel",
+    "outdoor_seating": "patio",
+    "phone": "+41 44 341 74 72",
+    "seasonal": "summer",
+    "smoking": "outside",
+    "website": "https://www.werdinsel.com/",
+    "wheelchair": "yes"
+  },
+  "id": 317816283
+}

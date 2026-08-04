@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.303972,
+      47.052695
+    ]
+  },
+  "properties": {
+    "id": 2781201637,
+    "addr:city": "Luzern",
+    "addr:housenumber": "18",
+    "addr:postcode": "6004",
+    "addr:street": "L\u00f6wengraben",
+    "amenity": "restaurant",
+    "brewery": "yes",
+    "contact:facebook": "Restaurant-Izakaya-Nozomi-Luzern-302185593894141",
+    "contact:instagram": "izakaya_nozomi",
+    "cuisine": "japanese",
+    "drive_through": "no",
+    "email": "info@nozomi-luzern.ch",
+    "name": "Izakaya Nozomi",
+    "name:de": "Izakaya Nozomi",
+    "name:en": "Izakaya Nozomi",
+    "name:fr": "Izakaya Nozomi",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Fr 18:00-23:00, Sa 11:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 417 01 98",
+    "smoking": "outside",
+    "website": "https://en.nozomi-luzern.ch/",
+    "website:menu": "https://en.nozomi-luzern.ch/_files/ugd/e90fdd_dac8fd4216234e4a8f76bea9d64f5cf9.pdf"
+  },
+  "id": 2781201637
+}

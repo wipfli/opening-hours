@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.847003,
+      47.2576719
+    ]
+  },
+  "properties": {
+    "id": 7762866457,
+    "addr:floor": "EG",
+    "addr:housenumber": "28",
+    "addr:street": "Rapperswilerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-05",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "Lesch\u00e4r",
+    "opening_hours": "Mo-Th 11:00-14:30,17:00-22:00; Fr 11:00-14:30,17:00-23:00; Sa 16:30-23:00",
+    "phone": "+41 76 491 99 91",
+    "website": "http://www.restaurant-lesch\u00e4r.ch/"
+  },
+  "id": 7762866457
+}

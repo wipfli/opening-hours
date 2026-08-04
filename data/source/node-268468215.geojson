@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5458541,
+      47.3673843
+    ]
+  },
   "properties": {
-    "@id": "node/268468215",
+    "id": 268468215,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "7",
@@ -18,12 +25,5 @@
     "website": "https://www.rosalys.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5458541,
-      47.3673843
-    ]
-  },
-  "id": "node-268468215"
+  "id": 268468215
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3461533,
+      47.1063672
+    ]
+  },
+  "properties": {
+    "id": 5493974978,
+    "addr:city": "Berschis",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8892",
+    "addr:street": "Unterdorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "lindeberschis@bluemail.ch",
+    "name": "Landgasthof Linde",
+    "opening_hours": "Tu-Sa 09:00-14:00,18:00-23:30",
+    "phone": "+41 81 733 22 21",
+    "website": "https://www.lindeberschis.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5493974978
+}

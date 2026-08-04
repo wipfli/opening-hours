@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4627244,
+      46.9475053
+    ]
+  },
+  "properties": {
+    "id": 265618079,
+    "amenity": "restaurant",
+    "contact:addr": "Bantigerstrasse 18, 3006 Bern",
+    "contact:email": "info@brasserie-obstberg.ch",
+    "contact:fax": "+41 31 3520442",
+    "contact:phone": "+41 31 3520440",
+    "cuisine": "french",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Brasserie Obstberg",
+    "opening_hours": "Mo-Fr 11:00-23:30; Sa 18:00-23:30; Su off",
+    "outdoor_seating": "yes",
+    "source": "website",
+    "website": "https://www.brasserie-obstberg.ch/"
+  },
+  "id": 265618079
+}

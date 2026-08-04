@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3748054,
+      47.4218376
+    ]
+  },
+  "properties": {
+    "id": 555053386,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "9000",
+    "addr:street": "Oberer Graben",
+    "amenity": "restaurant",
+    "name": "Stickerei",
+    "name:de": "Stickerei",
+    "opening_hours": "Tu-Sa 11:30-00:00",
+    "phone": "+41 71 222 62 32",
+    "website": "https://restaurantstickerei.tumblr.com/",
+    "wheelchair": "no"
+  },
+  "id": 555053386
+}

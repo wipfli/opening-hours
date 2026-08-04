@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0141375,
+      46.31109
+    ]
+  },
+  "properties": {
+    "id": 9024633157,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-25",
+    "cuisine": "regional",
+    "email": "contact@chezfrancois.ch",
+    "name": "Chez Anita et Fran\u00e7ois",
+    "opening_hours": "We-Su 09:00-23:00",
+    "phone": "+41 24 524 15 23",
+    "source:opening_hours": "website",
+    "website": "https://www.chezfrancois.ch/"
+  },
+  "id": 9024633157
+}

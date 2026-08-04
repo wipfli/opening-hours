@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3252087,
+      47.4646184
+    ]
+  },
+  "properties": {
+    "id": 5537804927,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "78",
+    "addr:postcode": "5430",
+    "addr:street": "Alberich Zwyssigstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "mexican",
+    "email": "infotexmex@bluewin.ch",
+    "name": "Tex Mex",
+    "opening_hours": "Mo-Fr 16:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 437 01 01",
+    "reservation": "recommended",
+    "smoking": "isolated",
+    "website": "https://www.texmex-wettingen.ch/"
+  },
+  "id": 5537804927
+}

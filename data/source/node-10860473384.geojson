@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5729906,
+      47.2150463
+    ]
+  },
+  "properties": {
+    "id": 10860473384,
+    "amenity": "restaurant",
+    "level": "0",
+    "name": "The Great",
+    "opening_hours": "We-Fr 10:00-14:00,18:00-22:00; Sa 10:00-04:00; Su 10:00-22:00",
+    "phone": "+41 76 201 90 18",
+    "website": "https://thegreatzug.ch"
+  },
+  "id": 10860473384
+}

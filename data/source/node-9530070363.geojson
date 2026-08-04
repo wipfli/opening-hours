@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6702122,
+      47.2276442
+    ]
+  },
+  "properties": {
+    "id": 9530070363,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Siam Asia Shop",
+    "opening_hours": "Mo-Fr 10:30-20:00; Sa 10:30-17:00",
+    "phone": "+41 43 477 88 70",
+    "shop": "food",
+    "takeaway": "only",
+    "website": "https://www.siamasiashop.ch/"
+  },
+  "id": 9530070363
+}

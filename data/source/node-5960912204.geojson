@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.379025,
+      47.4243396
+    ]
+  },
+  "properties": {
+    "id": 5960912204,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "9000",
+    "addr:street": "Zeughausgasse",
+    "amenity": "restaurant",
+    "name": "Gaststuben zum Schl\u00f6ssli",
+    "opening_hours": "Mo-Fr 11:45-13:45,18:00-23:00; Sa,Su,PH off",
+    "phone": "+41 71 222 12 56",
+    "website": "https://www.schloessli-sg.ch/"
+  },
+  "id": 5960912204
+}

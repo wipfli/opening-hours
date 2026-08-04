@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2460546,
+      47.1378223
+    ]
+  },
+  "properties": {
+    "id": 5072856461,
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "2502",
+    "addr:street": "Rue Jean-Sessler / Jean-Sessler-Strasse",
+    "addr:street:de": "Jean-Sessler-Strasse",
+    "addr:street:fr": "Rue Jean-Sessler",
+    "amenity": "restaurant",
+    "ele": "434",
+    "indoor_seating": "yes",
+    "name": "Restaurant Autrement",
+    "opening_hours": "Sa 10:30-23:30; Tu-Fr 10:30-14:00,18:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41323224746",
+    "smoking": "outside",
+    "website": "https://www.restaurant-autrement.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5072856461
+}

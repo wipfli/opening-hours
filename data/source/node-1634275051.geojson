@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5613545,
+      46.8785971
+    ]
+  },
+  "properties": {
+    "id": 1634275051,
+    "addr:city": "M\u00fcnsingen",
+    "addr:housenumber": "26",
+    "addr:postcode": "3110",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-23:30; Sa 16:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 722 11 77",
+    "website": "https://www.baeren-muensingen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1634275051
+}

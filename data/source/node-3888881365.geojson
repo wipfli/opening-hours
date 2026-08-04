@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5993385,
+      47.5690986
+    ]
+  },
+  "properties": {
+    "id": 3888881365,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Le S",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.senevita.ch/de/standorte/betreutes-wohnen-erlenmatt-basel/gastronomie/"
+  },
+  "id": 3888881365
+}

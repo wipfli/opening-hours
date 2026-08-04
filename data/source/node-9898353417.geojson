@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5771266,
+      46.5327176
+    ]
+  },
+  "properties": {
+    "id": 9898353417,
+    "addr:postcode": "1022",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Fabbrica della Pizza",
+    "name:en": "Fabbrica Kitchen & Bar",
+    "opening_hours": "Mo-Sa 11:45-14:00, 18:00-22:00; Su 18:00-22:00",
+    "phone": "+41 21 671 61 61",
+    "website": "https://www.restaurantfabbrica.ch/",
+    "website:menu": "https://www.restaurantfabbrica.ch/menu"
+  },
+  "id": 9898353417
+}

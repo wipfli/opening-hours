@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3687241,
+      47.4214973
+    ]
+  },
+  "properties": {
+    "id": 5183573863,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "51",
+    "addr:postcode": "9000",
+    "addr:street": "St.Leonhard-Strasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Leonardo",
+    "opening_hours": "Mo-Fr 08:30-16:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.leonardosg.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5183573863
+}

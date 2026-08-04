@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3749385,
+      47.4275023
+    ]
+  },
+  "properties": {
+    "id": 13529901863,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "20",
+    "addr:postcode": "9000",
+    "addr:street": "Unterer Graben",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Restaurant Baratella",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-23:00",
+    "website": "https://www.restaurantbaratella.ch/"
+  },
+  "id": 13529901863
+}

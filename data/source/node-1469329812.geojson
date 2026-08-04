@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8488389,
+      46.4588566
+    ]
+  },
+  "properties": {
+    "id": 1469329812,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Coll\u00e8ge",
+    "amenity": "restaurant",
+    "check_date": "2023-10-15",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "A la Valsainte",
+    "opening_hours": "Mo 10:30-14:30; Tu-Sa 10:30-14:30,18:00-00:00",
+    "phone": "+41 21 921 32 60",
+    "takeaway": "yes",
+    "website": "https://www.alavalsainte.ch/",
+    "website:menu": "https://www.alavalsainte.ch/menu"
+  },
+  "id": 1469329812
+}

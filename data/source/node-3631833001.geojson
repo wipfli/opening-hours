@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5774674,
+      47.5419395
+    ]
+  },
+  "properties": {
+    "id": 3631833001,
+    "addr:city": "Binningen",
+    "addr:housenumber": "7",
+    "addr:postcode": "4102",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "capacity": "20",
+    "cuisine": "lebanese",
+    "email": "info@restaurant-habibi.ch",
+    "name": "Restaurant Habibi",
+    "opening_hours": "11:30-14:00,17:30-24:00",
+    "phone": "+41 61 421 42 45",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "http://restaurant-habibi.ch"
+  },
+  "id": 3631833001
+}

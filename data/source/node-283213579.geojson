@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4324293,
+      46.9378401
+    ]
+  },
+  "properties": {
+    "id": 283213579,
+    "alt_name": "Ristorante Pizzeria Toscana",
+    "amenity": "restaurant",
+    "contact:addr": "Seftigenstrasse 27, 3007 Bern",
+    "contact:email": "mail@toscana-bern.ch",
+    "contact:fax": "+41 31 3722407",
+    "contact:phone": "+41 31 3723071",
+    "cuisine": "italian",
+    "name": "Toscana",
+    "opening_hours": "Mo-Fr 09:00-14:00, 17:00-23:30; Sa-Su 17:00-23:30",
+    "source": "survey and website",
+    "website": "https://www.toscana-bern.ch/"
+  },
+  "id": 283213579
+}

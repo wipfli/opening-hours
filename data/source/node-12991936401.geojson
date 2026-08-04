@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2617977,
+      46.4895325
+    ]
+  },
+  "properties": {
+    "id": 12991936401,
+    "addr:housenumber": "53",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;italian;pizza",
+    "name": "Cherry's",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "website": "https://www.cherrys.ch/"
+  },
+  "id": 12991936401
+}

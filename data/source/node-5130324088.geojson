@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0986053,
+      46.6549225
+    ]
+  },
+  "properties": {
+    "id": 5130324088,
+    "addr:city": "Vrin",
+    "addr:housenumber": "46",
+    "addr:place": "Plaz Posta",
+    "addr:postcode": "7149",
+    "amenity": "restaurant",
+    "email": "info@postavrin.ch",
+    "name": "Ustria dalla Posta",
+    "opening_hours": "Fr-Tu 08:30-19:00",
+    "phone": "+41819311222",
+    "website": "https://www.postavrin.ch"
+  },
+  "id": 5130324088
+}

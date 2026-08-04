@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.396515,
+      46.180529
+    ]
+  },
+  "properties": {
+    "id": 5372497423,
+    "addr:city": "H\u00e9r\u00e9mence",
+    "addr:housenumber": "26",
+    "addr:postcode": "1987",
+    "addr:street": "Chemin des M\u00e9l\u00e8zes",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "facebook": "@restaurantoboissauvage",
+    "instagram": "@restaurantoboissauvage",
+    "internet_access": "wlan",
+    "name": "\u00d4 Bois Sauvage",
+    "opening_hours": "We-Su 11:00-23:00",
+    "phone": "+41 27 527 30 50",
+    "website": "https://leboissauvage.ch/"
+  },
+  "id": 5372497423
+}

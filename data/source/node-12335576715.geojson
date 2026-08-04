@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5728935,
+      46.5304756
+    ]
+  },
+  "properties": {
+    "id": 12335576715,
+    "addr:city": "Chavannes-pr\u00e8s-Renens",
+    "addr:housenumber": "2",
+    "addr:postcode": "1022",
+    "addr:street": "All\u00e9e des C\u00e8dres",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Nota Sushi",
+    "opening_hours": "Mo-Su 11:00-14:30, 16:30-20:30",
+    "outdoor_seating": "no",
+    "phone": "+41786086886",
+    "takeaway": "yes",
+    "website": "https://www.notasushi.ch/"
+  },
+  "id": 12335576715
+}

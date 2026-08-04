@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439582,
+      47.377413
+    ]
+  },
   "properties": {
-    "@id": "node/4193459893",
+    "id": 4193459893,
     "addr:housenumber": "6",
     "addr:street": "Stampfenbachstrasse",
     "amenity": "restaurant",
@@ -15,12 +22,5 @@
     "website": "https://qq-sushi.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5439582,
-      47.377413
-    ]
-  },
-  "id": "node-4193459893"
+  "id": 4193459893
 }

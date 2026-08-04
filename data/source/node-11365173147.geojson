@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5330448,
+      46.2934707
+    ]
+  },
+  "properties": {
+    "id": 11365173147,
+    "addr:city": "Sierre",
+    "addr:housenumber": "4",
+    "addr:postcode": "3960",
+    "addr:street": "Rue Centrale",
+    "amenity": "restaurant",
+    "opening_hours": "Mo-Sa 11:15-14:00; Th,Fr 11:15-14:00,18:30-21:30",
+    "phone": "+41 27 565 66 50",
+    "website": "https://centralavenue.ch/"
+  },
+  "id": 11365173147
+}

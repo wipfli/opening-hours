@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8839216,
+      46.4705942
+    ]
+  },
+  "properties": {
+    "id": 513744625,
+    "addr:city": "Saint-L\u00e9gier-La Chi\u00e9saz",
+    "addr:housenumber": "78",
+    "addr:postcode": "1806",
+    "addr:street": "Route des Deux-Villages",
+    "amenity": "restaurant",
+    "cuisine": "tzatziki;malakoff;p\u00e2t\u00e9_en_cro\u00fbte;salad;fish;risotto;burger;lamb;beef;cheese;cr\u00eame_br\u00fbl\u00e9e;cheesecake;tartelette;ice_cream;fondue",
+    "name": "Auberge Communale de St-L\u00e9gier - La Chi\u00e9saz",
+    "opening_hours": "We-Su 07:00-23:00",
+    "phone": "+41 21 943 11 77",
+    "tourism": "hotel",
+    "website": "http://auberge-st-legier.ch/"
+  },
+  "id": 513744625
+}

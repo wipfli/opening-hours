@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3029441,
+      47.1054336
+    ]
+  },
+  "properties": {
+    "id": 3136443619,
+    "addr:city": "Worben",
+    "addr:housenumber": "1",
+    "addr:postcode": "3252",
+    "addr:street": "Gouchertweg",
+    "amenity": "restaurant",
+    "name": "Fischereipark Worben",
+    "opening_hours": "Mar 16-Oct 31: Mo-Tu off, We-Sa 09:00-23:00, Su 09:00-21:00; Nov 1-Mar 15: Mo-Tu off, Fr-Sa 09:00-23:00, Su 09:00-21:00",
+    "website": "https://www.fischereipark.ch/"
+  },
+  "id": 3136443619
+}

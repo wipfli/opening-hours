@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.575814,
+      47.5560239
+    ]
+  },
+  "properties": {
+    "id": 8036732978,
+    "addr:city": "Basel",
+    "addr:housenumber": "123",
+    "addr:postcode": "4055",
+    "addr:street": "Spalenring",
+    "amenity": "restaurant",
+    "check_date": "2026-06-14",
+    "cuisine": "pizza;italian",
+    "indoor_seating": "yes",
+    "name": "Restaurant La Gondola",
+    "opening_hours": "Tu-Fr 09:00-22:00; Sa,Su 10:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 536 33 54",
+    "smoking": "outside",
+    "website": "https://www.la-gondola.ch/"
+  },
+  "id": 8036732978
+}

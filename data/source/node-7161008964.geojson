@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0501833,
+      47.4671245
+    ]
+  },
+  "properties": {
+    "id": 7161008964,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "43",
+    "addr:postcode": "9500",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "name": "Falkenburg",
+    "opening_hours": "Tu-Fr 15:00-22:00; Sa 09:00-22:00",
+    "phone": "+41719110462",
+    "website": "https://falkenburg-wil.ch"
+  },
+  "id": 7161008964
+}

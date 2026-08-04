@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4359715,
+      46.9366823
+    ]
+  },
+  "properties": {
+    "id": 620493549,
+    "alt_name": "Pizzeria Roma",
+    "amenity": "restaurant",
+    "contact:addr": "Morillonstrasse 6, 3007 Bern",
+    "contact:email": "info@pizza-roma.ch",
+    "contact:phone": "+41 31 3726080",
+    "cuisine": "turkish",
+    "indoor_seating": "yes",
+    "name": "Bulgur Bistro",
+    "opening_hours": "Mo-Fr 07:00-14:00, 17:00-22:00; Sa 11:00-14:00, 17:00-22:00; Su off",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.instagram.com/bulgur.bistro/"
+  },
+  "id": 620493549
+}

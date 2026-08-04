@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7179661,
+      47.3503407
+    ]
+  },
+  "properties": {
+    "id": 314658886,
+    "addr:floor": "0",
+    "addr:housenumber": "7",
+    "addr:street": "Bankstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-01",
+    "cuisine": "asian",
+    "email": "uster@peking-garden.ch",
+    "indoor_seating": "yes",
+    "name": "Peking Garden",
+    "opening_hours": "Mo-Su 11:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 940 13 54",
+    "website": "https://www.peking-garden.ch/",
+    "wheelchair": "no"
+  },
+  "id": 314658886
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3790265,
+      47.4297095
+    ]
+  },
+  "properties": {
+    "id": 538035106,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "35",
+    "addr:postcode": "9000",
+    "addr:street": "St.Jakob-Strasse",
+    "amenity": "restaurant",
+    "name": "Netts Sch\u00fctzengarten",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa 17:00-23:30",
+    "phone": "+41 71 242 66 77",
+    "website": "https://www.netts.ch/"
+  },
+  "id": 538035106
+}

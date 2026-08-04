@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5491025,
+      47.3700945
+    ]
+  },
   "properties": {
-    "@id": "node/907598510",
+    "id": 907598510,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "32",
@@ -24,12 +31,5 @@
     "takeaway": "yes",
     "website": "https://www.bindella.ch/de/santa-lucia-teatro.html"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5491025,
-      47.3700945
-    ]
-  },
-  "id": "node-907598510"
+  "id": 907598510
 }

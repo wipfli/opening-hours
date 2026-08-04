@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5656187,
+      47.5515968
+    ]
+  },
+  "properties": {
+    "id": 2487036230,
+    "addr:city": "Teufen ZH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8428",
+    "addr:street": "Oberteufenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-02",
+    "name": "Wirtshus zum Wyberg",
+    "opening_hours": "Mo, Tu off; We-Fr 11:00-14:30, 17:45-24:00; Sa-Su 11:00-24:00",
+    "operator": "Martin & Carol Aeschlimann",
+    "phone": "+41 44 865 49 72",
+    "website": "https://wyberg.ch/"
+  },
+  "id": 2487036230
+}

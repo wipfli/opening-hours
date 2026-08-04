@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537217,
+      47.3527249
+    ]
+  },
   "properties": {
-    "@id": "node/4889986289",
+    "id": 4889986289,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "170",
@@ -21,12 +28,5 @@
     "website": "https://lake-side.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5537217,
-      47.3527249
-    ]
-  },
-  "id": "node-4889986289"
+  "id": 4889986289
 }

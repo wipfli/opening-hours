@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2191277,
+      47.1131596
+    ]
+  },
+  "properties": {
+    "id": 418190201,
+    "amenity": "restaurant",
+    "check_date": "2024-03-25",
+    "email": "info@sagibeiz.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant sagibeiz",
+    "opening_hours": "Th-Sa 11:30-23:00; Su-We 11:30-22:00",
+    "operator": "azibene AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 720 35 75",
+    "toilets:wheelchair": "no",
+    "website": "https://www.sagibeiz.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 418190201
+}

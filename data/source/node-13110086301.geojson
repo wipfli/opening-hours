@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4190093,
+      46.9410209
+    ]
+  },
+  "properties": {
+    "id": 13110086301,
+    "addr:housenumber": "71",
+    "addr:postcode": "3008",
+    "addr:street": "K\u00f6nizstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pasta",
+    "email": "info@dimelocantando.ch",
+    "name": "Dimelo Cantando",
+    "opening_hours": "Tu-Fr 11:45-14:30, 18:00-24:00; Sa 17:00-24:00",
+    "phone": "+41 78 878 69 44",
+    "takeaway": "yes",
+    "website": "https://dimelocantando.ch",
+    "website:menu": "https://dimelocantando.ch/de-CH/speisekarte-pdf"
+  },
+  "id": 13110086301
+}

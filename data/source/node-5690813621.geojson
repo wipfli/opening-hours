@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.576938,
+      47.5525464
+    ]
+  },
+  "properties": {
+    "id": 5690813621,
+    "addr:city": "Basel",
+    "addr:housenumber": "5",
+    "addr:postcode": "4051",
+    "addr:street": "Bundesstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-05-23",
+    "cuisine": "oriental",
+    "indoor_seating": "yes",
+    "name": "Bistrot Crescenda",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.crescenda.ch/"
+  },
+  "id": 5690813621
+}

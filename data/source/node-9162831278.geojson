@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4414674,
+      46.9482023
+    ]
+  },
+  "properties": {
+    "id": 9162831278,
+    "addr:housenumber": "38",
+    "addr:street": "Spitalgasse",
+    "amenity": "restaurant",
+    "levels": "1",
+    "name": "Aminos Cr\u00eaperie & Gelateria",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "takeaway": "yes",
+    "website": "https://aminos.ch"
+  },
+  "id": 9162831278
+}

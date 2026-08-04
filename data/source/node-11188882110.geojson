@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.070054,
+      47.3902193
+    ]
+  },
+  "properties": {
+    "id": 11188882110,
+    "addr:city": "Buchs AG",
+    "addr:housenumber": "37",
+    "addr:postcode": "5033",
+    "addr:street": "Mitteldorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Restaurant Pizzeria Mediterran",
+    "opening_hours": "Mo-Fr 10:00-14:00, Tu-Sa 17:00-23:00",
+    "phone": "+41 62 822 05 05",
+    "website": "https://www.restaurantmediterran.ch/"
+  },
+  "id": 11188882110
+}

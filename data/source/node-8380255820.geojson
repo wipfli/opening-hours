@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6570638,
+      46.5068706
+    ]
+  },
+  "properties": {
+    "id": 8380255820,
+    "addr:city": "Pully",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin de Somais",
+    "amenity": "restaurant",
+    "cuisine": "pizza;pasta;burger;salad",
+    "name": "Homy's Place",
+    "opening_hours": "Mo-Fr 09:30-14:30; Mo-Fr 18:00-21:00; Sa 17:30-21:00",
+    "phone": "+41 21 701 30 30",
+    "website": "https://www.homysplace.ch/"
+  },
+  "id": 8380255820
+}

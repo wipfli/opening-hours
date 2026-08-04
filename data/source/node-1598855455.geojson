@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5932662,
+      47.551441
+    ]
+  },
+  "properties": {
+    "id": 1598855455,
+    "addr:city": "Basel",
+    "addr:housenumber": "24",
+    "addr:postcode": "4051",
+    "addr:street": "Henric Petri-Strasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/pages/category/Mexican-Restaurant/Cartell-418059435592530",
+    "contact:instagram": "https://www.instagram.com/cartell_lafamilia/",
+    "cuisine": "mexican;tacos",
+    "email": "basel@cartell.ch",
+    "indoor_seating": "yes",
+    "name": "Cartell",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr-Sa 11:30-14:00,17:30-24:00; PH off; 2025 Dec 23-24 off; 2025 Dec 30-31 off; 2025 Dec 29 17:00-20:30 \"UBER from 17:00 - 20:30\"",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 283 80 00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.cartell.ch/basel"
+  },
+  "id": 1598855455
+}

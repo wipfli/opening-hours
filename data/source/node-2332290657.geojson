@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4315339,
+      46.1944584
+    ]
+  },
+  "properties": {
+    "id": 2332290657,
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "email": "vieuxbourgresto@gmail.com",
+    "indoor_seating": "yes",
+    "name": "Le Vieux Bourg",
+    "opening_hours": "We-Fr 09:30-15:30,17:30-23:00; Sa-Su,PH 09:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 565 01 58",
+    "website": "https://www.vieuxbourgmase.com"
+  },
+  "id": 2332290657
+}

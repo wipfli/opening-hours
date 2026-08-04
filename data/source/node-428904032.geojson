@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5279082,
+      47.3119018
+    ]
+  },
+  "properties": {
+    "id": 428904032,
+    "addr:city": "Adliswil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8134",
+    "addr:street": "Kilchbergstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/CapriAdliswil",
+    "contact:instagram": "https://www.instagram.com/capri.pizzeria/",
+    "cuisine": "italian",
+    "email": "info@capri-adliswil.ch",
+    "name": "Capri",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:30; Sa-Su,PH 17:00-23:30",
+    "phone": "+41 44 710 44 44",
+    "website": "https://www.capri-adliswil.ch/"
+  },
+  "id": 428904032
+}

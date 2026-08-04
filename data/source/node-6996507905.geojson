@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8113414,
+      47.0946259
+    ]
+  },
+  "properties": {
+    "id": 6996507905,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "208",
+    "addr:postcode": "2300",
+    "addr:street": "Rue Numa-Droz",
+    "amenity": "restaurant",
+    "check_date": "2026-05-24",
+    "cuisine": "chinese",
+    "delivery": "yes",
+    "name": "Le Lotus",
+    "opening_hours": "Mo 18:00-22:00; Tu-Su 10:30-14:30,18:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "takeaway": "yes",
+    "website": "https://www.le-lotus-restaurant.ch/"
+  },
+  "id": 6996507905
+}

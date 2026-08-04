@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.447867,
+      46.94874
+    ]
+  },
+  "properties": {
+    "id": 286879740,
+    "amenity": "restaurant",
+    "contact:addr": "Kornhausplatz 19, 3011 Bern",
+    "contact:email": "ringgenberg@taberna.ch",
+    "contact:fax": "+41 31 3119797",
+    "contact:phone": "+41 31 3112540",
+    "indoor_seating": "yes",
+    "name": "Ringgenberg",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa 09:00-23:30; Su 10:00-23:30",
+    "operator": "taBerna Gastro-Kultur AG",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.restaurant-ringgenberg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 286879740
+}

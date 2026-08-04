@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1732924,
+      46.1485308
+    ]
+  },
+  "properties": {
+    "id": 1151269429,
+    "addr:housenumber": "2",
+    "addr:place": "Place de Gottefrey",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "La Trattoria",
+    "opening_hours": "Mo, Tu, Th-Sa 08:00-23:00; We 08:00-17:00",
+    "phone": "+41277441349",
+    "website": "http://www.latrattoriasaxon.ch/"
+  },
+  "id": 1151269429
+}

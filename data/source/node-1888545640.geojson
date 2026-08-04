@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533656,
+      47.3817668
+    ]
+  },
   "properties": {
-    "@id": "node/1888545640",
+    "id": 1888545640,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "69",
@@ -18,12 +25,5 @@
     "website": "http://www.elluchador.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.533656,
-      47.3817668
-    ]
-  },
-  "id": "node-1888545640"
+  "id": 1888545640
 }

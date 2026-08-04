@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9643374,
+      46.7121687
+    ]
+  },
+  "properties": {
+    "id": 7004299743,
+    "addr:city": "Iseltwald",
+    "addr:postcode": "3807",
+    "addr:street": "Hubel",
+    "amenity": "restaurant",
+    "check_date": "2026-04-14",
+    "check_date:opening_hours": "2026-04-14",
+    "cuisine": "regional",
+    "name": "Dorfpintli",
+    "opening_hours": "Mo,Th-Fr 09:00-20:00; Sa-Su 10:00-20:00",
+    "opening_hours:kitchen": "Mo,Th-Su 11:00-20:00",
+    "phone": "+41 79 800 33 54",
+    "website": "https://restaurant-dorfpintli-restaurant.business.site/",
+    "website:menu": "https://lutim.ggc-project.de/rh2WRQBD.jpg"
+  },
+  "id": 7004299743
+}

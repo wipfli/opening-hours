@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.306496,
+      47.0518673
+    ]
+  },
+  "properties": {
+    "id": 3962600149,
+    "amenity": "restaurant",
+    "cuisine": "bavarian",
+    "diet:vegetarian": "no",
+    "microbrewery": "yes",
+    "name": "Restaurant Rathaus Brauerei",
+    "opening_hours": "Mo,We-Fr 10:00-24:00; Tu 08:00-24:00; Sa 08:00-24:00; Su,PH 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 410 61 11",
+    "source": "local_knowledge",
+    "toilets:wheelchair": "no",
+    "website": "https://www.rathausbrauerei.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3962600149
+}

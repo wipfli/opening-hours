@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6376526,
+      46.519642
+    ]
+  },
+  "properties": {
+    "id": 13228102939,
+    "addr:housenumber": "1",
+    "addr:street": "Av. du Tribunal-F\u00e9d\u00e9ral",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Golden India",
+    "opening_hours": "Mo-Su 11:45-14:15, 18:00-22:00",
+    "phone": "+41213121155",
+    "website": "https://goldenindia.ch/about-goldenindia-lausanne/"
+  },
+  "id": 13228102939
+}

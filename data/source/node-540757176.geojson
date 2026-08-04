@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.463173,
+      46.9656875
+    ]
+  },
+  "properties": {
+    "id": 540757176,
+    "addr:city": "Bern",
+    "addr:housenumber": "71",
+    "addr:postcode": "3014",
+    "addr:street": "Wankdorffeldstrasse",
+    "alt_name": "Migros Restaurant Winkelried",
+    "amenity": "restaurant",
+    "branch": "Bern Winkelried",
+    "changing_table": "yes",
+    "name": "Migros Restaurant",
+    "old_name": "sessibon",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:wheelchair": "designated",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-bern-winkelried",
+    "wheelchair": "yes"
+  },
+  "id": 540757176
+}

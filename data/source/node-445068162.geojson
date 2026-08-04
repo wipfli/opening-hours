@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3737137,
+      47.4257369
+    ]
+  },
+  "properties": {
+    "id": 445068162,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Oberer Graben",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Seeger",
+    "opening_hours": "Mo-We 09:00-23:00; Th 09:00-23:30; Fr-Sa 09:00-01:00; Su 09:00-23:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:45,17:30-21:45; Sa,Su 09:00-13:45,17:30-21:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 222 97 90",
+    "website": "https://www.seeger.ch/",
+    "wheelchair": "no"
+  },
+  "id": 445068162
+}

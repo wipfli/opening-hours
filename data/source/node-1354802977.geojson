@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5437776,
+      47.3752069
+    ]
+  },
   "properties": {
-    "@id": "node/1354802977",
+    "id": 1354802977,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "47",
     "addr:postcode": "8001",
@@ -22,12 +29,5 @@
     "website": "https://suanlong.ch/restaurant/suan-long-niederdorf/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5437776,
-      47.3752069
-    ]
-  },
-  "id": "node-1354802977"
+  "id": 1354802977
 }

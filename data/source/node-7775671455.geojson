@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1636991,
+      46.3744114
+    ]
+  },
+  "properties": {
+    "id": 7775671455,
+    "addr:city": "Crassier",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1263",
+    "addr:street": "Rue de la Tour",
+    "amenity": "restaurant",
+    "amenity_1": "hotel",
+    "name": "Le Boeuf Rouge",
+    "opening_hours": "We-Su 09:00-23:00",
+    "phone": "+41 22 367 12 19",
+    "website": "https://www.leboeufrouge.ch/"
+  },
+  "id": 7775671455
+}

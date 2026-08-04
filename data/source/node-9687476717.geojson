@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6799756,
+      46.5037184
+    ]
+  },
+  "properties": {
+    "id": 9687476717,
+    "addr:city": "Lutry",
+    "addr:postcode": "1095",
+    "amenity": "restaurant",
+    "contact:facebook": "villamalfi.lutrych",
+    "contact:instagram": "villa.malfi",
+    "cuisine": "italian",
+    "name": "Villa Malfi",
+    "opening_hours": "Mo-Su 11:45-23:00",
+    "phone": "+41 21 791 07 25",
+    "website": "https://villamalfi.ch/"
+  },
+  "id": 9687476717
+}

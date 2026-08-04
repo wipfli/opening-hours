@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1347748,
+      46.2024245
+    ]
+  },
+  "properties": {
+    "id": 9345980324,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "7",
+    "addr:street": "Chemin du 23-Ao\u00fbt",
+    "amenity": "restaurant",
+    "check_date": "2025-03-24",
+    "diet:seasonal": "yes",
+    "name": "Artemisia",
+    "opening_hours": "Mo-Fr 12:00-14:00,17:30-22:00; Sa-Su off",
+    "phone": "+41 22 362 77 77",
+    "website": "http://www.artemisiabistrot.ch/"
+  },
+  "id": 9345980324
+}

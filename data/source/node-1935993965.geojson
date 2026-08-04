@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1463767,
+      46.185176
+    ]
+  },
+  "properties": {
+    "id": 1935993965,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "La Fontenette",
+    "opening_hours": "Mo-Fr 09:30-14:30, 17:30-22:30; Sa 10:00-14:30, 17:30-22:30; Su 17:30-22:30",
+    "website": "https://lafontenette.ch/"
+  },
+  "id": 1935993965
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3852629,
+      46.9877239
+    ]
+  },
+  "properties": {
+    "id": 302390393,
+    "addr:city": "Uettligen",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3043",
+    "addr:street": "Lindenstrasse",
+    "alt_name": "Restaurant Linde",
+    "amenity": "restaurant",
+    "contact:email": "info@lindewurm.ch",
+    "contact:phone": "+41 31 8291244",
+    "name": "Linde",
+    "opening_hours": "Mo off; Tu-Th 08:00-23:30; Fr-Sa 08:00-00:30; Su 09:00-16:00",
+    "operator": "Erika & J\u00fcrg B\u00fctschi",
+    "source": "survey and website",
+    "website": "https://www.lindewurm.ch/"
+  },
+  "id": 302390393
+}

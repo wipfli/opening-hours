@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1406624,
+      46.2055684
+    ]
+  },
+  "properties": {
+    "id": 12848595601,
+    "addr:housenumber": "1",
+    "addr:postcode": "1201",
+    "addr:street": "Quai Turrettini",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "email": "mailto:ottolenghi@mohg.com",
+    "name": "Ottolenghi",
+    "opening_hours": "Mo-Fr 06:30-10:30, 12:00-15:00, 18:45-23:00; Sa-Su 07:00-07:00, 11:00-15:00, 18:45-23:00",
+    "phone": "+41 22 909 00 00",
+    "website": "https://www.mandarinoriental.com/fr/geneva/rhone-river/dine/ottolenghi"
+  },
+  "id": 12848595601
+}

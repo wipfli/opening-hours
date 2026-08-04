@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5732243,
+      47.4038584
+    ]
+  },
+  "properties": {
+    "id": 4818335507,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "524",
+    "addr:postcode": "8051",
+    "addr:street": "Winterthurerstrasse",
+    "alt_name": "Migros Restaurant Schwamendingen",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Schwamendingen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date:opening_hours": "2023-10-09",
+    "cuisine": "international",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 321 37 71",
+    "self_service": "yes",
+    "smoking": "outside",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-schwamendingen",
+    "wheelchair": "yes"
+  },
+  "id": 4818335507
+}

@@ -1,3 +1,0 @@
-Page.goto: net::ERR_NAME_NOT_RESOLVED at http://la-mimosa.ch/
-Call log:
-  - navigating to "http://la-mimosa.ch/", waiting until "networkidle"

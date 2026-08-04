@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8265891,
+      46.7939181
+    ]
+  },
+  "properties": {
+    "id": 3198310468,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "7270",
+    "addr:street": "Mattastrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "email": "info@braema.ch",
+    "level": "0",
+    "name": "Br\u00e4ma",
+    "opening_hours": "Th-Mo 10:00-23:00",
+    "operator": "Grischun",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 416 20 20",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.xn--brma-moa.ch/"
+  },
+  "id": 3198310468
+}

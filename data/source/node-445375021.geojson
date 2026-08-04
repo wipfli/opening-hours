@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3766374,
+      47.4268566
+    ]
+  },
+  "properties": {
+    "id": 445375021,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "1",
+    "addr:postcode": "9004",
+    "addr:street": "Hechtgasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-01-20",
+    "cuisine": "mexican",
+    "indoor_seating": "yes",
+    "name": "Tres Amigos",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00+; Sa-Su 11:30-21:00+",
+    "outdoor_seating": "yes",
+    "website": "https://www.tresamigos.ch/de/p/standorte/st-gallen-1090.html",
+    "wheelchair": "no"
+  },
+  "id": 445375021
+}

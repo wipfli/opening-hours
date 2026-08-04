@@ -1,9 +1,0 @@
-Looking at the website content, I can extract the following opening hours:
-
-- Montag - Freitag: 11:00 - 14:00, 18:00 - 22:00
-- Samstag: 18:00 - 22:00
-- Sonn- & Feiertage: Geschlossen
-
-Converting to OpenStreetMap format:
-
-Mo-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00; Su,PH off

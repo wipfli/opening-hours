@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2406074,
+      47.4118122
+    ]
+  },
+  "properties": {
+    "id": 388172757,
+    "amenity": "restaurant",
+    "cuisine": "mongolian",
+    "email": "maegenwil@sagakhan.ch",
+    "name": "Saga Khan",
+    "old_name": "Ochsen",
+    "opening_hours": "Tu-We 11:30-14:00; Th-Fr 11:30-14:00,18:30-23:30; Sa 18:30-23:30; Su 12:00-15:00,18:30-22:30",
+    "phone": "+41 62 896 22 20",
+    "website": "https://sagakhan.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 388172757
+}

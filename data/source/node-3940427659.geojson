@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7096824,
+      47.1844949
+    ]
+  },
+  "properties": {
+    "id": 3940427659,
+    "addr:city": "Wollerau",
+    "addr:country": "CH",
+    "addr:housenumber": "64",
+    "addr:postcode": "8832",
+    "addr:street": "Schindellegistrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sihlegg",
+    "opening_hours": "Mo-Fr 07:00-24:00; Sa 10:00-24:00; Su,PH off",
+    "phone": "+41447840437",
+    "website": "https://www.sihlegg-wollerau.ch/"
+  },
+  "id": 3940427659
+}

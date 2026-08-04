@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4362506,
+      47.3067181
+    ]
+  },
+  "properties": {
+    "id": 13136334491,
+    "addr:city": "Weissbad",
+    "addr:housenumber": "3",
+    "addr:postcode": "9057",
+    "addr:street": "Bergerstrasse",
+    "amenity": "restaurant",
+    "capacity": "118",
+    "check_date": "2025-09-11",
+    "email": "info@belvedere-weissbad.ch",
+    "name": "Belvedere",
+    "opening_hours": "Mo-Tu,Fr 09:00+; Sa-Su 10:00+",
+    "phone": "+41 71 799 11 06",
+    "website": "http://www.belvedere-weissbad.ch/restaurant/"
+  },
+  "id": 13136334491
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6098173,
+      46.5170088
+    ]
+  },
+  "properties": {
+    "id": 4037354303,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue des Figuiers",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Il Gambero",
+    "opening_hours": "Mo-Fr 09:00-00:00; Sa 10:00-15:00,17:30-00:00; Su 10:00-15:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-14:00,18:30-22:30",
+    "phone": "+41 21 616 67 64",
+    "website": "https://ilgambero.ch/"
+  },
+  "id": 4037354303
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4582192,
+      46.9568043
+    ]
+  },
+  "properties": {
+    "id": 2312163532,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:postcode": "3014",
+    "addr:street": "Papierm\u00fchlestrasse",
+    "alt_name": "Restaurant Time Out",
+    "amenity": "restaurant",
+    "contact:email": "gastro.kasernebern@bluewin.ch",
+    "contact:fax": "+41 31 3315258",
+    "contact:phone": "+41 31 3315221",
+    "name": "Time out",
+    "opening_hours": "Mo-Fr 06:00-19:00",
+    "source": "survey and website",
+    "website": "https://www.pom.be.ch/pom/de/index/bevoelkerungsschutz-militaer/kaserne-waffenplatz/betrieb_kasernenanlagenwaffenplatz.html"
+  },
+  "id": 2312163532
+}

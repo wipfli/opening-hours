@@ -1,3 +1,0 @@
-Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.ilgattopardo.ch/
-Call log:
-  - navigating to "https://www.ilgattopardo.ch/", waiting until "networkidle"

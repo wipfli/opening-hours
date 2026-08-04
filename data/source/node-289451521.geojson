@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3802133,
+      47.5676569
+    ]
+  },
+  "properties": {
+    "id": 289451521,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Schiff",
+    "opening_hours": "Tu-Fr,Su 09:00-22:00; Sa 14:00-22:00; Mo off",
+    "website": "https://schiff-romanshorn.ch",
+    "wheelchair": "yes"
+  },
+  "id": 289451521
+}

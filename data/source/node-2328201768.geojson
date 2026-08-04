@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3673173,
+      47.3920415
+    ]
+  },
+  "properties": {
+    "id": 2328201768,
+    "addr:city": "Niederteufen",
+    "addr:postcode": "9052",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Alter Zoll",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:30-23:00; Sa-Su 17:30-23:00",
+    "website": "https://www.osteria-alterzoll.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2328201768
+}

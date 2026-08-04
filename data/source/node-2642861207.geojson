@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4495917,
+      47.4129024
+    ]
+  },
+  "properties": {
+    "id": 2642861207,
+    "addr:city": "Unterengstringen",
+    "addr:housenumber": "46",
+    "addr:postcode": "8103",
+    "addr:street": "Weiningerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Mandarin",
+    "opening_hours": "Su-Fr 12:00-14:30,18:00-23:00; Sa 17:30-23:00; PH off; 2026 Jul 13-2026 Aug 11 off",
+    "phone": "+41 44 750 31 70",
+    "website": "http://www.mandarin-zh.ch"
+  },
+  "id": 2642861207
+}

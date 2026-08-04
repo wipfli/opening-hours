@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2299386,
+      46.8012899
+    ]
+  },
+  "properties": {
+    "id": 4000645219,
+    "addr:city": "Falera",
+    "addr:housenumber": "3",
+    "addr:postcode": "7153",
+    "addr:street": "Via Dual",
+    "amenity": "restaurant",
+    "capacity": "60",
+    "cuisine": "regional",
+    "name": "Restaurant Casa Seeli",
+    "opening_hours": "We-Su 09:00-22:00",
+    "phone": "+41 81 515 26 16",
+    "website": "https://casaseeli.swiss/",
+    "wheelchair": "limited",
+    "wheelchair:description:de": "Der Privateingang verf\u00fcgt \u00fcber eine schmale (ca. 75cm breit), steile Rampe mit engem Wendeplatz oberhalb."
+  },
+  "id": 4000645219
+}

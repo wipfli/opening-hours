@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.775067,
+      46.8923418
+    ]
+  },
+  "properties": {
+    "id": 13043703045,
+    "amenity": "restaurant",
+    "check_date": "2025-08-03",
+    "cuisine": "burger;regional",
+    "indoor_seating": "yes",
+    "name": "Port-Conty",
+    "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
+    "opening_hours:kitchen": "Su-Th 11:30-13:30, 18:30-21:00; Fr-Sa 11:30-13:30, 18:30-21:30",
+    "operator": "BOAS Swiss Hotels",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:qr_code": "no",
+    "phone": "+41 32 354 01 05",
+    "reservation": "recommended",
+    "toilets": "yes",
+    "website": "https://www.hotel-port-conty.ch/restaurant",
+    "website:booking": "https://module.lafourchette.com/fr_FR/module/692533-bb27e",
+    "website:menu": "https://www.hotel-port-conty.ch/fileadmin/port-conty/Documents/POC-Carte-ete-A4-FR_EN_DE.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 13043703045
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2043507,
+      47.0882204
+    ]
+  },
+  "properties": {
+    "id": 7549128065,
+    "addr:city": "M\u00f6rigen",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "2572",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@bistroamsee.ch",
+    "contact:phone": "+41 32 397 10 39",
+    "name": "Bistro am See",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "shower": "yes",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "designated",
+    "website": "https://www.bistroamsee.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7549128065
+}

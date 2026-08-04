@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3868597,
+      46.1803571
+    ]
+  },
+  "properties": {
+    "id": 1671032814,
+    "addr:city": "Thyon-Les Collons",
+    "addr:housenumber": "97",
+    "addr:postcode": "1988",
+    "addr:street": "Rue des Collons",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Maya",
+    "opening_hours": "Tu-Su 12:00-14:00,18:30-21:30",
+    "phone": "+41 27 281 50 50",
+    "website": "https://www.chaletlamaya.ch/"
+  },
+  "id": 1671032814
+}

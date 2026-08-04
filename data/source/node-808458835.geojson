@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5251128,
+      47.3758647
+    ]
+  },
   "properties": {
-    "@id": "node/808458835",
+    "id": 808458835,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "35",
@@ -19,12 +26,5 @@
     "website:menu": "https://api2.lunchgate.ch//digital-menu/dm/menu/09fd2fe837bf1df718dfcc2538d0a1da",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5251128,
-      47.3758647
-    ]
-  },
-  "id": "node-808458835"
+  "id": 808458835
 }

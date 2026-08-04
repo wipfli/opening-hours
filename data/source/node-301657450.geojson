@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7507357,
+      47.3853742
+    ]
+  },
+  "properties": {
+    "id": 301657450,
+    "addr:city": "Fehraltorf",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "8320",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Binario 3",
+    "opening_hours": "Mo-Sa 11:30-14:30,17:30-23:00; Su 17:30-22:00",
+    "phone": "+41 44 955 21 01",
+    "website": "https://www.binario3.ch/",
+    "wheelchair": "no"
+  },
+  "id": 301657450
+}

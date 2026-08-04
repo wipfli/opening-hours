@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4342407,
+      46.9461258
+    ]
+  },
+  "properties": {
+    "id": 885979320,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "3008",
+    "addr:street": "Effingerstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@allresto.ch",
+    "contact:fax": "+41 31 3820350",
+    "contact:phone": "+41 31 3819038",
+    "cuisine": "lebanese",
+    "name": "Allresto",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su off",
+    "operator": "Allresto GmbH",
+    "source": "survey and website",
+    "website": "https://www.allresto.ch/"
+  },
+  "id": 885979320
+}

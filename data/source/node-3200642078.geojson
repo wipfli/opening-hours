@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6320223,
+      46.562084
+    ]
+  },
+  "properties": {
+    "id": 3200642078,
+    "addr:city": "Le Mont-sur-Lausanne",
+    "addr:housenumber": "18",
+    "addr:postcode": "1052",
+    "addr:street": "Route du Grand Mont",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Le Relais du Grand Mont",
+    "opening_hours": "Mo-Sa 08:00-14:30,18:00-24:00; Su 10:00-15:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 652 01 62",
+    "website": "https://relais-du-grand-mont.ch/"
+  },
+  "id": 3200642078
+}

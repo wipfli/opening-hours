@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.773069,
+      47.3435794
+    ]
+  },
+  "properties": {
+    "id": 305474041,
+    "addr:city": "Aathal-Seegr\u00e4ben",
+    "addr:housenumber": "23",
+    "addr:postcode": "8607",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "Juckerfarm",
+    "amenity": "restaurant",
+    "email": "info@juckerfarm.ch",
+    "name": "Jucker Farm Hofrestaurant",
+    "opening_hours": "Nov-Apr: Mo-Su,PH 09:00-18:00; May-Oct: Mo-Su,PH 09:00-22:00",
+    "phone": "+41 44 934 34 84",
+    "website": "https://www.juckerfarm.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q18195272"
+  },
+  "id": 305474041
+}

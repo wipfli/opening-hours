@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6295369,
+      46.5214144
+    ]
+  },
+  "properties": {
+    "id": 7693007514,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:street": "Rue de Gen\u00e8ve",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/tartaresandco",
+    "contact:instagram": "tartares_and_co",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Tartares & Co",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 311 80 25",
+    "takeaway": "yes",
+    "website": "https://tartaresandco.ch"
+  },
+  "id": 7693007514
+}

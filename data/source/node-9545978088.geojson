@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.142368,
+      46.1861287
+    ]
+  },
+  "properties": {
+    "id": 9545978088,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "24",
+    "addr:postcode": "1227",
+    "addr:street": "Avenue Cardinal-Mermillod",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Sawasdee",
+    "opening_hours": "Mo-Su 12:00-14:00,19:00-23:00",
+    "phone": "+41 22 300 08 42",
+    "website": "https://www.sawasdee-geneve.com/"
+  },
+  "id": 9545978088
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5318969,
+      46.8487425
+    ]
+  },
+  "properties": {
+    "id": 10103313517,
+    "addr:floor": "0",
+    "addr:housenumber": "5",
+    "addr:street": "Casinoplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-05-01",
+    "cuisine": "italian;pizza",
+    "name": "Ristorante Arte Povera",
+    "opening_hours": "Mo-Sa 11:30-14:30,17:30-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 81 558 80 99",
+    "website": "https://ristorante-artepovera.ch"
+  },
+  "id": 10103313517
+}

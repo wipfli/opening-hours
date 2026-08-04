@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1297267,
+      46.613891
+    ]
+  },
+  "properties": {
+    "id": 4366987753,
+    "addr:city": "Ch\u00e2tel-sur-Montsalvens",
+    "addr:housenumber": "41",
+    "addr:postcode": "1653",
+    "addr:street": "Route de la Jogne",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "delivery": "no",
+    "name": "Restaurant de la Tour",
+    "opening_hours": "Th-Mo 09:00-23:00",
+    "phone": "+41 26 921 08 85",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "http://www.restodelatour.ch"
+  },
+  "id": 4366987753
+}

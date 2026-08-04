@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5660302,
+      47.4494962
+    ]
+  },
+  "properties": {
+    "id": 8350056285,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "email": "flughafen.lorodinapoli@autogrill.net",
+    "level": "2",
+    "name": "L'Oro di Napoli",
+    "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 17:00-22:00; Su 11:00-17:00",
+    "outdoor_seating": "yes",
+    "reservation": "https://loro-di-napoli.ch/reservationen",
+    "website": "https://loro-di-napoli.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8350056285
+}

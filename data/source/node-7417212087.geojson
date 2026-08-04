@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8000978,
+      47.3273588
+    ]
+  },
+  "properties": {
+    "id": 7417212087,
+    "addr:city": "Wetzikon ZH",
+    "addr:housenumber": "151",
+    "addr:postcode": "8620",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Migros Restaurant Wetzikon ZH",
+    "amenity": "restaurant",
+    "branch": "Wetzikon Z\u00fcri-Oberland-M\u00e4rt",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date:opening_hours": "2025-05-09",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-19:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-wetzikon-zueri-oberland-maert"
+  },
+  "id": 7417212087
+}

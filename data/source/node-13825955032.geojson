@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9571492,
+      47.223818
+    ]
+  },
+  "properties": {
+    "id": 13825955032,
+    "addr:city": "Le Noirmont",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "2340",
+    "addr:street": "Rue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "french;regional",
+    "name": "Maison Wenger",
+    "opening_hours": "We-Su",
+    "phone": "+41 32 957 66 33",
+    "stars": "2",
+    "website": "https://maisonwenger.ch/de/restaurant.html",
+    "wikidata": "Q89481385"
+  },
+  "id": 13825955032
+}

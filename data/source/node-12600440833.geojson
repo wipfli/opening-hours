@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0302475,
+      46.6214496
+    ]
+  },
+  "properties": {
+    "id": 12600440833,
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Petit Glacier",
+    "opening_hours": "Mo-Su 12:00-23:00",
+    "opening_hours:kitchen": "Mo-Su 12:00-21:00",
+    "operator": "Restaurant Glacier",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "no",
+    "website": "https://www.theglacier.ch/dining/petit-glacier"
+  },
+  "id": 12600440833
+}

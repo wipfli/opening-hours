@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8823051,
+      46.8646627
+    ]
+  },
+  "properties": {
+    "id": 3827151423,
+    "addr:city": "Klosters",
+    "addr:housenumber": "205",
+    "addr:postcode": "7250",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "name": "Hotel Wynegg",
+    "opening_hours": "Mo-Su,PH 18:00+",
+    "phone": "+41 81 422 13 40",
+    "tourism": "hotel",
+    "website": "https://wynegg.ch/de/"
+  },
+  "id": 3827151423
+}

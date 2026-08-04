@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2334166,
+      47.1131228
+    ]
+  },
+  "properties": {
+    "id": 354407151,
+    "addr:city": "Rothenburg",
+    "addr:postcode": "6023",
+    "amenity": "restaurant",
+    "branch": "A2 Neuenkirch Ost",
+    "brand": "March\u00e9",
+    "name": "March\u00e9 Neuenkirch Ost",
+    "opening_hours": "06:00-22:00",
+    "operator": "March\u00e9 Restaurants Schweiz",
+    "website": "https://www.marche.ch/de/marche_neuenkirchost.html",
+    "wheelchair": "yes"
+  },
+  "id": 354407151
+}

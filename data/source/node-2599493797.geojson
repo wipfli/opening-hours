@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5820938,
+      47.5308255
+    ]
+  },
+  "properties": {
+    "id": 2599493797,
+    "addr:city": "Freienstein-Teufen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8427",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-25",
+    "check_date:diet:vegetarian": "2025-09-25",
+    "diet:vegetarian": "yes",
+    "email": "Info@bistrospatz.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Bistro Spatz",
+    "opening_hours": "Mo 17:00-23:00; Tu-Fr 09:00-23:00; Sa 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 650 93 65",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://bistrospatz.ch/"
+  },
+  "id": 2599493797
+}

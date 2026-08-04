@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4144033,
+      46.9235585
+    ]
+  },
+  "properties": {
+    "id": 568282573,
+    "alt_name": "Migros Restaurant K\u00f6niz",
+    "amenity": "restaurant",
+    "branch": "K\u00f6niz Bl\u00e4uacker",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-koeniz-blaeuacker",
+    "wheelchair": "yes"
+  },
+  "id": 568282573
+}

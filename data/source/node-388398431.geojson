@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7242123,
+      47.2404892
+    ]
+  },
+  "properties": {
+    "id": 388398431,
+    "addr:city": "St\u00e4fa",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8712",
+    "addr:street": "Goethestrasse",
+    "alt_name": "Migros Restaurant St\u00e4fa",
+    "amenity": "restaurant",
+    "branch": "St\u00e4fa",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-19:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-staefa",
+    "wheelchair": "yes"
+  },
+  "id": 388398431
+}

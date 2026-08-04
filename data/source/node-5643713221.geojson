@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1810321,
+      46.7283232
+    ]
+  },
+  "properties": {
+    "id": 5643713221,
+    "addr:housenumber": "97",
+    "addr:postcode": "7143",
+    "addr:street": "Via Val",
+    "amenity": "restaurant",
+    "email": "info@ilmulin-morissen.ch",
+    "name": "Mulin",
+    "name:de": "Il Mulin",
+    "name:en": "Il Mulin",
+    "name:fr": "Il Mulin",
+    "opening_hours": "We-Th 14:00-22:00; Fr-Sa 09:00-23:00; Su 11:00-17:00",
+    "phone": "+41 81 936 81 40",
+    "website": "https://www.ilmulin-morissen.ch/",
+    "website:menu": "https://www.ilmulin-morissen.ch/speisekarte"
+  },
+  "id": 5643713221
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5530663,
+      47.3735869
+    ]
+  },
   "properties": {
-    "@id": "node/4892315249",
+    "id": 4892315249,
     "amenity": "restaurant",
     "check_date": "2026-02-14",
     "check_date:opening_hours": "2026-02-14",
@@ -14,12 +21,5 @@
     "wheelchair": "limited",
     "wheelchair:description": "Rampe beim Eingang Plattenstrasse 26."
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5530663,
-      47.3735869
-    ]
-  },
-  "id": "node-4892315249"
+  "id": 4892315249
 }

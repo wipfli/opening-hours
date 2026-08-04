@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4488409,
+      47.4008386
+    ]
+  },
+  "properties": {
+    "id": 4262172293,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "3a",
+    "addr:postcode": "8952",
+    "addr:street": "Wiesenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Pizzaway",
+    "opening_hours": "Mo-Fr 11:00-13:30,17:00-22:00; Sa-Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 999 33 33",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://pizzaway.ch/"
+  },
+  "id": 4262172293
+}

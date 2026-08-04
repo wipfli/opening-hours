@@ -1,26 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/3078606734",
-    "addr:city": "Z\u00fcrich",
-    "addr:country": "CH",
-    "addr:housenumber": "6",
-    "addr:postcode": "8004",
-    "addr:street": "Reitergasse",
-    "amenity": "restaurant",
-    "check_date": "2025-05-17",
-    "cuisine": "ramen",
-    "email": "info@yume-ramen.ch",
-    "level": "0",
-    "name": "Yume-Ramen",
-    "opening_hours": "Mo-Fr 11:30-13:30,18:00-21:30; Sa 12:00-21:30",
-    "payment:cash": "yes",
-    "payment:credit_cards": "yes",
-    "payment:debit_cards": "yes",
-    "phone": "+41 44 271 72 73",
-    "website": "https://www.yume-ramen.ch",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,5 +7,26 @@
       47.3766703
     ]
   },
-  "id": "node-3078606734"
+  "properties": {
+    "id": 3078606734,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8004",
+    "addr:street": "Reitergasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-17",
+    "cuisine": "ramen;japanese",
+    "email": "info@yume-ramen.ch",
+    "level": "0",
+    "name": "Yume-Ramen",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:45-22:15; Sa 12:00-22:30; PH off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 271 72 73",
+    "website": "https://www.yume-ramen.ch",
+    "wheelchair": "no"
+  },
+  "id": 3078606734
 }

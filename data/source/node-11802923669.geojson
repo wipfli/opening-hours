@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.123079,
+      46.2121008
+    ]
+  },
+  "properties": {
+    "id": 11802923669,
+    "addr:postcode": "1203",
+    "amenity": "restaurant",
+    "name": "Le trois plis",
+    "opening_hours": "Mo,Tu 09:30-17:00; We-Fr 09:30-23:00",
+    "phone": "+41 22 570 09 97",
+    "website": "https://www.facebook.com/3plis/?locale=fr_FR"
+  },
+  "id": 11802923669
+}

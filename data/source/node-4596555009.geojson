@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3768884,
+      47.4278582
+    ]
+  },
+  "properties": {
+    "id": 4596555009,
+    "amenity": "restaurant",
+    "check_date": "2025-09-29",
+    "cuisine": "greek",
+    "name": "Kostas der Grieche",
+    "opening_hours": "Tu-Sa 11:15-14:00,18:00-23:00; Su-Mo off",
+    "phone": "+41 71 222 57 21",
+    "website": "https://www.kostas-der-grieche.ch/"
+  },
+  "id": 4596555009
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0845042,
+      47.3736115
+    ]
+  },
+  "properties": {
+    "id": 3541583734,
+    "addr:city": "Suhr",
+    "addr:housenumber": "49",
+    "addr:postcode": "5034",
+    "addr:street": "Bernstrasse Ost",
+    "amenity": "restaurant",
+    "description": "Ein geschmackssicherer Mix aus klassischer Caf\u00e9-Atmosph\u00e4re und moderner Lounge.",
+    "email": "info@calix-pfister.ch",
+    "level": "1",
+    "name": "Restaurant Calix",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+    "phone": "+41 62 855 90 86",
+    "website": "https://www.calix-pfister.ch/"
+  },
+  "id": 3541583734
+}

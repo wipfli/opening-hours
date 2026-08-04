@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4246733,
+      46.9496815
+    ]
+  },
+  "properties": {
+    "id": 738207062,
+    "amenity": "restaurant",
+    "check_date": "2023-03-14",
+    "contact:addr": "Murtenstrasse 41, 3008 Bern",
+    "contact:phone": "+41 31 3980202",
+    "cuisine": "turkish",
+    "indoor_seating": "yes",
+    "name": "Can Grillhaus",
+    "opening_hours": "We-Fr 11:00-14:00,16:30-22:30; Sa-Su 14:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.cangrillhaus.ch",
+    "wheelchair": "yes"
+  },
+  "id": 738207062
+}

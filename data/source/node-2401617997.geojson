@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7500467,
+      47.590456
+    ]
+  },
+  "properties": {
+    "id": 2401617997,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sch\u00fcrlibeiz Asperhof",
+    "opening_hours": "We-Sa 09:00-22:00; Su 09:00-20:00",
+    "website": "https://www.asperhof.ch/"
+  },
+  "id": 2401617997
+}

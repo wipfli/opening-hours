@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5430124,
+      47.3735273
+    ]
+  },
   "properties": {
-    "@id": "node/638966009",
+    "id": 638966009,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "82",
@@ -17,12 +24,5 @@
     "website": "https://www.bindella.ch/de/bianchi.html",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5430124,
-      47.3735273
-    ]
-  },
-  "id": "node-638966009"
+  "id": 638966009
 }

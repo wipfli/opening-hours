@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6288659,
+      47.4077318
+    ]
+  },
+  "properties": {
+    "id": 1354607260,
+    "addr:city": "Widnau",
+    "addr:housenumber": "2",
+    "addr:postcode": "9443",
+    "addr:street": "Bahnhofstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-10-11",
+    "cuisine": "buffet;regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Migros Rhydorf",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00",
+    "outdoor_seating": "sidewalk",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 58 712 77 90",
+    "smoking": "outside",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-widnau-rhydorf-center",
+    "wheelchair": "yes"
+  },
+  "id": 1354607260
+}

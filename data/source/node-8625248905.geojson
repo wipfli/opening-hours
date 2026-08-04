@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3426042,
+      47.2302374
+    ]
+  },
+  "properties": {
+    "id": 8625248905,
+    "addr:city": "Beinwil (Freiamt)",
+    "addr:housenumber": "3",
+    "addr:postcode": "5637",
+    "addr:street": "Oberdorf",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gasthaus zum Kreuz",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 17:30-24:00",
+    "phone": "+41 56 668 02 85",
+    "website": "https://kreuz-beinwil.ch"
+  },
+  "id": 8625248905
+}

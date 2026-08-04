@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1403377,
+      46.1875664
+    ]
+  },
+  "properties": {
+    "id": 2696331639,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:street": "Place de l'Octroi",
+    "amenity": "restaurant",
+    "cuisine": "crepe",
+    "name": "Cr\u00eaperie Bl\u00e9 Noir",
+    "opening_hours": "Tu-Su 12:00-22:30",
+    "phone": "+41 22 820 29 29",
+    "website": "https://www.instagram.com/ble_noir_ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2696331639
+}

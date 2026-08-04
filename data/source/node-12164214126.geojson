@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8822593,
+      46.8704729
+    ]
+  },
+  "properties": {
+    "id": 12164214126,
+    "addr:city": "Klosters",
+    "addr:housenumber": "159",
+    "addr:postcode": "7250",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "name": "Miraina",
+    "opening_hours": "Mo 12:00-22:00; Tu-We off; Th 18:00-22:00; Fr-Su 12:00-22:00; PH off",
+    "phone": "+41 81 420 21 22",
+    "website": "https://www.miraina.ch/"
+  },
+  "id": 12164214126
+}

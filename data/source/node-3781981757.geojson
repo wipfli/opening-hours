@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7559681,
+      47.2542426
+    ]
+  },
+  "properties": {
+    "id": 3781981757,
+    "addr:city": "Hombrechtikon",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:place": "Langacher",
+    "addr:postcode": "8634",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sch\u00fctzenhaus",
+    "opening_hours": "We-Sa 10:30-14:00,17:00-00:00; Su 10:30-14:00,17:00-22:00",
+    "phone": "+41 55 244 11 36",
+    "website": "https://schuetzenhaus-hombi.ch/"
+  },
+  "id": 3781981757
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9889842,
+      46.3253362
+    ]
+  },
+  "properties": {
+    "id": 1976199297,
+    "addr:city": "Naters",
+    "addr:housenumber": "18",
+    "addr:postcode": "3904",
+    "addr:street": "Belalpstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "designation": "Speckstein",
+    "diet:meat": "yes",
+    "name": "Restaurant P\u00f6stli",
+    "opening_hours": "We-Su 08:00-23:00",
+    "phone": "+41 27 924 31 61",
+    "website": "https://xn--pschtli-naters-vpb.ch/"
+  },
+  "id": 1976199297
+}

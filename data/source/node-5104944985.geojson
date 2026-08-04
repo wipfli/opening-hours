@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4967983,
+      47.4097807
+    ]
+  },
+  "properties": {
+    "id": 5104944985,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "80",
+    "addr:postcode": "8049",
+    "addr:street": "Kappenb\u00fchlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "ele": "527",
+    "name": "Wirtschaft zur Sch\u00fctzenstube",
+    "opening_hours": "Tu-Sa 09:00-22:00; Su 09:00-18:00",
+    "opening_hours:kitchen": "Tu-Sa 09:00-20:15; Su 09:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 341 33 59",
+    "smoking": "outside",
+    "website": "http://schuetzenstube-hoenggerberg.ch/"
+  },
+  "id": 5104944985
+}

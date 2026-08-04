@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2499159,
+      47.1318201
+    ]
+  },
+  "properties": {
+    "id": 7652443553,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "57",
+    "addr:postcode": "2503",
+    "addr:street": "Rue de l'Avenir / Zukunftstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "cuisine": "pizza;italian",
+    "drive_through": "no",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "La Stella Del Sud",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 765 90 08",
+    "website": "https://www.stelladelsud.ch"
+  },
+  "id": 7652443553
+}

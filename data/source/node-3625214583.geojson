@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2421829,
+      47.1342064
+    ]
+  },
+  "properties": {
+    "id": 3625214583,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "100",
+    "addr:postcode": "2502",
+    "addr:street": "Rue d'Aarberg / Aarbergstrasse",
+    "addr:street:de": "Aarbergstrasse",
+    "addr:street:fr": "Rue d'Aarberg",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "contact:email": "info@casamiracoli.ch",
+    "contact:phone": "+41 32 325 46 86",
+    "cuisine": "indian;italian;regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "entrance": "main",
+    "name": "Casa Miracoli",
+    "opening_hours": "Mo-Sa 09:00-23:30",
+    "opening_hours:shop": "Mo-Tu,Th-Fr 09:00-20:00; Th 09:00-22:00; Sa 10-17:00; Su off",
+    "organic": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:diners_club": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "shop": "convenience",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.casamiracoli.ch",
+    "wheelchair": "limited",
+    "wheelchair:description": "Rather narrow ramp at side entrance."
+  },
+  "id": 3625214583
+}

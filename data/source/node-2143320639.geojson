@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8183897,
+      46.6879943
+    ]
+  },
+  "properties": {
+    "id": 2143320639,
+    "amenity": "restaurant",
+    "capacity": "125",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "fax": "+41 33 822 88 23",
+    "level": "0",
+    "name": "Luegibr\u00fcggli",
+    "opening_hours": "Th-Mo 09:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+41 33 822 88 22",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.luegibrueggli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2143320639
+}

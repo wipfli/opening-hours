@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5250339,
+      47.3752425
+    ]
+  },
   "properties": {
-    "@id": "node/848938990",
+    "id": 848938990,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "20",
@@ -16,12 +23,5 @@
     "website": "https://www.so.pizza/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5250339,
-      47.3752425
-    ]
-  },
-  "id": "node-848938990"
+  "id": 848938990
 }

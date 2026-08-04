@@ -1,8 +1,0 @@
-Looking at the opening hours for the restaurant (not kitchen):
-
-- Montag: Ruhetag (closed)
-- Dienstag – Donnerstag: 11:00–14:00, 18:00–22:30
-- Freitag & Samstag: 18:00–23:00
-- Sonntag: 18:00–22:30
-
-Tu-Th 11:00-14:00,18:00-22:30; Fr-Sa 18:00-23:00; Su 18:00-22:30

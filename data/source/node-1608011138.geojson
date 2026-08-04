@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.167972,
+      47.6585035
+    ]
+  },
+  "properties": {
+    "id": 1608011138,
+    "addr:city": "Konstanz",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "78462",
+    "addr:street": "D\u00f6belestra\u00dfe",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Miss Saigon",
+    "opening_hours": "Tu-Sa 11:30-15:30,17:00-22:00; Su 12:00-15:30,17:00-22:00; PH off",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.asia-konstanz.de",
+    "website:menu": "https://www.asia-konstanz.de/speisekarte",
+    "wheelchair": "no"
+  },
+  "id": 1608011138
+}

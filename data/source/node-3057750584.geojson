@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.449802,
+      46.9472907
+    ]
+  },
+  "properties": {
+    "id": 3057750584,
+    "alt_name": "Piman thai Restaurant",
+    "amenity": "restaurant",
+    "contact:addr": "M\u00fcnstergasse 22 / Herrengasse 47, 3011 Bern",
+    "contact:email": "info@piman-resto.ch",
+    "contact:fax": "+41 31 3110923",
+    "contact:phone": "+41 31 3111448",
+    "cuisine": "thai",
+    "name": "Piman thai",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 17:00-22:00; Su,PH off",
+    "source": "survey and website",
+    "website": "http://www.piman-resto.ch",
+    "wheelchair": "limited"
+  },
+  "id": 3057750584
+}

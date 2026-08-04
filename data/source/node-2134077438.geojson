@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8184126,
+      47.2278565
+    ]
+  },
+  "properties": {
+    "id": 2134077438,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "31a",
+    "addr:postcode": "8640",
+    "addr:street": "Halsgasse",
+    "alt_name": "Paragraph 11",
+    "amenity": "restaurant",
+    "brewery": "yes;various",
+    "check_date:opening_hours": "2024-11-16",
+    "cuisine": "regional",
+    "email": "Info@restaurant-paragraph11.ch",
+    "microbrewery": "no",
+    "name": "\u00a711",
+    "opening_hours": "Mo-Sa 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41552111217",
+    "reservation": "yes",
+    "website": "https://www.restaurant-paragraph11.ch/"
+  },
+  "id": 2134077438
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0734697,
+      46.1013634
+    ]
+  },
+  "properties": {
+    "id": 4165815181,
+    "addr:housenumber": "1",
+    "addr:postcode": "1920",
+    "addr:street": "Place Centrale",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "delivery": "no",
+    "name": "Beefore - Burgers'n More",
+    "opening_hours": "Mo-Th 11:30-14:00, 18:00-21:30; Fr-Sa 11:30-14:00, 18:00-22:00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.beefore.biz/"
+  },
+  "id": 4165815181
+}

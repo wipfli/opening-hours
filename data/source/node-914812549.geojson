@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295536,
+      47.3743454
+    ]
+  },
   "properties": {
-    "@id": "node/914812549",
+    "id": 914812549,
     "addr:housenumber": "19",
     "addr:street": "B\u00e4ckerstrasse",
     "amenity": "restaurant",
@@ -13,12 +20,5 @@
     "website": "https://www.sweet-basil.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5295536,
-      47.3743454
-    ]
-  },
-  "id": "node-914812549"
+  "id": 914812549
 }

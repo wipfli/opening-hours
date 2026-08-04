@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0116682,
+      46.3407413
+    ]
+  },
+  "properties": {
+    "id": 4887192403,
+    "amenity": "restaurant",
+    "contact:city": "Leysin",
+    "contact:country": "CH",
+    "contact:housenumber": "7",
+    "contact:postcode": "1854",
+    "contact:street": "Route du Vallon",
+    "cuisine": "italian;pizza",
+    "name": "La Calabre",
+    "opening_hours": "Mo 10:00-14:00,17:00-22:00; We-Su 10:00-14:00,17:00-22:00",
+    "phone": "+41 24 494 17 00",
+    "website": "https://www.lacalabre.ch/"
+  },
+  "id": 4887192403
+}

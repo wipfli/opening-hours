@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1808406,
+      47.3874567
+    ]
+  },
+  "properties": {
+    "id": 3905136174,
+    "amenity": "restaurant",
+    "name": "Restaurant Rosmarin",
+    "opening_hours": "Tu-Sa 18:30-23:00",
+    "website": "https://restaurant-rosmarin.ch/"
+  },
+  "id": 3905136174
+}

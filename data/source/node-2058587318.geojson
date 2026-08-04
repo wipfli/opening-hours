@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9995292,
+      47.5238593
+    ]
+  },
+  "properties": {
+    "id": 2058587318,
+    "addr:postcode": "9506",
+    "addr:street": "Flugplatzstrasse",
+    "amenity": "restaurant",
+    "contact:email": "franca.winner@gmail.com",
+    "name": "Franca's Flughafenbeizli",
+    "opening_hours": "We-Sa 11:00-21:00; Su 11:00-19:00",
+    "phone": "+41 78 615 18 97",
+    "website": "https://www.francas-flughafenbeizli.ch/"
+  },
+  "id": 2058587318
+}

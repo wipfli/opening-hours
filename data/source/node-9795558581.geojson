@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2760479,
+      47.0439973
+    ]
+  },
+  "properties": {
+    "id": 9795558581,
+    "amenity": "restaurant",
+    "email": "info@krone-aarberg.ch",
+    "fax": "+41 32 391 99 65",
+    "name": "Krone",
+    "old_name": "Couronne",
+    "opening_hours": "Tu-Sa 09:00-22:30; Su,Mo off",
+    "phone": "+41 32 391 99 66",
+    "website": "https://krone-aarberg.ch/"
+  },
+  "id": 9795558581
+}

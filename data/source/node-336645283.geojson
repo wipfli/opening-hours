@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6811754,
+      47.3304445
+    ]
+  },
+  "properties": {
+    "id": 336645283,
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "description": "Besenbeiz",
+    "name": "Stall-Stube",
+    "opening_hours": "Th 16:00+; Fr 11:30+; Sa-Su 10:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 980 02 81",
+    "website": "https://www.stallstube-maur.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 336645283
+}

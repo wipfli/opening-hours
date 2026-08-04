@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5334884,
+      47.3474258
+    ]
+  },
   "properties": {
-    "@id": "node/1536879938",
+    "id": 1536879938,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "331",
@@ -18,12 +25,5 @@
     "takeaway": "yes",
     "website": "https://www.peking-garden.ch/pg_restaurant/zuerich-wollishofen/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5334884,
-      47.3474258
-    ]
-  },
-  "id": "node-1536879938"
+  "id": 1536879938
 }

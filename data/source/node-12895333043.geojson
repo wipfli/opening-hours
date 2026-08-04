@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4129258,
+      47.4197304
+    ]
+  },
+  "properties": {
+    "id": 12895333043,
+    "addr:city": "Geroldswil",
+    "addr:housenumber": "8",
+    "addr:postcode": "8954",
+    "addr:street": "Steinhaldenring",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@chicken-tiffany.ch",
+    "name": "Chicken Tiffany",
+    "opening_hours": "Mo-Fr 10:00-13:30,17:00-22:30, Sa-Su 12:00-22:30",
+    "phone": "+41 44 747 50 50",
+    "website": "https://schnellaberguet.ch/chickentiffany/"
+  },
+  "id": 12895333043
+}

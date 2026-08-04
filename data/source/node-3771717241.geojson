@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5032189,
+      47.1846527
+    ]
+  },
+  "properties": {
+    "id": 3771717241,
+    "addr:city": "Zug",
+    "addr:housenumber": "27",
+    "addr:postcode": "6300",
+    "addr:street": "Letzi",
+    "amenity": "restaurant",
+    "capacity": "60",
+    "cuisine": "regional",
+    "email": "sf@wirtschaft-freimann.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Freimann",
+    "opening_hours": "Th-Mo 09:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://wirtschaft-freimann.ch/"
+  },
+  "id": 3771717241
+}

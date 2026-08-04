@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1376667,
+      46.2102726
+    ]
+  },
+  "properties": {
+    "id": 5692933842,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "16",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de la Servette",
+    "amenity": "restaurant",
+    "branch": "Gen\u00e8ve Servette",
+    "capacity": "25",
+    "check_date": "2025-10-12",
+    "cuisine": "pizza;italian",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "10' dieci",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-22:00; Fr-Sa 11:00-13:30,17:00-23:00; Su 11:00-22:00",
+    "phone": "+41 22 751 10 10",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/fr/livraison-pizza-geneve-servette"
+  },
+  "id": 5692933842
+}

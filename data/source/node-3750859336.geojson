@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1435181,
+      46.1974746
+    ]
+  },
+  "properties": {
+    "id": 3750859336,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "4",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard des Philosophes",
+    "amenity": "restaurant",
+    "name": "L'Italia",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:30-23:30, Su off",
+    "phone": "+41 22 328 29 70",
+    "website": "https://www.restaurant-pizzeria-italia-geneve.ch/",
+    "wheelchair": "no",
+    "wheelchair:description": "terrasse accessible en \u00e9t\u00e9"
+  },
+  "id": 3750859336
+}

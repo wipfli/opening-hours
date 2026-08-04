@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5913146,
+      47.5531373
+    ]
+  },
+  "properties": {
+    "id": 13061564803,
+    "addr:city": "Basel",
+    "addr:housenumber": "10",
+    "addr:postcode": "4051",
+    "addr:street": "Elisabethenstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/le_jardin_basel",
+    "email": "info@latelierbasel.ch",
+    "indoor_seating": "yes",
+    "name": "Le Jardin",
+    "opening_hours": "May-Oct Mo-Sa 10:00-22:00 \"bei sch\u00f6nem Wetter\"; PH off",
+    "outdoor_seating": "yes",
+    "website": "https://lejardinbasel.ch"
+  },
+  "id": 13061564803
+}

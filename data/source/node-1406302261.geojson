@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0437531,
+      47.3926564
+    ]
+  },
+  "properties": {
+    "id": 1406302261,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "5000",
+    "addr:street": "Rathausgasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "description": "Indian, chinese and mexican food",
+    "name": "Mulia",
+    "opening_hours": "Su 17:00-22:00; Mo-Th 11:00-14:00, 17:00-22:00; Fr 11:00-14:00, 17:00-00:00; Sa 11:00-00:00",
+    "phone": "+41 62 823 51 51",
+    "website": "https://www.mulia.ch/"
+  },
+  "id": 1406302261
+}

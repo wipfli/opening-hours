@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3865759,
+      46.9370389
+    ]
+  },
+  "properties": {
+    "id": 3122036360,
+    "addr:city": "Bern",
+    "addr:housenumber": "5",
+    "addr:postcode": "3018",
+    "addr:street": "M\u00e4dergutstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-09-13",
+    "cuisine": "european",
+    "email": "info@rest-kleefeld.ch",
+    "name": "Restaurant Kleefeld",
+    "opening_hours": "Tu-Sa 09:00-22:30; Mo,Su,PH closed",
+    "phone": "+41 31 981 14 10",
+    "website": "https://www.rest-kleefeld.ch/"
+  },
+  "id": 3122036360
+}

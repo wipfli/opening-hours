@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4552264,
+      47.482322
+    ]
+  },
+  "properties": {
+    "id": 5615555269,
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "16",
+    "addr:postcode": "8157",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "description": "China Restaurant & Take Away",
+    "name": "Sun Garden",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-22:00; Sa 17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 810 35 36",
+    "takeaway": "yes",
+    "website": "https://www.chinarestaurantsungarden.ch/"
+  },
+  "id": 5615555269
+}

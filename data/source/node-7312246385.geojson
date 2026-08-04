@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7172061,
+      47.5090675
+    ]
+  },
+  "properties": {
+    "id": 7312246385,
+    "addr:postcode": "8400",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante ConCordia",
+    "opening_hours": "Tu-Th 17:30-23:00; Fr,Sa 17:30-23:30",
+    "phone": "+41 52 517 12 34",
+    "website": "https://con-cordia.ch/"
+  },
+  "id": 7312246385
+}

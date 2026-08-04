@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3283202,
+      47.1900727
+    ]
+  },
+  "properties": {
+    "id": 7242485553,
+    "addr:city": "Wildhaus",
+    "addr:country": "CH",
+    "addr:housenumber": "62",
+    "addr:postcode": "9658",
+    "addr:street": "Vordere Schwendistrasse",
+    "amenity": "restaurant",
+    "capacity": "200",
+    "cuisine": "regional",
+    "diet:gluten_free": "yes",
+    "diet:healthy": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@stumps-alpenrose.ch",
+    "highchair": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Stumps Alpenrose",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "outdoor_seating": "no",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 71 998 52 52",
+    "website": "https://www.stumps-alpenrose.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7242485553
+}

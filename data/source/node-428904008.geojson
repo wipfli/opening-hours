@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5273108,
+      47.3111795
+    ]
+  },
+  "properties": {
+    "id": 428904008,
+    "addr:city": "Adliswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8134",
+    "addr:street": "Wachtgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bistro 909",
+    "opening_hours": "Mo-Fr 11:45-14:00, Sa 17:00-23:00, Mo-Fr 18:00-22:00",
+    "phone": "+41 44 594 78 80",
+    "website": "https://bistro909.ch/",
+    "wheelchair": "no"
+  },
+  "id": 428904008
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6321157,
+      46.5207131
+    ]
+  },
+  "properties": {
+    "id": 9170493573,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "5",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Centrale",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Mexicana",
+    "opening_hours": "Mo-We 11:30-21:30; Th-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 259 46 36",
+    "website": "https://www.mexicanalausanne.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9170493573
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.539532,
+      47.3749062
+    ]
+  },
   "properties": {
-    "@id": "node/2341965691",
+    "id": 2341965691,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "4",
@@ -15,12 +22,5 @@
     "outdoor_seating": "yes",
     "website": "https://blacktap.com/location/zurich/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.539532,
-      47.3749062
-    ]
-  },
-  "id": "node-2341965691"
+  "id": 2341965691
 }

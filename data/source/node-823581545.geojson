@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7501154,
+      47.125445
+    ]
+  },
+  "properties": {
+    "id": 823581545,
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "8840",
+    "addr:street": "Ilgenweidstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery:covid19": "yes",
+    "email": "info@klostergarten-einsiedeln.ch",
+    "name": "Klostergarten",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "phone": "+41 55 412 11 77",
+    "takeaway:covid19": "yes",
+    "website": "http://www.klostergarten.ch"
+  },
+  "id": 823581545
+}

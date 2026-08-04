@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8561763,
+      46.453525
+    ]
+  },
+  "properties": {
+    "id": 9060576889,
+    "amenity": "restaurant",
+    "check_date": "2026-04-28",
+    "name": "La Vieille Tour",
+    "opening_hours": "Mo-Sa 08:00-23:00",
+    "phone": "+41 21 944 05 00",
+    "website": "https://lavieilletour.ch/",
+    "website:menu": "https://lavieilletour.ch/#menu"
+  },
+  "id": 9060576889
+}

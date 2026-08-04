@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9934275,
+      46.0111603
+    ]
+  },
+  "properties": {
+    "id": 470352738,
+    "addr:city": "Br\u00e8 sopra Lugano",
+    "addr:housenumber": "20",
+    "addr:postcode": "6979",
+    "addr:street": "Via Nevaca",
+    "amenity": "restaurant",
+    "contact:facebook": "grottocastagneto",
+    "contact:instagram": "grottocastagneto",
+    "cuisine": "breakfast;italian;local",
+    "diet:vegan": "no",
+    "email": "grottocastagneto@gmail.com",
+    "internet_access": "wlan",
+    "name": "Grotto Castagneto",
+    "opening_hours": "Mo 17:00-21:00; Tu-Sa 11:00-14:30,17:00-21:00; Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 971 06 97",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.grottocastagneto.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 470352738
+}

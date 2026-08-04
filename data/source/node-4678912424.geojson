@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.636292,
+      46.5112368
+    ]
+  },
+  "properties": {
+    "id": 4678912424,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "26",
+    "addr:postcode": "1006",
+    "addr:street": "Avenue de Montchoisi",
+    "amenity": "restaurant",
+    "contact:instagram": "la_terrasse_d_arnaud",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "La Terrasse",
+    "opening_hours": "Mo 07:00-15:30; Tu-Fr 07:00-23:00; Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 64 00",
+    "website": "https://laterrassedarnaud.ch/"
+  },
+  "id": 4678912424
+}

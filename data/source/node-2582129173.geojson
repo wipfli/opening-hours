@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1812016,
+      47.3872723
+    ]
+  },
+  "properties": {
+    "id": 2582129173,
+    "amenity": "restaurant",
+    "check_date": "2025-01-26",
+    "cuisine": "italian",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@hirschenlenzburg.ch",
+    "indoor_seating": "yes",
+    "name": "Hirschen",
+    "opening_hours": "Mo off; Tu-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41628912019",
+    "website": "https://www.hirschenlenzburg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2582129173
+}

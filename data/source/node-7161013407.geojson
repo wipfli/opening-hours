@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5629563,
+      47.2967011
+    ]
+  },
+  "properties": {
+    "id": 7161013407,
+    "addr:city": "Thalwil",
+    "addr:housenumber": "36",
+    "addr:postcode": "8800",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/CapriAdliswil",
+    "contact:instagram": "https://www.instagram.com/capri.pizzeria/",
+    "cuisine": "italian",
+    "email": "info@thawolo.ch",
+    "indoor_seating": "yes",
+    "name": "Thawolo",
+    "opening_hours": "Mo-Sa 07:00-22:30; PH Su 11:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 710 91 91",
+    "website": "https://www.thawolo.ch/",
+    "website:menu": "https://www.thawolo.ch/menu/speisekarte"
+  },
+  "id": 7161013407
+}

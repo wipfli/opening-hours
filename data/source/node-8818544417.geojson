@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1336376,
+      46.2012184
+    ]
+  },
+  "properties": {
+    "id": 8818544417,
+    "addr:housenumber": "30",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard de Saint-Georges",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "email": "info@pidefactory.ch",
+    "indoor_seating": "yes",
+    "name": "Pid\u00e9 Factory",
+    "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 808 09 08",
+    "website": "https://www.pidefactory.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 8818544417
+}

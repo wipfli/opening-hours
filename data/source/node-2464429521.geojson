@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6516532,
+      46.5271484
+    ]
+  },
+  "properties": {
+    "id": 2464429521,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Brasserie-de-Chailly-1772399529439485",
+    "name": "Brasserie de Chailly",
+    "opening_hours": "Mo-Sa 07:00-23:30",
+    "phone": "+41 21 653 35 35",
+    "website": "https://brasserie-chailly.ch/"
+  },
+  "id": 2464429521
+}

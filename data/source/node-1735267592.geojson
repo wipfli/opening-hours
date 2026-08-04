@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0233277,
+      47.2775076
+    ]
+  },
+  "properties": {
+    "id": 1735267592,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "H\u00fcttenberg",
+    "opening_hours": "We,Su 10:00-17:00; Th-Sa 10:00-23:00",
+    "phone": "+41 55 284 14 57",
+    "website": "https://www.huettenberg-walde.ch/"
+  },
+  "id": 1735267592
+}

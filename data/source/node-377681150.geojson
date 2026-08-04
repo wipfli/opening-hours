@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.699068,
+      47.444753
+    ]
+  },
+  "properties": {
+    "id": 377681150,
+    "addr:city": "Grafstal/Kempttal",
+    "addr:housenumber": "5",
+    "addr:street": "Badstrasse",
+    "amenity": "restaurant",
+    "name": "Frieden",
+    "opening_hours": "Mo-Fr 08:00-14:00,17:00-23:00; Sa 16:00-23:00",
+    "phone": "+41 52 345 11 35",
+    "website": "http://www.hotel-frieden.ch"
+  },
+  "id": 377681150
+}

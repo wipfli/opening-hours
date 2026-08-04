@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9265312,
+      47.3210173
+    ]
+  },
+  "properties": {
+    "id": 4733682914,
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "email": "lafiesta@loohof.ch",
+    "name": "La Fiesta",
+    "opening_hours": "Th-Sa 18:00-23:30; Su 12:00-18:00",
+    "phone": "+41 62 797 12 18",
+    "website": "https://www.loohof.ch/"
+  },
+  "id": 4733682914
+}

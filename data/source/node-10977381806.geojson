@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0311893,
+      46.3745476
+    ]
+  },
+  "properties": {
+    "id": 10977381806,
+    "addr:postcode": "7710",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "email": "alpgrum@daprimo.com",
+    "internet_access": "wlan",
+    "name": "Alp Gr\u00fcm",
+    "opening_hours": "24/7",
+    "phone": "+41 81 844 03 07",
+    "tourism": "hotel",
+    "website": "https://www.alpgrum.com/"
+  },
+  "id": 10977381806
+}

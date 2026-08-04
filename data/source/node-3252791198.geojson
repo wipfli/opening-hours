@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.441656,
+      46.9496731
+    ]
+  },
+  "properties": {
+    "id": 3252791198,
+    "amenity": "restaurant",
+    "check_date": "2026-01-01",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "maharaja@bluewin.ch",
+    "name": "Maharaja Palace",
+    "old_name": "Cava\u00f1a;Bellevue",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:00",
+    "phone": "+41 313116000",
+    "takeaway": "yes",
+    "website": "https://www.maharajapalace.ch/"
+  },
+  "id": 3252791198
+}

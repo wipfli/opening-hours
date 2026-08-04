@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9268499,
+      46.5785433
+    ]
+  },
+  "properties": {
+    "id": 6161032547,
+    "amenity": "restaurant",
+    "check_date": "2025-08-02",
+    "level": "0",
+    "name": "F\u00f6 e Flamma dal Barun",
+    "opening_hours": "Mo,Th-Su 07:30-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.dal-barun.ch",
+    "wheelchair": "yes"
+  },
+  "id": 6161032547
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5191166,
+      47.3886695
+    ]
+  },
+  "properties": {
+    "id": 385208811,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8005",
+    "addr:street": "Schiffbaustrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@lasalle-restaurant.ch",
+    "fax": "+41 44 258 70 71",
+    "indoor_seating": "yes",
+    "name": "LaSalle",
+    "opening_hours": "Mo-Fr 11:00-14:30, 17:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 258 70 71",
+    "website": "https://www.lasalle-restaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 385208811
+}

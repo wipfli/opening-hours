@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399233,
+      47.3703727
+    ]
+  },
   "properties": {
-    "@id": "node/105459350",
+    "id": 105459350,
     "access:covid19": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -20,15 +27,9 @@
     "takeaway:covid19": "no",
     "toilets:wheelchair": "no",
     "website": "https://www.zeughauskeller.ch/",
+    "website:menu": "https://www.zeughauskeller.ch/dynasite.cfm?cmd=cpdf_pdf_angebot_download&filename=F1064984-D3C8-2771-7367D38B9E4846ED.pdf&skipfurl=1",
     "wheelchair": "limited",
     "wheelchair:description": "Zugang m. kleinem Absatz, tlw. sehr eng"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5399233,
-      47.3703727
-    ]
-  },
-  "id": "node-105459350"
+  "id": 105459350
 }

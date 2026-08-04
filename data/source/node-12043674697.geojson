@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7369025,
+      47.6918241
+    ]
+  },
+  "properties": {
+    "id": 12043674697,
+    "addr:city": "Diessenhofen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8253",
+    "addr:street": "St. Katharinental",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Cafe Katharina",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "+41527237600",
+    "website": "https://www.stgag.ch/unternehmen/standorte/klinik-st-katharinental/gastronomie-kultur/"
+  },
+  "id": 12043674697
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1581706,
+      47.0953603
+    ]
+  },
+  "properties": {
+    "id": 9784004207,
+    "addr:city": "Twann",
+    "addr:housenumber": "19",
+    "addr:postcode": "2513",
+    "addr:street": "Dorfgasse",
+    "alt_name": "Restaurant zum alten Schweizer",
+    "amenity": "restaurant",
+    "check_date": "2025-10-18",
+    "cuisine": "fish",
+    "email": "info@alterschweizer.ch",
+    "name": "Zum Alten Schweizer",
+    "opening_hours": "Mo-Tu, Fr-Su 09:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 315 11 61",
+    "website": "https://www.alterschweizer.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9784004207
+}

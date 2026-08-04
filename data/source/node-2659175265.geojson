@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8041164,
+      47.2439015
+    ]
+  },
+  "properties": {
+    "id": 2659175265,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wirtschaft zum Sageli",
+    "opening_hours": "Tu-Sa 10:30-22:30; Su 10:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 210 19 80",
+    "smoking": "outside",
+    "website": "https://www.restaurant-sageli.ch/"
+  },
+  "id": 2659175265
+}

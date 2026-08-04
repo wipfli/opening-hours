@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.365047,
+      47.4207163
+    ]
+  },
+  "properties": {
+    "id": 7193109290,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "71",
+    "addr:postcode": "9000",
+    "addr:street": "St.Leonhard-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Bellissimo",
+    "opening_hours": "Mo-Sa 11:00-13:30,17:00-21:00; Su 17:00-21:00",
+    "outdoor_seating": "no",
+    "website": "https://bellissimosg.ch/"
+  },
+  "id": 7193109290
+}

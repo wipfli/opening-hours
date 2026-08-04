@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4833547,
+      46.9318285
+    ]
+  },
+  "properties": {
+    "id": 1981025747,
+    "addr:city": "Muri bei Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "3074",
+    "addr:street": "Mettleng\u00e4ssli",
+    "alt_name": "Restaurant Caf\u00e9 Plaisir",
+    "amenity": "restaurant",
+    "contact:phone": "+41 31 9500045",
+    "name": "Plaisir",
+    "opening_hours": "Mo-Su 08:00-18:45",
+    "operator": "Senevita AG",
+    "source": "survey and website",
+    "website": "https://www.senevita.ch/de/standorte/altersresidenz-multengut-muri/gastronomie/"
+  },
+  "id": 1981025747
+}

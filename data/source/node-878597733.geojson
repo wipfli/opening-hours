@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9036864,
+      47.3502943
+    ]
+  },
+  "properties": {
+    "id": 878597733,
+    "addr:city": "Olten",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "4600",
+    "addr:street": "Klosterplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-09-02",
+    "check_date:opening_hours": "2026-06-02",
+    "cuisine": "italian",
+    "delivery": "no",
+    "name": "National",
+    "opening_hours": "We-Th 11:30-14:30,17:30-23:00; Fr-Sa 11:30-14:30,17:30-23:30, Su-Tu off",
+    "operator": "Fabian Strutz",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 296 22 77",
+    "smoking": "isolated",
+    "takeaway": "no",
+    "website": "https://nationalolten.ch/",
+    "wheelchair": "no"
+  },
+  "id": 878597733
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4521397,
+      46.9545832
+    ]
+  },
+  "properties": {
+    "id": 4540081519,
+    "addr:city": "Bern",
+    "addr:housenumber": "70",
+    "addr:postcode": "3013",
+    "addr:street": "Viktoriastrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-10",
+    "contact:addr": "Viktoriastrasse 70, 3013 Bern",
+    "contact:email": "restaurant@loescher.be",
+    "contact:facebook": "https://www.facebook.com/loescherbern",
+    "contact:instagram": "https://www.instagram.com/loescher_bern",
+    "diet:vegetarian": "yes",
+    "name": "L\u00f6scher",
+    "name:de": "L\u00f6scher",
+    "opening_hours": "Tu-Sa 09:00-24:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+41 78 652 11 00",
+    "source": "Survey and website",
+    "website": "https://loescher.be/",
+    "wheelchair": "limited"
+  },
+  "id": 4540081519
+}

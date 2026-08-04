@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9206519,
+      47.3122469
+    ]
+  },
+  "properties": {
+    "id": 12432899437,
+    "amenity": "restaurant",
+    "email": "info@altebraui.ch",
+    "name": "Alte Braui",
+    "opening_hours": "Tu-Fr 10:00-23:30; Sa 16:00-23:30",
+    "phone": "+41 62 797 00 96",
+    "website": "https://www.altebraui.ch/restaurant-alte-braui.html"
+  },
+  "id": 12432899437
+}

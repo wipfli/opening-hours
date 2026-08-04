@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2471191,
+      47.1900587
+    ]
+  },
+  "properties": {
+    "id": 426920952,
+    "addr:city": "P\u00e9ry",
+    "addr:housenumber": "3",
+    "addr:postcode": "2603",
+    "addr:street": "Rue de La Reuchenette",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "L'Elephant",
+    "opening_hours": "Mo-Th 11:30-14:00,18:30-22:00; Fr 11:30-14:00,18:30-23:30; Sa 18:30-23:30",
+    "website": "https://elephant-thai.ch"
+  },
+  "id": 426920952
+}

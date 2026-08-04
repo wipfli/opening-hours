@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5037758,
+      46.8917986
+    ]
+  },
+  "properties": {
+    "id": 4165718784,
+    "addr:city": "Belp",
+    "addr:housenumber": "46",
+    "addr:postcode": "3123",
+    "addr:street": "Rubigenstrasse",
+    "amenity": "restaurant",
+    "email": "info@linde-belp.ch",
+    "name": "Linde",
+    "opening_hours": "Tu-Fr 06:00-23:30; Sa 07:00-21:30; Su-Mo off",
+    "phone": "+41 31 530 11 44",
+    "smoking": "outside",
+    "website": "https://linde-belp.ch/"
+  },
+  "id": 4165718784
+}

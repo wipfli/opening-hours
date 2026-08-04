@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8154129,
+      47.0978303
+    ]
+  },
+  "properties": {
+    "id": 11369606996,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "2300",
+    "addr:street": "Rue du Cernil-Antoine",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Le Quartier",
+    "opening_hours": "Mo-Fr 07:00-14:15,17:00-23:30; 07:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 924 40 40",
+    "source": "orthophotos2006sitn50cm",
+    "website": "https://www.restaurant-le-comptoir.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 11369606996
+}

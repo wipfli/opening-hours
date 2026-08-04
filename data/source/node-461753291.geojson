@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1992221,
+      47.6472257
+    ]
+  },
+  "properties": {
+    "id": 461753291,
+    "addr:housenumber": "52",
+    "addr:postcode": "8280",
+    "addr:street": "Promenadenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@fischerhaus.ch",
+    "name": "Fischerhaus",
+    "opening_hours": "Mo-Su 10:00-14:00, 17:30-20:30",
+    "outdoor_seating": "yes",
+    "phone": "+41716881877",
+    "self_service": "no",
+    "website": "https://fischerhaus.ch/",
+    "website:menu": "https://fischerhaus.ch/restaurant/speisen-und-getraenke/",
+    "wheelchair": "yes"
+  },
+  "id": 461753291
+}

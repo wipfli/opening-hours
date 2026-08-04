@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8164926,
+      47.2249205
+    ]
+  },
+  "properties": {
+    "id": 1355269782,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "2",
+    "addr:place": "Bahnhofplatz",
+    "addr:postcode": "8640",
+    "amenity": "restaurant",
+    "email": "info@daodao.ch",
+    "name": "Dao",
+    "opening_hours": "Mo-Su 11:00-22:00; PH",
+    "phone": "+41 55 211 20 22",
+    "website": "https://daodao.ch"
+  },
+  "id": 1355269782
+}

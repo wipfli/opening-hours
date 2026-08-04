@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4472176,
+      46.9484579
+    ]
+  },
+  "properties": {
+    "id": 280130123,
+    "alt_name": "Restaurant Brasserie Anker",
+    "amenity": "restaurant",
+    "check_date": "2025-07-21",
+    "contact:addr": "Kornhausplatz 16, 3011 Bern",
+    "contact:fax": "+41 31 3111171",
+    "contact:phone": "+41 31 3111113",
+    "cuisine": "regional",
+    "name": "Anker",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa 09:00-23:30; Su 09:30-18:00",
+    "source": "survey and website",
+    "website": "https://www.roeschti.ch/",
+    "wheelchair": "no"
+  },
+  "id": 280130123
+}

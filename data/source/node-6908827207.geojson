@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9268924,
+      46.0444557
+    ]
+  },
+  "properties": {
+    "id": 6908827207,
+    "addr:city": "Lamone",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "6814",
+    "addr:street": "Via Cantonale",
+    "amenity": "restaurant",
+    "description": "Ristorante Pizzeria",
+    "name": "La Rupe di San Zeno",
+    "opening_hours": "Tu-Fr 11:00-14:30,18:00-23:30; Sa-Su 18:00-23:30",
+    "phone": "+41 91 950 90 10",
+    "website": "www.larupedisanzeno.ch"
+  },
+  "id": 6908827207
+}

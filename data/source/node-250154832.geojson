@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3016988,
+      46.0845328
+    ]
+  },
+  "properties": {
+    "id": 250154832,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Black Tap",
+    "opening_hours": "week 48-53 Mo-Su,PH 09:00-15:30; week 01-07 Mo-Su,PH 09:00-15:30; week 07 Sa-Su 09:00-16:00; week 08-18 Mo-Su,PH 09:00-16:00",
+    "phone": "+41 27 775 26 56",
+    "website": "https://www.blacktap.ch"
+  },
+  "id": 250154832
+}

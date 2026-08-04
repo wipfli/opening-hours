@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7241506,
+      47.5115835
+    ]
+  },
+  "properties": {
+    "id": 5218885277,
+    "amenity": "restaurant",
+    "cuisine": "regional;burger;coffee;lunch",
+    "delivery": "no",
+    "name": "10W40",
+    "opening_hours": "Mo-Fr 07:30-17:00, Sa 09:00-13:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.10w40.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5218885277
+}

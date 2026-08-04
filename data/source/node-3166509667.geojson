@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3752962,
+      47.4268237
+    ]
+  },
+  "properties": {
+    "id": 3166509667,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "15",
+    "addr:postcode": "9000",
+    "addr:street": "Metzgergasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Banh Mi Bros",
+    "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-21:30; Sa 11:30-21:30",
+    "website": "https://www.instagram.com/banhmibros_ch"
+  },
+  "id": 3166509667
+}

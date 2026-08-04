@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0381821,
+      46.6234101
+    ]
+  },
+  "properties": {
+    "id": 12600784149,
+    "amenity": "restaurant",
+    "check_date": "2026-03-18",
+    "cuisine": "burger;regional",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@barrysrestaurant.ch",
+    "name": "Barrys Restaurant, Bar & Lounge",
+    "opening_hours": "Su-We 07:00-23:30; Th-Sa 07:00-01:00",
+    "operator": "Heller Gastro AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 854 3131",
+    "reservation": "yes",
+    "takeaway": "no",
+    "website": "https://www.barrysrestaurant.ch"
+  },
+  "id": 12600784149
+}

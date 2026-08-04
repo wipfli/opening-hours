@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1442029,
+      46.1965317
+    ]
+  },
+  "properties": {
+    "id": 9583198917,
+    "addr:housenumber": "10",
+    "addr:postcode": "1205",
+    "addr:street": "Rue Leschot",
+    "amenity": "restaurant",
+    "name": "Grill Leschot",
+    "opening_hours": "Mo-Sa 11:00-23:00",
+    "phone": "+41 22 321 84 70",
+    "website": "https://grill-leschot.ch/"
+  },
+  "id": 9583198917
+}

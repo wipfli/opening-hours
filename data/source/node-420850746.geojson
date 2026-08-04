@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5218071,
+      47.3197595
+    ]
+  },
+  "properties": {
+    "id": 420850746,
+    "addr:housenumber": "63",
+    "addr:postcode": "8134",
+    "addr:street": "Soodstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-14",
+    "check_date:opening_hours": "2025-08-14",
+    "cuisine": "italian",
+    "name": "Restaurant & Pizzaria TOMATE",
+    "opening_hours": "Mo-Sa 09:00-14:00,17:00-22:00; Su 10:00-22:00",
+    "website": "https://www.tomate-adliswil.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 420850746
+}

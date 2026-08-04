@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9595115,
+      46.349189
+    ]
+  },
+  "properties": {
+    "id": 10018224090,
+    "addr:city": "Corbeyrier",
+    "addr:housenumber": "1",
+    "addr:postcode": "1856",
+    "addr:street": "Route du Tr\u00e9buit",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/p/Le-Quart-dHeure-Vaudois-Traiteur-100063746283333/",
+    "name": "Le Quart d'Heure Vaudois",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "phone": "+41 79 426 81 59",
+    "website": "https://qdhvd.ch/"
+  },
+  "id": 10018224090
+}

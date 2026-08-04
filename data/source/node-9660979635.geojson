@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.630242,
+      46.5232723
+    ]
+  },
+  "properties": {
+    "id": 9660979635,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "11",
+    "addr:street": "Rue Neuve",
+    "amenity": "restaurant",
+    "check_date": "2026-03-20",
+    "contact:facebook": "racines.suisse",
+    "contact:instagram": "racines.family",
+    "diet:cru": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "name": "Racines",
+    "opening_hours": "Tu-Fr 08:00-17:00; Sa 08:00-16:00",
+    "organic": "only",
+    "outdoor_seating": "no",
+    "phone": "+41 78 927 77 48",
+    "takeaway": "yes",
+    "website": "https://www.racines.ch/welcome",
+    "wheelchair": "yes"
+  },
+  "id": 9660979635
+}

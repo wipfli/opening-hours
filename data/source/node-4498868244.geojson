@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9269317,
+      46.991704
+    ]
+  },
+  "properties": {
+    "id": 4498868244,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "10a",
+    "addr:postcode": "2000",
+    "addr:street": "Rue de la Coll\u00e9giale",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-05-23",
+    "name": "Caf\u00e9 de la Coll\u00e9giale",
+    "opening_hours": "Tu-Fr 09:00-14:00,18:00-24:00; Sa 17:30-24:00",
+    "phone": "+41 32 721 23 51",
+    "website": "https://www.cafedelacollegiale.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4498868244
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5157835,
+      47.3739155
+    ]
+  },
   "properties": {
-    "@id": "node/2463374628",
+    "id": 2463374628,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "26",
@@ -18,12 +25,5 @@
     "wheelchair": "no",
     "wheelchair:description": "Sitzpl\u00e4tze draussen, werden bedient"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5157835,
-      47.3739155
-    ]
-  },
-  "id": "node-2463374628"
+  "id": 2463374628
 }

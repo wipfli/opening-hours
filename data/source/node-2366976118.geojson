@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9862243,
+      47.4495928
+    ]
+  },
+  "properties": {
+    "id": 2366976118,
+    "addr:city": "Wiezikon b. Sirnach",
+    "addr:housenumber": "30",
+    "addr:postcode": "8372",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Restaurant Pizzeria Hirschen",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:00-23:00; Su 10:00-22:00",
+    "phone": "+41 71 966 23 33",
+    "website": "https://www.pizzeria-hirschen.ch/"
+  },
+  "id": 2366976118
+}

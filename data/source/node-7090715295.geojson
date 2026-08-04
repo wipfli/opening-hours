@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1578723,
+      46.2039953
+    ]
+  },
+  "properties": {
+    "id": 7090715295,
+    "addr:postcode": "1207",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "The Hamburger Foundation",
+    "name:en": "The Hamburger Foundation",
+    "name:fr": "The Hamburger Foundation - Eaux-Vives",
+    "opening_hours": "Su-Th 11:30-22:30; Fr-Sa 11:30-23:00",
+    "phone": "+41 22 400 00 55",
+    "website": "https://www.thehamburgerfoundation.ch/"
+  },
+  "id": 7090715295
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7153079,
+      47.3433943
+    ]
+  },
+  "properties": {
+    "id": 4339924974,
+    "addr:city": "Uster",
+    "addr:housenumber": "3a",
+    "addr:postcode": "8610",
+    "addr:street": "Friedhofstrasse",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "name": "Restaurant 8610",
+    "opening_hours": "Tu-Fr 08:00-22:30; Mo 08:00-17:00; Sa 18:00-20:30",
+    "phone": "+41 44 940 86 10",
+    "website": "https://www.werkheim-uster.ch/03_produkte_dienstleistungen/8610_gastronomie/8610.php",
+    "wheelchair": "yes"
+  },
+  "id": 4339924974
+}

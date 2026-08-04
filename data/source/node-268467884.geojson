@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5443882,
+      47.3678872
+    ]
+  },
   "properties": {
-    "@id": "node/268467884",
+    "id": 268467884,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "3",
@@ -16,12 +23,5 @@
     "website": "https://www.bindella.ch/de/terrasse-restaurant.html",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5443882,
-      47.3678872
-    ]
-  },
-  "id": "node-268467884"
+  "id": 268467884
 }

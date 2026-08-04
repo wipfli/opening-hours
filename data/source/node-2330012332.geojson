@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1453875,
+      46.2078438
+    ]
+  },
+  "properties": {
+    "id": 2330012332,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "1-3",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Chantepoulet",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "info@mandarin.ch",
+    "fax": "+41 22 731 97 58",
+    "name": "Restaurant le Mandarin",
+    "opening_hours": "Mo-Fr 12:00-14:00,19:00-23:00; Sa-Su 12:00-23:00",
+    "phone": "+41 22 732 27 42",
+    "takeaway": "yes",
+    "website": "http://www.mandarin.ch"
+  },
+  "id": 2330012332
+}

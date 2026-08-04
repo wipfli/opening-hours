@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5389356,
+      47.2048882
+    ]
+  },
+  "properties": {
+    "id": 830588129,
+    "addr:housenumber": "6",
+    "addr:postcode": "4500",
+    "addr:street": "Kreuzackerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "email": "info@akropolisgreek.ch",
+    "name": "Akropolis",
+    "opening_hours": "Mo-Sa 11:00-14:00, 18:00-23:30",
+    "phone": "+41326212007",
+    "website": "https://www.restaurant-solothurn.com/"
+  },
+  "id": 830588129
+}

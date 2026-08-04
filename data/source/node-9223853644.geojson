@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6304461,
+      47.7037097
+    ]
+  },
+  "properties": {
+    "id": 9223853644,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:place": "Stahlgiesserei",
+    "addr:postcode": "8200",
+    "addr:street": "Zur Stahlgiesserei",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "restaurant@khawa.ch",
+    "name": "Khawa",
+    "opening_hours": "Mo-Sa 11:00-22:00; Sa-Su 16:00-22:00 open",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 525 11 22",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.khawa.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9223853644
+}

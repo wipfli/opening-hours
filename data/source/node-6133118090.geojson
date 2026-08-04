@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5875448,
+      47.559447
+    ]
+  },
+  "properties": {
+    "id": 6133118090,
+    "addr:housenumber": "11",
+    "addr:postcode": "4051",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Stadtkeller",
+    "opening_hours": "Mo-Fr 09:30-23:00; Sa 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41612617251",
+    "smoking": "outside",
+    "website": "https://www.stadtkeller-basel.ch"
+  },
+  "id": 6133118090
+}

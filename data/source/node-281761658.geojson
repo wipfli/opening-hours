@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1651984,
+      46.8506013
+    ]
+  },
+  "properties": {
+    "id": 281761658,
+    "addr:city": "Giswil",
+    "addr:housenumber": "12",
+    "addr:postcode": "6074",
+    "addr:street": "R\u00fctistrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Landgasthof Grossteil",
+    "opening_hours": "We-Sa 09:00-23:00; Su 10:00-16:00",
+    "phone": "+41 41 675 11 08",
+    "tourism": "hotel",
+    "website": "https://grossteil.ch/"
+  },
+  "id": 281761658
+}

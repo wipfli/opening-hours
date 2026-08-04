@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464341,
+      47.5037865
+    ]
+  },
+  "properties": {
+    "id": 8569058439,
+    "addr:city": "Bachenb\u00fclach",
+    "addr:housenumber": "44",
+    "addr:postcode": "8184",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-01-04",
+    "cuisine": "pizza",
+    "name": "San Marco",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00",
+    "phone": "+41 44 999 40 40",
+    "website": "https://restaurant-sanmarco.ch/"
+  },
+  "id": 8569058439
+}

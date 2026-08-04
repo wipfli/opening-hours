@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4501453,
+      46.9473769
+    ]
+  },
+  "properties": {
+    "id": 5921647691,
+    "addr:city": "Bern",
+    "addr:housenumber": "39",
+    "addr:postcode": "3011",
+    "addr:street": "M\u00fcnstergasse",
+    "amenity": "restaurant",
+    "contact:addr": "M\u00fcnstergasse 39, 3011 Bern",
+    "contact:email": "hello@restaurant-zoe.com",
+    "contact:facebook": "https://www.facebook.com/restaurantzoebern",
+    "contact:phone": "+41 31 318 33 33",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "internet_access": "no",
+    "name": "ZOE",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00 18:00-23:00; Sa 18:00-23:00; Su off",
+    "operator": "GenussKultur AG",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurant-zoe.com/",
+    "wheelchair": "limited"
+  },
+  "id": 5921647691
+}

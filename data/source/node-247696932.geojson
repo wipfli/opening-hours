@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8570223,
+      47.6602288
+    ]
+  },
+  "properties": {
+    "id": 247696932,
+    "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8260",
+    "addr:street": "Schiffl\u00e4ndi",
+    "amenity": "restaurant",
+    "check_date": "2025-03-15",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Schiff",
+    "opening_hours": "off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 741 22 73",
+    "smoking": "no",
+    "tourism": "hotel",
+    "website": "https://hotel-ristorante-schiff.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 247696932
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5606386,
+      46.7181956
+    ]
+  },
+  "properties": {
+    "id": 2742199748,
+    "addr:city": "H\u00f6fen bei Thun",
+    "addr:housenumber": "6",
+    "addr:postcode": "3631",
+    "addr:street": "Rain",
+    "amenity": "restaurant",
+    "capacity": "20",
+    "diet:vegetarian": "only",
+    "name": "Zur Kraftquelle",
+    "opening_hours": "We-Fr 16:00-23:00; Sa 11:00-23:00; Su 11:00-18:00; Mo-Tu off",
+    "website": "https://www.zurkraftquelle.ch/"
+  },
+  "id": 2742199748
+}

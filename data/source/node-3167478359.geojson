@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4393878,
+      46.9609593
+    ]
+  },
+  "properties": {
+    "id": 3167478359,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "3012",
+    "addr:street": "Engestrasse",
+    "alt_name": "Restaurant Innere Enge",
+    "amenity": "restaurant",
+    "contact:email": "reservation-ieb@zghotels.ch",
+    "contact:fax": "+41 31 3096112",
+    "contact:phone": "+41 31 3096111",
+    "contact:website": "http://www.innere-enge.ch/de/N444/kontakt.html",
+    "name": "Jos\u00e9phine Brasserie",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-23:30; Su 12:00-18:00",
+    "operator": "ZG Hotels - H. Zurbr\u00fcgg & M. Gauer AG",
+    "source": "survey and website",
+    "website": "http://www.innere-enge.ch/de/N451/restaurant.html",
+    "wheelchair": "yes"
+  },
+  "id": 3167478359
+}

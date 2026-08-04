@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2026657,
+      47.2394357
+    ]
+  },
+  "properties": {
+    "id": 812539644,
+    "addr:city": "Menziken",
+    "addr:housenumber": "2",
+    "addr:postcode": "5737",
+    "addr:street": "Trolerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wirtshus Trolerhof",
+    "opening_hours": "Mo-Tu off; We-Sa 09:00-23:00; Su 09:00-21:00",
+    "phone": "+41 62 771 13 45",
+    "website": "https://www.wirtshus-trolerhof.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 812539644
+}

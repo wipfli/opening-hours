@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8150904,
+      46.7674437
+    ]
+  },
+  "properties": {
+    "id": 5944363857,
+    "addr:city": "Davos Clavadel",
+    "addr:housenumber": "16",
+    "addr:postcode": "7272",
+    "addr:street": "Clavadelerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-24",
+    "name": "la Martina",
+    "opening_hours": "Mo 10:30-24:00; Tu-We off; Th-Su 10:30-24:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://la-martina.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5944363857
+}

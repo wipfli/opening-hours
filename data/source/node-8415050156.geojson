@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8415083,
+      46.9226434
+    ]
+  },
+  "properties": {
+    "id": 8415050156,
+    "addr:city": "Trubschachen",
+    "addr:housenumber": "34",
+    "addr:postcode": "3555",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-01",
+    "cuisine": "regional",
+    "name": "Landgasthof Hirschen",
+    "opening_hours": "We-Su 10:00-21:00",
+    "phone": "+41 34 495 51 15",
+    "website": "https://www.hirschen-trubschachen.ch/"
+  },
+  "id": 8415050156
+}

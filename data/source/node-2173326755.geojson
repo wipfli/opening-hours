@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.882594,
+      47.367448
+    ]
+  },
+  "properties": {
+    "id": 2173326755,
+    "addr:city": "Trimbach",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "4632",
+    "addr:street": "Hauensteinstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Iseb\u00e4hnli",
+    "opening_hours": "Mo off; Tu-Sa 08:30-23:00; Su 08:00-22:00",
+    "phone": "+41622933919",
+    "website": "https://www.isebaehnli.info/"
+  },
+  "id": 2173326755
+}

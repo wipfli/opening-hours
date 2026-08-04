@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0707111,
+      46.9076093
+    ]
+  },
+  "properties": {
+    "id": 764863933,
+    "addr:city": "Faoug",
+    "addr:housenumber": "11",
+    "addr:postcode": "1595",
+    "addr:street": "Route du Nouveau Port",
+    "amenity": "restaurant",
+    "name": "Werft",
+    "opening_hours": "We-Su 11:30-14:00,17:30-23:30",
+    "phone": "+41 26 411 00 22",
+    "website": "https://restaurant-werft.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 764863933
+}

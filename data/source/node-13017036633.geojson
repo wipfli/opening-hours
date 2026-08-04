@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8432655,
+      46.1860271
+    ]
+  },
+  "properties": {
+    "id": 13017036633,
+    "addr:city": "Contra",
+    "addr:housenumber": "440",
+    "addr:postcode": "6646",
+    "addr:street": "Via Contra",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Senza Punti",
+    "opening_hours": "Sa-Su 11:00-14:00, Th-Su 18:00-23:00",
+    "phone": "+41 91 600 15 15",
+    "website": "https://senza-punti.ch/"
+  },
+  "id": 13017036633
+}

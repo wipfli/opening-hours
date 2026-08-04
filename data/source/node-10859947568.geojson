@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5527689,
+      47.0419791
+    ]
+  },
+  "properties": {
+    "id": 10859947568,
+    "addr:housenumber": "70",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-01",
+    "cuisine": "thai",
+    "delivery": "no",
+    "name": "Ruen Rattaya",
+    "opening_hours": "11:00-14:00,17:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 76 799 56 53",
+    "reservation": "yes",
+    "smoking": "outside",
+    "source": "survey",
+    "takeaway": "yes",
+    "website": "https://ruenrattaya.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10859947568
+}

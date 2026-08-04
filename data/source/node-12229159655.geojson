@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7208783,
+      46.8735463
+    ]
+  },
+  "properties": {
+    "id": 12229159655,
+    "amenity": "restaurant",
+    "name": "Beizli \u00fcberem \u00c4mmitau",
+    "opening_hours": "We 11:30-19:00; Th-Sa 10:30-20:30; Su 10:30-19:00",
+    "website": "https://ueberemaemmitau.ch/"
+  },
+  "id": 12229159655
+}

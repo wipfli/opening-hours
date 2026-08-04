@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5132986,
+      46.9613214
+    ]
+  },
+  "properties": {
+    "id": 9873781312,
+    "addr:city": "Stettlen",
+    "addr:housenumber": "80",
+    "addr:postcode": "3066",
+    "addr:street": "Bernapark",
+    "amenity": "restaurant",
+    "name": "FUD L\u00e4B",
+    "opening_hours": "Mo-Fr 16:00-22:00",
+    "phone": "+41 31 506 00 11",
+    "website": "https://fudlab.ch"
+  },
+  "id": 9873781312
+}

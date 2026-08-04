@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6119734,
+      47.5550403
+    ]
+  },
+  "properties": {
+    "id": 2901279855,
+    "addr:city": "Basel",
+    "addr:housenumber": "111",
+    "addr:postcode": "4052",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Froburg",
+    "opening_hours": "Mo-Fr 10:00-14:00, Mo-Su 17:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 613116767",
+    "website": "https://www.pizzeriafroburg.ch/"
+  },
+  "id": 2901279855
+}

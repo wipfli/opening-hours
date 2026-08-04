@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6453203,
+      47.2681481
+    ]
+  },
+  "properties": {
+    "id": 2325192759,
+    "addr:city": "Meilen",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8706",
+    "addr:street": "Rosengartenstrasse",
+    "alt_name": "Migros Restaurant Meilen",
+    "amenity": "restaurant",
+    "branch": "Meilen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-15:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-meilen",
+    "wheelchair": "yes"
+  },
+  "id": 2325192759
+}

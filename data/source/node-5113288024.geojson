@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5515385,
+      47.4135312
+    ]
+  },
+  "properties": {
+    "id": 5113288024,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "34",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "level": "0",
+    "name": "Tiny Fish",
+    "opening_hours": "Mo-Fr 11:30-14:00",
+    "website": "https://tinyfish.ch"
+  },
+  "id": 5113288024
+}

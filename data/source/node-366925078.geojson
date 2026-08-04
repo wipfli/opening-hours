@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7044638,
+      47.3447459
+    ]
+  },
+  "properties": {
+    "id": 366925078,
+    "addr:city": "Uster",
+    "addr:floor": "0",
+    "addr:housenumber": "93",
+    "addr:postcode": "8610",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-03",
+    "check_date:opening_hours": "2026-05-03",
+    "cuisine": "pizza;pasta;burger",
+    "delivery": "yes",
+    "name": "Pizza Forte",
+    "opening_hours": "Su 17:00-21:30; Mo-Th 11:00-13:30,17:00-22:00; Fr,Sa 11:00-13:30,17:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.pizzaforte.ch/"
+  },
+  "id": 366925078
+}

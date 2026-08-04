@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3991322,
+      47.4361509
+    ]
+  },
+  "properties": {
+    "id": 13681199988,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Harzb\u00fcchelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Bamboo",
+    "opening_hours": "Mo-Fr 11:30-13:30,18:00-22:00; Sa-Su 17:30-22:00",
+    "website": "https://bamboo.ch"
+  },
+  "id": 13681199988
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7120588,
+      47.3504015
+    ]
+  },
+  "properties": {
+    "id": 6066057850,
+    "addr:city": "Uster",
+    "addr:housenumber": "10",
+    "addr:postcode": "8610",
+    "addr:street": "Berchtoldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-12",
+    "name": "Zeughaus",
+    "opening_hours": "Mo 11:00-14:00; Tu-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 76 396 89 58",
+    "website": "https://www.zeughausbar.ch/"
+  },
+  "id": 6066057850
+}

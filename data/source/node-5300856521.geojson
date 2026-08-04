@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6173141,
+      47.4774767
+    ]
+  },
+  "properties": {
+    "id": 5300856521,
+    "addr:city": "Dornach",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "4143",
+    "addr:street": "Gempenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "name": "Mondial",
+    "opening_hours": "Tu-Fr 10:00-14:00, Mo-Fr 17:00-23:00, Sa,Su 11:00-23:00",
+    "operator": "Mehmet Dogan",
+    "phone": "+41 800 023 023",
+    "website": "https://mondial-pizza.ch/"
+  },
+  "id": 5300856521
+}

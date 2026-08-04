@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9284863,
+      47.3088515
+    ]
+  },
+  "properties": {
+    "id": 7744587177,
+    "addr:city": "Oftringen",
+    "addr:housenumber": "2",
+    "addr:postcode": "4665",
+    "addr:street": "Ackerweg",
+    "alt_name": "Migros Restaurant Oftringen",
+    "amenity": "restaurant",
+    "branch": "Oftringen MParc",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-oftringen-mparc"
+  },
+  "id": 7744587177
+}

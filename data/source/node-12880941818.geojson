@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4032454,
+      47.4054239
+    ]
+  },
+  "properties": {
+    "id": 12880941818,
+    "addr:city": "Dietikon",
+    "addr:housenumber": "16",
+    "addr:postcode": "8953",
+    "addr:street": "Kirchstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;pasta",
+    "name": "Tomate",
+    "opening_hours": "Mo-Sa 07:30-24:00, Su 10:00-24:00",
+    "phone": "+41 44 740 82 82",
+    "website": "https://www.tomate-dietikon.ch/"
+  },
+  "id": 12880941818
+}

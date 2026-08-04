@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8436454,
+      47.5467079
+    ]
+  },
+  "properties": {
+    "id": 13351107572,
+    "amenity": "restaurant",
+    "name": "Zur Sonne",
+    "opening_hours": "Mo-Fr 10:00-14:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.zursonne-islikon.ch/"
+  },
+  "id": 13351107572
+}

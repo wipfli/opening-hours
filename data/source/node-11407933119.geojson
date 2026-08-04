@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545125,
+      47.4094948
+    ]
+  },
+  "properties": {
+    "id": 11407933119,
+    "addr:housenumber": "5",
+    "addr:postcode": "8050",
+    "addr:street": "Edisonstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-27",
+    "cuisine": "lebanese",
+    "name": "Hallo Beirut",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-21:00",
+    "phone": "+41 44 324 18 99",
+    "website": "https://hallobeirut.ch/"
+  },
+  "id": 11407933119
+}

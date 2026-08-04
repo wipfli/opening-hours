@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8204002,
+      47.2580749
+    ]
+  },
+  "properties": {
+    "id": 12815067050,
+    "amenity": "restaurant",
+    "level": "0",
+    "name": "Restaurant Egelsee",
+    "opening_hours": "May,Sep: Mo-Su 09:00-19:00; Jun,Jul,Aug: Mo-Sa 09:00-21:00; Jun,Jul,Aug: Su 09:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 925 88 07",
+    "website": "https://restaurant-egelsee.ch",
+    "website:menu": "https://restaurant-egelsee.ch/index.php/speisekarte/",
+    "wheelchair": "yes"
+  },
+  "id": 12815067050
+}

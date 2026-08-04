@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.24174,
+      47.0523019
+    ]
+  },
+  "properties": {
+    "id": 441149581,
+    "addr:city": "Flumserberg Tannenheim",
+    "addr:housenumber": "1582",
+    "addr:postcode": "8897",
+    "addr:street": "Furschstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-17",
+    "cuisine": "local;cake;regional",
+    "diet:vegetarian": "yes",
+    "ele": "1792",
+    "email": "info@alpfursch.ch",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Alp Fursch",
+    "opening_hours": "Jun-Oct: We-Su 09:00-16:00; Dec-Apr: Mo-Su 09:00-16:00",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "phone": "+41 76 698 17 59",
+    "toilets": "yes",
+    "website": "https://alpfursch.com",
+    "wheelchair": "limited"
+  },
+  "id": 441149581
+}

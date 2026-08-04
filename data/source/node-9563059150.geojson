@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1630676,
+      46.8059327
+    ]
+  },
+  "properties": {
+    "id": 9563059150,
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "1700",
+    "addr:street": "Rue du Pont-Suspendu",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "check_date": "2026-02-14",
+    "check_date:opening_hours": "2026-02-14",
+    "contact:instagram": "bistrodubourg",
+    "cuisine": "coffee_shop;deli;tea",
+    "internet_access": "wlan",
+    "name": "Bistro du Bourg",
+    "opening_hours": "Su, We-Th 15:00-00:00; Fr 15:00-01:00; Sa 09:00-01:00",
+    "takeaway": "yes",
+    "toilets": "unisex",
+    "website": "https://m.bistrodubourg.ch/"
+  },
+  "id": 9563059150
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6307063,
+      46.5287676
+    ]
+  },
+  "properties": {
+    "id": 13623616871,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "6B",
+    "addr:postcode": "1018",
+    "addr:street": "Rue de la Pontaise",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "Restaurant Le Caf\u00e9 du Tramway",
+    "opening_hours": "Tu-Fr 11:45-14:30,19:00-23:30; Sa 19:00-23:30; Mo,Su off",
+    "phone": "+41 76 812 84 59",
+    "website": "https://lecafedutramway.ch"
+  },
+  "id": 13623616871
+}

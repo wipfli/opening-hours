@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3287643,
+      47.3194019
+    ]
+  },
+  "properties": {
+    "id": 2298135495,
+    "amenity": "restaurant",
+    "check_date": "2025-05-18",
+    "email": "info@kronberg.ch",
+    "name": "Talrestaurant",
+    "opening_hours": "Oct 24-Nov 30 Mo-Fr 10:00-17:30; Oct 24-Nov 30 Sa,Su 09:00-17:30; Dec 01-Mar 05 Sa 10:00-17:30; PH 09:00-17:30; Mar 06-Apr 06 off",
+    "phone": "+41 71 794 12 89",
+    "website": "https://kronberg.ch/de/erlebnisse/gastronomie/talrestaurant.html",
+    "wheelchair": "yes"
+  },
+  "id": 2298135495
+}

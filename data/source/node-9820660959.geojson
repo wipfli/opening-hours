@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5423092,
+      47.3716791
+    ]
+  },
+  "properties": {
+    "id": 9820660959,
+    "addr:city": "Erschwil",
+    "addr:housenumber": "1",
+    "addr:postcode": "4228",
+    "addr:street": "Passwangstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "dog": "no",
+    "email": "info@roessli-erschwil.ch",
+    "name": "Gasthof zum weissen R\u00f6ssli",
+    "opening_hours": "Di-Sa 9:00-14:00, Di-Sa 17:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+4161 781 18 18",
+    "rooms": "4",
+    "tourism": "hotel",
+    "website": "https://www.roessli-erschwil.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9820660959
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9035221,
+      47.3495607
+    ]
+  },
+  "properties": {
+    "id": 878597498,
+    "addr:city": "Olten",
+    "addr:country": "CH",
+    "addr:housenumber": "32",
+    "addr:postcode": "4600",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-18",
+    "cuisine": "italian;pizza",
+    "email": "incanto.olten@gmx.ch",
+    "name": "Ristorante Pinseria Incanto",
+    "opening_hours": "Tu-Su 10:30-14:00,17:30-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 62 534 07 72; +41 76 514 07 72",
+    "ref:vatin": "CHE-145.595.257 MWST",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://incanto-olten.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 878597498
+}

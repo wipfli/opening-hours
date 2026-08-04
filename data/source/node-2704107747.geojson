@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3060794,
+      47.05288
+    ]
+  },
+  "properties": {
+    "id": 2704107747,
+    "addr:city": "Luzern",
+    "addr:housenumber": "15",
+    "addr:postcode": "6004",
+    "addr:street": "Eisengasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-22",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "B\u00fcndnerland",
+    "old_name": "Walliser Spycher",
+    "opening_hours": "Mo-Tu 17:30-22:00; We-Fr 11:30-14:30,17:30-22:30; Sa 11:30-22:30; Su 12:00-20:00",
+    "website": "https://buendnerland-luzern.ch/"
+  },
+  "id": 2704107747
+}

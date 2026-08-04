@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.378801,
+      47.424552
+    ]
+  },
+  "properties": {
+    "id": 8975211997,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "41",
+    "addr:postcode": "9000",
+    "addr:street": "Spisergasse",
+    "amenity": "restaurant",
+    "brand:wikidata": "Q116382535",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "name": "Burgermeister",
+    "opening_hours": "Mo-We 11:00-21:30; Th-Sa 11:00-23:00; Su 00:00-21:30",
+    "website": "https://www.burger-meister.ch"
+  },
+  "id": 8975211997
+}

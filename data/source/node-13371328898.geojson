@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5911553,
+      47.5745963
+    ]
+  },
+  "properties": {
+    "id": 13371328898,
+    "amenity": "restaurant",
+    "name": "Kantine Klybeck 610",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "website": "https://www.ryago.ch/de/kantine-klybeck-610/"
+  },
+  "id": 13371328898
+}

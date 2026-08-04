@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0368574,
+      47.6106735
+    ]
+  },
+  "properties": {
+    "id": 3725024818,
+    "addr:city": "Lamperswil TG",
+    "addr:housenumber": "1",
+    "addr:postcode": "8556",
+    "addr:street": "Illharterstrasse",
+    "amenity": "restaurant",
+    "name": "Hotel Restaurant Kreuzstrasse",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 08:00-14:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "tourism": "hotel",
+    "website": "https://hotel-kreuzstrasse-lamperswil.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3725024818
+}

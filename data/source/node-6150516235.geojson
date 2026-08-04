@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7937699,
+      47.3175276
+    ]
+  },
+  "properties": {
+    "id": 6150516235,
+    "addr:city": "Wetzikon ZH",
+    "addr:postcode": "8620",
+    "addr:street": "Rapperswilerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "american;burger",
+    "level": "0",
+    "name": "The Western Saloon",
+    "opening_hours": "We-Fr 16:00-24:00; Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 556 91 08",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://western-saloon-wetzikon.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6150516235
+}

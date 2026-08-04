@@ -1,12 +1,20 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5207971,
+      47.3703052
+    ]
+  },
   "properties": {
-    "@id": "node/1920641564",
+    "id": 1920641564,
     "addr:housenumber": "126",
     "addr:street": "Birmensdorferstrasse",
     "amenity": "restaurant",
     "check_date": "2023-12-11",
     "cuisine": "vietnamese",
+    "indoor_seating": "yes",
     "name": "Petit Saigon",
     "opening_hours": "Mo-Sa 10:00-22:00",
     "outdoor_seating": "yes",
@@ -16,12 +24,5 @@
     "website": "https://www.petitsaigon.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5207971,
-      47.3703052
-    ]
-  },
-  "id": "node-1920641564"
+  "id": 1920641564
 }

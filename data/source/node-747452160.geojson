@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4111247,
+      47.4495094
+    ]
+  },
+  "properties": {
+    "id": 747452160,
+    "amenity": "restaurant",
+    "name": "Guggeien-H\u00f6chst",
+    "opening_hours": "We-Sa 10:00-22:00; Su 10:00-20:00; Mo,Tu off",
+    "website": "https://www.guggeien-hoechst.ch"
+  },
+  "id": 747452160
+}

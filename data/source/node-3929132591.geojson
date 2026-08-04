@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3338442,
+      47.4080818
+    ]
+  },
+  "properties": {
+    "id": 3929132591,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "53",
+    "addr:postcode": "9014",
+    "addr:street": "Stationsstrasse",
+    "amenity": "restaurant",
+    "capacity": "16",
+    "check_date": "2025-09-13",
+    "cuisine": "pizza",
+    "email": "info@pizzaroberto.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Pizza Roberto",
+    "opening_hours": "Mo-Sa 11:30-13:30,17:00-22:00; Su 17:00-22:00",
+    "operator": "Spezialit\u00e4ten-Metzgerei Bechinger J\u00f6rg",
+    "outdoor_seating": "no",
+    "phone": "+41 71 277 77 72",
+    "toilets": "yes",
+    "website": "https://www.pizzaroberto.ch/restaurants/st-gallen",
+    "wheelchair": "no"
+  },
+  "id": 3929132591
+}

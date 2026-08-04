@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6546912,
+      47.2355722
+    ]
+  },
+  "properties": {
+    "id": 1242828577,
+    "addr:housenumber": "1",
+    "addr:street": "St\u00e4dtli",
+    "amenity": "restaurant",
+    "name": "Krone",
+    "opening_hours": "Su-Fr 07:00-24:00",
+    "phone": "+41 32 631 70 70",
+    "source": "Survey",
+    "website": "https://www.krone-wangen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1242828577
+}

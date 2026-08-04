@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2776409,
+      47.0196442
+    ]
+  },
+  "properties": {
+    "id": 840615493,
+    "addr:city": "Kriens",
+    "addr:postcode": "6010",
+    "addr:street": "Streubachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-04",
+    "email": "info@artstaette.ch",
+    "name": "Artst\u00e4tte B\u00fcrestubli",
+    "opening_hours": "Mo-Tu off; We-Fr 11:30-23:30; Sa-Su 09:30-23:30",
+    "phone": "+41 41 310 79 29",
+    "website": "https://www.artstaette.ch/"
+  },
+  "id": 840615493
+}

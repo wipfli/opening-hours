@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7386352,
+      46.8047399
+    ]
+  },
+  "properties": {
+    "id": 8761187186,
+    "addr:city": "Yvonand",
+    "addr:housenumber": "20",
+    "addr:postcode": "1462",
+    "addr:street": "Chemin de la Plage",
+    "amenity": "restaurant",
+    "name": "Restaurant de la Menthue",
+    "opening_hours": "Mo-Th 10:00-19:00, Fr-Sa 08:00-20:00; Su 08:00-17:00",
+    "phone": "+41 24 430 17 95",
+    "website": "https://camping-yvonand.ch/"
+  },
+  "id": 8761187186
+}

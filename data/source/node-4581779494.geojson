@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9452507,
+      45.9876965
+    ]
+  },
+  "properties": {
+    "id": 4581779494,
+    "addr:housenumber": "28",
+    "addr:street": "Via Carona",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "internet_access": "wlan",
+    "name": "Osteria Caprino",
+    "opening_hours": "Mo-Sa 18:30-23:00",
+    "phone": "+41 78 240 33 33",
+    "website": "http://www.osteria-calprino.ch/",
+    "website:menu": "https://osteriacalprinoghiotticlub.ch/439103529/"
+  },
+  "id": 4581779494
+}

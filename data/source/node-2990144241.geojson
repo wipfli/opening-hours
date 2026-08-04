@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1398666,
+      46.2088148
+    ]
+  },
+  "properties": {
+    "id": 2990144241,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "1",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de la Servette",
+    "amenity": "restaurant",
+    "check_date": "2025-07-21",
+    "check_date:opening_hours": "2025-01-17",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "La Trattoria de Tonio",
+    "opening_hours": "Mo-Su 11:30-14:30,18:30-23:00",
+    "outdoor_seating": "yes",
+    "source": "personal",
+    "website": "https://www.latrattoria.ch/"
+  },
+  "id": 2990144241
+}

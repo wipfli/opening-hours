@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4871306,
+      47.3882191
+    ]
+  },
+  "properties": {
+    "id": 4818335508,
+    "alt_name": "Migros Restaurant Altstetten",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten Neumarkt",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "contact:city": "Z\u00fcrich",
+    "contact:country": "CH",
+    "contact:housenumber": "145",
+    "contact:place": "Neumarkt Altstetten",
+    "contact:postcode": "8048",
+    "contact:street": "Altstetterstrasse",
+    "cuisine": "international",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "indoor": "yes",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "no",
+    "phone": "+41 58 563 32 00",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-altstetten-neumarkt",
+    "wheelchair": "yes"
+  },
+  "id": 4818335508
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451446,
+      47.3677942
+    ]
+  },
   "properties": {
-    "@id": "node/268468109",
+    "id": 268468109,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "2",
     "addr:postcode": "8001",
@@ -19,12 +26,5 @@
     "website": "https://odeon.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5451446,
-      47.3677942
-    ]
-  },
-  "id": "node-268468109"
+  "id": 268468109
 }

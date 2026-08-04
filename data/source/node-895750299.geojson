@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438655,
+      47.3705962
+    ]
+  },
   "properties": {
-    "@id": "node/895750299",
+    "id": 895750299,
     "amenity": "restaurant",
     "cuisine": "regional",
     "name": "Le D\u00e9zaley Restaurant Vaudois",
@@ -11,12 +18,5 @@
     "website": "https://le-dezaley.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5438655,
-      47.3705962
-    ]
-  },
-  "id": "node-895750299"
+  "id": 895750299
 }

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.401711,
+      46.9003827
+    ]
+  },
+  "properties": {
+    "id": 3261756522,
+    "addr:city": "Gasel",
+    "addr:housenumber": "581",
+    "addr:postcode": "3144",
+    "addr:street": "Schwarzenburgstrasse",
+    "alt_name": "Restaurant Gasthof R\u00f6ssli Gasel",
+    "amenity": "restaurant",
+    "email": "info@roessli-gasel.ch",
+    "name": "R\u00f6ssli Gasel",
+    "opening_hours": "Tu-Fr 10:00-14:00,17:00-23:00; Sa 10:00-23:00; Su 10:00-21:00",
+    "operator": "Gastro Gasel GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 842 06 51",
+    "website": "https://www.roessli-gasel.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3261756522
+}

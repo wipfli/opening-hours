@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.041225,
+      47.3640962
+    ]
+  },
+  "properties": {
+    "id": 9036236710,
+    "addr:city": "Mosnang",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "9607",
+    "addr:street": "Unterdorf",
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "email": "info@kronemosnang.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Krone Mosnang",
+    "opening_hours": "Mo-Sa 09:00-24:00; Su 10:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 983 28 47",
+    "rooms": "10",
+    "tourism": "guest_house",
+    "website": "https://www.kronemosnang.ch"
+  },
+  "id": 9036236710
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6451417,
+      46.8087597
+    ]
+  },
+  "properties": {
+    "id": 6105211685,
+    "addr:postcode": "1422",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "L\u2019Arboulastre",
+    "opening_hours": "Tu-Sa 18:30-23:00",
+    "phone": "+41244456997",
+    "website": "https://www.larboulastre.ch/"
+  },
+  "id": 6105211685
+}

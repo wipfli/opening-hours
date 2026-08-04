@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6173975,
+      47.3968792
+    ]
+  },
+  "properties": {
+    "id": 565278551,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Villa Barone",
+    "opening_hours": "PH,Mo-Su 10:00-24:00",
+    "website": "https://xn--villa-barone-dbendorf-mic.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 565278551
+}

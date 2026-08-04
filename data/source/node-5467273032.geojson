@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7452689,
+      46.0124935
+    ]
+  },
+  "properties": {
+    "id": 5467273032,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "128",
+    "addr:postcode": "3920",
+    "addr:street": "Staldenstrasse",
+    "amenity": "restaurant",
+    "name": "Waldhaus",
+    "opening_hours": "We-Su 09:00-20:30",
+    "website": "https://www.waldhaus-zermatt.ch/"
+  },
+  "id": 5467273032
+}

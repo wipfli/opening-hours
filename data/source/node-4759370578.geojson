@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4854337,
+      47.1967502
+    ]
+  },
+  "properties": {
+    "id": 4759370578,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Schnitz und Gwunder",
+    "opening_hours": "Mo,We-Su 11:00-24:00; Tu off",
+    "phone": "+41 41 740 67 00",
+    "website": "https://www.schnitz-und-gwunder.ch/"
+  },
+  "id": 4759370578
+}

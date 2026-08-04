@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4573618,
+      46.9929171
+    ]
+  },
+  "properties": {
+    "id": 1912987005,
+    "alt_name": "Pizzeria Rebstock",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-04-03",
+    "cuisine": "italian;pizza",
+    "email": "pizzeria@rebstock-zollikofen.ch",
+    "name": "Rebstock",
+    "opening_hours": "Mo-Th 08:00-23:30; Fr-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 911 03 69",
+    "takeaway": "yes",
+    "website": "https://www.rebstock-zollikofen.ch/"
+  },
+  "id": 1912987005
+}

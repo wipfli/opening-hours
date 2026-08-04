@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1856017,
+      46.7278645
+    ]
+  },
+  "properties": {
+    "id": 9500506921,
+    "addr:postcode": "3860",
+    "amenity": "restaurant",
+    "contact:facebook": "indiangourmetrestaurant",
+    "contact:instagram": "indiangourmetrestaurant",
+    "cuisine": "indian",
+    "email": "info@indian-gourmet.ch",
+    "name": "Indian Gourmet",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "phone": "+41764094212",
+    "website": "https://indian-gourmet.ch",
+    "website:menu": "https://indian-gourmet.ch/menu/"
+  },
+  "id": 9500506921
+}

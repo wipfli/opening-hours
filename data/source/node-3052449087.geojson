@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8553578,
+      47.1908337
+    ]
+  },
+  "properties": {
+    "id": 3052449087,
+    "addr:city": "Lachen SZ",
+    "addr:housenumber": "15",
+    "addr:postcode": "8853",
+    "addr:street": "Oberdorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante Caminetto",
+    "opening_hours": "Tu-Sa 11:30-14:00,18:00-24:00",
+    "phone": "+41 55 442 62 64",
+    "website": "https://www.caminetto.ch/"
+  },
+  "id": 3052449087
+}

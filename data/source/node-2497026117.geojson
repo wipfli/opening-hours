@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4623052,
+      46.9536959
+    ]
+  },
+  "properties": {
+    "id": 2497026117,
+    "alt_name": "Restaurant Reiterstrasse Kantonale Verwaltung",
+    "amenity": "restaurant",
+    "contact:addr": "Reiterstrasse 11, 3013 Bern",
+    "contact:phone": "+41 31 3320878",
+    "cuisine": "international",
+    "delivery": "no",
+    "internet_access": "Kantons-Gast-WLAN",
+    "internet_access:fee": "no",
+    "microbrewery": "no",
+    "name": "Reiterstrasse Kantonale Verwaltung",
+    "opening_hours": "Sa,Su off; Mo-Th 08:00-15:30; Fr 08:00-13:30",
+    "operator": "SV (Schweiz) AG",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "source": "website",
+    "takeaway": "no",
+    "website": "https://reiterstrasse.sv-restaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 2497026117
+}

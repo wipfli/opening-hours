@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6297501,
+      46.5209365
+    ]
+  },
+  "properties": {
+    "id": 1133646787,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "9",
+    "addr:postcode": "1003",
+    "addr:street": "Place de l'Europe",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Forbici",
+    "opening_hours": "Mo-Th 10:00-24:00; Fr-Sa 10:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 320 13 13",
+    "website": "https://forbici-flon.ch/"
+  },
+  "id": 1133646787
+}

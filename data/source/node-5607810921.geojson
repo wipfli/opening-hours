@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4950699,
+      47.3888471
+    ]
+  },
+  "properties": {
+    "id": 5607810921,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "485",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "tibetan",
+    "email": "Info@zuerimomo.ch",
+    "indoor_seating": "yes",
+    "name": "Z\u00fcri MoMo Tibetan Food",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:twint": "yes",
+    "phone": "+41 78 711 61 39",
+    "takeaway": "yes",
+    "website": "https://zuerimomo.ch"
+  },
+  "id": 5607810921
+}

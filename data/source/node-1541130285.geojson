@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6370074,
+      46.5126265
+    ]
+  },
+  "properties": {
+    "id": 1541130285,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "2",
+    "addr:postcode": "1006",
+    "addr:street": "Chemin Antoine-de-Chandieu",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Tang RouLou",
+    "opening_hours": "Tu 18:30-22:00; We, Th 11:30-14:00, 18:30-22:00; Fr 18:30-22:30; Sa 12:00-14:30, 18:30-22:30; Su 12:00-14:30, 18:30-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 55 19",
+    "takeaway": "yes",
+    "website": "https://tangroulou.ch/"
+  },
+  "id": 1541130285
+}

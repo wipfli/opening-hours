@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5495281,
+      47.3630112
+    ]
+  },
   "properties": {
-    "@id": "node/268421599",
+    "id": 268421599,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "40",
@@ -20,15 +27,8 @@
     "operator": "Suan Long Enge",
     "outdoor_seating": "no",
     "smoking": "no",
-    "website": "https://suanlong.ch/restaurant/suan-long-oerlikon/",
+    "website": "https://suanlong.ch/restaurant/suan-long-seefeldstrasse/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5495281,
-      47.3630112
-    ]
-  },
-  "id": "node-268421599"
+  "id": 268421599
 }

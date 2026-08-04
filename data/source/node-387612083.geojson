@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5257086,
+      47.380803
+    ]
+  },
   "properties": {
-    "@id": "node/387612083",
+    "id": 387612083,
     "addr:housenumber": "9",
     "addr:street": "Sch\u00f6neggplatz",
     "amenity": "restaurant",
@@ -14,12 +21,5 @@
     "website": "https://www.piccologiardino.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5257086,
-      47.380803
-    ]
-  },
-  "id": "node-387612083"
+  "id": 387612083
 }

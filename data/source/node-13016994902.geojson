@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6363421,
+      46.521547
+    ]
+  },
+  "properties": {
+    "id": 13016994902,
+    "addr:housenumber": "3",
+    "addr:postcode": "1005",
+    "addr:street": "Pont Charles-Bessi\u00e8res",
+    "amenity": "restaurant",
+    "email": "info@chezmaud.ch",
+    "indoor_seating": "yes",
+    "name": "Chez Maud",
+    "opening_hours": "Mo-Tu 11:00-19:00; We-Th 11:00-00:00; Fr-Sa 11:00-02:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 213 11 22 57",
+    "website": "https://chezmaud.ch/"
+  },
+  "id": 13016994902
+}

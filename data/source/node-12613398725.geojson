@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7369848,
+      47.1860385
+    ]
+  },
+  "properties": {
+    "id": 12613398725,
+    "addr:city": "Feusisberg SZ",
+    "addr:housenumber": "3",
+    "addr:postcode": "8835",
+    "addr:street": "Sch\u00f6nfelsstrasse",
+    "amenity": "restaurant",
+    "name": "Loy Fah",
+    "opening_hours": "We-Su 18:00-22:00; Mo,Tu off",
+    "website": "https://www.panoramaresort.ch/de/"
+  },
+  "id": 12613398725
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4689062,
+      47.3263926
+    ]
+  },
+  "properties": {
+    "id": 4171004690,
+    "addr:city": "Bonstetten",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8906",
+    "addr:street": "Stallikerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-25",
+    "cuisine": "steak_house",
+    "level": "0",
+    "name": "Sam's Steakhouse",
+    "opening_hours": "Tu-Fr 11:00-23:00; Sa 14:00-23:00; Mo,Su,PH off",
+    "operator": "Krattenmacher BeSt AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 552 10 70",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.sams-steakhouse.ch",
+    "website:booking": "https://guest.foratable.com/restaurants/01991a2021ca728e9007ed66bd2cda29",
+    "website:menu": "https://www.sams-steakhouse.ch/#menu",
+    "wheelchair": "yes"
+  },
+  "id": 4171004690
+}

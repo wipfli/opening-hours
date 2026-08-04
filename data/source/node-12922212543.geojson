@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2902302,
+      47.387209
+    ]
+  },
+  "properties": {
+    "id": 12922212543,
+    "addr:city": "Nesselnbach",
+    "addr:postcode": "5524",
+    "addr:street": "Widematte",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "office@wolffsstuebli.ch",
+    "name": "Wolff's St\u00fcbli",
+    "opening_hours": "We-Th 16:00-23:00; Fr 10:00-14:00,16:00-23:00; Sa 10:00-21:45; Su 9:30-18:00",
+    "phone": "+41 79 397 72 52",
+    "website": "https://www.wolffsstuebli.ch/"
+  },
+  "id": 12922212543
+}

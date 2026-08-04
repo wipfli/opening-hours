@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2482165,
+      46.4408556
+    ]
+  },
+  "properties": {
+    "id": 5682330221,
+    "addr:city": "Begnins",
+    "addr:housenumber": "8",
+    "addr:postcode": "1268",
+    "addr:street": "Grand'Rue",
+    "amenity": "restaurant",
+    "cuisine": "fondue",
+    "name": "Le Fromatzet",
+    "opening_hours": "Mo-Su 16:45-24:00",
+    "phone": "+41 22 366 72 61",
+    "website": "https://www.fromatzet.ch/"
+  },
+  "id": 5682330221
+}

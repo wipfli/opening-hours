@@ -1,13 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/11988931601",
-    "amenity": "restaurant",
-    "name": "Archimedes",
-    "opening_hours": "Mo-Fr 11:00-14:00",
-    "phone": "+41 44 632 62 87",
-    "website": "https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/archimedes.html"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -15,5 +7,14 @@
       47.3773873
     ]
   },
-  "id": "node-11988931601"
+  "properties": {
+    "id": 11988931601,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-04-13",
+    "name": "Archimedes",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "phone": "+41 44 632 62 87",
+    "website": "https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/archimedes.html"
+  },
+  "id": 11988931601
 }

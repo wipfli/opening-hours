@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9707316,
+      45.8423349
+    ]
+  },
+  "properties": {
+    "id": 3337977464,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ristorante Pizzeria Al Gaggio",
+    "opening_hours": "Tu-Su 11:45-14:00,18:45-24:00; Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 647 29 51",
+    "smoking": "outside",
+    "source": "website and survey",
+    "website": "http://www.algaggio.ch"
+  },
+  "id": 3337977464
+}

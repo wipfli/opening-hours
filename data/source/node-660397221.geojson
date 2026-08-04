@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3832589,
+      47.4306647
+    ]
+  },
+  "properties": {
+    "id": 660397221,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "11",
+    "addr:postcode": "9000",
+    "addr:street": "Br\u00fchlbleichestrasse",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "email": "info@jaegerhof.ch",
+    "name": "J\u00e4gerhof",
+    "opening_hours": "Mo-Fr 11:00-14:00, 18:00-22:00; Sa 17:00-23:00",
+    "website": "https://www.jaegerhof.ch/",
+    "wheelchair": "limited",
+    "wikidata": "Q90403434"
+  },
+  "id": 660397221
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8517097,
+      46.6869119
+    ]
+  },
+  "properties": {
+    "id": 9914269909,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Da Rafmi",
+    "opening_hours": "Tu-Sa 17:30-23:30",
+    "website": "https://www.darafmi.ch/"
+  },
+  "id": 9914269909
+}

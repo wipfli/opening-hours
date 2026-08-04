@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0227038,
+      46.190699
+    ]
+  },
+  "properties": {
+    "id": 3771410441,
+    "addr:city": "Bellinzona",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "6500",
+    "addr:street": "Via Camminata",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "name": "Antica Pizzeria Da Michele",
+    "opening_hours": "Mo-Th 11:30-14:00, 18:00-22:00; Fr 11:30-14:00, 18:00-22:30; Sa-Su 12:00-22:30",
+    "phone": "+41 91 825 28 44",
+    "website": "https://anticapizzeriadamichele.ch"
+  },
+  "id": 3771410441
+}

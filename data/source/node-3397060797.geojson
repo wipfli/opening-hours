@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6799359,
+      46.781067
+    ]
+  },
+  "properties": {
+    "id": 3397060797,
+    "amenity": "restaurant",
+    "contact:facebook": "aifach7050",
+    "contact:instagram": "aifacharosa",
+    "email": "post@aifach.ch",
+    "name": "aifach",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "phone": "+41 81 533 08 51",
+    "website": "https://aifach.ch/"
+  },
+  "id": 3397060797
+}

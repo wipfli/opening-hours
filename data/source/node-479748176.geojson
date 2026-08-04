@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6190496,
+      47.052643
+    ]
+  },
+  "properties": {
+    "id": 479748176,
+    "amenity": "restaurant",
+    "cuisine": "ethiopian",
+    "facebook": "https://www.facebook.com/people/Adulis-Steinhof-Restaurante/100064038490661/",
+    "name": "Adulis Steinhof",
+    "opening_hours": "Mo-Th 08:30-23:00; Fr 08:30-24:00; Sa,Su 11:00-24:00",
+    "phone": "+41 34 530 02 25",
+    "website": "http://adulis-steinhof-restaurant.ch"
+  },
+  "id": 479748176
+}

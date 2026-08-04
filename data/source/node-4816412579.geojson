@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6937446,
+      47.5109301
+    ]
+  },
+  "properties": {
+    "id": 4816412579,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "3a",
+    "addr:postcode": "8408",
+    "addr:street": "Lindenplatz",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Da Cosimo e Anna",
+    "opening_hours": "Tu-Fr 11:00-14:00, 18:00-22:00; Sa-Su 18:00-22:00",
+    "phone": "+41 52 544 45 49",
+    "takeaway": "yes",
+    "website": "https://www.pizzeria-cosimo-anna.ch/"
+  },
+  "id": 4816412579
+}

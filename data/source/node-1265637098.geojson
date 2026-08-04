@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.563478,
+      46.9304662
+    ]
+  },
+  "properties": {
+    "id": 1265637098,
+    "addr:city": "Worb",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "3076",
+    "addr:street": "Enggisteinstrasse",
+    "alt_name": "Gasthof zum L\u00f6wen",
+    "amenity": "restaurant",
+    "check_date": "2023-06-05",
+    "contact:email": "office@loewen-worb.ch",
+    "contact:fax": "+41 31 8395877",
+    "contact:phone": "+41 31 8392303",
+    "cuisine": "regional",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo-Fr ; Sa-Su off",
+    "operator": "Gasthof L\u00f6wen Worb AG",
+    "source": "survey and website",
+    "website": "https://www.loewen-worb.ch/"
+  },
+  "id": 1265637098
+}

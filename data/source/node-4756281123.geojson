@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4109331,
+      47.3305776
+    ]
+  },
+  "properties": {
+    "id": 4756281123,
+    "addr:city": "Appenzell",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9050",
+    "addr:street": "Weissbadstrasse",
+    "amenity": "restaurant",
+    "cuisine": "fondue",
+    "name": "Fonduekeller",
+    "opening_hours": "\"upon reservation only\"",
+    "operator": "Hotel Adler",
+    "website": "https://www.adlerhotel.ch/fonduekeller/",
+    "wheelchair": "no"
+  },
+  "id": 4756281123
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2939809,
+      47.4884817
+    ]
+  },
+  "properties": {
+    "id": 1602222924,
+    "addr:city": "Nussbaumen AG",
+    "addr:housenumber": "18",
+    "addr:postcode": "5415",
+    "addr:street": "Kirchweg",
+    "amenity": "restaurant",
+    "cuisine": "kebab;pizza",
+    "delivery": "Mo-Fr 11:00-14:00, 17:00-22:30;Sa 10:00-22:30;Su 12:00-22:00",
+    "name": "Lenzo Palace",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-23:30; Su 12:00-22:00",
+    "phone": "+41 56 534 70 42",
+    "website": "https://lenzonussbaumen.ch/"
+  },
+  "id": 1602222924
+}

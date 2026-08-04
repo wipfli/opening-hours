@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.44418,
+      46.9795319
+    ]
+  },
+  "properties": {
+    "id": 288961804,
+    "alt_name": "Zehnderm\u00e4tteli;Zehendi;Zehndi",
+    "amenity": "restaurant",
+    "email": "zehndi@zehndi.be",
+    "name": "Zehenderm\u00e4tteli",
+    "opening_hours": "10:00-17:00",
+    "operator": "Sommer & Winter AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 561 92 82",
+    "website": "https://zehndi.be/",
+    "wheelchair": "yes"
+  },
+  "id": 288961804
+}

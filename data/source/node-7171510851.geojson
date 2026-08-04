@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5007974,
+      47.6903991
+    ]
+  },
+  "properties": {
+    "id": 7171510851,
+    "addr:city": "Neuenkirch",
+    "addr:housenumber": "2",
+    "addr:postcode": "8213",
+    "addr:street": "Vordergasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "auskunft@klettgauerhof-neunkirch.ch",
+    "name": "Restaurant Weinstube Klettgauerhof",
+    "opening_hours": "Mo-Fr 08:00-14:00, 16:30-00:00",
+    "phone": "+41 52 533 91 79",
+    "website": "https://klettgauerhof-neunkirch.ch/"
+  },
+  "id": 7171510851
+}

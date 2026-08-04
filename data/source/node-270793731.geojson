@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5675093,
+      47.3673483
+    ]
+  },
   "properties": {
-    "@id": "node/270793731",
+    "id": 270793731,
     "addr:housenumber": "15",
     "addr:street": "Hitzigweg",
     "amenity": "restaurant",
@@ -11,12 +18,5 @@
     "phone": "+41 44 266 97 97",
     "website": "https://sonnenberg-zurich.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5675093,
-      47.3673483
-    ]
-  },
-  "id": "node-270793731"
+  "id": 270793731
 }

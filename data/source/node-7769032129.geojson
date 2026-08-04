@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6287181,
+      46.5234443
+    ]
+  },
+  "properties": {
+    "id": 7769032129,
+    "addr:housenumber": "22",
+    "addr:street": "Rue de l'Ale",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "diet:vegetarian": "yes",
+    "email": "info@lelevant.ch",
+    "indoor_seating": "yes",
+    "name": "Le Levant",
+    "opening_hours": "Mo-Sa 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 683 01 01",
+    "takeaway": "yes",
+    "website": "https://lelevant.ch/le-levant-lausanne/",
+    "website:menu": "https://lelevant.ch/le-levant-lausanne/",
+    "wheelchair": "yes"
+  },
+  "id": 7769032129
+}

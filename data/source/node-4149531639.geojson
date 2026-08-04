@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3797378,
+      47.4247874
+    ]
+  },
+  "properties": {
+    "id": 4149531639,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "25",
+    "addr:postcode": "9000",
+    "addr:street": "Burggraben",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/pizzeriaspisertor",
+    "cuisine": "italian;pizza",
+    "name": "Pizzeria La Piccola",
+    "opening_hours": "Mo-Tu 10:00-14:00; We-Fr 10:00-14:00,17:00-22:40; Sa-Su 10:00-22:40",
+    "phone": "+41 71 223 41 41",
+    "takeaway": "only",
+    "website": "https://www.pizzeria-la-piccola.ch/"
+  },
+  "id": 4149531639
+}

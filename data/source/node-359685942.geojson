@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.727246,
+      47.5003358
+    ]
+  },
+  "properties": {
+    "id": 359685942,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:street": "Stadthausstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-06-29",
+    "cuisine": "regional",
+    "name": "Strauss",
+    "opening_hours": "Mo-Sa 10:00-24:00",
+    "phone": "+41 52 212 29 70",
+    "website": "https://www.strauss-winterthur.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 359685942
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7824487,
+      46.5682156
+    ]
+  },
+  "properties": {
+    "id": 1259388164,
+    "alt_name": "Cheval Blanc Servion",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Auberge du Cheval-Blanc",
+    "opening_hours": "Mo-We 08:00-14:30; Th,Fr,Sa 08:00-14:30,17:00-23:00; Su 08:00-15:00,17:30-22:00; PH 08:00-15:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://cheval-blanc-servion.ch/"
+  },
+  "id": 1259388164
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6318266,
+      46.5243323
+    ]
+  },
+  "properties": {
+    "id": 1263305516,
+    "addr:housenumber": "14",
+    "addr:postcode": "1003",
+    "addr:street": "Rue du Valentin",
+    "amenity": "restaurant",
+    "cuisine": "ethiopian",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Abyssinia",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "phone": "+41 21 311 49 07",
+    "website": "https://www.abyssinia.ch/"
+  },
+  "id": 1263305516
+}

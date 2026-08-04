@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5905079,
+      47.570532
+    ]
+  },
+  "properties": {
+    "id": 7747207685,
+    "addr:city": "Basel",
+    "addr:housenumber": "174",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "indoor_seating": "yes",
+    "name": "Drei Rosen",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "outdoor_seating": "no",
+    "smoking": "separated",
+    "website": "http://www.restaurantdreirosen.com/"
+  },
+  "id": 7747207685
+}

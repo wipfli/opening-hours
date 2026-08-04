@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1419457,
+      46.1836017
+    ]
+  },
+  "properties": {
+    "id": 11807393429,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Pakupaku",
+    "opening_hours": "Tu-Sa 12:00-14:00, 19:00-22:30",
+    "website": "https://misuji.ch/pakupaku"
+  },
+  "id": 11807393429
+}

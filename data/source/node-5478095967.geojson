@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7469555,
+      46.0226486
+    ]
+  },
+  "properties": {
+    "id": 5478095967,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "18",
+    "addr:postcode": "3920",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-05-04",
+    "diet:vegetarian": "no",
+    "name": "China Garden",
+    "opening_hours": "Mo-Su 12:00-14:00,18:00-24:00",
+    "phone": "+41 27 967 53 23",
+    "website": "https://chinagarden-zermatt.ch/"
+  },
+  "id": 5478095967
+}

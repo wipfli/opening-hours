@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.727576,
+      47.3467108
+    ]
+  },
+  "properties": {
+    "id": 269423304,
+    "addr:housenumber": "5",
+    "addr:street": "Aathalstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-26",
+    "cuisine": "chinese",
+    "indoor_seating": "yes",
+    "name": "Turandot",
+    "old_name": "Sonne",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-23:00; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 941 50 11",
+    "toilets:wheelchair": "no",
+    "website": "https://www.taverna-poseidon.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 269423304
+}

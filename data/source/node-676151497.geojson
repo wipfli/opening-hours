@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8752961,
+      46.9714394
+    ]
+  },
+  "properties": {
+    "id": 676151497,
+    "addr:city": "Hauvernier",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "2012",
+    "addr:street": "Place des Perchettes",
+    "amenity": "restaurant",
+    "name": "Croquignolet",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-17:30",
+    "website": "https://www.lecroquignolet.com/"
+  },
+  "id": 676151497
+}

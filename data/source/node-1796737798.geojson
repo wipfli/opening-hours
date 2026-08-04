@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.069539,
+      47.038059
+    ]
+  },
+  "properties": {
+    "id": 1796737798,
+    "addr:housenumber": "15",
+    "addr:postcode": "8750",
+    "addr:street": "Abl\u00e4schstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pizzeria Steinbock",
+    "opening_hours": "Mo-Tu, Th-Fr 10:00-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
+    "phone": "+41 55 640 23 07",
+    "website": "https://pizzeria-steinbock-glarus.ch/"
+  },
+  "id": 1796737798
+}

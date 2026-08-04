@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1259842,
+      46.1750202
+    ]
+  },
+  "properties": {
+    "id": 1927574909,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "un'Opera italiana",
+    "opening_hours": "Tu-Fr 12:00-14:30, 19:00-22:00; Sa 19:00-22:30; Su 19:00-22:00",
+    "phone": "+41 22 794 70 40",
+    "website": "https://unoperaitaliana.com"
+  },
+  "id": 1927574909
+}

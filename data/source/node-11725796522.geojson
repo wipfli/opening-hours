@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7155047,
+      47.4935234
+    ]
+  },
+  "properties": {
+    "id": 11725796522,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "level": "0",
+    "name": "Ristorante La Rosa",
+    "note": "Pasta e pi\u00f9 was here before",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa 16:00-23:00; Su 11:00-17:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.ristorante-larosa.ch/"
+  },
+  "id": 11725796522
+}

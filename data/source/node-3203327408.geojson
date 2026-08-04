@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4743173,
+      47.3929144
+    ]
+  },
+  "properties": {
+    "id": 3203327408,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "811",
+    "addr:postcode": "8048",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Tam Nan Siam Thai Restaurant",
+    "opening_hours": "Mo-Fr 11:00-14:30, Tu-Sa 17:00-22:00, Su 12:00-22:00",
+    "phone": "+41 44 441 04 96",
+    "website": "https://www.tam-nan-siam-thai-restaurant.ch/"
+  },
+  "id": 3203327408
+}

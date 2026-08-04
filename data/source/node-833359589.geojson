@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7458343,
+      46.799685
+    ]
+  },
+  "properties": {
+    "id": 833359589,
+    "addr:city": "Yvonand",
+    "addr:housenumber": "14",
+    "addr:postcode": "1462",
+    "addr:street": "Grand'Rue",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "diet:seasonal": "yes",
+    "name": "H\u00f4tel de Ville",
+    "opening_hours": "Tu-Su 10:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 430 11 51",
+    "website": "https://hoteldeville-yvonand.ch/"
+  },
+  "id": 833359589
+}

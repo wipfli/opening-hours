@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6348837,
+      47.5911746
+    ]
+  },
+  "properties": {
+    "id": 1072408491,
+    "addr:city": "Weil am Rhein",
+    "addr:housenumber": "9",
+    "addr:postcode": "79576",
+    "addr:street": "Eisenbahnstra\u00dfe",
+    "amenity": "restaurant",
+    "cuisine": "regional;german",
+    "email": "hansrudik@aol.com",
+    "fax": "+49 7621 1671145",
+    "name": "Chl\u00e4bi",
+    "opening_hours": "Tu 16:00+; We-Su 10:30-14:00, 17:00+",
+    "phone": "+49 7621 1671144",
+    "website": "http://www.chl\u00e4bi.de",
+    "wheelchair": "no"
+  },
+  "id": 1072408491
+}

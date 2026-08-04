@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8218411,
+      47.1006859
+    ]
+  },
+  "properties": {
+    "id": 13596259601,
+    "addr:housenumber": "107",
+    "addr:postcode": "2300",
+    "addr:street": "Rue Numa-Droz",
+    "amenity": "restaurant",
+    "cuisine": "arab;lebanese",
+    "email": "lesdelicesduliban.ch@gmail.com",
+    "name": "Les D\u00e9lices du Liban",
+    "opening_hours": "Tu-Su 11:00-14:30, 18:00-22:00",
+    "phone": "+41 32 525 22 88",
+    "website": "https://lesdelicesduliban.ch/"
+  },
+  "id": 13596259601
+}

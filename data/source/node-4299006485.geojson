@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6088422,
+      47.4136671
+    ]
+  },
+  "properties": {
+    "id": 4299006485,
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "26",
+    "addr:postcode": "8304",
+    "addr:street": "Zielackerstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Liga",
+    "opening_hours": "Tu-Th 11:00-22:00, Fr 11:00-02:00, Sa 10:00-02:00, Su 10:00-22:00; Mo off",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.liga-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4299006485
+}

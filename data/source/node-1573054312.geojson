@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3049239,
+      47.0497108
+    ]
+  },
+  "properties": {
+    "id": 1573054312,
+    "amenity": "restaurant",
+    "attraction:ref": "10",
+    "cuisine": "italian",
+    "ele": "458",
+    "name": "Pastarazzi",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa 11:00-22:30; PH,Su off",
+    "phone": "+41 41 211 10 20",
+    "sightseeing:attraction": "Barf\u00fchrer",
+    "takeaway": "yes",
+    "website": "https://www.pastarazzi.ch/"
+  },
+  "id": 1573054312
+}

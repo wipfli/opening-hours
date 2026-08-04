@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5807685,
+      47.4527421
+    ]
+  },
+  "properties": {
+    "id": 2399627234,
+    "addr:city": "Kloten",
+    "addr:housenumber": "9",
+    "addr:postcode": "8302",
+    "addr:street": "Gerbegasse",
+    "amenity": "restaurant",
+    "cuisine": "steak",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Rolli's Steakhouse",
+    "opening_hours": "Mo-Fr 08:30-23:45; Sa 17:00-23:45",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00,17:30-22:00; Sa 17:00-22:00",
+    "phone": "+41 44 814 27 74",
+    "toilets:wheelchair": "no",
+    "website": "https://www.rollis-steakhouse.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2399627234
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3114812,
+      47.0448222
+    ]
+  },
+  "properties": {
+    "id": 9998231839,
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Asociaci\u00f3n de Inv\u00e1lidos y Pensionistas Espa\u00f1oles de Lucerna",
+    "opening_hours": "Fr 11:00-24:00; Sa 12:15-24:00; Su 09:00-22:00",
+    "phone": "+41 41 534 96 90",
+    "toilets": "yes",
+    "website": "https://www.aipel.ch/index.php/sobrenosotros/historiadeaipel"
+  },
+  "id": 9998231839
+}

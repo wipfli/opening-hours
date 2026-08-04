@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5716504,
+      47.5448366
+    ]
+  },
+  "properties": {
+    "id": 1855733118,
+    "addr:city": "Basel",
+    "addr:housenumber": "61",
+    "addr:postcode": "4054",
+    "addr:street": "Holeestrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Pizzeria Dorenbach",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 301 2631",
+    "smoking": "outside",
+    "website": "http://www.restaurant-dorenbach.com/"
+  },
+  "id": 1855733118
+}

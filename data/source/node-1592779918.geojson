@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9717931,
+      47.4778887
+    ]
+  },
+  "properties": {
+    "id": 1592779918,
+    "amenity": "restaurant",
+    "cuisine": "greek;regional",
+    "diet:vegetarian": "yes",
+    "email": "info@krone-wittnau.ch",
+    "fax": "+41 62 871 01 09",
+    "name": "Krone",
+    "opening_hours": "Tu-Sa 09:00-24:00; Su 10:00-19:00",
+    "operator": "Michael Schmid",
+    "phone": "+41 62 871 12 22",
+    "website": "https://www.krone-wittnau.ch/"
+  },
+  "id": 1592779918
+}

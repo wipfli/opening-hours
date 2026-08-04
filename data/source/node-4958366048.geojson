@@ -1,8 +1,16 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5220138,
+      47.3632257
+    ]
+  },
   "properties": {
-    "@id": "node/4958366048",
+    "id": 4958366048,
     "amenity": "restaurant",
+    "check_date:opening_hours": "2026-07-08",
     "contact:phone": "+41 44 462 01 48",
     "cuisine": "regional",
     "diet:vegetarian": "yes",
@@ -14,12 +22,5 @@
     "website": "http://www.vereinigung-barsol.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5220138,
-      47.3632257
-    ]
-  },
-  "id": "node-4958366048"
+  "id": 4958366048
 }

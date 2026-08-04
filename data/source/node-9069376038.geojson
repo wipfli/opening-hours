@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3036165,
+      46.2166786
+    ]
+  },
+  "properties": {
+    "id": 9069376038,
+    "addr:city": "Conthey",
+    "addr:housenumber": "5",
+    "addr:postcode": "1964",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "name": "Auberge de Conthey",
+    "opening_hours": "Mo-We 07:00-19:00; Th, Fr 07:00-23:00",
+    "phone": "+41273461478",
+    "website": "https://aubergedeconthey.ch/"
+  },
+  "id": 9069376038
+}

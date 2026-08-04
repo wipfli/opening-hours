@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6329685,
+      46.5209843
+    ]
+  },
+  "properties": {
+    "id": 1792784668,
+    "amenity": "restaurant",
+    "capacity": "45",
+    "contact:facebook": "https://www.facebook.com/Le-Cinq-1492510521017392/",
+    "cuisine": "french",
+    "description": "Le Cinq, \u00e9tablissement incontournable perch\u00e9 au dernier \u00e9tage d'un immeuble au c\u0153ur de la ville de Lausanne. Notre restaurant offre 45 places int\u00e9rieures.",
+    "diet:vegetarian": "yes",
+    "email": "info@lecinq.ch",
+    "name": "Le cinq",
+    "opening_hours": "Mo-Fr 12:00-14:00, 19:00-22:00",
+    "phone": "+41 21 312 40 11",
+    "website": "https://www.lecinq.ch/"
+  },
+  "id": 1792784668
+}

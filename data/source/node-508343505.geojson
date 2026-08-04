@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4322271,
+      46.9446901
+    ]
+  },
+  "properties": {
+    "id": 508343505,
+    "alt_name": "\u00e4ngelibeck Cafeteria und Good Food",
+    "amenity": "restaurant",
+    "contact:addr": "Schwarztorstrasse 48, 3007 Bern",
+    "contact:email": "info@aengelibeck.ch",
+    "contact:phone": "+41 31 3813441",
+    "name": "\u00e4ngelibeck",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa-Su off",
+    "source": "survey and website",
+    "website": "https://www.aengelibeck.ch/"
+  },
+  "id": 508343505
+}

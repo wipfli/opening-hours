@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5123747,
+      47.3622545
+    ]
+  },
   "properties": {
-    "@id": "node/4501493398",
+    "id": 4501493398,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "38",
@@ -18,12 +25,5 @@
     "takeaway": "no",
     "website": "https://www.binz-38.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5123747,
-      47.3622545
-    ]
-  },
-  "id": "node-4501493398"
+  "id": 4501493398
 }

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4398244,
+      46.6995059
+    ]
+  },
+  "properties": {
+    "id": 3062858704,
+    "addr:city": "Thusis",
+    "addr:housenumber": "100",
+    "addr:postcode": "7430",
+    "addr:street": "Neudorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-07-14",
+    "cuisine": "italian;pizza",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Trattoria Bernina",
+    "opening_hours": "Mo-Sa 08:30-22:30; Su 08:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 630 09 44",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://www.pizzeriabernina.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3062858704
+}

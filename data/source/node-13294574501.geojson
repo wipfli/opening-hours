@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9497333,
+      46.2527994
+    ]
+  },
+  "properties": {
+    "id": 13294574501,
+    "addr:street": "Rue du Coppet",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "P'tit Sushi",
+    "opening_hours": "We-Su 11:00-14:00, 16:30-21:00; Tu 16:30-21:00",
+    "website": "https://www.sushi-monthey.ch/"
+  },
+  "id": 13294574501
+}

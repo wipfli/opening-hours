@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.622914,
+      46.5285941
+    ]
+  },
+  "properties": {
+    "id": 10068109426,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "10",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue des Bergi\u00e8res",
+    "amenity": "restaurant",
+    "check_date": "2026-05-21",
+    "cuisine": "brasserie",
+    "facebook": "ristorantequintino",
+    "name": "Le Comptoir de Beaulieu",
+    "opening_hours": "Tu-Sa 11:00-00:00",
+    "phone": "+41 21 646 19 90",
+    "website": "https://www.lecomptoirdebeaulieu.ch/"
+  },
+  "id": 10068109426
+}

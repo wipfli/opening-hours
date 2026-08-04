@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3070569,
+      47.0412775
+    ]
+  },
+  "properties": {
+    "id": 5092854082,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Neubad Bistro",
+    "opening_hours": "Tu, We 09:00-23:00; Th-Sa 09:00-00:30; Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://neubad.org/",
+    "wheelchair": "limited"
+  },
+  "id": 5092854082
+}

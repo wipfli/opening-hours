@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6176288,
+      46.5241664
+    ]
+  },
+  "properties": {
+    "id": 8436183178,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "66",
+    "addr:postcode": "1004",
+    "addr:street": "Rue de Gen\u00e8ve",
+    "amenity": "restaurant",
+    "contact:instagram": "maison66_lausanne",
+    "cuisine": "french",
+    "email": "info@maison66.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": ":Maison66",
+    "opening_hours": "Tu-Fr 11:00-14:00, 18:00-22:00; Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 76 292 52 84",
+    "website": "https://maison66.ch",
+    "website:menu": "https://www.maison66.ch/_files/ugd/7f75ec_d7991d6b1da74bf6b6e83beb2b9a16c1.pdf"
+  },
+  "id": 8436183178
+}

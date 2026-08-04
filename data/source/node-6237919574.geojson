@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4933244,
+      46.8965256
+    ]
+  },
+  "properties": {
+    "id": 6237919574,
+    "addr:city": "Belp",
+    "addr:housenumber": "28",
+    "addr:postcode": "3123",
+    "addr:street": "Steinbachstrasse",
+    "alt_name": "Migros Restaurant Belp",
+    "amenity": "restaurant",
+    "branch": "Belp",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-belp"
+  },
+  "id": 6237919574
+}

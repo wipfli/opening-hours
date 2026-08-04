@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8308407,
+      47.2617452
+    ]
+  },
+  "properties": {
+    "id": 279573363,
+    "amenity": "restaurant",
+    "cuisine": "asian;european",
+    "email": "info@tsgreeninn.ch",
+    "name": "TS Green Inn",
+    "opening_hours": "Su-Th 08:30-22:00; Fr-Sa 08:30-00:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 263 13 43",
+    "website": "https://tsgreeninn.ch/",
+    "website:menu": "https://tsgreeninn.ch/menu/"
+  },
+  "id": 279573363
+}

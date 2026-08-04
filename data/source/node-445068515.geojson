@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3781219,
+      47.4253443
+    ]
+  },
+  "properties": {
+    "id": 445068515,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "9000",
+    "addr:street": "Br\u00fchlgasse",
+    "amenity": "restaurant",
+    "capacity": "60",
+    "cuisine": "regional",
+    "name": "Fondue-Beizli (Neueck)",
+    "opening_hours": "Tu-Fr 11:00-14:00, 17:00-00:00; Sa 11:00-00:00",
+    "phone": "+41 71 222 43 44",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://fonduebeizli.ch/"
+  },
+  "id": 445068515
+}

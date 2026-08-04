@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2399951,
+      47.1262928
+    ]
+  },
+  "properties": {
+    "id": 2196627419,
+    "addr:city": "Nidau",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "2560",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-05",
+    "contact:email": "stadthaus@stadthausag.ch",
+    "contact:facebook": "http://www.facebook.com/StadthausNidau",
+    "contact:fax": "+41 32 3315172",
+    "contact:phone": "+41 32 3315152",
+    "indoor_seating": "yes",
+    "name": "Stadthaus",
+    "opening_hours": "Mo-Th 07:00-23:00; Fr 07:00-23:30; Sa 08:00-23:30; Su off",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.stadthausag.ch/stadthaus/",
+    "wheelchair": "yes"
+  },
+  "id": 2196627419
+}

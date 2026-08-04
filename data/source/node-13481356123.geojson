@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3805967,
+      47.424462
+    ]
+  },
+  "properties": {
+    "id": 13481356123,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "11",
+    "addr:postcode": "9000",
+    "addr:street": "Linseb\u00fchlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Zorbas",
+    "opening_hours": "Tu-Th 17:00-22:30; Fr-Su 10:00-14:00, 17:00-2:30",
+    "website": "https://www.zorbasthegreekproject.ch/"
+  },
+  "id": 13481356123
+}

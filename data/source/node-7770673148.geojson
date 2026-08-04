@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.502747,
+      47.0001435
+    ]
+  },
+  "properties": {
+    "id": 7770673148,
+    "amenity": "restaurant",
+    "name": "Namun",
+    "opening_hours": "Tu-Sa 18:00-22:00",
+    "phone": "+41 81 303 30 35",
+    "website": "https://www.resortragaz.ch/de/restaurants-und-bars/namun"
+  },
+  "id": 7770673148
+}

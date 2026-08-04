@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3725787,
+      46.9438908
+    ]
+  },
+  "properties": {
+    "id": 9482332062,
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "level": "0",
+    "level:ref": "-1",
+    "name": "Tres Amigos",
+    "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:30",
+    "outdoor_seating": "no",
+    "phone": "+41 31 998 22 22",
+    "takeaway": "yes",
+    "website": "https://www.tresamigos.ch/de/p/standorte/bern-1106.html",
+    "wheelchair": "yes"
+  },
+  "id": 9482332062
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5301807,
+      47.383294
+    ]
+  },
   "properties": {
-    "@id": "node/1978573308",
+    "id": 1978573308,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "215",
@@ -12,15 +19,8 @@
     "cuisine": "italian",
     "name": "Cinque",
     "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-24:00",
-    "website": "http://www.restaurant-cinque.ch",
+    "website": "https://www.restaurant-cinque.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5301807,
-      47.383294
-    ]
-  },
-  "id": "node-1978573308"
+  "id": 1978573308
 }

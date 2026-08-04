@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4470493,
+      46.955392
+    ]
+  },
+  "properties": {
+    "id": 8651603412,
+    "amenity": "restaurant",
+    "check_date": "2025-06-09",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Celina",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-23:00; Su 11:30-14:00,17:30-22:00",
+    "takeaway": "yes",
+    "website": "https://www.celinabern.ch/"
+  },
+  "id": 8651603412
+}

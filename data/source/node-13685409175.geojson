@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5292497,
+      47.3757121
+    ]
+  },
+  "properties": {
+    "id": 13685409175,
+    "addr:floor": "O",
+    "addr:housenumber": "62",
+    "addr:street": "Rotwandstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-27",
+    "email": "info@shokudo.ch",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Shokudo Izakaya",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-22:00; Su off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 322 00 53",
+    "website": "https://shokudo.ch",
+    "wheelchair": "limited"
+  },
+  "id": 13685409175
+}

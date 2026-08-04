@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4472144,
+      47.2763553
+    ]
+  },
+  "properties": {
+    "id": 5653321241,
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "check_date": "2023-05-20",
+    "cuisine": "pizza;regional;gart",
+    "name": "Restaurant & Pizzeria L\u00f6wen",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-22:00",
+    "website": "https://www.pizzerialoewen.ch/"
+  },
+  "id": 5653321241
+}

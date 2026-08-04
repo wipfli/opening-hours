@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3391224,
+      47.4031281
+    ]
+  },
+  "properties": {
+    "id": 3855460826,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "94",
+    "addr:postcode": "9014",
+    "addr:street": "Haggenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Schl\u00f6ssli Haggen",
+    "opening_hours": "We-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.schl\u00f6ssli-haggen.ch/"
+  },
+  "id": 3855460826
+}

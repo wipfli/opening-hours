@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5377071,
+      47.4092114
+    ]
+  },
+  "properties": {
+    "id": 2355693108,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "120",
+    "addr:postcode": "8050",
+    "addr:street": "Birchstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-04",
+    "cuisine": "pizza;kebab",
+    "diet:vegetarian": "yes",
+    "entrance": "yes",
+    "indoor_seating": "yes",
+    "name": "Lemon",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41443103814",
+    "website": "http://www.pizzalemon.ch/"
+  },
+  "id": 2355693108
+}

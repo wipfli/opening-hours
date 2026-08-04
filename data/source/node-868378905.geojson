@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.160422,
+      47.3464911
+    ]
+  },
+  "properties": {
+    "id": 868378905,
+    "amenity": "restaurant",
+    "check_date": "2025-08-06",
+    "name": "Unterdorf",
+    "opening_hours": "Mo-We 08:30-14:00; Th 08:30-19:00; Fr 08:30-22:30; Sa 08:30-15:00; Su off",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurant-unterdorf-seon.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 868378905
+}

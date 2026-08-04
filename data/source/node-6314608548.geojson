@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2672334,
+      46.3852403
+    ]
+  },
+  "properties": {
+    "id": 6314608548,
+    "amenity": "restaurant",
+    "contact:city": "Gsteig bei Gstaad",
+    "contact:country": "CH",
+    "contact:facebook": "https://www.facebook.com/restaurantbaerengsteig/",
+    "contact:housenumber": "1",
+    "contact:postcode": "3785",
+    "contact:street": "Gsteigstrasse",
+    "cuisine": "regional",
+    "email": "info@baeren-gsteig.ch",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Th 09:00-22:30; Fr,Sa 09:00-23:00; Su 10:00-22:00",
+    "phone": "+41 33 755 10 33",
+    "tourism": "hotel",
+    "website": "https://www.b\u00e4ren-gsteig.ch/restaurant"
+  },
+  "id": 6314608548
+}

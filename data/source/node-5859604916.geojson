@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3423911,
+      47.5227692
+    ]
+  },
+  "properties": {
+    "id": 5859604916,
+    "addr:city": "Steinebrunn",
+    "addr:place": "Mausacker",
+    "addr:postcode": "9314",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Mausacker Biohof-Beiz",
+    "opening_hours": "16:00+",
+    "website": "https://www.mausacker.ch/"
+  },
+  "id": 5859604916
+}

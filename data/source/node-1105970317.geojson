@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2530817,
+      47.1189676
+    ]
+  },
+  "properties": {
+    "id": 1105970317,
+    "addr:city": "Port",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "2562",
+    "addr:street": "Allmendstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 32 3315655",
+    "cuisine": "regional",
+    "name": "Romantica",
+    "opening_hours": "Mo-Su 08:00-23:30",
+    "website": "https://www.restaurant-romantica-port.ch"
+  },
+  "id": 1105970317
+}

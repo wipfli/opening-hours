@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5822564,
+      47.5535627
+    ]
+  },
+  "properties": {
+    "id": 5092178833,
+    "addr:city": "Basel",
+    "addr:housenumber": "41",
+    "addr:postcode": "4051",
+    "addr:street": "Leimenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "delivery": "yes",
+    "diet:chicken": "yes",
+    "diet:fish": "yes",
+    "diet:meat": "yes",
+    "diet:seafood": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Tuk Tuk",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa 17:30-22:30; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 554 20 56",
+    "smoking": "outside",
+    "website": "https://www.tuktuk-thaikitchen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5092178833
+}

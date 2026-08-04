@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2547438,
+      47.1466758
+    ]
+  },
+  "properties": {
+    "id": 4365115968,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "21",
+    "addr:postcode": "2502",
+    "addr:street": "Rue de Boujean / B\u00f6zingenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-03",
+    "cuisine": "italian;pizza;pasta",
+    "name": "L'Arancino",
+    "opening_hours": "We-Su 17:00-22:00",
+    "phone": "+41 32 533 04 93",
+    "website": "https://l-arancino.ch/"
+  },
+  "id": 4365115968
+}

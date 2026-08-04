@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3392941,
+      46.8179626
+    ]
+  },
+  "properties": {
+    "id": 5926722181,
+    "addr:city": "Schwarzenburg",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "3150",
+    "addr:street": "Freiburgstrasse",
+    "amenity": "restaurant",
+    "name": "Siedi",
+    "opening_hours": "Mo-Su 08:30-23:30",
+    "phone": "+41 31 731 01 95",
+    "website": "https://www.restaurant-schwarzenburg.ch"
+  },
+  "id": 5926722181
+}

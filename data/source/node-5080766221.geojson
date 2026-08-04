@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1858025,
+      46.7278078
+    ]
+  },
+  "properties": {
+    "id": 5080766221,
+    "addr:housenumber": "10",
+    "addr:postcode": "3860",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Leone",
+    "opening_hours": "Mo-Sa 17:30-22:00, We-Sa 11:30-14:00",
+    "phone": "+41 33 820 87 93",
+    "website": "https://raleone.ch"
+  },
+  "id": 5080766221
+}

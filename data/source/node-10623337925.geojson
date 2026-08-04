@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6319323,
+      46.7872447
+    ]
+  },
+  "properties": {
+    "id": 10623337925,
+    "amenity": "restaurant",
+    "name": "La Pile",
+    "opening_hours": "Mo-Fr 10:00-22:30; Sa,Su 09:30-20:00",
+    "website": "https://lapile.ch/restaurant/"
+  },
+  "id": 10623337925
+}

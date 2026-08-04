@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4178622,
+      47.5667347
+    ]
+  },
+  "properties": {
+    "id": 2701190954,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "hotel.kreuz.kaiserstuhl@bluewin.ch",
+    "name": "Kreuz",
+    "opening_hours": "Tu-Sa 08:00-24:00; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 858 22 06",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.hotel-kreuz-kaiserstuhl.ch/"
+  },
+  "id": 2701190954
+}

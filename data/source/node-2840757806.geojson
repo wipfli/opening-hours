@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5748136,
+      47.5568738
+    ]
+  },
+  "properties": {
+    "id": 2840757806,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "4055",
+    "addr:street": "Friedrichstrasse",
+    "amenity": "restaurant",
+    "cuisine": "peruvian",
+    "diet:vegetarian": "yes",
+    "email": "lima31basel@gmail.com",
+    "indoor_seating": "yes",
+    "name": "Lima 31",
+    "opening_hours": "We-Th 18:00-22:00; Fr-Sa 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41613019191",
+    "smoking": "outside",
+    "website": "https://lima31.com/"
+  },
+  "id": 2840757806
+}

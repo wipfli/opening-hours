@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4049245,
+      46.8545596
+    ]
+  },
+  "properties": {
+    "id": 2506781542,
+    "addr:city": "Oberbalm",
+    "addr:country": "CH",
+    "addr:hamlet": "Borisried",
+    "addr:housenumber": "212",
+    "addr:postcode": "3096",
+    "addr:street": "Borisried",
+    "amenity": "restaurant",
+    "contact:phone": "+41 31 8490164",
+    "contact:website": "http://wirtschaft-borisried.ch/reservation-und-anfragen/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Wirtschaft Borisried",
+    "opening_hours": "Mo-Tu off; We-Su 09:00-23:00",
+    "operator": "Jacqueline Wirz & Martin Kreisl",
+    "source": "survey and website",
+    "website": "http://www.wirtschaft-borisried.ch"
+  },
+  "id": 2506781542
+}

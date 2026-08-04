@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6850384,
+      47.4576482
+    ]
+  },
+  "properties": {
+    "id": 2214597372,
+    "addr:city": "Winterberg ZH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8312",
+    "addr:street": "Kleinikon",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@golf-winterberg.ch",
+    "name": "Winterberg",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+41 52 345 00 18",
+    "website": "https://www.golf-winterberg.ch/restaurant-events/restaurant/index.html",
+    "wheelchair": "yes"
+  },
+  "id": 2214597372
+}

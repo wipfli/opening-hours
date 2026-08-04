@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1648236,
+      47.610128
+    ]
+  },
+  "properties": {
+    "id": 4171946487,
+    "amenity": "restaurant",
+    "name": "Sonnenhof",
+    "opening_hours": "Tu-Fr 08:30+; Sa 10:00+",
+    "website": "https://www.sonnenhof-wirth.ch/"
+  },
+  "id": 4171946487
+}

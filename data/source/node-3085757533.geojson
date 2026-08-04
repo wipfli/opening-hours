@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5364144,
+      47.374868
+    ]
+  },
   "properties": {
-    "@id": "node/3085757533",
+    "id": 3085757533,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "34",
@@ -12,18 +19,11 @@
     "email": "koenig@loeweneck.com",
     "indoor_seating": "yes",
     "name": "L\u00f6weneck",
-    "opening_hours": "Mo off; Tu-Fr 11:30-14:30, 17:00-23:00; Sa 12:00-24:00; Su off",
+    "opening_hours": "Tu-Fr 11:30-23:00; Sa 17:00-23:30; Mo off; Su off",
     "outdoor_seating": "yes",
     "phone": "+41 44 577 68 00",
     "website": "https://loeweneck.com/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5364144,
-      47.374868
-    ]
-  },
-  "id": "node-3085757533"
+  "id": 3085757533
 }

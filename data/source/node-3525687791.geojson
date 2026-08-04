@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6467006,
+      47.2492144
+    ]
+  },
+  "properties": {
+    "id": 3525687791,
+    "addr:postcode": "8804",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "baby_feeding": "no",
+    "bar": "yes",
+    "changing_table": "no",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "highchair": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "kids_area": "no",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "Landgasthof Halbinsel Au",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 782 01 01",
+    "reservation": "yes",
+    "self_service": "no",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "yes",
+    "website": "https://halbinselau.com",
+    "wheelchair": "yes"
+  },
+  "id": 3525687791
+}

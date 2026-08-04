@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1379326,
+      46.7567372
+    ]
+  },
+  "properties": {
+    "id": 6784369482,
+    "addr:city": "Br\u00fcnig",
+    "addr:country": "CH",
+    "addr:housenumber": "646",
+    "addr:place": "Br\u00fcnig",
+    "addr:postcode": "3860",
+    "amenity": "restaurant",
+    "name": "Waldegg",
+    "opening_hours": "Mo-Su 7:00-20:00",
+    "opening_hours:covid19": "Mo-Su 8:00-17:00",
+    "phone": "+41 33 971 11 33",
+    "website": "https://www.bruenigpass.ch/"
+  },
+  "id": 6784369482
+}

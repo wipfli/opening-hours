@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1867486,
+      47.6495669
+    ]
+  },
+  "properties": {
+    "id": 1599295276,
+    "addr:city": "Kreuzlingen",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8280",
+    "addr:street": "Seeweg",
+    "amenity": "restaurant",
+    "check_date": "2026-07-14",
+    "name": "Seeburg Restaurant",
+    "opening_hours": "Jul,Aug: Tu-Su 10:00+; Sep-Jun: We-Su 10:00+; PH 10:00+",
+    "phone": "+41 71 688 47 75",
+    "website": "https://schloss-seeburg.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1599295276
+}

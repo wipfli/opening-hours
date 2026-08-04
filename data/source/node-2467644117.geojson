@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3425323,
+      47.4944703
+    ]
+  },
+  "properties": {
+    "id": 2467644117,
+    "addr:city": "H\u00e4ggenschwil",
+    "addr:housenumber": "5",
+    "addr:postcode": "9312",
+    "addr:street": "Unterdorf",
+    "amenity": "restaurant",
+    "email": "info@kulturimbaeren.ch",
+    "name": "Kultur im B\u00e4ren",
+    "opening_hours": "\"bei Veranstaltungen\"",
+    "phone": "+41 76 510 51 05",
+    "website": "https://www.kulturimbaeren.ch",
+    "wheelchair": "no"
+  },
+  "id": 2467644117
+}

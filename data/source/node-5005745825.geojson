@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8557368,
+      46.7065467
+    ]
+  },
+  "properties": {
+    "id": 5005745825,
+    "addr:city": "Disentis/Must\u00e9r",
+    "addr:postcode": "7180",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Stiva St. Placi",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "operator": "Benediktinerkloster Disentis",
+    "website": "https://www.hotel-kloster.ch"
+  },
+  "id": 5005745825
+}

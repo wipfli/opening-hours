@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4983437,
+      47.377552
+    ]
+  },
+  "properties": {
+    "id": 311180610,
+    "amenity": "restaurant",
+    "cuisine": "european",
+    "email": "hallo@huberta.ch",
+    "indoor_seating": "yes",
+    "name": "Huberta",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 555 86 92",
+    "website": "https://www.huberta.ch/",
+    "wheelchair": "no"
+  },
+  "id": 311180610
+}

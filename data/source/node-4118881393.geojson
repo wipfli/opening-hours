@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4745881,
+      47.4372844
+    ]
+  },
+  "properties": {
+    "id": 4118881393,
+    "addr:housenumber": "2",
+    "addr:street": "Feldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-23",
+    "cuisine": "italian;pizza",
+    "internet_access": "wlan",
+    "name": "Valentina Pasta e Pizza",
+    "opening_hours": "Mo-Sa 09:00-23:00; Su 17:00-23:00",
+    "phone": "+41 44 511 10 00",
+    "toilets:wheelchair": "yes",
+    "website": "https://pastaepizza.ch/index.php/regensdorf",
+    "wheelchair": "yes"
+  },
+  "id": 4118881393
+}

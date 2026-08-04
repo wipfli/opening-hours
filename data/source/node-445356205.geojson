@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3754467,
+      47.4256989
+    ]
+  },
+  "properties": {
+    "id": 445356205,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Neugasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Marktplatz",
+    "opening_hours": "Mo-Th 09:00-22:30, Fr,Sa 08:30-24:00, Su 10:30-21:30",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 71 222 36 41",
+    "smoking": "isolated",
+    "website": "https://restaurant-marktplatz.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 445356205
+}

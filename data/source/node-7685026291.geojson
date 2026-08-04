@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7202505,
+      47.498982
+    ]
+  },
+  "properties": {
+    "id": 7685026291,
+    "alt_name": "Migros Restaurant Neuwiesen",
+    "amenity": "restaurant",
+    "branch": "Winterthur Neuwiesen",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "2",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-winterthur-neuwiesen"
+  },
+  "id": 7685026291
+}

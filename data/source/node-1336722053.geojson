@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.448264,
+      46.9475899
+    ]
+  },
+  "properties": {
+    "id": 1336722053,
+    "amenity": "restaurant",
+    "check_date": "2025-07-20",
+    "contact:addr": "Hotelgasse 3, 3011 Bern",
+    "contact:email": "harmonie@harmonie.ch",
+    "contact:fax": "+41 31 3131140",
+    "contact:phone": "+41 31 3131141",
+    "cuisine": "regional",
+    "name": "Harmonie",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa-Su off; PH off",
+    "source": "survey and website",
+    "website": "http://www.harmonie.ch"
+  },
+  "id": 1336722053
+}

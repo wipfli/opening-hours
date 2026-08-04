@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5804947,
+      47.5426544
+    ]
+  },
+  "properties": {
+    "id": 13910633801,
+    "addr:city": "Binningen",
+    "addr:postcode": "4102",
+    "addr:street": "St. Margarethengut",
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "cuisine": "brunch;regional",
+    "email": "info@schaellenursli.ch",
+    "name": "Sch\u00e4llenursli",
+    "opening_hours": "We-Sa 18:30-23:00; Su 10:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 564 66 77",
+    "website": "https://schaellenursli.ch"
+  },
+  "id": 13910633801
+}

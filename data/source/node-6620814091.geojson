@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.276791,
+      46.4171864
+    ]
+  },
+  "properties": {
+    "id": 6620814091,
+    "addr:city": "Gland",
+    "addr:housenumber": "25",
+    "addr:postcode": "1196",
+    "addr:street": "Rue Mauverney",
+    "amenity": "restaurant",
+    "email": "info@balthasar-grill.ch",
+    "name": "Balthasar",
+    "opening_hours": "Tu-Sa 11:00-23:00",
+    "phone": "+41 22 364 50 50",
+    "reservation": "yes",
+    "smoking": "outside",
+    "website": "https://www.balthasar-grill.ch/"
+  },
+  "id": 6620814091
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7458228,
+      47.027517
+    ]
+  },
+  "properties": {
+    "id": 571252488,
+    "addr:city": "Sumiswald",
+    "addr:housenumber": "1",
+    "addr:postcode": "3454",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Landgasthof B\u00e4ren",
+    "opening_hours": "We,Th 07:00-23:30, Fr 07:00-00:30, Sa 08:00-00:30, Su 08:00-22:00",
+    "phone": "+41 34 431 10 22",
+    "tourism": "hotel",
+    "website": "https://www.baeren-sumiswald.ch/home",
+    "wheelchair": "yes",
+    "wikidata": "Q19362712"
+  },
+  "id": 571252488
+}

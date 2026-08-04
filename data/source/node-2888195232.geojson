@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.954157,
+      47.6180835
+    ]
+  },
+  "properties": {
+    "id": 2888195232,
+    "addr:city": "Dettighofen",
+    "addr:housenumber": "111",
+    "addr:postcode": "8505",
+    "addr:street": "Steckbornstrasse",
+    "amenity": "restaurant",
+    "name": "Linde",
+    "opening_hours": "Tu-Fr 08:30-11:00",
+    "phone": "+41 52 765 17 19",
+    "tourism": "hotel",
+    "website": "https://www.linde-dettighofen.ch/"
+  },
+  "id": 2888195232
+}

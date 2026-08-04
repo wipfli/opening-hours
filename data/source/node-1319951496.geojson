@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6347858,
+      46.5215978
+    ]
+  },
+  "properties": {
+    "id": 1319951496,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Mercerie",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "savory_pancakes;crepe;pancake;french",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Cr\u00eaperie la Chandeleur",
+    "opening_hours": "Tu-Th 11:30-23:00; Fr, Sa 11:30-23:30",
+    "outdoor_seating": "terrace",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 312 84 19",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lachandeleur.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1319951496
+}

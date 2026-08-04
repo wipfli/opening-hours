@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4602658,
+      46.9987297
+    ]
+  },
+  "properties": {
+    "id": 11811027322,
+    "amenity": "restaurant",
+    "description": "\u00d6ffentliches Restaurant und Caf\u00e8 im Altersheim Senevita Bernerrose",
+    "email": "bernerrose@senevita.ch",
+    "name": "B\u00e4rner Rose",
+    "opening_hours": "09:00-18:00",
+    "phone": "+41 31 910 26 44",
+    "website": "https://www.senevita.ch/de/standorte/betreutes-wohnen-bernerrose-zollikofen/gastronomie/"
+  },
+  "id": 11811027322
+}

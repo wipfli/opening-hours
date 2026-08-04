@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7362894,
+      47.2446004
+    ]
+  },
+  "properties": {
+    "id": 5107120482,
+    "amenity": "restaurant",
+    "name": "Frohberg",
+    "opening_hours": "Apr-Sep: Mo-Su 11:00-23:00; Oct-Mar: Tu-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 926 15 50",
+    "website": "https://frohberg-staefa.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5107120482
+}

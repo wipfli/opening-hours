@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5985791,
+      46.6210954
+    ]
+  },
+  "properties": {
+    "id": 5070453588,
+    "addr:city": "Bioley-Orjulaz",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1042",
+    "addr:street": "Place du Village",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/diabolicpizzas69/",
+    "contact:instagram": "diabolicpizzas",
+    "cuisine": "pizza;burger;pasta;salad",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Diabol\u00efc Pizzas Rombolotto & Co",
+    "opening_hours": "Mo, Tu, Fr, Sa 10:30-14:00, 17:30-22:00; We 10:30-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 881 69 69",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.diabolicpizzas.ch",
+    "wheelchair": "yes"
+  },
+  "id": 5070453588
+}

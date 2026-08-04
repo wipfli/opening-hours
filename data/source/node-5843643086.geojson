@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1784475,
+      46.7774119
+    ]
+  },
+  "properties": {
+    "id": 5843643086,
+    "amenity": "restaurant",
+    "name": "Stiva Veglia",
+    "opening_hours": "We-Sa 18:00-24:00; Su 11:30-24:00",
+    "operator": "Cornelia & Tino Zimmermann",
+    "phone": "+41 81 925 41 21",
+    "website": "https://stiva-veglia.ch/"
+  },
+  "id": 5843643086
+}

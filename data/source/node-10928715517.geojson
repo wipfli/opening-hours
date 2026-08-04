@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1337609,
+      46.2151479
+    ]
+  },
+  "properties": {
+    "id": 10928715517,
+    "addr:housenumber": "52",
+    "addr:street": "Rue Grand-Pr\u00e9",
+    "amenity": "restaurant",
+    "name": "La Perla",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-22:30; Su 18:30-22:30",
+    "phone": "+41227348480",
+    "website": "https://www.laperlaristorante.ch/"
+  },
+  "id": 10928715517
+}

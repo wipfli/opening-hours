@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3968549,
+      47.4062393
+    ]
+  },
+  "properties": {
+    "id": 11907350523,
+    "addr:city": "Dietikon",
+    "addr:housenumber": "27",
+    "addr:postcode": "8953",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-11",
+    "cuisine": "oriental",
+    "name": "Damaskus",
+    "opening_hours": "Tu-Fr 10:00-22:30; Sa-Su 10:00-23:30",
+    "outdoor_seating": "yes",
+    "shop": "bakery",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://konditorei-damaskus.ch/"
+  },
+  "id": 11907350523
+}

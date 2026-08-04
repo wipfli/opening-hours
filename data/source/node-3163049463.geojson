@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5278588,
+      47.3714815
+    ]
+  },
   "properties": {
-    "@id": "node/3163049463",
+    "id": 3163049463,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "26",
@@ -17,12 +24,5 @@
     "website": "https://mazi-morgarten.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5278588,
-      47.3714815
-    ]
-  },
-  "id": "node-3163049463"
+  "id": 3163049463
 }

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5371777,
+      47.3722044
+    ]
+  },
   "properties": {
-    "@id": "node/286038266",
+    "id": 286038266,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "8",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "phone": "+41 44 221 18 28",
     "website": "https://www.jamesjoyce.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5371777,
-      47.3722044
-    ]
-  },
-  "id": "node-286038266"
+  "id": 286038266
 }

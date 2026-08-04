@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1093133,
+      47.1778909
+    ]
+  },
+  "properties": {
+    "id": 5389700403,
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "name": "Surental",
+    "opening_hours": "Mo-Sa 11:00-22:00",
+    "website": "https://www.restaurant-surenthal.ch"
+  },
+  "id": 5389700403
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6546865,
+      47.2357851
+    ]
+  },
+  "properties": {
+    "id": 10199006341,
+    "addr:housenumber": "3",
+    "addr:street": "St\u00e4dtli",
+    "amenity": "restaurant",
+    "contact:phone": "+41 32 631 12 42",
+    "name": "Rendez-Vous",
+    "opening_hours": "Mo-Fr 09:00-23:00",
+    "source": "Survey",
+    "website": "https://rendezvousrestaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10199006341
+}

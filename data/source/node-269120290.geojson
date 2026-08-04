@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7170431,
+      47.3489562
+    ]
+  },
+  "properties": {
+    "id": 269120290,
+    "addr:city": "Uster",
+    "addr:housenumber": "13",
+    "addr:postcode": "8610",
+    "addr:street": "Poststrasse",
+    "alt_name": "Suan Long Ly Uster",
+    "amenity": "restaurant",
+    "check_date": "2026-06-25",
+    "cuisine": "chinese",
+    "level": "0",
+    "name": "Suan Long",
+    "opening_hours": "Mo-Su,PH 11:00-23:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://suan-long1.ch/"
+  },
+  "id": 269120290
+}

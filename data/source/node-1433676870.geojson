@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9184341,
+      45.9840863
+    ]
+  },
+  "properties": {
+    "id": 1433676870,
+    "addr:city": "Montagnola",
+    "addr:country": "CH",
+    "addr:housenumber": "72",
+    "addr:postcode": "6926",
+    "addr:street": "Via Collina d'Oro",
+    "alt_name": "Bella Vista",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bellevue Bellavista",
+    "opening_hours": "Mo-Sa 17:00-22:00; Su 12:00-14:00,17:00-22:00",
+    "phone": "+41 91 985 89 12",
+    "website": "https://bellevue-bellavista.ch/"
+  },
+  "id": 1433676870
+}

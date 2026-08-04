@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8448095,
+      47.1643808
+    ]
+  },
+  "properties": {
+    "id": 2625179534,
+    "amenity": "restaurant",
+    "contact:addr": "D\u00f6rfli 17,  4919 Reisiswil",
+    "contact:email": "info@traube-reisiswil.ch",
+    "contact:facebook": "https://www.facebook.com/Restaurant-Traube-Reisiswil-109781781265295",
+    "contact:fax": "+41 62 9272579",
+    "contact:phone": "+41 62 9272105",
+    "cuisine": "regional",
+    "name": "Restaurant Traube",
+    "opening_hours": "Mo-Tu off",
+    "website": "https://www.traube-reisiswil.ch"
+  },
+  "id": 2625179534
+}

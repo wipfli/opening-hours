@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3434633,
+      47.0478181
+    ]
+  },
+  "properties": {
+    "id": 626368024,
+    "addr:city": "Luzern",
+    "addr:housenumber": "51",
+    "addr:postcode": "6006",
+    "addr:street": "Seeburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-02-05",
+    "cuisine": "breakfast;dessert",
+    "email": "gastronomie@richemont.swiss",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Richemont Gastronomie & Hotel",
+    "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su 07:30-17:00",
+    "operator": "Richemont Fachschule SBC Stiftung",
+    "phone": "+41 41 375 85 80",
+    "reservation": "yes",
+    "tourism": "hotel",
+    "website": "https://richemont-gastro.ch/"
+  },
+  "id": 626368024
+}

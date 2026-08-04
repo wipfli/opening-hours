@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9218148,
+      47.5495134
+    ]
+  },
+  "properties": {
+    "id": 10699152944,
+    "amenity": "restaurant",
+    "name": "Obholzst\u00fcbli",
+    "opening_hours": "Fr-Sa 10:00-23:00; Su 09:00-21:00",
+    "start_date": "2024-08-09",
+    "toilets:wheelchair": "no",
+    "website": "https://www.obholzstuebli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 10699152944
+}

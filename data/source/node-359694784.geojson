@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7195435,
+      47.5046164
+    ]
+  },
+  "properties": {
+    "id": 359694784,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "41",
+    "addr:postcode": "8400",
+    "addr:street": "Sch\u00fctzenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-07-07",
+    "cuisine": "indian",
+    "email": "info@restaurant-tandoor.ch",
+    "fax": "+41 52 223 04 40",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Tandoor",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-24:00; Sa-Su 18:00-24:00",
+    "phone": "+41 52 222 85 76",
+    "toilets:wheelchair": "no",
+    "website": "http://www.restaurant-tandoor.ch/",
+    "wheelchair": "no"
+  },
+  "id": 359694784
+}

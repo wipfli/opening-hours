@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6740424,
+      46.4946282
+    ]
+  },
+  "properties": {
+    "id": 2403628638,
+    "addr:city": "Kandersteg",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3718",
+    "addr:street": "Aeussere Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "schweizerhofkandersteg@bluewin.ch",
+    "name": "Schweizerhof",
+    "opening_hours": "Mo-Su 10:00-22:00; We off; Th off",
+    "phone": "+41 33 675 22 00",
+    "website": "https://schweizerhofkandersteg.ch"
+  },
+  "id": 2403628638
+}

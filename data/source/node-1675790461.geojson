@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0462045,
+      47.3923862
+    ]
+  },
+  "properties": {
+    "id": 1675790461,
+    "amenity": "restaurant",
+    "check_date": "2026-07-09",
+    "check_date:opening_hours": "2026-07-09",
+    "description": "Das LYSA ist tags\u00fcber Kaffeebar mit Gipfeli, Zimtkn\u00f6pfen sowie s\u00fcssen und salzigen W\u00e4hen. Abends ist es Bar und Tavolata \u2013 mit saisonaler K\u00fcche, auserlesenen Weinen und inspirierenden Events.",
+    "instagram": "https://www.instagram.com/lysaaarau/",
+    "level": "0",
+    "name": "Kaffee LYSA Bar",
+    "opening_hours": "Tu-We 08:30-18:00; Th-Sa 08:30-22:00; Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.byroaarau.ch/lysa",
+    "wheelchair": "limited"
+  },
+  "id": 1675790461
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5399353,
+      47.3957946
+    ]
+  },
+  "properties": {
+    "id": 4958366047,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "113",
+    "addr:postcode": "8057",
+    "addr:street": "Schaffhauserstrasse",
+    "alt_name": "Cucina Milchbuck",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Milchbuck",
+    "check_date": "2025-03-25",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Cucina",
+    "old_name": "Pizzeria da Amici",
+    "opening_hours": "11:30-14:00,17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 361 21 14",
+    "website": "https://www.cucinarestaurant.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4958366047
+}

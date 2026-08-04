@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.030082,
+      46.1882026
+    ]
+  },
+  "properties": {
+    "id": 3256443039,
+    "addr:city": "Bellinzona",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "6500",
+    "addr:street": "Via Sasso Corbaro",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "Osteria Sasso Corbaro",
+    "opening_hours": "Mo off",
+    "opening_hours:covid19": "closed",
+    "phone": "+41 91 825 55 32",
+    "source": "website and survey",
+    "website": "http://www.osteriasassocorbaro.ch"
+  },
+  "id": 3256443039
+}

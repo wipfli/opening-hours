@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2485294,
+      47.4153495
+    ]
+  },
+  "properties": {
+    "id": 2742539974,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Shanghai",
+    "opening_hours": "Tu-Th, Su 11:30-14:00, 18:00-22:00; Fr, Sa 11:30-14:00, 18:00-22:30",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 71 385 08 28",
+    "toilets:wheelchair": "yes",
+    "website": "https://shanghaigossau.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2742539974
+}

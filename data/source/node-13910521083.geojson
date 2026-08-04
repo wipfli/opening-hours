@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5862603,
+      47.5569611
+    ]
+  },
+  "properties": {
+    "id": 13910521083,
+    "addr:city": "Basel",
+    "addr:housenumber": "2",
+    "addr:postcode": "4051",
+    "addr:street": "Schnabelgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Castello Toscana",
+    "opening_hours": "Mo-Sa 11:30-14:30,17:30-22:00; Su 12:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 501 47 57",
+    "website": "https://www.castello-toscana.com/"
+  },
+  "id": 13910521083
+}

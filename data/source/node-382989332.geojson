@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7274275,
+      47.496626
+    ]
+  },
+  "properties": {
+    "id": 382989332,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8400",
+    "addr:street": "B\u00fcelrainstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "level": "0",
+    "name": "Barnabas",
+    "opening_hours": "Tu-Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 212 25 45",
+    "website": "https://barnabaswinti.ch/",
+    "wheelchair": "no"
+  },
+  "id": 382989332
+}

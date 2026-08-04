@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3485371,
+      47.5013318
+    ]
+  },
+  "properties": {
+    "id": 323236495,
+    "addr:city": "Ehrendingen",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "5420",
+    "addr:street": "Unterdorf",
+    "amenity": "restaurant",
+    "email": "info@gasthof-engel.ch",
+    "name": "Engel",
+    "opening_hours": "Mo, Th-Fr 07:30-24:00; Sa 08:00-24:00; Su 08:00-22:00",
+    "phone": "+41 56 222 62 40",
+    "website": "https://www.gasthof-engel.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 323236495
+}

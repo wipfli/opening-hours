@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.927494,
+      46.1082882
+    ]
+  },
+  "properties": {
+    "id": 5747661582,
+    "addr:city": "Saas-Fee",
+    "addr:housenumber": "30",
+    "addr:postcode": "3906",
+    "addr:street": "Untere Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Vieux Chalet",
+    "opening_hours": "Dec-Apr Mo-Su 15:00-23:30; Jun-Jul Th-Sa 11:00-23:30; Aug-Oct Mo-Su 11:00-23:30; Nov-Dec Th-Sa 15:00-23:30",
+    "phone": "+41 27 957 28 92",
+    "website": "https://www.vieux-chalet-saas-fee.ch/"
+  },
+  "id": 5747661582
+}

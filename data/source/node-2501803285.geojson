@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8207491,
+      46.793723
+    ]
+  },
+  "properties": {
+    "id": 2501803285,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "7270",
+    "addr:street": "Promenade",
+    "amenity": "restaurant",
+    "check_date": "2024-07-26",
+    "name": "Stau",
+    "opening_hours": "Mo-Sa 09:00-22:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 81 544 05 85",
+    "website": "https://staudavos.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2501803285
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0726587,
+      46.1026257
+    ]
+  },
+  "properties": {
+    "id": 13033790428,
+    "addr:city": "Martigny",
+    "addr:housenumber": "9",
+    "addr:postcode": "1920",
+    "addr:street": "Rue marc morand",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "\u00c0 ma sauce",
+    "opening_hours": "Mo-Th 10:00-17:00, Fr 11:00-15:00 18:30-22:00",
+    "phone": "+41 27 565 79 77",
+    "smoking": "outside",
+    "website": "https://www.amasauce.ch/"
+  },
+  "id": 13033790428
+}

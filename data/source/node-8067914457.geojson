@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5843647,
+      47.5465656
+    ]
+  },
+  "properties": {
+    "id": 8067914457,
+    "addr:housenumber": "45",
+    "addr:street": "Margarethenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "description": "Vietnamesische K\u00fcche mit Mittagsmen\u00fcs",
+    "email": "info@mumskitchen.ch",
+    "indoor_seating": "yes",
+    "name": "Mum's Kitchen",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-21:00; Sa 17:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 271 89 89",
+    "smoking": "outside",
+    "website": "https://www.mumskitchen.ch/"
+  },
+  "id": 8067914457
+}

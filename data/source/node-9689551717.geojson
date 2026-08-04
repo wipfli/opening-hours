@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2819061,
+      46.8337081
+    ]
+  },
+  "properties": {
+    "id": 9689551717,
+    "amenity": "restaurant",
+    "contact:facebook": "ellaflims",
+    "contact:instagram": "ella_flims",
+    "cuisine": "burger;cake;coffee_shop;international;sandwich",
+    "diet:vegetarian": "yes",
+    "email": "ella@laax.com",
+    "internet_access": "wlan",
+    "level": "2",
+    "name": "ella",
+    "opening_hours": "Mo-Su,PH 08:30-17:00",
+    "phone": "+41 81 927 77 00",
+    "website": "https://ella-flims.ch/"
+  },
+  "id": 9689551717
+}

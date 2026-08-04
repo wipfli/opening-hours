@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9427513,
+      47.2256058
+    ]
+  },
+  "properties": {
+    "id": 4817377030,
+    "addr:city": "Schmerikon",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "8716",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "mediterranean",
+    "delivery": "no",
+    "email": "info@terra-cotta.ch",
+    "name": "Terra Cotta",
+    "opening_hours": "We-Sa 11:30-14:00,17:30-24:00; Su 10:30-14:00,17:30-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 55 282 44 70",
+    "shop": "wine",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.terra-cotta.ch/"
+  },
+  "id": 4817377030
+}

@@ -1,20 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/270798749",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "27",
-    "addr:postcode": "8032",
-    "addr:street": "Hottingerstrasse",
-    "amenity": "restaurant",
-    "cuisine": "afghan;oriental",
-    "indoor_seating": "yes",
-    "name": "Afghan Anar",
-    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
-    "outdoor_seating": "yes",
-    "phone": "+41 44 324 71 78",
-    "website": "https://www.afghananar.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -22,5 +7,35 @@
       47.3697919
     ]
   },
-  "id": "node-270798749"
+  "properties": {
+    "id": 270798749,
+    "addr:city": "Z\u00fcrich",
+    "addr:floor": "0",
+    "addr:housenumber": "27",
+    "addr:postcode": "8032",
+    "addr:street": "Hottingerstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "no",
+    "check_date": "2026-03-27",
+    "cuisine": "afghan;oriental",
+    "email": "hottingen@afghananar.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "0",
+    "name": "Afghan Anar",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 324 71 78",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.afghananar.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 270798749
 }

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4080753,
+      46.645026
+    ]
+  },
+  "properties": {
+    "id": 8818374156,
+    "addr:city": "Mont-la-Ville",
+    "addr:housenumber": "20",
+    "addr:postcode": "1148",
+    "addr:street": "Route du Mollendruz",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "name": "Restaurant Caf\u00e9 du Lion D'Or",
+    "opening_hours": "We-Su 10:00-22:00",
+    "phone": "+4121 864 58 82",
+    "website": "https://cafeduliondor.ch/"
+  },
+  "id": 8818374156
+}

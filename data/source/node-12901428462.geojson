@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6820817,
+      46.4974874
+    ]
+  },
+  "properties": {
+    "id": 12901428462,
+    "amenity": "restaurant",
+    "name": "Ermitage",
+    "opening_hours": "Mo-Fr 11:30-14:00; Sa-Su 11:30-21:00",
+    "website": "https://www.ermitage-kandersteg.ch/home-7-1"
+  },
+  "id": 12901428462
+}

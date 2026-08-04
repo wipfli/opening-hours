@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7030221,
+      46.6742325
+    ]
+  },
+  "properties": {
+    "id": 6742887340,
+    "addr:city": "Faulensee",
+    "addr:country": "CH",
+    "addr:housenumber": "85",
+    "addr:postcode": "3705",
+    "addr:street": "Interlakenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hecht",
+    "opening_hours": "08:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 654 63 78",
+    "website": "https://www.hecht-faulensee.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6742887340
+}

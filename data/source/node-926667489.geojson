@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8472026,
+      47.4357384
+    ]
+  },
+  "properties": {
+    "id": 926667489,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Landenberg",
+    "opening_hours": "Tu-Sa 08:00-23:00; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 385 50 50",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.r-landenberg.ch/"
+  },
+  "id": 926667489
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8720835,
+      46.6647812
+    ]
+  },
+  "properties": {
+    "id": 2639071425,
+    "addr:city": "Gsteigwiler",
+    "addr:postcode": "3814",
+    "amenity": "restaurant",
+    "cuisine": "burger_steak",
+    "name": "Steakhouse Steinbock",
+    "opening_hours": "Tu-Fr 11:45-13:45; 17:30-22:00; Sa 17:30-22:00; Su 11:45-22:00",
+    "phone": "+41 33 823 30 01",
+    "website": "http://www.steakhouse-steinbock.com/"
+  },
+  "id": 2639071425
+}

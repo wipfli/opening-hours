@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5623792,
+      47.4502851
+    ]
+  },
+  "properties": {
+    "id": 2408277376,
+    "amenity": "restaurant",
+    "email": "info@upperdeck-zrh.ch",
+    "level": "0.5",
+    "name": "upperdeck",
+    "opening_hours": "Mo-Su 11:00-20:00; Sa off",
+    "operator": "Autogrill Schweiz AG",
+    "phone": "+41 43 816 60 16",
+    "website": "https://www.upperdeck-zrh.ch/"
+  },
+  "id": 2408277376
+}

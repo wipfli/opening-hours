@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5955274,
+      47.5445611
+    ]
+  },
+  "properties": {
+    "id": 6047355929,
+    "addr:city": "Basel",
+    "addr:housenumber": "59",
+    "addr:postcode": "4053",
+    "addr:street": "Hochstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Bundesbahn",
+    "opening_hours": "Mo-Fr 11:00-14:00,16:30-23:30; Su 17:00-22:30",
+    "reg_name": "Bundesb\u00e4hnli",
+    "website": "https://www.bundesbaehnli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6047355929
+}

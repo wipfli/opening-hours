@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8451539,
+      46.458335
+    ]
+  },
+  "properties": {
+    "id": 1997685081,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "32",
+    "addr:postcode": "1800",
+    "addr:street": "Quai Perdonnet",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/pizzataxivevey",
+    "cuisine": "pizza",
+    "delivery:covid19": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Pizza Taxi",
+    "opening_hours": "Mo-Fr 11:15-14:00, 17:45-22:30; Sa, Su 11:15-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 923 55 60",
+    "start_date": "1992",
+    "takeaway": "yes",
+    "website": "https://www.pizzataxi-vevey.ch/"
+  },
+  "id": 1997685081
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9530057,
+      47.551308
+    ]
+  },
+  "properties": {
+    "id": 10118145955,
+    "addr:city": "Stein",
+    "addr:housenumber": "16",
+    "addr:postcode": "4332",
+    "addr:street": "Rheinbr\u00fcckstrasse",
+    "amenity": "restaurant",
+    "email": "info@zollh\u00fcsli-stein.ch",
+    "name": "Zollh\u00fcsli",
+    "opening_hours": "Th 14:00-22:00; Fr 10:00-23:00; Sa 10:00-18:00",
+    "phone": "+41794813333",
+    "website": "https://zollh\u00fcsli-stein.ch"
+  },
+  "id": 10118145955
+}

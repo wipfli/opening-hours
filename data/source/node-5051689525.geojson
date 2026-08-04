@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6389535,
+      46.5123688
+    ]
+  },
+  "properties": {
+    "id": 5051689525,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "12",
+    "addr:postcode": "1006",
+    "addr:street": "Chemin Antoine-de-Chandieu",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/100698984811021",
+    "contact:instagram": "rumahlausanne",
+    "cuisine": "malaysian",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Rumah",
+    "opening_hours": "Tu-Fr 11:45-14:00, 18:45-22:00; Sa, Su 18:45-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 616 09 41",
+    "takeaway": "yes",
+    "website": "https://rumah.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5051689525
+}

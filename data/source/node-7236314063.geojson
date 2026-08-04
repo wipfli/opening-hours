@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2843541,
+      47.4833669
+    ]
+  },
+  "properties": {
+    "id": 7236314063,
+    "amenity": "restaurant",
+    "cuisine": "sandwich",
+    "name": "Quelle",
+    "opening_hours": "We-Fr 10:30-14:00, We-Sa 17:00-23:30, Su 11:00-22:00",
+    "website": "https://www.restaurant-quelle.ch/"
+  },
+  "id": 7236314063
+}

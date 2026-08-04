@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6637979,
+      47.7206221
+    ]
+  },
+  "properties": {
+    "id": 2955574975,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "4",
+    "addr:postcode": "8207",
+    "addr:street": "St\u00fcdliackerstrasse",
+    "alt_name": "Migros Restaurant Herblinger-Markt",
+    "amenity": "restaurant",
+    "branch": "Schaffhausen Herblinger-Markt",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:00-19:00; PH,Su off",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-schaffhausen-herblinger-markt",
+    "wheelchair": "yes"
+  },
+  "id": 2955574975
+}

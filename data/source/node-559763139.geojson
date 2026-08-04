@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4958655,
+      47.242074
+    ]
+  },
+  "properties": {
+    "id": 559763139,
+    "addr:housenumber": "12",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Schwiizer P\u00f6schtli",
+    "opening_hours": "Su 10:00-21:00; Tu-Sa 08:30-23:30",
+    "phone": "+41 43 530 05 08",
+    "tourism": "hotel",
+    "website": "http://www.schwiizerp\u00f6schtli.ch",
+    "wheelchair": "yes"
+  },
+  "id": 559763139
+}

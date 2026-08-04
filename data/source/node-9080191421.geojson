@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5915911,
+      47.5536574
+    ]
+  },
+  "properties": {
+    "id": 9080191421,
+    "addr:housenumber": "1",
+    "addr:street": "Steinenberg",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "indoor_seating": "yes",
+    "name": "Namamen",
+    "opening_hours": "Mo-Fr 11:00-21:30; Sa 11:00-22:30; Su 12:00-21:30",
+    "outdoor_seating": "no",
+    "phone": "+41 61 271 80 68",
+    "smoking": "no",
+    "website": "https://namamen.ch"
+  },
+  "id": 9080191421
+}

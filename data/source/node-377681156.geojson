@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7002374,
+      47.4449031
+    ]
+  },
+  "properties": {
+    "id": 377681156,
+    "addr:city": "Grafstal/Kempttal",
+    "addr:housenumber": "24",
+    "addr:postcode": "8310",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date:opening_hours": "2022-11-07",
+    "internet_access": "wlan",
+    "name": "Wirtschaft zur Tanne",
+    "opening_hours": "We-Sa 11:00-14:00,17:00-23:00",
+    "phone": "+41 52 345 11 34",
+    "website": "https://www.restauranttanne.ch/"
+  },
+  "id": 377681156
+}

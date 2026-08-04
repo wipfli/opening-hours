@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9757864,
+      46.1570533
+    ]
+  },
+  "properties": {
+    "id": 13037632548,
+    "amenity": "restaurant",
+    "cuisine": "italian;pasta;regional",
+    "name": "La Perla",
+    "opening_hours": "Mo-Sa 06:30-23:00",
+    "opening_hours:kitchen": "Mo-Sa 06:30-10:00, 12:00-14:00, 18:30-21:00; Su 07:00-10:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 850 29 50",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.hotelperla.ch/ristorante/"
+  },
+  "id": 13037632548
+}

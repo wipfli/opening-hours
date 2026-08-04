@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3631208,
+      46.229202
+    ]
+  },
+  "properties": {
+    "id": 9205491097,
+    "addr:city": "Sion",
+    "addr:housenumber": "25",
+    "addr:postcode": "1950",
+    "addr:street": "Avenue de Tourbillon",
+    "amenity": "restaurant",
+    "branch": "Sion",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "10'dieci",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-22:00; Fr-Sa 11:00-13:30,17:00-23:00; Su 11:00-22:00",
+    "phone": "+41 27 470 10 10",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/fr/livraison-pizza-sion"
+  },
+  "id": 9205491097
+}

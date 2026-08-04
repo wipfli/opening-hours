@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2253164,
+      47.2840838
+    ]
+  },
+  "properties": {
+    "id": 688411532,
+    "addr:city": "Meisterschwanden",
+    "addr:housenumber": "1",
+    "addr:postcode": "5616",
+    "addr:street": "Seerosenstrasse",
+    "amenity": "restaurant",
+    "name": "Seerose",
+    "opening_hours": "Mo-Fr 11:00+; Sa-Su 08:00+",
+    "phone": "+41 56 676 68 88",
+    "website": "https://www.seerose.ch/de/restaurant-uebersichtsseite/restaurant-seerose",
+    "wheelchair": "limited"
+  },
+  "id": 688411532
+}

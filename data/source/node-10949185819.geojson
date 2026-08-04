@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2767804,
+      47.3547568
+    ]
+  },
+  "properties": {
+    "id": 10949185819,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Tom's Diner",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-22:00",
+    "toilets:wheelchair": "no",
+    "website": "https://tomsdiner.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 10949185819
+}

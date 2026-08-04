@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4614328,
+      46.9673404
+    ]
+  },
+  "properties": {
+    "id": 3945892283,
+    "addr:city": "Bern",
+    "addr:housenumber": "4",
+    "addr:postcode": "3014",
+    "addr:street": "Wankdorfallee",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Espace",
+    "opening_hours": "Mo-Fr 11:15-13:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 867 01 88",
+    "smoking": "no",
+    "website": "https://restaurant-espace.sv-restaurant.ch/de/menuplan/",
+    "wheelchair": "yes"
+  },
+  "id": 3945892283
+}

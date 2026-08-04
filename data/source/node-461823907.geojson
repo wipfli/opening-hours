@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3597871,
+      47.4208099
+    ]
+  },
+  "properties": {
+    "id": 461823907,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Kreuzbleicheweg",
+    "amenity": "restaurant",
+    "capacity": "350",
+    "check_date:opening_hours": "2025-06-29",
+    "cuisine": "regional",
+    "email": "essen@militaerkantine.ch",
+    "indoor_seating": "yes",
+    "name": "Hotel Restaurant Milit\u00e4rkantine",
+    "opening_hours": "Mo-Sa 07:00-18:00+; Su 08:00-18:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 279 10 00",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.militaerkantine.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 461823907
+}

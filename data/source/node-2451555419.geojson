@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1841807,
+      46.1672999
+    ]
+  },
+  "properties": {
+    "id": 2451555419,
+    "addr:city": "Veyrier",
+    "addr:housenumber": "269",
+    "addr:postcode": "1255",
+    "addr:street": "Route de Veyrier",
+    "alt_name": "A l'Union",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Caf\u00e9 restaurant de l'Union",
+    "opening_hours": "Tu-Sa 07:00-00:00; Su 08:00-15:30",
+    "phone": "+4122 784 17 25",
+    "website": "https://www.restaurant-union-veyrier.ch/"
+  },
+  "id": 2451555419
+}

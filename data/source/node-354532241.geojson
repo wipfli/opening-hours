@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.715986,
+      47.3500893
+    ]
+  },
+  "properties": {
+    "id": 354532241,
+    "addr:city": "Uster",
+    "addr:housenumber": "14",
+    "addr:postcode": "8610",
+    "addr:street": "Z\u00fcrichstrasse",
+    "alt_name": "Migros Restaurant Uster",
+    "amenity": "restaurant",
+    "branch": "Uster Illuster",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date": "2025-05-13",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 905 49 69",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-uster-illuster",
+    "wheelchair": "yes"
+  },
+  "id": 354532241
+}

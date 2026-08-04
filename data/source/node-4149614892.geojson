@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3752546,
+      47.423505
+    ]
+  },
+  "properties": {
+    "id": 4149614892,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Bankgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Dolce Lucia",
+    "opening_hours": "Mo-Fr 10:00-14:30,17:00-22:30; Sa 10:00-22:30",
+    "phone": "+41 71 222 26 00",
+    "website": "https://www.dolcelucia.info/"
+  },
+  "id": 4149614892
+}

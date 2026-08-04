@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4330527,
+      46.9362486
+    ]
+  },
+  "properties": {
+    "id": 308973694,
+    "amenity": "restaurant",
+    "check_date": "2026-01-17",
+    "contact:addr": "Seftigenstrasse 47, 3007 Bern",
+    "contact:email": "info@chugarden.com",
+    "contact:phone": "+41 31 3728686",
+    "cuisine": "korean;barbecue",
+    "name": "Chu Garden",
+    "name:zh": "\u6731\u9152\u5bb6",
+    "opening_hours": "Mo,Th-Su 11:30-14:30,17:30-23:00; We 17:30-23:00",
+    "operator": "Chu GmbH",
+    "website": "https://www.chugarden.com/"
+  },
+  "id": 308973694
+}

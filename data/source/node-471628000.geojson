@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7277569,
+      47.4994389
+    ]
+  },
+  "properties": {
+    "id": 471628000,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8400",
+    "addr:street": "Marktgasse",
+    "alt_name": "Molino Winterthur",
+    "amenity": "restaurant",
+    "branch": "Winterthur",
+    "brand": "Molino",
+    "check_date": "2026-01-28",
+    "check_date:opening_hours": "2024-03-06",
+    "cuisine": "pizza",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "Molino",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "operator": "Ospena Group",
+    "outdoor_seating": "yes",
+    "website": "https://molino.ch/de/restaurant/pizzeria-ristorante-molino-winterthur/",
+    "wheelchair": "limited"
+  },
+  "id": 471628000
+}

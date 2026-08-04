@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4564389,
+      46.9581818
+    ]
+  },
+  "properties": {
+    "id": 265627196,
+    "addr:city": "Bern",
+    "addr:housenumber": "2",
+    "addr:postcode": "3014",
+    "addr:street": "Herzogstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "braukunst;felsenau",
+    "contact:addr": "Herzogstrasse 2, 3014 Bern",
+    "contact:phone": "+41 31 525 55 30",
+    "cuisine": "ramen",
+    "diet:vegetarian": "yes",
+    "email": "info@bivo-bern.ch",
+    "name": "Bivo",
+    "opening_hours": "Mo,We,Th,Fr 11:30-14:00,16:00-24:00; Sa 10:00-24:00; Su 12:00-22:00",
+    "operator": "Videira Manuel and Estewao Jose",
+    "outdoor_seating": "yes",
+    "source": "survey",
+    "takeaway": "yes",
+    "website": "https://www.bivo-bern.ch/",
+    "website:menu": "https://www.bivo-bern.ch/angebot"
+  },
+  "id": 265627196
+}

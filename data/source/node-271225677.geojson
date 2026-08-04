@@ -1,9 +1,16 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56574,
+      47.3602081
+    ]
+  },
   "properties": {
-    "@id": "node/271225677",
+    "id": 271225677,
     "amenity": "restaurant",
-    "check_date": "2024-03-03",
+    "check_date": "2026-03-09",
     "cuisine": "italian",
     "indoor_seating": "yes",
     "name": "Marcellino Pane e Vino",
@@ -13,12 +20,5 @@
     "website": "https://marcellino.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5655522,
-      47.3602234
-    ]
-  },
-  "id": "node-271225677"
+  "id": 271225677
 }

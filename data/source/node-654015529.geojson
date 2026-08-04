@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4156285,
+      46.9348468
+    ]
+  },
+  "properties": {
+    "id": 654015529,
+    "alt_name": "Restaurant Haberb\u00fcni",
+    "amenity": "restaurant",
+    "email": "info@haberbueni.ch",
+    "fax": "+41 31 9725745",
+    "name": "Haberb\u00fcni",
+    "opening_hours": "Mo-Fr 11:00-14:00, 18:00-23:30; Sa 18:00-23:30",
+    "phone": "+41 31 9725655",
+    "website": "https://www.haberbueni.ch/",
+    "wheelchair": "no"
+  },
+  "id": 654015529
+}

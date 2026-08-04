@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.733525,
+      47.3450125
+    ]
+  },
+  "properties": {
+    "id": 355523766,
+    "addr:housenumber": "50",
+    "addr:postcode": "8610",
+    "addr:street": "Aathalstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-26",
+    "check_date:opening_hours": "2026-05-26",
+    "email": "info@linde-uster.ch",
+    "name": "Linde",
+    "name:de": "Speiserestaurant zur Linde",
+    "opening_hours": "Mo 08:30-14:00; Tu-Fr 08:30-14:00, 17:30-22:00; Sa 17:00-22:00; Su 11:00-14:00, 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 940 17 27",
+    "website": "https://www.linde-uster.ch/",
+    "website:menu": "https://www.linde-uster.ch/content/restaurant/speisekarte/"
+  },
+  "id": 355523766
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6248001,
+      47.0577316
+    ]
+  },
+  "properties": {
+    "id": 11024864744,
+    "amenity": "restaurant",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Artcaf\u00e9",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "phone": "+41 34 421 40 20",
+    "website": "https://www.museum-franzgertsch.ch/de/artcafe/artcafe-2/"
+  },
+  "id": 11024864744
+}

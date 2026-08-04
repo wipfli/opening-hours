@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1201005,
+      46.1829114
+    ]
+  },
+  "properties": {
+    "id": 2333792117,
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "Los Bandidos",
+    "opening_hours": "Mo-Fr 12:00-14:00, 18:30-22:00; Sa, Su 18:30-22:00",
+    "phone": "+4122 740 10 24",
+    "website": "https://www.losbandidosfood.ch"
+  },
+  "id": 2333792117
+}

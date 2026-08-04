@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1415069,
+      46.2072186
+    ]
+  },
+  "properties": {
+    "id": 1432428850,
+    "addr:housenumber": "3",
+    "addr:street": "Rue de Cornavin",
+    "amenity": "restaurant",
+    "contact:email": "contact@luckygrill.ch",
+    "name": "Lucky Grill",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr, Sa 08:00-23:30",
+    "phone": "+41 22 900 11 80",
+    "website": "https://luckygrill.ch"
+  },
+  "id": 1432428850
+}

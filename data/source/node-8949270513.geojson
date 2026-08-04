@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6269961,
+      46.3761038
+    ]
+  },
+  "properties": {
+    "id": 8949270513,
+    "amenity": "restaurant",
+    "name": "Tannuheim",
+    "opening_hours": "Tu 16:00-23:00; We-Su 11:30-23:00",
+    "website": "https://www.tannuheim-leukerbad.ch/"
+  },
+  "id": 8949270513
+}

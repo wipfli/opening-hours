@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8520171,
+      46.7034556
+    ]
+  },
+  "properties": {
+    "id": 11933509657,
+    "addr:city": "Disentis/Must\u00e9r",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "7180",
+    "addr:street": "Via Cons",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Puntreis",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "outdoor_seating": "yes",
+    "toilets:access": "yes",
+    "toilets:hands_drying": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "website": "puntreis.ch"
+  },
+  "id": 11933509657
+}

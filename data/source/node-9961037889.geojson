@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.637181,
+      46.5183519
+    ]
+  },
+  "properties": {
+    "id": 9961037889,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "1",
+    "addr:postcode": "1005",
+    "addr:street": "Avenue du Th\u00e9\u00e2tre",
+    "amenity": "restaurant",
+    "check_date": "2025-09-10",
+    "check_date:diet:vegetarian": "2025-09-10",
+    "cuisine": "lebanese",
+    "diet:vegetarian": "yes",
+    "facebook": "Taolech-102058905726356",
+    "indoor_seating": "yes",
+    "instagram": "taole.ch",
+    "name": "Taol\u00e9",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 320 83 83",
+    "website": "https://taole.ch/"
+  },
+  "id": 9961037889
+}

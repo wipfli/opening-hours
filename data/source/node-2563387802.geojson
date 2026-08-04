@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6173916,
+      47.5099645
+    ]
+  },
+  "properties": {
+    "id": 2563387802,
+    "addr:city": "M\u00fcnchenstein",
+    "addr:country": "CH",
+    "addr:housenumber": "66",
+    "addr:postcode": "4142",
+    "addr:street": "Tramstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kantine Werkhalle",
+    "opening_hours": "11:45-13:30",
+    "phone": "+41 61 415 21 70",
+    "smoking": "outside",
+    "website": "http://www.werkhalle.net/kantine/",
+    "wheelchair": "yes"
+  },
+  "id": 2563387802
+}

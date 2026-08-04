@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7854282,
+      47.6752685
+    ]
+  },
+  "properties": {
+    "id": 454835927,
+    "addr:city": "Diessenhofen",
+    "addr:place": "Schupfen",
+    "addr:postcode": "8253",
+    "amenity": "restaurant",
+    "contact:website": "https://schupfen.ch",
+    "email": "info@schupfen.ch",
+    "name": "Schupfen",
+    "old_addr:housenumber": "501",
+    "old_addr:street": "Steinerstrasse",
+    "opening_hours": "We-Su 10:00-23:00",
+    "opening_hours:kitchen": "We-Su 11:30-13:45,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 657 10 42",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "website": "https://schupfen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 454835927
+}

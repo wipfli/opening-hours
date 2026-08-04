@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5966151,
+      47.6051659
+    ]
+  },
+  "properties": {
+    "id": 356692523,
+    "amenity": "restaurant",
+    "name": "Rhygarte",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "website": "https://www.rhygarte.ch/"
+  },
+  "id": 356692523
+}

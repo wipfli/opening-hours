@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5200798,
+      47.1864551
+    ]
+  },
+  "properties": {
+    "id": 6211404359,
+    "amenity": "restaurant",
+    "check_date": "2025-01-01",
+    "indoor_seating": "yes",
+    "name": "Hello World",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00; Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://helloworldbaar.ch/helloworld/"
+  },
+  "id": 6211404359
+}

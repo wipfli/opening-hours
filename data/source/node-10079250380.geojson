@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1563109,
+      46.2043595
+    ]
+  },
+  "properties": {
+    "id": 10079250380,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "5",
+    "addr:postcode": "1207",
+    "addr:street": "Rue des Pierres-du-Niton",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "email": "info@hanae-restaurant.ch",
+    "name": "Hanae",
+    "opening_hours": "Tu-Sa 12:00-14:00,19:00-22:00",
+    "phone": "+41 22 736 93 93",
+    "website": "https://hanae-restaurant.ch/"
+  },
+  "id": 10079250380
+}

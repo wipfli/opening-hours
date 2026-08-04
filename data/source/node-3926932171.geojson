@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5148792,
+      47.3705241
+    ]
+  },
+  "properties": {
+    "id": 3926932171,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "222",
+    "addr:postcode": "8003",
+    "addr:street": "Birmensdorferstrasse",
+    "alt_website": "https://main.yingcusine.ch/",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Ying Cusine",
+    "opening_hours": "Mo-Tu 18:00-21:30; We-Fr 11:00-14:30,17:30-21:30; Sa 12:00-14:30,17:30-21:30; Su 11:30-21:30",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "https://www.ying-cusine.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3926932171
+}

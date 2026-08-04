@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1618591,
+      46.203525
+    ]
+  },
+  "properties": {
+    "id": 9456526889,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:street": "Rue des Vollandes",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Le Ph\u00e9nix",
+    "opening_hours": "Mo-Su 11:30-14:00,18:00-22:30",
+    "phone": "+41 22 735 34 30",
+    "website": "https://resto-phenix.ch/"
+  },
+  "id": 9456526889
+}

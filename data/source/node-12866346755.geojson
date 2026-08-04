@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3870803,
+      47.3898155
+    ]
+  },
+  "properties": {
+    "id": 12866346755,
+    "addr:city": "Teufen (AR)",
+    "addr:housenumber": "2",
+    "addr:postcode": "9053",
+    "addr:street": "Dorf",
+    "amenity": "restaurant",
+    "cuisine": "european",
+    "name": "Ilge",
+    "opening_hours": "Mo 08:30-24:00; Th-Su 09:00-23:00",
+    "phone": "+41 71 333 13 60",
+    "website": "https://ilge-teufen.ch/"
+  },
+  "id": 12866346755
+}

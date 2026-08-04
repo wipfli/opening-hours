@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5866867,
+      47.5580889
+    ]
+  },
+  "properties": {
+    "id": 2074770464,
+    "addr:housenumber": "20",
+    "addr:postcode": "4051",
+    "addr:street": "Schneidergasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@hasenburg.swiss",
+    "indoor_seating": "yes",
+    "name": "Hasenburg",
+    "opening_hours": "Tu-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 61 261 32 58",
+    "smoking": "outside",
+    "website": "https://hasenburg.swiss/"
+  },
+  "id": 2074770464
+}

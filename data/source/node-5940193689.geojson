@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5431142,
+      47.3713843
+    ]
+  },
   "properties": {
-    "@id": "node/5940193689",
+    "id": 5940193689,
     "amenity": "restaurant",
     "check_date": "2024-08-30",
     "cuisine": "regional;mediterranean",
@@ -14,12 +21,5 @@
     "website": "https://www.zunfthaus-zur-haue.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5431142,
-      47.3713843
-    ]
-  },
-  "id": "node-5940193689"
+  "id": 5940193689
 }

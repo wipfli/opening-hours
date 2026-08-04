@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8964637,
+      47.2737385
+    ]
+  },
+  "properties": {
+    "id": 14003339399,
+    "addr:city": "Vordemwald",
+    "addr:housenumber": "4b",
+    "addr:postcode": "4803",
+    "addr:street": "Scheibenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-10",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Dani's Bistro",
+    "opening_hours": "Mo-We 08:45-23:00; Sa 08:45-23:00; Su 08:45-17:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41627512684",
+    "takeaway": "yes",
+    "website": "https://danis-bistro.ch",
+    "wheelchair": "yes"
+  },
+  "id": 14003339399
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3892314,
+      47.4556423
+    ]
+  },
+  "properties": {
+    "id": 803559532,
+    "addr:city": "Otelfingen",
+    "addr:housenumber": "47",
+    "addr:postcode": "8112",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Bahnh\u00f6fli Ahan Thai",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 44 599 0005",
+    "website": "https://www.ahanthai.ch/"
+  },
+  "id": 803559532
+}

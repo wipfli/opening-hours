@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.707137,
+      47.431059
+    ]
+  },
+  "properties": {
+    "id": 12455651150,
+    "addr:city": "Ziefen",
+    "addr:country": "CH",
+    "addr:housenumber": "94",
+    "addr:postcode": "4417",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Restaurant Tanne",
+    "opening_hours": "Mo 17:00-23:30; Tu off; We-Sa 11:00-14:00, 17:00-23:30; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 931 18 58",
+    "website": "https://resttanneziefen.ch/"
+  },
+  "id": 12455651150
+}

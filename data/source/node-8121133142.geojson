@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9065871,
+      47.416497
+    ]
+  },
+  "properties": {
+    "id": 8121133142,
+    "amenity": "restaurant",
+    "contact:email": "willkommen@roessli-zeglingen.ch",
+    "contact:phone": "+41 61 981 51 51",
+    "name": "R\u00f6ssli",
+    "official_name": "Gasthof zum R\u00f6ssli",
+    "opening_hours": "Th 09:00-23:00; Fr 16:30-23:00",
+    "website": "https://www.roessli-zeglingen.ch/"
+  },
+  "id": 8121133142
+}

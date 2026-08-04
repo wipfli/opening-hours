@@ -1,19 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/914703134",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "42",
-    "addr:postcode": "8004",
-    "addr:street": "Rotwandstrasse",
-    "amenity": "restaurant",
-    "check_date": "2024-08-19",
-    "cuisine": "italian",
-    "name": "D'Aurora",
-    "opening_hours": "Mo-Fr 11:30-15:00, 18:30+; Sa 18:00+",
-    "website": "https://www.daurora.ch/",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -21,5 +7,21 @@
       47.3751694
     ]
   },
-  "id": "node-914703134"
+  "properties": {
+    "id": 914703134,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "42",
+    "addr:postcode": "8004",
+    "addr:street": "Rotwandstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "D'Aurora",
+    "opening_hours": "Mo-Fr 11:30-15:00, 18:30+; Sa 18:00+",
+    "outdoor_seating": "yes",
+    "website": "https://www.daurora.ch/",
+    "wheelchair": "no"
+  },
+  "id": 914703134
 }

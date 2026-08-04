@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6122393,
+      47.4638476
+    ]
+  },
+  "properties": {
+    "id": 12053101548,
+    "amenity": "restaurant",
+    "email": "info@geerlisburg.ch",
+    "name": "Geerlisburg",
+    "opening_hours": "Mo-Su 11:30-22:30",
+    "phone": "+41 44 577 55 88",
+    "source": "Yahoo aerial images",
+    "website": "https://www.geerlisburg.ch/"
+  },
+  "id": 12053101548
+}

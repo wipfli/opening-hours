@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8306353,
+      47.1046598
+    ]
+  },
+  "properties": {
+    "id": 2582810217,
+    "addr:housenumber": "7",
+    "addr:street": "rue du 1er Mars",
+    "amenity": "restaurant",
+    "email": "info@chezgilles.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Chez Gilles",
+    "opening_hours": "Mo-Su 07:30-21:00",
+    "phone": "+41 32 968 28 32",
+    "rooms": "16",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://www.chezgilles.ch/"
+  },
+  "id": 2582810217
+}

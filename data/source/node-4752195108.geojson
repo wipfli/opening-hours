@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1272055,
+      47.1231246
+    ]
+  },
+  "properties": {
+    "id": 4752195108,
+    "addr:city": "Filzbach",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "8757",
+    "addr:street": "Panoramastrasse",
+    "amenity": "restaurant",
+    "name": "Lihn",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "phone": "+41556146464",
+    "website": "https://www.lihn.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Toilette ist etwas eng"
+  },
+  "id": 4752195108
+}

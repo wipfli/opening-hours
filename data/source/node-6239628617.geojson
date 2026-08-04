@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.526908,
+      46.8788721
+    ]
+  },
+  "properties": {
+    "id": 6239628617,
+    "amenity": "restaurant",
+    "name": "Calanda",
+    "opening_hours": "Mo-Fr 08:30-23:00",
+    "phone": "+41 81 252 22 48",
+    "website": "https://calanda-haldenstein.ch/"
+  },
+  "id": 6239628617
+}

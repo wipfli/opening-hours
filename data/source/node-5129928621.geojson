@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6651779,
+      46.5093045
+    ]
+  },
+  "properties": {
+    "id": 5129928621,
+    "addr:city": "Pully",
+    "addr:housenumber": "27",
+    "addr:postcode": "1009",
+    "addr:street": "Avenue Samson Reymondin",
+    "amenity": "restaurant",
+    "branch": "Lausanne Est-Pully",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "no",
+    "name": "10' dieci",
+    "opening_hours": "Mo-Sa 11:00-13:30, 17:00-22:00, Su 11:30-14:00,17:00-22:00",
+    "phone": "+4121 907 10 10",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/fr/livraison-pizza-pully"
+  },
+  "id": 5129928621
+}

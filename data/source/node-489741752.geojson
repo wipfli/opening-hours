@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4507506,
+      47.0214901
+    ]
+  },
+  "properties": {
+    "id": 489741752,
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "check_date": "2024-03-23",
+    "cuisine": "regional",
+    "email": "info@baerenbuchsi.ch",
+    "name": "B\u00e4ren Buchsi",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa 18:00-23:30; Su 11:30-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 869 02 99",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.baerenbuchsi.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 489741752
+}

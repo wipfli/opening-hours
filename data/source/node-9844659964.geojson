@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4402161,
+      46.9399609
+    ]
+  },
+  "properties": {
+    "id": 9844659964,
+    "amenity": "restaurant",
+    "check_date": "2025-06-12",
+    "cuisine": "pizza",
+    "name": "Ragazzi di Berna",
+    "opening_hours": "Mo-We 09:00-15:00; Th-Fr 09:00-22:00",
+    "website": "https://www.ragazzidiberna.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9844659964
+}

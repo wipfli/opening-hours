@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4457306,
+      46.948607
+    ]
+  },
+  "properties": {
+    "id": 3325925875,
+    "alt_name": "La Table de Urs Hauri",
+    "amenity": "restaurant",
+    "contact:addr": "Zeughausgasse;Zeughaus-Passage 19, 3011 Bern",
+    "contact:email": "urs-hauri@bluewin.ch",
+    "contact:facebook": "https://www.facebook.com/latabledeurshauri",
+    "contact:fax": "+41 31 3111470",
+    "contact:phone": "+41 31 3111413",
+    "name": "Urs Hauri",
+    "note": "Address Zeughausgass-Passage 19 doesn't exist officially, it's either Zeughausgasse or Zeughaus-Passage",
+    "opening_hours": "Mo off; Tu-Fr 11:30-15:30; Sa-Su off",
+    "operator": "La Table de Urs Hauri GmbH",
+    "source": "website and survey",
+    "website": "http://www.urshauri.ch"
+  },
+  "id": 3325925875
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1372929,
+      46.2883494
+    ]
+  },
+  "properties": {
+    "id": 12904039310,
+    "amenity": "restaurant",
+    "breakfast": "yes",
+    "check_date:opening_hours": "2025-06-11",
+    "cuisine": "regional",
+    "email": "info@miroir-solalex.ch",
+    "name": "Miroir d'Argentine",
+    "opening_hours": "Dec 15-Mar 31,May 01-Nov 10 We-Sa 11:00-22:00; Dec 15-Mar 31,May 01-Nov 10 Su 11:00-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 498 14 46",
+    "rooms": "8",
+    "tourism": "guest_house",
+    "website": "https://miroir-solalex.ch/"
+  },
+  "id": 12904039310
+}

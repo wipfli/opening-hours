@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.21327,
+      46.081354
+    ]
+  },
+  "properties": {
+    "id": 317468948,
+    "addr:housenumber": "11",
+    "addr:street": "Route de Verbier",
+    "amenity": "restaurant",
+    "contact:instagram": "lekoti_bagnes",
+    "contact:phone": "+41 27 565 05 45",
+    "cuisine": "burger;coffee_shop;international;pizza",
+    "name": "Le KOTI",
+    "opening_hours": "Mo-Su 06:30-24:00; We 06:30-14:00",
+    "self_service": "no",
+    "website": "https://www.lekoti.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 317468948
+}

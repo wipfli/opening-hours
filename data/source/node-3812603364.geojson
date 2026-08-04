@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.446272,
+      46.7213293
+    ]
+  },
+  "properties": {
+    "id": 3812603364,
+    "addr:city": "F\u00fcrstenau",
+    "addr:housenumber": "77",
+    "addr:postcode": "7414",
+    "addr:street": "Schlossgass",
+    "amenity": "restaurant",
+    "cuisine": "top_level",
+    "email": "kontakt@schauenstein.ch",
+    "name": "Schauenstein Andreas Caminada",
+    "opening_hours": "We-Su 19:00-24:00; Th-Su 12:00-14:00",
+    "phone": "+41 81 632 10 80",
+    "website": "https://schauenstein.ch/"
+  },
+  "id": 3812603364
+}

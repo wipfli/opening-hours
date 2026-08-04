@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8153425,
+      47.610757
+    ]
+  },
+  "properties": {
+    "id": 4313509989,
+    "addr:city": "Uerschhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8537",
+    "addr:street": "Stammheimerstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-06-14",
+    "cuisine": "local",
+    "name": "Seerose",
+    "opening_hours": "Mo,Th,Fr 16:00-24:00; Sa,Su 11:00-23:00",
+    "phone": "+41 52 745 13 03",
+    "website": "http://www.seerose-bar.ch"
+  },
+  "id": 4313509989
+}

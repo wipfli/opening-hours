@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5187325,
+      47.1569774
+    ]
+  },
+  "properties": {
+    "id": 9693172821,
+    "addr:city": "Zug",
+    "addr:housenumber": "46",
+    "addr:postcode": "6300",
+    "addr:street": "Zugerbergstrasse",
+    "amenity": "restaurant",
+    "brewery": "yes",
+    "cuisine": "regional;international",
+    "diet:gluten_free": "yes",
+    "diet:meat": "yes",
+    "diet:pescetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@hotel-guggital.ch",
+    "highchair": "yes",
+    "internet_access": "wlan",
+    "name": "Restaurant Guggital",
+    "opening_hours": "Mo-Su 07:00-23:30",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 41 728 74 17",
+    "website": "https://hotel-guggital.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9693172821
+}

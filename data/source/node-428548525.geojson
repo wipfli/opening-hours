@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6373887,
+      46.7460775
+    ]
+  },
+  "properties": {
+    "id": 428548525,
+    "addr:city": "Thun",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "3600",
+    "addr:street": "Seestrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "email": "info@schloss-schadau.ch",
+    "fax": "+41 33 222 15 80",
+    "indoor_seating": "yes",
+    "name": "Schloss Schadau",
+    "opening_hours": "Mo-Sa 08:30-23:30; Su 08:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 222 25 00",
+    "website": "https://www.schloss-schadau.ch/de/restaurant-and-bar",
+    "wheelchair": "no"
+  },
+  "id": 428548525
+}

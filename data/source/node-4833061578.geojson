@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4923277,
+      47.3700255
+    ]
+  },
+  "properties": {
+    "id": 4833061578,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "245",
+    "addr:postcode": "8047",
+    "addr:street": "Letzigraben",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Grottino 83",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00, Sa 17:00-23:30",
+    "takeaway": "yes",
+    "website": "https://www.grottino83.ch/"
+  },
+  "id": 4833061578
+}

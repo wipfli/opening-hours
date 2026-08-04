@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5956174,
+      47.410154
+    ]
+  },
+  "properties": {
+    "id": 3268664480,
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8304",
+    "addr:street": "Richtiplatz",
+    "amenity": "restaurant",
+    "branch": "Wallisellen Richti",
+    "check_date": "2026-06-15",
+    "check_date:opening_hours": "2024-09-14",
+    "cuisine": "asian;sushi",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "richti@nooch.ch",
+    "indoor_seating": "no",
+    "name": "Nooch Asian Kitchen",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "opening_hours:kitchen": "Mo-Th 11:00-22:00; Fr-Sa 11:00-22:00; Su 16:00-21:30",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "no",
+    "payment:qr_code": "no",
+    "phone": "+41 44 511 70 20",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://nooch.ch/wallisellen-richti",
+    "wheelchair": "yes"
+  },
+  "id": 3268664480
+}

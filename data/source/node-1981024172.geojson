@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4841863,
+      46.9321368
+    ]
+  },
+  "properties": {
+    "id": 1981024172,
+    "addr:city": "Muri bei Bern",
+    "addr:country": "CH",
+    "addr:housename": "Marktplatz Muri",
+    "addr:housenumber": "68",
+    "addr:postcode": "3074",
+    "addr:street": "Thunstrasse",
+    "alt_name": "Restaurant La Caletta",
+    "amenity": "restaurant",
+    "contact:email": "caletta@bluewin.ch",
+    "contact:fax": "+41 31 5447095",
+    "contact:phone": "+41 31 5446574",
+    "contact:website": "https://www.lacaletta.ch/kontakt/",
+    "name": "La Caletta",
+    "opening_hours": "Mo-Fr 07:00-14:30, 17:30-23:00; Sa-Su off",
+    "source": "survey and website",
+    "website": "https://www.lacaletta.ch/"
+  },
+  "id": 1981024172
+}

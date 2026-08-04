@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4357106,
+      47.050247
+    ]
+  },
+  "properties": {
+    "id": 3662966720,
+    "addr:city": "Sargans",
+    "addr:country": "CH",
+    "addr:housenumber": "53",
+    "addr:postcode": "7320",
+    "addr:street": "St\u00e4dtchenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Sarayas Sushibar",
+    "opening_hours": "We-Su 12:00-14:00,18:00-22:00; Tu 17:30-22:00; PH unknown",
+    "phone": "+41 81 833 65 65",
+    "website": "https://www.sarayas.ch/"
+  },
+  "id": 3662966720
+}

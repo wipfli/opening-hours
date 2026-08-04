@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5881357,
+      47.3822961
+    ]
+  },
+  "properties": {
+    "id": 4142562218,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "236",
+    "addr:postcode": "8044",
+    "addr:street": "Tobelhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wirtschaft Alter Tobelhof",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "source": "Stadt Z\u00fcrich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.tobelhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4142562218
+}

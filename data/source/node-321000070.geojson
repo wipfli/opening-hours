@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5340332,
+      47.3867368
+    ]
+  },
   "properties": {
-    "@id": "node/321000070",
+    "id": 321000070,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "89a",
     "addr:postcode": "8037",
@@ -17,12 +24,5 @@
     "website": "https://www.stazioneparadiso.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5340332,
-      47.3867368
-    ]
-  },
-  "id": "node-321000070"
+  "id": 321000070
 }

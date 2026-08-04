@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3577519,
+      47.0933862
+    ]
+  },
+  "properties": {
+    "id": 13665714270,
+    "amenity": "restaurant",
+    "cuisine": "burger;mexican;thai",
+    "level": "3",
+    "name": "Kitchen Reunion",
+    "opening_hours": "Mo-Th 09:00-19:00, Fr 09:00-21:00, Sa 08:00-17:00; PH off",
+    "website": "https://www.kitchenreunion.ch/en/restaurants/kr-mos"
+  },
+  "id": 13665714270
+}

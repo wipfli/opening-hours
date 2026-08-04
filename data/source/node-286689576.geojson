@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.459372,
+      46.9485322
+    ]
+  },
+  "properties": {
+    "id": 286689576,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3006",
+    "addr:street": "Grosser Muristalden",
+    "amenity": "restaurant",
+    "contact:email": "info@brasseriebaerengraben.ch",
+    "contact:fax": "+41 31 3312560",
+    "contact:phone": "+41 31 3314218",
+    "contact:website": "http://www.brasseriebaerengraben.ch/kontakt.html",
+    "name": "Brasserie B\u00e4rengraben",
+    "opening_hours": "Mo-Fr 07:00-23:30; Sa-Su 08:00-23:30",
+    "operator": "WaJu GmbH",
+    "source": "survey and website",
+    "website": "https://www.brasseriebaerengraben.ch/",
+    "wheelchair": "no"
+  },
+  "id": 286689576
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8535628,
+      46.8131913
+    ]
+  },
+  "properties": {
+    "id": 9455282214,
+    "addr:city": "Davos Dorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "7260",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante SAPORI",
+    "opening_hours": "Mo-Su 18:30-23:30",
+    "phone": "+41 81 414 04 00",
+    "website": "https://alpengoldhotel.com/restaurant_bar/sapori/"
+  },
+  "id": 9455282214
+}

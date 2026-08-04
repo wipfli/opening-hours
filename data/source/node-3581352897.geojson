@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5633128,
+      47.3488821
+    ]
+  },
   "properties": {
-    "@id": "node/3581352897",
+    "id": 3581352897,
     "amenity": "restaurant",
     "check_date:opening_hours": "2025-11-07",
     "cuisine": "italian",
@@ -13,12 +20,5 @@
     "smoking": "outside",
     "website": "https://www.la-zagra.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5633128,
-      47.3488821
-    ]
-  },
-  "id": "node-3581352897"
+  "id": 3581352897
 }

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7472446,
+      47.028136
+    ]
+  },
+  "properties": {
+    "id": 1348637318,
+    "addr:housenumber": "9",
+    "addr:postcode": "3454",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "name": "Gasthof zum Kreuz",
+    "opening_hours": "PH,Fr-Tu 09:00-23:00",
+    "website": "https://www.kreuz-sumiswald.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1348637318
+}

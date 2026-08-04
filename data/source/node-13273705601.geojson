@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6128432,
+      46.5207425
+    ]
+  },
+  "properties": {
+    "id": 13273705601,
+    "addr:housenumber": "1",
+    "addr:postcode": "1007",
+    "addr:street": "Chemin de Montelly",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "contact:facebook": "100063624185641",
+    "contact:instagram": "brasserie_de_montelly",
+    "name": "Brasserie de Montelly",
+    "opening_hours": "Mo 08:30-16:00; Tu-Sa 08:30-00:00",
+    "phone": "+41 21 625 03 52",
+    "website": "https://lemontelly.ch/",
+    "website:menu": "https://lemontelly.ch/storage/menus/semaine.pdf"
+  },
+  "id": 13273705601
+}

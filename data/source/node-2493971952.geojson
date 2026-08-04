@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.732526,
+      47.5010807
+    ]
+  },
+  "properties": {
+    "id": 2493971952,
+    "amenity": "restaurant",
+    "name": "Bloom",
+    "opening_hours": "Mo-Fr 06:30-23:00; Sa,Su 07:00-23:00",
+    "website": "https://bloom.ch/"
+  },
+  "id": 2493971952
+}

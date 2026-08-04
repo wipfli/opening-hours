@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2727599,
+      47.3492532
+    ]
+  },
+  "properties": {
+    "id": 1102278150,
+    "addr:city": "Wohlen",
+    "addr:housenumber": "7",
+    "addr:postcode": "5610",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Migros Restaurant Wohlen",
+    "amenity": "restaurant",
+    "branch": "Wohlen AG",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 07:30-17:00, Sa 07:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-wohlen",
+    "wheelchair": "yes"
+  },
+  "id": 1102278150
+}

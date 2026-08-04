@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8223905,
+      47.0989032
+    ]
+  },
+  "properties": {
+    "id": 344166539,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "97",
+    "addr:postcode": "2300",
+    "addr:street": "Rue de la Serre",
+    "amenity": "restaurant",
+    "name": "Bach & Buck",
+    "opening_hours": "Tu-Th 11:30-13:30,18:00-21:30; Fr-Sa 11:30-13:30,18:00-22:30",
+    "phone": "+41 32 913 53 76",
+    "website": "https://www.creperie-bach-buck.ch"
+  },
+  "id": 344166539
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4085948,
+      47.3309419
+    ]
+  },
+  "properties": {
+    "id": 13844083602,
+    "amenity": "restaurant",
+    "check_date": "2026-05-18",
+    "check_date:opening_hours": "2026-05-18",
+    "cuisine": "breakfast;fine_dining",
+    "email": "info@drei-koenig.ch",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "Wirtschaft Drei K\u00f6nige",
+    "opening_hours": "Mo,We-Fr 07:30-18:30; Sa 07:30-17:00; Su 08:00-17:00",
+    "phone": "+41 71 787 11 24",
+    "website": "https://www.drei-koenig.ch/"
+  },
+  "id": 13844083602
+}

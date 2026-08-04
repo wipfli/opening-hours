@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4969898,
+      47.3877848
+    ]
+  },
+  "properties": {
+    "id": 5741642320,
+    "amenity": "restaurant",
+    "check_date": "2025-12-06",
+    "check_date:opening_hours": "2023-04-28",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Amy\u2018s",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 592 66 86",
+    "website": "https://amyskitchen.ch"
+  },
+  "id": 5741642320
+}

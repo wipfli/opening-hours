@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0694462,
+      46.2267526
+    ]
+  },
+  "properties": {
+    "id": 1871628926,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "email": "thaideng62@gmail.com",
+    "mobile": "+41 78 849 93 45",
+    "name": "Marifa",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-24:00; Sa 17:30-24:00",
+    "phone": "+41 22 782 55 69",
+    "website": "https://www.marifah-thai-restaurant.ch/"
+  },
+  "id": 1871628926
+}

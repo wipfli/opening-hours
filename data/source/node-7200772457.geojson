@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9257043,
+      46.1076125
+    ]
+  },
+  "properties": {
+    "id": 7200772457,
+    "addr:city": "Saas-Fee",
+    "addr:housenumber": "62",
+    "addr:postcode": "3906",
+    "addr:street": "Untere Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Steinbock",
+    "opening_hours": "Jan-Apr Mo-Sa 15:00-23:00; May-Dec Mo-Sa 11:00-23:00; Su closed",
+    "phone": "+41 27 957 27 47",
+    "website": "https://www.arvu-stuba.ch/"
+  },
+  "id": 7200772457
+}

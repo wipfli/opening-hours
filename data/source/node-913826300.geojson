@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6780968,
+      47.5310893
+    ]
+  },
+  "properties": {
+    "id": 913826300,
+    "amenity": "restaurant",
+    "name": "Gasthof zur Saline",
+    "opening_hours": "Mo-Fr 06:00-23:00",
+    "phone": "+41 61 821 61 72",
+    "url": "www.gasthof-saline.ch",
+    "website": "https://www.gasthof-saline.ch/"
+  },
+  "id": 913826300
+}

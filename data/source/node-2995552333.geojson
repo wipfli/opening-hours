@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5090999,
+      47.3908314
+    ]
+  },
+  "properties": {
+    "id": 2995552333,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "104",
+    "addr:postcode": "8005",
+    "addr:street": "Pfingstweidstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-23",
+    "contact:email": "naanu@naanu.ch",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "naanu",
+    "opening_hours": "Tu-Fr 10:00-14:00, Tu-Sa 18:00-22:00",
+    "outdoor_seating": "sidewalk",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 271 10 12",
+    "takeaway": "yes",
+    "website": "https://naanu.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2995552333
+}

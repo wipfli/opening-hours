@@ -1,5 +1,0 @@
-I need to find opening hours for the Rosengarten restaurant in Zürich from the website content provided.
-
-The website content is very sparse and contains no opening hours information whatsoever - just navigation menu items.
-
-UNSURE

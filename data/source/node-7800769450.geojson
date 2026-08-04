@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.956883,
+      47.593549
+    ]
+  },
+  "properties": {
+    "id": 7800769450,
+    "amenity": "restaurant",
+    "name": "Badi Beiz Frankrichli",
+    "opening_hours": "May 1-Sep 30: 09:00+",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://badibeiz.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 7800769450
+}

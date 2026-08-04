@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5890387,
+      47.5528079
+    ]
+  },
+  "properties": {
+    "id": 3811616615,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Union Diner",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 09:00-24:00; Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://uniondiner.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3811616615
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.450557,
+      46.948131
+    ]
+  },
+  "properties": {
+    "id": 2989881543,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-01-09",
+    "contact:addr": "Kramgasse 34, 3011 Bern",
+    "contact:email": "hollyfood@tiscali.ch",
+    "contact:phone": "+41 31 3115410",
+    "cuisine": "sandwich",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Hollyfood",
+    "opening_hours": "Mo-We 10:00-19:00; Th 10:00-21:00; Fr 10:00-19:00; Sa 10:00-17:00; Su off",
+    "operator": "Botros Take-Away GmbH",
+    "source": "website",
+    "takeaway": "yes",
+    "website": "https://www.hollyfood.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2989881543
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2778781,
+      47.0450292
+    ]
+  },
+  "properties": {
+    "id": 4705691218,
+    "amenity": "restaurant",
+    "name": "aarvital Restaurant",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "phone": "+41 32 391 75 72",
+    "website": "https://aarvital.ch/restaurant/"
+  },
+  "id": 4705691218
+}

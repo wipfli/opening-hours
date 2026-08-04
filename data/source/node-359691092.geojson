@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7291699,
+      47.500123
+    ]
+  },
+  "properties": {
+    "id": 359691092,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "71",
+    "addr:postcode": "8400",
+    "addr:street": "Stadthausstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-08-12",
+    "cuisine": "italian",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "La Pergola",
+    "opening_hours": "Mo-Sa 09:00-14:00,17:00-23:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 202 02 02",
+    "toilets:wheelchair": "no",
+    "website": "https://www.la-pergola.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 359691092
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0492745,
+      47.362209
+    ]
+  },
+  "properties": {
+    "id": 11349835287,
+    "addr:city": "Unterentfelden",
+    "addr:housenumber": "48",
+    "addr:postcode": "5035",
+    "addr:street": "Suhrenmattstrasse",
+    "amenity": "restaurant",
+    "email": "restaurant.bvz@sv-group.ch",
+    "name": "Restaurant BVZ",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "website": "https://catering.sv-restaurant.ch/bvz/",
+    "website:menu": "https://www.sv-restaurant.ch/menu/BVZ,%20Unterentfelden/Mittagsmen%C3%BC"
+  },
+  "id": 11349835287
+}

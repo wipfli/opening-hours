@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8936779,
+      46.4404494
+    ]
+  },
+  "properties": {
+    "id": 9936084726,
+    "addr:city": "Clarens",
+    "addr:housenumber": "1",
+    "addr:street": "Rue des Vergers",
+    "amenity": "restaurant",
+    "contact:facebook": "commechezthoa",
+    "contact:instagram": "restaurant_chez_thoa",
+    "cuisine": "vietnamese",
+    "name": "Chez Thoa",
+    "opening_hours": "Mo-Sa 10:30-14:30, 18:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 981 09 54",
+    "website": "https://www.mangechezthoa.com"
+  },
+  "id": 9936084726
+}

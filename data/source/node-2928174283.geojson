@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8950371,
+      47.5551891
+    ]
+  },
+  "properties": {
+    "id": 2928174283,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "level": "-1",
+    "name": "il tiramis\u00f9",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-23:30; PH off",
+    "opening_hours:kitchen": "Tu-Sa 11:30-13:30,17:30-21:30; PH off",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "start_date": "2022-02",
+    "website": "https://www.iltiramisu.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2928174283
+}

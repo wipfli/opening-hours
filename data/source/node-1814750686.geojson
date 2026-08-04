@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3031105,
+      47.0507215
+    ]
+  },
+  "properties": {
+    "id": 1814750686,
+    "addr:city": "Luzern",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "6003",
+    "addr:street": "Burgerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "wirtshaus@taube-luzern.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Wirtshaus Taube",
+    "opening_hours": "Mo-Su 11:30-21:30",
+    "phone": "+41 41 210 07 47",
+    "website": "https://www.taube-luzern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1814750686
+}

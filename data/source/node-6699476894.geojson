@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7911683,
+      47.2132814
+    ]
+  },
+  "properties": {
+    "id": 6699476894,
+    "amenity": "restaurant",
+    "check_date": "2024-05-20",
+    "name": "Platzhirsch",
+    "opening_hours": "Mo-Th 15:00-00:30, Fr 15:00-03:00, Sa 14:00-03:00, Su 14:00-22:00",
+    "phone": "+41 62 530 07 07",
+    "website": "https://www.platzhirschlangenthal.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6699476894
+}

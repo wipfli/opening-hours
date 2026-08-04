@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8572063,
+      47.6600963
+    ]
+  },
+  "properties": {
+    "id": 247696933,
+    "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8260",
+    "addr:street": "Schiffl\u00e4ndi",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "wasserfels1@bluewin.ch",
+    "indoor_seating": "yes",
+    "name": "Wasserfels",
+    "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 741 22 36",
+    "smoking": "no",
+    "tourism": "yes",
+    "website": "https://wasserfels.ch/",
+    "website:menu": "https://wasserfels.ch/download/speisekarte-11.05.2025.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 247696933
+}

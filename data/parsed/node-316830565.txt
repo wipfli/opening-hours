@@ -1,5 +1,0 @@
-I can see this is the website for "Zur Goldige Guttere" restaurant in Zürich. However, the website content shows "CLOSED FOR NOW" at the top, which indicates a potential permanent or indefinite closure.
-
-According to the instructions, if there are signs of a permanent future closure, I should return "UNSURE".
-
-UNSURE

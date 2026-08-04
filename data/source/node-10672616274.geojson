@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7394528,
+      47.0937199
+    ]
+  },
+  "properties": {
+    "id": 10672616274,
+    "addr:city": "Schmidigen-M\u00fchleweg",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:place": "Schmidigen",
+    "addr:postcode": "3464",
+    "amenity": "restaurant",
+    "email": "wilden.mann@bluewin.ch",
+    "mobile": "+41 79 714 90 44",
+    "name": "zum wilden Mann",
+    "opening_hours": "Mo-Tu off",
+    "phone": "+41 34 435 12 51",
+    "website": "https://www.restwildenmann.ch/"
+  },
+  "id": 10672616274
+}

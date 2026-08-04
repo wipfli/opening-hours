@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4802292,
+      47.5692158
+    ]
+  },
+  "properties": {
+    "id": 521916945,
+    "addr:city": "Zweidlen-Glattfelden",
+    "addr:housenumber": "2",
+    "addr:postcode": "8192",
+    "addr:street": "Spinnerei-Lettenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Die Turbinenstube ist das kleine feine Restaurant f\u00fcr einen gesch\u00e4ftlichen oder privaten Anlass zur exklusiven Miete.",
+    "name": "Turbinenstube",
+    "opening_hours": "\"Nur geschlossene Gesellschaften\"",
+    "phone": "+41 43 500 92 92",
+    "smoking": "isolated",
+    "website": "https://www.riverside.ch/de/restaurants/turbinenstube/",
+    "wheelchair": "no"
+  },
+  "id": 521916945
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8946724,
+      46.8499832
+    ]
+  },
+  "properties": {
+    "id": 1403827044,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "fax": "+41 34 493 37 68",
+    "name": "Hotel Sporting",
+    "opening_hours": "08:30-00:30",
+    "operator": "Familie Duss Galoppi",
+    "phone": "+41 34 493 36 86",
+    "smoking": "separated",
+    "website": "https://www.hotelsporting.ch/",
+    "wikidata": "Q112013683"
+  },
+  "id": 1403827044
+}

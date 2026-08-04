@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.645983,
+      46.7831447
+    ]
+  },
+  "properties": {
+    "id": 5798209626,
+    "addr:housenumber": "16",
+    "addr:postcode": "1400",
+    "addr:street": "Rue des P\u00eacheurs",
+    "amenity": "restaurant",
+    "check_date": "2026-03-23",
+    "check_date:opening_hours": "2026-03-23",
+    "contact:facebook": "100094348041360",
+    "contact:instagram": "lestaderestaurant",
+    "cuisine": "local;pizza",
+    "email": "info@lestaderestaurant.ch",
+    "name": "Caf\u00e9 / Restaurant du Stade",
+    "opening_hours": "Tu-Sa 09:00-23:00; Su-Mo 09:00-16:00",
+    "phone": "+41 24 4201707",
+    "website": "https://lestaderestaurant.ch",
+    "website:menu": "https://lestaderestaurant.ch/les-cartes-menu-pizzas-yverdon/"
+  },
+  "id": 5798209626
+}

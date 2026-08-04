@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6966636,
+      46.8747379
+    ]
+  },
+  "properties": {
+    "id": 2258902255,
+    "addr:postcode": "1428",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "email": "info@lesgelinottes.ch",
+    "name": "Les G\u00e9linottes",
+    "opening_hours": "We-Sa 09:00-09:00, 23:00-23:00; Su 09:00-18:00",
+    "phone": "+41 24 434 14 38",
+    "website": "https://www.lesgelinottes.ch/"
+  },
+  "id": 2258902255
+}

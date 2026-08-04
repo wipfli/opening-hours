@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9413589,
+      47.224832
+    ]
+  },
+  "properties": {
+    "id": 2628869756,
+    "addr:city": "Schmerikon",
+    "addr:postcode": "8716",
+    "addr:street": "Strandweg",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "location": "lakeside",
+    "name": "Bad am See",
+    "opening_hours": "Tu-Su 10:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 282 11 72",
+    "reservation": "yes",
+    "takeaway": "no",
+    "website": "https://badamsee.ch/"
+  },
+  "id": 2628869756
+}

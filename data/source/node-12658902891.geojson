@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9311469,
+      46.5756324
+    ]
+  },
+  "properties": {
+    "id": 12658902891,
+    "amenity": "restaurant",
+    "check_date": "2025-03-12",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "name": "Palmisano\u2019s",
+    "opening_hours": "Th-Tu 09:00-22:30",
+    "phone": "+41 81 854 34 14",
+    "smoking": "no",
+    "website": "https://palmisanos.ch"
+  },
+  "id": 12658902891
+}

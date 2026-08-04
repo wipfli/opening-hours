@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1463299,
+      46.211796
+    ]
+  },
+  "properties": {
+    "id": 11478997469,
+    "addr:housenumber": "37",
+    "addr:street": "Rue de Neuch\u00e2tel",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Ghandi Caf\u00e9",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 14:00-23:00; Su 14:00-23:00",
+    "phone": "+41227316161",
+    "website": "https://gandhi.ch/"
+  },
+  "id": 11478997469
+}

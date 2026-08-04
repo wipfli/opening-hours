@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5341996,
+      47.2928791
+    ]
+  },
+  "properties": {
+    "id": 1322105015,
+    "amenity": "restaurant",
+    "name": "Hinter Brandberg",
+    "opening_hours": "We,Sa,Su 11:00-18:00",
+    "website": "https://www.hinter-brandberg.ch/"
+  },
+  "id": 1322105015
+}

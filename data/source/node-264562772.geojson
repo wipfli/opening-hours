@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4880121,
+      46.9735967
+    ]
+  },
+  "properties": {
+    "id": 264562772,
+    "amenity": "restaurant",
+    "name": "Altes Bad Pf\u00e4fers",
+    "opening_hours": "Mo-Su, PH 09:00-17:30",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.altes-bad-pfaefers.ch/restaurant.html",
+    "wheelchair": "limited"
+  },
+  "id": 264562772
+}

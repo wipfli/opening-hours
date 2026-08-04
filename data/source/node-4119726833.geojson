@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.304673,
+      47.0516907
+    ]
+  },
+  "properties": {
+    "id": 4119726833,
+    "addr:housenumber": "3",
+    "addr:postcode": "6004",
+    "addr:street": "Metzgerrainle",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "diet:vegetarian": "yes",
+    "name": "pizzeria Valentino",
+    "name:de": "Ristorante Pizzeria Valentino",
+    "opening_hours": "Tu-Sa 11:30-14:30, Tu-Sa 18:00-24:00",
+    "phone": "+41414103193",
+    "website": "https://www.gastronomia-vaglio.com/",
+    "wheelchair": "no"
+  },
+  "id": 4119726833
+}

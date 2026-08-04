@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5983857,
+      47.5642735
+    ]
+  },
+  "properties": {
+    "id": 3890667652,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-03-01",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Boo Messeplatz",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-22:30; Fr 11:30-14:00,17:30-23:00; Sa 11:30-23:00; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "http://www.jefferys.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3890667652
+}

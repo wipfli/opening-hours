@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6128703,
+      47.6689772
+    ]
+  },
+  "properties": {
+    "id": 7454089586,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "highchair": "yes",
+    "level": "0",
+    "name": "Pizzeria San Marino",
+    "opening_hours": "Tu-Th 11:15-13:30,17:00-22:15; Fr-Sa 11:15-13:30,17:00-22:00; Su 11:15-21:30; PH 11:15-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.pizzeriasanmarino.ch/",
+    "wheelchair": "no"
+  },
+  "id": 7454089586
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5665354,
+      47.2936836
+    ]
+  },
+  "properties": {
+    "id": 12708582894,
+    "addr:city": "Thalwil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8800",
+    "addr:street": "B\u00e4ckerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Ming Asian Kitchen",
+    "opening_hours": "Mo,We,Th,Fr 10:30-14:00,17:00-22:00; Sa,Su 15:00-22:00; Tu off",
+    "website": "https://www.mingasiankitchen-thalwil.ch",
+    "website:menu": "https://www.mingasiankitchen-thalwil.ch"
+  },
+  "id": 12708582894
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1388985,
+      46.2106754
+    ]
+  },
+  "properties": {
+    "id": 9022803703,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "13",
+    "addr:postcode": "1201",
+    "addr:street": "Rue des Grottes",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-12-21",
+    "cuisine": "lebanese",
+    "name": "Les Trois Ph\u00e9niciens",
+    "opening_hours": "Tu-Su 11:30-14:00,18:30-24:00",
+    "phone": "+41 22 736 45 45",
+    "website": "https://www.lestroispheniciens.ch"
+  },
+  "id": 9022803703
+}

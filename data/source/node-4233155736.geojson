@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3860191,
+      47.3905708
+    ]
+  },
+  "properties": {
+    "id": 4233155736,
+    "addr:city": "Teufen AR",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "9053",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Pizzeria Teufen",
+    "opening_hours": "Tu-Su 10:30-14:00, 18:00-22:30",
+    "website": "https://pizzeriateufen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4233155736
+}

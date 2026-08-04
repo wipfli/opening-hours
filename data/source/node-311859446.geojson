@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5408969,
+      47.4148171
+    ]
+  },
+  "properties": {
+    "id": 311859446,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8050",
+    "addr:street": "Otto-Sch\u00fctz-Weg",
+    "amenity": "restaurant",
+    "check_date": "2023-11-30",
+    "contact:email": "info@jaime.ch",
+    "contact:phone": "+41 44 310 21 70",
+    "name": "Jaime El Barco",
+    "opening_hours": "Mo-Fr 09:00-24:00; Sa 11:00-24:00",
+    "website": "https://www.jaime.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 311859446
+}

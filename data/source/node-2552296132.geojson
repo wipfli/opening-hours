@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3772736,
+      47.4222158
+    ]
+  },
+  "properties": {
+    "id": 2552296132,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "9000",
+    "addr:street": "St.Georgen-Strasse",
+    "alt_name": "Restaurant Drahtseilbahn",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "swiss",
+    "email": "info@drahtseilb\u00e4hnli.ch",
+    "name": "Drahtseilb\u00e4hnli",
+    "opening_hours": "We,Th,Sa,Su 09:00-20:30; Fr 09:00-22:00; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 222 42 17",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://www.drahtseilbaehnli.com/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Enter through side door direction the monstery."
+  },
+  "id": 2552296132
+}

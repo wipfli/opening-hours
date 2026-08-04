@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0506783,
+      47.3041633
+    ]
+  },
+  "properties": {
+    "id": 1477713146,
+    "addr:city": "Sch\u00f6ftland",
+    "addr:housenumber": "3",
+    "addr:postcode": "5040",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Schlossgarten",
+    "opening_hours": "Tu-Sa 09:30+; Su 08:30+",
+    "phone": "+41 62 721 52 57",
+    "website": "https://www.schlossgarten-schoeftland.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1477713146
+}

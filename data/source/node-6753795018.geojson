@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7999394,
+      46.668212
+    ]
+  },
+  "properties": {
+    "id": 6753795018,
+    "addr:city": "Moudon",
+    "addr:housenumber": "4",
+    "addr:postcode": "1510",
+    "addr:street": "Place Saint-Etienne",
+    "amenity": "restaurant",
+    "internet_access": "no",
+    "name": "Le Chemin de Fer",
+    "opening_hours": "Mo-Sa 08:00-19:30",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 905 70 91",
+    "smoking": "outside",
+    "tourism": "hotel",
+    "website": "https://www.hotel-chemin-de-fer.ch/"
+  },
+  "id": 6753795018
+}

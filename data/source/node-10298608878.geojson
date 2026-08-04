@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9488526,
+      47.5940073
+    ]
+  },
+  "properties": {
+    "id": 10298608878,
+    "amenity": "restaurant",
+    "name": "Ch\u00e4s Beiz",
+    "opening_hours": "Mo-Tu,Th-Fr 08:00-12:00,14:00-19:00; Sa 08:00-16:00; PH -1 day 08:00-16:00; PH off",
+    "outdoor_seating": "yes",
+    "website": "https://chaesi-pfyn.ch/chaes-beiz-und-brunch-restaurante.shtml"
+  },
+  "id": 10298608878
+}

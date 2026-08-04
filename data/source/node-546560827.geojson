@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9660353,
+      47.3198255
+    ]
+  },
+  "properties": {
+    "id": 546560827,
+    "addr:city": "Steg im T\u00f6sstal",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8496",
+    "addr:street": "Sennh\u00fctte",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Berggasthaus Sennh\u00fctte",
+    "opening_hours": "Tu 09:00-20:00; We-Th off; Fr-Su 09:00-20:00",
+    "phone": "+41 55 2452179",
+    "website": "https://sennhuette1028.ch/"
+  },
+  "id": 546560827
+}

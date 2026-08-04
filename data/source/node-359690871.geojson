@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7298391,
+      47.4996801
+    ]
+  },
+  "properties": {
+    "id": 359690871,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8400",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-28",
+    "check_date:opening_hours": "2024-12-27",
+    "cuisine": "regional",
+    "level": "1",
+    "name": "Sonne",
+    "opening_hours": "We-Su 11:00-14:30,17:00-22:00+",
+    "website": "https://www.zur-sonne.ch/",
+    "wikidata": "Q24206971"
+  },
+  "id": 359690871
+}

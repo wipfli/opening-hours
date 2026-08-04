@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3418364,
+      47.4950852
+    ]
+  },
+  "properties": {
+    "id": 323236491,
+    "addr:city": "Ehrendingen",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "5420",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "info@zurheimat.ch",
+    "name": "Wirtshaus zur Heimat",
+    "opening_hours": "Tu-Sa 17:30-23:00,10:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 210 38 28",
+    "website": "https://www.zurheimat.ch/",
+    "wheelchair": "no"
+  },
+  "id": 323236491
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2974428,
+      47.0594633
+    ]
+  },
+  "properties": {
+    "id": 8366377732,
+    "addr:city": "Luzern 16",
+    "addr:postcode": "6000",
+    "addr:street": "Spitalstrasse",
+    "amenity": "restaurant",
+    "brewery": "no",
+    "cuisine": "regional;sandwich",
+    "image": "https://www.luks.ch/sites/default/files/styles/normal_image_in_content/public/media/images/feingut_3.jpg",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "-1",
+    "microbrewery": "no",
+    "name": "Restaurant Feingut",
+    "opening_hours": "Mo-Su 06:30-19:00",
+    "opening_hours:covid19": "closed",
+    "outdoor_seating": "yes",
+    "source": "local knowledge",
+    "website": "https://www.luks.ch/standorte/standort-luzern/restaurant-feingut"
+  },
+  "id": 8366377732
+}

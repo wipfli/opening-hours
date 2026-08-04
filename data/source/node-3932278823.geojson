@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5336595,
+      47.3806356
+    ]
+  },
   "properties": {
-    "@id": "node/3932278823",
+    "id": 3932278823,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "56",
     "addr:postcode": "8005",
@@ -26,12 +33,5 @@
     "website": "https://www.chiang-mai.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5336595,
-      47.3806356
-    ]
-  },
-  "id": "node-3932278823"
+  "id": 3932278823
 }

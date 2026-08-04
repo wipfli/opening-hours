@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2384078,
+      47.1369868
+    ]
+  },
+  "properties": {
+    "id": 6419353531,
+    "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
+    "addr:housenumber": "22",
+    "addr:postcode": "2502",
+    "addr:street": "Faubourg du Lac / Seevorstadt",
+    "addr:street:de": "Seevorstadt",
+    "addr:street:fr": "Faubourg du Lac",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "indoor_seating": "yes",
+    "name": "Pasquart",
+    "opening_hours": "Tu-Sa 18:00-23:00; Su-Mo off",
+    "outdoor_seating": "no",
+    "phone": "+41 32 322 37 75",
+    "website": "http://restaurant-pasquart.ch"
+  },
+  "id": 6419353531
+}

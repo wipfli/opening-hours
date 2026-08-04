@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5362046,
+      47.2045375
+    ]
+  },
+  "properties": {
+    "id": 939041596,
+    "addr:housenumber": "1",
+    "addr:street": "Adlergasse",
+    "amenity": "restaurant",
+    "capacity": "30",
+    "contact:phone": "+41 32 310 44 80",
+    "cuisine": "italian",
+    "delivery": "no",
+    "name": "casanoa",
+    "opening_hours": "Tu-Th 11:30-13:30, 17:00-23:00; Sa 17:00-01:00; Fr 11:30-13:30, 17:00-01:00",
+    "outdoor_seating": "yes",
+    "self_service": "no",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.stuto-antipasti.com/casanoa"
+  },
+  "id": 939041596
+}

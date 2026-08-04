@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5579875,
+      46.7249456
+    ]
+  },
+  "properties": {
+    "id": 14066721217,
+    "amenity": "restaurant",
+    "cuisine": "kebab;burger;italian",
+    "name": "Marito Bistro",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+4176 588 32 42",
+    "website": "https://maritobistro.ch"
+  },
+  "id": 14066721217
+}

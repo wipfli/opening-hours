@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7598939,
+      47.4713325
+    ]
+  },
+  "properties": {
+    "id": 6179289029,
+    "addr:city": "Lausen",
+    "addr:country": "CH",
+    "addr:housenumber": "67",
+    "addr:postcode": "4415",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "email": "info@restaurant-bernerhof.ch",
+    "name": "Restaurant Bernerhof",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa 09:00-17:00",
+    "phone": "+41 61 921 91 53",
+    "website": "http://www.restaurant-bernerhof.ch/"
+  },
+  "id": 6179289029
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0760001,
+      47.235237
+    ]
+  },
+  "properties": {
+    "id": 4459228998,
+    "amenity": "restaurant",
+    "name": "zum R\u00f6ssli",
+    "opening_hours": "Tu-Sa 09:00-00:00; PH 10:00-00:00; Su 10:00-15:00",
+    "phone": "+41 41 933 15 06",
+    "website": "https://roessli-triengen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4459228998
+}

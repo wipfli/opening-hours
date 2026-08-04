@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9592558,
+      46.6019151
+    ]
+  },
+  "properties": {
+    "id": 1965007571,
+    "amenity": "restaurant",
+    "email": "info@klarer-zuoz.ch",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Klarer",
+    "opening_hours": "Tu-Fr 07:30-18:00; Sa,Su 07:30-17:00",
+    "phone": "+41 81 851 34 34",
+    "rooms": "17",
+    "tourism": "hotel",
+    "website": "https://www.klarer-zuoz.ch/",
+    "wikidata": "Q112014011"
+  },
+  "id": 1965007571
+}

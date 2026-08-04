@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5571633,
+      47.3583286
+    ]
+  },
   "properties": {
-    "@id": "node/2456775289",
+    "id": 2456775289,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "148",
@@ -24,12 +31,5 @@
     "wikidata": "Q884224",
     "wikipedia": "en:Blindekuh (restaurant)"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5571633,
-      47.3583286
-    ]
-  },
-  "id": "node-2456775289"
+  "id": 2456775289
 }

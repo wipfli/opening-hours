@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3027787,
+      47.586938
+    ]
+  },
+  "properties": {
+    "id": 6738150121,
+    "addr:city": "K\u00fcssaberg",
+    "addr:housenumber": "40",
+    "addr:postcode": "79790",
+    "addr:street": "Rathausring",
+    "addr:suburb": "Rheinheim",
+    "amenity": "restaurant",
+    "cuisine": "thai;chinese",
+    "email": "huangsgarden@t-online.de",
+    "name": "China-Thai Restaurant Huang's Garden",
+    "opening_hours": "Mo-Su 11:30-14:30,17:30-22:30",
+    "phone": "+49 7741 9679988",
+    "website": "http://huangsgarden.de"
+  },
+  "id": 6738150121
+}

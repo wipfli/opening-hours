@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6347572,
+      46.7836672
+    ]
+  },
+  "properties": {
+    "id": 4988568622,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "24",
+    "addr:postcode": "1400",
+    "addr:street": "Quai de la Thi\u00e8le",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Circulo Esp\u00e3nol",
+    "opening_hours": "We-Sa 10:00-15:00, 17:30-24:00; Su 10:00-17:00",
+    "phone": "+41 24 425 35 98",
+    "website": "https://circuloespanol.ch/"
+  },
+  "id": 4988568622
+}

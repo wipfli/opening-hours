@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3255468,
+      47.4652809
+    ]
+  },
+  "properties": {
+    "id": 2921169133,
+    "amenity": "restaurant",
+    "fax": "+41 56 4269503",
+    "name": "China City",
+    "opening_hours": "Mo-Fr, Su 11:30-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 56 4269591",
+    "website": "https://www.chinacity.ch/"
+  },
+  "id": 2921169133
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4838112,
+      46.2814291
+    ]
+  },
+  "properties": {
+    "id": 11238819785,
+    "addr:housenumber": "6",
+    "addr:street": "Route cantonale",
+    "amenity": "restaurant",
+    "name": "Relais Fleuri",
+    "opening_hours": "We, Th 08:30-14:00, 17:00-23:00; Fr, Sa 08:30-00:00; Su 09:00-14:00",
+    "phone": "+41 27 565 74 12",
+    "website": "https://www.relais-fleuri.ch/"
+  },
+  "id": 11238819785
+}

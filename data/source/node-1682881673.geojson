@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4445155,
+      46.9490008
+    ]
+  },
+  "properties": {
+    "id": 1682881673,
+    "addr:city": "Bern",
+    "addr:housenumber": "41",
+    "addr:postcode": "3011",
+    "addr:street": "Zeughausgasse",
+    "alt_name": "Restaurant B\u00e4renh\u00f6fli",
+    "amenity": "restaurant",
+    "contact:email": "info@kreuzbern.ch",
+    "contact:facebook": "https://www.facebook.com/Baerenhoefli",
+    "contact:fax": "+41 31 3299596",
+    "contact:instagram": "https://www.instagram.com/baerenhoefli",
+    "contact:phone": "+41 31 3299500",
+    "name": "B\u00e4renh\u00f6fli",
+    "opening_hours": "Mo-Sa 07:30-23:30; Su 09:30-18:30",
+    "operator": "Hotel Kreuz Bern AG",
+    "source": "survey and website",
+    "website": "https://baerenhoefli.ch/"
+  },
+  "id": 1682881673
+}

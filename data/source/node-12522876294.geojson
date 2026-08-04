@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1113617,
+      46.2322274
+    ]
+  },
+  "properties": {
+    "id": 12522876294,
+    "addr:city": "Cointrin",
+    "addr:housenumber": "25",
+    "addr:postcode": "1215",
+    "addr:street": "Galerie marchande CFF, Rte de l'A\u00e9roport",
+    "amenity": "restaurant",
+    "cuisine": "pokebowl;sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Ur Poke",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.urpoke.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12522876294
+}

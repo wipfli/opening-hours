@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1394189,
+      46.2105156
+    ]
+  },
+  "properties": {
+    "id": 2990171263,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "18",
+    "addr:postcode": "1201",
+    "addr:street": "Rue des Grottes",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-10-06",
+    "cuisine": "lebanese;moroccan",
+    "diet:vegetarian": "yes",
+    "name": "Nomades",
+    "opening_hours": "Mo-Su 11:00-14:00, 17:00-21:30",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 734 09 88",
+    "website": "http://ndgeneve.ch/"
+  },
+  "id": 2990171263
+}

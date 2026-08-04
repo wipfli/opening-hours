@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.517246,
+      47.3704622
+    ]
+  },
   "properties": {
-    "@id": "node/4370222091",
+    "id": 4370222091,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "70",
@@ -18,12 +25,5 @@
     "website": "https://www.alba.pizza/alba-locations/alba-wiedikon",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.517246,
-      47.3704622
-    ]
-  },
-  "id": "node-4370222091"
+  "id": 4370222091
 }

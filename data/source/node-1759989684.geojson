@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3093819,
+      47.4729018
+    ]
+  },
+  "properties": {
+    "id": 1759989684,
+    "addr:housename": "Trudelkeller",
+    "addr:housenumber": "36",
+    "addr:street": "Obere Halde",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "diet:vegetarian": "yes",
+    "name": "Trudelhaus",
+    "opening_hours": "Tu-Sa 18:00+",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.trudelkeller.ch",
+    "wheelchair": "no"
+  },
+  "id": 1759989684
+}

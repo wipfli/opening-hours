@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4318485,
+      47.5680999
+    ]
+  },
+  "properties": {
+    "id": 495326689,
+    "addr:housenumber": "4",
+    "addr:street": "Hauptstra\u00dfe",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "email": "info@saloniki-hohentengen.de",
+    "name": "Saloniki",
+    "opening_hours": "Mo 17:30-23:00; Tu off; We-Sa 11:30-14:30,17:30-23:30; Su,PH 11:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+49 7742 3178",
+    "website": "https://www.saloniki-hohentengen.de/",
+    "website:menu": "https://www.saloniki-hohentengen.de/speisekarte/"
+  },
+  "id": 495326689
+}

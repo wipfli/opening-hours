@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8263895,
+      47.0995691
+    ]
+  },
+  "properties": {
+    "id": 4926230013,
+    "amenity": "restaurant",
+    "check_date": "2026-03-28",
+    "level": "0",
+    "name": "Damas Grill",
+    "opening_hours": "Mo-Th,Su 10:00-23:00; Fr-Sa 10:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 525 86 64",
+    "website": "https://damasgrill.ch"
+  },
+  "id": 4926230013
+}

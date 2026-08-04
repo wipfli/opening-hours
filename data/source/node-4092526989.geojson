@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3743139,
+      47.4243917
+    ]
+  },
+  "properties": {
+    "id": 4092526989,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "46",
+    "addr:postcode": "9000",
+    "addr:street": "Neugasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Cento Grammi",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:00-23:00; Sa 11:30-23:00; Su 12:00-21:30",
+    "website": "https://centogrammi.ch/"
+  },
+  "id": 4092526989
+}

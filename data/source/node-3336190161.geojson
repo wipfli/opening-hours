@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.521345,
+      46.7390463
+    ]
+  },
+  "properties": {
+    "id": 3336190161,
+    "addr:city": "Blumenstein",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "3638",
+    "addr:street": "B\u00e4renstutz",
+    "alt_name": "Gasthof B\u00e4ren",
+    "amenity": "restaurant",
+    "contact:email": "castra@bluewin.ch",
+    "contact:mobile": "+41 79 6671423",
+    "contact:phone": "+41 33 3564636",
+    "name": "B\u00e4ren",
+    "note": "B\u00e4ren ist bis auf weiteres geschlossen",
+    "opening_hours": "off",
+    "opening_hours:url": "http://www.baeren-blumenstein.ch/8401.html",
+    "source": "survey and website",
+    "website": "https://www.baeren-blumenstein.ch"
+  },
+  "id": 3336190161
+}

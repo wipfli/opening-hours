@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6370197,
+      46.519914
+    ]
+  },
+  "properties": {
+    "id": 3210622721,
+    "amenity": "restaurant",
+    "check_date": "2025-12-10",
+    "check_date:opening_hours": "2025-12-10",
+    "name": "Au Couscous",
+    "opening_hours": "Mo-Sa 11:30-14:30, Su-Th 18:30-24:00, Fr,Sa 18:30-01:00",
+    "phone": "+41 21 312 98 00",
+    "start_date": "1958",
+    "website": "https://au-couscous.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3210622721
+}

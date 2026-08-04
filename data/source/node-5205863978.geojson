@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7340645,
+      47.4912931
+    ]
+  },
+  "properties": {
+    "id": 5205863978,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "email": "info@incontropizza.ch",
+    "name": "Incontro",
+    "opening_hours": "Mo off; Tu, We, Fr 11:30-13:30, 17:30-21:00; Th, Su 17:30-21:00; Sa 11:30-21:00",
+    "phone": "+41 52 233 22 12",
+    "takeaway": "yes",
+    "website": "http://www.incontropizza.ch/"
+  },
+  "id": 5205863978
+}

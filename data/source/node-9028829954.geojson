@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3174822,
+      46.2250061
+    ]
+  },
+  "properties": {
+    "id": 9028829954,
+    "addr:city": "Pont-de-la-Morge",
+    "addr:housenumber": "84",
+    "addr:postcode": "1962",
+    "addr:street": "Rue de Savoie",
+    "amenity": "restaurant",
+    "description": "Caf\u00e9-Restaurant Bed and Breakfast",
+    "name": "Relai du Simplon",
+    "opening_hours": "Tu-Sa 10:00-14:30,18:00-23:00",
+    "phone": "+41272031103",
+    "website": "https://www.relaisdusimplon.ch/",
+    "wheelchair": "no"
+  },
+  "id": 9028829954
+}

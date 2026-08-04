@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4560047,
+      46.9637361
+    ]
+  },
+  "properties": {
+    "id": 314426268,
+    "addr:city": "Bern",
+    "addr:housenumber": "56",
+    "addr:postcode": "3014",
+    "addr:street": "Winkelriedstrasse",
+    "alt_name": "Ristorante Il Profeta",
+    "amenity": "restaurant",
+    "contact:addr": "Winkelriedstrasse 56, 3014 Bern",
+    "contact:phone": "+41 31 3317393",
+    "cuisine": "italian",
+    "name": "Il Profeta",
+    "opening_hours": "Mo-Fr 10:30-14:00,17:00-23:30; Sa,Su off",
+    "source": "survey and website",
+    "website": "https://www.ilprofeta.ch/"
+  },
+  "id": 314426268
+}

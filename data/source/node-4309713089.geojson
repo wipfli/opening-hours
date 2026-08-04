@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295871,
+      47.3838555
+    ]
+  },
   "properties": {
-    "@id": "node/4309713089",
+    "id": 4309713089,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "31",
@@ -23,12 +30,5 @@
     "website": "https://www.bindella.ch/de/santa-lucia-limmatplatz.html",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5295871,
-      47.3838555
-    ]
-  },
-  "id": "node-4309713089"
+  "id": 4309713089
 }

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4540539,
+      46.9478937
+    ]
+  },
+  "properties": {
+    "id": 670446032,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "3011",
+    "addr:street": "Junkerngasse",
+    "alt_name": "Speiseanstalt der Untern Stadt Bern",
+    "amenity": "restaurant",
+    "contact:email": "spysi@spysi.ch",
+    "contact:phone": "+41 31 3112465",
+    "contact:website": "http://www.spysi.ch/index.php?cid=700",
+    "name": "Spysi",
+    "note": "somehow a social facility, but not in the ordinary terms",
+    "opening_hours": "Jan-Mar Mo-Fr 11:30-13:00; Sa-Su off; Apr-Oct off; Nov-Dec Mo-Fr 11:30-13:00; Sa-Su off; PH off",
+    "source": "survey and website",
+    "website": "https://www.spysi.ch/"
+  },
+  "id": 670446032
+}

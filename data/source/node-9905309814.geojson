@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5886535,
+      47.5658897
+    ]
+  },
+  "properties": {
+    "id": 9905309814,
+    "addr:city": "Basel",
+    "addr:housenumber": "23",
+    "addr:postcode": "4057",
+    "addr:street": "Feldbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Choi Asian Garden",
+    "opening_hours": "Tu-Th 11:30-22:00, Fr-Sa 11:30-22:30, Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 681 82 83",
+    "smoking": "outside",
+    "website": "https://choi-asiangarden.ch/"
+  },
+  "id": 9905309814
+}

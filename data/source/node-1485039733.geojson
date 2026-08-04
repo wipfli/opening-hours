@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.30957,
+      47.0589362
+    ]
+  },
+  "properties": {
+    "id": 1485039733,
+    "amenity": "restaurant",
+    "check_date": "2025-10-03",
+    "cuisine": "lebanese",
+    "email": "abbas.jaber67@hotmail.com",
+    "indoor_seating": "yes",
+    "name": "Tassnim Orient Take-Away",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "operator": "lebanon",
+    "outdoor_seating": "no",
+    "phone": "+41414107007",
+    "takeaway": "yes",
+    "website": "https://www.tassnimorient.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1485039733
+}

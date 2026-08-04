@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8521231,
+      46.8153148
+    ]
+  },
+  "properties": {
+    "id": 6779724289,
+    "amenity": "restaurant",
+    "check_date": "2025-08-01",
+    "level": "0",
+    "name": "Bachi's Strandbad",
+    "opening_hours": "Mo-Su 09:30-22:00 open \"Summer\"; Mo,Th-Su 11:00-18:30 open \"Winter\"",
+    "opening_hours:kitchen": "Mo-Su 11:00-20:30 open \"Summer\"",
+    "outdoor_seating": "yes",
+    "website": "http://www.bachis-strandbad.ch/"
+  },
+  "id": 6779724289
+}

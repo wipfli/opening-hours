@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5973694,
+      47.5698504
+    ]
+  },
+  "properties": {
+    "id": 3207784771,
+    "addr:city": "Basel",
+    "addr:housenumber": "44",
+    "addr:postcode": "4057",
+    "addr:street": "Brombacherstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Thai Caf\u00e9",
+    "opening_hours": "Mo-Fr 11:30-13:30,17:30-22:30; Sa-Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.thaicafe.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3207784771
+}

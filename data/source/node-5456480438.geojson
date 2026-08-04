@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8548648,
+      46.6860023
+    ]
+  },
+  "properties": {
+    "id": 5456480438,
+    "addr:city": "Interlaken",
+    "addr:housenumber": "10",
+    "addr:postcode": "3800",
+    "addr:street": "Postgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-16",
+    "name": "Funky Chocolate Club",
+    "opening_hours": "Mo-Su,PH 11:30-21:00",
+    "phone": "+41 79 108 92 47",
+    "website": "https://funkychocolateclub.com",
+    "wheelchair": "no"
+  },
+  "id": 5456480438
+}

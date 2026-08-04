@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3048965,
+      47.0517122
+    ]
+  },
+  "properties": {
+    "id": 4209158695,
+    "addr:city": "Luzern",
+    "addr:housenumber": "10A",
+    "addr:postcode": "6004",
+    "addr:street": "Unter der Egg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Fondue House Du Pont",
+    "opening_hours": "Mo-Fr 12:00-23:00; Sa 17:00-23:00; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 412 0303",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.fondue-dupont.ch/"
+  },
+  "id": 4209158695
+}

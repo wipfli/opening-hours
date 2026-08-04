@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0174098,
+      47.457283
+    ]
+  },
+  "properties": {
+    "id": 2366991608,
+    "addr:city": "Busswil",
+    "addr:housename": "Restaurant Sternen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8371",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "Sternen",
+    "opening_hours": "off \"nur nach Vereinbarung\"",
+    "phone": "+41 78 788 74 73",
+    "website": "http://www.sternenbusswil.ch/"
+  },
+  "id": 2366991608
+}

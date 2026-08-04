@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6220816,
+      46.521309
+    ]
+  },
+  "properties": {
+    "id": 5256731341,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Tivoli",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "\u529f\u592b\u5c0f\u53a8Kung-Fu Cuisine",
+    "opening_hours": "Tu-Su 11:30-14:00, 18:30-21:45",
+    "outdoor_seating": "no",
+    "phone": "+41 21 311 1888",
+    "website": "https://www.kung-fu-cuisine-lausanne.ch/contact",
+    "website:menu": "https://www.kung-fu-cuisine-lausanne.ch/"
+  },
+  "id": 5256731341
+}

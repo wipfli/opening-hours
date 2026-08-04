@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5003219,
+      46.5181974
+    ]
+  },
+  "properties": {
+    "id": 477535398,
+    "addr:city": "Morges",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "1110",
+    "addr:street": "Chemin de la Grosse-Pierre",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;swiss",
+    "description": "Une cuisine m\u00e9diterran\u00e9enne et de saison \u00e0 d\u00e9guster dans une ambiance chaleureuse et familiale. Cuisine italienne savoureuse faite de p\u00e2tes fra\u00eeches et d'un grand choix de pizzas \u00e0 l'ancienne mais aussi des sp\u00e9cialit\u00e9s suisses.",
+    "name": "Pizzeria de la Grosse Pierre",
+    "opening_hours": "Mo-Fr 08:00-15:00, 18:00-23:30; Sa 09:00-15:00, 18:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 801 71 41",
+    "smoking": "outside",
+    "website": "https://www.pizzeria-grosse-pierre.ch",
+    "wheelchair": "yes"
+  },
+  "id": 477535398
+}

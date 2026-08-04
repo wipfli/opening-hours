@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5247211,
+      47.5127117
+    ]
+  },
+  "properties": {
+    "id": 2795168763,
+    "addr:city": "B\u00fclach",
+    "addr:housenumber": "120",
+    "addr:street": "Kasernenstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Frieden / Horse Pub",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa, Su 09:00-21:30",
+    "website": "http://restaurant-frieden.ch/"
+  },
+  "id": 2795168763
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7601794,
+      47.4837338
+    ]
+  },
+  "properties": {
+    "id": 12546601316,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "7",
+    "addr:postcode": "8405",
+    "addr:street": "Bollstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;pasta;sandwich",
+    "delivery": "yes",
+    "name": "Top 1",
+    "opening_hours": "Tu-Sa 10:30-14:00, 17:30-22:30; Su 14:30-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://top-1.ch/"
+  },
+  "id": 12546601316
+}

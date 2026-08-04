@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6050977,
+      46.5278643
+    ]
+  },
+  "properties": {
+    "id": 6056990756,
+    "addr:housenumber": "92",
+    "addr:street": "Avenue de Morges",
+    "amenity": "restaurant",
+    "check_date": "2026-04-11",
+    "cuisine": "thai",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Golden Mango",
+    "opening_hours": "Mo-Fr 11:30-14:30, 18:00-21:30; Sa 18:00-21:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 601 99 88",
+    "website": "https://golden-mango.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 6056990756
+}

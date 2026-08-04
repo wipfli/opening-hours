@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7656468,
+      47.2515845
+    ]
+  },
+  "properties": {
+    "id": 730654128,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gasthof Krone",
+    "opening_hours": "Mo-Fr 06:30-22:00",
+    "phone": "+41 55 244 51 62",
+    "website": "http://www.krone-hombrechtikon.ch/"
+  },
+  "id": 730654128
+}

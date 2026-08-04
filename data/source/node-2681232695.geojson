@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0528204,
+      47.6736023
+    ]
+  },
+  "properties": {
+    "id": 2681232695,
+    "addr:city": "Mannenbach-Salenstein",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8268",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "internet_access": "yes",
+    "name": "Pizzeria Lago Mio",
+    "opening_hours": "We-Su 09:00-23:00",
+    "phone": "+41 55 242 10 00",
+    "smoking": "outside",
+    "website": "https://pizzerialagomio.ch",
+    "wheelchair": "no"
+  },
+  "id": 2681232695
+}

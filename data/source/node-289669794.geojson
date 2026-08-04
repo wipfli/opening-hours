@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5323081,
+      47.3635082
+    ]
+  },
   "properties": {
-    "@id": "node/289669794",
+    "id": 289669794,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "21",
@@ -22,12 +29,5 @@
     "website": "https://amara-zurich.ch",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5323081,
-      47.3635082
-    ]
-  },
-  "id": "node-289669794"
+  "id": 289669794
 }

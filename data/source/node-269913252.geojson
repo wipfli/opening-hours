@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456652,
+      47.3682061
+    ]
+  },
   "properties": {
-    "@id": "node/269913252",
+    "id": 269913252,
     "addr:housenumber": "9",
     "addr:street": "Torgasse",
     "amenity": "restaurant",
@@ -14,12 +21,5 @@
     "website": "https://www.weissero.se",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5456652,
-      47.3682061
-    ]
-  },
-  "id": "node-269913252"
+  "id": 269913252
 }

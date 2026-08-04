@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5336566,
+      47.3788641
+    ]
+  },
+  "properties": {
+    "id": 13839583902,
+    "amenity": "restaurant",
+    "description": "menu: https://menu.tablesnappr.com/bridgezurich/#/",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "the grill @ bridge",
+    "opening_hours": "Mo-Sa 11:30-23:00",
+    "operator": "bridge",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.bridgezurich.ch/de/startseite/",
+    "wheelchair": "yes"
+  },
+  "id": 13839583902
+}

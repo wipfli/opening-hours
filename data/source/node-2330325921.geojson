@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533862,
+      47.3784801
+    ]
+  },
   "properties": {
-    "@id": "node/2330325921",
+    "id": 2330325921,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -20,12 +27,5 @@
     "website": "https://www.loftfive.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.533862,
-      47.3784801
-    ]
-  },
-  "id": "node-2330325921"
+  "id": 2330325921
 }

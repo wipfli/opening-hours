@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2841482,
+      47.082512
+    ]
+  },
+  "properties": {
+    "id": 12174824113,
+    "addr:city": "Emmen",
+    "addr:housenumber": "69",
+    "addr:postcode": "6020",
+    "addr:street": "R\u00fceggisingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Big Burger",
+    "opening_hours": "Tu-Th 11:00-13:30,17:00-22:00; Fr 11:00-13:30,17:00-23:30; Sa 15:00-23:30; Su 15:00-21:30",
+    "phone": "+41412802732",
+    "takeaway": "yes",
+    "website": "https://bigburger.ch/diner-emmen/"
+  },
+  "id": 12174824113
+}

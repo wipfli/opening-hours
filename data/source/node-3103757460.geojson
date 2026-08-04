@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4486862,
+      46.9478139
+    ]
+  },
+  "properties": {
+    "id": 3103757460,
+    "addr:floor": "1",
+    "alt_name": "Sushi Bar Yamasaki",
+    "amenity": "restaurant",
+    "check_date": "2025-12-29",
+    "contact:addr": "Kramgasse 75, 3011 Bern",
+    "contact:fax": "+41 31 3119735",
+    "contact:phone": "+41 31 3117570",
+    "name": "Sushi Bar",
+    "opening_hours": "Mo-Fr 11:30-14:30, 18:00-22:00; Sa-Su off",
+    "operator": "Futoshi Yamasaki",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://www.sushibar-yamasaki.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3103757460
+}

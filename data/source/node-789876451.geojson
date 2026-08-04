@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4377556,
+      46.9198897
+    ]
+  },
+  "properties": {
+    "id": 789876451,
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "tapis.rouge@gurtenpark.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "Huusb\u00fcffe",
+    "opening_hours": "Oct 15-Mar 30 09:00-18:00; Apr 1-Oct 14 09:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41319703316",
+    "self_service": "only",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.gurtenpark.ch/de-CH/restaurants/tapis-rouge",
+    "wheelchair": "yes"
+  },
+  "id": 789876451
+}

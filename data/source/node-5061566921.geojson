@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3133418,
+      47.4249824
+    ]
+  },
+  "properties": {
+    "id": 5061566921,
+    "addr:housenumber": "16",
+    "addr:postcode": "5452",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "info@frohsinn-oberrohrdorf.ch",
+    "name": "Restaurant Frohsinn",
+    "name:de": "Restaurant Frohsinn",
+    "name:en": "Restaurant Frohsinn",
+    "opening_hours": "We-Fr 08:00-24:00, Sa 09:00-24:00, Su 10:00-22:00",
+    "phone": "+41 56 496 11 57",
+    "website": "https://www.frohsinn-oberrohrdorf.ch/"
+  },
+  "id": 5061566921
+}

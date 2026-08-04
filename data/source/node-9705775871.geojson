@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9074212,
+      46.5965187
+    ]
+  },
+  "properties": {
+    "id": 9705775871,
+    "addr:housenumber": "456B",
+    "addr:street": "Greifenbach",
+    "amenity": "restaurant",
+    "check_date": "2023-04-28",
+    "diet:halal": "yes",
+    "name": "Food Point",
+    "opening_hours": "Mo-We, Fr-Su 11:00-21:00; Th off",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 76 793 62 11",
+    "website": "https://www.foodpoint-lauterbrunnen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9705775871
+}

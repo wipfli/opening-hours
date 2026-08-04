@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7129546,
+      47.3501534
+    ]
+  },
+  "properties": {
+    "id": 355228626,
+    "addr:city": "Uster",
+    "addr:housenumber": "30",
+    "addr:postcode": "8610",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "name": "al gusto",
+    "note": "Jugendhaus frjz, \"al gusto!\" ist ein Projekt von \u00abalso!\u00bb, Verein f\u00fcr berufliche und soziale Integration Bezirk Uster. Unter der Leitung von Fachpersonen kochen und servieren erwerbslose Personen bis zu 60 Menus am Tag",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.frjz.ch/cms/frjz/restaurant/al-gusto.html",
+    "wheelchair": "limited"
+  },
+  "id": 355228626
+}

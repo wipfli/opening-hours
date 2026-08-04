@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3467571,
+      47.3285574
+    ]
+  },
+  "properties": {
+    "id": 4303008609,
+    "addr:city": "Gonten",
+    "addr:housenumber": "40",
+    "addr:postcode": "9108",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-31",
+    "cuisine": "fine_dining;breakfast",
+    "email": "info@appenzellerhuus.ch",
+    "name": "Gasthaus B\u00e4ren",
+    "opening_hours": "Th-Sa 18:30+",
+    "phone": "+41 71 795 40 10",
+    "website": "https://baeren-appenzell.com"
+  },
+  "id": 4303008609
+}

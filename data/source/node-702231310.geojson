@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5917023,
+      47.5425899
+    ]
+  },
+  "properties": {
+    "id": 702231310,
+    "addr:city": "Basel",
+    "addr:housenumber": "151",
+    "addr:postcode": "4053",
+    "addr:street": "Dornacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;regional;steak_house",
+    "email": "info@wanderruh.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant zur Wanderruh",
+    "name:de": "Wanderruh",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41613610888",
+    "smoking": "outside",
+    "website": "https://www.wanderruh.ch/"
+  },
+  "id": 702231310
+}

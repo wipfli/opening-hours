@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8694589,
+      46.4090429
+    ]
+  },
+  "properties": {
+    "id": 1799471310,
+    "addr:city": "Giornico",
+    "addr:country": "CH",
+    "addr:housenumber": "75",
+    "addr:postcode": "6745",
+    "addr:street": "Via San Gottardo",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@grotto-pescatori.ch",
+    "name": "Grotto Pescatori",
+    "opening_hours": "We-Sa 11:00-14:30, 17:30-22:00; Su 11:00-18:00; Mar 01-Mar 31 Th-Sa 11:00-14:30, 17:30-22:00, Su 11:00-18:00",
+    "opening_hours:kitchen": "We-Sa 12:00-14:00, 18:00-21:00; Su 12:00-16:00",
+    "phone": "+41 91 864 19 91",
+    "website": "https://grotto-pescatori.ch/"
+  },
+  "id": 1799471310
+}

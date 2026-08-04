@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5922305,
+      47.5600427
+    ]
+  },
+  "properties": {
+    "id": 9350766921,
+    "addr:city": "Basel",
+    "addr:housenumber": "25",
+    "addr:postcode": "4058",
+    "addr:street": "Rheingasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Sonne",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa 17:30-23:00; Su off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://sonne.restaurant"
+  },
+  "id": 9350766921
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.53266,
+      47.3441094
+    ]
+  },
+  "properties": {
+    "id": 80087517,
+    "amenity": "restaurant",
+    "check_date": "2026-03-30",
+    "cuisine": "chinese",
+    "level": "0",
+    "name": "Yan-Ruyi",
+    "opening_hours": "We-Fr 12:00-14:00, We-Su 18:00-22:30, Su 13:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 481 67 27",
+    "takeaway": "yes",
+    "website": "https://ruyi-restaurant.ch/"
+  },
+  "id": 80087517
+}

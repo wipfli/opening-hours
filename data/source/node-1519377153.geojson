@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6368592,
+      46.5112215
+    ]
+  },
+  "properties": {
+    "id": 1519377153,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "check_date": "2025-10-08",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Le caf\u00e9 des Avenues",
+    "opening_hours": "Mo-Fr 06:30-00:00; Sa-Su 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 11 11",
+    "website": "https://www.cafe-des-avenues.ch/"
+  },
+  "id": 1519377153
+}

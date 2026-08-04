@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9462602,
+      45.9929101
+    ]
+  },
+  "properties": {
+    "id": 8988100996,
+    "amenity": "restaurant",
+    "cuisine": "fusion",
+    "name": "Meta",
+    "opening_hours": "Mo-Fr 12:00-15:00; Su 00:00-24:00",
+    "phone": "+41 91 994 68 68",
+    "stars": "1",
+    "website": "https://metaworld.ch/"
+  },
+  "id": 8988100996
+}

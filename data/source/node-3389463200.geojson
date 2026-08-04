@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6560083,
+      46.5230949
+    ]
+  },
+  "properties": {
+    "id": 3389463200,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "59",
+    "addr:postcode": "1012",
+    "addr:street": "Avenue de Chailly",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Caf\u00e9 du Village",
+    "opening_hours": "Mo 07:30-21:00; Tu-Fr 07:30-23:00; Sa 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 728 92 43",
+    "website": "https://cafeduvillagechailly.ch/"
+  },
+  "id": 3389463200
+}

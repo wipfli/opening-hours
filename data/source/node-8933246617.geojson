@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8516614,
+      46.3865422
+    ]
+  },
+  "properties": {
+    "id": 8933246617,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-09",
+    "contact:facebook": "https://www.facebook.com/tavernedelatourbouveret/",
+    "contact:phone": "+41 24 481 37 28",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g1130021-d1885215-Reviews-Taverne_de_la_Tour-Le_Bouveret_Canton_of_Valais_Swiss_Alps.html",
+    "email": "info@tavernedelatourbouveret.ch",
+    "name": "Taverne de la Tour",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "website": "https://tavernedelatourbouveret.ch/"
+  },
+  "id": 8933246617
+}

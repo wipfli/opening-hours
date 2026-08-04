@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1126011,
+      47.3538472
+    ]
+  },
+  "properties": {
+    "id": 6549591110,
+    "addr:city": "Oberhelfenschwil",
+    "addr:housenumber": "2",
+    "addr:postcode": "9621",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@dorfplatz-sg.ch",
+    "name": "Dorfplatz",
+    "opening_hours": "08:30-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 375 61 81",
+    "website": "https://www.dorfplatz-sg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6549591110
+}

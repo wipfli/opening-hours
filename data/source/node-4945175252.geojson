@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.594844,
+      47.5435717
+    ]
+  },
+  "properties": {
+    "id": 4945175252,
+    "addr:city": "Basel",
+    "addr:housenumber": "39",
+    "addr:postcode": "4053",
+    "addr:street": "Bruderholzstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Knock on Wood",
+    "opening_hours": "Mo-Fr 11:30-14:00, Tu-Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.knockonwoodfusion.ch/"
+  },
+  "id": 4945175252
+}

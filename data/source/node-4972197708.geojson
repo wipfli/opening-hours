@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7160435,
+      46.9365135
+    ]
+  },
+  "properties": {
+    "id": 4972197708,
+    "addr:city": "Couvet",
+    "addr:postcode": "2108",
+    "addr:street": "Crux-du-Van",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Open from end of April to the beginning of November.",
+    "ele": "1386",
+    "name": "Le Soliat",
+    "opening_hours": "Apr-Nov",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 863 31 36",
+    "ref:refuges.info": "2883",
+    "smoking": "outside",
+    "tourism": "guest_house",
+    "website": "https://www.lesoliat.ch/"
+  },
+  "id": 4972197708
+}

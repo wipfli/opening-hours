@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5454206,
+      47.3686967
+    ]
+  },
   "properties": {
-    "@id": "node/9811058009",
+    "id": 9811058009,
     "amenity": "restaurant",
     "check_date": "2025-07-14",
     "cuisine": "lebanese",
@@ -12,12 +19,5 @@
     "website": "https://noonexpress.ch",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5454206,
-      47.3686967
-    ]
-  },
-  "id": "node-9811058009"
+  "id": 9811058009
 }

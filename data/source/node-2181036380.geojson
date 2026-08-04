@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1745279,
+      47.5817294
+    ]
+  },
+  "properties": {
+    "id": 2181036380,
+    "addr:housenumber": "32",
+    "addr:postcode": "8572",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Gasthaus zum Bahnhof",
+    "opening_hours": "Mo,Tu,Fr 08:30-24:00, Sa,Su,PH 11:00-24:00",
+    "tourism": "hotel",
+    "website": "https://bahnhof-grewe.ch/"
+  },
+  "id": 2181036380
+}

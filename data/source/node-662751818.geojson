@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.436531,
+      46.9377931
+    ]
+  },
+  "properties": {
+    "id": 662751818,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "3007",
+    "addr:street": "Sulgenauweg",
+    "alt_name": "Restaurant Maharani Palace",
+    "amenity": "restaurant",
+    "contact:phone": "+41782625199",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "maharanipalacebern@gmail.com",
+    "name": "Maharani Palace",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa,Su 17:00-22:00",
+    "operator": "Vanakkam Ayurveda GmbH",
+    "source": "survey",
+    "website": "https://maharanirestaurant.ch/"
+  },
+  "id": 662751818
+}

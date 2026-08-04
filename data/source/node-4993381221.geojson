@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3107587,
+      47.2095872
+    ]
+  },
+  "properties": {
+    "id": 4993381221,
+    "addr:city": "Unterwasser",
+    "addr:country": "CH",
+    "addr:housenumber": "669",
+    "addr:place": "Ch\u00fceboden",
+    "addr:postcode": "9657",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "Aelpli",
+    "opening_hours": "We-Su 09:00+; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 997 01 96",
+    "website": "https://aelpli.com/"
+  },
+  "id": 4993381221
+}

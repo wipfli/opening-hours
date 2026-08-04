@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154056,
+      47.3999623
+    ]
+  },
+  "properties": {
+    "id": 307747470,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "45",
+    "addr:postcode": "8037",
+    "addr:street": "Waidbadstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "name": "Die Waid",
+    "opening_hours": "08:00-23:30",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.diewaid.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 307747470
+}

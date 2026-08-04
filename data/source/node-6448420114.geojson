@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3731849,
+      46.9443121
+    ]
+  },
+  "properties": {
+    "id": 6448420114,
+    "amenity": "restaurant",
+    "check_date": "2025-10-25",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "1",
+    "level:ref": "0",
+    "name": "Tara Indian Cuisine",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
+    "payment:american_express": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "website": "https://bern-westside.tararestaurant.ch"
+  },
+  "id": 6448420114
+}

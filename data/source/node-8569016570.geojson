@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5522137,
+      47.4929686
+    ]
+  },
+  "properties": {
+    "id": 8569016570,
+    "amenity": "restaurant",
+    "cuisine": "italian;regional;salad",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Landgasthof Breiti",
+    "opening_hours": "Mo-Sa 09:00-23:00; Su 09:00-22:00; PH open",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.hotelbreiti.ch",
+    "wheelchair": "limited"
+  },
+  "id": 8569016570
+}

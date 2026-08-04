@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6334961,
+      46.7572272
+    ]
+  },
+  "properties": {
+    "id": 7881035785,
+    "addr:postcode": "3600",
+    "amenity": "restaurant",
+    "check_date": "2026-02-06",
+    "cuisine": "indian",
+    "email": "info@turbanthun.ch",
+    "name": "Turban Indian Restaurant",
+    "opening_hours": "We-Th 11:30-22:00; Fr-Su 13:00-22:00",
+    "operator": "Julia Maisuria",
+    "phone": "+41335354799",
+    "website": "https://www.turbanthun.ch/"
+  },
+  "id": 7881035785
+}

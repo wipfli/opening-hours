@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8371217,
+      46.4678263
+    ]
+  },
+  "properties": {
+    "id": 9956185120,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "1800",
+    "addr:street": "Avenue Reller",
+    "amenity": "restaurant",
+    "check_date": "2025-12-04",
+    "contact:facebook": "romanavevey",
+    "contact:instagram": "romanavevey",
+    "diet:vegetarian": "yes",
+    "name": "Saveurs du coeur",
+    "opening_hours": "Mo, Tu 08:00-15:00; We-Sa 08:00-15:00, 18:00-22:00",
+    "phone": "+41 21 921 61 10",
+    "website": "https://www.romana-vevey.ch/"
+  },
+  "id": 9956185120
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3113801,
+      47.1970864
+    ]
+  },
+  "properties": {
+    "id": 633355964,
+    "amenity": "restaurant",
+    "check_date": "2026-06-15",
+    "cuisine": "regional",
+    "name": "Toggenburgerstube des Hotel Sternen",
+    "opening_hours": "Mo-Su 12:00-13:30, 18:00-21:30",
+    "website": "http://www.Sternen.biz"
+  },
+  "id": 633355964
+}

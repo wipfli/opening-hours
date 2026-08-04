@@ -1,9 +1,0 @@
-Looking at the opening hours:
-
-- Dienstag bis Freitag: 11:30-14:00 (lunch) and 18:00-23:30 (evening)
-- Samstag: 18:00-23:30
-- Sonntag und Montag: geschlossen
-
-The "Abends 18.00 - 23.30 Uhr" line refers to the evening hours for Tuesday to Friday (since it's listed after the lunch hours for those days, and Saturday has its own explicit evening hours which happen to be the same).
-
-Tu-Fr 11:30-14:00,18:00-23:30; Sa 18:00-23:30

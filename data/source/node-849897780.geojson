@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6421493,
+      46.777777
+    ]
+  },
+  "properties": {
+    "id": 849897780,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1400",
+    "addr:street": "Rue du Valentin",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bar du Coq",
+    "opening_hours": "Mo-We 06:00-23:30; Th 06:00-01:00; Fr 06:00-02:00; Sa 07:00-02:00; Su 07:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 524 30 36",
+    "toilets:wheelchair": "no",
+    "website": "https://www.barducoq.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 849897780
+}

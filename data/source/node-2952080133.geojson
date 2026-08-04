@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0046014,
+      46.2179269
+    ]
+  },
+  "properties": {
+    "id": 2952080133,
+    "amenity": "restaurant",
+    "check_date": "2026-04-04",
+    "contact:facebook": "https://www.facebook.com/people/les3tables-St-Maurice/100087360122375/",
+    "contact:instagram": "https://www.instagram.com/les3tablesstmaurice/",
+    "email": "contact@les3tables.com",
+    "name": "Les 3 table",
+    "opening_hours": "Th-Tu 10:00-15:00,17:30-23:00",
+    "phone": "+41 24 485 24 85",
+    "website": "https://www.les3tables.com/"
+  },
+  "id": 2952080133
+}

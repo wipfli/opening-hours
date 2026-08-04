@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1334875,
+      46.2182016
+    ]
+  },
+  "properties": {
+    "id": 1990145694,
+    "addr:housenumber": "30",
+    "addr:postcode": "1202",
+    "addr:street": "Av.Giuseppe - Motta",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "La Table des Nations",
+    "opening_hours": "Tu-Fr 11:30-14:30,18:00-22:30; Sa,Su 11:30-22:30",
+    "website": "https://www.latabledesnations.ch/"
+  },
+  "id": 1990145694
+}

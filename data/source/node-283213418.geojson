@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4162688,
+      46.9287608
+    ]
+  },
+  "properties": {
+    "id": 283213418,
+    "alt_name": "Caf\u00e9 Restaurant Pizzeria Rondell",
+    "amenity": "restaurant",
+    "check_date": "2025-02-23",
+    "contact:email": "restaurant@rondell1.ch",
+    "contact:fax": "+41 31 9716842",
+    "contact:phone": "+41 31 9726969",
+    "name": "Rondell",
+    "old_name": "Kebabistan",
+    "opening_hours": "09:00-23:30",
+    "operator": "Restaurant Rondell Dias Soares (Einzelunternehmen)",
+    "website": "https://www.rondell1.ch/",
+    "wheelchair": "no"
+  },
+  "id": 283213418
+}

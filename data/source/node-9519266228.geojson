@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1451137,
+      46.2098536
+    ]
+  },
+  "properties": {
+    "id": 9519266228,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "1201",
+    "addr:street": "Rue des Alpes",
+    "alt_name": "Boky",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-04-02",
+    "cuisine": "chinese;thai;japanese",
+    "email": "info@asiagarden.ch",
+    "level": "0",
+    "name": "Asia Garden",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 731 18 18;+41 22 738 37 94",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "toilets:wheelchair": "no",
+    "website": "https://www.asiagardenge.ch",
+    "wheelchair": "no"
+  },
+  "id": 9519266228
+}

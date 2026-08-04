@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5947848,
+      47.4085403
+    ]
+  },
+  "properties": {
+    "id": 4841546268,
+    "addr:city": "Wallisellen",
+    "addr:country": "CH",
+    "addr:housenumber": "99",
+    "addr:postcode": "8304",
+    "addr:street": "Neue Winterthurerstrasse",
+    "amenity": "restaurant",
+    "branch": "Wallisellen Glattzentrum",
+    "level": "2",
+    "name": "Sesh",
+    "opening_hours": "Mo-Sa 08:00-21:00",
+    "operator": "SV (Schweiz)",
+    "start_date": "2020-02",
+    "website": "https://www.sesh.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4841546268
+}

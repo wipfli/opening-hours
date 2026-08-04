@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1349597,
+      46.188979
+    ]
+  },
+  "properties": {
+    "id": 12682191589,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "1227",
+    "addr:street": "Rue des Noirettes",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "email": "info@restaurantlamaisonrouge.ch",
+    "name": "La Maison Rouge",
+    "opening_hours": "Mo-Fr 12:00-14:00, 19:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 342 00 42",
+    "takeaway": "no",
+    "website": "https://restaurantlamaisonrouge.ch/",
+    "wheelchair": "no"
+  },
+  "id": 12682191589
+}

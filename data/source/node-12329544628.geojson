@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5285737,
+      46.8529568
+    ]
+  },
+  "properties": {
+    "id": 12329544628,
+    "addr:city": "Chur",
+    "addr:housenumber": "1",
+    "addr:postcode": "7000",
+    "addr:street": "Bahnhofplatz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "mexican",
+    "email": "chur@tresamigos.ch",
+    "name": "Tres Amigos",
+    "opening_hours": "Mo-Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 252 30 13",
+    "toilets": "yes",
+    "website": "https://www.tresamigos.ch/de/p/standorte/chur-1078.html"
+  },
+  "id": 12329544628
+}

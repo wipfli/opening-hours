@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8966154,
+      47.5575544
+    ]
+  },
+  "properties": {
+    "id": 3904121972,
+    "amenity": "restaurant",
+    "check_date": "2023-07-25",
+    "cuisine": "steak_house",
+    "delivery:covid19": "yes",
+    "description:covid19": "Vorbestellung per Email oder Telefon moeglich",
+    "diet:vegetarian": "no",
+    "email": "info@hotel-blumenstein.ch",
+    "name": "Ren\u00e9s Steakhouse",
+    "opening_hours": "Mo-Sa 07:00-22:30; Su 07:00-18:00; PH 07:00-18:00",
+    "opening_hours:covid19": "Tu-Fr 11:00-13:30,18:00-20:30; Sa 18:00-21:00",
+    "opening_hours:kitchen": "Mo-Sa 11:00-22:30; Su 11:00-18:00; PH 11:00-18:00",
+    "phone": "+41 52 721 47 28",
+    "takeaway:covid19": "yes",
+    "website": "https://www.hotel-blumenstein.ch/en/restaurant"
+  },
+  "id": 3904121972
+}

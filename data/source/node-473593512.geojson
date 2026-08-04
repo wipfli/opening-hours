@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3727314,
+      47.4213072
+    ]
+  },
+  "properties": {
+    "id": 473593512,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "15",
+    "addr:postcode": "9000",
+    "addr:street": "Gartenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Il Brigante",
+    "opening_hours": "Mo,Tu 11:00-14:00; We-Sa 11:00-14:00,17:00+",
+    "phone": "+41 71 223 16 26",
+    "url": "https://ilbrigante.ch/",
+    "website": "https://ilbrigante.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 473593512
+}

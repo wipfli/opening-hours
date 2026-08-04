@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1392123,
+      46.2115429
+    ]
+  },
+  "properties": {
+    "id": 11832613269,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "7",
+    "addr:postcode": "1201",
+    "addr:street": "Rue Jean-Jacques-De-Sellon",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-12-21",
+    "cuisine": "japanese;sushi",
+    "name": "Kozan",
+    "opening_hours": "Tu-Sa 12:00-14:30,19:00-23:00",
+    "website": "https://kozan-geneve.ch/"
+  },
+  "id": 11832613269
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6420844,
+      46.7797159
+    ]
+  },
+  "properties": {
+    "id": 292179183,
+    "amenity": "restaurant",
+    "name": "La Grange",
+    "opening_hours": "Tu-Su 08:00-23:30",
+    "toilets:wheelchair": "yes",
+    "website": "https://resto-lagrange.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 292179183
+}

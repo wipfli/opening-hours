@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3721273,
+      47.4225303
+    ]
+  },
+  "properties": {
+    "id": 4223993898,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "14",
+    "addr:postcode": "9000",
+    "addr:street": "Vadianstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-20",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "name": "Gentile",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa 09:00-18:30",
+    "phone": "+4171 2269090",
+    "website": "https://www.gentile.sg/"
+  },
+  "id": 4223993898
+}

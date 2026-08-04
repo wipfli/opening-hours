@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5599135,
+      46.873715
+    ]
+  },
+  "properties": {
+    "id": 1620303300,
+    "addr:city": "M\u00fcnsigen",
+    "addr:housenumber": "3",
+    "addr:postcode": "3110",
+    "addr:street": "Bahnhofplatz",
+    "alt_name": "Ritorante Pizzeria la Gioia",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@lagioia-muensingen.ch",
+    "name": "La Gioia",
+    "opening_hours": "Mo-Su 11:00-14:00,17:00-23:00",
+    "phone": "+41 31 721 80 80",
+    "website": "https://www.lagioia-muensingen.ch",
+    "wheelchair": "limited"
+  },
+  "id": 1620303300
+}

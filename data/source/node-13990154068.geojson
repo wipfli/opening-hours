@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3082076,
+      47.474474
+    ]
+  },
+  "properties": {
+    "id": 13990154068,
+    "addr:city": "Baden",
+    "addr:housenumber": "16",
+    "addr:postcode": "5400",
+    "addr:street": "Badstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Pizzeria Ristorante Molino",
+    "opening_hours": "Mo-Th 09:00-23:00 Fr-Sa 09:00-24:00; Su 09:00-23:00",
+    "website": "https://molino.ch/en/restaurant/baden/"
+  },
+  "id": 13990154068
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7688538,
+      47.2508188
+    ]
+  },
+  "properties": {
+    "id": 445813610,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "no",
+    "name": "Baumgarten",
+    "opening_hours": "Mo,We,Th,Fr 18:00-23:00; Sa,Su 17:30-23:00",
+    "opening_hours:url": "http://www.baumgarten-hombrechtikon.ch/",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 244 10 55",
+    "takeaway": "yes",
+    "website": "http://www.baumgarten-hombrechtikon.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 445813610
+}

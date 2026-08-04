@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7206222,
+      47.5042298
+    ]
+  },
+  "properties": {
+    "id": 359694751,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "18",
+    "addr:postcode": "8400",
+    "addr:street": "W\u00fclflingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "No18",
+    "opening_hours": "Tu-Sa 18:00-23:30",
+    "website": "https://18-winterthur.ch/"
+  },
+  "id": 359694751
+}

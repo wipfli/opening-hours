@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5127223,
+      47.3774336
+    ]
+  },
   "properties": {
-    "@id": "node/6828843870",
+    "id": 6828843870,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "49",
@@ -16,12 +23,5 @@
     "website": "https://ch.machidashoten.com/",
     "website:menu": "https://ch.machidashoten.com/pdf/menu"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5127223,
-      47.3774336
-    ]
-  },
-  "id": "node-6828843870"
+  "id": 6828843870
 }

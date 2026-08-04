@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2808774,
+      47.0690281
+    ]
+  },
+  "properties": {
+    "id": 12813556527,
+    "addr:city": "Emmen",
+    "addr:housenumber": "1b",
+    "addr:postcode": "6020",
+    "addr:street": "Seetalplatz",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "email": "info@restaurant-mami.ch",
+    "image": "https://www.mamis-gastropub.ch/typo3temp/assets/_processed_/c/4/csm_cac0590b765fbc368f417234697bce5ce236a143-fp-100-100-0-0_3b4a2f8d26.jpg",
+    "name": "Mami's Gastropub",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+41 41 218 30 37",
+    "reservation": "yes",
+    "website": "https://www.mamis-gastropub.ch",
+    "website:menu": "https://www.mamis-gastropub.ch/aesse-trenke/"
+  },
+  "id": 12813556527
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1850847,
+      46.1721126
+    ]
+  },
+  "properties": {
+    "id": 6402934199,
+    "addr:city": "Saillon",
+    "addr:housenumber": "2",
+    "addr:postcode": "1913",
+    "addr:street": "Place du Bourg",
+    "amenity": "restaurant",
+    "name": "Caveau de Saillon",
+    "opening_hours": "Th,Fr 17:00-20:00; Sa,Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 744 28 50",
+    "website": "https://caveau-saillon.ch"
+  },
+  "id": 6402934199
+}

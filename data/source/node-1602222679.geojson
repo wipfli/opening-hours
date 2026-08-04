@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3052481,
+      47.4760411
+    ]
+  },
+  "properties": {
+    "id": 1602222679,
+    "addr:city": "Baden",
+    "addr:housenumber": "19",
+    "addr:postcode": "5400",
+    "addr:street": "Stadtturmstrasse",
+    "amenity": "restaurant",
+    "email": "info@almodo.ch",
+    "internet_access": "wlan",
+    "name": "Almodo AG",
+    "opening_hours": "Mo-Th 08:00-24:00; Fr 08:00-02:00, Sa 12:00-02:00",
+    "phone": "+41 56 221 83 83",
+    "website": "https://almodo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1602222679
+}

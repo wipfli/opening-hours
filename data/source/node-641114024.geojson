@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3102695,
+      47.4785845
+    ]
+  },
+  "properties": {
+    "id": 641114024,
+    "addr:housenumber": "2",
+    "addr:postcode": "5400",
+    "addr:street": "Haselstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-10-23",
+    "cuisine": "regional",
+    "email": "restaurant@grandcasinobaden.ch",
+    "name": "Grand Casino Baden",
+    "opening_hours": "08:00-24:00",
+    "phone": "+41 56 204 08 08",
+    "website": "https://restaurant.grandcasinobaden.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 641114024
+}

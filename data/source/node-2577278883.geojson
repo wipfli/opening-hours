@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7908325,
+      47.1916317
+    ]
+  },
+  "properties": {
+    "id": 2577278883,
+    "addr:city": "Lotzwil",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "4932",
+    "addr:street": "Langenthalstrasse",
+    "alt_name": "Restaurant Kreuz",
+    "amenity": "restaurant",
+    "contact:email": "kreuz.lotzwil@bluewin.ch",
+    "contact:facebook": "https://www.facebook.com/kreuz.lotzwil",
+    "contact:phone": "+41 62 9224802",
+    "name": "Kreuz",
+    "note": "Jeweils das erste Wochenenden im Monat geschlossen.",
+    "opening_hours": "Mo-Sa 08:30-23:30; Su 10:00-15:00",
+    "operator": "Restaurant Kreuz, C. Michel (Einzelunternehmen)",
+    "source": "survey and website",
+    "website": "http://www.kreuz-lotzwil.ch"
+  },
+  "id": 2577278883
+}

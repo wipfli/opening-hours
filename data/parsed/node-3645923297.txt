@@ -1,3 +1,0 @@
-I can see there are multiple Roots locations with different opening hours. Since the OpenStreetMap tags only specify "name=roots" and "amenity=restaurant" without a specific address, I cannot determine which location this entry refers to.
-
-UNSURE

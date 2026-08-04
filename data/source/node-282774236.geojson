@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4371636,
+      46.9461485
+    ]
+  },
+  "properties": {
+    "id": 282774236,
+    "alt_name": "Restaurant National Bern",
+    "amenity": "restaurant",
+    "contact:addr": "Hirschengraben 24, 3011 Bern",
+    "contact:email": "info@nationalbern.ch",
+    "contact:fax": "+41 31 3816878",
+    "contact:phone": "+41 31 3811988",
+    "indoor_seating": "yes",
+    "name": "National",
+    "opening_hours": "Mo-Fr 06:30-23:30; Sa-Su off",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.nationalbern.ch/restaurant",
+    "wheelchair": "yes"
+  },
+  "id": 282774236
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6310227,
+      46.5156128
+    ]
+  },
+  "properties": {
+    "id": 1539645226,
+    "addr:housenumber": "7",
+    "addr:postcode": "1006",
+    "addr:street": "Rue du Simplon",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/brasserielestroisrois",
+    "contact:instagram": "brasserielestroisrois",
+    "cuisine": "french",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Les Trois Rois",
+    "opening_hours": "Tu-Sa 11:30-14:30,18:30-23:30",
+    "opening_hours:kitchen": "Tu,We,Sa 12:00-13:30,19:00-21:30; Th,Fr 12:00-13:30,19:00-21:45",
+    "outdoor_seating": "no",
+    "phone": "+41 21 616 38 22",
+    "smoking": "no",
+    "website": "https://brasserie-lestroisrois.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1539645226
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4496549,
+      46.9486658
+    ]
+  },
+  "properties": {
+    "id": 3034364838,
+    "amenity": "restaurant",
+    "check_date": "2025-07-16",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Bonbec Bern",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:00+; Sa 18:00+",
+    "phone": "+41 31 311 88 78",
+    "website": "https://www.bonbec.ch/"
+  },
+  "id": 3034364838
+}

@@ -1,5 +1,0 @@
-The website states: "Öffnungszeiten: Montag - Freitag : 17.30 - 23.30"
-
-This means Monday to Friday, 17:30 to 23:30. Saturday and Sunday are not mentioned, implying they are closed.
-
-Mo-Fr 17:30-23:30; Sa-Su off

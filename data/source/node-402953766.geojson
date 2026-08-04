@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8186792,
+      47.268423
+    ]
+  },
+  "properties": {
+    "id": 402953766,
+    "amenity": "restaurant",
+    "check_date": "2023-10-30",
+    "email": "info@loewenbubikon.ch",
+    "name": "L\u00f6wen",
+    "opening_hours": "Tu-Sa 08:30-14:00,18:00-23:30; PH off",
+    "operator": "Rita und Domenico Miggiano-K\u00f6ferli",
+    "phone": "+41 55 243 17 16",
+    "tourism": "hotel",
+    "website": "https://www.loewenbubikon.ch/",
+    "wheelchair": "limited",
+    "wikidata": "Q90314405"
+  },
+  "id": 402953766
+}

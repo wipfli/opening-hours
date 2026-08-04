@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3838744,
+      47.3349501
+    ]
+  },
+  "properties": {
+    "id": 4228911153,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Pinte Tricolore",
+    "opening_hours": "Tu-Su 11:00-14:00,17:00-22:30; Mo off",
+    "website": "https://www.pinte-tricolore.ch/"
+  },
+  "id": 4228911153
+}

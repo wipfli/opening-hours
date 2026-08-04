@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1565492,
+      47.0946374
+    ]
+  },
+  "properties": {
+    "id": 6595686377,
+    "addr:city": "Twann",
+    "addr:housenumber": "36",
+    "addr:postcode": "2513",
+    "addr:street": "Moos",
+    "amenity": "restaurant",
+    "check_date": "2027-07-17",
+    "email": "info@baeren-twann.ch",
+    "full_name": "Hotel B\u00e4ren Twann",
+    "last_checked": "2026-07-17",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Su 11:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 315 20 12",
+    "rooms": "14",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.baeren-twann.ch/"
+  },
+  "id": 6595686377
+}

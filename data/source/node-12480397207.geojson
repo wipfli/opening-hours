@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4652492,
+      47.4418949
+    ]
+  },
+  "properties": {
+    "id": 12480397207,
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "185",
+    "addr:postcode": "8105",
+    "addr:street": "Althardstrasse",
+    "amenity": "restaurant",
+    "branch": "Regensdorf",
+    "capacity": "20",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "Dieci Pizza Kurier",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-22:00; Fr-Sa 11:00-13:30,17:00-23:00; Su 11:00-22:00",
+    "phone": "+41 44 527 30 10",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/de/pizzakurier-regensdorf"
+  },
+  "id": 12480397207
+}

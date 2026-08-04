@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3074401,
+      47.471947
+    ]
+  },
+  "properties": {
+    "id": 11826373365,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "5400",
+    "addr:street": "Weite Gasse",
+    "amenity": "restaurant",
+    "branch": "Baden",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "description": "Am Abend haben Sie die M\u00f6glichkeit, entweder von 18:00 \u2013 20:00 Uhr oder ab 20:00 Uhr zu reservieren",
+    "name": "Peppino",
+    "opening_hours": "Tu-Th 11:30-14:00,18:00-22:00; Fr,Sa 11:30-14:00,18:00-23:00; Su,Mo off",
+    "phone": "+41 56 221 75 13",
+    "reservation": "yes",
+    "website": "https://peppino.pizza/baden/",
+    "website:menu": "https://peppino.pizza/menu"
+  },
+  "id": 11826373365
+}

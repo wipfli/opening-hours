@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6411732,
+      46.5232251
+    ]
+  },
+  "properties": {
+    "id": 7252805305,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "24",
+    "addr:postcode": "1005",
+    "addr:street": "Rue du Bugnon",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Les-Rues-de-Saigon-340962886477714/",
+    "contact:instagram": "https://www.instagram.com/lesruesdesaigon/",
+    "cuisine": "vietnamese",
+    "diet:vegetarian": "yes",
+    "email": "info@lesruesdesaigon.ch",
+    "name": "Les Rues de Saigon",
+    "opening_hours": "Mo-Th 11:30-14:00,18:00-22:00; Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "phone": "+41 21 218 59 99",
+    "website": "https://www.lesruesdesaigon.ch/"
+  },
+  "id": 7252805305
+}

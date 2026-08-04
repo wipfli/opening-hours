@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6278714,
+      46.5071861
+    ]
+  },
+  "properties": {
+    "id": 1433812389,
+    "addr:housenumber": "3",
+    "addr:street": "Place du Port",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/pages/Caf%C3%A9-du-Vieil-Ouchy/562109700534037",
+    "cuisine": "regional",
+    "email": "info@vieilouchy.ch",
+    "indoor_seating": "yes",
+    "name": "Cafe du Vieil Ouchy",
+    "opening_hours": "Mo-Fr 10:00-00:00; Sa, Su 09:00-00:00",
+    "operator": "Carine Duca",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 21 94",
+    "website": "https://www.vieilouchy.ch/"
+  },
+  "id": 1433812389
+}

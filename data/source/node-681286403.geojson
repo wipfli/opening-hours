@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5756173,
+      47.4157908
+    ]
+  },
+  "properties": {
+    "id": 681286403,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@gr\u00fcnerbaum-oberegg.ch",
+    "name": "Gr\u00fcner Baum",
+    "opening_hours": "Tu-Fr 14:00-17:00; Sa-Su 10:00-17:00",
+    "operator": "9",
+    "phone": "+41 71 891 15 26",
+    "website": "https://www.gr\u00fcnerbaum-oberegg.ch",
+    "website:menu": "https://www.xn--grnerbaum-oberegg-32b.ch/Menue.htm"
+  },
+  "id": 681286403
+}

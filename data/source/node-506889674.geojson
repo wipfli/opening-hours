@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3140486,
+      47.0482188
+    ]
+  },
+  "properties": {
+    "id": 506889674,
+    "amenity": "restaurant",
+    "name": "Luce",
+    "opening_hours": "Mo-Fr 06:30-10:00, Sa,Su 06:30-10:30, Mo-Fr 12:00-14:00, Mo-Sa 18:00-21:30",
+    "website": "https://www.lucerestaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 506889674
+}

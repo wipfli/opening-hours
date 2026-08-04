@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1426712,
+      46.7304038
+    ]
+  },
+  "properties": {
+    "id": 1599162518,
+    "amenity": "restaurant",
+    "check_date": "2025-02-07",
+    "cuisine": "regional",
+    "email": "lategia@trutg.ch",
+    "name": "La Tegia",
+    "opening_hours": "09:00-16:00 (restaurant open only in ski [end of Dec - end of April] and summer season [July - October], otherwise only snacks and cold drinks)",
+    "website": "https://lategia.ch/"
+  },
+  "id": 1599162518
+}

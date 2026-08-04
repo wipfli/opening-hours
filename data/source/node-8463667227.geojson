@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6246184,
+      46.758952
+    ]
+  },
+  "properties": {
+    "id": 8463667227,
+    "addr:city": "Thun",
+    "addr:housenumber": "4",
+    "addr:postcode": "3600",
+    "addr:street": "Gewerbestrasse",
+    "amenity": "restaurant",
+    "name": "Spedition",
+    "opening_hours": "Mo-Sa 07:00-13:30,16:00-23:00; Su 07:00-13:00,16:00-22:00",
+    "phone": "+41 33 550 59 09",
+    "website": "https://www.speditionthun.ch/"
+  },
+  "id": 8463667227
+}

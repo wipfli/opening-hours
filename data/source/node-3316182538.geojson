@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1095502,
+      47.567961
+    ]
+  },
+  "properties": {
+    "id": 3316182538,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "email": "kontakt@phannee-thaikueche.ch",
+    "level": "1",
+    "name": "Hirschen",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-22:00;Sa-Su 17:00-23:00",
+    "phone": "+41 71 620 07 04",
+    "website": "http://www.phannee-thaikueche.ch/"
+  },
+  "id": 3316182538
+}

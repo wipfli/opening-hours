@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1360355,
+      46.1977707
+    ]
+  },
+  "properties": {
+    "id": 2188913109,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "62",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "check_date": "2025-07-09",
+    "check_date:opening_hours": "2025-07-09",
+    "cuisine": "indian",
+    "name": "Le Safran",
+    "note": "surveyed by Alex-7",
+    "opening_hours": "Mo-Su 11:30-14:00,18:30-23:00",
+    "phone": "+41 22 436 87 63",
+    "source": "survey",
+    "website": "https://safrangeneve.ch/"
+  },
+  "id": 2188913109
+}

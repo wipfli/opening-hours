@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4928372,
+      47.0168644
+    ]
+  },
+  "properties": {
+    "id": 7746609327,
+    "addr:city": "Sch\u00f6nb\u00fchl",
+    "addr:housenumber": "10",
+    "addr:postcode": "3321",
+    "addr:street": "Industriestrasse",
+    "alt_name": "Migros Restaurant Shoppyland",
+    "amenity": "restaurant",
+    "branch": "Sch\u00f6nb\u00fchl Shoppyland",
+    "level": "2",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Th 09:00-20:00, Fr 09:00-21:30, Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-schoenbuehl-shoppyland"
+  },
+  "id": 7746609327
+}

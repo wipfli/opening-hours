@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37346,
+      46.9441266
+    ]
+  },
+  "properties": {
+    "id": 6448420112,
+    "addr:city": "Bern",
+    "addr:housenumber": "4",
+    "addr:postcode": "3027",
+    "addr:street": "Gilberte-de-Courgenay-Platz",
+    "amenity": "restaurant",
+    "branch": "Westside",
+    "check_date": "2025-10-25",
+    "check_date:opening_hours": "2021-09-11",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "email": "westside@spiga-ristorante.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "1",
+    "level:ref": "0",
+    "name": "Spiga",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
+    "operator": "SV (Schweiz)",
+    "payment:american_express": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 991 99 77",
+    "website": "https://www.spiga-ristorante.ch/i-ristoranti/detail/spiga-westside"
+  },
+  "id": 6448420112
+}

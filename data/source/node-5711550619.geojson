@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5097545,
+      47.3912171
+    ]
+  },
+  "properties": {
+    "id": 5711550619,
+    "amenity": "restaurant",
+    "check_date": "2025-07-25",
+    "cuisine": "italian",
+    "name": "Ribelli",
+    "opening_hours": "Mo-Fr 12:00-14:00; PH off; Sa-Su 07:30-14:00, Mo-Su 18:00-23:00",
+    "opening_hours:kitchen": "Mo-Su 18:00-22:00",
+    "website": "https://ribelli-restaurant.ch/"
+  },
+  "id": 5711550619
+}

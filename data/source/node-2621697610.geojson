@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6795279,
+      46.7812817
+    ]
+  },
+  "properties": {
+    "id": 2621697610,
+    "amenity": "restaurant",
+    "contact:email": "info@simmen-arosa.ch",
+    "contact:phone": "+41 81 356 56 26",
+    "contact:website": "http://www.simmen-arosa.ch",
+    "cuisine": "regional;asian",
+    "name": "Simmens R\u00f6sti",
+    "opening_hours": "Fr-We 10:00-22:00",
+    "operator": "Daniela & Corina Simmen",
+    "website": "https://www.simmen-arosa.ch/"
+  },
+  "id": 2621697610
+}

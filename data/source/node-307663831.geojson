@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6347819,
+      47.2316268
+    ]
+  },
+  "properties": {
+    "id": 307663831,
+    "addr:city": "W\u00e4denswil",
+    "addr:housenumber": "26",
+    "addr:postcode": "8820",
+    "addr:street": "Alte Zugerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-05-04",
+    "cuisine": "regional",
+    "email": "neubuel@bluewin.ch",
+    "name": "Wirtschaft zum Neub\u00fcel",
+    "opening_hours": "Mo-Fr 06:00-23:30; Sa 08:00-23:30",
+    "phone": "+41 44 781 37 80",
+    "website": "https://neubuel.ch/"
+  },
+  "id": 307663831
+}

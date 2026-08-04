@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3066191,
+      47.0519618
+    ]
+  },
+  "properties": {
+    "id": 4120523387,
+    "addr:city": "Luzern",
+    "addr:housenumber": "11",
+    "addr:postcode": "6004",
+    "addr:street": "Rathausquai",
+    "amenity": "restaurant",
+    "check_date": "2023-09-23",
+    "cuisine": "italian",
+    "name": "Da Ernesto",
+    "opening_hours": "Mo,We-Fr 11:30-23:00; Tu,Sa 13:00-23:00; Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.da-ernesto.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4120523387
+}

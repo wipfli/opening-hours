@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4566188,
+      47.3619531
+    ]
+  },
+  "properties": {
+    "id": 4288409100,
+    "addr:city": "Gais",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "9056",
+    "addr:street": "Stossstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-20",
+    "cuisine": "regional",
+    "name": "Gasthof Hirschen",
+    "opening_hours": "We-Sa 11:30-14:30,17:30-23:30; Su,PH 11:30-16:00",
+    "phone": "+41 71 793 13 03",
+    "tourism": "guest_house",
+    "website": "https://www.hirschen-gais.ch/"
+  },
+  "id": 4288409100
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3775972,
+      47.4266112
+    ]
+  },
+  "properties": {
+    "id": 12613569103,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "1",
+    "addr:postcode": "9000",
+    "addr:street": "Schwertgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Osteria San Gallo",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:00",
+    "phone": "+41712327078",
+    "website": "https://www.osteriasangallo.ch/"
+  },
+  "id": 12613569103
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6193561,
+      47.0994474
+    ]
+  },
+  "properties": {
+    "id": 472408069,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Die Alpwirtschaft Schornenrain liegt 1'024 m \u00fc. Meer.\nDie Gaststube hat Platz f\u00fcr ca. 20 Personen und ist mit viel Liebe zum Detail eingerichtet. Eine gem\u00fctliche, heimelige Stube zum verweilen... \nDie Aussichtsterrasse besteht aus dem selben Platzangebot",
+    "name": "Alpwirtschaft Schornenrain",
+    "opening_hours": "May-Sep",
+    "outdoor_seating": "yes",
+    "website": "http://alpwirtschaft-schornenrain.ch/"
+  },
+  "id": 472408069
+}

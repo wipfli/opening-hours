@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6341281,
+      47.5355604
+    ]
+  },
+  "properties": {
+    "id": 4190490189,
+    "addr:city": "Muttenz",
+    "addr:country": "CH",
+    "addr:housenumber": "100",
+    "addr:postcode": "4132",
+    "addr:street": "Kriegackerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "email": "restaurant.alessia@gmx.ch",
+    "name": "Alessia",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa 09:00-00:00; Su 10:00-00:00",
+    "phone": "+41 61 462 40 40",
+    "website": "https://www.restaurantalessia.ch/"
+  },
+  "id": 4190490189
+}

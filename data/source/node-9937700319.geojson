@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7618935,
+      47.2831638
+    ]
+  },
+  "properties": {
+    "id": 9937700319,
+    "addr:housenumber": "1",
+    "addr:street": "Binzikerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bahnh\u00f6fli da Fabio",
+    "opening_hours": "Tu-Fr 10:00-14:00,17:00-23:00; Sa 16:00-23:00; PH off",
+    "outdoor_seating": "yes",
+    "website": "https://www.bahnhoefli-grueningen.ch/"
+  },
+  "id": 9937700319
+}

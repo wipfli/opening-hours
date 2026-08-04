@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5348729,
+      47.3769359
+    ]
+  },
   "properties": {
-    "@id": "node/4053578223",
+    "id": 4053578223,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "95",
@@ -11,7 +18,7 @@
     "amenity": "restaurant",
     "branch": "Z\u00fcrich Europaallee",
     "brand": "Pi\u00f9",
-    "check_date": "2025-07-26",
+    "check_date": "2026-04-01",
     "cuisine": "italian",
     "diet:vegan": "yes",
     "diet:vegetarian": "yes",
@@ -23,14 +30,8 @@
     "phone": "+41 44 242 33 22",
     "takeaway": "yes",
     "website": "https://www.piu-ristorante.ch/piu-europaallee-zurich/",
+    "website:menu": "https://www.piu-ristorante.ch/site/assets/files/1030/piu-speisekarte-zh-de-09_25.pdf",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5348729,
-      47.3769359
-    ]
-  },
-  "id": "node-4053578223"
+  "id": 4053578223
 }

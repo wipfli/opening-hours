@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7250831,
+      46.6446756
+    ]
+  },
+  "properties": {
+    "id": 1635095740,
+    "amenity": "restaurant",
+    "check_date": "2026-03-05",
+    "cuisine": "regional;pasta;fish;ice_cream",
+    "email": "info@restaurantpanorama.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Panorama",
+    "opening_hours": "We-Sa 09:00-23:30; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 336542973",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.restaurantpanorama.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1635095740
+}

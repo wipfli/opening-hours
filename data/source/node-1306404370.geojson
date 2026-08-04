@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0644777,
+      46.0906936
+    ]
+  },
+  "properties": {
+    "id": 1306404370,
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Caf\u00e9 National",
+    "opening_hours": "Tu-Sa 10:00-15:00,18:00-24:00",
+    "website": "https://www.cafenational.ch/"
+  },
+  "id": 1306404370
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7892286,
+      47.6349904
+    ]
+  },
+  "properties": {
+    "id": 8120593810,
+    "addr:city": "Unterstammheim",
+    "addr:housenumber": "3",
+    "addr:postcode": "8476",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "La Stazione",
+    "opening_hours": "Sa 11:00-23:00; Mo-Fr 09:00-14:00,17:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 745 29 55",
+    "self_service": "no",
+    "takeaway": "yes",
+    "website": "https://www.la-stazione.rest/"
+  },
+  "id": 8120593810
+}

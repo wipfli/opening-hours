@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3775254,
+      47.4257575
+    ]
+  },
+  "properties": {
+    "id": 8355065970,
+    "amenity": "restaurant",
+    "brand": "Hans im Gl\u00fcck",
+    "brand:wikidata": "Q22569868",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Mo-Th, Su 11:00-00:00; Fr, Sa 11:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41715112270",
+    "website": "https://hansimglueck-burgergrill.de/burger-restaurant/st-gallen-kugelgasse/"
+  },
+  "id": 8355065970
+}

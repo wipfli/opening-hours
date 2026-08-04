@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.770689,
+      47.2183314
+    ]
+  },
+  "properties": {
+    "id": 9546667828,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "TERRA SVIZZERA",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa 07:00-23:00; Su 08:00-22:00",
+    "phone": "+41 62 922 94 22",
+    "website": "https://www.parkhotel-langenthal.ch/de/kulinarik/terra-svizzera/"
+  },
+  "id": 9546667828
+}

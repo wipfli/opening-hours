@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1566457,
+      46.2020404
+    ]
+  },
+  "properties": {
+    "id": 3672376422,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "1",
+    "addr:postcode": "1207",
+    "addr:street": "Avenue de Frontenex",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "So Si Ha",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-22:00",
+    "operator": "Eaux-Vives Gastronomie S\u00e0rl",
+    "operator:ref:CH:UID": "CHE-112.118.229",
+    "phone": "+41 22 736 68 79",
+    "ref:CH-GE:REG": "1-4XH-16039",
+    "website": "https://www.s45.ch/"
+  },
+  "id": 3672376422
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.160455,
+      46.2051895
+    ]
+  },
+  "properties": {
+    "id": 9456587509,
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "name": "Caf\u00e9 Le Jet d\u2019Eau",
+    "opening_hours": "Mo-Sa 11:30-15:00, 18:30-00:00",
+    "phone": "+41227360572",
+    "website": "https://www.restaurant-pizzeria-jetdeau.ch/"
+  },
+  "id": 9456587509
+}

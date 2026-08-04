@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372003,
+      47.3797298
+    ]
+  },
   "properties": {
-    "@id": "node/1346146716",
+    "id": 1346146716,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "2",
     "addr:postcode": "8005",
@@ -21,12 +28,5 @@
     "website": "https://www.vorbahnhof.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5372003,
-      47.3797298
-    ]
-  },
-  "id": "node-1346146716"
+  "id": 1346146716
 }

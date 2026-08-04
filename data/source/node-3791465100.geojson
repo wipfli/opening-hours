@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6286095,
+      46.8923903
+    ]
+  },
+  "properties": {
+    "id": 3791465100,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "104",
+    "addr:postcode": "6460",
+    "addr:street": "Fl\u00fcelerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "email": "info@da-sergio.ch",
+    "fax": "+41 41 871 02 55",
+    "internet_access": "no",
+    "name": "Ristorante Pizzeria da Sergio",
+    "opening_hours": "Tu-Th 11:00-23:00, Fr-Sa 11:00-23:30, Su 11:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 870 58 26",
+    "smoking": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.da-sergio.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Toilette ist nur bedingt rollstuhlgerecht"
+  },
+  "id": 3791465100
+}

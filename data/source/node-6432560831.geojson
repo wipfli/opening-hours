@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9436703,
+      45.985268
+    ]
+  },
+  "properties": {
+    "id": 6432560831,
+    "addr:postcode": "6912",
+    "amenity": "restaurant",
+    "check_date": "2026-07-19",
+    "cuisine": "regional",
+    "internet_access": "no",
+    "name": "Grotto Morchino",
+    "opening_hours": "Mo-We,Fr-Su 10:30-14:30,18:30-22:30; Th off",
+    "outdoor_seating": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 91 994 60 44",
+    "source": "survey",
+    "website": "https://grottomorchino.ch",
+    "wheelchair": "no"
+  },
+  "id": 6432560831
+}

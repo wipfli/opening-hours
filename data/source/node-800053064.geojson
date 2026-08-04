@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2090888,
+      47.4822727
+    ]
+  },
+  "properties": {
+    "id": 800053064,
+    "addr:city": "Brugg AG",
+    "addr:housenumber": "1",
+    "addr:place": "Neumarkt",
+    "addr:postcode": "5200",
+    "alt_name": "Migros Restaurant Brugg",
+    "amenity": "restaurant",
+    "branch": "Brugg Neumarkt",
+    "check_date": "2025-12-18",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "smoking": "no",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-brugg-neumarkt",
+    "wheelchair": "yes"
+  },
+  "id": 800053064
+}

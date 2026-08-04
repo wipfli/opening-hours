@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.788863,
+      47.3391184
+    ]
+  },
+  "properties": {
+    "id": 4161913613,
+    "amenity": "restaurant",
+    "name": "Chilchli B\u00e4renwil",
+    "opening_hours": "Th-Sa 08:30-23:00; Su,Mo 08:30-21:30; Tu,We off",
+    "outdoor_seating": "yes",
+    "phone": "+41623901113",
+    "tourism": "guest_house",
+    "website": "http://chilchli.ch"
+  },
+  "id": 4161913613
+}

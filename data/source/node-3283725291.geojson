@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4096693,
+      46.9491001
+    ]
+  },
+  "properties": {
+    "id": 3283725291,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "143a",
+    "addr:postcode": "3008",
+    "addr:street": "Murtenstrasse",
+    "alt_name": "NOA Restaurant Bar GRILL",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cocktails": "yes",
+    "contact:email": "info@noa-restaurant.ch",
+    "contact:facebook": "https://www.facebook.com/pages/NOA-Restaurant-Bar-Grill/1555027204711701",
+    "contact:phone": "+41 31 3810760",
+    "cuisine": "grill;steak_house;burger",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "level": "5",
+    "lunch": "menu",
+    "name": "Noa",
+    "opening_hours": "Mo-Fr 11:30-14:30, 17:00-23:30; Sa-Su closed",
+    "operator": "Begert Catering GmbH",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://www.noa-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3283725291
+}

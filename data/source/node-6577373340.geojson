@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4572544,
+      46.9923715
+    ]
+  },
+  "properties": {
+    "id": 6577373340,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-04-03",
+    "cuisine": "italian",
+    "email": "info@restaurante-arcobaleno.ch",
+    "name": "Arcobaleno",
+    "opening_hours": "Mo-Fr 08:00+; Sa 18:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 911 50 20",
+    "website": "https://restaurante-arcobaleno.ch/"
+  },
+  "id": 6577373340
+}

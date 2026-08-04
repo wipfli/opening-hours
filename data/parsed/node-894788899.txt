@@ -1,7 +1,0 @@
-I need to extract the opening hours from the website content provided. Let me examine what information is available.
-
-Looking at the website content, I can see there is a "Hours" link in the navigation menu, but the actual opening hours details are not displayed in the provided website content excerpt. The content shows navigation elements, menu options, and booking information, but does not contain the actual opening hours text.
-
-Since the actual hours are not shown in the provided website content, I cannot confidently extract an OpenStreetMap opening_hours string.
-
-UNSURE

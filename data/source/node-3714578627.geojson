@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2362513,
+      46.3840764
+    ]
+  },
+  "properties": {
+    "id": 3714578627,
+    "addr:city": "Nyon",
+    "addr:housenumber": "5",
+    "addr:postcode": "1260",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "name": "Inglewood",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-21:30; Sa-Su 12:00-14:30,18:30-21:30",
+    "phone": "+41 22 990 02 20",
+    "website": "https://inglewood.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3714578627
+}

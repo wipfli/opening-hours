@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5908982,
+      47.5511292
+    ]
+  },
+  "properties": {
+    "id": 4840045320,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Elsbethenst\u00fcbli",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-23:00; Mo,Sa 17:30-23:00; Su,PH off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.elsbethenstuebli.ch/"
+  },
+  "id": 4840045320
+}

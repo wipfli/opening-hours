@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5238824,
+      46.9149626
+    ]
+  },
+  "properties": {
+    "id": 4303626792,
+    "addr:postcode": "3112",
+    "amenity": "restaurant",
+    "check_date": "2023-05-26",
+    "cuisine": "pizza;italian",
+    "diet:gluten_free": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Ristorante Ristretto",
+    "opening_hours": "Mo-Fr 09:00-23:30",
+    "phone": "+41 31 951 34 85",
+    "website": "https://ristorante-ristretto.ch/"
+  },
+  "id": 4303626792
+}

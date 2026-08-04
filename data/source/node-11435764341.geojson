@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3054389,
+      47.4709595
+    ]
+  },
+  "properties": {
+    "id": 11435764341,
+    "amenity": "restaurant",
+    "name": "Bones",
+    "opening_hours": "Mo-Tu 16:00-22:00; We-Sa 16:00-24:00",
+    "website": "https://www.bones-baden.ch"
+  },
+  "id": 11435764341
+}

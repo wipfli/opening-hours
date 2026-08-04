@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4312635,
+      47.4212376
+    ]
+  },
+  "properties": {
+    "id": 5314501521,
+    "addr:housenumber": "28",
+    "addr:postcode": "8104",
+    "addr:street": "Haslernstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "mail@winzerhaus.ch",
+    "name": "Chalet Winzerhaus",
+    "opening_hours": "We-Sa 17:30-00:00",
+    "phone": "+41 44 750 40 66",
+    "website": "https://winzerhaus.ch/chalet/"
+  },
+  "id": 5314501521
+}

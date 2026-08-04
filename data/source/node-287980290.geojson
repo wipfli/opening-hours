@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1555724,
+      46.9103933
+    ]
+  },
+  "properties": {
+    "id": 287980290,
+    "amenity": "restaurant",
+    "name": "Bergf\u00fchrer",
+    "opening_hours": "Mo 14:00-22:00; We-Su 09:00-22:00",
+    "phone": "+41 55 642 21 06",
+    "tourism": "hotel",
+    "website": "https://www.hotelbergfuehrer.ch"
+  },
+  "id": 287980290
+}

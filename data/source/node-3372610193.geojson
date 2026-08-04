@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5291118,
+      46.2293595
+    ]
+  },
+  "properties": {
+    "id": 3372610193,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;french",
+    "name": "Restaurant du Cr\u00eat-du-Midi",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+41 27 452 29 08",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.vercorin.ch/fr/restaurant-cret-du-midi-vercorin-582.html"
+  },
+  "id": 3372610193
+}

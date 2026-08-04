@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3067295,
+      47.0468927
+    ]
+  },
+  "properties": {
+    "id": 1948870050,
+    "addr:city": "Luzern",
+    "addr:housenumber": "36",
+    "addr:postcode": "6003",
+    "addr:street": "Winkelriedstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-28",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "email": "info@angkor-takeaway.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Angkor Take Away",
+    "opening_hours": "Mo 11:00-14:00; Tu-Fr 11:00-14:00,18:00-21:00; Sa,Su 17:00-21:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "no",
+    "phone": "+41 41 210 80 19",
+    "takeaway": "yes",
+    "website": "https://www.angkor-takeaway.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1948870050
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.241148,
+      47.0353687
+    ]
+  },
+  "properties": {
+    "id": 10015624723,
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "Restaurante portugu\u00eas \u00b7 Caf\u00e9",
+    "opening_hours": "We 19:00-23:00; Fr 19:00-00:30; Sa 10:00-24:00; Su 10:30-24:30",
+    "phone": "+41 78 644 55 69",
+    "website": "https://www.facebook.com/Centro-Portugu%C3%AAs-De-Obernau-573932049451949/?fref=nf",
+    "wheelchair": "no"
+  },
+  "id": 10015624723
+}

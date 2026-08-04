@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4531729,
+      46.9277671
+    ]
+  },
+  "properties": {
+    "id": 3163876697,
+    "addr:city": "Wabern",
+    "addr:housenumber": "1",
+    "addr:postcode": "3084",
+    "addr:street": "Quellenweg",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Zamarod",
+    "opening_hours": "Tu-Th 11:00-14:00,17:30-22:30; Fr 17:30-23:00; Sa 17:00-23:00; Su 17:00-22:00",
+    "website": "https://www.zamarod.ch/"
+  },
+  "id": 3163876697
+}

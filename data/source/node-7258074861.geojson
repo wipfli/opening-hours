@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1567456,
+      46.202789
+    ]
+  },
+  "properties": {
+    "id": 7258074861,
+    "addr:housenumber": "3",
+    "addr:postcode": "1207",
+    "addr:street": "Rue des Eaux-Vives",
+    "amenity": "restaurant",
+    "cuisine": "breakfast",
+    "description": "Petit-d\u00e9jeuner, d\u00e9jeuner, go\u00fbter, brunch, d\u00eener, take away",
+    "name": "Marcel",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa, Su 10:00-19:00",
+    "phone": "+41227353333",
+    "website": "https://www.restaurantmarcel.ch/"
+  },
+  "id": 7258074861
+}

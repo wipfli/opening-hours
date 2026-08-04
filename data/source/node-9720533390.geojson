@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1854302,
+      47.5385788
+    ]
+  },
+  "properties": {
+    "id": 9720533390,
+    "addr:city": "Sulgen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8583",
+    "addr:street": "Weinmoosstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "name": "Appetito",
+    "opening_hours": "Mo-Sa 10:00-23:00, Su 11:00-23:00",
+    "phone": "+41 71 640 00 21",
+    "website": "https://www.appetito-kebab.ch/"
+  },
+  "id": 9720533390
+}

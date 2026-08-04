@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3140994,
+      47.0546485
+    ]
+  },
+  "properties": {
+    "id": 8041196919,
+    "addr:city": "Luzern",
+    "addr:housenumber": "4",
+    "addr:postcode": "6003",
+    "addr:street": "Haldenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-07",
+    "cuisine": "italian",
+    "name": "Klingler's Ristorante Luzern",
+    "opening_hours": "We-Su 11:30-14:30,18:00-23:00",
+    "phone": "+41414123838",
+    "website": "https://www.klinglers-luzern.ch/"
+  },
+  "id": 8041196919
+}

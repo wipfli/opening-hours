@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7205172,
+      47.350412
+    ]
+  },
+  "properties": {
+    "id": 10065072855,
+    "addr:city": "Uster",
+    "addr:housenumber": "8",
+    "addr:postcode": "8610",
+    "addr:street": "Brunnenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Maharana",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa,Su 17:00-22:00",
+    "website": "https://www.royalindiankitchen-uster.ch/"
+  },
+  "id": 10065072855
+}

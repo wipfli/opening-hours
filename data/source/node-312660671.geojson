@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2073548,
+      47.4858373
+    ]
+  },
+  "properties": {
+    "id": 312660671,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Commercio",
+    "opening_hours": "Oct-Mar,Apr-Sep Mo-Fr 11:00-14:00,17:30-23:00; Oct-Mar,Apr-Sep Sa 17:00-23:00; Apr-Sep Su 11:00-22:00",
+    "phone": "+41 56 441 14 96",
+    "website": "https://www.commercio-brugg.ch",
+    "wheelchair": "yes"
+  },
+  "id": 312660671
+}

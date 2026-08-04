@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5402773,
+      47.3719325
+    ]
+  },
   "properties": {
-    "@id": "node/2711625369",
+    "id": 2711625369,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "9",
@@ -18,12 +25,5 @@
     "website": "https://churrasco.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5402773,
-      47.3719325
-    ]
-  },
-  "id": "node-2711625369"
+  "id": 2711625369
 }

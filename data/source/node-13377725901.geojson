@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7949361,
+      47.5541697
+    ]
+  },
+  "properties": {
+    "id": 13377725901,
+    "addr:housenumber": "29",
+    "addr:postcode": "4310",
+    "addr:street": "Geissgasse",
+    "amenity": "restaurant",
+    "cuisine": "asian;international",
+    "name": "Sole & Sar",
+    "opening_hours": "Mo 11:00-14:00, 17:00-22:00; Tu-Sa 17:00-22:00",
+    "phone": "+41 61 599 29 29",
+    "website": "https://www.sole-sar.ch/"
+  },
+  "id": 13377725901
+}

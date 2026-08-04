@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6696861,
+      47.7549538
+    ]
+  },
+  "properties": {
+    "id": 4707631847,
+    "addr:city": "Lohn SH",
+    "addr:country": "CH",
+    "addr:housename": "Restaurant Sternen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8235",
+    "addr:street": "Unterdorf",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "baby_feeding": "no",
+    "changing_table": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "highchair": "yes",
+    "level": "0",
+    "name": "Sternen",
+    "opening_hours": "Tu-Fr 08:30-17:00; Sa 07:30-14:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "http://sternen-lohn.ch",
+    "wheelchair": "no"
+  },
+  "id": 4707631847
+}

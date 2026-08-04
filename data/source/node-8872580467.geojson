@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0922879,
+      47.0634514
+    ]
+  },
+  "properties": {
+    "id": 8872580467,
+    "amenity": "restaurant",
+    "check_date": "2026-03-03",
+    "check_date:opening_hours": "2026-03-03",
+    "name": "New Croix-Blanche",
+    "opening_hours": "Mo-Tu, Fr-Sa 07:00-14:00, 17:00-23:00; Su 08:00-23:00; We 07:00-14:00",
+    "phone": "+4132 761 00 35",
+    "website": "https://newcroixblanche.wixsite.com/newcroix-blanche-1"
+  },
+  "id": 8872580467
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6596684,
+      47.2623401
+    ]
+  },
+  "properties": {
+    "id": 12151173280,
+    "addr:city": "Oberbipp",
+    "addr:housenumber": "3",
+    "addr:postcode": "4538",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "DA NOI",
+    "opening_hours": "Tu-Fr 11:30-14:00; Tu-Sa 18:00-22:00",
+    "phone": "+41 32 636 60 30",
+    "website": "https://baeren-oberbipp.ch"
+  },
+  "id": 12151173280
+}

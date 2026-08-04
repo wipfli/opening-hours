@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8486309,
+      47.3247702
+    ]
+  },
+  "properties": {
+    "id": 8996254548,
+    "addr:city": "Kappel SO",
+    "addr:postcode": "4616",
+    "addr:street": "Mittelg\u00e4ustrasse",
+    "amenity": "restaurant",
+    "name": "P\u00f6stli",
+    "opening_hours": "Tu-Sa 08:30-23:00; Su 09:00-17:00; Mo off",
+    "phone": "+41 62 216 27 26",
+    "website": "https://www.restaurant-poestli-kappel.ch/"
+  },
+  "id": 8996254548
+}

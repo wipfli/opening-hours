@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5754589,
+      47.5555234
+    ]
+  },
+  "properties": {
+    "id": 5718149115,
+    "addr:city": "Basel",
+    "addr:housenumber": "132",
+    "addr:postcode": "4055",
+    "addr:street": "Spalenring",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "italian;pizza",
+    "email": "rossini-murano@gmx.ch",
+    "indoor_seating": "yes",
+    "name": "Rossini",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 301 61 86",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://rossinimurano.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5718149115
+}

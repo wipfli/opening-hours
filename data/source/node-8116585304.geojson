@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6212325,
+      46.5207758
+    ]
+  },
+  "properties": {
+    "id": 8116585304,
+    "addr:housenumber": "8",
+    "addr:postcode": "1007",
+    "addr:street": "Chemin des Croix-Rouges",
+    "amenity": "restaurant",
+    "contact:facebook": "BaiBua-Thai-Bistro-Lausanne-112923630504383",
+    "contact:instagram": "baibua_thai_bistro",
+    "cuisine": "thai",
+    "email": "info@baibua.ch",
+    "name": "BaiBua",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-21:00",
+    "phone": "+41 21 219 27 97",
+    "website": "https://www.baibua.ch/"
+  },
+  "id": 8116585304
+}

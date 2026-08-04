@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5599915,
+      47.3632165
+    ]
+  },
   "properties": {
-    "@id": "node/270795983",
+    "id": 270795983,
     "amenity": "restaurant",
     "check_date": "2025-11-15",
     "check_date:smoking": "2025-11-15",
@@ -10,12 +17,5 @@
     "smoking": "no",
     "website": "https://www.pukzh.ch/patienten-angehoerige/informationen-fuer-erwachsene/hotellerie/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5599915,
-      47.3632165
-    ]
-  },
-  "id": "node-270795983"
+  "id": 270795983
 }

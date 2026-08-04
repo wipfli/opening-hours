@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2722072,
+      47.0430684
+    ]
+  },
+  "properties": {
+    "id": 3114399005,
+    "addr:housenumber": "10",
+    "addr:street": "Murtenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Mercato",
+    "opening_hours": "We-Sa 15:00-23:00",
+    "operator": "Stiftung Mercato Aarberg",
+    "phone": "+41 32 392 25 88",
+    "smoking": "no",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://mercatoaarberg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3114399005
+}

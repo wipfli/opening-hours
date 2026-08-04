@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5014413,
+      47.3869822
+    ]
+  },
+  "properties": {
+    "id": 4011633093,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "449",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Da Angela",
+    "opening_hours": "Mo-Sa 11:45-14:30, 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 492 29 31",
+    "website": "https://www.daangela.ch/"
+  },
+  "id": 4011633093
+}

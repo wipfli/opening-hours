@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2454282,
+      47.140835
+    ]
+  },
+  "properties": {
+    "id": 2154510228,
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "2502",
+    "addr:street": "Burggasse",
+    "addr:street:fr": "Rue du Bourg",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "dog": "yes",
+    "ele": "435",
+    "indoor_seating": "yes",
+    "name": "Bambou",
+    "old_name": "Sushi Nori Ogura",
+    "opening_hours": "We-Sa 11:45-14:00, 18:30-22:00; Su-Tu off",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://bambousushibar.ch/b/",
+    "wheelchair": "no"
+  },
+  "id": 2154510228
+}

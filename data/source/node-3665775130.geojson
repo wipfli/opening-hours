@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4388901,
+      47.3959661
+    ]
+  },
+  "properties": {
+    "id": 3665775130,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "7",
+    "addr:postcode": "8952",
+    "addr:street": "Kesslerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "email": "pizza@sangennarozurigo.ch",
+    "level": "0",
+    "name": "San Gennaro",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:00; Sa-Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 461 15 15",
+    "website": "https://www.sangennarozurigo.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3665775130
+}

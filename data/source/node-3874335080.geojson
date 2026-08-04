@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0688976,
+      47.3902008
+    ]
+  },
+  "properties": {
+    "id": 3874335080,
+    "addr:city": "Buchs",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "5033",
+    "addr:street": "Aarauerstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-09-25",
+    "contact:email": "info@ugarit-restaurant.ch",
+    "contact:phone": "+41 62 557 17 77",
+    "cuisine": "syrian;pizza;burger;kebab",
+    "diet:vegetarian": "yes",
+    "name": "Ugarit",
+    "opening_hours": "Mo,We,Th 11:00-14:00,17:00-22:00; Fr,Sa 11:00-14:00,17:00-24:00; Su 13:00-22:00",
+    "website": "https://ugarit-restaurant.ch/"
+  },
+  "id": 3874335080
+}

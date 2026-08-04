@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5213785,
+      47.3887272
+    ]
+  },
+  "properties": {
+    "id": 451727063,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "267",
+    "addr:postcode": "8005",
+    "addr:street": "Heinrichstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Steinfels",
+    "cuisine": "asian;sushi",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "steinfels@nooch.ch",
+    "indoor_seating": "yes",
+    "name": "Nooch Asian Kitchen",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 12:00-24:00; Su 12:00-23:00",
+    "opening_hours:kitchen": "Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 366 85 35",
+    "takeaway": "yes",
+    "website": "https://nooch.ch/nooch-zuerich-steinfels"
+  },
+  "id": 451727063
+}

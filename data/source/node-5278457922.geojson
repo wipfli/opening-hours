@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5819493,
+      47.5543298
+    ]
+  },
+  "properties": {
+    "id": 5278457922,
+    "addr:city": "Basel",
+    "addr:housenumber": "9",
+    "addr:postcode": "4051",
+    "addr:street": "Eulerstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-02-23",
+    "cuisine": "regional",
+    "email": "cantina-e9@weizenkorn.ch",
+    "indoor_seating": "yes",
+    "name": "Cantina E9",
+    "opening_hours": "Mo-Fr 11:00-14:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 274 01 41",
+    "smoking": "outside",
+    "website": "http://www.cantina-e9.ch",
+    "wheelchair": "yes"
+  },
+  "id": 5278457922
+}

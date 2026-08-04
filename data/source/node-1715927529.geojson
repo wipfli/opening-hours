@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5397437,
+      47.2073052
+    ]
+  },
+  "properties": {
+    "id": 1715927529,
+    "addr:city": "Solothurn",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "4500",
+    "addr:street": "Ritterquai",
+    "alt_name": "Cantinetta Bindella Solothurn",
+    "amenity": "restaurant",
+    "contact:email": "cantinetta.bindella.solothurn@bindella.ch",
+    "contact:fax": "+41 32 6231782",
+    "contact:website": "https://www.bindella.ch/de/cantinetta-bindella-solothurn.html",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Cantinetta Bindella",
+    "opening_hours": "Mo-Th 10:00-23:30; Fr-Sa 10:00-00:30; Su 11:00-23:30",
+    "operator": "Bindella",
+    "phone": "+41 32 623 16 85",
+    "self_service": "no",
+    "source": "http://www.sogis.ch SO!GIS Import",
+    "source:date": "20100325",
+    "website": "https://www.bindella.ch/de/cantinetta-bindella-solothurn.html"
+  },
+  "id": 1715927529
+}

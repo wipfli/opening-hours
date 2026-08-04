@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1079733,
+      47.5658415
+    ]
+  },
+  "properties": {
+    "id": 251369007,
+    "addr:city": "Weinfelden",
+    "addr:housenumber": "2",
+    "addr:postcode": "8570",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "Gasthof Eisenbahn",
+    "opening_hours": "Mo-Fr 09:00-14:00,17:00-23:00; Sa 09:00-23:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 71 622 10 60",
+    "rooms": "19",
+    "tourism": "hotel",
+    "website": "https://www.gasthof-eisenbahn.ch/",
+    "wheelchair": "no"
+  },
+  "id": 251369007
+}

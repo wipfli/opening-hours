@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9113225,
+      46.4319478
+    ]
+  },
+  "properties": {
+    "id": 12951272850,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/latabledemontreux",
+    "contact:instagram": "https://www.instagram.com/latabledemontreux",
+    "diet:vegan": "yes",
+    "email": "info@latabledemontreux.ch",
+    "name": "La Table de Montreux",
+    "opening_hours": "Mo-Su 09:00-01:00",
+    "phone": "+41219612020",
+    "website": "https://latabledemontreux.ch/"
+  },
+  "id": 12951272850
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0866498,
+      46.2401151
+    ]
+  },
+  "properties": {
+    "id": 447810241,
+    "addr:city": "Meyrin",
+    "addr:housenumber": "37",
+    "addr:postcode": "1217",
+    "addr:street": "Avenue Auguste-Fran\u00e7ois-Dubois",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 de Mategnin",
+    "name:fr": "Restaurant de Mategnin",
+    "opening_hours": "Tu-Sa 09:00-23:55",
+    "phone": "+41 22 782 06 88",
+    "website": "https://www.cafedemategnin.com",
+    "wheelchair": "limited"
+  },
+  "id": 447810241
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0731355,
+      46.1023626
+    ]
+  },
+  "properties": {
+    "id": 3456886663,
+    "addr:city": "Martigny",
+    "addr:housenumber": "4",
+    "addr:postcode": "1920",
+    "addr:street": "Rue Marc Morand",
+    "amenity": "restaurant",
+    "cuisine": "chinese;thai",
+    "name": "Siam-Thai",
+    "opening_hours": "Tu-Sa 10:00-15:00,18:00-23:00",
+    "phone": "+41277222566",
+    "website": "http://www.brasseriedesmessageries.com/",
+    "wheelchair": "yes"
+  },
+  "id": 3456886663
+}

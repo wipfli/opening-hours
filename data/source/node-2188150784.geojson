@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1612113,
+      46.7764966
+    ]
+  },
+  "properties": {
+    "id": 2188150784,
+    "amenity": "restaurant",
+    "name": "Le Centre - caf\u00e9-restaurant",
+    "opening_hours": "Mo 08:00-17:00; Tu-Sa 08:00-23:00",
+    "website": "https://marly-centre.ch/commerces/restaurant-le-centre/"
+  },
+  "id": 2188150784
+}

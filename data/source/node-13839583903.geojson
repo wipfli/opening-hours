@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533561,
+      47.3789005
+    ]
+  },
+  "properties": {
+    "id": 13839583903,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "description": "menu: https://menu.tablesnappr.com/bridgezurich/#/",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "puci's @ bridge",
+    "opening_hours": "Mo-Sa 11:30-21:30",
+    "operator": "puci's",
+    "operator:website": "https://pucis.ch/",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.bridgezurich.ch/de/startseite/",
+    "wheelchair": "yes"
+  },
+  "id": 13839583903
+}

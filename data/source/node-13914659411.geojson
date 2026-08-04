@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3057787,
+      47.4777749
+    ]
+  },
+  "properties": {
+    "id": 13914659411,
+    "addr:city": "Baden",
+    "addr:housenumber": "21",
+    "addr:postcode": "5400",
+    "addr:street": "Haselstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian;sri_lankan",
+    "name": "Restaurant Elanet",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-22:00",
+    "website": "https://elanet-food.ch/"
+  },
+  "id": 13914659411
+}

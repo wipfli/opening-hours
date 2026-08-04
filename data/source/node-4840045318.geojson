@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5890838,
+      47.5538508
+    ]
+  },
+  "properties": {
+    "id": 4840045318,
+    "addr:city": "Basel",
+    "addr:housenumber": "1a",
+    "addr:postcode": "4051",
+    "addr:street": "Steinenvorstadt",
+    "amenity": "restaurant",
+    "brand": "Hans im Gl\u00fcck",
+    "brand:wikidata": "Q22569868",
+    "brand:wikipedia": "de:Hans im Gl\u00fcck (Restaurantkette)",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Mo-Fr 11:00-00:00, Sa-Su 11:00-02:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 511 11 91",
+    "smoking": "outside",
+    "website": "https://hansimglueck-burgergrill.de/standort/basel-steinenvorstadt"
+  },
+  "id": 4840045318
+}

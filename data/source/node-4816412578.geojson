@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.692696,
+      47.5109569
+    ]
+  },
+  "properties": {
+    "id": 4816412578,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "9",
+    "addr:postcode": "8408",
+    "addr:street": "Riedhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa 08:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 222 80 20",
+    "website": "https://www.baeren-winterthur.ch/"
+  },
+  "id": 4816412578
+}

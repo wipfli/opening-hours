@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4433385,
+      46.9484276
+    ]
+  },
+  "properties": {
+    "id": 286879727,
+    "addr:floor": "1",
+    "alt_name": "Ristorante Pizzeria Pasteria da Vinci",
+    "amenity": "restaurant",
+    "contact:addr": "Spitalgasse 2, 3011 Bern",
+    "contact:email": "info@ristorantedavinci.ch",
+    "contact:fax": "+41 31 3112726",
+    "contact:phone": "+41 31 3113737",
+    "cuisine": "italian",
+    "level": "1",
+    "name": "Da Vinci",
+    "old_name": "Celina Bern",
+    "opening_hours": "Mo-Sa 10:00-23:00; Su 11:00-22:00",
+    "operator": "Urim Bajraktari",
+    "source": "survey and website",
+    "website": "https://www.ristorantedavinci.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 286879727
+}

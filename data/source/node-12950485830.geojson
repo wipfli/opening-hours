@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9298521,
+      46.8255057
+    ]
+  },
+  "properties": {
+    "id": 12950485830,
+    "addr:city": "Payerne",
+    "addr:housenumber": "19",
+    "addr:postcode": "1530",
+    "addr:street": "Route de Morens",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "Centre Portugais de Payerne",
+    "opening_hours": "Mo 08:00-18:00, Mo-Th 08:00-19:00, Fr-Sa 08:00-00:00",
+    "phone": "+41 26 660 86 95",
+    "website": "cppayerne.com"
+  },
+  "id": 12950485830
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.607695,
+      47.346367
+    ]
+  },
+  "properties": {
+    "id": 1580502705,
+    "amenity": "restaurant",
+    "name": "Tertianum",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "website": "https://www.tertianum.ch/de/tertianum-residenz-zollikerberg-zollikerberg_url-correct/restaurant-rondo"
+  },
+  "id": 1580502705
+}

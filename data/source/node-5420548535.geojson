@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5577066,
+      46.7249462
+    ]
+  },
+  "properties": {
+    "id": 5420548535,
+    "addr:city": "Lenzerheide/Lai",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "7078",
+    "addr:street": "Voa Principala",
+    "amenity": "restaurant",
+    "cuisine": "regional;steak_house",
+    "email": "restaurant-lapatata@bluewin.ch",
+    "name": "La Patata",
+    "opening_hours": "Mo-Su 16:00+; Tu off; We off",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 384 16 26",
+    "takeaway": "yes",
+    "website": "https://www.la-patata.ch/"
+  },
+  "id": 5420548535
+}

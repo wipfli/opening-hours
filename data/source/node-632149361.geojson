@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7612677,
+      47.4822412
+    ]
+  },
+  "properties": {
+    "id": 632149361,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "7",
+    "addr:postcode": "8405",
+    "addr:street": "R\u00f6ssligasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Tu-Fr 08:30-23:00; Sa 11:00-23:00; Su 11:00-17:00",
+    "website": "https://www.roessli-seen.ch/"
+  },
+  "id": 632149361
+}

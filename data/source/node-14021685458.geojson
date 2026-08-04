@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1371719,
+      47.0843144
+    ]
+  },
+  "properties": {
+    "id": 14021685458,
+    "addr:city": "Ligerz",
+    "addr:housenumber": "17",
+    "addr:postcode": "2514",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2027-07-17",
+    "email": "info@kreuzligerz.ch",
+    "name": "See Bistro (Kreuz)",
+    "opening_hours": "Mo-Su 10:00+; Tu off",
+    "phone": "+41 32 315 11 15",
+    "website": "https://kreuzligerz.ch/kreuzligerz/"
+  },
+  "id": 14021685458
+}

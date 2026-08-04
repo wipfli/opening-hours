@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7217605,
+      47.0999522
+    ]
+  },
+  "properties": {
+    "id": 4598673382,
+    "addr:city": "Trachslau",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8840",
+    "addr:street": "Moosstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Caf\u00e9 T\u00e4ndli",
+    "opening_hours": "Tu-Su 08:15-18:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "http://cafetaendli.ch"
+  },
+  "id": 4598673382
+}

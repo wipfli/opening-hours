@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8592413,
+      46.205478
+    ]
+  },
+  "properties": {
+    "id": 628084497,
+    "addr:city": "Champoussin",
+    "addr:housenumber": "67",
+    "addr:postcode": "1873",
+    "addr:street": "Route de Champoussin",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "Boxer",
+    "email": "chezgaby1670@gmail.com",
+    "facebook": "https://www.facebook.com/Auberge-Restaurant-Chez-Gaby-1670-102554807821500/",
+    "name": "Chez Gaby",
+    "opening_hours": "Mo-Su 09:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41244772222",
+    "smoking": "outside",
+    "website": "https://www.chezgaby1670.ch"
+  },
+  "id": 628084497
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5191218,
+      47.1991354
+    ]
+  },
+  "properties": {
+    "id": 13740367396,
+    "addr:city": "Baar",
+    "addr:housenumber": "55",
+    "addr:postcode": "6340",
+    "addr:street": "Neugasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Sport Inn",
+    "opening_hours": "Mo-Fr 10:00-14:00,18:00-23:00",
+    "phone": "+41 76 418 8004",
+    "website": "https://www.restaurant-sportinn.ch/"
+  },
+  "id": 13740367396
+}

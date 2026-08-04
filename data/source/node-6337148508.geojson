@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436419,
+      47.3731521
+    ]
+  },
   "properties": {
-    "@id": "node/6337148508",
+    "id": 6337148508,
     "addr:housenumber": "10",
     "addr:street": "Rosengasse",
     "amenity": "restaurant",
@@ -23,12 +30,5 @@
     "website": "https://hotel-adler.ch/en/swiss-chuchi-restaurant/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5436419,
-      47.3731521
-    ]
-  },
-  "id": "node-6337148508"
+  "id": 6337148508
 }

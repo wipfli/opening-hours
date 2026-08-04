@@ -1,9 +1,0 @@
-The website shows:
-- Lunch: Monday–Friday 11:30–14:00
-- Dinner: Monday–Sunday 18:00–00:00
-
-Converting to OSM format:
-- Mo-Fr 11:30-14:00, 18:00-00:00
-- Sa-Su 18:00-00:00
-
-Mo-Fr 11:30-14:00,18:00-00:00; Sa-Su 18:00-00:00

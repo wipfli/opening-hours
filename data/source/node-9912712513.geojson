@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3745541,
+      47.4255841
+    ]
+  },
+  "properties": {
+    "id": 9912712513,
+    "amenity": "restaurant",
+    "description": "Esswerk - Burritos, Bowls and more",
+    "indoor_seating": "yes",
+    "name": "Esswerk",
+    "opening_hours": "Mo-Fr 11:00-14:00, Mo-We 17:30-21:00; Sa,Su off",
+    "outdoor_seating": "yes",
+    "website": "https://www.ess-werk.ch/"
+  },
+  "id": 9912712513
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5058744,
+      47.4184517
+    ]
+  },
+  "properties": {
+    "id": 3725397475,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8046",
+    "addr:street": "Schauenbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Ristorante Pizzeria da Enzo",
+    "opening_hours": "Tu 17:00-23:00, We,Th 11:00-14:30,17:00-23:00, Su 11:00-22:00, Fr,Sa 11:00-14:30,17:00-24:00",
+    "phone": "+41 44 371 55 25",
+    "website": "https://www.ristorante-pizzeria-daenzo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3725397475
+}

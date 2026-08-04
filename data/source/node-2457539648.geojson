@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7594559,
+      47.4866133
+    ]
+  },
+  "properties": {
+    "id": 2457539648,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8405",
+    "addr:street": "Schwerzenbachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Kafi Burehus",
+    "opening_hours": "Tu-Sa 08:30-22:00",
+    "website": "https://www.restaurant-kafi-burehus.ch/"
+  },
+  "id": 2457539648
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537534,
+      47.4612523
+    ]
+  },
+  "properties": {
+    "id": 8658936574,
+    "amenity": "restaurant",
+    "level": "3",
+    "name": "Aspire Lounge E",
+    "opening_hours": "Mo-Su,PH 06:30-21:00",
+    "phone": "+41 43 815 09 68",
+    "website": "https://aspirelounge.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8658936574
+}

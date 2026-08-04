@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4401065,
+      46.9470191
+    ]
+  },
+  "properties": {
+    "id": 2892516176,
+    "addr:city": "Bern",
+    "addr:housenumber": "5A",
+    "addr:postcode": "3011",
+    "addr:street": "Bubenbergplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-05-20",
+    "contact:addr": "Bubenbergplatz 5a, 3011 Bern",
+    "contact:email": "info@myle-bern.com",
+    "contact:facebook": "RestaurantMYLE",
+    "contact:instagram": "mylebern",
+    "contact:phone": "+41 31 351 13 23",
+    "cuisine": "fine_dining",
+    "name": "Restaurant MYLE",
+    "opening_hours": "We-Sa 16:00-24:00; Th-Fr 12:00-14:00, 16:00-24:00",
+    "website": "https://myle-bern.com"
+  },
+  "id": 2892516176
+}

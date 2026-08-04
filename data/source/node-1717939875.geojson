@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6389063,
+      47.6959464
+    ]
+  },
+  "properties": {
+    "id": 1717939875,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-07-04",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Lemongrass",
+    "opening_hours": "Tu-Sa 11:00-14:00,18:00-22:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 624 62 63",
+    "website": "https://www.lemongrass-sh.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1717939875
+}

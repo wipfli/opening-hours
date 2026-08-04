@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2476119,
+      47.1420832
+    ]
+  },
+  "properties": {
+    "id": 4664186145,
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "2504",
+    "addr:street": "Rue des Tanneurs / Gerbergasse",
+    "addr:street:de": "Gerbergasse",
+    "addr:street:fr": "Rue des Tanneurs",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "contact:facebook": "https://www.facebook.com/gaerbi",
+    "diet:vegetarian": "yes",
+    "ele": "436",
+    "highchair": "yes",
+    "name": "G\u00e4rbi - Breihaus",
+    "opening_hours": "Mo 18:00-00:30; Tu 12:00-14:00; Th 19:00+; Fr 18:00-03:30",
+    "outdoor_seating": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "no",
+    "smoking": "separated",
+    "toilets:wheelchair": "no",
+    "website": "https://gaerbi.ch",
+    "wheelchair": "limited"
+  },
+  "id": 4664186145
+}

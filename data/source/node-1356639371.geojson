@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8157717,
+      47.2262823
+    ]
+  },
+  "properties": {
+    "id": 1356639371,
+    "addr:city": "Rapperswil (SG)",
+    "addr:housenumber": "9",
+    "addr:postcode": "8640",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo off; Tu-Th 17:00-24:00; Fr 17:00-01:00; Sa 15:00-01:00; Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 210 14 30",
+    "website": "https://www.baerenrapperswil.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1356639371
+}

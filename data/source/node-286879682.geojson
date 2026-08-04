@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4222041,
+      46.9328061
+    ]
+  },
+  "properties": {
+    "id": 286879682,
+    "addr:city": "Liebefeld",
+    "addr:housenumber": "120",
+    "addr:street": "Schwarzenburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-24",
+    "cuisine": "chinese",
+    "email": "bokybern@gmail.com",
+    "highchair": "yes",
+    "name": "Boky",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-22:00; Sa-Su 18:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 31 382 28 28",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.boky.ch"
+  },
+  "id": 286879682
+}

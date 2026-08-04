@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2799238,
+      47.087646
+    ]
+  },
+  "properties": {
+    "id": 10282100471,
+    "addr:city": "Kappelen",
+    "addr:housenumber": "25",
+    "addr:postcode": "3273",
+    "addr:street": "Werdtstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@staernepintli.ch",
+    "name": "St\u00e4rnepintli",
+    "opening_hours": "We-Fr 17:00-23:00; Sa 11:00-23:00; Su 09:00-22:00",
+    "phone": "+41 32 384 11 46",
+    "website": "http://staernepintli.ch/"
+  },
+  "id": 10282100471
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6295953,
+      47.0570946
+    ]
+  },
+  "properties": {
+    "id": 11482169658,
+    "addr:city": "Burgdorf",
+    "addr:housenumber": "14",
+    "addr:postcode": "3400",
+    "addr:street": "S\u00e4gegasse",
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "cuisine": "german",
+    "delivery": "no",
+    "fax": "+41 34 427 2531",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 427 2530",
+    "reservation": "no",
+    "website": "https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/2544/coop-bistro-burgdorf-schuetzenmatte.html"
+  },
+  "id": 11482169658
+}

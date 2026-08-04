@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8216499,
+      47.1008016
+    ]
+  },
+  "properties": {
+    "id": 563816940,
+    "addr:postcode": "2300",
+    "amenity": "restaurant",
+    "cuisine": "arab;moroccan",
+    "email": "info@etoiledemarrakech.ch",
+    "name": "L'\u00e9toile de Marakech",
+    "opening_hours": "Su, Tu-Th 11:00-14:30, 17:30-22:00; Mo, Fr-Sa 11:00-14:30, 17:30-23:30",
+    "phone": "+41323116521",
+    "website": "https://etoiledemarrakech.ch/",
+    "website:menu": "https://etoiledemarrakech.ch/menu/"
+  },
+  "id": 563816940
+}

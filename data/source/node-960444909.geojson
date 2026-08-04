@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6230467,
+      47.5248031
+    ]
+  },
+  "properties": {
+    "id": 960444909,
+    "addr:housenumber": "9",
+    "addr:postcode": "8421",
+    "addr:street": "Unterdorf",
+    "amenity": "restaurant",
+    "name": "Traube",
+    "opening_hours": "We-Sa 09:00-23:00; Su 10:00-22:00",
+    "phone": "+41 52 315 65 05",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.gasthoftraube.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 960444909
+}

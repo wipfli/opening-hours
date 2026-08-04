@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2581777,
+      47.0630157
+    ]
+  },
+  "properties": {
+    "id": 254726096,
+    "addr:city": "Flumserberg",
+    "addr:place": "Alp Pan\u00fc\u00f6l",
+    "addr:postcode": "8898",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@alprestaurant-panuol.ch",
+    "name": "Alprestaurant Pan\u00fc\u00f6l",
+    "opening_hours": "Dec-Apr: 08:30-16:00",
+    "operator": "BBF Gastro AG",
+    "phone": "+41 81 710 12 47",
+    "website": "https://www.alprestaurant-panuol.ch/",
+    "website:menu": "https://www.alprestaurant-panuol.ch/speisekarte/"
+  },
+  "id": 254726096
+}

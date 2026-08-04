@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2826403,
+      46.7879435
+    ]
+  },
+  "properties": {
+    "id": 4192449699,
+    "addr:city": "Valendas",
+    "addr:housenumber": "11",
+    "addr:postcode": "7122",
+    "addr:street": "Platz",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Gasthaus am Brunnen",
+    "opening_hours": "We-Su 09:00-24:00",
+    "outdoor_seating": "yes",
+    "takeaway": "no",
+    "website": "https://gasthausambrunnen.ch/"
+  },
+  "id": 4192449699
+}

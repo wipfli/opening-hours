@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6412581,
+      47.6955227
+    ]
+  },
+  "properties": {
+    "id": 274768323,
+    "amenity": "restaurant",
+    "cuisine": "regional;sushi",
+    "indoor_seating": "yes",
+    "name": "G\u00fcterhof",
+    "note": "mit Sushi-Bar",
+    "opening_hours": "Su-Th 08:00-24:00; Fr-Sa 08:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 630 40 40",
+    "toilets:wheelchair": "no",
+    "website": "https://www.gueterhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 274768323
+}

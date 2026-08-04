@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.960938,
+      46.5984171
+    ]
+  },
+  "properties": {
+    "id": 528206654,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "capacity": "50",
+    "cuisine": "regional",
+    "email": "mail@dorta.ch",
+    "name": "Dorta",
+    "opening_hours": "We 18:00-24:00; Th-Su 12:00-24:00;Mo-Tu off",
+    "operator": "Berita Gastro GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 854 20 40",
+    "website": "https://www.dorta.ch"
+  },
+  "id": 528206654
+}

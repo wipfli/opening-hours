@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9960091,
+      46.0109952
+    ]
+  },
+  "properties": {
+    "id": 6533511490,
+    "addr:city": "Br\u00e8 sopra Lugano",
+    "addr:country": "CH",
+    "addr:housenumber": "46",
+    "addr:postcode": "6979",
+    "addr:street": "Via Br\u00e8",
+    "amenity": "restaurant",
+    "contact:facebook": "share/RaTertRuTZi98qGt",
+    "contact:instagram": "https://www.instagram.com/salotto_bre/",
+    "cuisine": "italian;local",
+    "internet_access": "wlan",
+    "name": "Salotto Br\u00e8",
+    "opening_hours": "We-Su 10:00-21:00; Mo 11:30-17:00",
+    "phone": "+41 91 971 50 00",
+    "tourism": "guest_house",
+    "website": "http://salottobre.ch/",
+    "website:menu": "https://www.ristorante-salotto-bre.ch/menus"
+  },
+  "id": 6533511490
+}

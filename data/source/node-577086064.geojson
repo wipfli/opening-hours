@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3801129,
+      47.3801131
+    ]
+  },
+  "properties": {
+    "id": 577086064,
+    "addr:city": "Bergdietikon",
+    "addr:postcode": "8962",
+    "amenity": "restaurant",
+    "check_date": "2019-04-26",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "Gasthof Herrenberg",
+    "opening_hours": "Tu-Su 09:00-23:00",
+    "sport": "9pin",
+    "website": "http://www.gasthof-herrenberg.ch",
+    "wheelchair": "limited"
+  },
+  "id": 577086064
+}

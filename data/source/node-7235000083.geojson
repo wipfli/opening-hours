@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6325327,
+      46.5212754
+    ]
+  },
+  "properties": {
+    "id": 7235000083,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "1",
+    "addr:postcode": "1003",
+    "addr:street": "Place Pepinet",
+    "amenity": "restaurant",
+    "contact:instagram": "creperie_des_philosophes",
+    "indoor_seating": "yes",
+    "name": "Cr\u00eaperie des Philosophes",
+    "opening_hours": "Mo-Sa 12:00-21:00; Su 12:00-20:00",
+    "opening_hours:kitchen": "Tu-Sa 12:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://creperiedesphilosophes.ch/"
+  },
+  "id": 7235000083
+}

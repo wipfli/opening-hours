@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3616441,
+      46.6839449
+    ]
+  },
+  "properties": {
+    "id": 2441718839,
+    "addr:city": "Vaulion",
+    "addr:housenumber": "21",
+    "addr:postcode": "1325",
+    "addr:street": "Route de la Dent",
+    "amenity": "restaurant",
+    "cuisine": "african;regional",
+    "email": "prosper@morez.ch",
+    "name": "Auberge du Morez",
+    "opening_hours": "Su 09:00-22:00; Mo-Sa 09:00-23:00",
+    "phone": "+41 21 843 32 66",
+    "website": "https://morez.ch/"
+  },
+  "id": 2441718839
+}

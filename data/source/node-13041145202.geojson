@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3339168,
+      47.4097595
+    ]
+  },
+  "properties": {
+    "id": 13041145202,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "171",
+    "addr:postcode": "9014",
+    "addr:street": "F\u00fcrstenlandstrasse",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;pasta;pizza",
+    "indoor_seating": "yes",
+    "name": "Steinbock",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 558 80 77",
+    "website": "https://steinbock.sparissimofood.com",
+    "website:menu": "https://steinbock.sparissimofood.com/menu"
+  },
+  "id": 13041145202
+}

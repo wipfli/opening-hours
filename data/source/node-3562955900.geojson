@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3080407,
+      47.0470126
+    ]
+  },
+  "properties": {
+    "id": 3562955900,
+    "addr:city": "Luzern",
+    "addr:housenumber": "29",
+    "addr:postcode": "6003",
+    "addr:street": "Hirschmattstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 41 210 10 15",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Jeff's Burger",
+    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Th 17:30-22:30, Fr 17:30-23:30, Sa 11:30-23:30; Su off",
+    "outdoor_seating": "yes",
+    "website": "https://jeffs-burger.ch/"
+  },
+  "id": 3562955900
+}

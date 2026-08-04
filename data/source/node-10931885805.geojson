@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5453199,
+      47.4150211
+    ]
+  },
+  "properties": {
+    "id": 10931885805,
+    "addr:housenumber": "413",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Masal Dosa",
+    "opening_hours": "Mo-Sa 17:30-22:00; Sa-Su 11:30-14:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 621 13 30",
+    "website": "https://masaldosa.ch/"
+  },
+  "id": 10931885805
+}

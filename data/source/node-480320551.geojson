@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5180157,
+      47.3616035
+    ]
+  },
   "properties": {
-    "@id": "node/480320551",
+    "id": 480320551,
     "amenity": "restaurant",
     "cuisine": "regional\nswiss",
     "name": "Utoburg",
@@ -10,12 +17,5 @@
     "website": "http://utoburg.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5180157,
-      47.3616035
-    ]
-  },
-  "id": "node-480320551"
+  "id": 480320551
 }

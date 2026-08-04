@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4549349,
+      47.1359933
+    ]
+  },
+  "properties": {
+    "id": 1908921940,
+    "addr:city": "Sevelen",
+    "addr:housenumber": "1858",
+    "addr:place": "H\u00fcseren",
+    "addr:postcode": "9475",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Berggasthaus Gemsli",
+    "opening_hours": "We-Su 10:00-21:00",
+    "phone": "+41 81 740 10 10",
+    "website": "https://www.aparthotel-gemsli.ch/"
+  },
+  "id": 1908921940
+}

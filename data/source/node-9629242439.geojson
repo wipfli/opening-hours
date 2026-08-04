@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1527114,
+      46.191321
+    ]
+  },
+  "properties": {
+    "id": 9629242439,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "57",
+    "addr:postcode": "1206",
+    "addr:street": "Avenue de Champel",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Misuji Le Shop",
+    "opening_hours": "Mo-Fr 11:30-19:30",
+    "phone": "+41 22 346 30 00",
+    "website": "http://misuji.ch/le-shop/"
+  },
+  "id": 9629242439
+}

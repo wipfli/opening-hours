@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5448146,
+      47.3259006
+    ]
+  },
+  "properties": {
+    "id": 445817755,
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "98",
+    "addr:postcode": "8802",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;fine_dining",
+    "email": "omk@moenchhof.ch",
+    "name": "Oberer M\u00f6nchhof",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-23:00",
+    "owner": "Adrian Thoma",
+    "phone": "+41 44 715 40 06",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.m\u00f6nchhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 445817755
+}

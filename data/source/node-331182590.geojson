@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441431,
+      47.3757513
+    ]
+  },
   "properties": {
-    "@id": "node/331182590",
+    "id": 331182590,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "70",
@@ -18,12 +25,5 @@
     "website": "https://www.johanniter.com/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5441431,
-      47.3757513
-    ]
-  },
-  "id": "node-331182590"
+  "id": 331182590
 }

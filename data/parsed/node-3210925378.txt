@@ -1,8 +1,0 @@
-Looking at the website content for Xi Muoi restaurant, I can find the opening hours in the "Öffnungzeiten" (Opening Hours) section at the bottom:
-
-- Montag bis Freitag (Monday to Friday): 10.00 – 22.00
-- Samstag und Sonntag (Saturday and Sunday): 10.00 – 22.00
-
-This means the restaurant is open the same hours every day of the week.
-
-Mo-Su 10:00-22:00

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5919542,
+      46.5356344
+    ]
+  },
+  "properties": {
+    "id": 3137095928,
+    "addr:city": "Renens",
+    "addr:housenumber": "25",
+    "addr:postcode": "1020",
+    "addr:street": "Rue de la Paix",
+    "amenity": "restaurant",
+    "contact:website": "http://www.restaurant-kashmir.ch",
+    "cuisine": "indian",
+    "name": "Kashmir",
+    "opening_hours": "Mo-Fr 11:00-14:30, Mo-Fr 18:00-22:30; Sa 18:00-23:00",
+    "phone": "+41 78 889 76 94",
+    "website": "https://restaurant-kashmir.ch/"
+  },
+  "id": 3137095928
+}

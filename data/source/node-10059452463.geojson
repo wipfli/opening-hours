@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6115348,
+      46.6014295
+    ]
+  },
+  "properties": {
+    "id": 10059452463,
+    "addr:city": "Etagni\u00e8res",
+    "addr:housenumber": "4",
+    "addr:postcode": "1037",
+    "addr:street": "Rue du Bourg",
+    "amenity": "restaurant",
+    "contact:instagram": "littlepersialausanne",
+    "cuisine": "persian",
+    "diet:halal": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@little-persia.ch",
+    "name": "Little Persia",
+    "opening_hours": "Mo-Su 11:30-13:30,17:30-20:30",
+    "phone": "+41 76 242 67 85",
+    "takeaway": "yes",
+    "website": "https://www.little-persia.ch"
+  },
+  "id": 10059452463
+}

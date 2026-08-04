@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9637563,
+      46.0900273
+    ]
+  },
+  "properties": {
+    "id": 5820301255,
+    "amenity": "restaurant",
+    "name": "Furgstallden",
+    "name:de": "Furggstalden",
+    "name:en": "Furggstalden",
+    "name:fr": "Furggstalden",
+    "name:nl": "Furggstalden",
+    "opening_hours": "Mo-Su 09:00-16:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 957 18 08",
+    "website": "https://www.furggstalden.ch/"
+  },
+  "id": 5820301255
+}

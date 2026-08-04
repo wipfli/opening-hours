@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2969525,
+      46.2249826
+    ]
+  },
+  "properties": {
+    "id": 9113555593,
+    "addr:housenumber": "9",
+    "addr:street": "Route cantonale",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "name": "Le Chef's Diner",
+    "opening_hours": "Tu-Fr 11:00-14:00, 18:00-22:00; Sa 11:00-14:00, 18:00-23:00; Su 11:00-22:00",
+    "phone": "+4127 345 50 60",
+    "website": "https://www.chefs-diner.com/"
+  },
+  "id": 9113555593
+}

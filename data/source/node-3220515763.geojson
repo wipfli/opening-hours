@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403664,
+      47.3720697
+    ]
+  },
   "properties": {
-    "@id": "node/3220515763",
+    "id": 3220515763,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "8",
@@ -19,12 +26,5 @@
     "website": "https://www.neuetaverne.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5403664,
-      47.3720697
-    ]
-  },
-  "id": "node-3220515763"
+  "id": 3220515763
 }

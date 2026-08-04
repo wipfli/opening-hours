@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8581363,
+      47.6669077
+    ]
+  },
+  "properties": {
+    "id": 56877256,
+    "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8260",
+    "addr:street": "Hohenklingenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "french;regional",
+    "email": "info@burghohenklingen.com",
+    "name": "Restaurant Burg Hohenklingen",
+    "opening_hours": "We-Sa 10:00-23:00; Su 10:00-22:00",
+    "opening_hours:kitchen": "We-Sa 11:30-13:30,18:00-20:30; Su 11:30-13:30,18:00-19:30",
+    "opening_hours:url": "https://burghohenklingen.com/kontakt/",
+    "phone": "+41 52 741 21 37",
+    "toilets:wheelchair": "yes",
+    "tourism": "attraction",
+    "website": "https://burghohenklingen.com/restaurant/",
+    "website:menu": "https://burghohenklingen.com/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 56877256
+}

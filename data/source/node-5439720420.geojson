@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8554572,
+      46.6836814
+    ]
+  },
+  "properties": {
+    "id": 5439720420,
+    "amenity": "restaurant",
+    "beds": "70",
+    "brewery": "murphys;rugenbraeu",
+    "email": "info@happy-inn.com",
+    "fax": "+41 33 822 32 68",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Brasserie 17",
+    "opening_hours": "Mo-Sa 08:30-24:00; Su 17:00-24:00",
+    "operator": "Piet Swenker + Bart Stapel",
+    "phone": "+41 33 822 32 25",
+    "rooms": "19",
+    "smoking": "separated",
+    "website": "https://www.happy-inn.com/"
+  },
+  "id": 5439720420
+}

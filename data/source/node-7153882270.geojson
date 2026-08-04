@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3150515,
+      47.0548178
+    ]
+  },
+  "properties": {
+    "id": 7153882270,
+    "addr:city": "Luzern",
+    "addr:housenumber": "4",
+    "addr:postcode": "6006",
+    "addr:street": "Haldenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "bavarian",
+    "name": "Franz",
+    "opening_hours": "Mo-Fr 10:30-22:30, Sa-Su 09:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 418 50 20",
+    "takeaway": "no",
+    "toilets": "yes",
+    "website": "https://www.restaurant-franz.ch/"
+  },
+  "id": 7153882270
+}

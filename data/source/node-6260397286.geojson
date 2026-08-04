@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4495233,
+      46.9450191
+    ]
+  },
+  "properties": {
+    "id": 6260397286,
+    "amenity": "restaurant",
+    "contact:addr": "Dalmaziquai 13, 3005 Bern",
+    "contact:email": "info@schwellenmaetteli.ch",
+    "contact:fax": "+41 31 3505002",
+    "contact:phone": "+41 31 3505001",
+    "name": "Casa Schwellenm\u00e4tteli",
+    "opening_hours": "Mo-Fr 11:45-14:30,18:00-23:30; Sa 18:00-23:30; Su 11:45-23:00",
+    "operator": "Remimag Gastronomie AG",
+    "source": "survey and website",
+    "website": "https://www.schwellenmaetteli.ch"
+  },
+  "id": 6260397286
+}

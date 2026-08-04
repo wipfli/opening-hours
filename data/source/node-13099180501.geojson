@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7895735,
+      47.3313383
+    ]
+  },
+  "properties": {
+    "id": 13099180501,
+    "addr:housenumber": "15",
+    "addr:postcode": "8620",
+    "addr:street": "Buchgrindelstrasse",
+    "amenity": "restaurant",
+    "email": "info@aabach-restaurant.ch",
+    "name": "Aabach Restaurant",
+    "opening_hours": "Mo-We 11:30-14:00; Th-Fr 11:30-14:00, 18:00-23:00; Sa 18:00-23:00",
+    "phone": "+41 44 441 46 44",
+    "website": "https://www.aabach-restaurant.ch/",
+    "website:menu": "https://www.aabach-restaurant.ch/karte/"
+  },
+  "id": 13099180501
+}

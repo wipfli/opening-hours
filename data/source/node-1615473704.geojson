@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7376649,
+      47.5468572
+    ]
+  },
+  "properties": {
+    "id": 1615473704,
+    "addr:city": "Rheinfelden (Baden)",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "79618",
+    "addr:street": "Gewerbestra\u00dfe",
+    "addr:suburb": "Herten",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "delivery": "no",
+    "name": "Restaurant Taiyang",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:30-23:00",
+    "toilets:wheelchair": "no",
+    "website": "https://www.chinarestaurant-rheinfelden.de/",
+    "wheelchair": "yes"
+  },
+  "id": 1615473704
+}

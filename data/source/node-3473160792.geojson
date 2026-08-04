@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4157639,
+      46.9288686
+    ]
+  },
+  "properties": {
+    "id": 3473160792,
+    "alt_name": "Dschingis Mongolian Barbecue Bern-Liebefeld",
+    "amenity": "restaurant",
+    "contact:facebook": "http://www.facebook.com/pages/HAN-Mongolian-Barbecue/106362449407289",
+    "contact:fax": "+41 31 9710266",
+    "contact:phone": "+41 31 9710224",
+    "name": "Dschingis Mongolian Barbecue",
+    "opening_hours": "Mo-Th 11:00-14:00,18:00-23:30, Fr,Sa 11:00-14:00, Su 11:30-14:30,18:00-23:00, Fr,Sa 18:00-24:00",
+    "website": "https://www.dschingis.restaurant/bern-liebefeld-1/",
+    "wheelchair": "yes"
+  },
+  "id": 3473160792
+}

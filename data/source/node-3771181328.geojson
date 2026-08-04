@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5741221,
+      47.3722886
+    ]
+  },
+  "properties": {
+    "id": 3771181328,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "66",
+    "addr:postcode": "8032",
+    "addr:street": "Kurhausstrasse",
+    "amenity": "restaurant",
+    "email": "info@doldergolf.ch",
+    "name": "Dolder Golfclub - Restaurant",
+    "opening_hours": "10:00-22:00",
+    "phone": "+41 44 254 50 20",
+    "website": "https://www.doldergolf.ch/golfplatz/restaurant.html"
+  },
+  "id": 3771181328
+}

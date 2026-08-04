@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5937682,
+      47.0929879
+    ]
+  },
+  "properties": {
+    "id": 8990397766,
+    "addr:housenumber": "2",
+    "addr:street": "Kreuzweg",
+    "amenity": "restaurant",
+    "name": "Kreuz",
+    "opening_hours": "Mo-Fr 08:00-00:30; Sa 08:00-19:00",
+    "phone": "+41 34 445 21 30",
+    "website": "https://www.ersigen.ch/gemeindeleben/gastwirtschaftsbetriebe/gasthof-kreuz"
+  },
+  "id": 8990397766
+}

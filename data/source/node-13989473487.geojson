@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7553662,
+      46.3189221
+    ]
+  },
+  "properties": {
+    "id": 13989473487,
+    "addr:city": "Steg-Hohtenn",
+    "addr:housenumber": "6",
+    "addr:postcode": "3949",
+    "addr:street": "Flurstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Hohe Tenne",
+    "opening_hours": "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00",
+    "phone": "+41 76 425 65 29",
+    "website": "https://hohe-tenne.ch"
+  },
+  "id": 13989473487
+}

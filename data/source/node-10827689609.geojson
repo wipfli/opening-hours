@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8345277,
+      46.4684153
+    ]
+  },
+  "properties": {
+    "id": 10827689609,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/hclelab/",
+    "contact:instagram": "hc_lelab",
+    "name": "Le Lab",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:30-22:00; Sa 11:30-22:00",
+    "phone": "+41 21 552 04 05",
+    "website": "https://www.restaurant-lelab.com/"
+  },
+  "id": 10827689609
+}

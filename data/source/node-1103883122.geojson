@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2619903,
+      47.3650128
+    ]
+  },
+  "properties": {
+    "id": 1103883122,
+    "amenity": "restaurant",
+    "name": "Amore",
+    "opening_hours": "Mo-Fr 10:30-22:00; Sa 12:00-22:00; Su 17:00-22:00",
+    "website": "https://www.pizzeria-amores.ch/"
+  },
+  "id": 1103883122
+}

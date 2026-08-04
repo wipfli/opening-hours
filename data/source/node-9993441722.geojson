@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0739572,
+      47.1790262
+    ]
+  },
+  "properties": {
+    "id": 9993441722,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@restaurant-laclef.ch",
+    "name": "Restaurant de la Clef",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr 08:00-24:00; Sa 09:00-15:00,18:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "phone": "+41 32 943 12 02",
+    "website": "https://restaurant-laclef.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9993441722
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.575558,
+      47.5537552
+    ]
+  },
+  "properties": {
+    "id": 9269725977,
+    "addr:city": "Basel",
+    "addr:housenumber": "43",
+    "addr:postcode": "4054",
+    "addr:street": "Rudolfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-29",
+    "indoor_seating": "yes",
+    "name": "L\u2019\u00e9tang",
+    "opening_hours": "Mo-Sa 08:45-17:00, Sa,Su,PH 11:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 307 61 38",
+    "smoking": "outside",
+    "website": "https://letang.bsb.ch/"
+  },
+  "id": 9269725977
+}

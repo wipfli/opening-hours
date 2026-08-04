@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7226484,
+      47.5004248
+    ]
+  },
+  "properties": {
+    "id": 4109460415,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15",
+    "addr:postcode": "8400",
+    "addr:street": "Rudolfstrasse",
+    "amenity": "restaurant",
+    "capacity": "120",
+    "check_date": "2023-06-27",
+    "cuisine": "steak_house",
+    "delivery": "no",
+    "diet:vegetarian": "no",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Argentina",
+    "opening_hours": "Mo-Sa 10:00-24:00; Su,PH 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 203 53 53",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.steakhouse-argentina.ch/de/p/standorte/winterthur-1086.html",
+    "wheelchair": "limited"
+  },
+  "id": 4109460415
+}

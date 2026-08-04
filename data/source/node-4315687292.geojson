@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4990014,
+      46.887412
+    ]
+  },
+  "properties": {
+    "id": 4315687292,
+    "addr:postcode": "3123",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "email": "info@kristall-pizza-belp.ch",
+    "name": "Pizzeria Kristall",
+    "name:de": "Pizzeria Kristall",
+    "name:en": "Pizzeria Kristall",
+    "name:fr": "Pizzeria Kristall",
+    "opening_hours": "Mo-Th 10:30-14:00, 16:30-22:45; Fr-Sa 10:30-14:00, 16:30-23:45; Su 16:00-22:45",
+    "phone": "+41315583727",
+    "website": "http://www.kristall-pizza-belp.ch"
+  },
+  "id": 4315687292
+}

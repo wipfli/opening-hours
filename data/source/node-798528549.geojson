@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8617343,
+      46.1486402
+    ]
+  },
+  "properties": {
+    "id": 798528549,
+    "alt_name": "Ristorante Cento",
+    "amenity": "restaurant",
+    "name": "100 ~ Cento",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00",
+    "opening_hours:kitchen": "12:00-14:00,18:00-21:30 || 21:30-22:00 \"pizza only\"",
+    "phone": "+41 91 795 12 12",
+    "toilets:wheelchair": "yes",
+    "website": "https://ristorante100.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 798528549
+}

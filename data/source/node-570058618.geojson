@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8891785,
+      47.5731844
+    ]
+  },
+  "properties": {
+    "id": 570058618,
+    "alt_name": "Restaurant Kan\u00f6nli",
+    "amenity": "restaurant",
+    "name": "Kan\u00f6nli",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "opening_hours:covid19": "Mo-Fr 11:00-14:00",
+    "website": "https://www.befreshcatering.ch/kanoenli/"
+  },
+  "id": 570058618
+}

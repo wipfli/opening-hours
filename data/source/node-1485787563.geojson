@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4531962,
+      47.0571319
+    ]
+  },
+  "properties": {
+    "id": 1485787563,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Alpwirtschaft Ruodisegg",
+    "opening_hours": "We-Su 10:00-19:00 || \"Nach Absprache auch l\u00e4nger\"",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 850 36 59",
+    "website": "https://www.rigi.ch/gastronomie/alpwirtschaft-ruodisegg-3cf4ed0127",
+    "wheelchair": "yes"
+  },
+  "id": 1485787563
+}

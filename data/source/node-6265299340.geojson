@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6330745,
+      46.6414226
+    ]
+  },
+  "properties": {
+    "id": 6265299340,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "name": "Oniwa",
+    "opening_hours": "Mo-Sa 11:30-21:30",
+    "phone": "+41 21 888 88 73",
+    "takeaway": "yes",
+    "website": "https://www.sushi-echallens.com/",
+    "wheelchair": "no"
+  },
+  "id": 6265299340
+}

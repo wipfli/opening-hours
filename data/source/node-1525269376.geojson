@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5272823,
+      47.3909511
+    ]
+  },
+  "properties": {
+    "id": 1525269376,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8037",
+    "addr:street": "H\u00f6nggerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-14",
+    "cuisine": "italian;pizza",
+    "delivery": "yes",
+    "name": "Il Basilico H10",
+    "opening_hours": "Mo-Sa 11:00-13:30, 17:00-23:00; Su, PH 11:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 450 88 99",
+    "takeaway": "yes",
+    "website": "https://www.ilbasilico.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1525269376
+}

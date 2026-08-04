@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5243755,
+      47.3756685
+    ]
+  },
   "properties": {
-    "@id": "node/310788549",
+    "id": 310788549,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "78",
@@ -15,12 +22,5 @@
     "website": "https://www.kobal-curry-restaurant-zuerich.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5243755,
-      47.3756685
-    ]
-  },
-  "id": "node-310788549"
+  "id": 310788549
 }

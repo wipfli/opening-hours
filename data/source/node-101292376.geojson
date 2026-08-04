@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4505679,
+      46.9436093
+    ]
+  },
+  "properties": {
+    "id": 101292376,
+    "addr:city": "Bern",
+    "addr:housenumber": "5",
+    "addr:postcode": "3005",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "restaurant@kirchenfeld.ch",
+    "name": "Kirchenfeld",
+    "opening_hours": "Mo off; Tu-Sa 08:00-23:30; Su off",
+    "operator": "Charlotte & Maurice Rota",
+    "phone": "+41 31 351 02 78",
+    "website": "https://www.kirchenfeld.ch"
+  },
+  "id": 101292376
+}

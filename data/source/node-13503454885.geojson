@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6589472,
+      46.5410599
+    ]
+  },
+  "properties": {
+    "id": 13503454885,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "21",
+    "addr:postcode": "1010",
+    "addr:street": "Route de la Corniche",
+    "amenity": "restaurant",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "unisante@zfv.ch",
+    "name": "Le 1887",
+    "opening_hours": "Mo-Fr 00:00-15:00",
+    "phone": "+41215572020",
+    "website": "https://www.zfv.ch/fr/se-restaurer/restaurant-unisante"
+  },
+  "id": 13503454885
+}

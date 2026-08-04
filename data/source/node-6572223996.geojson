@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.415824,
+      46.9328646
+    ]
+  },
+  "properties": {
+    "id": 6572223996,
+    "addr:city": "Liebefeld",
+    "addr:country": "CH",
+    "addr:housenumber": "199",
+    "addr:postcode": "3097",
+    "addr:street": "K\u00f6nizstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "name": "Bro's Pizza & Kebab Haus",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://brospizzakebab.ch",
+    "wheelchair": "limited"
+  },
+  "id": 6572223996
+}

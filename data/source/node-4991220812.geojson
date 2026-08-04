@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7879525,
+      47.2166466
+    ]
+  },
+  "properties": {
+    "id": 4991220812,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "5",
+    "addr:postcode": "4900",
+    "addr:street": "Murgenthalstrasse",
+    "amenity": "restaurant",
+    "name": "L\u2019AUBERGE",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00; Su off; PH off",
+    "phone": "+41 62 926 60 10",
+    "tourism": "hotel",
+    "website": "https://www.auberge-langenthal.ch/"
+  },
+  "id": 4991220812
+}

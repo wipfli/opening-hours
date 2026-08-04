@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1808356,
+      47.5269631
+    ]
+  },
+  "properties": {
+    "id": 3166577290,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sonne Au",
+    "opening_hours": "Mo-We 08:00-23:00; Sa-Su 08:00-18:00",
+    "outdoor_seating": "yes",
+    "website": "https://tel.search.ch/kradolf/auwiesenstrasse-70/restaurant-sonne-au"
+  },
+  "id": 3166577290
+}

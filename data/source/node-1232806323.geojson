@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5999492,
+      47.258659
+    ]
+  },
+  "properties": {
+    "id": 1232806323,
+    "addr:city": "Horgen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8810",
+    "addr:street": "Neudorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sch\u00f6negg",
+    "opening_hours": "Mo-Fr 08:30-14:00, 17:00-23:00; Sa 17:00-23:00",
+    "phone": "+41 44 725 40 43",
+    "website": "https://www.restaurant-schoenegg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1232806323
+}

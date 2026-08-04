@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6092461,
+      46.5289499
+    ]
+  },
+  "properties": {
+    "id": 5768795960,
+    "addr:city": "Airolo",
+    "addr:country": "CH",
+    "addr:housenumber": "69",
+    "addr:postcode": "6780",
+    "addr:street": "Via San Gottardo",
+    "amenity": "restaurant",
+    "email": "info@tremola-sangottardo.ch",
+    "internet_access": "wlan",
+    "name": "Osteria Tremola San Gottardo",
+    "opening_hours": "08:30-24:00",
+    "phone": "+41 91 825 60 12",
+    "smoking": "no",
+    "website": "https://www.tremola-sangottardo.ch/"
+  },
+  "id": 5768795960
+}

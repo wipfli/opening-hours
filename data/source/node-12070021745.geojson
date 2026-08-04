@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4589571,
+      47.3993917
+    ]
+  },
+  "properties": {
+    "id": 12070021745,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "23",
+    "addr:postcode": "8952",
+    "addr:street": "Wagistrasse",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean;turkish",
+    "name": "Enjoy",
+    "opening_hours": "Mo-Fr 09:00-14:00, Mo-Th 17:00-22:30, Fr 17:00-00:30, Sa 09:00-00:30, Su 09:00-22:00",
+    "website": "https://www.enjoyschlieren.ch/"
+  },
+  "id": 12070021745
+}

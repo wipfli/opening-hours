@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5312369,
+      46.7253333
+    ]
+  },
+  "properties": {
+    "id": 495277849,
+    "addr:city": "Orbe",
+    "addr:housenumber": "2",
+    "addr:postcode": "1350",
+    "addr:street": "Rue des Remparts",
+    "amenity": "restaurant",
+    "cuisine": "thai;asian",
+    "delivery": "yes",
+    "name": "Som Tam Restaurant",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 24 441 69 41",
+    "takeaway": "yes",
+    "website": "https://www.som-tam.ch",
+    "wheelchair": "no"
+  },
+  "id": 495277849
+}

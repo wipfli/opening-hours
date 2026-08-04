@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5875877,
+      47.5518402
+    ]
+  },
+  "properties": {
+    "id": 2684267823,
+    "addr:city": "Basel",
+    "addr:housenumber": "60",
+    "addr:postcode": "4051",
+    "addr:street": "Steinenvorstadt",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "entrance": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Restaurant Pizzeria Margherita",
+    "opening_hours": "Oct-Mar Mo-Th 11:00-24:00; Oct-Mar Fr-Sa 11:00-01:00; Apr-Sep Mo-Th 11:00-23:00; Apr-Sep Fr-Sa 11:00-24:00; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 272 20 44",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://www.piadinabar-margherita.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2684267823
+}

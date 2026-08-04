@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7920523,
+      47.1392689
+    ]
+  },
+  "properties": {
+    "id": 8975568312,
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "Chuestall",
+    "opening_hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-22:00; Su 09:00-20:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.grueneaff.ch/restaurant-bar/allgemeine-infos/"
+  },
+  "id": 8975568312
+}

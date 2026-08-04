@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357026,
+      47.3828255
+    ]
+  },
   "properties": {
-    "@id": "node/10158245332",
+    "id": 10158245332,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "60",
     "addr:postcode": "8005",
@@ -15,12 +22,5 @@
     "outdoor_seating": "no",
     "website": "https://museum-gestaltung.ch/de/besuch/museumscafe"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5357026,
-      47.3828255
-    ]
-  },
-  "id": "node-10158245332"
+  "id": 10158245332
 }

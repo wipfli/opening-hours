@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.177347,
+      47.1027141
+    ]
+  },
+  "properties": {
+    "id": 4326832553,
+    "addr:housenumber": "27",
+    "addr:postcode": "2513",
+    "addr:street": "Strandweg",
+    "amenity": "restaurant",
+    "email": "info@restaurant-engelberg.ch",
+    "name": "Restaurant Engelberg",
+    "opening_hours": "We-Su 09:00-23:00",
+    "phone": "+41 32 315 11 25",
+    "website": "https://www.restaurant-engelberg.ch/"
+  },
+  "id": 4326832553
+}

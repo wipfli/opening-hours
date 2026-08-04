@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1337177,
+      46.1990714
+    ]
+  },
+  "properties": {
+    "id": 7538699488,
+    "addr:housenumber": "30",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "diet:vegan": "only",
+    "name": "Tonic",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "phone": "+41 22 320 02 30",
+    "website": "https://www.tonic-restaurant.ch/"
+  },
+  "id": 7538699488
+}

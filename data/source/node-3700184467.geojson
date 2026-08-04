@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4989467,
+      46.509865
+    ]
+  },
+  "properties": {
+    "id": 3700184467,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Volver",
+    "opening_hours": "Mo,Tu 07:30-23:00; We 07:00-23:00; Th 07:30-00:00; Fr 07:30-01:00; Sa 07:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 801 80 60",
+    "website": "https://volver-tapas.ch/"
+  },
+  "id": 3700184467
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5349993,
+      47.2069614
+    ]
+  },
+  "properties": {
+    "id": 10795036094,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "31",
+    "addr:postcode": "4500",
+    "addr:street": "Stalden",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Taverna Amphorea",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa 09:00-23:00",
+    "phone": "+41 32 623 67 63",
+    "website": "https://taverna-elea.ch/"
+  },
+  "id": 10795036094
+}

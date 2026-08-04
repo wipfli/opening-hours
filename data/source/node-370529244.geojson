@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457722,
+      47.3715334
+    ]
+  },
   "properties": {
-    "@id": "node/370529244",
+    "id": 370529244,
     "addr:housenumber": "15",
     "addr:street": "Untere Z\u00e4une",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://www.gruenesglas.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5457722,
-      47.3715334
-    ]
-  },
-  "id": "node-370529244"
+  "id": 370529244
 }

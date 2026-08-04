@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163348,
+      47.3761196
+    ]
+  },
   "properties": {
-    "@id": "node/315861625",
+    "id": 315861625,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "85",
@@ -9,7 +16,7 @@
     "addr:street": "Sihlfeldstrasse",
     "alt_name": "Restaurant Derby",
     "amenity": "restaurant",
-    "check_date": "2024-02-05",
+    "check_date": "2026-03-29",
     "cuisine": "pizza",
     "name": "Derby",
     "opening_hours": "Sa-Su 17:00-00:00; Tu-Fr 17:30-00:00",
@@ -18,12 +25,5 @@
     "website": "https://pizzaderby.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5163348,
-      47.3761196
-    ]
-  },
-  "id": "node-315861625"
+  "id": 315861625
 }

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4960871,
+      46.95696
+    ]
+  },
+  "properties": {
+    "id": 6250166486,
+    "alt_name": "Migros Restaurant Ostermundigen",
+    "amenity": "restaurant",
+    "branch": "Ostermundigen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "check_date:opening_hours": "2025-08-30",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Sa 07:30-17:00; Su,PH off; Mo-Fr 08:00-20:00",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "no",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-ostermundigen"
+  },
+  "id": 6250166486
+}

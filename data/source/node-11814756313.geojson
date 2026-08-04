@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4459188,
+      47.2733004
+    ]
+  },
+  "properties": {
+    "id": 11814756313,
+    "addr:housenumber": "15",
+    "addr:street": "B\u00fcelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;indian;oriental",
+    "name": "Aff",
+    "opening_hours": "We 11:30-22:00; Th-Fr 11:30-00:00; Sa 10:00-17:00; Su 10:00-21:00",
+    "phone": "+41 44 500 76 10",
+    "website": "https://visit-aff.ch"
+  },
+  "id": 11814756313
+}

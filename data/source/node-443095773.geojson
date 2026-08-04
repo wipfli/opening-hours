@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4544117,
+      47.2775894
+    ]
+  },
+  "properties": {
+    "id": 443095773,
+    "amenity": "restaurant",
+    "check_date": "2023-05-20",
+    "check_date:opening_hours": "2023-09-14",
+    "cuisine": "chinese",
+    "name": "Papaya",
+    "opening_hours": "Mo 11:00-14:00; Tu-Fr 11:00-14:00,17:00-22:00; Sa-Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 760 14 60",
+    "website": "https://www.china-restaurant-papaya.ch/"
+  },
+  "id": 443095773
+}

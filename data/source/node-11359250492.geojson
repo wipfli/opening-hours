@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1458335,
+      46.2114537
+    ]
+  },
+  "properties": {
+    "id": 11359250492,
+    "amenity": "restaurant",
+    "cuisine": "iranian",
+    "delivery": "yes",
+    "name": "Restaurant Tehran",
+    "opening_hours": "Su-We 12:00-15:00,18:00-22:00; Th-Sa 12:00-15:00,18:00-23:00",
+    "phone": "+41 22 731 76 76",
+    "takeaway": "yes",
+    "website": "https://restaurant-tehran.ch/"
+  },
+  "id": 11359250492
+}

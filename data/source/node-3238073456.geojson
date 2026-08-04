@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1065846,
+      47.1805722
+    ]
+  },
+  "properties": {
+    "id": 3238073456,
+    "addr:city": "Sursee",
+    "addr:housenumber": "2",
+    "addr:postcode": "6210",
+    "addr:street": "Kavalleriestrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "email": "info@varathans25.ch",
+    "name": "Varathans25 - Rooftop-Bar/Restaurant/Zigarren-Lounge",
+    "opening_hours": "We-Th 11:30-14:00,17:00-24:00; Fr 11:30-14:00,17:00-02:30; Sa 17:00-02:30; Su 11:30-21:00",
+    "phone": "+41 41 921 30 60",
+    "smoking": "isolated",
+    "website": "https://www.varathans25.ch"
+  },
+  "id": 3238073456
+}

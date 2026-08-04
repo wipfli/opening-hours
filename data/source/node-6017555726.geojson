@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1433154,
+      46.2084048
+    ]
+  },
+  "properties": {
+    "id": 6017555726,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-07-05",
+    "name": "For\u00eat de Bambous",
+    "opening_hours": "Mo-Su 11:00-22:30",
+    "phone": "+4122 525 78 28",
+    "website": "https://www.laforetdebambous.ch/"
+  },
+  "id": 6017555726
+}

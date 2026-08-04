@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9466269,
+      46.0025269
+    ]
+  },
+  "properties": {
+    "id": 13108823401,
+    "addr:housenumber": "28",
+    "addr:postcode": "6900",
+    "addr:street": "Via Basilea",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "email": "info@continentalparkhotel.com",
+    "name": "Grotto-distilleria Ronco Bianchi",
+    "opening_hours": "Mo-Su 18:00-22:00",
+    "phone": "+41 91 966 11 12",
+    "website": "https://www.continentalparkhotel.com/index.php?sez_id=4&pag_id=8&lang_id=1",
+    "website:menu": "https://www.continentalparkhotel.com/contents/files/Menu_Ristorante.pdf"
+  },
+  "id": 13108823401
+}

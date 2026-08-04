@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9967454,
+      47.4619978
+    ]
+  },
+  "properties": {
+    "id": 2366734527,
+    "addr:city": "Sirnach",
+    "addr:housename": "Gasthof L\u00f6wen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8370",
+    "addr:street": "Kirchplatz",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Taverna zum L\u00f6wen",
+    "opening_hours": "Mo-Sa 11:30-13:30,17:30-22:00; We 11:30-13:30; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 966 18 66",
+    "tourism": "hotel",
+    "website": "https://www.taverna-zumloewen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2366734527
+}

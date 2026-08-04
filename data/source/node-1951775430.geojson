@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1500538,
+      46.1807851
+    ]
+  },
+  "properties": {
+    "id": 1951775430,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "42",
+    "addr:street": "Chemin Charles-Poluzzi",
+    "amenity": "restaurant",
+    "name": "Le Jardin de Pinchat",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "phone": "+41 22 342 52 51",
+    "website": "https://www.jardin-pinchat.ch/"
+  },
+  "id": 1951775430
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7634371,
+      47.4321638
+    ]
+  },
+  "properties": {
+    "id": 3786499602,
+    "addr:city": "Weisslingen",
+    "addr:housenumber": "32",
+    "addr:postcode": "8484",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "info@restaurant-sonne-weisslingen.ch",
+    "indoor_seating": "yes",
+    "name": "Sonne",
+    "opening_hours": "08:00-14:00,17:00-23:00; Sa 17:00-23:00; Su 11:00-22:00; Tu off",
+    "outdoor_seating": "no",
+    "phone": "+41 52 384 13 47",
+    "website": "http://www.schnyders-sonne.ch/"
+  },
+  "id": 3786499602
+}

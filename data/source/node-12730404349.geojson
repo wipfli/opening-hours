@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1921509,
+      47.1349623
+    ]
+  },
+  "properties": {
+    "id": 12730404349,
+    "addr:city": "Sempach",
+    "addr:housenumber": "47",
+    "addr:postcode": "6204",
+    "addr:street": "Stadtstrasse",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "La Torreta",
+    "opening_hours": "Mo-Sa 18:00-00:30; Su 18:00-22:00",
+    "operator": "AO Gastro AG",
+    "website": "https://latorreta.ch/"
+  },
+  "id": 12730404349
+}

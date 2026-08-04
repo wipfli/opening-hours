@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4316804,
+      46.9424958
+    ]
+  },
+  "properties": {
+    "id": 6554088370,
+    "addr:housenumber": "49",
+    "addr:street": "Belpstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-30",
+    "cuisine": "vietnamese",
+    "indoor_seating": "yes",
+    "name": "Queen's Bread",
+    "opening_hours": "Mo-Th 11:00-15:00; Fr 11:00-15:00, 17:00-21:00; Sa 17:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 574 80 66",
+    "website": "https://www.queensbread.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6554088370
+}

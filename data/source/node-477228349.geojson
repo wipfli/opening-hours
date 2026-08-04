@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6646342,
+      47.1335993
+    ]
+  },
+  "properties": {
+    "id": 477228349,
+    "amenity": "restaurant",
+    "name": "Bergbeizli St. Jost",
+    "opening_hours": "Sa,Su 10:00-17:00",
+    "phone": "+41797229533",
+    "website": "https://www.raten.ch/st-jost.html"
+  },
+  "id": 477228349
+}

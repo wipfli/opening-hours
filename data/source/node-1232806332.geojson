@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6004848,
+      47.2586111
+    ]
+  },
+  "properties": {
+    "id": 1232806332,
+    "addr:city": "Horgen",
+    "addr:housenumber": "15",
+    "addr:postcode": "8810",
+    "addr:street": "Neudorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Zum Siam",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-22:00; Sa-Su 17:30-22:00",
+    "phone": "+41 43 810 48 48",
+    "website": "https://zumsiam.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1232806332
+}

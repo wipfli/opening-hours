@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4883066,
+      47.3915889
+    ]
+  },
+  "properties": {
+    "id": 5584578722,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterplatz",
+    "alt_name": "Negishi Altstetten",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten",
+    "check_date:opening_hours": "2025-08-09",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "no",
+    "name": "Negishi Sushi Bar",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "operator": "Familie Wiesner Gastronomie",
+    "outdoor_seating": "sidewalk",
+    "start_date": "2018-06-01",
+    "website": "https://www.negishi.ch/de/zuerich-altstetten"
+  },
+  "id": 5584578722
+}

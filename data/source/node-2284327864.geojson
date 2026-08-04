@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1560291,
+      46.2026306
+    ]
+  },
+  "properties": {
+    "id": 2284327864,
+    "addr:housenumber": "2",
+    "addr:postcode": "1207",
+    "addr:street": "Place des Eaux-Vives",
+    "amenity": "restaurant",
+    "contact:instagram": "pizzeriapiattoverde",
+    "cuisine": "italian;italian_pizza;pizza",
+    "name": "La Plancha",
+    "opening_hours": "Mo-Th 11:30-14:30, 18:30-23:00; Fr 11:30-14:30, 18:30-00:00; Sa 12:00-00:00; Su 12:00-23:00",
+    "phone": "+41 22 735 22 50",
+    "website": "https://www.piattoverde.ch/",
+    "website:menu": "https://de.cdn-website.com/5a28bd81ab0a415bb16ca38bd9187f75/files/uploaded/PIATTO_VERDE_Main_Menu_17_10_2024.pdf"
+  },
+  "id": 2284327864
+}

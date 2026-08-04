@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2731647,
+      47.043046
+    ]
+  },
+  "properties": {
+    "id": 3114501581,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "xoasiatran@gmail.com",
+    "highchair": "yes",
+    "mobile": "+41 79 887 92 77",
+    "name": "XO Asia Restaurant B\u00e4ren",
+    "opening_hours": "Tu-Th 11:00-14:00,17:00-22:00; Fr-Su 11:00-22:30",
+    "phone": "+41 32 392 28 28",
+    "reservation": "yes",
+    "smoking": "no",
+    "toilets": "yes",
+    "website": "https://www.xoasiaaaarberg.com/"
+  },
+  "id": 3114501581
+}

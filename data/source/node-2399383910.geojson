@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1402351,
+      46.1940542
+    ]
+  },
+  "properties": {
+    "id": 2399383910,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard du Pont-d'Arve",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Inglewood",
+    "opening_hours": "Mo-Fr 11:30-14:00, 19:00-22:00; Sa 12:00-14:30, 19:00-22:00; Su 12:00-14:30, 18:30-21:30",
+    "website": "https://www.inglewood.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2399383910
+}

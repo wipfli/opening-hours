@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5151682,
+      47.1659494
+    ]
+  },
+  "properties": {
+    "id": 6975273587,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:location": "room",
+    "cuisine": "ice_cream;crepe;pasta",
+    "level": "0",
+    "name": "Intermezzo",
+    "opening_hours": "Tu-Su 09:00-18:00",
+    "opening_hours:kitchen": "Mo-Sa 09:00-17:00",
+    "operator": "zuwebe",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 781 66 66",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.intermezzo-zug.ch",
+    "wheelchair": "limited"
+  },
+  "id": 6975273587
+}

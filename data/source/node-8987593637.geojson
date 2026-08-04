@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.143534,
+      46.1937174
+    ]
+  },
+  "properties": {
+    "id": 8987593637,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "56",
+    "addr:postcode": "1205",
+    "addr:street": "Rue de Carouge",
+    "amenity": "restaurant",
+    "check_date": "2026-05-01",
+    "check_date:opening_hours": "2026-05-01",
+    "cuisine": "italian",
+    "name": "Spaghetti d'Oro",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:30-23:00",
+    "phone": "+41 22 329 21 84",
+    "takeaway": "yes",
+    "website": "https://www.spaghettidoro.ch"
+  },
+  "id": 8987593637
+}

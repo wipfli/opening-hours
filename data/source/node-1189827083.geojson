@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1144681,
+      47.2366513
+    ]
+  },
+  "properties": {
+    "id": 1189827083,
+    "addr:city": "Ebnat-Kappel",
+    "addr:housenumber": "3697",
+    "addr:place": "Nestel",
+    "addr:postcode": "9642",
+    "amenity": "restaurant",
+    "email": "info@berggasthaus-nestel.ch",
+    "name": "Nestel",
+    "opening_hours": "We-Sa 09:00-22:00; Su 09:00-20:00",
+    "phone": "+41 71 990 09 90",
+    "website": "https://www.berggasthaus-nestel.ch/"
+  },
+  "id": 1189827083
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3102513,
+      47.0631549
+    ]
+  },
+  "properties": {
+    "id": 10311200359,
+    "addr:city": "Luzern",
+    "addr:housenumber": "42",
+    "addr:postcode": "6004",
+    "addr:street": "Maihofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "email": "dosahouse@kanchi.ch",
+    "name": "Dosa House",
+    "opening_hours": "Tu-Su 11:00-14:00, 17:00-23:00",
+    "phone": "+41 41 420 50 66",
+    "website": "https://dosahouse.kanchi.ch"
+  },
+  "id": 10311200359
+}

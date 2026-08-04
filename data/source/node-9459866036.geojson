@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5585986,
+      46.6921115
+    ]
+  },
+  "properties": {
+    "id": 9459866036,
+    "addr:city": "Lantsch/Lenz",
+    "addr:housenumber": "2",
+    "addr:postcode": "7083",
+    "addr:street": "Voia da Bual",
+    "addr:zip": "7083",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bualino",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "phone": "+41816591100",
+    "website": "https://www.biathlon-arena-lenzerheide.ch/de/bualino"
+  },
+  "id": 9459866036
+}

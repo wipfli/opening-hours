@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8745047,
+      46.4022765
+    ]
+  },
+  "properties": {
+    "id": 4341281513,
+    "addr:city": "Giornico",
+    "addr:housenumber": "11",
+    "addr:postcode": "6745",
+    "addr:street": "Ai Pontin",
+    "amenity": "restaurant",
+    "check_date": "2023-03-18",
+    "email": "info@grotto2ponti.ch",
+    "indoor_seating": "yes",
+    "name": "Grotto dei Due Ponti",
+    "note": "chiusura stagionale 31.10.2023, apertura Aprile 2023",
+    "opening_hours": "Mo 10:00-14:30,18:00-23:00; Tu off; We-Su 10:00-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 864 20 30",
+    "website": "https://www.grotto2ponti.ch/"
+  },
+  "id": 4341281513
+}

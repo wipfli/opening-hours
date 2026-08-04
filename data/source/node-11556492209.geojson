@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8286218,
+      46.4766623
+    ]
+  },
+  "properties": {
+    "id": 11556492209,
+    "addr:city": "Chardonne",
+    "addr:postcode": "1803",
+    "amenity": "restaurant",
+    "contact:facebook": "chardonne.ch",
+    "contact:instagram": "la_haut_restaurant",
+    "email": "reservation@restaurant-la-haut.ch",
+    "name": "L\u00e0-Haut",
+    "opening_hours": "We-Sa 11:00-15:00, 18:30-23:00; Su 11:00-16:00",
+    "phone": "+41 21 921 29 30",
+    "website": "https://restaurant-la-haut.ch/",
+    "website:menu": "https://restaurant-la-haut.ch/nos-menus/"
+  },
+  "id": 11556492209
+}

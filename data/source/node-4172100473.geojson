@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8098748,
+      47.7085959
+    ]
+  },
+  "properties": {
+    "id": 4172100473,
+    "amenity": "restaurant",
+    "name": "Hirschen",
+    "opening_hours": "We 10:00-13:30,17:30+; Th,Fr 17:30+; Sa 08:30-13:30,17:30+; Su 08:30-14:00",
+    "website": "https://www.hirschen.ch/"
+  },
+  "id": 4172100473
+}

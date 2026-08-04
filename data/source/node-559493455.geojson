@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5693255,
+      47.1070942
+    ]
+  },
+  "properties": {
+    "id": 559493455,
+    "addr:city": "Unter\u00e4geri",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "6314",
+    "addr:street": "Ochsenfeissi",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Alpwirtschaft Sonnegg",
+    "opening_hours": "Apr-Nov",
+    "phone": "+41 41 750 11 57",
+    "website": "https://www.alp-sonnegg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 559493455
+}

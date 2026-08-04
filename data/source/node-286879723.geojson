@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4440127,
+      46.947796
+    ]
+  },
+  "properties": {
+    "id": 286879723,
+    "addr:city": "Bern",
+    "addr:housenumber": "11",
+    "addr:postcode": "3011",
+    "addr:street": "B\u00e4renplatz",
+    "amenity": "restaurant",
+    "email": "roeschtigrabe@remimag.ch",
+    "name": "R\u00f6schtigrabe",
+    "opening_hours": "Mo-Fr 07:00-23:30; Sa 08:00-23:30; Su 09:00-23:30",
+    "phone": "+41 31 328 20 20",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.roeschtigrabe.ch",
+    "wheelchair": "yes"
+  },
+  "id": 286879723
+}

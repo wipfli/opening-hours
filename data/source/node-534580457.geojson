@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5171271,
+      47.1756915
+    ]
+  },
+  "properties": {
+    "id": 534580457,
+    "addr:city": "Zug",
+    "addr:housenumber": "63",
+    "addr:postcode": "6300",
+    "addr:street": "Baarerstrasse",
+    "alt_name": "HAN Zug",
+    "amenity": "restaurant",
+    "branch": "Zug",
+    "check_date": "2025-01-03",
+    "cuisine": "mongolian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Han",
+    "opening_hours": "Mo-Su 11:30-14:00,18:00-24:00",
+    "operator": "its1world Management",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.han.ch/angebot-zug",
+    "wheelchair": "limited"
+  },
+  "id": 534580457
+}

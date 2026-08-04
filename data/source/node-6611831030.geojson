@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4838939,
+      47.3886514
+    ]
+  },
+  "properties": {
+    "id": 6611831030,
+    "addr:housenumber": "6",
+    "addr:street": "Jakob-F\u00fcgli-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-05",
+    "check_date:diet:vegetarian": "2025-07-05",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Piratino",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "phone": "+41 43 311 98 48",
+    "website": "http://www.piratino.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6611831030
+}

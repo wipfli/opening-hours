@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5474123,
+      47.3645073
+    ]
+  },
   "properties": {
-    "@id": "node/4833061582",
+    "id": 4833061582,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "1",
@@ -18,12 +25,5 @@
     "website": "http://conti-zuerich.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5474123,
-      47.3645073
-    ]
-  },
-  "id": "node-4833061582"
+  "id": 4833061582
 }

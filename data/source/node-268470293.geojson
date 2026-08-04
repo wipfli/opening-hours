@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5473846,
+      47.363996
+    ]
+  },
   "properties": {
-    "@id": "node/268470293",
+    "id": 268470293,
     "amenity": "restaurant",
     "indoor_seating": "yes",
     "name": "Hatecke du Th\u00e9\u00e2tre",
@@ -11,12 +18,5 @@
     "website": "https://www.hatecke.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5473846,
-      47.363996
-    ]
-  },
-  "id": "node-268470293"
+  "id": 268470293
 }

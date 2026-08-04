@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4471237,
+      46.9583817
+    ]
+  },
+  "properties": {
+    "id": 606970718,
+    "alt_name": "Suban Thai Eatery",
+    "amenity": "restaurant",
+    "contact:addr": "Nordring 42, 3031 Bern",
+    "contact:email": "info@suban.be",
+    "contact:facebook": "https://www.facebook.com/Suban-1855042881429074/",
+    "contact:phone": "+41 31 3336262",
+    "cuisine": "thai;asian",
+    "delivery": "no",
+    "name": "Suban Thai Eatery",
+    "opening_hours": "Mo-Th 11:00-14:00, 17:00-20:00; Fr 11:00-14:00, 17:00-22:00; Sa-Su off; PH off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "source": "Survey and website",
+    "takeaway": "yes",
+    "website": "https://suban.be",
+    "wheelchair": "yes"
+  },
+  "id": 606970718
+}

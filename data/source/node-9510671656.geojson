@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4569605,
+      46.9570012
+    ]
+  },
+  "properties": {
+    "id": 9510671656,
+    "addr:city": "Bern",
+    "addr:housenumber": "29",
+    "addr:postcode": "3013",
+    "addr:street": "Kasernenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-20",
+    "check_date:opening_hours": "2025-07-20",
+    "contact:instagram": "https://www.instagram.com/darling.restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Darling Restaurant",
+    "opening_hours": "Tu-Th 18:00-22:30; Fr,Sa 18:00-23:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 335 66 55",
+    "website": "https://darling.restaurant/",
+    "wheelchair": "limited"
+  },
+  "id": 9510671656
+}

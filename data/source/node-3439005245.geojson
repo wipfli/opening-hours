@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5839505,
+      46.5317466
+    ]
+  },
+  "properties": {
+    "id": 3439005245,
+    "addr:city": "Renens",
+    "addr:housenumber": "18",
+    "addr:postcode": "1020",
+    "addr:street": "Avenue du Censuy",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Henan",
+    "name:zh": "\u6cb3\u5357\u4eba\u5bb6",
+    "opening_hours": "Mo-Fr 10:00-14:30,17:30-23:30, Sa 10:00-14:30,17:30-24:00, Su closed",
+    "opening_hours:kitchen": "Mo-Sa 10:00-14:30,17:30-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 635 46 10",
+    "takeaway": "yes",
+    "website": "https://restaurant-henan.business.site/",
+    "wheelchair": "yes"
+  },
+  "id": 3439005245
+}

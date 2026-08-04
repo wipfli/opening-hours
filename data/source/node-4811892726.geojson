@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9437656,
+      47.2254435
+    ]
+  },
+  "properties": {
+    "id": 4811892726,
+    "addr:city": "Schmerikon",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8716",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "capacity": "200",
+    "cuisine": "regional",
+    "email": "info@seehofschmerikon.ch",
+    "fax": "+41 55 282 25 88",
+    "name": "Seehof",
+    "opening_hours": "07:30-23:59",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 282 16 33",
+    "smoking": "outside",
+    "tourism": "hotel",
+    "website": "https://www.seehofschmerikon.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4811892726
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3603244,
+      46.2347221
+    ]
+  },
+  "properties": {
+    "id": 4907093423,
+    "addr:city": "Sion",
+    "addr:housenumber": "23",
+    "addr:postcode": "1950",
+    "addr:street": "Rue du Grand-Pont",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Au Cheval Blanc",
+    "opening_hours": "Tu-Fr 10:00-14:30,18:00-24:00; Sa 11:00-14:30,18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 322 18 67",
+    "website": "https://www.au-cheval-blanc.ch/"
+  },
+  "id": 4907093423
+}

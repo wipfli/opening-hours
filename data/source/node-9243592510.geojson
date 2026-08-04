@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5334183,
+      47.2249783
+    ]
+  },
+  "properties": {
+    "id": 9243592510,
+    "addr:city": "R\u00fcttenen",
+    "addr:housenumber": "1b",
+    "addr:place": "Einsiedelei",
+    "addr:postcode": "4522",
+    "amenity": "restaurant",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Einsiedelei",
+    "opening_hours": "May-Aug: We-Sa 11:00+; Apr,Sep,Oct:We-Sa 14:00+; Nov-Mar: We-Sa 15:00-22:00; Su 11:00-18:00",
+    "opening_hours:kitchen": "May-Aug: We-Sa 11:00+; Apr,Sep,Oct:We-Sa 14:00+; Nov-Mar: We-Sa 15:00-20:45; Su 11:00-18:00",
+    "website": "https://www.restaurant-einsiedelei.ch/"
+  },
+  "id": 9243592510
+}

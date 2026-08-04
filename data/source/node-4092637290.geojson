@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3744132,
+      47.4260992
+    ]
+  },
+  "properties": {
+    "id": 4092637290,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "1",
+    "addr:postcode": "9000",
+    "addr:street": "Augustinergasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-22",
+    "check_date:opening_hours": "2026-01-22",
+    "cuisine": "asian;italian;kebab",
+    "indoor_seating": "yes",
+    "name": "Restaurant Kr\u00e4nzlin",
+    "opening_hours": "Mo-Su 11:00+",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://kraenzlin-sg.com/"
+  },
+  "id": 4092637290
+}

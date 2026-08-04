@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3027171,
+      47.4706741
+    ]
+  },
+  "properties": {
+    "id": 5674609421,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "5400",
+    "addr:street": "Mellingerstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "email": "baden@kanchi.ch",
+    "name": "Kanchi",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-24:00",
+    "phone": "+41565554227",
+    "website": "https://baden.kanchi.ch"
+  },
+  "id": 5674609421
+}

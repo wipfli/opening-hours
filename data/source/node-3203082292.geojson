@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4833159,
+      47.0106679
+    ]
+  },
+  "properties": {
+    "id": 3203082292,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "R\u00fctli",
+    "opening_hours": "Mo, We-Sa 08:30-22:30; Su 09:30-22:30",
+    "smoking": "yes",
+    "website": "https://www.ruetli-vitznau.ch"
+  },
+  "id": 3203082292
+}

@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222924,
+      47.3889173
+    ]
+  },
+  "properties": {
+    "id": 5429035465,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "239",
+    "addr:postcode": "8005",
+    "addr:street": "Heinrichstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich-West",
+    "check_date": "2025-02-15",
+    "cuisine": "asian;sushi;burger;poke;korean;dumpling",
+    "delivery": "yes",
+    "email": "zuerich-west@kitchen-republic.ch",
+    "indoor_seating": "no",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "kids_area": "no",
+    "name": "Kitchen Republic",
+    "opening_hours": "Mo-We 11:00-22:00; Th-Sa 11:00-23:00; Su 12:00-22:00",
+    "operator": "Familie Wiesner Gastronomie AG",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "no",
+    "payment:qr_code": "yes",
+    "phone": "+41 44 271 48 01",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.kitchen-republic.ch/de/zuerich-west",
+    "wheelchair": "yes"
+  },
+  "id": 5429035465
+}

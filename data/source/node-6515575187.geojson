@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2546384,
+      46.2102896
+    ]
+  },
+  "properties": {
+    "id": 6515575187,
+    "amenity": "restaurant",
+    "name": "Restaurant de la Coop\u00e9rative",
+    "opening_hours": "We-Su 09:00-23:00; Fr,Sa 09:00-00:00",
+    "phone": "+41 27 306 47 02",
+    "website": "https://cafedelacoop.ch/"
+  },
+  "id": 6515575187
+}

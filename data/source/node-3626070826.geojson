@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4881408,
+      47.3874759
+    ]
+  },
+  "properties": {
+    "id": 3626070826,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "8048",
+    "addr:street": "Saumackerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-11",
+    "check_date:diet:vegetarian": "2025-07-11",
+    "cuisine": "turkish",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Musti Grill",
+    "old_name": "Triangolo",
+    "opening_hours": "Mo-Sa 10:00-23:00, Su 12:00-22:00",
+    "operator": "Letzi Gastro GmbH",
+    "outdoor_seating": "yes",
+    "website": "https://musti-grill.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3626070826
+}

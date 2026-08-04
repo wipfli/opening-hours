@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5257791,
+      47.3798059
+    ]
+  },
   "properties": {
-    "@id": "node/5429035472",
+    "id": 5429035472,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "18",
@@ -17,12 +24,5 @@
     "website": "https://gaucho.ch/restaurant/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5257791,
-      47.3798059
-    ]
-  },
-  "id": "node-5429035472"
+  "id": 5429035472
 }

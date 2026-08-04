@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6318007,
+      46.5212465
+    ]
+  },
+  "properties": {
+    "id": 5727243623,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "5",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Grand-Saint-Jean",
+    "amenity": "restaurant",
+    "contact:facebook": "https://facebook.com/pzpizza",
+    "diet:vegetarian": "yes",
+    "email": "info@pzpizza.ch",
+    "level": "0",
+    "name": "Pz pizza",
+    "opening_hours": "Mo-Fr 11:30-14:30, Mo-Sa 18:00-22:30, Sa 11:30-22:30",
+    "phone": "+41 21 312 82 82",
+    "source": "http://www.pzpizza.ch/",
+    "website": "http://www.pzpizza.ch/"
+  },
+  "id": 5727243623
+}

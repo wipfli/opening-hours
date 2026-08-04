@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4853031,
+      47.3748783
+    ]
+  },
+  "properties": {
+    "id": 4892030716,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8047",
+    "addr:street": "P\u00fcntstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;steak_house",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Friedbrunnen",
+    "opening_hours": "Tu-Su 11:00-14:30,18:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://friedbrunnen.ch/"
+  },
+  "id": 4892030716
+}

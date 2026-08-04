@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8257698,
+      47.0478658
+    ]
+  },
+  "properties": {
+    "id": 8941418004,
+    "addr:city": "Wasen im Emmental",
+    "addr:housenumber": "1520",
+    "addr:postcode": "3457",
+    "addr:street": "Hornbachgraben",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "hornbachpinte@bluewin.ch",
+    "name": "Hornbach Pinte",
+    "opening_hours": "Th-Mo",
+    "phone": "+41 34 437 15 33",
+    "website": "https://hornbachpinte.ch/"
+  },
+  "id": 8941418004
+}

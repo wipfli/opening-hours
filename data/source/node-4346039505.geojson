@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1477549,
+      46.2130016
+    ]
+  },
+  "properties": {
+    "id": 4346039505,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "55",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Berne",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "no",
+    "name": "Al quadrato",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:30-23:00; Su 18:30-23:00",
+    "phone": "+41223038240",
+    "takeaway": "yes",
+    "website": "https://www.alquadrato.ch/"
+  },
+  "id": 4346039505
+}

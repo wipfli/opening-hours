@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5797055,
+      47.2248598
+    ]
+  },
+  "properties": {
+    "id": 6468216435,
+    "addr:city": "Luterbach",
+    "addr:housenumber": "1",
+    "addr:postcode": "4542",
+    "addr:street": "Fabrikstrasse",
+    "amenity": "restaurant",
+    "email": "mail@1881kantine.ch",
+    "name": "1881 Kantine",
+    "opening_hours": "08:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 531 1881",
+    "website": "https://www.1881kantine.ch"
+  },
+  "id": 6468216435
+}

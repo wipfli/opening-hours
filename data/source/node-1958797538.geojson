@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9498362,
+      46.2528531
+    ]
+  },
+  "properties": {
+    "id": 1958797538,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-17",
+    "contact:instagram": "https://www.instagram.com/o_ptit_sushi/",
+    "name": "Au P'tit Sushi",
+    "opening_hours": "Tu-Sa 11:00-14:00,16:30-21:00",
+    "phone": "+41 78 889 35 15",
+    "website": "https://www.sushi-monthey.ch/"
+  },
+  "id": 1958797538
+}

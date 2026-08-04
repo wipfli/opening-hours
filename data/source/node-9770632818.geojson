@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2643434,
+      47.1513323
+    ]
+  },
+  "properties": {
+    "id": 9770632818,
+    "alt_name": "Pizzeria da Toto; Restaurant da Toto; Ristorante da Toto",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "fax": "+41 32 342 20 43",
+    "name": "da Toto",
+    "old_name": "B\u00e4ren",
+    "opening_hours": "Mo-Th 09:00-23:30; Fr,Sa 09:00-24:00; Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 342 20 40",
+    "website": "http://www.pizzeria-datoto.ch/"
+  },
+  "id": 9770632818
+}

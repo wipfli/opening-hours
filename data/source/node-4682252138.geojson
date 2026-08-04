@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0387216,
+      47.4587243
+    ]
+  },
+  "properties": {
+    "id": 4682252138,
+    "addr:city": "Wil SG",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "9500",
+    "addr:street": "Wilenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-20",
+    "cuisine": "thai",
+    "name": "Restaurant Typisch Thai",
+    "opening_hours": "Tu-Fr 11:00-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
+    "phone": "+41 71 923 21 34",
+    "website": "http://typischthai-wil.ch",
+    "wheelchair": "no"
+  },
+  "id": 4682252138
+}

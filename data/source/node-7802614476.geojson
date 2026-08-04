@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.06072,
+      46.228884
+    ]
+  },
+  "properties": {
+    "id": 7802614476,
+    "addr:city": "Meyrin",
+    "addr:housenumber": "13",
+    "addr:postcode": "1217",
+    "addr:street": "Rue de Veyrot",
+    "amenity": "restaurant",
+    "name": "Le Physalis",
+    "opening_hours": "Mo-Fr 07:00-15:00",
+    "phone": "+41 22 989 09 08",
+    "website": "https://www.datalp.swiss/services/restaurant-traiteur/restaurant-traiteur-complement/"
+  },
+  "id": 7802614476
+}

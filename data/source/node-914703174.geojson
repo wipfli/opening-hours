@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5284806,
+      47.3754803
+    ]
+  },
   "properties": {
-    "@id": "node/914703174",
+    "id": 914703174,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "49",
     "addr:postcode": "8004",
@@ -19,12 +26,5 @@
     "website": "https://www.osteria-santobevitore.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5284806,
-      47.3754803
-    ]
-  },
-  "id": "node-914703174"
+  "id": 914703174
 }

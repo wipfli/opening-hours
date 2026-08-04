@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4439881,
+      46.9478846
+    ]
+  },
+  "properties": {
+    "id": 286879724,
+    "alt_name": "Santa Lucia Bern",
+    "amenity": "restaurant",
+    "branch": "Bern",
+    "brand": "Santa Lucia",
+    "brand:wikidata": "Q110419156",
+    "contact:addr": "B\u00e4renplatz 7, 3011 Bern",
+    "contact:email": "santa.lucia.bern@bindella.ch",
+    "contact:fax": "+41 31 3122008",
+    "contact:phone": "+41 31 3122050",
+    "cuisine": "pizza;italian",
+    "name": "Santa Lucia",
+    "opening_hours": "Mo-Fr 10:00-23:30; Sa 09:00-23:30; Su 11:00-23:30",
+    "operator": "Bindella",
+    "oven": "wood_fired",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.bindella.ch/de/santa-lucia-bern.html",
+    "wheelchair": "yes"
+  },
+  "id": 286879724
+}

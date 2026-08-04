@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5127117,
+      47.374705
+    ]
+  },
   "properties": {
-    "@id": "node/5584394319",
+    "id": 5584394319,
     "addr:housenumber": "145",
     "addr:street": "Martastrasse",
     "amenity": "restaurant",
@@ -14,12 +21,5 @@
     "website": "https://grottoreale.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5127117,
-      47.374705
-    ]
-  },
-  "id": "node-5584394319"
+  "id": 5584394319
 }

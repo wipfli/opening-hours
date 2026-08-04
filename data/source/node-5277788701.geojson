@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8058247,
+      46.1816832
+    ]
+  },
+  "properties": {
+    "id": 5277788701,
+    "amenity": "restaurant",
+    "check_date": "2026-04-04",
+    "check_date:opening_hours": "2026-04-04",
+    "cuisine": "italian",
+    "name": "Grotto Ca' Nostra",
+    "opening_hours": "Mo,We-Su 11:30-14:30,18:00-23:00; Tu,We off",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 743 58 52",
+    "website": "https://ca-nostra.ch",
+    "wheelchair": "no"
+  },
+  "id": 5277788701
+}

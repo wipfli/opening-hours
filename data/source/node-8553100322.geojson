@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4955268,
+      46.5114918
+    ]
+  },
+  "properties": {
+    "id": 8553100322,
+    "addr:city": "Morges",
+    "addr:housenumber": "9",
+    "addr:postcode": "1110",
+    "addr:street": "Promenade de Castellane",
+    "amenity": "restaurant",
+    "cuisine": "peruvian",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Guanaco",
+    "opening_hours": "Tu-Th 12:00-14:30,19:00-23:00; Fr,Sa 12:00-14:30,19:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 802 15 15",
+    "website": "https://guanaco.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8553100322
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6016264,
+      46.5276701
+    ]
+  },
+  "properties": {
+    "id": 9127900970,
+    "addr:city": "Prilly",
+    "addr:housenumber": "1",
+    "addr:postcode": "1008",
+    "addr:street": "Chemin du Viaduc",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "La Barca",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 625 18 25",
+    "website": "https://barca-malley.ch"
+  },
+  "id": 9127900970
+}

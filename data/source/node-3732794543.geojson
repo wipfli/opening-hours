@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8555169,
+      47.3354702
+    ]
+  },
+  "properties": {
+    "id": 3732794543,
+    "addr:city": "B\u00e4retswil",
+    "addr:housenumber": "7",
+    "addr:postcode": "8344",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-14",
+    "check_date:opening_hours": "2026-04-14",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "level": "0",
+    "name": "Pizzeria Roma",
+    "opening_hours": "Mo-Fr 11:00-14:00,16:30-21:00; Sa 11:00-20:00",
+    "phone": "+41 55 525 50 60",
+    "takeaway": "yes",
+    "website": "https://pizzeria-roma.ch/"
+  },
+  "id": 3732794543
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8164763,
+      47.2269428
+    ]
+  },
+  "properties": {
+    "id": 6019702272,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "2",
+    "addr:postcode": "8640",
+    "addr:street": "Kluggasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-24",
+    "check_date:opening_hours": "2025-12-13",
+    "name": "Frauenhof",
+    "opening_hours": "We,Th 11:00-22:30; Fr 10:00-23:00; Sa 11:00-23:00; Su 11:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 211 09 59",
+    "website": "https://www.frauenhof.net/"
+  },
+  "id": 6019702272
+}

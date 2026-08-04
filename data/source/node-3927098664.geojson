@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.190377,
+      46.8509994
+    ]
+  },
+  "properties": {
+    "id": 3927098664,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "office@hbd.ch",
+    "fax": "+41 26 492 56 50",
+    "internet_access": "wlan",
+    "name": "Hotel Bahnhof",
+    "opening_hours": "Mo-Th 06:30-23:30;Fr 06:30-00:30;Sa 07:30-00:30;Su off",
+    "phone": "+41 26 492 56 56",
+    "smoking": "no",
+    "tourism": "hotel",
+    "website": "http://www.hbd.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3927098664
+}

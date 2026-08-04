@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4323668,
+      46.9534739
+    ]
+  },
+  "properties": {
+    "id": 2701305498,
+    "addr:city": "Bern",
+    "addr:housenumber": "32",
+    "addr:postcode": "3012",
+    "addr:street": "L\u00e4nggassstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-10-29",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "fax": "+41 79 7392840",
+    "name": "Curry Legend",
+    "opening_hours": "Mo-Su 11:30-14:00,18:00-22:00",
+    "operator": "Romeo Dias Abeygunewardene",
+    "phone": "+41 31 3023959",
+    "website": "http://www.curry-legend.ch",
+    "wheelchair": "no"
+  },
+  "id": 2701305498
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6222469,
+      46.9495729
+    ]
+  },
+  "properties": {
+    "id": 3089298983,
+    "addr:city": "Sisikon",
+    "addr:housenumber": "1",
+    "addr:postcode": "6452",
+    "addr:street": "Axenstrasse",
+    "amenity": "restaurant",
+    "contact:fax": "+41 41 820 26 55",
+    "contact:phone": "+41 41 820 26 55",
+    "cuisine": "italian",
+    "currency:XBT": "yes",
+    "name": "Ristorante Pizzeria Laterne",
+    "opening_hours": "We-Sa 10:00-23:00; Tu 11:00-23:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:contactless": "yes",
+    "payment:lightning": "yes",
+    "payment:onchain": "yes",
+    "survey:date": "2024-03-07",
+    "website": "https://laternesisikon.ch"
+  },
+  "id": 3089298983
+}

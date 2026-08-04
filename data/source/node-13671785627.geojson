@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.307392,
+      47.0464731
+    ]
+  },
+  "properties": {
+    "id": 13671785627,
+    "addr:city": "Luzern",
+    "addr:housenumber": "47",
+    "addr:postcode": "6003",
+    "addr:street": "Winkelriedstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "level": "0",
+    "name": "Ph\u1edf 50",
+    "opening_hours": "Mo-Sa 11:00-21:30; Su 12:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 220 20 86",
+    "website": "https://pho.ch/"
+  },
+  "id": 13671785627
+}

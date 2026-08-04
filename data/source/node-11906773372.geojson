@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1477194,
+      46.2198671
+    ]
+  },
+  "properties": {
+    "id": 11906773372,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "34",
+    "addr:postcode": "1202",
+    "addr:street": "Avenue Blanc",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese;thai",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "padthai.ch",
+    "opening_hours": "Su-Fr 11:00-15:00, 18:00-21:30; Sa 18:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41227007485",
+    "takeaway": "yes",
+    "website": "https://www.padthai.ch/",
+    "wheelchair": "no"
+  },
+  "id": 11906773372
+}

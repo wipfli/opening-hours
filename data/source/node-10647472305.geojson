@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277431,
+      47.3787381
+    ]
+  },
   "properties": {
-    "@id": "node/10647472305",
+    "id": 10647472305,
     "amenity": "restaurant",
     "check_date": "2024-06-07",
     "cuisine": "taiwanese",
@@ -11,12 +18,5 @@
     "website": "https://simonsaystastetaiwan.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5277431,
-      47.3787381
-    ]
-  },
-  "id": "node-10647472305"
+  "id": 10647472305
 }

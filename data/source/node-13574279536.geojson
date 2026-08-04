@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5181227,
+      47.178613
+    ]
+  },
+  "properties": {
+    "id": 13574279536,
+    "amenity": "restaurant",
+    "name": "Ying's Thai Kitchen",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-21:00; Sa, Su 17:00-21:00",
+    "phone": "+41792502569",
+    "website": "https://www.ying-thai-kitchen.ch/"
+  },
+  "id": 13574279536
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8146301,
+      47.2260686
+    ]
+  },
+  "properties": {
+    "id": 1355269787,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Steinbock",
+    "opening_hours": "Tu-Sa 11:00-14:30, 17:00-23:30, Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.seerestaurant-steinbock.ch/"
+  },
+  "id": 1355269787
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2587844,
+      47.4167503
+    ]
+  },
+  "properties": {
+    "id": 3582825674,
+    "addr:city": "Wohlenschwil-B\u00fcblikon",
+    "addr:housenumber": "17",
+    "addr:postcode": "5512",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Tu-Su 10:00-14:00, 17:00- 23:00",
+    "phone": "+41 56 4911280",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.roessli-gasthof.ch/"
+  },
+  "id": 3582825674
+}

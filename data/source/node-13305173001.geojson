@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9391147,
+      45.989674
+    ]
+  },
+  "properties": {
+    "id": 13305173001,
+    "addr:city": "Lugano",
+    "addr:housenumber": "8",
+    "addr:postcode": "6900",
+    "addr:street": "Via al Boschetto",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean;fish;seafood;barbecue",
+    "delivery": "yes",
+    "email": "email@locandadelboschetto.ch",
+    "name": "Locanda del Boschetto",
+    "opening_hours": "We-Su 12:00-14:00, 19:00-22:00",
+    "phone": "+41 91 994 24 93",
+    "reservation": "yes",
+    "website": "https://locandadelboschetto.ch",
+    "website:menu": "https://locandadelboschetto.ch/wp-content/uploads/2025/11/menu-locanda-del-boschetto.pdf"
+  },
+  "id": 13305173001
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6424964,
+      46.7776731
+    ]
+  },
+  "properties": {
+    "id": 2949382480,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:housenumber": "8",
+    "addr:postcode": "1400",
+    "addr:street": "Rue de la Plaine",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Pho Thu",
+    "name:vi": "Ph\u1edf Thu",
+    "opening_hours": "Mo-Sa 11:00-15:00,17:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 426 63 91",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://phothu.business.site/",
+    "wheelchair": "yes"
+  },
+  "id": 2949382480
+}

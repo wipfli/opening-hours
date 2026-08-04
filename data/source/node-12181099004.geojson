@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6115467,
+      46.5136403
+    ]
+  },
+  "properties": {
+    "id": 12181099004,
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "indoor_seating": "yes",
+    "name": "La Rive",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurantlarive.ch/bienvenue/vidy"
+  },
+  "id": 12181099004
+}

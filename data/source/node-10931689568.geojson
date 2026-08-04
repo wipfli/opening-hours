@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5801719,
+      47.3588477
+    ]
+  },
+  "properties": {
+    "id": 10931689568,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "22",
+    "addr:postcode": "8053",
+    "addr:street": "Drusbergstrasse",
+    "amenity": "restaurant",
+    "description": "Bistro und Laden",
+    "name": "Piaceri del Sud",
+    "opening_hours": "Sa 10:00-18:00",
+    "shop": "deli",
+    "website": "https://piaceridelsud.ch/"
+  },
+  "id": 10931689568
+}

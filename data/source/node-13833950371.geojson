@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407585,
+      47.3821442
+    ]
+  },
+  "properties": {
+    "id": 13833950371,
+    "amenity": "restaurant",
+    "cuisine": "western",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "level": "-1",
+    "name": "Cafeteria Amtshaus Walche",
+    "opening_hours": "Mo-Fr 08:00-16:00; PH closed",
+    "outdoor_seating": "no",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.stadt-zuerich.ch/de/stadtleben/zusammenleben/in-den-quartieren/personalcafeterias.html",
+    "wheelchair": "no"
+  },
+  "id": 13833950371
+}

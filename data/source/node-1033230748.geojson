@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1571997,
+      46.7942746
+    ]
+  },
+  "properties": {
+    "id": 1033230748,
+    "amenity": "restaurant",
+    "brewery": "guinness;Cardinal;Leffe;Kilkenny;Grimbergen;Hoegaarden",
+    "check_date": "2026-02-22",
+    "contact:phone": "+41 26 422 16 71",
+    "cuisine": "italian",
+    "internet_access": "wlan",
+    "name": "L'impr\u00e9vu",
+    "opening_hours": "Sa 09:30-23:00; Su off; Mo-Fr 08:00-23:00",
+    "website": "https://imprevucafe.ch/"
+  },
+  "id": 1033230748
+}

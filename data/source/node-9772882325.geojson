@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6441077,
+      47.2693437
+    ]
+  },
+  "properties": {
+    "id": 9772882325,
+    "addr:city": "Meilen",
+    "addr:housenumber": "39",
+    "addr:postcode": "8706",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Barf\u00fcsser",
+    "opening_hours": "Mo-Sa 11:30-23:00; Su 17:00-22:00",
+    "phone": "+41449230408",
+    "website": "https://www.barfuesser.ch/de/meilen"
+  },
+  "id": 9772882325
+}

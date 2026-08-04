@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4861953,
+      47.4688097
+    ]
+  },
+  "properties": {
+    "id": 4720143599,
+    "addr:city": "Rorschacherberg",
+    "addr:housenumber": "105",
+    "addr:postcode": "9404",
+    "addr:street": "Goldacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Ochsen",
+    "opening_hours": "Mo-Fr 08:30-13:30, 16:30-23:30; Sa-Su, PH off",
+    "operator": "Scherrer-F\u00fcrstler Annemarie",
+    "phone": "+4171 855 19 55",
+    "website": "http://www.ochsen-rorschacherberg.ch/"
+  },
+  "id": 4720143599
+}

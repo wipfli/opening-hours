@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.911903,
+      47.0230687
+    ]
+  },
+  "properties": {
+    "id": 474784539,
+    "addr:city": "Kl\u00f6ntal",
+    "addr:housenumber": "106",
+    "addr:postcode": "8750",
+    "addr:street": "Richisauerstrasse",
+    "amenity": "restaurant",
+    "email": "info@gasthaus-richisau.ch",
+    "internet_access": "yes",
+    "name": "Gasthaus Richisau",
+    "opening_hours": "09:00-22:00; Sa,Su 08:00-22:00; Nov 1-Aug 9: off",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 640 10 85",
+    "tourism": "hotel",
+    "website": "https://www.gasthaus-richisau.ch/"
+  },
+  "id": 474784539
+}

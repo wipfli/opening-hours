@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.307185,
+      46.2306923
+    ]
+  },
+  "properties": {
+    "id": 4836326131,
+    "addr:city": "Conthey",
+    "addr:housenumber": "40",
+    "addr:postcode": "1964",
+    "addr:street": "Rue Centrale",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Le Grand Bleu",
+    "opening_hours": "Mo-Sa 11:00-14:30, 18:00-23:00",
+    "phone": "+4127 346 34 97",
+    "website": "https://www.restaurantgrec.ch/"
+  },
+  "id": 4836326131
+}

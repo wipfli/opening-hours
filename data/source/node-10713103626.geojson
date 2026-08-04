@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.115155,
+      46.1377133
+    ]
+  },
+  "properties": {
+    "id": 10713103626,
+    "addr:city": "Fully",
+    "addr:housenumber": "23",
+    "addr:postcode": "1926",
+    "addr:street": "Rue de la Poste",
+    "amenity": "restaurant",
+    "name": "La Boutique du Vin",
+    "opening_hours": "Tu,Su 10:00-15:00; We-Sa 10:00-15:00,17:00-23:00",
+    "phone": "+41 27 565 05 00",
+    "website": "https://laboutiqueduvin.ch/"
+  },
+  "id": 10713103626
+}

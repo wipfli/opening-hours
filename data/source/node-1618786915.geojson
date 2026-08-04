@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.48499,
+      46.9568104
+    ]
+  },
+  "properties": {
+    "id": 1618786915,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "China House",
+    "name:language": "en",
+    "name:zh": "\u4e2d\u56fd\u4e4b\u5bb6",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 319323050",
+    "takeaway": "yes",
+    "website": "https://www.chinahouserestaurant.ch/"
+  },
+  "id": 1618786915
+}

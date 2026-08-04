@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1626022,
+      46.8023686
+    ]
+  },
+  "properties": {
+    "id": 4783000146,
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "39",
+    "addr:postcode": "1700",
+    "addr:street": "Planche-Sup\u00e9rieure",
+    "amenity": "restaurant",
+    "entrance": "yes",
+    "level": "0",
+    "name": "Brasserie de l'Epee",
+    "opening_hours": "Mo 09:00-15:00; We,Th 09:00-23:30; Fr 09:00-24:00; Sa 16:00-24:00; Su 10:00-17:00; May-Sep Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 322 34 07",
+    "website": "http://www.brasserie-epee.ch/"
+  },
+  "id": 4783000146
+}

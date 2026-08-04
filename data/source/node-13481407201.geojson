@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3791791,
+      47.4250371
+    ]
+  },
+  "properties": {
+    "id": 13481407201,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Burggraben",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "email": "info@grecofinefood.ch",
+    "name": "Greco",
+    "opening_hours": "Mo-Th, Su 11:00-23:00; Fr-Sa 11:00-00:00",
+    "operator": "Greco Gastro St. Gallen GmbH",
+    "phone": "+41 71 525 55 51",
+    "website": "https://grecofinefood.ch/"
+  },
+  "id": 13481407201
+}

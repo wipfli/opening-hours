@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5317241,
+      47.3821979
+    ]
+  },
   "properties": {
-    "@id": "node/446784538",
+    "id": 446784538,
     "addr:city": "Z\u00fcrich",
     "addr:postcode": "8005",
     "addr:street": "Josefstrasse",
@@ -14,12 +21,5 @@
     "website": "https://de.la-brea.ch",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5317241,
-      47.3821979
-    ]
-  },
-  "id": "node-446784538"
+  "id": 446784538
 }

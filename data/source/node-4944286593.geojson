@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5423228,
+      47.409489
+    ]
+  },
+  "properties": {
+    "id": 4944286593,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "47",
+    "addr:postcode": "8050",
+    "addr:street": "Baumackerstrasse",
+    "alt_name": "Loewen Siam Thai Restaurant",
+    "amenity": "restaurant",
+    "check_date": "2025-06-24",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "L\u00f6wen Siam",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.loewen-siam.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4944286593
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7524495,
+      47.1259639
+    ]
+  },
+  "properties": {
+    "id": 12829633625,
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "2",
+    "addr:postcode": "8840",
+    "addr:street": "Holzhofstrasse",
+    "amenity": "restaurant",
+    "name": "Gastwirtschaft im Abteihof",
+    "opening_hours": "We-Su 11:00-18:00",
+    "website": "https://milchmanufaktur.ch/kulinarik/abteihof",
+    "wheelchair": "yes"
+  },
+  "id": 12829633625
+}

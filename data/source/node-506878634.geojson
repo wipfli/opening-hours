@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3152179,
+      47.044321
+    ]
+  },
+  "properties": {
+    "id": 506878634,
+    "amenity": "restaurant",
+    "name": "Peperoncini",
+    "opening_hours": "Tu-Fr 07:00-22:00; Sa,Su,PH 08:00-18:00; Mo 07:00-18:00",
+    "website": "https://www.peperoncini-luzern.ch/ueberuns/peperoncini-tribschenstadt/index.html"
+  },
+  "id": 506878634
+}

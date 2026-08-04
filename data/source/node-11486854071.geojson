@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5789452,
+      47.5265509
+    ]
+  },
+  "properties": {
+    "id": 11486854071,
+    "amenity": "restaurant",
+    "name": "M\u00fchle Wildbach",
+    "opening_hours": "We-Sa 18:00-22:00",
+    "website": "https://www.muehle-wildbach.ch/de/restaurant-bar"
+  },
+  "id": 11486854071
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1430003,
+      46.1951466
+    ]
+  },
+  "properties": {
+    "id": 1747162397,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard du Pont-d'Arve",
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "indoor_seating": "yes",
+    "name": "Caps BBQ",
+    "opening_hours": "Tu-Sa 12:00-14:30,18:30-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://capsbbq.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Saas d'entr\u00e9e 82x113, Hauteur sous table 75, WC 115x87 au meme \u00e9tage"
+  },
+  "id": 1747162397
+}

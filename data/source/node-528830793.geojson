@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3127072,
+      47.4797226
+    ]
+  },
+  "properties": {
+    "id": 528830793,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "17a",
+    "addr:postcode": "5400",
+    "addr:street": "B\u00e4derstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "il Brunello",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa 18:00-24:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 56 210 41 21",
+    "website": "https://www.ristorante-il-brunello.ch/"
+  },
+  "id": 528830793
+}

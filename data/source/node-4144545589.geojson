@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5940058,
+      47.5612047
+    ]
+  },
+  "properties": {
+    "id": 4144545589,
+    "addr:city": "Basel",
+    "addr:housenumber": "1",
+    "addr:postcode": "4058",
+    "addr:street": "Rebgasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Lily's",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 61 683 11 11",
+    "smoking": "no",
+    "website": "https://lilys.ch/eatery/maxim",
+    "wheelchair": "yes"
+  },
+  "id": 4144545589
+}

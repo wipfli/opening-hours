@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5244037,
+      47.3748589
+    ]
+  },
   "properties": {
-    "@id": "node/313212365",
+    "id": 313212365,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "11",
@@ -20,12 +27,5 @@
     "website": "https://suanlong.ch/restaurant/suan-long-langstrasse/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5244037,
-      47.3748589
-    ]
-  },
-  "id": "node-313212365"
+  "id": 313212365
 }

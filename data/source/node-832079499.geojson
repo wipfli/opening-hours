@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8028905,
+      46.1718306
+    ]
+  },
+  "properties": {
+    "id": 832079499,
+    "addr:city": "Muralto",
+    "addr:housenumber": "15",
+    "addr:postcode": "6600",
+    "addr:street": "Viale Verbano",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@altorchio.ch",
+    "name": "Al Torchio",
+    "opening_hours": "Mo-Su,PH 11:00-21:00",
+    "phone": "+41 91 743 43 77",
+    "website": "https://www.altorchio.ch/"
+  },
+  "id": 832079499
+}

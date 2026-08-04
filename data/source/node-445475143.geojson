@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3752495,
+      47.423661
+    ]
+  },
+  "properties": {
+    "id": 445475143,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "9000",
+    "addr:street": "Schmiedgasse",
+    "amenity": "restaurant",
+    "email": "info@naz-sg.ch",
+    "loc_name": "NAZ",
+    "name": "National zum goldenen Leuen",
+    "opening_hours": "Tu-We 11:00-22:30; Th-Fr 11:00-23:00; Sa 11:00-18:00; Mo, Su, PH off",
+    "phone": "+41 71 222 02 62",
+    "start_date": "1603",
+    "website": "https://naz-sg.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "kleiner Absatz"
+  },
+  "id": 445475143
+}

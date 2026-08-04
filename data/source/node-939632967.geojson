@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.64125,
+      46.4090893
+    ]
+  },
+  "properties": {
+    "id": 939632967,
+    "addr:city": "Peccia",
+    "addr:postcode": "6695",
+    "addr:street": "Al fiume",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "grotto.pozzasc@bluewin.ch",
+    "indoor_seating": "yes",
+    "name": "Grotto di Pozzasc",
+    "opening_hours": "Tu-Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 755 16 04",
+    "website": "https://www.pozzasc.ch"
+  },
+  "id": 939632967
+}

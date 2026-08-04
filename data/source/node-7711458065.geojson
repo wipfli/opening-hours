@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5970252,
+      47.2605417
+    ]
+  },
+  "properties": {
+    "id": 7711458065,
+    "addr:city": "Horgen",
+    "addr:housenumber": "24",
+    "addr:postcode": "8810",
+    "addr:street": "Alte Landstrasse",
+    "alt_name": "Migros Restaurant Horgen",
+    "amenity": "restaurant",
+    "branch": "Horgen Schinzenhof",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-15:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-horgen-schinzenhof"
+  },
+  "id": 7711458065
+}

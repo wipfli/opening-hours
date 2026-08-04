@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.63015,
+      46.7030381
+    ]
+  },
+  "properties": {
+    "id": 7577550085,
+    "addr:housenumber": "106",
+    "addr:postcode": "3645",
+    "addr:street": "Simmentalstrasse",
+    "amenity": "restaurant",
+    "name": "Beluga",
+    "opening_hours": "Mo-Su 10:00-14:00, 16:30-23:30",
+    "website": "https://beluga-beach-pub.ch/"
+  },
+  "id": 7577550085
+}

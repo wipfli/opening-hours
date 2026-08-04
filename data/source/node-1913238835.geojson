@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8515736,
+      46.6818859
+    ]
+  },
+  "properties": {
+    "id": 1913238835,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@westend-interlaken.ch",
+    "fax": "+41 33 822 97 93",
+    "name": "West End",
+    "opening_hours": "Mo-Sa 18:00-23:30",
+    "operator": "Paolo Feci",
+    "phone": "+41 33 822 17 44",
+    "website": "http://www.westend-interlaken.ch"
+  },
+  "id": 1913238835
+}

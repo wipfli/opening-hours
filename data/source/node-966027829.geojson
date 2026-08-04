@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1223793,
+      46.1996698
+    ]
+  },
+  "properties": {
+    "id": 966027829,
+    "addr:city": "Petit-Lancy",
+    "addr:housenumber": "32",
+    "addr:postcode": "1213",
+    "addr:street": "Chemin de la B\u00e2tie",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "no",
+    "email": "cafedelatour32@gmail.com",
+    "name": "Caf\u00e9 de la Tour",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 793 98 18",
+    "website": "https://www.cafe-tour.ch"
+  },
+  "id": 966027829
+}

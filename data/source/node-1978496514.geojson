@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5636699,
+      46.5200508
+    ]
+  },
+  "properties": {
+    "id": 1978496514,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "L'Ornithorynque",
+    "opening_hours": "Mo-Fr 11:30-14:00",
+    "website": "https://restauration.epfl.ch/op/edit/Ornithorynque"
+  },
+  "id": 1978496514
+}

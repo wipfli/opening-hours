@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328569,
+      47.3650602
+    ]
+  },
   "properties": {
-    "@id": "node/5631126821",
+    "id": 5631126821,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "11",
@@ -19,12 +26,5 @@
     "phone": "+41 44 201 44 90",
     "website": "https://www.veesbistro.ch"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5328569,
-      47.3650602
-    ]
-  },
-  "id": "node-5631126821"
+  "id": 5631126821
 }

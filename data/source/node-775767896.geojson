@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3352301,
+      47.4664494
+    ]
+  },
+  "properties": {
+    "id": 775767896,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "52",
+    "addr:postcode": "5430",
+    "addr:street": "M\u00e4rzengasse",
+    "alt_name": "Alte Post",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "italian",
+    "email": "ristorantelavecchiaposta@gmail.com",
+    "fax": "+41 56 426 88 05",
+    "microbrewery": "no",
+    "name": "La Vecchia Posta",
+    "note": "TAKE AWAY und Lieferservice (Wettingen)",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa 17:30-02:00; Su 11:00-22:00",
+    "phone": "+41 56 426 75 81",
+    "reservation": "recommended",
+    "smoking": "isolated",
+    "takeaway": "yes",
+    "toilets": "no",
+    "website": "https://www.restaurant-la-vecchia-posta.ch"
+  },
+  "id": 775767896
+}

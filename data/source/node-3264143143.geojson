@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3537155,
+      46.9714571
+    ]
+  },
+  "properties": {
+    "id": 3264143143,
+    "addr:city": "Wohlen bei Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "3033",
+    "addr:street": "Hauptstrasse",
+    "alt_name": "Gasthof zum Kreuz",
+    "amenity": "restaurant",
+    "contact:email": "info@kreuzwohlen.ch",
+    "contact:phone": "+41 31 8291100",
+    "contact:website": "http://www.kreuzwohlen.ch/de/kontakt",
+    "name": "Kreuz",
+    "opening_hours": "Mo-Tu off; We-Th 08:30-23:30; Fr 08:30-00:30; Sa 09:00-00:30; Su 09:30-22:30",
+    "operator": "Peter Tschannen",
+    "source": "survey and website",
+    "website": "http://www.kreuzwohlen.ch"
+  },
+  "id": 3264143143
+}

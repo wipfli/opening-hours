@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6465004,
+      46.7858525
+    ]
+  },
+  "properties": {
+    "id": 930786405,
+    "addr:housenumber": "1",
+    "addr:postcode": "1400",
+    "addr:street": "Chemin de Collesano",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "contact:facebook": "leranchyverdon",
+    "contact:tripadvisor": "https://www.tripadvisor.ch/Restaurant_Review-g198852-d5260040-Reviews-Le_Ranch-Yverdon_les_Bains_Canton_of_Vaud.html",
+    "cuisine": "regional",
+    "email": "info@leranch.ch",
+    "indoor_seating": "yes",
+    "kids_area": "no",
+    "level": "0",
+    "name": "Le Ranch",
+    "opening_hours": "We-Su 08:30-23:30; Mo-Tu off \"ouverture possible pour les groupes d\u00e8s 20 personnes\"",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 425 82 32",
+    "reservation": "recommended",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:fee": "no",
+    "toilets:gender_segregated": "yes",
+    "toilets:unisex": "no",
+    "website": "https://www.leranch.ch/",
+    "website:menu": "https://leranch.ch/#menu"
+  },
+  "id": 930786405
+}

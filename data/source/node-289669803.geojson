@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5325109,
+      47.3637422
+    ]
+  },
   "properties": {
-    "@id": "node/289669803",
+    "id": 289669803,
     "addr:housenumber": "18",
     "addr:street": "General-Wille-Strasse",
     "amenity": "restaurant",
@@ -14,12 +21,5 @@
     "payment:debit_cards": "yes",
     "website": "https://ruenthai.ch/bysuthita/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5325109,
-      47.3637422
-    ]
-  },
-  "id": "node-289669803"
+  "id": 289669803
 }

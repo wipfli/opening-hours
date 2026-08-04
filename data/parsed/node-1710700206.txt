@@ -1,5 +1,0 @@
-Looking at the website content, I can see this is a Molino chain restaurant page. The OSM tags indicate the venue is "Ristorante Frascati" on Bellerivestrasse in Zürich, but I don't see a location matching "Frascati" or "Bellerivestrasse" listed among the Molino locations shown.
-
-The website shows "Heute geöffnet von 11:00 bis 23:00 Uhr" which is only for today's hours (for the Affoltern am Albis location), and this appears to be a JavaScript-driven display showing only the current day's hours.
-
-UNSURE

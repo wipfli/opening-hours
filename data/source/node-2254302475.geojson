@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1371632,
+      46.2012422
+    ]
+  },
+  "properties": {
+    "id": 2254302475,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard de Saint-Georges",
+    "amenity": "restaurant",
+    "check_date": "2025-07-07",
+    "cuisine": "french",
+    "internet_access": "wlan",
+    "name": "Restaurant Od\u00e9on",
+    "name:fr": "Restaurant de l\u2018Od\u00e9on",
+    "note": "surveyed by Alex-7 with OSMpad",
+    "opening_hours": "Tu-Fr 12:00-14:00,19:00-22:00; Sa 19:00-22:00",
+    "phone": "+41 22 328 55 98",
+    "source": "survey",
+    "website": "https://odeongeneve.ch"
+  },
+  "id": 2254302475
+}

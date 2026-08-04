@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3188697,
+      47.0095503
+    ]
+  },
+  "properties": {
+    "id": 673953861,
+    "addr:city": "Horw",
+    "addr:housenumber": "6",
+    "addr:postcode": "6048",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "regional",
+    "email": "info@winkelbadi.ch",
+    "level": "1",
+    "name": "Winkelbadi",
+    "opening_hours": "Jun-Aug: 09:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 340 44 25",
+    "takeaway": "yes",
+    "website": "https://www.winkelbadi.ch"
+  },
+  "id": 673953861
+}

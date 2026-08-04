@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1739423,
+      46.3178794
+    ]
+  },
+  "properties": {
+    "id": 13096884401,
+    "addr:housenumber": "7",
+    "addr:postcode": "1291",
+    "addr:street": "Route de Gen\u00e8ve",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@bistro33.ch",
+    "name": "Bistro 33",
+    "opening_hours": "Mo-Fr 11:00-14:30, 18:00-23:00",
+    "phone": "+41 22 776 33 33",
+    "website": "https://bistro33.ch/",
+    "website:menu": "https://bistro33.ch/wp-content/uploads/2025/08/Carte-BISTRO33aout.25.pdf"
+  },
+  "id": 13096884401
+}

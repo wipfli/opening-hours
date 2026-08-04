@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7137333,
+      47.3500191
+    ]
+  },
+  "properties": {
+    "id": 6920012790,
+    "addr:city": "Uster",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Gerichtsplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-03-22",
+    "cuisine": "lebanese",
+    "email": "contact@house-of-mezze.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "House of Mezze",
+    "opening_hours": "Tu-Th 11:30-13:30,17:00-21:30; Fr,Sa 11:30-13:30,17:00-22:30; Su 11:00-14:00,17:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41433218610",
+    "website": "https://house-of-mezze.ch/"
+  },
+  "id": 6920012790
+}

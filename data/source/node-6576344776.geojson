@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9456291,
+      46.434075
+    ]
+  },
+  "properties": {
+    "id": 6576344776,
+    "addr:city": "Caux",
+    "addr:housenumber": "31",
+    "addr:postcode": "1824",
+    "addr:street": "Route des Monts",
+    "amenity": "restaurant",
+    "ele": "1150",
+    "email": "reservation@coucoumontreux.com",
+    "name": "Le Coucou",
+    "opening_hours": "We-Su 08:00-23:00",
+    "phone": "+41 21 961 25 91",
+    "tourism": "hotel",
+    "website": "https://www.coucoumontreux.com"
+  },
+  "id": 6576344776
+}

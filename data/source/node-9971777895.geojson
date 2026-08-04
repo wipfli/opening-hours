@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9852843,
+      46.3222452
+    ]
+  },
+  "properties": {
+    "id": 9971777895,
+    "addr:city": "Naters",
+    "addr:housenumber": "9a",
+    "addr:postcode": "3904",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Jungfrau-Aletsch",
+    "opening_hours": "Tu-Sa 10:00-17:00; Su 09:00-17:00",
+    "website": "https://www.restaurant-jungfrau-aletsch.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9971777895
+}

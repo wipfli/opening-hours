@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1408865,
+      46.1839273
+    ]
+  },
+  "properties": {
+    "id": 1642189130,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "1227",
+    "addr:street": "Place du March\u00e9",
+    "amenity": "restaurant",
+    "check_date": "2024-11-11",
+    "cuisine": "regional",
+    "email": "brasserie@la-bourse.ch",
+    "name": "Brasserie La Bourse",
+    "opening_hours": "08:45-00:00",
+    "opening_hours:kitchen": "11:45-14:30,18:45-22:30",
+    "phone": "+41 22 342 04 66",
+    "website": "https://www.la-bourse.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Pour les chaises roulantes acc\u00e8s par la porte arri\u00e8re de 80cm de large, 68cm de hauteur sous table, table \u00e0 pied central, WC \u00e0 l'\u00e9tage inf\u00e9rieur par un escalier de 16 marches de 17cm de haut chacune, dimension des WC de 160x80cm"
+  },
+  "id": 1642189130
+}

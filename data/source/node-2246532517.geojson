@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5395838,
+      47.7512264
+    ]
+  },
+  "properties": {
+    "id": 2246532517,
+    "addr:city": "Schleitheim",
+    "addr:country": "CH",
+    "addr:place": "Schleitheimer Schlossranden",
+    "addr:postcode": "8226",
+    "amenity": "restaurant",
+    "email": "steini@mail.ch",
+    "name": "Waldwirtschaft Schlossranden",
+    "opening_hours": "Mar-Oct: Sa-Su",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "phone": "+41799330478",
+    "takeaway": "yes",
+    "website": "https://schaffhauserland.ch/de/index/detail/waldwirtschaft-schlossranden-44020dd8-a115-4b75-9bb6-97582042b1ac.html",
+    "wheelchair": "limited"
+  },
+  "id": 2246532517
+}

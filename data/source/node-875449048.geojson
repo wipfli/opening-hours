@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8852999,
+      47.5520763
+    ]
+  },
+  "properties": {
+    "id": 875449048,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Pizza del Centro",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-21:45; Fr 17:00-22:45; Sa 11:00-13:30,17:00-22:45; Su 11:00-21:45",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.frauenfeld.pizzadelcentro.ch/",
+    "wheelchair": "no"
+  },
+  "id": 875449048
+}

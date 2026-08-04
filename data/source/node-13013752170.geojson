@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6370918,
+      46.9891323
+    ]
+  },
+  "properties": {
+    "id": 13013752170,
+    "amenity": "restaurant",
+    "check_date": "2025-07-20",
+    "name": "Kurhaus",
+    "opening_hours": "Mo-Tu 09:00-21:00; We-Su 09:00-17:00",
+    "website": "https://www.rehaklinik-seewis.ch/aufenthalt/restaurant-kurhaus/"
+  },
+  "id": 13013752170
+}

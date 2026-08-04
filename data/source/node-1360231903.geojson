@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212488,
+      47.3662269
+    ]
+  },
   "properties": {
-    "@id": "node/1360231903",
+    "id": 1360231903,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "7",
@@ -16,12 +23,5 @@
     "website": "http://restaurantnapoli.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5212488,
-      47.3662269
-    ]
-  },
-  "id": "node-1360231903"
+  "id": 1360231903
 }

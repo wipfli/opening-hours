@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1101476,
+      46.2310858
+    ]
+  },
+  "properties": {
+    "id": 12522868828,
+    "addr:city": "Cointrin",
+    "addr:housenumber": "25",
+    "addr:postcode": "1215",
+    "addr:street": "Galerie marchande CFF, Rte de l'A\u00e9roport",
+    "amenity": "restaurant",
+    "check_date": "2026-03-07",
+    "cuisine": "sandwich;dessert;salad",
+    "diet:vegetarian": "yes",
+    "level": "-1",
+    "name": "Le Snack Aux Bonnes Choses",
+    "opening_hours": "Mo-Su 06:00-20:00",
+    "phone": "+41227986984",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://le-snack.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12522868828
+}

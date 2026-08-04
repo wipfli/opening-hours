@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1299591,
+      46.2225366
+    ]
+  },
+  "properties": {
+    "id": 1569830585,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "2",
+    "addr:postcode": "1209",
+    "addr:street": "Chemin du Petit-Saconnex",
+    "amenity": "restaurant",
+    "capacity": "30",
+    "cuisine": "chicken",
+    "delivery": "no",
+    "name": "Chez Ma Cousine",
+    "opening_hours": "Mo-Fr 11:30-14:30, 18:00-22:00; Sa, Su 11:30-22:00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "http://www.chezmacousine.ch/site/fr/"
+  },
+  "id": 1569830585
+}

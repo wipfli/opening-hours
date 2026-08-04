@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8806551,
+      47.3122382
+    ]
+  },
+  "properties": {
+    "id": 1477744296,
+    "addr:city": "Ruppoldingen/Aarburg",
+    "addr:housenumber": "57",
+    "addr:postcode": "4663",
+    "addr:street": "Boningerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Restaurant Aareblick Phuong Luong",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "phone": "+41 62 791 55 35",
+    "website": "https://www.aare-blick.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1477744296
+}

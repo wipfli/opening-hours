@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6293048,
+      46.5176553
+    ]
+  },
+  "properties": {
+    "id": 2167296689,
+    "addr:housenumber": "4",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "check_date": "2026-06-01",
+    "check_date:opening_hours": "2026-06-01",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Vasano",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "opening_hours:kitchen": "Mo-Th, Su 10:30-22:00; Fr, Sa 10:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 320 48 48",
+    "website": "https://vasanoristorante.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2167296689
+}

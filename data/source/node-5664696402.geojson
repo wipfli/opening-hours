@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2722917,
+      46.4438218
+    ]
+  },
+  "properties": {
+    "id": 5664696402,
+    "addr:city": "Luins",
+    "addr:housenumber": "21",
+    "addr:postcode": "1184",
+    "addr:street": "Route du Village",
+    "amenity": "restaurant",
+    "cuisine": "regional;malakoff",
+    "name": "Auberge de Luins",
+    "opening_hours": "Mo-Sa 08:30-15:00, 17:00-23:00; We off; Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 824 11 59",
+    "website": "https://www.aubergedeluins.ch/"
+  },
+  "id": 5664696402
+}

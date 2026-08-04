@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3067103,
+      47.0521803
+    ]
+  },
+  "properties": {
+    "id": 5878025187,
+    "addr:city": "Luzern",
+    "addr:housenumber": "15",
+    "addr:postcode": "6003",
+    "addr:street": "Furrengasse",
+    "amenity": "restaurant",
+    "check_date": "2022-09-24",
+    "cuisine": "vietnamese",
+    "delivery": "yes",
+    "delivery:partner": "Just_Eat",
+    "delivery:website": "https://www.just-eat.ch/speisekarte/banh-mi-pho-luzern",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "no",
+    "name": "Banh Mi Pho",
+    "opening_hours": "Tu-Fr 10:00-12:00, 13:00-18:30; Sa 10:00-16:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.banhmipholuzern.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5878025187
+}

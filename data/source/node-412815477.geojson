@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8431229,
+      46.4625876
+    ]
+  },
+  "properties": {
+    "id": 412815477,
+    "amenity": "restaurant",
+    "check_date": "2023-10-15",
+    "name": "Brasserie Historique 1912",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "phone": "+41 21 925 04 04",
+    "takeaway": "yes",
+    "website": "https://astra-hotel.ch/brasserie-bars/"
+  },
+  "id": 412815477
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0142868,
+      46.3421751
+    ]
+  },
+  "properties": {
+    "id": 11749358032,
+    "amenity": "restaurant",
+    "check_date": "2024-11-02",
+    "contact:city": "Leysin",
+    "contact:facebook": "https://www.facebook.com/hotellatourdai",
+    "contact:housenumber": "14",
+    "contact:instagram": "https://www.instagram.com/hotel_la_tour_dai/",
+    "contact:postcode": "1854",
+    "contact:street": "Route des Ormonts",
+    "currency:XBT": "no",
+    "name": "Restaurant Tour d'A\u00cf",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "payment:lightning": "no",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+41 24 493 2280",
+    "website": "https://hoteltourdai.com/"
+  },
+  "id": 11749358032
+}

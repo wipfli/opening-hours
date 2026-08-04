@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8319692,
+      47.2388062
+    ]
+  },
+  "properties": {
+    "id": 12994416318,
+    "addr:city": "Roggwil (BE)",
+    "addr:country": "CH",
+    "addr:housenumber": "39",
+    "addr:postcode": "4914",
+    "addr:street": "St. Urbanstrasse",
+    "amenity": "restaurant",
+    "name": "Hufeisen",
+    "opening_hours": "Mo 09:00-14:00, Tu-Sa 09:00-21:30, Su 09:00-17:00",
+    "phone": "+41 62 530 44 44",
+    "website": "https://www.hufeisen-roggwil.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12994416318
+}

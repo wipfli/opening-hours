@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1609973,
+      46.8042327
+    ]
+  },
+  "properties": {
+    "id": 7376185217,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "50",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de la Neuveville",
+    "amenity": "restaurant",
+    "email": "contact@frilours.ch",
+    "name": "Caf\u00e9 de l'Ours",
+    "opening_hours": "Mo-Tu 08:00-23:30; Th-Su 08:00-23:30",
+    "phone": "+41 26 525 22 83",
+    "website": "https://www.frilours.ch/"
+  },
+  "id": 7376185217
+}

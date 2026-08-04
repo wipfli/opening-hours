@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6401877,
+      46.5200064
+    ]
+  },
+  "properties": {
+    "id": 10067361654,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1005",
+    "addr:street": "Avenue du Tribunal-F\u00e9d\u00e9ral",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-05-11",
+    "contact:facebook": "https://facebook.com/people/Doki-Doki/100051324954397",
+    "contact:instagram": "dokidoki.ramen",
+    "cuisine": "japanese;ramen",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Doki Doki",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa 09:00-23:00; Su 09:00-17:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00,18:30-22:00; Sa 12:00-14:00,18:30-22:00",
+    "opening_hours:url": "https://dokidoki-fc.ch/#footer",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 219 24 14",
+    "source:opening_hours": "website",
+    "website": "https://dokidoki-fc.ch",
+    "website:menu": "https://dokidoki-fc.ch/#menu"
+  },
+  "id": 10067361654
+}

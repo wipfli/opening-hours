@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9551141,
+      46.0039026
+    ]
+  },
+  "properties": {
+    "id": 367028639,
+    "addr:city": "Lugano",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "6901",
+    "addr:street": "Via Chiarina Stauffacher-Vedani",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "level": "2",
+    "name": "Ristorante Seven Lugano",
+    "opening_hours": "Mo-Su 12:00-15:00,19:30-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 912 90 77 77",
+    "toilets": "yes",
+    "website": "https://www.seven.ch/restaurants/seven-lugano-restaurant"
+  },
+  "id": 367028639
+}

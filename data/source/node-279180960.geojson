@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5402129,
+      47.3761821
+    ]
+  },
   "properties": {
-    "@id": "node/279180960",
+    "id": 279180960,
     "amenity": "restaurant",
     "check_date": "2025-09-03",
     "cuisine": "japanese",
@@ -13,12 +20,5 @@
     "website": "https://sala-of-tokyo.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5402129,
-      47.3761821
-    ]
-  },
-  "id": "node-279180960"
+  "id": 279180960
 }

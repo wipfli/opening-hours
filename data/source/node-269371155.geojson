@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.627177,
+      47.3895907
+    ]
+  },
+  "properties": {
+    "id": 269371155,
+    "addr:city": "D\u00fcbendorf",
+    "addr:housenumber": "68",
+    "addr:postcode": "8600",
+    "addr:street": "Hermikonstrasse",
+    "alt_name": "Im Chreis",
+    "amenity": "restaurant",
+    "name": "Restaurant D\u00fcbi Ice",
+    "opening_hours": "Mo-Sa 09:00-20:00, Su 09:00-18:00",
+    "phone": "+41 44 820 19 18",
+    "website": "https://www.sfd-ag.ch/restaurant/"
+  },
+  "id": 269371155
+}

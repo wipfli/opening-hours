@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.572731,
+      47.2155747
+    ]
+  },
+  "properties": {
+    "id": 10860473378,
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "level": "0",
+    "name": "Delivery Hochgenuss",
+    "opening_hours": "Mo-Su 18:15-22:00; PH closed",
+    "phone": "+41 800 667 711",
+    "takeaway": "only",
+    "website": "https://www.delivery-hochgenuss.ch"
+  },
+  "id": 10860473378
+}

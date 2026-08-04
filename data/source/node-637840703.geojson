@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.544474,
+      47.3740356
+    ]
+  },
   "properties": {
-    "@id": "node/637840703",
+    "id": 637840703,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "17",
     "addr:postcode": "8001",
@@ -18,12 +25,5 @@
     "website": "https://www.kaiser-wienzeile.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.544474,
-      47.3740356
-    ]
-  },
-  "id": "node-637840703"
+  "id": 637840703
 }

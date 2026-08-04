@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3755332,
+      47.4257962
+    ]
+  },
+  "properties": {
+    "id": 9853715231,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Neugasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Fratelli - Pasta Takeaway",
+    "opening_hours": "Mo-Sa 14:00-15:00",
+    "takeaway": "only",
+    "website": "https://www.fratelli.ch/"
+  },
+  "id": 9853715231
+}

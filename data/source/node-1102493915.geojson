@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5817089,
+      47.278292
+    ]
+  },
+  "properties": {
+    "id": 1102493915,
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "31",
+    "addr:postcode": "8942",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "location": "lakeside",
+    "name": "Keywest",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Holenstein Gastro",
+    "website": "https://keywest-zuerich.ch/"
+  },
+  "id": 1102493915
+}

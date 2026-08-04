@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6034376,
+      46.8883825
+    ]
+  },
+  "properties": {
+    "id": 620914480,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-07-25",
+    "name": "Seerestaurant",
+    "opening_hours": "Mar: 09:00-18:00; Apr-Sep: 09:00-22:00; Oct: 09:00-18:00; Nov-Feb: off",
+    "phone": "+41 41 870 72 72",
+    "self_service": "yes",
+    "website": "https://www.seerestaurant-seedorf.ch/"
+  },
+  "id": 620914480
+}

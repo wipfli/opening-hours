@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9636933,
+      47.3004492
+    ]
+  },
+  "properties": {
+    "id": 625115954,
+    "addr:city": "Wald ZH",
+    "addr:housenumber": "506",
+    "addr:postcode": "8636",
+    "addr:street": "Poo-Alp",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bergrestaurant Poo-Alp",
+    "opening_hours": "Mo-Tu 09:00-23:00; We-Th off; Fr-Sa 09:00-23:00; Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 2461493",
+    "website": "https://poo-alp.ch/"
+  },
+  "id": 625115954
+}

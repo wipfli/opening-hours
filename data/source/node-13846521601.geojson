@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5243341,
+      47.3898093
+    ]
+  },
+  "properties": {
+    "id": 13846521601,
+    "addr:housenumber": "310",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-18",
+    "check_date:opening_hours": "2026-05-18",
+    "name": "KV, Z\u00fcrich SV Restaurant",
+    "opening_hours": "Mo-Fr 08:45-14:00",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "website": "https://sv-gastronomie.ch/menu/KV,%20Z\u00fcrich/Mittagsmen\u00fc"
+  },
+  "id": 13846521601
+}

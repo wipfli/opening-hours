@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1118591,
+      46.1962488
+    ]
+  },
+  "properties": {
+    "id": 629039199,
+    "addr:city": "Petit-Lancy",
+    "addr:housenumber": "12",
+    "addr:postcode": "1213",
+    "addr:street": "Route du Pont-Butin",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "internet_access": "wlan",
+    "name": "Brasserie St-Georges",
+    "name:fr": "Brasserie St-Georges",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa 10:00-00:00",
+    "phone": "+41227936445",
+    "website": "https://www.saint-georges.ch"
+  },
+  "id": 629039199
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.600486,
+      47.5092335
+    ]
+  },
+  "properties": {
+    "id": 1748428802,
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "email": "info@restaurant-wacker.ch",
+    "name": "Wacker",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-22:00",
+    "operator": "Hans-Dieter Wacker",
+    "phone": "+41 61 711 53 20",
+    "toilets:wheelchair": "no",
+    "website": "https://restaurant-wacker.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1748428802
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1547926,
+      46.1918672
+    ]
+  },
+  "properties": {
+    "id": 1866369361,
+    "addr:housenumber": "7",
+    "addr:postcode": "1206",
+    "addr:street": "avenue Dumas",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "email": "contact@lebistrotdumas.ch",
+    "name": "Bistrot Dumas",
+    "opening_hours": "Mo-Fr 11:30-14:00; Sa 19:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 347 74 22",
+    "reservation": "recommended",
+    "website": "https://www.lebistrotdumas.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1866369361
+}

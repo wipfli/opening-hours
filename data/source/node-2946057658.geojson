@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3804233,
+      46.9493855
+    ]
+  },
+  "properties": {
+    "id": 2946057658,
+    "addr:city": "Bern",
+    "addr:housenumber": "21",
+    "addr:postcode": "3027",
+    "addr:street": "Holenackerstrasse",
+    "alt_name": "Pizzeria Nemrut",
+    "amenity": "restaurant",
+    "cuisine": "pizza;fast_food",
+    "delivery": "yes",
+    "email": "info@nemrutpizza.ch",
+    "name": "Nemrut",
+    "opening_hours": "Mo-Sa 09:00-23:00; Su 11:00-22:00",
+    "phone": "+41 31 992 90 10",
+    "takeaway": "yes",
+    "website": "https://www.nemrutpizza.ch"
+  },
+  "id": 2946057658
+}

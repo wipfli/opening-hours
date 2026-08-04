@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0655465,
+      47.07758
+    ]
+  },
+  "properties": {
+    "id": 2028739097,
+    "amenity": "restaurant",
+    "delivery": "no",
+    "name": "Flugi Beiz",
+    "opening_hours": "We, Th 09:00-19:00 - bei Regen ab 13:30 Uhr offen; Fr, Sa 09:00-23:00; Su 09:00-17:00",
+    "phone": "+41 78 719 29 83",
+    "website": "https://www.flugibeiz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2028739097
+}

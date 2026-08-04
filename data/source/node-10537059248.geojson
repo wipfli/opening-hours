@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2205415,
+      47.5880385
+    ]
+  },
+  "properties": {
+    "id": 10537059248,
+    "addr:city": "Gippingen",
+    "addr:housenumber": "1",
+    "addr:postcode": "5316",
+    "addr:street": "Stauseestrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-07",
+    "cuisine": "pizza",
+    "name": "Luigi's Pizza",
+    "opening_hours": "We-Mo 11:00-14:00 / 17:00-22.30",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 534 39 09",
+    "website": "https://luigis-pizza-pizzatakeaway.business.site/",
+    "wheelchair": "no"
+  },
+  "id": 10537059248
+}

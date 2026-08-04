@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8389243,
+      46.9498267
+    ]
+  },
+  "properties": {
+    "id": 6844584196,
+    "addr:housenumber": "11",
+    "addr:street": "Avenue du college",
+    "amenity": "restaurant",
+    "email": "hello@bolama.ch",
+    "name": "B\u00d6LAMA burger & coffee",
+    "opening_hours": "Tu-Su 09:00-14:30, 17:30-22:00",
+    "phone": "+41 32 554 28 28",
+    "website": "https://bolama.ch/"
+  },
+  "id": 6844584196
+}

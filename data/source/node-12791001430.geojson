@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4146643,
+      47.4128818
+    ]
+  },
+  "properties": {
+    "id": 12791001430,
+    "addr:housenumber": "54",
+    "addr:street": "Fahrweidstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/restaurantekatequero",
+    "cuisine": "portuguese",
+    "email": "restaurantkatequero@gmail.com",
+    "name": "Katequero",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+41 44 554 89 84",
+    "website": "http://katequero.com",
+    "website:menu": "https://newmenu.ch/RestauranteKatequero"
+  },
+  "id": 12791001430
+}

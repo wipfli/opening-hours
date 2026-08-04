@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5261099,
+      47.3731595
+    ]
+  },
+  "properties": {
+    "id": 469363100,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "8",
+    "addr:postcode": "8004",
+    "addr:street": "Cramerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-28",
+    "cuisine": "italian",
+    "name": "Paneolio",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:00-22:30",
+    "phone": "+41 44 240 02 50",
+    "website": "https://paneolio.ch/",
+    "wheelchair": "no"
+  },
+  "id": 469363100
+}

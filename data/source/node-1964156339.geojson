@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5456942,
+      47.3736181
+    ]
+  },
   "properties": {
-    "@id": "node/1964156339",
+    "id": 1964156339,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "34",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "phone": "+41 44 251 18 04",
     "website": "https://newbombay-zurich.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5456942,
-      47.3736181
-    ]
-  },
-  "id": "node-1964156339"
+  "id": 1964156339
 }

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7493395,
+      46.0181112
+    ]
+  },
+  "properties": {
+    "id": 5462560825,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "20",
+    "addr:postcode": "3920",
+    "addr:street": "Riedstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Roma",
+    "opening_hours": "Mo-Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 967 32 29",
+    "website": "https://detta.ch/pizzeria-roma/"
+  },
+  "id": 5462560825
+}

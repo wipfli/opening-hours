@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7036746,
+      47.4494256
+    ]
+  },
+  "properties": {
+    "id": 9994462204,
+    "addr:city": "Kemptthal",
+    "addr:housenumber": "34",
+    "addr:postcode": "8310",
+    "addr:street": "Kemptpark",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "planted.bistro by Hiltl",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "website": "https://hiltl.ch/standorte/uebersicht/planted-bistro-by-hiltl/"
+  },
+  "id": 9994462204
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7880723,
+      47.2098759
+    ]
+  },
+  "properties": {
+    "id": 9543780252,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "37",
+    "addr:postcode": "4900",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Stella Leone",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:30; Su off",
+    "phone": "+41 62 923 30 40",
+    "website": "https://stella-leone.ch/"
+  },
+  "id": 9543780252
+}

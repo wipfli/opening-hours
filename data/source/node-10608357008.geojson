@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6017047,
+      47.5674377
+    ]
+  },
+  "properties": {
+    "id": 10608357008,
+    "addr:city": "Basel",
+    "addr:housenumber": "41",
+    "addr:postcode": "4058",
+    "addr:street": "Maulbeerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-18",
+    "check_date:currency:XBT": "2026-06-18",
+    "check_date:opening_hours": "2026-06-18",
+    "contact:instagram": "thai_food_kitchen_41",
+    "cuisine": "thai",
+    "currency:XBT": "yes",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@kitchen41.ch",
+    "indoor_seating": "yes",
+    "name": "Kitchen 41",
+    "opening_hours": "Mo-Th 11:00-14:00",
+    "outdoor_seating": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "yes",
+    "phone": "+41 61 2293921",
+    "smoking": "no",
+    "website": "https://www.kitchen41.ch/",
+    "wheelchair": "no"
+  },
+  "id": 10608357008
+}

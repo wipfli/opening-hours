@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3289852,
+      47.036878
+    ]
+  },
+  "properties": {
+    "id": 10028851525,
+    "addr:city": "Luzern",
+    "addr:housenumber": "25a",
+    "addr:postcode": "6005",
+    "addr:street": "Langensandstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-12-09",
+    "cuisine": "italian;italian_pizza",
+    "email": "info@ristorante-centro.ch",
+    "name": "Centro",
+    "opening_hours": "Mo-Sa 08:00-23:00; Su 11:00-22:00",
+    "phone": "+41413679010",
+    "website": "https://ristorante-centro.ch/",
+    "website:menu": "https://ristorante-centro.ch/menu"
+  },
+  "id": 10028851525
+}

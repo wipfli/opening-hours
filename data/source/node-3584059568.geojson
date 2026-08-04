@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5239764,
+      47.3598916
+    ]
+  },
   "properties": {
-    "@id": "node/3584059568",
+    "id": 3584059568,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "3",
@@ -22,12 +29,5 @@
     "website": "https://kaisushi.ch/de/standorte/kai-sushi-lessing/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5239764,
-      47.3598916
-    ]
-  },
-  "id": "node-3584059568"
+  "id": 3584059568
 }

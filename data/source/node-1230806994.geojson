@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6263109,
+      46.5071717
+    ]
+  },
+  "properties": {
+    "id": 1230806994,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100063463186191",
+    "diet:vegetarian": "yes",
+    "email": "info@brasserieriviera.com",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "internet_access:ssid": "RIVIERA",
+    "level": "0",
+    "name": "La Riviera",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 53 09",
+    "start_date": "1969",
+    "website": "https://www.brasserieriviera.com"
+  },
+  "id": 1230806994
+}

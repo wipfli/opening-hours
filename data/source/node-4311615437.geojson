@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.311003,
+      47.0649036
+    ]
+  },
+  "properties": {
+    "id": 4311615437,
+    "amenity": "restaurant",
+    "cuisine": "local;regional",
+    "diet:vegetarian": "yes",
+    "email": "info@restaurantlibelle.ch",
+    "name": "Restaurant Libelle",
+    "opening_hours": "Mo-Th 09:00-23:30; Fr-Sa 09:00-00:30; Su 09:00-18:00",
+    "phone": "+41414206161",
+    "website": "https://www.restaurantlibelle.ch/"
+  },
+  "id": 4311615437
+}

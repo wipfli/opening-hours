@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5524861,
+      47.3597536
+    ]
+  },
   "properties": {
-    "@id": "node/270692604",
+    "id": 270692604,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "96",
     "addr:postcode": "8008",
@@ -22,12 +29,5 @@
     "website:menu": "https://na081.ch/seefeld/#menu",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5524861,
-      47.3597536
-    ]
-  },
-  "id": "node-270692604"
+  "id": 270692604
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5153406,
+      47.1669901
+    ]
+  },
+  "properties": {
+    "id": 1055146594,
+    "addr:city": "Zug",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "6300",
+    "addr:street": "Neugasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Olive & Oregano",
+    "opening_hours": "Tu-Fr 11:00-14:00; Tu-Th 17:00-22:00; Fr 17:00-23:00; Sa 10:00-23:00; Su 11:00-22:00",
+    "website": "https://www.oliveoregano.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1055146594
+}

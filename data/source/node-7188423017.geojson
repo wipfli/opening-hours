@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1959959,
+      46.7450233
+    ]
+  },
+  "properties": {
+    "id": 7188423017,
+    "amenity": "restaurant",
+    "check_date": "2025-08-18",
+    "name": "Hippie Mountain",
+    "opening_hours": "Mo,We-Su 15:00-22:00; Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 971 28 12",
+    "reservation": "yes",
+    "website": "https://www.hippiemountain.ch",
+    "wheelchair": "yes"
+  },
+  "id": 7188423017
+}

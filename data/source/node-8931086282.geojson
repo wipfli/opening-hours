@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3760333,
+      47.4268537
+    ]
+  },
+  "properties": {
+    "id": 8931086282,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Gschwend",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-23:30; Sa 16:30-23:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.cafe-gschwend.ch/"
+  },
+  "id": 8931086282
+}

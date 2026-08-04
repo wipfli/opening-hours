@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9584621,
+      47.4621074
+    ]
+  },
+  "properties": {
+    "id": 4337100889,
+    "addr:city": "Eschlikon TG",
+    "addr:housenumber": "7",
+    "addr:postcode": "8360",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-13",
+    "cuisine": "regional",
+    "name": "Gasthof Post",
+    "opening_hours": "Mo-Sa 09:00-22:00",
+    "tourism": "hotel",
+    "website": "https://www.post-eschlikon.ch/"
+  },
+  "id": 4337100889
+}

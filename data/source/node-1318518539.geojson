@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3063911,
+      47.0458038
+    ]
+  },
+  "properties": {
+    "id": 1318518539,
+    "addr:city": "Luzern",
+    "addr:housenumber": "3",
+    "addr:postcode": "6003",
+    "addr:street": "Waldst\u00e4tterstrasse",
+    "alt_name": "Wolf Burger & Steak Bar",
+    "amenity": "restaurant",
+    "cuisine": "burger;steak_house",
+    "indoor_seating": "yes",
+    "name": "Wolf",
+    "opening_hours": "Mo-We 11:30-14:00,17:30-23:00, Th-Fr 11:30-14:00,17:00-00:30, Sa 10:30-00:30, Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 2105500",
+    "website": "https://wolf-luzern.ch",
+    "wheelchair": "no"
+  },
+  "id": 1318518539
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7902186,
+      47.2122096
+    ]
+  },
+  "properties": {
+    "id": 6899653924,
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "brand:wikipedia": "de:Coop (Schweiz)",
+    "cuisine": "german",
+    "level": "1",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 07:30-17:00; Su off;  PH off",
+    "operator": "Coop Genossenschaft",
+    "phone": "+41 62 916 70 03",
+    "takeaway": "yes",
+    "website": "https://www.coop-restaurant.ch/de/restaurantfinder.html",
+    "wheelchair": "yes"
+  },
+  "id": 6899653924
+}

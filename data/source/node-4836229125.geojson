@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1481381,
+      46.2135762
+    ]
+  },
+  "properties": {
+    "id": 4836229125,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "65",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Berne",
+    "amenity": "restaurant",
+    "cuisine": "peruvian",
+    "name": "Miski",
+    "opening_hours": "Mo-Su 11:45-14:30,18:30-22:30",
+    "website": "https://www.miski.ch/"
+  },
+  "id": 4836229125
+}

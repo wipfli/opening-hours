@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9729156,
+      45.9057947
+    ]
+  },
+  "properties": {
+    "id": 454099791,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "caffesociale@hotmail.com",
+    "name": "Ristorante Sociale",
+    "opening_hours": "Mo-Su 07:00-24:00;PH 09:00-24:00",
+    "phone": "+41 91 6481789",
+    "website": "https://www.ristorantesociale.ch/"
+  },
+  "id": 454099791
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4480059,
+      47.3988902
+    ]
+  },
+  "properties": {
+    "id": 1353998460,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "15",
+    "addr:postcode": "8952",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-18",
+    "cuisine": "italian;pasta;pizza",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Corona",
+    "opening_hours": "Mo-Fr 10:00-24:00; Sa 10:00-24:00; Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.pizzeria-corona.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1353998460
+}

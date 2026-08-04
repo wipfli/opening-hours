@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4811001,
+      46.9554685
+    ]
+  },
+  "properties": {
+    "id": 3204461862,
+    "amenity": "restaurant",
+    "name": "Yalkottu",
+    "opening_hours": "Mo,Th 11:30-14:00; Tu-We,Fr 11:30-14:00,17:30-20:00; Sa 11:30-21:00; Su 11:30-20:00",
+    "website": "https://www.yalkottutakeaway.ch/"
+  },
+  "id": 3204461862
+}

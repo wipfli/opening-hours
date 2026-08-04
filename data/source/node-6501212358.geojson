@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6257375,
+      46.5065757
+    ]
+  },
+  "properties": {
+    "id": 6501212358,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "1A",
+    "addr:postcode": "1006",
+    "addr:street": "Place de la navigation",
+    "amenity": "restaurant",
+    "contact:facebook": "https://facebook.com/pages/Terrasse-Ouchy",
+    "contact:instagram": "terrasse_ouchy",
+    "name": "Terrasse d'Ouchy",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "phone": "+41 21 617 42 24",
+    "website": "https://www.terrasse-ouchy.ch/"
+  },
+  "id": 6501212358
+}

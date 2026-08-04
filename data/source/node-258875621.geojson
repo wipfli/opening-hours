@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8865321,
+      47.191636
+    ]
+  },
+  "properties": {
+    "id": 258875621,
+    "addr:city": "Wangen SZ",
+    "addr:housenumber": "46",
+    "addr:postcode": "8855",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;burger;regional",
+    "delivery": "yes",
+    "email": "info@baeren-wangen.ch",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:00; Sa,Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 410 47 47",
+    "takeaway": "yes",
+    "website": "https://baeren-wangen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 258875621
+}

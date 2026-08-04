@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8230065,
+      46.7934285
+    ]
+  },
+  "properties": {
+    "id": 5400928138,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "7270",
+    "addr:street": "Talstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "italian",
+    "name": "Pizzeria Padrino",
+    "opening_hours": "Mo-Su 11:30-14:30,18:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 413 38 95",
+    "smoking": "outside",
+    "website": "https://www.padrinodavos.ch/"
+  },
+  "id": 5400928138
+}

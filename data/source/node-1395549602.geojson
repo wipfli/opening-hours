@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3002257,
+      47.4812813
+    ]
+  },
+  "properties": {
+    "id": 1395549602,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "5400",
+    "addr:street": "Schmiedestrasse",
+    "amenity": "restaurant",
+    "email": "kontakt@nordportal.ch",
+    "fax": "+41 56 221 74 16",
+    "name": "Restaurant Fjord",
+    "opening_hours": "Tu-Fr 10:00-14:00",
+    "phone": "+41 77 441 24 90",
+    "website": "https://nordportal.ch/restaurant"
+  },
+  "id": 1395549602
+}

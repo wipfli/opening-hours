@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0731802,
+      47.3886714
+    ]
+  },
+  "properties": {
+    "id": 12367440360,
+    "addr:city": "Buchs AG",
+    "addr:housenumber": "76",
+    "addr:postcode": "5033",
+    "addr:street": "Mitteldorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Restaurant Zentrum",
+    "opening_hours": "Su,Mo 11:00-21:00; Tu-Sa 08:30-22:00",
+    "website": "https://holzofenzentrum.ch/"
+  },
+  "id": 12367440360
+}

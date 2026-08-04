@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0650149,
+      47.0061896
+    ]
+  },
+  "properties": {
+    "id": 7988968633,
+    "alt_name": "Krone",
+    "amenity": "restaurant",
+    "name": "Chrone",
+    "opening_hours": "Tu-Fr,Su 16:00-19:00",
+    "website": "http://www.chrone.ch"
+  },
+  "id": 7988968633
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8943172,
+      47.1771988
+    ]
+  },
+  "properties": {
+    "id": 9937522000,
+    "addr:city": "Les Bois",
+    "addr:postcode": "2336",
+    "amenity": "restaurant",
+    "email": "restaurant.maisonrouge@philippos.ch",
+    "name": "Maison Rouge",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+41 32 962 50 62",
+    "website": "https://www.philippos.ch/de/besuchen-sie-uns/maison-rouge/restaurant-maison-rouge"
+  },
+  "id": 9937522000
+}

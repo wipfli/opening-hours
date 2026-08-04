@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1960646,
+      47.136573
+    ]
+  },
+  "properties": {
+    "id": 3376705705,
+    "addr:city": "Magglingen",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "2532",
+    "addr:street": "Hohmattstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hohmatt",
+    "opening_hours": "We-Th 09:30-23:00; Fr-Sa 09:30-24:00; Su 09:30-22:00; Mo-Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 322 21 11",
+    "smoking": "no",
+    "website": "https://www.bergwirtschaft-hohmatt.ch/"
+  },
+  "id": 3376705705
+}

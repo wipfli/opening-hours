@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3088526,
+      47.0498475
+    ]
+  },
+  "properties": {
+    "id": 1328185924,
+    "addr:city": "Luzern",
+    "addr:housenumber": "1",
+    "addr:postcode": "6003",
+    "addr:street": "Pilatusstrasse",
+    "amenity": "restaurant",
+    "branch": "Luzern",
+    "check_date:opening_hours": "2025-06-20",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "name": "Negishi Sushi Bar",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "no",
+    "phone": "+41 41 555 10 05",
+    "website": "https://www.negishi.ch/luzern-pilatusstrasse",
+    "wheelchair": "yes"
+  },
+  "id": 1328185924
+}

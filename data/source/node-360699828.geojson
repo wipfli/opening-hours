@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.524811,
+      47.4482448
+    ]
+  },
+  "properties": {
+    "id": 360699828,
+    "amenity": "restaurant",
+    "level": "0",
+    "name": "Tr\u00f6pfli",
+    "opening_hours": "Tu-Fr 09:00-21:00; Sa-Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://restaurant-troepfli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 360699828
+}

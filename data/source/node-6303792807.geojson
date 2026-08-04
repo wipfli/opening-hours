@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5894814,
+      47.5147913
+    ]
+  },
+  "properties": {
+    "id": 6303792807,
+    "addr:city": "Reinach BL",
+    "addr:country": "CH",
+    "addr:housenumber": "172",
+    "addr:postcode": "4153",
+    "addr:street": "Predigerhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "restaurant@prediger-hof.ch",
+    "name": "Predigerhof",
+    "opening_hours": "We-Sa 11:30-22:00; Su 11:30-17:00; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 411 28 09",
+    "website": "https://www.restaurant-predigerhof.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6303792807
+}

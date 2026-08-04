@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.115043,
+      46.9268736
+    ]
+  },
+  "properties": {
+    "id": 4205784646,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "level": "1",
+    "name": "Roma",
+    "opening_hours": "Mo-Th 09:00-14:00,17:00-23:30; Fr-Sa 09:00-14:00,17:00-00:00",
+    "website": "https://pizzeriaroma.ch/"
+  },
+  "id": 4205784646
+}

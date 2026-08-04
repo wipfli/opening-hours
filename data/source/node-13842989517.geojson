@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6801432,
+      46.7929696
+    ]
+  },
+  "properties": {
+    "id": 13842989517,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sennerei Maran",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "source": "bing",
+    "toilets": "yes",
+    "website": "http://sennerei-maran.ch/"
+  },
+  "id": 13842989517
+}

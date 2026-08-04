@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.503466,
+      47.4913598
+    ]
+  },
+  "properties": {
+    "id": 1633856321,
+    "amenity": "restaurant",
+    "check_date": "2024-07-13",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo, Th, Fr 09:00-14:00, 17:00-23:00; Sa 11:00-14:00, 17:00-23:00; Su 11:00-22:30; Tu, We off; Aug 01 off",
+    "phone": "+41 44 850 50 10",
+    "website": "https://www.loewen-niederglatt.ch/"
+  },
+  "id": 1633856321
+}

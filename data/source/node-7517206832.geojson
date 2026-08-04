@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3736474,
+      46.9457136
+    ]
+  },
+  "properties": {
+    "id": 7517206832,
+    "alt_name": "Migros Restaurant Bern Westside",
+    "amenity": "restaurant",
+    "branch": "Bern Westside",
+    "brand": "Migros Restaurant",
+    "cuisine": "international",
+    "level": "1",
+    "level:ref": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Th 08:00-20:00, Fr 08:00-21:00, Sa 08:00-17:00",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-bern-westside"
+  },
+  "id": 7517206832
+}

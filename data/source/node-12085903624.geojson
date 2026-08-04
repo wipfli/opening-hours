@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9561913,
+      47.6561951
+    ]
+  },
+  "properties": {
+    "id": 12085903624,
+    "amenity": "restaurant",
+    "cuisine": "regional;cake",
+    "name": "Slow Down Bistro",
+    "note": "Nur bei trockenem Wetter ge\u00f6ffnet",
+    "opening_hours": "May-Sep: Fr 17:00-20:30, Sa-Mo 09:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 230 70 91",
+    "website": "https://www.slowdownbistro.ch/"
+  },
+  "id": 12085903624
+}

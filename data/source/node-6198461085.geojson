@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.137137,
+      46.2014678
+    ]
+  },
+  "properties": {
+    "id": 6198461085,
+    "addr:housenumber": "61",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard de Saint-Georges",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Jeab",
+    "opening_hours": "Mo 12:00-14:30; Tu-Fr 12:00-14:30,19:00-22:00; Sa 19:00-22:00",
+    "phone": "+41 22 328 26 24",
+    "website": "https://jeab.ch/"
+  },
+  "id": 6198461085
+}

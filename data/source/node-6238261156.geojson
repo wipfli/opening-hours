@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2672454,
+      47.413351
+    ]
+  },
+  "properties": {
+    "id": 6238261156,
+    "addr:city": "Mellingen",
+    "addr:housenumber": "50",
+    "addr:postcode": "5507",
+    "addr:street": "Lenzburgerstrasse",
+    "alt_name": "Migros Restaurant Mellingen",
+    "amenity": "restaurant",
+    "branch": "Mellingen",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-mellingen"
+  },
+  "id": 6238261156
+}

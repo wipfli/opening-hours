@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4459127,
+      46.948748
+    ]
+  },
+  "properties": {
+    "id": 1682881702,
+    "alt_name": "Restaurant zum \u00c4usseren Stand",
+    "amenity": "restaurant",
+    "check_date": "2026-01-01",
+    "contact:addr": "Zeughausgasse 17, 3011 Bern",
+    "contact:email": "reception@aeussererstand.ch",
+    "contact:fax": "+41 31 3295050",
+    "contact:phone": "+41 31 3295051",
+    "name": "Zum \u00e4usseren Stand",
+    "opening_hours": "Mo-Sa 11:00-14:00, 18:00-23:30",
+    "operator": "Gerhard Liechti",
+    "website": "https://aeussererstand.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1682881702
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5402882,
+      47.3962653
+    ]
+  },
+  "properties": {
+    "id": 329094569,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "121",
+    "addr:postcode": "8057",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-22",
+    "check_date:opening_hours": "2026-03-22",
+    "cuisine": "spanish",
+    "indoor_seating": "yes",
+    "name": "Gonzalez",
+    "opening_hours": "Mo-We 11:00-14:30,18:00-22:00; Th,Fr 11:30-14:30,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 361 11 10",
+    "website": "https://restaurant-gonzalez.ch/",
+    "wheelchair": "no"
+  },
+  "id": 329094569
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8557173,
+      46.688831
+    ]
+  },
+  "properties": {
+    "id": 6083093449,
+    "amenity": "restaurant",
+    "check_date": "2024-07-17",
+    "cuisine": "korean",
+    "name": "Aare",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+41 33 822 88 88",
+    "website": "https://aare-interlaken.business.site/"
+  },
+  "id": 6083093449
+}

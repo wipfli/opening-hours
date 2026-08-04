@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7231513,
+      47.5107372
+    ]
+  },
+  "properties": {
+    "id": 9860737813,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "65",
+    "addr:postcode": "8400",
+    "addr:street": "Rosentalstrasse",
+    "amenity": "restaurant",
+    "name": "oh' bois",
+    "opening_hours": "Mo-Fr 09:00-16:30; Sa-Su 11:00-16:30; PH 11:00-16:30",
+    "phone": "+41 52 267 37 14",
+    "website": "https://stadt.winterthur.ch/themen/leben-in-winterthur/alter-gesundheit-und-soziales/wohnen-im-alter/alterszentren/alterszentrum_rosental/restaurant-oh-bois-im-alterszentrum-rosental"
+  },
+  "id": 9860737813
+}

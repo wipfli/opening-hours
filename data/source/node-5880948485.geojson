@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9369152,
+      46.9931431
+    ]
+  },
+  "properties": {
+    "id": 5880948485,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "2000",
+    "addr:street": "Rue Jacques-Louis-de-Pourtal\u00e8s",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/brasserieBart/",
+    "contact:instagram": "brasserie_bart",
+    "cuisine": "local",
+    "name": "Brasserie B'Art",
+    "opening_hours": "Tu-Sa 16:00-00:00",
+    "phone": "+41 32 724 60 60",
+    "website": "https://lebart.ch/"
+  },
+  "id": 5880948485
+}

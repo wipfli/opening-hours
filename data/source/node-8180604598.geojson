@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0515703,
+      47.2821448
+    ]
+  },
+  "properties": {
+    "id": 8180604598,
+    "addr:city": "Montfaucon",
+    "addr:housenumber": "12",
+    "addr:postcode": "2362",
+    "addr:street": "Rue de la Communance",
+    "amenity": "restaurant",
+    "cuisine": "cafe;regional;sweets",
+    "name": "Couleurs du Terroir",
+    "opening_hours": "Mo-Fr 06:00-18:30; Sa 07:00-17:30; Su 08:00-17:30",
+    "phone": "+41 32 955 11 03",
+    "website": "https://couleursduterroir.ch/"
+  },
+  "id": 8180604598
+}

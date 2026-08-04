@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5149862,
+      47.1774038
+    ]
+  },
+  "properties": {
+    "id": 2078759206,
+    "addr:city": "Zug",
+    "addr:housenumber": "22",
+    "addr:postcode": "6300",
+    "addr:street": "Dammstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-03-26",
+    "email": "fivemoods@sv-group.ch",
+    "name": "fivemoods Kantine",
+    "opening_hours": "Mo-Fr 11:15-13:00",
+    "operator": "J\u00f6rg Forster",
+    "phone": "+41 41 724 64 40",
+    "toilets:wheelchair": "yes",
+    "website": "https://siemens.sv-restaurant.ch/de/menuplan/"
+  },
+  "id": 2078759206
+}

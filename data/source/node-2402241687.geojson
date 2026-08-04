@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5883118,
+      47.2473035
+    ]
+  },
+  "properties": {
+    "id": 2402241687,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wiesental",
+    "opening_hours": "Tu-Th 08:00-22:00, Fr 08:00-23:00, Sa 09:00-23:00, Su 09:00-19:00",
+    "phone": "+41 44 725 47 69",
+    "website": "https://www.wiesentalhorgenberg.ch/"
+  },
+  "id": 2402241687
+}

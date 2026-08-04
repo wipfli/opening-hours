@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1062564,
+      47.1719761
+    ]
+  },
+  "properties": {
+    "id": 1511949905,
+    "addr:city": "Sursee",
+    "addr:housenumber": "3",
+    "addr:postcode": "6210",
+    "addr:street": "Chr\u00fczlistrasse",
+    "amenity": "restaurant",
+    "email": "food@bodyrock.ch",
+    "name": "Bodyrock",
+    "opening_hours": "Tu-Sa 09:00-00:00; Su,Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 921 20 55",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.bodyrock.ch/food/"
+  },
+  "id": 1511949905
+}

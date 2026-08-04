@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5675723,
+      46.5354099
+    ]
+  },
+  "properties": {
+    "id": 10202363790,
+    "addr:city": "Ecublens (VD)",
+    "addr:housenumber": "47",
+    "addr:postcode": "1024",
+    "addr:street": "Route du Bois",
+    "amenity": "restaurant",
+    "name": "Ndam Croset Parc",
+    "opening_hours": "Mo-Fr 06:30-00:00; Sa-Su 07:30-00:00",
+    "phone": "+41 21 691 01 29",
+    "website": "https://www.ndam.ch/"
+  },
+  "id": 10202363790
+}

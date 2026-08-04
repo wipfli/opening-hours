@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0894979,
+      47.2930287
+    ]
+  },
+  "properties": {
+    "id": 7899893329,
+    "addr:city": "Schlossrued",
+    "addr:housenumber": "34",
+    "addr:postcode": "5044",
+    "addr:street": "Schlossstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Schlosshotel Rued",
+    "opening_hours": "We-Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 721 57 24",
+    "website": "https://www.szrued.ch/"
+  },
+  "id": 7899893329
+}

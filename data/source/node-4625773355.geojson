@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6455429,
+      47.5238541
+    ]
+  },
+  "properties": {
+    "id": 4625773355,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Trattoria Il Nuraghe",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-23:00; Sa 17:30-23:00",
+    "website": "http://www.ilnuraghebasel.ch/trattoria"
+  },
+  "id": 4625773355
+}

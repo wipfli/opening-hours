@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1565082,
+      46.8053353
+    ]
+  },
+  "properties": {
+    "id": 563286954,
+    "addr:housenumber": "91",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;pasta;noodles;pizza",
+    "email": "fribourg@luigia.ch",
+    "name": "Restaurant LUIGIA",
+    "opening_hours": "Mo-Th 11:30-14:00, 17:30-22:30; Fr-Sa 11:30-23:00; Su 11:30-22:00",
+    "phone": "+41 26 322 21 30",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.luigia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 563286954
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5473231,
+      46.6600092
+    ]
+  },
+  "properties": {
+    "id": 2996538967,
+    "addr:city": "Erlenbach",
+    "addr:housenumber": "345",
+    "addr:postcode": "3762",
+    "addr:street": "Kleindorf",
+    "amenity": "restaurant",
+    "contact:email": "doris.wolf@bluewin.ch",
+    "contact:phone": "+41 62 962 38 25",
+    "name": "Chlidorf Beizli",
+    "opening_hours": "Mo-Fr 07:00-19:00; Su 08:00-18:00; Sa off",
+    "website": "https://www.chlydorf-beizli.ch/"
+  },
+  "id": 2996538967
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6170632,
+      46.778277
+    ]
+  },
+  "properties": {
+    "id": 4988511421,
+    "addr:city": "Treycovagnes",
+    "addr:housenumber": "3",
+    "addr:postcode": "1436",
+    "addr:street": "Le Ch\u00e2telard",
+    "amenity": "restaurant",
+    "cuisine": "brasserie",
+    "name": "Brasserie du Ch\u00e2telard",
+    "opening_hours": "Tu-Sa 11:30-14:30,18:30-23:00",
+    "operator": "Ernesto et Dominique",
+    "phone": "+41 24 446 10 10",
+    "website": "https://brasserie-du-chatelard.ch/"
+  },
+  "id": 4988511421
+}

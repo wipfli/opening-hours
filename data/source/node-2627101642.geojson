@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3138206,
+      46.6666344
+    ]
+  },
+  "properties": {
+    "id": 2627101642,
+    "addr:city": "Les Charbonni\u00e8res",
+    "addr:housenumber": "7",
+    "addr:postcode": "1343",
+    "addr:street": "Rue du Mont d'Or",
+    "amenity": "restaurant",
+    "email": "info@du-cygne.ch",
+    "facebook": "ducygnecharbonnieres",
+    "name": "Les Cygnes",
+    "opening_hours": "We-Fr 08:30-14:00,16:30-22:30; Sa 08:30-14:30,17:00-23:00; Su 09:00-15:30",
+    "phone": "+41 21 841 12 81",
+    "website": "https://www.du-cygne.ch/le-restaurant"
+  },
+  "id": 2627101642
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3155524,
+      47.4181019
+    ]
+  },
+  "properties": {
+    "id": 3324294901,
+    "addr:city": "Abtwil SG",
+    "addr:housenumber": "7",
+    "addr:postcode": "9030",
+    "addr:street": "Wiesenbachstrasse",
+    "alt_name": "Migros Restaurant S\u00e4ntispark",
+    "amenity": "restaurant",
+    "branch": "Abtwil S\u00e4ntispark",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Su-Fr 08:00-23:00, Sa 07:30-23:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-abtwil-saentispark",
+    "wheelchair": "yes"
+  },
+  "id": 3324294901
+}

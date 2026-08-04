@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6079447,
+      47.3755808
+    ]
+  },
+  "properties": {
+    "id": 667008916,
+    "addr:city": "Gockhausen",
+    "addr:housenumber": "72",
+    "addr:postcode": "8044",
+    "addr:street": "Obere Geerenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Geeren",
+    "opening_hours": "We-Sa 10:00-23:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 821 40 11",
+    "website": "https://www.geeren.ch/"
+  },
+  "id": 667008916
+}

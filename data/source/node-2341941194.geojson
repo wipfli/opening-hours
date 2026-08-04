@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8437443,
+      47.2163333
+    ]
+  },
+  "properties": {
+    "id": 2341941194,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@strandbeiz-stampf.ch",
+    "fax": "+41 55 210 59 19",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Strandbeiz Stampf",
+    "opening_hours": "Jan-Dec We-Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 210 59 59",
+    "smoking": "no",
+    "website": "https://restaurant-stampf.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2341941194
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7277512,
+      47.3524079
+    ]
+  },
+  "properties": {
+    "id": 3840608308,
+    "amenity": "restaurant",
+    "name": "Appartementhaus Spital Uster",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 09:00-19:00",
+    "phone": "+41 44 911 17 00",
+    "website": "https://www.spitaluster.ch/153/unterkunft"
+  },
+  "id": 3840608308
+}

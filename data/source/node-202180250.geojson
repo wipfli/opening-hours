@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5815234,
+      47.7054056
+    ]
+  },
+  "properties": {
+    "id": 202180250,
+    "amenity": "restaurant",
+    "cuisine": "cake;ice_cream;regional",
+    "email": "bollinger.daniel@bluewin.ch",
+    "mobile": "+41 79 291 50 21",
+    "name": "Restaurant Beringer Randenturm",
+    "name:de": "Restaurant Beringer Randenturm",
+    "opening_hours": "Th 13:30-23:30; Fr 17:00-00:00; Sa 00:00-00:30, 13:30-00:00; Su 00:00-00:30, 11:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 685 13 44",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "website": "https://www.randenturm.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 202180250
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6097928,
+      46.5261508
+    ]
+  },
+  "properties": {
+    "id": 6959946487,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "restaurant.etoile@hotmail.com",
+    "indoor_seating": "yes",
+    "name": "Restaurant de l'Etoile",
+    "opening_hours": "Mo-Th 11:45-13:30, 18:45-22:00; Fr, Sa 11:45-13:30, 18:45-22:30; Su 11:30-13:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 625 15 44",
+    "website": "https://restaurant-letoile.ch/"
+  },
+  "id": 6959946487
+}

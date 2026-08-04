@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4213972,
+      46.9441128
+    ]
+  },
+  "properties": {
+    "id": 603759963,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "3008",
+    "addr:street": "K\u00f6nizstrasse",
+    "air_conditioning": "no",
+    "alt_name": "Pizzeria Lory",
+    "amenity": "restaurant",
+    "check_date": "2025-05-28",
+    "contact:email": "restaurantlory@bluewin.ch",
+    "contact:fax": "+41 31 3818891",
+    "contact:phone": "+41 31 3818868",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Lory",
+    "old_name": "Restaurant Lory",
+    "opening_hours": "Mo-Fr 08:45-22:45; Su 10:30-22:30",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.restaurantlory.ch/"
+  },
+  "id": 603759963
+}

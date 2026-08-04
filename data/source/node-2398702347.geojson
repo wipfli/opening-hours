@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.981195,
+      46.8798621
+    ]
+  },
+  "properties": {
+    "id": 2398702347,
+    "amenity": "restaurant",
+    "check_date": "2025-05-27",
+    "name": "Hotel T\u00f6di",
+    "opening_hours": "Jan-Apr Tu-Sa 08:00-23:00; May-Oct Mo-Sa 08:00-23:00, Su 09:00-19:00",
+    "opening_hours:kitchen": "Jan-Apr Tu-Sa 11:30-14:00, 18:00-21:00; May-Oct Mo-Sa 11:30-21:00, Su 11:30-19:00",
+    "phone": "+41 55 653 50 70",
+    "tourism": "hotel",
+    "website": "https://www.hoteltoedi.ch/"
+  },
+  "id": 2398702347
+}

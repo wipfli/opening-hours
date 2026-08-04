@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.644838,
+      46.5166348
+    ]
+  },
+  "properties": {
+    "id": 12529533460,
+    "addr:housenumber": "19",
+    "addr:postcode": "1005",
+    "addr:street": "Avenue du L\u00e9man",
+    "amenity": "restaurant",
+    "check_date": "2025-01-24",
+    "contact:facebook": "61559362243064",
+    "contact:instagram": "cafe_restaurant_shiraz",
+    "cuisine": "iran",
+    "email": "info@caferestaurantshiraz.ch",
+    "name": "Shiraz",
+    "opening_hours": "Tu-Su 12:00-15:00, 18:00-22:00",
+    "phone": "+41 21 312 52 22;+41 76 613 88 89",
+    "website": "https://caferestaurantshiraz.ch/"
+  },
+  "id": 12529533460
+}

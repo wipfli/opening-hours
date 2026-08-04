@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5491711,
+      47.3226601
+    ]
+  },
+  "properties": {
+    "id": 1177226628,
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8802",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-24",
+    "check_date:opening_hours": "2022-09-24",
+    "cuisine": "regional;italian;pizza",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Ochsen Michael",
+    "opening_hours": "Mo off; Tu-Th 11:00-14:00,17:30-22:00; Fr-Sa 11:00-14:30,17:30-22:00; Su 11:00-14:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 715 30 15",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurantochsenkilchberg.ch",
+    "website:menu": "https://www.restaurantochsenkilchberg.ch/menuekarte",
+    "wheelchair": "limited"
+  },
+  "id": 1177226628
+}

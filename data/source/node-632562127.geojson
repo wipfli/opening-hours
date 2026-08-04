@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5483371,
+      47.3805744
+    ]
+  },
   "properties": {
-    "@id": "node/632562127",
+    "id": 632562127,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "40",
     "addr:postcode": "8006",
@@ -17,12 +24,5 @@
     "website": "https://de-de.facebook.com/RistoranteAlFornoDaAngelo/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5483371,
-      47.3805744
-    ]
-  },
-  "id": "node-632562127"
+  "id": 632562127
 }

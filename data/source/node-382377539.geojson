@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0530907,
+      47.3923597
+    ]
+  },
+  "properties": {
+    "id": 382377539,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "88",
+    "addr:postcode": "5000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "fax": "+41 62 823 64 41",
+    "name": "La Spezia",
+    "opening_hours": "Mo-Fr 11:00-14:00, 18:00-23:00; Sa 17:30-23:00",
+    "phone": "+41 62 823 64 40",
+    "website": "https://www.laspezia.ch/"
+  },
+  "id": 382377539
+}

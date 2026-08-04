@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3816891,
+      47.4253443
+    ]
+  },
+  "properties": {
+    "id": 904185699,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "41",
+    "addr:postcode": "9000",
+    "addr:street": "L\u00e4mmlisbrunnenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Toscana",
+    "opening_hours": "Mo-Sa 11:00-14:00,18:00-23:30; Su 12:00-22:00",
+    "smoking": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.toscanasg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 904185699
+}

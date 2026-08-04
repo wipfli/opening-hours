@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.196061,
+      47.6417101
+    ]
+  },
+  "properties": {
+    "id": 3374478656,
+    "addr:city": "Kreuzlingen",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8280",
+    "addr:street": "Bleichestrasse",
+    "alt_name": "Migros Restaurant Seepark",
+    "amenity": "restaurant",
+    "branch": "Kreuzlingen Seepark",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-kreuzlingen-seepark",
+    "wheelchair": "yes"
+  },
+  "id": 3374478656
+}

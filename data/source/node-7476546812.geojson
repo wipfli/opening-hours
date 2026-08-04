@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4144853,
+      46.9856806
+    ]
+  },
+  "properties": {
+    "id": 7476546812,
+    "addr:postcode": "6373",
+    "amenity": "restaurant",
+    "cuisine": "burger;kebab;pizza",
+    "name": "EnnEt",
+    "opening_hours": "Mo-Th 10:30-13:45,16:30-22:30; Fr 10:30-13:45,16:30-23:30; Sa 10:30-23:00; Su 10:30-21:30",
+    "phone": "+41 41 620 17 17",
+    "website": "https://www.ennet-pizza-kurier.ch"
+  },
+  "id": 7476546812
+}

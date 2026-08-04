@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.498554,
+      46.5077325
+    ]
+  },
+  "properties": {
+    "id": 1104546246,
+    "addr:city": "Morges",
+    "addr:housenumber": "61",
+    "addr:postcode": "1110",
+    "addr:street": "Rue Louis-de-Savoie",
+    "amenity": "restaurant",
+    "cuisine": "fish;regional",
+    "name": "Restaurant du L\u00e9man",
+    "opening_hours": "Tu-Fr 10:00-22:00; Sa 10:00-23:00; Su 11:00-21:00",
+    "phone": "+41 21 801 33 51",
+    "website": "https://restaurant-leleman.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1104546246
+}

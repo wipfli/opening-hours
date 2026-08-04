@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2535677,
+      47.0696724
+    ]
+  },
+  "properties": {
+    "id": 412783253,
+    "addr:housenumber": "2183",
+    "addr:place": "Maschgachamm",
+    "amenity": "restaurant",
+    "check_date": "2025-08-17",
+    "cuisine": "regional;european",
+    "email": "info@maschgenkamm.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "internet_access:ssid": "flumserberg_guest",
+    "level": "2",
+    "name": "Panoramarestaurant Maschgenkamm",
+    "opening_hours": "08:15-16:45",
+    "operator": "BBF Gastro AG",
+    "phone": "+41 81 733 19 39",
+    "website": "https://www.maschgenkamm.ch/",
+    "website:menu": "https://www.maschgenkamm.ch/app/download/15347782223/Speisekarte_Panoramarestaurant_Maschgenkamm.pdf?t=1752073298"
+  },
+  "id": 412783253
+}

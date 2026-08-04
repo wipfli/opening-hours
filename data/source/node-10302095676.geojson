@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9099721,
+      46.4350897
+    ]
+  },
+  "properties": {
+    "id": 10302095676,
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Miyazaki",
+    "opening_hours": "Tu-Fr 12:00-14:30, 18:00-22:30; Sa, Su 12:00-22:30",
+    "phone": "+41 21 965 34 64",
+    "website": "https://sushi-miyazaki.business.site/"
+  },
+  "id": 10302095676
+}

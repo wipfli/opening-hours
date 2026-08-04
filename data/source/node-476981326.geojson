@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4847702,
+      47.3885734
+    ]
+  },
+  "properties": {
+    "id": 476981326,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "39",
+    "addr:postcode": "8048",
+    "addr:street": "Herrligstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "indoor_seating": "yes",
+    "name": "Roter Stein",
+    "opening_hours": "Mo-Sa 11:30-14:00,17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 541 82 62",
+    "website": "https://roter-stein.ch/"
+  },
+  "id": 476981326
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2845385,
+      46.258687
+    ]
+  },
+  "properties": {
+    "id": 9118520644,
+    "addr:city": "Erde",
+    "addr:housenumber": "20",
+    "addr:postcode": "1976",
+    "addr:street": "Route de Biolla",
+    "amenity": "restaurant",
+    "name": "Le Clair de Lune",
+    "opening_hours": "Apr 15-Nov 15 We-Sa 11:00-15:00, 18:30-23:00; Apr 15-Nov 15 Su 11:00-20:00",
+    "phone": "+4127 346 16 78",
+    "website": "https://www.clairdelune.ch/"
+  },
+  "id": 9118520644
+}

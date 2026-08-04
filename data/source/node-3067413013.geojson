@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4113116,
+      47.407126
+    ]
+  },
+  "properties": {
+    "id": 3067413013,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Limmatbr\u00fccke",
+    "opening_hours": "Mo-Fr 10:00-23:00",
+    "website": "https://www.limmatbruecke.ch/"
+  },
+  "id": 3067413013
+}

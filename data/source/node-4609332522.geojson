@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2746584,
+      47.0610049
+    ]
+  },
+  "properties": {
+    "id": 4609332522,
+    "addr:city": "Luzern",
+    "addr:housenumber": "14",
+    "addr:postcode": "6015",
+    "addr:street": "Ruopigenplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-05-05",
+    "cuisine": "mediterranean;pizza",
+    "email": "info@doncarlos.ch",
+    "name": "Don Carlos",
+    "opening_hours": "Mo,Su,PH off; Tu-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 250 66 22",
+    "takeaway": "yes",
+    "website": "https://doncarlos.ch",
+    "website:menu": "https://doncarlos.ch/wp-content/uploads/2024/11/2024.11_DC_Speisekarte.pdf"
+  },
+  "id": 4609332522
+}

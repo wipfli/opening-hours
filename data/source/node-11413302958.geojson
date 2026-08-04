@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.300676,
+      46.4999425
+    ]
+  },
+  "properties": {
+    "id": 11413302958,
+    "amenity": "restaurant",
+    "name": "Bistro",
+    "opening_hours": "Su-Th 08:30-18:00; Fr,Sa 08:30-22:00",
+    "phone": "+41 279741224",
+    "website": "https://www.nordischeszentrum-goms.ch/bistro"
+  },
+  "id": 11413302958
+}

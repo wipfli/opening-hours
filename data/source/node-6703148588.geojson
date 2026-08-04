@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5029224,
+      46.9270706
+    ]
+  },
+  "properties": {
+    "id": 6703148588,
+    "addr:city": "Muri bei Bern",
+    "addr:housenumber": "32",
+    "addr:postcode": "3073",
+    "addr:street": "Feldstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "branch": "Bern G\u00fcmligen",
+    "check_date": "2026-03-23",
+    "cuisine": "burger",
+    "email": "guemligen@hansimglueck-burgergrill.ch",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Mo-Su 11:00-00:30",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 313680202",
+    "website": "https://hansimglueck-burgergrill.de"
+  },
+  "id": 6703148588
+}

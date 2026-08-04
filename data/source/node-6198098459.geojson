@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6327445,
+      47.6968918
+    ]
+  },
+  "properties": {
+    "id": 6198098459,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8200",
+    "addr:street": "Posthof",
+    "amenity": "restaurant",
+    "check_date": "2023-06-02",
+    "delivery": "no",
+    "name": "Suren's",
+    "opening_hours": "Mo-Tu 10:00-14:00,16:30-23:30; Fr 10:00-14:00,16:30-00:30; Sa 11:00-00:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 533 94 02",
+    "website": "https://surens.ch"
+  },
+  "id": 6198098459
+}

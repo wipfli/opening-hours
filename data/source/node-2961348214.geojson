@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.628565,
+      46.5213585
+    ]
+  },
+  "properties": {
+    "id": 2961348214,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "6",
+    "addr:street": "Rue du Port-Franc",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "mexican",
+    "fax": "+41 21 320 15 26",
+    "indoor_seating": "yes",
+    "name": "Taco's Bar",
+    "opening_hours": "Mo-Th, Su 17:30-01:00; Fr, Sa 17:30-02:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 320 15 25",
+    "website": "https://tacos-bar.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2961348214
+}

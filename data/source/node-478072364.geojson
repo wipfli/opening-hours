@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3600494,
+      47.0510507
+    ]
+  },
+  "properties": {
+    "id": 478072364,
+    "amenity": "restaurant",
+    "check_date": "2026-04-04",
+    "cuisine": "italian;pizza",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Sch\u00f6nau",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Sa 17:00-24:00; Su off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 377 11 27",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://schoenaumeggen.ch",
+    "website:menu": "https://schoenaumeggen.ch/essen/"
+  },
+  "id": 478072364
+}

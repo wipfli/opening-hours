@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462331,
+      47.4092055
+    ]
+  },
+  "properties": {
+    "id": 311859457,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "345",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "alt_name": "Santa Lucia Oerlikon",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon",
+    "brand": "Santa Lucia",
+    "check_date": "2025-11-02",
+    "check_date:diet:vegan": "2025-11-02",
+    "check_date:diet:vegetarian": "2025-11-02",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Santa Lucia",
+    "opening_hours": "Mo-Sa 11:30-23:30; Su 11:30-23:00",
+    "operator": "Bindella",
+    "phone": "+41 44 312 48 58",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.bindella.ch/de/santa-lucia-oerlikon.html",
+    "wheelchair": "yes"
+  },
+  "id": 311859457
+}

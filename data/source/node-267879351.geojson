@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5162289,
+      47.3592215
+    ]
+  },
   "properties": {
-    "@id": "node/267879351",
+    "id": 267879351,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "166",
@@ -26,12 +33,5 @@
     "website": "http://www.swaad.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5162289,
-      47.3592215
-    ]
-  },
-  "id": "node-267879351"
+  "id": 267879351
 }

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3629359,
+      47.0946628
+    ]
+  },
+  "properties": {
+    "id": 11429028119,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "name": "Nok's Thai Kitchen",
+    "opening_hours": "Mo,We-Fr 17:00-21:00; Sa,Su 12:00-21:00",
+    "phone": "+41 76 830 60 33",
+    "takeaway": "yes",
+    "website": "https://www.noks-thai.ch/"
+  },
+  "id": 11429028119
+}

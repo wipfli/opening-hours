@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4417636,
+      46.9484601
+    ]
+  },
+  "properties": {
+    "id": 1738559451,
+    "alt_name": "Cha Cha Thai von Werdt-Passage",
+    "amenity": "restaurant",
+    "branch": "Bern von Werdt-Passage",
+    "brand": "cha cha",
+    "contact:addr": "Von Werdt-Passage 8, 3011 Bern",
+    "contact:email": "vonwerdt@chachathai.ch",
+    "contact:phone": "+41 58 5683830",
+    "cuisine": "thai",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Cha Cha Thai",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "opening_hours:covid19": "closed",
+    "operator": "Genossenschaft Migros Aare",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.chachathai.ch/de-CH/Restaurants/Bern-vonWerdt",
+    "wheelchair": "yes"
+  },
+  "id": 1738559451
+}

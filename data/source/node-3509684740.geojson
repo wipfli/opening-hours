@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7657381,
+      47.2509356
+    ]
+  },
+  "properties": {
+    "id": 3509684740,
+    "amenity": "restaurant",
+    "name": "Taverna Vasco da Gama",
+    "opening_hours": "Tu-Fr 10:30-14:00,17:00-23:00; Sa 10:00-23:00; Su 10:00-22:00",
+    "website": "https://www.tavernavascodagama.ch/"
+  },
+  "id": 3509684740
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.528323,
+      47.3709203
+    ]
+  },
   "properties": {
-    "@id": "node/3163049362",
+    "id": 3163049362,
     "amenity": "restaurant",
     "check_date": "2023-09-24",
     "cuisine": "italian",
@@ -11,12 +18,5 @@
     "website": "https://www.ilgiglio.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.528323,
-      47.3709203
-    ]
-  },
-  "id": "node-3163049362"
+  "id": 3163049362
 }

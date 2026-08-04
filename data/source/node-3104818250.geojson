@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6932217,
+      47.3036813
+    ]
+  },
+  "properties": {
+    "id": 3104818250,
+    "addr:city": "Egg",
+    "addr:housenumber": "16",
+    "addr:postcode": "8132",
+    "addr:street": "Gewerbestrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "name": "Giallo Pizza & Pasta",
+    "opening_hours": "We-Sa 11:00-13:00,17:30-21:30; Su 17:30-21:00; PH 17:30-21:00",
+    "phone": "+41 44 994 80 94",
+    "takeaway": "yes",
+    "website": "https://www.giallo-pizza-egg.ch/"
+  },
+  "id": 3104818250
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5132509,
+      47.1726136
+    ]
+  },
+  "properties": {
+    "id": 7669148533,
+    "addr:city": "Zug",
+    "addr:housenumber": "1",
+    "addr:postcode": "6300",
+    "addr:street": "Pilatusstrasse",
+    "amenity": "restaurant",
+    "description": "Located at the end of track 4 of the Zug station. \nLunch, Tasting Menus & After-work Bar\nLocally sourced produce.",
+    "email": "info@kurioz.ch",
+    "name": "Kurioz Bar & Kitchen",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:00-24:00; Sa 15:00-24:00",
+    "phone": "+41 41 710 01 61",
+    "website": "https://www.kurioz.ch/"
+  },
+  "id": 7669148533
+}

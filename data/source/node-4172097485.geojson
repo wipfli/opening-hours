@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613897,
+      47.4146478
+    ]
+  },
+  "properties": {
+    "id": 4172097485,
+    "amenity": "restaurant",
+    "cuisine": "kebab;pizza",
+    "delivery": "no",
+    "email": "info@ayverdis.ch",
+    "level": "0",
+    "name": "Ayverdi's",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "opening_hours:covid19": "off",
+    "operator": "Ayverdis GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 544 99 50",
+    "reservation": "no",
+    "takeaway": "yes",
+    "website": "https://ayverdis.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4172097485
+}

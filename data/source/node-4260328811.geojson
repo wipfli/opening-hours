@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5064854,
+      46.9332326
+    ]
+  },
+  "properties": {
+    "id": 4260328811,
+    "addr:city": "G\u00fcmligen",
+    "addr:postcode": "3073",
+    "addr:street": "Worbstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "Sunan-Thai-Shop-Take-Away-753270541468318",
+    "contact:instagram": "sunan_thai_restaurant",
+    "contact:twitter": "SunanRestaurant",
+    "cuisine": "thai",
+    "email": "info@sunan-thai.ch",
+    "name": "Sunan",
+    "name:de": "Sunan-Thai",
+    "opening_hours": "Tu 11:00-14:00; We-Th 11:00-14:00,17:00-21:00; Fr 11:00-14:00,17:00-22:00; Sa 11:00-15:00,17:00-22:00; Su,Mo off",
+    "phone": "+41 31 954 2735",
+    "website": "https://www.sunan-thai.ch/"
+  },
+  "id": 4260328811
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6268775,
+      46.5180556
+    ]
+  },
+  "properties": {
+    "id": 9672729617,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "7",
+    "addr:postcode": "1003",
+    "addr:street": "Avenue Louis-Ruchonnet",
+    "amenity": "restaurant",
+    "cuisine": "persian",
+    "diet:halal": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@little-persia.ch",
+    "name": "Little Persia",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+41 21 357 38 57",
+    "takeaway": "yes",
+    "website": "https://www.little-persia.ch/"
+  },
+  "id": 9672729617
+}

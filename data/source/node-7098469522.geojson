@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1641075,
+      47.649828
+    ]
+  },
+  "properties": {
+    "id": 7098469522,
+    "amenity": "restaurant",
+    "name": "Gr\u00f6deli",
+    "opening_hours": "We-Sa 17:00-23:00; Su 16:00-22:00",
+    "phone": "+41 71 672 43 62",
+    "website": "https://www.gr\u00f6deli.ch/"
+  },
+  "id": 7098469522
+}

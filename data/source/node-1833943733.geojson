@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9790146,
+      47.3883751
+    ]
+  },
+  "properties": {
+    "id": 1833943733,
+    "amenity": "restaurant",
+    "name": "St. Iddaburg",
+    "opening_hours": "We-Sa 10:00-22:00; Su 09:00-21:00; PH 09:00-21:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.iddaburg.info/",
+    "wheelchair": "limited"
+  },
+  "id": 1833943733
+}

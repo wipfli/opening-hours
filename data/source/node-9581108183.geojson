@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7302299,
+      47.4990053
+    ]
+  },
+  "properties": {
+    "id": 9581108183,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15",
+    "addr:postcode": "8400",
+    "addr:street": "Obergasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-28",
+    "check_date:opening_hours": "2024-12-25",
+    "cuisine": "chinese",
+    "name": "China Bowl",
+    "opening_hours": "Mo-Sa 11:00-22:30; Su 17:00-22:30",
+    "phone": "+41522129888",
+    "website": "https://www.chinabowl-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9581108183
+}

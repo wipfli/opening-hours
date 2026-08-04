@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6606549,
+      47.3831626
+    ]
+  },
+  "properties": {
+    "id": 12995902033,
+    "addr:city": "Diepoldsau",
+    "addr:country": "CH",
+    "addr:floor": "0",
+    "addr:housenumber": "1a",
+    "addr:postcode": "9444",
+    "addr:street": "Widenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-29",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "email": "info@lucky-maki.ch",
+    "level": "0",
+    "name": "Lucky Maki",
+    "opening_hours": "We-Fr 11:30-13:30, We-Su 17:30-21:00",
+    "phone": "+41 76 348 93 44",
+    "takeaway": "only",
+    "website": "https://lucky-maki.ch/"
+  },
+  "id": 12995902033
+}

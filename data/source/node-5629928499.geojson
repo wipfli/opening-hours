@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.58809,
+      47.2159938
+    ]
+  },
+  "properties": {
+    "id": 5629928499,
+    "addr:housenumber": "4",
+    "addr:street": "Deitingenstrasse",
+    "amenity": "restaurant",
+    "branch": "Luterbach",
+    "cuisine": "asian",
+    "name": "Yushu",
+    "opening_hours": "Mo-Fr 11:00-13:30,17:00-21:30; Sa,Su 12:00-21:30",
+    "phone": "+41 76 535 98 00",
+    "takeaway": "only",
+    "website": "https://www.yushu.ch"
+  },
+  "id": 5629928499
+}

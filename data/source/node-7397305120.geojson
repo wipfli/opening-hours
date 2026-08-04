@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4750871,
+      47.1886535
+    ]
+  },
+  "properties": {
+    "id": 7397305120,
+    "amenity": "restaurant",
+    "name": "Timeout",
+    "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off",
+    "opening_hours:kitchen": "Mo-Fr 11:15-13:30; PH off",
+    "operator": "zfv",
+    "website": "https://zfv.ch/de/microsites/restaurant-timeout/ueber-uns"
+  },
+  "id": 7397305120
+}

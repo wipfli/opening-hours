@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8479634,
+      46.9547047
+    ]
+  },
+  "properties": {
+    "id": 1668000201,
+    "addr:city": "Areuse",
+    "addr:housenumber": "25",
+    "addr:postcode": "2015",
+    "addr:street": "Route du Vignoble",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Hong Kong Palace",
+    "opening_hours": "Tous les jours sauf lundi soir. Caf\u00e9 toute la journ\u00e9e.",
+    "phone": "+41 32 724 44 01",
+    "website": "https://www.hongkongpalace.ch/"
+  },
+  "id": 1668000201
+}

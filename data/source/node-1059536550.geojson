@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4267929,
+      47.1743849
+    ]
+  },
+  "properties": {
+    "id": 1059536550,
+    "addr:city": "H\u00fcnenberg",
+    "addr:housenumber": "9",
+    "addr:postcode": "6331",
+    "addr:street": "Chamerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "name": "Gasthaus Degen",
+    "opening_hours": "Tu-Fr 08:00-24:00; Sa 09:00-24:00; Su,Mo off",
+    "phone": "+41 41 780 12 54",
+    "start_date": "2026-06",
+    "website": "https://www.gasthausdegen.ch",
+    "wheelchair": "limited"
+  },
+  "id": 1059536550
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5802756,
+      46.5227635
+    ]
+  },
+  "properties": {
+    "id": 417877586,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "109",
+    "addr:postcode": "1015",
+    "addr:street": "UNIL - B\u00e2timent Unith\u00e8que",
+    "amenity": "restaurant",
+    "cuisine": "regional;italian",
+    "diet:vegetarian": "yes",
+    "fax": "+41 21 692 26 85",
+    "name": "Da Nino",
+    "opening_hours": "Mo, Tu 08:00-15:00; We-Sa 08:00-15:00, 17:30-00:00",
+    "phone": "+41 21 692 26 88",
+    "website": "http://www.nino-dorigny.ch"
+  },
+  "id": 417877586
+}

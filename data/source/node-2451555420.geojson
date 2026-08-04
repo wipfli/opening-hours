@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1855389,
+      46.1667983
+    ]
+  },
+  "properties": {
+    "id": 2451555420,
+    "addr:city": "Veyrier",
+    "addr:housenumber": "2",
+    "addr:postcode": "1255",
+    "addr:street": "Chemin Jules-Edouard-Gottret",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "facebook": "https://www.facebook.com/pages/Restaurant-Cercle-du-Sal%C3%A8ve/154879567877770",
+    "name": "Cercle du Sal\u00e8ve",
+    "opening_hours": "Mo 07:30-15:30; Tu-Fr 07:30-00:00; Sa 08:00-00:00",
+    "smoking": "outside",
+    "website": "http://www.cercle-du-saleve.com/"
+  },
+  "id": 2451555420
+}

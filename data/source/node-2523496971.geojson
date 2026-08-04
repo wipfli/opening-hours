@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5778659,
+      46.5364701
+    ]
+  },
+  "properties": {
+    "id": 2523496971,
+    "addr:city": "Chavannes-pr\u00e8s-Renens",
+    "addr:housenumber": "2",
+    "addr:postcode": "1022",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "delivery": "yes",
+    "name": "Le Dragon",
+    "opening_hours": "Mo-Su 11:30-15:00,17:30-23:00",
+    "phone": "+41 21 634 02 73",
+    "takeaway": "yes",
+    "website": "https://www.restodragon.ch/"
+  },
+  "id": 2523496971
+}

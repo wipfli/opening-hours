@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5298192,
+      46.6964161
+    ]
+  },
+  "properties": {
+    "id": 2089941505,
+    "addr:city": "Vaz/Obervaz",
+    "addr:housenumber": "47",
+    "addr:postcode": "7082",
+    "addr:street": "Voa Viglia",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Schyn",
+    "opening_hours": "We-Sa 10:30-21:00; Su 09:00-17:00",
+    "phone": "+41 81 384 12 62",
+    "website": "http://www.restaurant-schyn.ch"
+  },
+  "id": 2089941505
+}

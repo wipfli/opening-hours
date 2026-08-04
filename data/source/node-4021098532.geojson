@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5074349,
+      47.1766008
+    ]
+  },
+  "properties": {
+    "id": 4021098532,
+    "addr:city": "Zug",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "67 Sixtyseven Sportsbar",
+    "opening_hours": "24/7",
+    "outdoor_seating": "yes",
+    "website": "https://www.67sportsbar.ch/"
+  },
+  "id": 4021098532
+}

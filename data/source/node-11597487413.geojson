@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6217845,
+      46.5379721
+    ]
+  },
+  "properties": {
+    "id": 11597487413,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "5a",
+    "addr:postcode": "1018",
+    "addr:street": "Parc du Loup",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@histoiresansfaim.ch",
+    "indoor_seating": "yes",
+    "name": "Histoire sans Faim",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa,Su 09:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 648 22 22",
+    "website": "https://histoiresansfaim.ch"
+  },
+  "id": 11597487413
+}

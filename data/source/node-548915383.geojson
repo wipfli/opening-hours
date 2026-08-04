@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9445469,
+      47.2890907
+    ]
+  },
+  "properties": {
+    "id": 548915383,
+    "addr:city": "Zofingen",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "4800",
+    "addr:street": "Kirchplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-02-21",
+    "contact:phone": "+41 62 751 12 36",
+    "cuisine": "pizza",
+    "name": "La Lupa",
+    "opening_hours": "Mo off",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lupazofingen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 548915383
+}

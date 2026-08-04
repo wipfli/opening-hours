@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1080616,
+      46.1669513
+    ]
+  },
+  "properties": {
+    "id": 7166346291,
+    "addr:city": "Plan-les-Ouates",
+    "addr:housenumber": "5",
+    "addr:postcode": "1228",
+    "addr:street": "Chemin du Pr\u00e9 Fleuri",
+    "amenity": "restaurant",
+    "name": "Ma petite cantine",
+    "opening_hours": "Tu-Fr 10:00-18:00; Mo 12:00-18:00",
+    "phone": "+41 78 883 45 90",
+    "website": "https://www.mapetitecantine.ch/"
+  },
+  "id": 7166346291
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1202416,
+      47.5818036
+    ]
+  },
+  "properties": {
+    "id": 292327261,
+    "addr:city": "Weinfelden",
+    "addr:housenumber": "11",
+    "addr:postcode": "8570",
+    "addr:street": "Stelzenhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "655",
+    "email": "info@stelzenhof.ch",
+    "name": "Stelzenhof",
+    "opening_hours": "Mo-Sa 11:00-24:00; Sa 09:00-20:00",
+    "phone": "+41 71 622 40 10",
+    "toilets:wheelchair": "no",
+    "website": "https://www.stelzenhof.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 292327261
+}

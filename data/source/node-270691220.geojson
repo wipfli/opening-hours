@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5500485,
+      47.3690028
+    ]
+  },
   "properties": {
-    "@id": "node/270691220",
+    "id": 270691220,
     "addr:housenumber": "12",
     "addr:street": "Zeltweg",
     "amenity": "restaurant",
@@ -13,12 +20,5 @@
     "phone": "+41 44 260 89 29",
     "website": "https://www.mininesushi.com/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5500485,
-      47.3690028
-    ]
-  },
-  "id": "node-270691220"
+  "id": 270691220
 }

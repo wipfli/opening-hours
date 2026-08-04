@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5892479,
+      47.5447379
+    ]
+  },
+  "properties": {
+    "id": 1255857521,
+    "addr:city": "Basel",
+    "addr:housenumber": "138",
+    "addr:postcode": "4053",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "brand": "Wasabi",
+    "brand:wikidata": "Q23891278",
+    "brand:wikipedia": "en:Wasabi (restaurant)",
+    "check_date": "2026-03-22",
+    "check_date:opening_hours": "2026-03-22",
+    "cuisine": "japanese",
+    "name": "Wasabi",
+    "opening_hours": "Mo-Fr 11:30-14:00,16:30-20:00",
+    "phone": "+41 61 363 00 00",
+    "website": "https://wasabi2go.ch/"
+  },
+  "id": 1255857521
+}

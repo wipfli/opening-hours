@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.778531,
+      47.2017895
+    ]
+  },
+  "properties": {
+    "id": 6982228430,
+    "amenity": "restaurant",
+    "check_date": "2025-10-06",
+    "name": "Issgut",
+    "opening_hours": "Mo-Sa 11:30-13:15; Su off",
+    "phone": "+41 55 410 24 00",
+    "takeaway": "only",
+    "website": "https://issgut.ch",
+    "wheelchair": "no"
+  },
+  "id": 6982228430
+}

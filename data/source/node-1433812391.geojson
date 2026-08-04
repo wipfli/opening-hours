@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6281182,
+      46.5071933
+    ]
+  },
+  "properties": {
+    "id": 1433812391,
+    "addr:housenumber": "7",
+    "addr:postcode": "1006",
+    "addr:street": "Place du Port",
+    "amenity": "restaurant",
+    "contact:facebook": "https://facebook.com/pages/Creperie-dOuchy/340072269385363",
+    "contact:instagram": "https://instagram.com/explore/locations/3506929/creperie-douchy",
+    "cuisine": "crepe;french",
+    "diet:vegetarian": "yes",
+    "email": "ouchycrep@gmail.com",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Cr\u00eaperie d'Ouchy",
+    "opening_hours": "Mo-Fr 12:00-21:00; Sa,Su 11:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 26 07",
+    "website": "https://www.ouchycrep.ch",
+    "website:menu": "https://de.cdn-website.com/087e3d123e8240fc88b68f15fc319d76/files/uploaded/Cartepdfpourlesite_page-0002.jpg"
+  },
+  "id": 1433812391
+}

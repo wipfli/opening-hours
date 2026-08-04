@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2287272,
+      47.0603293
+    ]
+  },
+  "properties": {
+    "id": 2775930695,
+    "addr:city": "Walperswil",
+    "addr:housenumber": "9",
+    "addr:postcode": "3272",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "Traube",
+    "opening_hours": "Mo-Sa 08:30-14:00,17:00-23:00; We off; Su 08:30-22:00",
+    "phone": "+41 32 396 11 28",
+    "website": "https://www.traube-walperswil.ch/"
+  },
+  "id": 2775930695
+}

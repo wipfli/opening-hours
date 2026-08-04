@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6200029,
+      46.9474181
+    ]
+  },
+  "properties": {
+    "id": 1676893043,
+    "addr:city": "Walkringen",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "3512",
+    "addr:street": "Hauptstrasse",
+    "alt_name": "Gasthof B\u00e4ren Walkringen",
+    "amenity": "restaurant",
+    "contact:email": "info@baeren-walkringen.ch",
+    "contact:fax": "+41 31 7013710",
+    "contact:phone": "+41 31 7011276",
+    "contact:website": "http://www.baeren-walkringen.ch/index.php?p=2024",
+    "cuisine": "regional",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo 08:00-14:00; Tu-Th 08:00-23:30; Fr-Sa  08:00-00:30; Su 09:00-18:00",
+    "operator": "Gasthof B\u00e4ren Walkringen Barbara R\u00fcfenacht (Einzelunternehmen)",
+    "source": "survey and website",
+    "website": "http://www.baeren-walkringen.ch"
+  },
+  "id": 1676893043
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3601233,
+      46.2315555
+    ]
+  },
+  "properties": {
+    "id": 6630814256,
+    "addr:city": "Sion",
+    "addr:postcode": "1950",
+    "addr:street": "Espace des Remparts",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "description": "Restaurant chinois",
+    "name": "Chez Chou",
+    "opening_hours": "Mo-Sa 10:30-14:00; Tu-Th 18:00-22:00; Fr, Sa 18:00-00:00",
+    "website": "https://restaurantchezchou.ch/"
+  },
+  "id": 6630814256
+}

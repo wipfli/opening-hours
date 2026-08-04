@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5203938,
+      47.1842507
+    ]
+  },
+  "properties": {
+    "id": 10829626402,
+    "addr:city": "Baar",
+    "addr:housenumber": "69",
+    "addr:postcode": "6340",
+    "addr:street": "Zugerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "indoor_seating": "no",
+    "name": "Golden Dragon",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:30-21:00",
+    "outdoor_seating": "no",
+    "phone": "+41 41 711 20 10",
+    "takeaway": "only",
+    "website": "https://www.goldendragonzug.ch/"
+  },
+  "id": 10829626402
+}

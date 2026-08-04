@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9902446,
+      47.121003
+    ]
+  },
+  "properties": {
+    "id": 10985125417,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "China Garden",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:00-22:00; Sa 17:15-22:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.chinake.ch"
+  },
+  "id": 10985125417
+}

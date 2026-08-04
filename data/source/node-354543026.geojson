@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7084288,
+      47.3534217
+    ]
+  },
+  "properties": {
+    "id": 354543026,
+    "addr:floor": "0",
+    "addr:housenumber": "32",
+    "addr:street": "Brandstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-03",
+    "cuisine": "swiss;italian",
+    "email": "monalisauster@gmail.com",
+    "indoor_seating": "yes",
+    "name": "Mona Lisa",
+    "opening_hours": "Mo-Fr 10:00-14:30, 17:30-24:00; Sa 17:30-24:00; Su 10:00-14:30, 17:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 940 52 04",
+    "toilets:wheelchair": "no",
+    "website": "https://monalisarestaurant.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 354543026
+}

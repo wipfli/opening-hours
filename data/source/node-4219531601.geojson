@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4291414,
+      46.9544008
+    ]
+  },
+  "properties": {
+    "id": 4219531601,
+    "addr:housenumber": "46",
+    "addr:street": "Muesmattstrasse",
+    "amenity": "restaurant",
+    "brewery": "felsenau",
+    "check_date": "2024-09-05",
+    "contact:addr": "Muesmattstrasse 46, 3012 Bern",
+    "contact:email": "info@provisorium46.ch",
+    "contact:facebook": "https://www.facebook.com/provisorium46",
+    "contact:phone": "+41 77 5204598",
+    "contact:website": "https://www.provisorium46.ch/ueber-uns/kontakt/",
+    "description": "Nur Barzahlung. Kegelbahn",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Provisorium 46",
+    "old_name": "L\u00e4nggass St\u00fcbli",
+    "opening_hours": "Tu-Fr 11:00-14:30,16:00-23:30; Sa 17:00-23:30",
+    "operator": "Blindspot",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "reservation": "yes",
+    "source": "survey and website",
+    "sport": "9pin",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.provisorium46.ch",
+    "wheelchair": "yes"
+  },
+  "id": 4219531601
+}

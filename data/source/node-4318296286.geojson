@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1877443,
+      46.7269671
+    ]
+  },
+  "properties": {
+    "id": 4318296286,
+    "amenity": "restaurant",
+    "check_date": "2025-08-18",
+    "cuisine": "barbecue",
+    "email": "info@steakhouse-leopold.ch",
+    "name": "Steakhouse Leopold",
+    "opening_hours": "We-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 972 18 80",
+    "smoking": "outside",
+    "website": "http://www.steakhose-leopold.ch",
+    "wheelchair": "yes"
+  },
+  "id": 4318296286
+}

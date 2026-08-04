@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3906067,
+      46.9408357
+    ]
+  },
+  "properties": {
+    "id": 2950532982,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "121",
+    "addr:postcode": "3018",
+    "addr:street": "B\u00fcmplizstrasse",
+    "alt_name": "Gasthof zum Sternen",
+    "amenity": "restaurant",
+    "contact:email": "info@sternen-buempliz.ch",
+    "contact:fax": "+41 31 9917973",
+    "contact:phone": "+41 31 9917973",
+    "name": "Sternen",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa 09:00-23:30; Su off",
+    "operator": "Restaurant Sternen Cala d'or GmbH",
+    "source": "survey and website",
+    "website": "https://www.sternen-buempliz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2950532982
+}

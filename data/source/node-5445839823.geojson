@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6003745,
+      47.3980508
+    ]
+  },
+  "properties": {
+    "id": 5445839823,
+    "addr:city": "D\u00fcbendorf",
+    "addr:housenumber": "12",
+    "addr:postcode": "8600",
+    "addr:street": "Sonnentalstrasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "sandwich;coffee_shop",
+    "name": "Fresh Tastes",
+    "opening_hours": "Mo-Fr 06:30-21:00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://freshtastes.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5445839823
+}

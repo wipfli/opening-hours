@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154091,
+      47.375292
+    ]
+  },
   "properties": {
-    "@id": "node/1569509638",
+    "id": 1569509638,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "136",
     "addr:postcode": "8003",
@@ -16,12 +23,5 @@
     "website": "https://www.filflrestaurant.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5154091,
-      47.375292
-    ]
-  },
-  "id": "node-1569509638"
+  "id": 1569509638
 }

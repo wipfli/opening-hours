@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4487101,
+      46.9486119
+    ]
+  },
+  "properties": {
+    "id": 1214981933,
+    "addr:city": "Bern",
+    "alt_name": "Hotel Restaurant Goldener Schl\u00fcssel",
+    "amenity": "restaurant",
+    "contact:addr": "Rathausgasse 72, 3011 Bern",
+    "contact:email": "info@goldener-schluessel.ch",
+    "contact:fax": "+41 31 3115688",
+    "contact:phone": "+41 31 3110216",
+    "contact:website": "http://www.hotel-goldener-schluessel.ch",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Goldener Schl\u00fcssel",
+    "opening_hours": "Mo-Sa 07:00-23:30; Su off",
+    "operator": "Marianne & Jost Troxler",
+    "source": "website",
+    "stars": "3",
+    "website": "https://hotel-goldener-schluessel.ch/restaurant-bern",
+    "wheelchair": "no"
+  },
+  "id": 1214981933
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1346969,
+      47.436639
+    ]
+  },
+  "properties": {
+    "id": 877597551,
+    "alt_name": "Migros Restaurant Uzwil",
+    "amenity": "restaurant",
+    "branch": "Uzwil Birkenhof",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "check_date": "2025-04-26",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "self_service": "yes",
+    "start_date": "2021-11-18",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-uzwil-birkenhof",
+    "wheelchair": "yes"
+  },
+  "id": 877597551
+}

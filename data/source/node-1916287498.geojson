@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5223613,
+      47.3901439
+    ]
+  },
+  "properties": {
+    "id": 1916287498,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "318",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-07",
+    "cuisine": "sausage",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Wurst und Moritz",
+    "opening_hours": "Mo-We 11:00-22:00; Th-Sa 10:00-23:45; Su 11:00-22:00",
+    "opening_hours:covid19": "Mo-Su 11:00-18:00",
+    "outdoor_seating": "yes",
+    "source": "survey",
+    "website": "http://wurstundmoritz-zuerich.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1916287498
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2936345,
+      47.0558962
+    ]
+  },
+  "properties": {
+    "id": 4574572601,
+    "addr:city": "Luzern",
+    "addr:housenumber": "34",
+    "addr:postcode": "6004",
+    "addr:street": "St.-Karli-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "VyA - New Art of Pizza",
+    "opening_hours": "Mo-Sa 11:00-13:30, 17:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 228 20 00",
+    "website": "https://vyapizza.ch/"
+  },
+  "id": 4574572601
+}

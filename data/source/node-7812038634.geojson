@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1727177,
+      46.9199314
+    ]
+  },
+  "properties": {
+    "id": 7812038634,
+    "addr:city": "Elm",
+    "addr:postcode": "8767",
+    "amenity": "restaurant",
+    "email": "info@suworow.ch",
+    "name": "Suworow-Cheller",
+    "opening_hours": "Tu-Th 16:00-24:00, Fr,Sa 16:00-01:00",
+    "phone": "+41 55 642 17 31",
+    "website": "https://suworow.ch/",
+    "wheelchair": "no"
+  },
+  "id": 7812038634
+}

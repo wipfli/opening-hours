@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6318162,
+      47.6985827
+    ]
+  },
+  "properties": {
+    "id": 3936400738,
+    "amenity": "restaurant",
+    "contact:instagram": "http://www.instagram.com/seldas.ch",
+    "facebook": "https://www.facebook.com/Seldas.ch",
+    "indoor_seating": "yes",
+    "name": "Selda's",
+    "opening_hours": "Tu-Fr 15:00-23:00; Sa 15:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 620 10 00",
+    "smoking": "outside",
+    "website": "https://seldas.ch/restaurantbar/"
+  },
+  "id": 3936400738
+}

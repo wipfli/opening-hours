@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6521982,
+      46.5255177
+    ]
+  },
+  "properties": {
+    "id": 3003087489,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Au Charbon",
+    "opening_hours": "Tu-Fr 08:00-23:30; Sa 09:00-23:30",
+    "outdoor_seating": "yes",
+    "website": "http://www.pizza-charbon.ch/",
+    "website:menu": "https://www.pizzacharbon.ch/site/fr/la-carte/les-suggestions/"
+  },
+  "id": 3003087489
+}

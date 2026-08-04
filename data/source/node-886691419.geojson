@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7689565,
+      46.5332518
+    ]
+  },
+  "properties": {
+    "id": 886691419,
+    "amenity": "restaurant",
+    "amenity_1": "guest_house",
+    "diet:vegetarian": "yes",
+    "ele": "1867",
+    "email": "info@bundalp.ch",
+    "name": "Berghaus Bundalp",
+    "opening_hours": "Jun-Sep",
+    "phone": "+41 33 676 11 92",
+    "website": "https://www.bundalp.ch/"
+  },
+  "id": 886691419
+}

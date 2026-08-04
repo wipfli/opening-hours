@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6831789,
+      46.5051914
+    ]
+  },
+  "properties": {
+    "id": 441288618,
+    "addr:city": "Lutry",
+    "addr:housenumber": "107",
+    "addr:postcode": "1095",
+    "addr:street": "Route de Taillepied",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional;international",
+    "internet_access": "yes",
+    "name": "Restaurant Taillepied",
+    "opening_hours": "Mo-Fr 06:00-22:00; Sa 08:00-12:00; Su 08:00-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 791 35 68",
+    "website": "https://www.restotaillepied.ch/"
+  },
+  "id": 441288618
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3752698,
+      47.4234151
+    ]
+  },
+  "properties": {
+    "id": 5252166021,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "9000",
+    "addr:street": "Bankgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-22",
+    "check_date:opening_hours": "2026-06-22",
+    "indoor_seating": "yes",
+    "name": "Batt's",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00+",
+    "outdoor_seating": "yes",
+    "website": "https://batts.ch/"
+  },
+  "id": 5252166021
+}

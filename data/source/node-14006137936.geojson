@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3737474,
+      47.1400468
+    ]
+  },
+  "properties": {
+    "id": 14006137936,
+    "amenity": "restaurant",
+    "check_date": "2026-07-12",
+    "cuisine": "italian",
+    "email": "info@ilgrano.ch",
+    "name": "Il Grano",
+    "opening_hours": "Mo off; Tu-Sa 10:00-23:30; Su 10:00-17:00",
+    "phone": "+41 32 351 03 03",
+    "website": "https://www.ilgrano.ch/"
+  },
+  "id": 14006137936
+}

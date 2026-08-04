@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6237986,
+      47.5524699
+    ]
+  },
+  "properties": {
+    "id": 1615017684,
+    "addr:city": "Birsfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4127",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Restaurant Schmiede",
+    "opening_hours": "Mo-Sa 10:00-14:00, Mo-Sa 17:00-23:00, Su 10:00-14:00, Su 17:00-22:00",
+    "phone": "+41 61 313 89 18",
+    "website": "https://restaurant-schmiede.ch/"
+  },
+  "id": 1615017684
+}

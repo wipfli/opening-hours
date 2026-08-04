@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8038259,
+      47.4886565
+    ]
+  },
+  "properties": {
+    "id": 5575895524,
+    "addr:city": "R\u00e4terschen",
+    "addr:housenumber": "34",
+    "addr:postcode": "8352",
+    "addr:street": "R\u00e4terschenstrasse",
+    "amenity": "restaurant",
+    "name": "Wirtschaft zum Landhaus",
+    "opening_hours": "We-Sa 11:00-22:00, Su-Tu off",
+    "outdoor_seating": "yes",
+    "website": "https://www.gastro-tipp.ch/tipps_profile_detail.php?profileIDX=2558"
+  },
+  "id": 5575895524
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7890687,
+      47.1895655
+    ]
+  },
+  "properties": {
+    "id": 689999970,
+    "addr:city": "Lotzwil",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "4932",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Pizzeria Bahnhof",
+    "amenity": "restaurant",
+    "contact:email": "info@restaurant-bahnhof-lotzwil.ch",
+    "contact:phone": "+41 62 9221004",
+    "contact:website": "http://www.restaurant-bahnhof-lotzwil.ch/de/Kontakt",
+    "cuisine": "pizza",
+    "name": "Bahnhof",
+    "old_name": "Restaurant Bahnhof Lotzwil",
+    "opening_hours": "Mo off; Tu-Sa 08:00-23:30; Su 09:00-22:00",
+    "operator": "Familie Hanim Kilic",
+    "toilets:wheelchair": "no",
+    "tourism": "hotel",
+    "website": "http://www.restaurant-bahnhof-lotzwil.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 689999970
+}

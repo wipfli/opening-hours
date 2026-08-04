@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5392302,
+      47.3878521
+    ]
+  },
   "properties": {
-    "@id": "node/3381293318",
+    "id": 3381293318,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "48",
     "addr:postcode": "8006",
@@ -9,7 +16,7 @@
     "alt_name": "SimSim City",
     "amenity": "restaurant",
     "branch": "Z\u00fcrich Unterstrass",
-    "check_date": "2025-07-29",
+    "check_date": "2026-07-01",
     "cuisine": "lebanese",
     "indoor_seating": "yes",
     "name": "SimSim",
@@ -18,12 +25,5 @@
     "website": "https://sim-sim.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5392302,
-      47.3878521
-    ]
-  },
-  "id": "node-3381293318"
+  "id": 3381293318
 }

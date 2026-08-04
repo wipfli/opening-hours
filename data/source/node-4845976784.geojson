@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5377565,
+      47.3728894
+    ]
+  },
   "properties": {
-    "@id": "node/4845976784",
+    "id": 4845976784,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "57",
@@ -10,6 +17,8 @@
     "alt_name": "Coop Restaurant St. Annahof",
     "amenity": "restaurant",
     "branch": "Z\u00fcrich St. Annahof",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
     "level": "4",
     "name": "Coop Restaurant",
     "opening_hours": "Mo-Sa 09:00-20:00",
@@ -17,12 +26,5 @@
     "self_service": "yes",
     "website": "https://www.coop-restaurant.ch/de/restaurantfinder/finderdetailpage.2083.html"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5377565,
-      47.3728894
-    ]
-  },
-  "id": "node-4845976784"
+  "id": 4845976784
 }

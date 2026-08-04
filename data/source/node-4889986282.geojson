@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5026919,
+      47.3830141
+    ]
+  },
+  "properties": {
+    "id": 4889986282,
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "500",
+    "addr:postcode": "8048",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "email": "info@restaurantoval.ch",
+    "level": "2",
+    "name": "Oval",
+    "opening_hours": "Mo-Fr 11:30-14:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30",
+    "operator": "ZFV-Unternehmungen",
+    "website": "https://restaurantoval.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4889986282
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5089404,
+      47.181919
+    ]
+  },
+  "properties": {
+    "id": 12437307701,
+    "addr:city": "Zug",
+    "addr:housenumber": "26",
+    "addr:postcode": "6300",
+    "addr:street": "Allmendstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "barakkazug.ch",
+    "contact:instagram": "barakkazug.ch",
+    "cuisine": "mediterranean",
+    "internet_access": "wlan",
+    "name": "Barakka",
+    "opening_hours": "Mo-Th 11:00-14:30, 17:30-23:00; Fr 11:00-14:30, 17:30-00:00; Sa 12:00-00:00; Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 354 40 44",
+    "website": "https://www.barakkazug.ch",
+    "website:menu": "https://www.barakkazug.ch/speisekarte"
+  },
+  "id": 12437307701
+}

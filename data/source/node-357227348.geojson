@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289743,
+      47.372245
+    ]
+  },
   "properties": {
-    "@id": "node/357227348",
+    "id": 357227348,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "5",
@@ -19,12 +26,5 @@
     "website:menu": "https://casa-certo.ch/menu",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5289743,
-      47.372245
-    ]
-  },
-  "id": "node-357227348"
+  "id": 357227348
 }

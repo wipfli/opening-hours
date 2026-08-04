@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0034836,
+      46.7577086
+    ]
+  },
+  "properties": {
+    "id": 13763212705,
+    "amenity": "restaurant",
+    "name": "Auberge St Claude",
+    "opening_hours": "Mo off; Tu-Fr 08:30-24:00; Sa 09:00-24:00; Su 10:00-17:00",
+    "website": "https://auberge-st-claude.ch/"
+  },
+  "id": 13763212705
+}

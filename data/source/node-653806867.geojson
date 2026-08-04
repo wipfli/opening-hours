@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3068381,
+      47.4721867
+    ]
+  },
+  "properties": {
+    "id": 653806867,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "5400",
+    "addr:street": "Cordulaplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "cuisine": "spanish",
+    "email": "hola@bodegabar.ch",
+    "fax": "+41 56 221 08 92",
+    "indoor_seating": "yes",
+    "name": "Bodega Bar",
+    "opening_hours": "Tu,We 16:00-23:00; Th,Fr 11:45-14:00,16:00-23:00; Sa 11:45-24:00; Su,Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 222 62 17",
+    "website": "http://www.bodegabar.ch/"
+  },
+  "id": 653806867
+}

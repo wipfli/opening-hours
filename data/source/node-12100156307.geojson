@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6073036,
+      47.5595485
+    ]
+  },
+  "properties": {
+    "id": 12100156307,
+    "access": "private",
+    "addr:city": "Basel",
+    "addr:postcode": "4070",
+    "amenity": "restaurant",
+    "level": "12",
+    "name": "Atelier",
+    "opening_hours": "Mo-Fr 08:00-15:30",
+    "website": "https://tavero.roche.com/menu/Restaurant%20Atelier,%20Bau%20002,%2012.%20OG%20/Atelier%20Restaurant"
+  },
+  "id": 12100156307
+}

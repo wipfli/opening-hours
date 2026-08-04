@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289781,
+      47.3730187
+    ]
+  },
   "properties": {
-    "@id": "node/316839692",
+    "id": 316839692,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "27",
@@ -20,12 +27,5 @@
     "website": "https://masala.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5289781,
-      47.3730187
-    ]
-  },
-  "id": "node-316839692"
+  "id": 316839692
 }

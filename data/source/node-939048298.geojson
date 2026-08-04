@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5366033,
+      47.2075725
+    ]
+  },
+  "properties": {
+    "id": 939048298,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "41",
+    "addr:postcode": "4500",
+    "addr:street": "Hauptgasse",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "email": "solothurn@elmexicano.ch",
+    "level": "0",
+    "name": "El Mexicano",
+    "opening_hours": "Mo-Su 11:30-21:45",
+    "phone": "+41325314200",
+    "toilets": "yes",
+    "tourism": "hotel",
+    "website": "https://solothurn.elmexicano.ch/",
+    "website:menu": "https://solothurn.elmexicano.ch/wp-content/uploads/2025/04/MENU-EL-MEXICANO-2025_gedruckt.pdf",
+    "wheelchair": "no"
+  },
+  "id": 939048298
+}

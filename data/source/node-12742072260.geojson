@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445857,
+      47.5214036
+    ]
+  },
+  "properties": {
+    "id": 12742072260,
+    "addr:city": "B\u00fclach",
+    "addr:postcode": "8180",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Landessa",
+    "note": "This is a staff restaurant of a nearby business, but they welcome everyone. Usually open during the working week, except on public holidays, bridge days and on rare special occasions. Serves lunch only. Some menus require pre-ordering. Cash payments only!",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 58 500 2525",
+    "website": "https://landessa.landert.com/index.php"
+  },
+  "id": 12742072260
+}

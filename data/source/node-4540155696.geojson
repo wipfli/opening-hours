@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5872285,
+      47.5576375
+    ]
+  },
+  "properties": {
+    "id": 4540155696,
+    "addr:housenumber": "6",
+    "addr:postcode": "4001",
+    "addr:street": "Hutgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "cuisine": "italian_pizza",
+    "indoor_seating": "yes",
+    "name": "Ramazzotti",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:00-23:00; Sa 11:30-23:00; Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41612622030",
+    "smoking": "outside",
+    "website": "https://ramazzotti-basel.ch"
+  },
+  "id": 4540155696
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9345252,
+      47.3112432
+    ]
+  },
+  "properties": {
+    "id": 11090525961,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "email": "oftringen@hansimglueck-burgergrill.ch",
+    "level": "0",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Su-Th 11:00-00:00; Fr-Sa 11:00-01:00",
+    "opening_hours:kitchen": "Su-Th 11:00-23:30; Fr-Sa 11:00-00:30",
+    "phone": "+41 62 511 25 55",
+    "takeaway": "yes",
+    "website": "https://hansimglueck-burgergrill.ch/burger-restaurant/oftringen-you-event-center/"
+  },
+  "id": 11090525961
+}

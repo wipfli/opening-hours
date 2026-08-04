@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1493765,
+      46.7980063
+    ]
+  },
+  "properties": {
+    "id": 11044664406,
+    "addr:postcode": "1700",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "name": "Pizzeria des Arsenaux",
+    "opening_hours": "Mo-Su 11:00-14:00,18:00-23:00",
+    "phone": "+41263221111",
+    "website": "https://www.lesarsenaux8.ch/"
+  },
+  "id": 11044664406
+}

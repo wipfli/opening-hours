@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3872483,
+      47.4308514
+    ]
+  },
+  "properties": {
+    "id": 13610155578,
+    "amenity": "restaurant",
+    "name": "Seasons",
+    "opening_hours": "Mo-Fr 11:00-14:00; PH off",
+    "website": "https://www.h-och.ch/aufenthalt/gastronomie-services/restaurants-cafes/",
+    "wheelchair": "yes"
+  },
+  "id": 13610155578
+}

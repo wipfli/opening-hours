@@ -1,20 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/4833061571",
-    "addr:city": "Z\u00fcrich",
-    "addr:country": "CH",
-    "addr:housenumber": "51",
-    "addr:postcode": "8008",
-    "addr:street": "Seefeldquai",
-    "amenity": "restaurant",
-    "name": "Restaurant Kiosk",
-    "opening_hours": "Mo-Su 10:00-17:00",
-    "operator": "Pumpstation Gastro",
-    "outdoor_seating": "yes",
-    "website": "https://restaurant-kiosk.ch/",
-    "wheelchair": "yes"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -22,5 +7,26 @@
       47.358135
     ]
   },
-  "id": "node-4833061571"
+  "properties": {
+    "id": 4833061571,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "51",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldquai",
+    "amenity": "restaurant",
+    "contact:facebook": "peclard.kiosk",
+    "contact:instagram": "restaurant_kiosk",
+    "cuisine": "italian",
+    "email": "info@restaurant-kiosk.ch",
+    "name": "Restaurant Kiosk",
+    "opening_hours": "Mo-Su 10:00-00:00",
+    "operator": "Pumpstation Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41438186050",
+    "website": "https://restaurant-kiosk.ch/",
+    "website:menu": "https://www.restaurant-kiosk.ch/media/kiosk_speisekarte-de.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 4833061571
 }

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5376996,
+      47.2046585
+    ]
+  },
+  "properties": {
+    "id": 12801267001,
+    "addr:housenumber": "13",
+    "addr:postcode": "4509",
+    "addr:street": "Rossmarktplatz",
+    "amenity": "restaurant",
+    "name": "Mezami",
+    "opening_hours": "Mo-Sa 17:30-23:30",
+    "phone": "+41 31 317 23 33",
+    "website": "https://www.mezami.ch/"
+  },
+  "id": 12801267001
+}

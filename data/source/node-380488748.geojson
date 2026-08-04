@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7313796,
+      47.4991725
+    ]
+  },
+  "properties": {
+    "id": 380488748,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "26",
+    "addr:postcode": "8400",
+    "addr:street": "Oberer Graben",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-06-02",
+    "cuisine": "italian",
+    "name": "Punto e Pasta",
+    "opening_hours": "Oct 01-Apr 30: Su-Th 11:00-22:00; Oct 01-Apr 30: Fr-Sa 11:00-22:30; May 01-Sep 30: Mo-Su 11:00-23:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "website": "https://punto-et-pasta.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 380488748
+}

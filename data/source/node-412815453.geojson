@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8434204,
+      46.4612394
+    ]
+  },
+  "properties": {
+    "id": 412815453,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Simplon",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-03-09",
+    "contact:facebook": "https://www.facebook.com/MolinoVevey",
+    "contact:instagram": "pizzeria_ristorante_molino/",
+    "cuisine": "italian",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "fax": "+41 21 925 95 46",
+    "name": "Pizzeria Ristorante Molino",
+    "opening_hours": "Mo-Sa 10:00-23:00; Su 11:00-23:00",
+    "phone": "+41 21 925 95 45",
+    "takeaway": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://molino.ch/fr/restaurants/pizzeria-ristorante-molino-vevey/",
+    "wheelchair": "limited"
+  },
+  "id": 412815453
+}

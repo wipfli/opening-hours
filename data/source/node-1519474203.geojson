@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7627865,
+      47.4853872
+    ]
+  },
+  "properties": {
+    "id": 1519474203,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "40",
+    "addr:postcode": "8405",
+    "addr:street": "Hinterdorfstrasse",
+    "alt_name": "Migros Restaurant Seen",
+    "amenity": "restaurant",
+    "branch": "Winterthur Seen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-We 08:00-19:00; Th,Fr 08:00-20:00; Sa 08:00-18:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "outdoor_seating": "no",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-winterthur-seen"
+  },
+  "id": 1519474203
+}

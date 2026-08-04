@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4895537,
+      47.3912313
+    ]
+  },
+  "properties": {
+    "id": 3806522222,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterplatz",
+    "alt_name": "Scent of Bamboo Altstetten",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten Bahnhof",
+    "check_date:opening_hours": "2025-10-10",
+    "cuisine": "chinese;thai",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Scent of Bamboo",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "parklet",
+    "phone": "+41 43 817 09 50",
+    "takeaway": "yes",
+    "website": "https://scentofbamboo.ch/restaurant/altstetten/"
+  },
+  "id": 3806522222
+}

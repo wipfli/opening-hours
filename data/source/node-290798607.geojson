@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4219991,
+      46.9754669
+    ]
+  },
+  "properties": {
+    "id": 290798607,
+    "alt_name": "M\u00f6\u00f6sli",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-09-08",
+    "cuisine": "portuguese",
+    "name": "Familia Portuguesa",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:30-22:30; Sa 17:30-22:30; Su 17:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 533 19 19",
+    "website": "https://www.familiaportuguesa.ch/"
+  },
+  "id": 290798607
+}

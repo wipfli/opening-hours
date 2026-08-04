@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3750726,
+      47.4231155
+    ]
+  },
+  "properties": {
+    "id": 8151191377,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "9000",
+    "addr:street": "Webergasse",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza;italian;pizza;pasta",
+    "diet:vegetarian": "yes",
+    "name": "la bocca",
+    "opening_hours": "Mo-Sa 10:30-23:00; Su off",
+    "phone": "+41 71 511 22 58",
+    "website": "https://labocca.ch/city/"
+  },
+  "id": 8151191377
+}

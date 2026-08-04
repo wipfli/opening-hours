@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4289738,
+      46.9487525
+    ]
+  },
+  "properties": {
+    "id": 2701064649,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "3012",
+    "addr:street": "Lindenrain",
+    "alcohol": "no",
+    "alt_name": "Treffpunkt Azzurro",
+    "amenity": "restaurant",
+    "contact:email": "info@azzurro-bern.ch",
+    "contact:phone": "+41 31 3057353",
+    "name": "Azzurro",
+    "old_name": "Caf\u00e9 Azzurro",
+    "opening_hours": "Mo 14:00-21:00; Tu off; We 14:00-21:00; Th 14:00-18:00; Fr 14:00-21:00; Sa off; Su 15:00-21:00",
+    "source": "survey and website",
+    "website": "https://www.azzurro-bern.ch/"
+  },
+  "id": 2701064649
+}

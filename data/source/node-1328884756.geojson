@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0165845,
+      46.2053669
+    ]
+  },
+  "properties": {
+    "id": 1328884756,
+    "amenity": "restaurant",
+    "name": "Restaurant Le Chalet des Bains",
+    "name:en": "Chalet restaurant of the baths",
+    "opening_hours": "Mo-Su 12:00-14:00, 19:00-21:30",
+    "phone": "+41 24 486 15 67;+41 24 486 15 15",
+    "website": "https://www.bains-lavey.ch/fr/restaurants-bars/le-chalet-des-bains/"
+  },
+  "id": 1328884756
+}

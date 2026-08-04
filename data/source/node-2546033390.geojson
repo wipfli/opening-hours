@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7258319,
+      47.5013027
+    ]
+  },
+  "properties": {
+    "id": 2546033390,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "74",
+    "addr:postcode": "8400",
+    "addr:street": "Museumstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-10-02",
+    "name": "Cooperativa Gusto & Cultura",
+    "opening_hours": "Tu-Sa 11:00-14:00, 17:00-22:00",
+    "website": "https://www.cooperativagustoecultura.ch/"
+  },
+  "id": 2546033390
+}

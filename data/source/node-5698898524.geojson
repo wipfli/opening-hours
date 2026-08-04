@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.581705,
+      47.5615953
+    ]
+  },
+  "properties": {
+    "id": 5698898524,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "level": "-1",
+    "name": "Centro USB",
+    "opening_hours": "Mo-Fr 11:00-13:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.unispital-basel.ch/fr/das-universitaetsspital/bereiche/personal-betrieb/hotellerie/restauration/centro-centrino/"
+  },
+  "id": 5698898524
+}

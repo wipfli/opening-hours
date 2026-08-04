@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0453016,
+      47.3932395
+    ]
+  },
+  "properties": {
+    "id": 1675790475,
+    "addr:street": "Laurenzentorgasse",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop",
+    "email": "panini@culturacaffe.ch",
+    "name": "PANINI Cultura Caff\u00e8",
+    "opening_hours": "Tu-Th 11:00-23:00; Fr 11:00-00:00; Sa 09:00-00:00; Su 14:00-21:00",
+    "phone": "+41 62 822 22 20",
+    "website": "https://www.paniniaarau.ch/"
+  },
+  "id": 1675790475
+}

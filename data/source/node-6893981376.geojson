@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7778273,
+      47.2007427
+    ]
+  },
+  "properties": {
+    "id": 6893981376,
+    "amenity": "restaurant",
+    "check_date": "2025-10-06",
+    "cuisine": "chinese",
+    "level": "1",
+    "name": "Lung Fung",
+    "opening_hours": "Mo,We-Fr,Su 11:30-14:00,18:00-24:00; Tu 11:30-14:00; Sa 18:00-24:00",
+    "takeaway": "yes",
+    "website": "https://www.restaurantlungfung.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6893981376
+}

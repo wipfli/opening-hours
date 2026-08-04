@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6120673,
+      46.5173336
+    ]
+  },
+  "properties": {
+    "id": 728370371,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "1",
+    "addr:postcode": "1007",
+    "addr:street": "Chemin de Contigny",
+    "amenity": "restaurant",
+    "cuisine": "brazilian",
+    "diet:meat": "yes",
+    "name": "Le Mont d'or",
+    "opening_hours": "Mo-Sa 10:30-14:30,17:30-23:00; Su 11:00-23:00",
+    "phone": "+41 21 617 00 10",
+    "website": "https://www.restaurant-lemontdor.ch/"
+  },
+  "id": 728370371
+}

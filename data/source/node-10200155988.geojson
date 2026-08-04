@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5664019,
+      46.5341102
+    ]
+  },
+  "properties": {
+    "id": 10200155988,
+    "addr:city": "Ecublens (VD)",
+    "addr:housenumber": "3",
+    "addr:postcode": "1024",
+    "addr:street": "Chemin du Croset",
+    "amenity": "restaurant",
+    "cuisine": "international;steak_house;dessert;salad;pasta;sandwich;burger;juice;regional;german",
+    "name": "Coop Restaurant Ecublens",
+    "opening_hours": "Mo-Th 07:30-19:30; Fr 07:30-20:00; Sa 07:30-18:00",
+    "phone": "+41 21 694 21 66",
+    "website": "https://www.coop.ch/fr/"
+  },
+  "id": 10200155988
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4169564,
+      46.9353244
+    ]
+  },
+  "properties": {
+    "id": 283213494,
+    "amenity": "restaurant",
+    "contact:email": "geniessen@lebeizli.ch",
+    "contact:phone": "+41 31 9711164",
+    "diet:vegetarian": "yes",
+    "name": "le beizli",
+    "opening_hours": "Tu-Fr 11:30-23:30; Sa 17:30-23:30",
+    "operator": "KG Gastrokultur GmbH",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "website": "https://www.lebeizli.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 283213494
+}

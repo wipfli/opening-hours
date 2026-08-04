@@ -1,3 +1,0 @@
-Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
-Call log:
-  - navigating to "info@glockenhof.ch", waiting until "networkidle"

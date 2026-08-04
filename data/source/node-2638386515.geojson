@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3096902,
+      47.0706595
+    ]
+  },
+  "properties": {
+    "id": 2638386515,
+    "addr:city": "Lyss",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3250",
+    "addr:street": "Bernstrasse",
+    "alt_name": "Restaurant B\u00e4ren",
+    "amenity": "restaurant",
+    "contact:email": "info@baeren-lyss.ch",
+    "contact:fax": "+41 32 3843156",
+    "contact:phone": "+41 32 3841329",
+    "name": "B\u00e4ren",
+    "old_name": "Gasthof B\u00e4ren",
+    "opening_hours": "Mo off; Tu-Th 08:30-23:30; Fr-Sa 08:30-00:30; Su 10:00-22:30",
+    "operator": "Ursula + Werner Schirmer",
+    "source": "survey",
+    "website": "https://www.baeren-lyss.ch/"
+  },
+  "id": 2638386515
+}

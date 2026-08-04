@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2603454,
+      47.3889704
+    ]
+  },
+  "properties": {
+    "id": 9364646672,
+    "addr:city": "Herisau",
+    "addr:housenumber": "76",
+    "addr:postcode": "9100",
+    "addr:street": "Degersheimerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Engel",
+    "opening_hours": "Mo 08:30-24:00; Tu 08:30-14:00; Th-Fr 08:30-24:00; Sa 16:00-24:00; Su 10:00-22:00",
+    "phone": "+41 71 351 18 77",
+    "website": "https://www.engel.rest/"
+  },
+  "id": 9364646672
+}

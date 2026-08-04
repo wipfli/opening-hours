@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2776776,
+      47.0344518
+    ]
+  },
+  "properties": {
+    "id": 13347401990,
+    "addr:city": "Kriens",
+    "addr:housenumber": "1",
+    "addr:postcode": "6010",
+    "addr:street": "Waldheimstrasse",
+    "amenity": "restaurant",
+    "email": "office@centralkriens.ch",
+    "end_date": "2025-12-19",
+    "name": "Central",
+    "opening_hours": "Tu-Fr 11:45-21:30",
+    "phone": "+41 41 329 83 83",
+    "website": "https://www.centralkriens.ch/"
+  },
+  "id": 13347401990
+}

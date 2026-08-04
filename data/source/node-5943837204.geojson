@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8453245,
+      47.2595546
+    ]
+  },
+  "properties": {
+    "id": 5943837204,
+    "addr:city": "R\u00fcti (ZH)",
+    "addr:housenumber": "23",
+    "addr:postcode": "8630",
+    "addr:street": "Spitalstrasse",
+    "amenity": "restaurant",
+    "name": "Sch\u00f6negg",
+    "opening_hours": "Mo-Fr 16:00-23:00; Sa 17:00-23:00; Su 10:00-17:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.schoenegg-rueti.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5943837204
+}

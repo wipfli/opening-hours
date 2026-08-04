@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3111267,
+      47.0570701
+    ]
+  },
+  "properties": {
+    "id": 3673086990,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Angolo",
+    "opening_hours": "Th 11:00-14:30,17:30-22:00",
+    "outdoor_seating": "no",
+    "website": "http://angolopizza-luzern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3673086990
+}

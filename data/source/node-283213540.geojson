@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4303738,
+      46.9362287
+    ]
+  },
+  "properties": {
+    "id": 283213540,
+    "alt_name": "Restaurant Bahnhof Weissenb\u00fchl",
+    "amenity": "restaurant",
+    "contact:addr": "Chutzenstrasse 30, 3007 Bern",
+    "contact:email": "info@rest-bahnhofweissebuehl.ch",
+    "contact:fax": "+41 31 3721602",
+    "contact:phone": "+41 31 3721602",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Bahnhof Weissenb\u00fchl",
+    "opening_hours": "Mo-Fr 07:00-23:30; Sa-Su 10:00-22:00",
+    "operator": "Markus Horisberger",
+    "source": "survey and website",
+    "website": "https://www.rest-bahnhofweissenbuehl.ch/"
+  },
+  "id": 283213540
+}

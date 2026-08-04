@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.276156,
+      47.0448622
+    ]
+  },
+  "properties": {
+    "id": 3114422607,
+    "amenity": "restaurant",
+    "contact:addr": "Stadtplatz 20, 3270 Aarberg",
+    "contact:email": "info@commerce-aarberg.com",
+    "contact:facebook": "https://de-de.facebook.com/commerce.aarberg",
+    "contact:instagram": "https://www.instagram.com/commerce_aarberg",
+    "contact:phone": "+41 32 3924545",
+    "cuisine": "international",
+    "name": "Commerce",
+    "opening_hours": "Tu-Sa 08:00-14:30,17:00-23:00; Mo off; Su off",
+    "operator": "Commerce Aarberg GmbH",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.commerce-aarberg.com/",
+    "wheelchair": "yes",
+    "wheelchair:description": "WC im 2. UG (mit Lift erreichbar). Vorher beim Personal den Schl\u00fcssel verlangen."
+  },
+  "id": 3114422607
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4576532,
+      46.9497684
+    ]
+  },
+  "properties": {
+    "id": 259025168,
+    "amenity": "restaurant",
+    "contact:addr": "L\u00e4uferplatz 6, 3011 Bern",
+    "contact:email": "info@casa-novo.ch",
+    "contact:facebook": "https://www.facebook.com/pages/Casa-Novo/23878806248",
+    "contact:phone": "+41 31 9924444",
+    "name": "Casa Novo",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:30, 17:30-23:30; Sa 17:00-23:30; Su 11:30-22:00",
+    "operator": "Casa Novo GmbH",
+    "source": "survey and website",
+    "website": "https://www.casa-novo.ch"
+  },
+  "id": 259025168
+}

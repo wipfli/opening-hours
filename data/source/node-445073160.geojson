@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3660515,
+      47.4195263
+    ]
+  },
+  "properties": {
+    "id": 445073160,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "8",
+    "addr:postcode": "9000",
+    "addr:street": "Geltenwilenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "schweizerisch",
+    "indoor_seating": "yes",
+    "name": "Gartenhaus",
+    "opening_hours": "Mo-Fr 08:30-14:00,17:00-23:30; Sa-Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 222 71 67",
+    "website": "https://www.gartenhaus-sg.ch/"
+  },
+  "id": 445073160
+}

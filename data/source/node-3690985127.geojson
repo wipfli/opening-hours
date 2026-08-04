@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5150387,
+      47.1674232
+    ]
+  },
+  "properties": {
+    "id": 3690985127,
+    "addr:city": "Zug",
+    "addr:housenumber": "3",
+    "addr:postcode": "6300",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "thai",
+    "diet:pescetarian": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@gotthaerdli.ch",
+    "name": "Gotth\u00e4rdli am See",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa,Su 17:30-22:00; PH 17:30-22:00",
+    "phone": "+41 41 711 09 04",
+    "website": "https://www.gotthaerdli.ch/"
+  },
+  "id": 3690985127
+}

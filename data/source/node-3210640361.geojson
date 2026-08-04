@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6325139,
+      46.5225918
+    ]
+  },
+  "properties": {
+    "id": 3210640361,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1005",
+    "addr:street": "Place de la Riponne",
+    "amenity": "restaurant",
+    "drink:beer": "yes",
+    "drink:cocktail": "yes",
+    "drink:wine": "yes",
+    "indoor_seating": "yes",
+    "lgbtq": "welcome",
+    "name": "Le Comptoir des 3 Places",
+    "opening_hours": "Tu-Sa 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 218 54 00",
+    "website": "https://www.lecomptoirdes3places.ch/"
+  },
+  "id": 3210640361
+}

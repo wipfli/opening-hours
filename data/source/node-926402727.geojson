@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8748028,
+      46.472421
+    ]
+  },
+  "properties": {
+    "id": 926402727,
+    "addr:city": "Saint-L\u00e9gier-La Chi\u00e9saz",
+    "addr:housenumber": "4",
+    "addr:postcode": "1806",
+    "addr:street": "Route des Deux-Villages",
+    "amenity": "restaurant",
+    "cuisine": "salad;burger;fish;tartare;beef;chocolate_cake;profiteroles;ice_cream;pork;pasta",
+    "delivery": "no",
+    "name": "Caf\u00e9 de la Place",
+    "opening_hours": "Tu-Fr 11:00-14:30; Tu-Fr 17:00-23:30; Sa 10:30-15:00; Sa 17:00-23:30",
+    "phone": "+41 21 943 10 37",
+    "website": "https://www.cafedelaplace.ch/"
+  },
+  "id": 926402727
+}

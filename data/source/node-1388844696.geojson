@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9446652,
+      46.3106406
+    ]
+  },
+  "properties": {
+    "id": 1388844696,
+    "amenity": "restaurant",
+    "cuisine": "indian;pakistani",
+    "mobile": "+41 76 320 74 28",
+    "name": "Nirvana",
+    "opening_hours": "Mo-Th 12:00-15:00,18:30-21:30; Fr,Sa 12:00-22:00",
+    "website": "https://www.nirvanalounge.ch/"
+  },
+  "id": 1388844696
+}

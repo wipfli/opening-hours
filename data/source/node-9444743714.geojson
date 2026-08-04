@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3553408,
+      46.2283731
+    ]
+  },
+  "properties": {
+    "id": 9444743714,
+    "addr:city": "Sion",
+    "addr:housenumber": "15",
+    "addr:postcode": "1950",
+    "addr:street": "Avenue de France",
+    "amenity": "restaurant",
+    "cuisine": "pasta",
+    "name": "Pasta Connection",
+    "opening_hours": "Mo-We 09:00-14:00; Th,Fr 09:00-14:00,18:00-20:15; Su 18:00-20:15",
+    "phone": "+41 27 322 22 52",
+    "website": "https://www.pastaconnection.ch/"
+  },
+  "id": 9444743714
+}

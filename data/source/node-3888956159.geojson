@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5959659,
+      47.5512758
+    ]
+  },
+  "properties": {
+    "id": 3888956159,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Restaurant Aeschenplatz",
+    "opening_hours": "Mo-Fr 09:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 271 38 55",
+    "smoking": "outside",
+    "website": "https://www.aeschenplatz.ch/"
+  },
+  "id": 3888956159
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2917865,
+      47.4877543
+    ]
+  },
+  "properties": {
+    "id": 7618556590,
+    "addr:city": "Nussbaumen AG",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "5415",
+    "addr:street": "Schulstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-15",
+    "cuisine": "pizza;kebab",
+    "currency:XBT": "yes",
+    "name": "Fullhaus Pizza Kebab",
+    "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 12:00-22:00",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "yes",
+    "phone": "+41 56 296 80 92",
+    "website": "https://fullhaus-nussbaumen.business.site/"
+  },
+  "id": 7618556590
+}

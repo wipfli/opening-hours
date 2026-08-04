@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9096203,
+      47.3468946
+    ]
+  },
+  "properties": {
+    "id": 602689067,
+    "addr:city": "Olten",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "4600",
+    "addr:street": "Louis-Giroud-Strasse",
+    "alt_name": "Migros Restaurant S\u00e4lipark",
+    "amenity": "restaurant",
+    "branch": "Olten S\u00e4lipark",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-We,Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-18:00",
+    "operator": "Genossenschaft Migros Aare",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-olten-saelipark",
+    "wheelchair": "yes"
+  },
+  "id": 602689067
+}

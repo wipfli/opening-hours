@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5620099,
+      47.2975976
+    ]
+  },
+  "properties": {
+    "id": 534844700,
+    "addr:housenumber": "50",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-15",
+    "cuisine": "chinese",
+    "email": "kunming-ch@hotmail.com",
+    "level": "0",
+    "name": "Kunming",
+    "opening_hours": "Mo-Tu,Th-Fr 11:30-14:00,17:45-22:30; Sa-Su 17:45-22:30",
+    "phone": "+41 44 720 31 71",
+    "website": "http://www.kunming-thalwil.ch"
+  },
+  "id": 534844700
+}

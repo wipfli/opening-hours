@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7310214,
+      46.6603777
+    ]
+  },
+  "properties": {
+    "id": 9592007788,
+    "addr:city": "Krattigen",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "3704",
+    "addr:street": "Risegasse",
+    "amenity": "restaurant",
+    "email": "info@seeblick-krattigen.ch",
+    "fax": "+41 33 655 03 13",
+    "name": "Seeblick",
+    "opening_hours": "Mo,Th,Su 08:30-23:00; Fr,Sa 08:30-24:00; Tu,We off",
+    "operator": "Monika und Samuel Baumann-Pfyl",
+    "phone": "+41 33 654 29 69",
+    "tourism": "hotel",
+    "website": "http://www.seeblick-krattigen.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9592007788
+}

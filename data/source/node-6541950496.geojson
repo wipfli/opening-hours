@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4537282,
+      46.9582362
+    ]
+  },
+  "properties": {
+    "id": 6541950496,
+    "addr:city": "Bern",
+    "addr:housenumber": "11",
+    "addr:postcode": "3013",
+    "addr:street": "Breitenrainstrasse",
+    "alt_name": "Migros Restaurant Breitenrain",
+    "amenity": "restaurant",
+    "branch": "Bern Breitenrain",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date": "2026-02-15",
+    "check_date:diet:vegetarian": "2026-02-15",
+    "cuisine": "international",
+    "diet:vegetarian": "yes",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-bern-breitenrain"
+  },
+  "id": 6541950496
+}

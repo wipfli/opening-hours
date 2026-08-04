@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287676,
+      47.3468443
+    ]
+  },
   "properties": {
-    "@id": "node/1536879758",
+    "id": 1536879758,
     "addr:housenumber": "137",
     "addr:street": "Mutschellenstrasse",
     "amenity": "restaurant",
@@ -15,12 +22,5 @@
     "website": "https://www.restaurantallegro.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5287676,
-      47.3468443
-    ]
-  },
-  "id": "node-1536879758"
+  "id": 1536879758
 }

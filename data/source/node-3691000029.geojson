@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5176065,
+      47.1724415
+    ]
+  },
+  "properties": {
+    "id": 3691000029,
+    "amenity": "restaurant",
+    "check_date": "2025-05-01",
+    "cuisine": "italian",
+    "level": "0",
+    "name": "La Taverna",
+    "opening_hours": "Mo-Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://taverna-zug.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3691000029
+}

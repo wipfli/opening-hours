@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3588701,
+      46.2316051
+    ]
+  },
+  "properties": {
+    "id": 10020757568,
+    "addr:city": "Sion",
+    "addr:housenumber": "8",
+    "addr:postcode": "1950",
+    "addr:street": "Rue de la Dent-Blanche",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Izakaya",
+    "opening_hours": "Mo 11:00-13:30; Tu-Fr 10:00-14:00",
+    "phone": "+41 27 323 73 73",
+    "website": "http://www.japongourmand.ch"
+  },
+  "id": 10020757568
+}

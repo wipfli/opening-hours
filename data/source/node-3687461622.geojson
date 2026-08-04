@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6277297,
+      46.5124076
+    ]
+  },
+  "properties": {
+    "id": 3687461622,
+    "addr:housenumber": "4",
+    "addr:street": "Avenue de Cour",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "name": "L'ardoise",
+    "opening_hours": "Mo-Fr 12:00-14:00, Tu-Sa 19:00-23:00",
+    "phone": "+41 21 613 07 00",
+    "stars": "4",
+    "website": "https://www.carltonlausanne.com/bar-restaurant"
+  },
+  "id": 3687461622
+}

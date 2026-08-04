@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4927361,
+      47.3818434
+    ]
+  },
+  "properties": {
+    "id": 11833075406,
+    "amenity": "restaurant",
+    "check_date": "2026-03-23",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Kantine F+F",
+    "opening_hours": "Mo-Fr 10:00-15:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "phone": "+41 78 264 72 00",
+    "takeaway": "yes",
+    "website": "https://www.ffkantine.ch/"
+  },
+  "id": 11833075406
+}

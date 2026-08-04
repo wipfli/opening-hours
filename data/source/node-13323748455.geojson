@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8950736,
+      47.2614425
+    ]
+  },
+  "properties": {
+    "id": 13323748455,
+    "amenity": "restaurant",
+    "name": "Restaurant Sennhof",
+    "opening_hours": "Mo-Su 09:00-17:30",
+    "website": "https://restaurant-sennhof.ch/"
+  },
+  "id": 13323748455
+}

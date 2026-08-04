@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5150704,
+      47.3920021
+    ]
+  },
+  "properties": {
+    "id": 13745152853,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "62",
+    "addr:postcode": "8005",
+    "addr:street": "F\u00f6rrlibuckstrasse",
+    "amenity": "restaurant",
+    "level": "4",
+    "name": "Lunch 5",
+    "opening_hours": "Mo-Fr 07:00-15:00; PH closed",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "http://www.lunch-5.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13745152853
+}

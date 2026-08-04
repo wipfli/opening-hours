@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0372207,
+      47.4664758
+    ]
+  },
+  "properties": {
+    "id": 11250681196,
+    "amenity": "restaurant",
+    "name": "Restaurant Psychiatrie St. Gallen",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "website": "https://www.psychiatrie-sg.ch/standorte/wil/oeffentliche-angebote/gastronomie"
+  },
+  "id": 11250681196
+}

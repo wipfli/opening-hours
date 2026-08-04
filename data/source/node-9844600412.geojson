@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5221221,
+      47.3625417
+    ]
+  },
   "properties": {
-    "@id": "node/9844600412",
+    "id": 9844600412,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "1",
     "addr:postcode": "8045",
@@ -14,12 +21,5 @@
     "website": "https://lalup.ch/zurich-wolfram/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5221221,
-      47.3625417
-    ]
-  },
-  "id": "node-9844600412"
+  "id": 9844600412
 }

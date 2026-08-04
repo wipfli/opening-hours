@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8513347,
+      46.6840169
+    ]
+  },
+  "properties": {
+    "id": 5456480487,
+    "addr:city": "Interlaken",
+    "addr:housenumber": "22",
+    "addr:postcode": "3800",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "european;chicken;swiss;fondue",
+    "name": "Gleis 3",
+    "opening_hours": "We-Su 12:00-22:00",
+    "phone": "+41 33 525 80 79",
+    "website": "https://www.restaurant-gleis3.ch/"
+  },
+  "id": 5456480487
+}

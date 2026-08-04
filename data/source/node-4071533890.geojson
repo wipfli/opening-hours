@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4462638,
+      46.9536925
+    ]
+  },
+  "properties": {
+    "id": 4071533890,
+    "amenity": "restaurant",
+    "contact:addr": "Sch\u00e4nzlihalde 31, 3013 Bern",
+    "contact:email": "office.bern@sfgb-b.ch",
+    "contact:fax": "+41 31 3370338",
+    "contact:phone": "+41 31 3370337",
+    "name": "Restaurant 2B",
+    "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:30-11:00; Su off",
+    "website": "https://www.sfgb-b.ch/restaurant-2b"
+  },
+  "id": 4071533890
+}

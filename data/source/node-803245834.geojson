@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5249463,
+      47.3790069
+    ]
+  },
   "properties": {
-    "@id": "node/803245834",
+    "id": 803245834,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "74",
@@ -18,12 +25,5 @@
     "website": "https://www.zaatar.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5249463,
-      47.3790069
-    ]
-  },
-  "id": "node-803245834"
+  "id": 803245834
 }

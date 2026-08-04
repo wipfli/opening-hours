@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1399643,
+      46.1858075
+    ]
+  },
+  "properties": {
+    "id": 9570418234,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1227",
+    "addr:street": "Rue Saint-Victor",
+    "amenity": "restaurant",
+    "check_date": "2024-06-29",
+    "cuisine": "italian;pizza",
+    "name": "Pizza Vino",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:30-00:00; Sa 11:30-15:30,18:30-00:00",
+    "phone": "+41 22 342 48 09",
+    "website": "https://www.pizza-vino.ch/"
+  },
+  "id": 9570418234
+}

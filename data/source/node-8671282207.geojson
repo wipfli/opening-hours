@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2451091,
+      47.5256796
+    ]
+  },
+  "properties": {
+    "id": 8671282207,
+    "addr:city": "W\u00fcrenlingen",
+    "addr:housenumber": "2",
+    "addr:postcode": "5303",
+    "addr:street": "Wiesenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab;pizza",
+    "email": "info@kuhg\u00e4ssli.ch",
+    "name": "Kuhg\u00e4ssli",
+    "opening_hours": "Mo-Sa 11:00-20:30",
+    "phone": "+41 56 281 36 26",
+    "website": "kuhg\u00e4ssli.ch"
+  },
+  "id": 8671282207
+}

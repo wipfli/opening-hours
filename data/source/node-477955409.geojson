@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5626578,
+      47.3846379
+    ]
+  },
+  "properties": {
+    "id": 477955409,
+    "addr:city": "L\u00fcchingen",
+    "addr:country": "CH",
+    "addr:housenumber": "52",
+    "addr:postcode": "9450",
+    "addr:street": "Rietstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "email": "info@ribelhof.ch",
+    "name": "Riebelhof",
+    "opening_hours": "Mo,Tu off; We-Fr 09:00-13:30,16:30-23:00; Sa 10:00-23:00; Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41717555282",
+    "website": "https://www.ribelhof.ch/"
+  },
+  "id": 477955409
+}

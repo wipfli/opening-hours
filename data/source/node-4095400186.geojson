@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7247212,
+      47.4983532
+    ]
+  },
+  "properties": {
+    "id": 4095400186,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "2",
+    "addr:postcode": "8400",
+    "addr:street": "Archplatz",
+    "amenity": "restaurant",
+    "branch": "Winterthur Archh\u00f6fe",
+    "check_date": "2025-11-11",
+    "cuisine": "sushi",
+    "diet:gluten_free": "yes",
+    "level": "0",
+    "name": "Negishi Sushi Bar",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "website": "https://www.negishi.ch/winterthur-archhoefe",
+    "website:menu": "https://www.negishi.ch/en/winterthur-archhoefe/menu#"
+  },
+  "id": 4095400186
+}

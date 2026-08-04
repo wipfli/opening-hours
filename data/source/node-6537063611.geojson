@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4297054,
+      46.9489948
+    ]
+  },
+  "properties": {
+    "id": 6537063611,
+    "addr:city": "Bern",
+    "addr:housenumber": "1",
+    "addr:postcode": "3012",
+    "addr:street": "Niesenweg",
+    "amenity": "restaurant",
+    "name": "Gurtenblick",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "phone": "+41 31 300 36 36",
+    "reservation": "no",
+    "website": "https://www.tertianum.ch/de/tertianum-wohn-und-pflegezentrum-residence-bern/restaurant-gurtenblick"
+  },
+  "id": 6537063611
+}

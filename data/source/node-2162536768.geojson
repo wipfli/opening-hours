@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6372618,
+      46.5196326
+    ]
+  },
+  "properties": {
+    "id": 2162536768,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "3",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Saint-Pierre",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/happydaysbargrill.ch/",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Happy Days - Longhorn steakhouse",
+    "opening_hours": "Mo-Th 08:00-01:00; Fr-Sa 08:00-02:00; Su 08:00-00:00",
+    "opening_hours:kitchen": "Mo-Su 11:00-16:00,18:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 324 06 06",
+    "website": "https://www.happydays-bargrill.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2162536768
+}

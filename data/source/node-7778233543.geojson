@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6034296,
+      47.56969
+    ]
+  },
+  "properties": {
+    "id": 7778233543,
+    "addr:city": "Basel",
+    "addr:housenumber": "93",
+    "addr:postcode": "4058",
+    "addr:street": "Erlenmattstrasse",
+    "amenity": "restaurant",
+    "microbrewery": "yes",
+    "name": "Matt & Elly Brewery & Kitchen",
+    "opening_hours": "Tu-Fr 12:00-13:30,16:30-24:00, Sa 16:30-24:00",
+    "website": "https://matt-elly.com"
+  },
+  "id": 7778233543
+}

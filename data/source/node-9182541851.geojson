@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5881919,
+      47.548098
+    ]
+  },
+  "properties": {
+    "id": 9182541851,
+    "addr:city": "Basel",
+    "addr:housenumber": "10",
+    "addr:postcode": "4051",
+    "addr:street": "Centralbahnstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;sandwich",
+    "email": "info@lorabasel.ch",
+    "indoor_seating": "yes",
+    "name": "Lora",
+    "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-00:00; Sa 08:00-00:00; Su 08:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 77 267 61 26",
+    "smoking": "no",
+    "website": "https://www.lorabasel.ch/"
+  },
+  "id": 9182541851
+}

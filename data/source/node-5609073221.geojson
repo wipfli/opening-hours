@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8161788,
+      47.2266326
+    ]
+  },
+  "properties": {
+    "id": 5609073221,
+    "addr:city": "Rapperswil-Jona",
+    "addr:housenumber": "4",
+    "addr:postcode": "8640",
+    "addr:street": "Hauptplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-12-13",
+    "name": "Restaurant Falkenburg",
+    "opening_hours": "Tu-Sa 10:30-15:00,17:30-23:30; Su \"by request\"",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.falkenburg-rapperswil.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5609073221
+}

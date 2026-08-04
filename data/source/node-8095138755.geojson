@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.569816,
+      46.7025691
+    ]
+  },
+  "properties": {
+    "id": 8095138755,
+    "addr:postcode": "1373",
+    "addr:street": "Rue du Coll\u00e8ge",
+    "amenity": "restaurant",
+    "cuisine": "local;regional;swiss",
+    "email": "lepetitcorbeau@outlook.com",
+    "name": "Le Petit Corbeau",
+    "opening_hours": "Tu-Sa 09:00-14:30; Tu-Sa 18:00-23:00",
+    "phone": "+41 24 441 41 68",
+    "website": "http://www.lepetitcorbeau.com"
+  },
+  "id": 8095138755
+}

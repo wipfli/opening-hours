@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3477483,
+      47.438692
+    ]
+  },
+  "properties": {
+    "id": 5153883258,
+    "addr:city": "W\u00fcrenlos",
+    "addr:postcode": "5436",
+    "amenity": "restaurant",
+    "branch": "A1 W\u00fcrenlos",
+    "brand": "March\u00e9",
+    "indoor_seating": "yes",
+    "level": "2",
+    "name": "March\u00e9 W\u00fcrenlos",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "March\u00e9 Restaurants Schweiz",
+    "outdoor_seating": "yes",
+    "website": "https://www.marche.ch/de/marche_wuerenlos.html"
+  },
+  "id": 5153883258
+}

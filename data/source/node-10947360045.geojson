@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6910804,
+      47.4699688
+    ]
+  },
+  "properties": {
+    "id": 10947360045,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Rebstock",
+    "opening_hours": "We-Fr 16:00-23:00; Sa 09:00-14:00,16:00-23:00; Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 911 04 76",
+    "website": "https://www.rebstock-nuglar.ch/"
+  },
+  "id": 10947360045
+}

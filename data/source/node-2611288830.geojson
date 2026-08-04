@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7007393,
+      46.7125125
+    ]
+  },
+  "properties": {
+    "id": 2611288830,
+    "amenity": "restaurant",
+    "name": "Zur M\u00fchle",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "website": "http://www.muhle-gunten.ch/"
+  },
+  "id": 2611288830
+}

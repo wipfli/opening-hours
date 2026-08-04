@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1446933,
+      46.210468
+    ]
+  },
+  "properties": {
+    "id": 2995687571,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "20",
+    "addr:postcode": "1201",
+    "addr:street": "Rue des Alpes",
+    "alt_name": "Hotel International Terminus",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La V\u00e9randa",
+    "opening_hours": "Mo-Su 12:00-21:30",
+    "source": "Personal survey",
+    "website": "https://www.international-terminus.ch/hotel-international-geneve-restaurant-international-terminus-hotel/"
+  },
+  "id": 2995687571
+}

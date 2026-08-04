@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9459558,
+      47.5730445
+    ]
+  },
+  "properties": {
+    "id": 1423373833,
+    "amenity": "restaurant",
+    "name": "Landgasthof Schwanen",
+    "opening_hours": "Mo-Sa 08:00-23:00; Su \"F\u00fcr Anl\u00e4sse\"",
+    "website": "https://www.landgasthof-schwanen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1423373833
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2241337,
+      46.1034894
+    ]
+  },
+  "properties": {
+    "id": 10560068316,
+    "amenity": "restaurant",
+    "cuisine": "italian;international;french",
+    "name": "La Table d'Adrien",
+    "opening_hours": "We-Sa 19:00-21:30",
+    "phone": "+41 27 771 62 00",
+    "website": "https://chalet-adrien.com/"
+  },
+  "id": 10560068316
+}

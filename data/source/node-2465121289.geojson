@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5183169,
+      47.3854018
+    ]
+  },
   "properties": {
-    "@id": "node/2465121289",
+    "id": 2465121289,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "31",
@@ -17,12 +24,5 @@
     "phone": "+41 43 818 22 54",
     "website": "https://www.restaurant-rosso.ch"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5183169,
-      47.3854018
-    ]
-  },
-  "id": "node-2465121289"
+  "id": 2465121289
 }

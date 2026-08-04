@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6163489,
+      46.5281253
+    ]
+  },
+  "properties": {
+    "id": 2850365213,
+    "addr:postcode": "1004",
+    "amenity": "restaurant",
+    "check_date": "2026-07-15",
+    "cuisine": "coffee_shop;italian;italian_pizza;mediterranean",
+    "indoor_seating": "yes",
+    "name": "St.Paul",
+    "opening_hours": "Tu-Fr 11:45-14:45, 19:00-00:00; Sa 19:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 544 73 91",
+    "website": "https://www.ristorante-st-paul.ch/"
+  },
+  "id": 2850365213
+}

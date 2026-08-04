@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7380951,
+      47.4958068
+    ]
+  },
+  "properties": {
+    "id": 359683523,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "45",
+    "addr:postcode": "8400",
+    "addr:street": "Gr\u00fczenstrasse",
+    "alt_name": "Restaurant George Museumbistro",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@bistro-george.ch",
+    "name": "Bistrot George",
+    "opening_hours": "Tu,Th-Su 10:00-18:00; We 10:00-20:00",
+    "phone": "+41 52 238 10 90",
+    "website": "https://bistro-george.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 359683523
+}

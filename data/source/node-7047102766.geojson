@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5475026,
+      47.3763367
+    ]
+  },
   "properties": {
-    "@id": "node/7047102766",
+    "id": 7047102766,
     "amenity": "restaurant",
     "check_date:opening_hours": "2025-06-28",
     "diet:vegetarian": "yes",
@@ -11,12 +18,5 @@
     "outdoor_seating": "yes",
     "website": "https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/dozentenfoyer.html"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5475026,
-      47.3763367
-    ]
-  },
-  "id": "node-7047102766"
+  "id": 7047102766
 }

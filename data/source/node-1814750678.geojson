@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3069406,
+      47.0470333
+    ]
+  },
+  "properties": {
+    "id": 1814750678,
+    "addr:city": "Luzern",
+    "addr:housenumber": "39",
+    "addr:postcode": "6003",
+    "addr:street": "Winkelriedstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-12-06",
+    "check_date:opening_hours": "2025-12-06",
+    "name": "Da Luni",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00, Sa 17:00-24:00; Su,PH off",
+    "phone": "+41 41 210 64 55",
+    "website": "https://www.daluni.ch"
+  },
+  "id": 1814750678
+}

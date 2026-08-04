@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3661059,
+      47.4191153
+    ]
+  },
+  "properties": {
+    "id": 445423547,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "16",
+    "addr:postcode": "9000",
+    "addr:street": "Geltenwilenstrasse",
+    "amenity": "restaurant",
+    "name": "Nektar",
+    "opening_hours": "Mo,Tu 10:00-14:00; We-Fr 10:00-14:00,17:00-22:00; Sa 09:30-14:00",
+    "website": "https://restaurant-nektar.ch/"
+  },
+  "id": 445423547
+}

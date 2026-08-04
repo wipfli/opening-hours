@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8460086,
+      46.4587321
+    ]
+  },
+  "properties": {
+    "id": 9869823112,
+    "addr:city": "Vevey",
+    "addr:housenumber": "11",
+    "addr:postcode": "1800",
+    "addr:street": "Rue de l'H\u00f4tel-de-Ville",
+    "amenity": "restaurant",
+    "cuisine": "tartare;ice_cream;carpaccio;sandwich",
+    "diet:healthy": "yes",
+    "diet:local": "yes",
+    "email": "le11eme@icloud.com",
+    "name": "Le 11\u00e8me",
+    "opening_hours": "Tu-Su 11:00-14:00; Tu-Su 17:00-21:00",
+    "phone": "+41 79 612 18 00",
+    "reservation": "recommended",
+    "website": "https://www.le11eme.ch/"
+  },
+  "id": 9869823112
+}

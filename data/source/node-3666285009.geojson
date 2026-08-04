@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4579197,
+      47.482317
+    ]
+  },
+  "properties": {
+    "id": 3666285009,
+    "amenity": "restaurant",
+    "check_date": "2024-06-23",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100063801180287",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "description": "Pizzeria, Restaurant, Shisha Bar & Lounge, Pizzakurier & Take Away",
+    "diet:vegetarian": "yes",
+    "email": "info@amigopizza.ch",
+    "name": "Amigo",
+    "opening_hours": "Mo-Th,Su 10:00-24:00; Fr-Sa 10:00-26:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 888 63 63",
+    "takeaway": "yes",
+    "website": "https://amigopizza.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3666285009
+}

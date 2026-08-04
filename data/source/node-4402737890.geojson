@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5181661,
+      47.3859082
+    ]
+  },
   "properties": {
-    "@id": "node/4402737890",
+    "id": 4402737890,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "35",
     "addr:postcode": "8005",
@@ -14,15 +21,8 @@
     "name": "Zum Gaul",
     "opening_hours": "Mo-Fr 10:00-24:00, Sa 11:00-24:00; Su off",
     "outdoor_seating": "yes",
-    "website": "http://www.zumgaul.ch",
+    "website": "https://www.zumgaul.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5181661,
-      47.3859082
-    ]
-  },
-  "id": "node-4402737890"
+  "id": 4402737890
 }

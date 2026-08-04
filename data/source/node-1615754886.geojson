@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5632291,
+      46.8692654
+    ]
+  },
+  "properties": {
+    "id": 1615754886,
+    "addr:housenumber": "26",
+    "addr:postcode": "3110",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Tuk Tuk Thai Restaurant",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:00",
+    "phone": "+41 31 721 02 62",
+    "website": "https://www.tuktukthai.one/",
+    "wheelchair": "limited"
+  },
+  "id": 1615754886
+}

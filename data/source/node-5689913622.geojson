@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5767109,
+      47.5541429
+    ]
+  },
+  "properties": {
+    "id": 5689913622,
+    "addr:city": "Basel",
+    "addr:housenumber": "163",
+    "addr:postcode": "4055",
+    "addr:street": "Spalenring",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "email": "info@restaurantbayleaf.ch",
+    "indoor_seating": "yes",
+    "name": "Bayleaf Gourmet Indian Restaurant",
+    "opening_hours": "Su,Mo 18:00-23:00; Tu-Sa 11:30-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 271 03 47",
+    "smoking": "outside",
+    "website": "https://restaurantbayleaf.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5689913622
+}

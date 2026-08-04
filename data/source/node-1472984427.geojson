@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3135617,
+      47.0426436
+    ]
+  },
+  "properties": {
+    "id": 1472984427,
+    "amenity": "restaurant",
+    "name": "EssWerk",
+    "note": "Essen nur 11:30-13:30",
+    "opening_hours": "Mo-Fr 09:30-15:15",
+    "operator": "IG Arbeit",
+    "website": "https://www.igarbeit.ch/dienstleistungen/gastronomie-catering/esswerk.html"
+  },
+  "id": 1472984427
+}

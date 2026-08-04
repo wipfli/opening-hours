@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5837153,
+      46.343383
+    ]
+  },
+  "properties": {
+    "id": 9925059015,
+    "amenity": "restaurant",
+    "name": "La Stala",
+    "opening_hours": "We-Su 11:00-19:00; Mo-Tu off",
+    "phone": "+41794583136",
+    "website": "https://la-stala.ch/it/"
+  },
+  "id": 9925059015
+}

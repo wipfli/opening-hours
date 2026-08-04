@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6291634,
+      46.511786
+    ]
+  },
+  "properties": {
+    "id": 10617723148,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "1006",
+    "addr:street": "Avenue d'Ouchy",
+    "amenity": "restaurant",
+    "capacity": "110",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Piazza San Marco",
+    "opening_hours": "Mo-Fr 09:00-14:30,18:00-24:00, Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "outdoor_seating:capacity": "50",
+    "phone": "+41 21 601 27 20",
+    "reservation": "yes",
+    "website": "https://piazza-san-marco.ch/",
+    "website:menu": "http://piazza-san-marco.ch/carte.php"
+  },
+  "id": 10617723148
+}

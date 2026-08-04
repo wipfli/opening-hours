@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3964121,
+      47.3921017
+    ]
+  },
+  "properties": {
+    "id": 6744275183,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gemsli",
+    "opening_hours": "Mo-Fr 06:30-18:30; Tu 06:30-13:30; We off; Sa 06:30-17:00; Su 07:30-17:00",
+    "operator": "Konditorei-Confiserie Gemsli GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 333 11 44",
+    "shop": "pastry;bakery",
+    "website": "https://www.gemsli-teufen.ch"
+  },
+  "id": 6744275183
+}

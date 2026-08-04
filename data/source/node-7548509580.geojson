@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1286488,
+      46.2299159
+    ]
+  },
+  "properties": {
+    "id": 7548509580,
+    "addr:city": "Le Grand-Saconnex",
+    "addr:housenumber": "150",
+    "addr:postcode": "1218",
+    "addr:street": "Route de Ferney",
+    "amenity": "restaurant",
+    "name": "Eurest / Restaurant WCC",
+    "opening_hours": "mo-th 07:30-17:00; fr 07:30-16:30",
+    "phone": "+41 22 791 64 92",
+    "website": "https://clients.eurest.ch/wcc/fr/Restaurant"
+  },
+  "id": 7548509580
+}

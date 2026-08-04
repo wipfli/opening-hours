@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439247,
+      47.3745299
+    ]
+  },
+  "properties": {
+    "id": 317769155,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "8001",
+    "addr:street": "Niederdorfstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrcher Niederdorf",
+    "brand": "dieci",
+    "cuisine": "pizza",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "10' dieci",
+    "opening_hours": "Nov-Mar Mo-Sa 11:30-22:00; Apr-Oct Su-Th 11:00-23:00; Apr-Oct Fr-Sa 11:00-24:00",
+    "operator": "Dieci",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 268 53 02",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://dieci.ch/de/gelateria-zuerich-niederdorf",
+    "wheelchair": "yes"
+  },
+  "id": 317769155
+}

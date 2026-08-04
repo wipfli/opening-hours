@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5447832,
+      47.3747617
+    ]
+  },
   "properties": {
-    "@id": "node/656327772",
+    "id": 656327772,
     "addr:housenumber": "16",
     "addr:street": "Z\u00e4hringerstrasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://www.raclette-stube.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5447832,
-      47.3747617
-    ]
-  },
-  "id": "node-656327772"
+  "id": 656327772
 }

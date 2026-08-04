@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.30752,
+      47.045985
+    ]
+  },
+  "properties": {
+    "id": 1811149663,
+    "addr:city": "Luzern",
+    "addr:housenumber": "62",
+    "addr:postcode": "6003",
+    "addr:street": "Winkelriedstrasse",
+    "amenity": "restaurant",
+    "cuisine": "moroccan",
+    "name": "Barb\u00e8s",
+    "opening_hours": "Mo-Sa 11:00-00:30; Su off",
+    "smoking": "outside",
+    "website": "https://www.barbes.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1811149663
+}

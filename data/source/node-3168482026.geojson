@@ -1,14 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/3168482026",
-    "amenity": "restaurant",
-    "check_date": "2024-03-22",
-    "name": "B\u00e4rengasse",
-    "opening_hours": "Mo-Sa 11:30-24:00",
-    "opening_hours:kitchen": "Mo-Sa 11:30-14:00, 18:30-22:00",
-    "website": "https://restaurant-baerengasse.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -16,5 +7,14 @@
       47.3703775
     ]
   },
-  "id": "node-3168482026"
+  "properties": {
+    "id": 3168482026,
+    "amenity": "restaurant",
+    "check_date": "2024-03-22",
+    "name": "B\u00e4rengasse",
+    "opening_hours": "Mo-Sa 11:30-24:00",
+    "opening_hours:kitchen": "Mo-Sa 11:30-14:00, 18:30-22:00",
+    "website": "https://restaurant-baerengasse.ch/"
+  },
+  "id": 3168482026
 }

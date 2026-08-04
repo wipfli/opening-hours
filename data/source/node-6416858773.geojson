@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4401854,
+      46.6942952
+    ]
+  },
+  "properties": {
+    "id": 6416858773,
+    "amenity": "restaurant",
+    "name": "Cafe im Park",
+    "opening_hours": "Mo-Fr 07:30-20:00, Sa 07:30-17:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.cafeimpark.ch/"
+  },
+  "id": 6416858773
+}

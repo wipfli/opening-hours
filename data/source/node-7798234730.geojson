@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3660815,
+      47.2075432
+    ]
+  },
+  "properties": {
+    "id": 7798234730,
+    "amenity": "restaurant",
+    "name": "Badi Sch\u00f6nenbodensee",
+    "opening_hours": "Jun-Aug: Mo 09:30-19:00",
+    "phone": "+41 71 999 18 52",
+    "website": "https://sch\u00f6nenbodensee.ch/"
+  },
+  "id": 7798234730
+}

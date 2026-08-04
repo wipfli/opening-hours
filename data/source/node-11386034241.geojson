@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4378173,
+      46.9480265
+    ]
+  },
+  "properties": {
+    "id": 11386034241,
+    "amenity": "restaurant",
+    "check_date": "2026-07-06",
+    "cuisine": "asian",
+    "name": "Miss Miu",
+    "opening_hours": "Mo-Su 11:00-23:00; Su 12:00-22:00",
+    "website": "https://www.miss-miu.ch/de/bern-postparc",
+    "website:menu": "https://menu.fwg.ch/checkin/2614482121374447"
+  },
+  "id": 11386034241
+}

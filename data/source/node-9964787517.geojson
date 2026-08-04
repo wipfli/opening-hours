@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2069114,
+      47.4858927
+    ]
+  },
+  "properties": {
+    "id": 9964787517,
+    "addr:city": "Brugg AG",
+    "addr:housenumber": "66",
+    "addr:postcode": "5200",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-11-02",
+    "cuisine": "filipino;coffee_shop",
+    "name": "Papa Oro\u2019s / Kape Hiraya",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+41 79 561 77 77",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://brugg.papaoros.ch/"
+  },
+  "id": 9964787517
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5819934,
+      47.4508068
+    ]
+  },
+  "properties": {
+    "id": 7711099784,
+    "addr:city": "Kloten",
+    "addr:housenumber": "5",
+    "addr:postcode": "8302",
+    "addr:street": "Kirchgasse",
+    "alt_name": "Migros Restaurant Kloten",
+    "amenity": "restaurant",
+    "branch": "Kloten",
+    "delivery": "no",
+    "fixme": "Genaue Lage?",
+    "name": "Migros Restaurant",
+    "opening_hours": "PH off; Mo-Sa 08:00-18:00",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-kloten"
+  },
+  "id": 7711099784
+}

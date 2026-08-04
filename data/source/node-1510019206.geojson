@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5608856,
+      47.3614068
+    ]
+  },
   "properties": {
-    "@id": "node/1510019206",
+    "id": 1510019206,
     "addr:housenumber": "5",
     "addr:street": "Drahtzugstrasse",
     "amenity": "restaurant",
@@ -19,15 +26,8 @@
     "outdoor_seating": "yes",
     "smoking": "outside",
     "toilets:wheelchair": "no",
-    "website": "https://www.r2.misoga.ch/hegibachplatz",
+    "website": "https://www.misoga.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5608856,
-      47.3614068
-    ]
-  },
-  "id": "node-1510019206"
+  "id": 1510019206
 }

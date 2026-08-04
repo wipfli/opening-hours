@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6707434,
+      47.2292601
+    ]
+  },
+  "properties": {
+    "id": 307667861,
+    "addr:housenumber": "8",
+    "addr:postcode": "8820",
+    "addr:street": "Lindenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "Neuhuesli",
+    "opening_hours": "Tu-Fr 08:30-23:00; Mo 15:00-23:00",
+    "outdoor_seating": "yes",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "http://www.xn--restaurant-nihsli-b0b0ja.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 307667861
+}

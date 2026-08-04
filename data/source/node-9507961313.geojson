@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0244576,
+      47.4990132
+    ]
+  },
+  "properties": {
+    "id": 9507961313,
+    "addr:city": "Bettwiesen",
+    "addr:housenumber": "66",
+    "addr:postcode": "9553",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "delivery": "Tu-Th 10:00-23:30;Mo 16:00-23:45;Fr,Sa 10:30-01:00;Su 12:00-23:00",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Easy Imbis",
+    "opening_hours": "Tu-Th 10:00-23:30; Mo 16:00-23:30; Fr,Sa 10:00-24:00; Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 988 88 83",
+    "website": "https://www.easyimbiss.ch"
+  },
+  "id": 9507961313
+}

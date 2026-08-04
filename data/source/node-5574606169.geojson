@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6275019,
+      46.5076191
+    ]
+  },
+  "properties": {
+    "id": 5574606169,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "67",
+    "addr:postcode": "1006",
+    "addr:street": "Avenue d'Ouchy",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "internet_access": "yes",
+    "kids_area": "no",
+    "name": "Saveurs d'ailleurs",
+    "opening_hours": "Tu-Sa 11:00-20:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 601 67 67",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.saveursdailleurs.ch/"
+  },
+  "id": 5574606169
+}

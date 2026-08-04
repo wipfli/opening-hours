@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5643819,
+      46.520841
+    ]
+  },
+  "properties": {
+    "id": 334500409,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Piano",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "website": "https://www.epfl.ch/campus/restaurants-shops-hotels/fr/restauration/self-service/le-corbusier/",
+    "wheelchair": "yes"
+  },
+  "id": 334500409
+}

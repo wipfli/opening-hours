@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7691192,
+      47.3478707
+    ]
+  },
+  "properties": {
+    "id": 2376402867,
+    "addr:city": "Langenbruck",
+    "addr:housenumber": "12",
+    "addr:postcode": "4438",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "email": "info@ochsen-langenbruck.ch",
+    "name": "Gasthof zum Ochsen",
+    "opening_hours": "Mo,Tu,Fr,Sa 09:00-14:00, Fr,Sa 18:00-24:00, Su 10:00-16:30; We,Th off",
+    "phone": "+41 62 390 13 23",
+    "website": "https://www.ochsen-langenbruck.ch/"
+  },
+  "id": 2376402867
+}

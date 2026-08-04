@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5462454,
+      47.3670484
+    ]
+  },
   "properties": {
-    "@id": "node/268468702",
+    "id": 268468702,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "4",
@@ -16,12 +23,5 @@
     "phone": "+41 44 518 03 60",
     "website": "https://www.yume-ramen.ch"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5462454,
-      47.3670484
-    ]
-  },
-  "id": "node-268468702"
+  "id": 268468702
 }

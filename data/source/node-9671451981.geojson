@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1261186,
+      46.2114857
+    ]
+  },
+  "properties": {
+    "id": 9671451981,
+    "addr:housenumber": "5",
+    "addr:street": "Rue Ch\u00e2telain",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Restaurant L'Ambiance",
+    "opening_hours": "Mo-Su 11:00-15:00,18:00-22:00",
+    "website": "https://www.ambiance-restaurant.ch/"
+  },
+  "id": 9671451981
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7046215,
+      47.206744
+    ]
+  },
+  "properties": {
+    "id": 10539263125,
+    "addr:city": "Richterswil",
+    "addr:housenumber": "11",
+    "addr:postcode": "8805",
+    "addr:street": "Sch\u00fctzengass",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;pasta;dessert",
+    "name": "Cinque",
+    "opening_hours": "Tu-We 08:00-18:00; Th-Fr 08:00-11:00; Sa 09:00-17:00; PH off",
+    "phone": "+41 44 784 40 40",
+    "website": "https://www.cinque5.net/"
+  },
+  "id": 10539263125
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0141391,
+      46.192162
+    ]
+  },
+  "properties": {
+    "id": 6899851522,
+    "amenity": "restaurant",
+    "check_date": "2026-05-05",
+    "check_date:opening_hours": "2026-05-05",
+    "indoor_seating": "yes",
+    "name": "Ristorante QB Quanto basta",
+    "opening_hours": "Mo-Fr 08:00-14:30, 18:00-23:00; Sa 11:30-15:00, 18:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 825 10 91",
+    "website": "https://quantobasta.ch/"
+  },
+  "id": 6899851522
+}

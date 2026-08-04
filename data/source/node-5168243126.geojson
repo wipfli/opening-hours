@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4478276,
+      47.4006845
+    ]
+  },
+  "properties": {
+    "id": 5168243126,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "5",
+    "addr:postcode": "8952",
+    "addr:street": "Engstringerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "austrian",
+    "diet:vegetarian": "no",
+    "email": "hallo@restaurantamadeus.ch",
+    "fixme": "wheelchair access and other details at new location",
+    "level": "0",
+    "name": "Amadeus",
+    "opening_hours": "Mo-Fr 11:00-14:30, 17:00-22:30; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 730 23 00",
+    "website": "https://restaurantamadeus.ch/"
+  },
+  "id": 5168243126
+}

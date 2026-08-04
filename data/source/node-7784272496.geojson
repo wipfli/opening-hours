@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0711002,
+      46.2834985
+    ]
+  },
+  "properties": {
+    "id": 7784272496,
+    "addr:city": "Gryon",
+    "addr:postcode": "1882",
+    "addr:street": "Place de Barboleuse",
+    "amenity": "restaurant",
+    "name": "La Terrasse",
+    "opening_hours": "Tu-Su 10:00-23:00; Mo 09:00-23:00",
+    "website": "http://www.laterrassegryon.ch"
+  },
+  "id": 7784272496
+}

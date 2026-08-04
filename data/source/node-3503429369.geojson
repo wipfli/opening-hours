@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5089683,
+      47.3900253
+    ]
+  },
+  "properties": {
+    "id": 3503429369,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "101",
+    "addr:postcode": "8005",
+    "addr:street": "Pfingstweidstrasse",
+    "alt_name": "Migros Restaurant Herdern",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Herdern",
+    "cuisine": "international",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 11:00-14:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "no",
+    "phone": "+41 58 561 54 88",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-herdern"
+  },
+  "id": 3503429369
+}

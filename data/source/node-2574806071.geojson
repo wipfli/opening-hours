@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3164089,
+      46.1377037
+    ]
+  },
+  "properties": {
+    "id": 2574806071,
+    "addr:city": "Siviez (Nendaz)",
+    "addr:housenumber": "27",
+    "addr:postcode": "1997",
+    "addr:street": "Route de Siviez",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Cro\u00fbtes au fromage, vin de pays AOC, planchettes valaisannes, burgers maison, fondues, pizzas, raclettes,...il y en a pour tous les go\u00fbts !",
+    "indoor_seating": "yes",
+    "name": "Restaurant les Bergers Chez Benzine",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41272881828",
+    "smoking": "outside",
+    "website": "https://www.restaurant-les-bergers.ch/"
+  },
+  "id": 2574806071
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3745633,
+      47.4272842
+    ]
+  },
+  "properties": {
+    "id": 13462340705,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "31",
+    "addr:postcode": "9000",
+    "addr:street": "Augustinergasse",
+    "amenity": "restaurant",
+    "name": "August Erststock-Bezili",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:00-22:00",
+    "website": "https://augustbar.ch/"
+  },
+  "id": 13462340705
+}

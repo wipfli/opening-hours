@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1425239,
+      46.2121604
+    ]
+  },
+  "properties": {
+    "id": 12922818601,
+    "addr:housenumber": "19",
+    "addr:postcode": "1202",
+    "addr:street": "Rue des Gares",
+    "amenity": "restaurant",
+    "contact:facebook": "terrarossarestaurant",
+    "contact:instagram": "terrarossa.restaurant",
+    "cuisine": "italian;italian_pizza",
+    "email": "info@terrarossa-restaurant.ch",
+    "level": "0",
+    "name": "Terra Rossa",
+    "opening_hours": "Mo-Fr 09:00-15:00, 17:30-23:00; Sa 18:00-23:00",
+    "phone": "+41 22 734 13 36",
+    "self_service": "no",
+    "website": "https://terrarossa-restaurant.ch",
+    "website:menu": "https://terrarossa-restaurant.ch/#menu"
+  },
+  "id": 12922818601
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2957357,
+      46.8214426
+    ]
+  },
+  "properties": {
+    "id": 896368785,
+    "amenity": "restaurant",
+    "name": "Caumasee",
+    "opening_hours": "Neuer\u00f6ffnung Dezember 2024",
+    "website": "https://www.caumasee.ch/"
+  },
+  "id": 896368785
+}

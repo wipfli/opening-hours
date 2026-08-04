@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7597142,
+      47.3597248
+    ]
+  },
+  "properties": {
+    "id": 307501795,
+    "addr:city": "Pf\u00e4ffikon",
+    "addr:housenumber": "105",
+    "addr:postcode": "8330",
+    "addr:street": "Usterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-01",
+    "check_date:opening_hours": "2025-09-01",
+    "name": "Castanea",
+    "opening_hours": "Tu-Sa 18:30-23:00",
+    "website": "http://www.krone-faichrueti.ch/"
+  },
+  "id": 307501795
+}

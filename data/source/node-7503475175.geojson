@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3769259,
+      47.4276287
+    ]
+  },
+  "properties": {
+    "id": 7503475175,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "29",
+    "addr:postcode": "9000",
+    "addr:street": "Goliathgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-17",
+    "check_date:opening_hours": "2026-01-17",
+    "name": "1733 Restaurant & Weinbar",
+    "opening_hours": "Tu-Sa 16:00-22:00+",
+    "website": "https://1733.ch/"
+  },
+  "id": 7503475175
+}

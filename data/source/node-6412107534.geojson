@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3581357,
+      46.2353384
+    ]
+  },
+  "properties": {
+    "id": 6412107534,
+    "addr:city": "Sion",
+    "addr:housenumber": "1",
+    "addr:postcode": "1950",
+    "addr:street": "Rue de Gravelone",
+    "amenity": "restaurant",
+    "check_date": "2025-02-26",
+    "cuisine": "\u00c9rythr\u00e9e",
+    "diet:vegetarian": "yes",
+    "name": "Abyssinia",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr 10:00-24:00; Sa 11:00-14:00,18:00-24:00, Su 11:00-14:00,18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 322 87 98;+41 78 788 28 75",
+    "website": "https://abyssinia-vs.ch"
+  },
+  "id": 6412107534
+}

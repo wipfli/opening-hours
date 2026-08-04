@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5920312,
+      47.5709099
+    ]
+  },
+  "properties": {
+    "id": 7747174184,
+    "addr:city": "Basel",
+    "addr:housenumber": "21",
+    "addr:postcode": "4057",
+    "addr:street": "Horburgstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Da Pia",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://restaurant-dapia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7747174184
+}

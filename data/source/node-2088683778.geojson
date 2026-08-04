@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5149571,
+      47.1667178
+    ]
+  },
+  "properties": {
+    "id": 2088683778,
+    "addr:city": "Zug",
+    "addr:housenumber": "8",
+    "addr:place": "Landsgemeindeplatz",
+    "addr:postcode": "6300",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "mediterranean;portuguese;pizza",
+    "name": "Althus",
+    "opening_hours": "We-Fr 11:30-01:00, Sa 11:30-02:00, Su 10:00-19:00; Mo,Tu off",
+    "phone": "+41 41 711 04 72",
+    "website": "https://althusbar.com/"
+  },
+  "id": 2088683778
+}

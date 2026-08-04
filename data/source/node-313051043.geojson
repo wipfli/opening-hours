@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4454423,
+      46.9491041
+    ]
+  },
+  "properties": {
+    "id": 313051043,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "suisse",
+    "diet:vegetarian": "yes",
+    "email": "info@loetschbergbern.ch",
+    "indoor_seating": "yes",
+    "name": "L\u00f6tschberg",
+    "note": "Bring Back Box: https://www.gruenetatze.ch/loetschberg",
+    "opening_hours": "Mo-Fr 10:00-24:00; Sa 09:00-24:00; Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 31 311 34 55",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://loetschbergbern.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Bei Personal melden um rollstuhlg\u00e4ngigen Seiteneingang zu \u00f6ffnen."
+  },
+  "id": 313051043
+}

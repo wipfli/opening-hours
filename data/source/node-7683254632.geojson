@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5908338,
+      47.567279
+    ]
+  },
+  "properties": {
+    "id": 7683254632,
+    "addr:city": "Basel",
+    "addr:housenumber": "92",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Fujin Sushi bar",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:30-22:00; Sa-Su 17:30-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.fujinsushi.ch/"
+  },
+  "id": 7683254632
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2302765,
+      46.6074296
+    ]
+  },
+  "properties": {
+    "id": 1209205027,
+    "addr:city": "Le Sentier",
+    "addr:housenumber": "29",
+    "addr:postcode": "1347",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "email": "info@hotelvillesentier.ch",
+    "name": "H\u00f4tel de Ville",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa-Su 09:00-23:00; Mar-Sep Su 09:00-23:00",
+    "phone": "+41 21 845 52 33",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.hotelvillesentier.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1209205027
+}

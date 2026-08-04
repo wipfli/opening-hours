@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0222002,
+      46.191307
+    ]
+  },
+  "properties": {
+    "id": 3668748201,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2025-07-29",
+    "contact:facebook": "cantinindalgatt.ch",
+    "contact:instagram": "cantinin.dal.gatt",
+    "cuisine": "italian;regional",
+    "email": "info@cantinindalgatt.ch",
+    "name": "Cantinin dal Gatt",
+    "opening_hours": "Mo,Su off; Tu-Sa 11:30-15:00,18:30-24:00",
+    "opening_hours:kitchen": "Mo,Su off; Tu-Sa 12:00-14:00,18:30-21:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 91 825 27 71",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.cantinindalgatt.ch",
+    "website:menu": "https://www.cantinindalgatt.ch/menu"
+  },
+  "id": 3668748201
+}

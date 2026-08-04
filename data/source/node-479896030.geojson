@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6795228,
+      47.2592564
+    ]
+  },
+  "properties": {
+    "id": 479896030,
+    "addr:city": "M\u00e4nnedorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8708",
+    "addr:street": "Alte Landstrasse",
+    "alt_name": "Bahnh\u00f6fli Uetikon",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Zehn Eat & Shop",
+    "old_name": "Bahnhof Uetikon",
+    "opening_hours": "Tu-Sa 10:00-21:00",
+    "phone": "+41 44 920 03 86",
+    "website": "https://www.zehn10.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 479896030
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6756256,
+      47.2899242
+    ]
+  },
+  "properties": {
+    "id": 60228711,
+    "addr:city": "Egg",
+    "addr:postcode": "8132",
+    "addr:street": "Hochwacht-Pfannenstiel",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-03-20",
+    "name": "Hochwacht",
+    "opening_hours": "Mo-Fr 10:00-22:00; Su,PH 09:00-20:00",
+    "phone": "+41 44 984 02 55",
+    "website": "https://www.hochwacht-pfannenstiel.ch/"
+  },
+  "id": 60228711
+}

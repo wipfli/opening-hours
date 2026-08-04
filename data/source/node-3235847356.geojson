@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0471244,
+      47.3548443
+    ]
+  },
+  "properties": {
+    "id": 3235847356,
+    "addr:city": "Oberentfelden",
+    "addr:housenumber": "7",
+    "addr:postcode": "5036",
+    "addr:street": "Muhenstrasse",
+    "amenity": "restaurant",
+    "capacity": "80",
+    "cuisine": "italian",
+    "name": "Trattoria Amano",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00;Sa 17:00-24:00; Su 11:00-22:00",
+    "phone": "+41 62 777 11 88",
+    "smoking": "outside",
+    "website": "https://www.trattoria-amano.ch/"
+  },
+  "id": 3235847356
+}

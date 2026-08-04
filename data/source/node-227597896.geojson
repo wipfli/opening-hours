@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7346505,
+      47.2467162
+    ]
+  },
+  "properties": {
+    "id": 227597896,
+    "addr:city": "St\u00e4fa",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "8712",
+    "addr:street": "Aberenstrasse",
+    "amenity": "restaurant",
+    "name": "Spiisbeiz Aberen",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "+41 44 926 11 31",
+    "toilets:wheelchair": "no",
+    "website": "https://aberen.ch/spiisbeiz/",
+    "wheelchair": "limited"
+  },
+  "id": 227597896
+}

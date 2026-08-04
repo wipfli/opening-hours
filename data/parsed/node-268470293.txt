@@ -1,9 +1,0 @@
-Looking at the website, I need to find the hours for "Hatecke du Théâtre". The email "THEATRE@HATECKE.CH" is associated with the "DUFOURSTRASSE 20" location, which has these hours:
-
-MO 09:00-18:00   DI-FR 09:00-22:00   SA 09:00-17:00
-
-Converting to OpenStreetMap format:
-
-Mo 09:00-18:00; Tu-Fr 09:00-22:00; Sa 09:00-17:00
-
-Mo 09:00-18:00; Tu-Fr 09:00-22:00; Sa 09:00-17:00

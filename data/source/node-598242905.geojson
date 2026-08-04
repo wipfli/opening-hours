@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4514632,
+      46.9547304
+    ]
+  },
+  "properties": {
+    "id": 598242905,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@piazzavittoria.ch",
+    "name": "Piazza Vittoria",
+    "opening_hours": "Mo-Sa 10:00-22:00; Su,PH closed",
+    "phone": "+41 31 331 14 44",
+    "takeaway": "yes",
+    "website": "https://www.piazzavittoria.ch/"
+  },
+  "id": 598242905
+}

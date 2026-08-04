@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6377059,
+      46.5174992
+    ]
+  },
+  "properties": {
+    "id": 629166764,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "29",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Beau-S\u00e9jour",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Le Lyrique",
+    "opening_hours": "Mo-Fr 08:00-24:00, Sa 11:00-15:00,17:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.lelyrique.ch/"
+  },
+  "id": 629166764
+}

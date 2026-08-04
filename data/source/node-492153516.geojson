@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.265386,
+      47.213763
+    ]
+  },
+  "properties": {
+    "id": 492153516,
+    "addr:city": "Gelfingen",
+    "addr:housenumber": "6",
+    "addr:postcode": "6284",
+    "addr:street": "Luzernerstrasse",
+    "amenity": "restaurant",
+    "internet_access": "yes",
+    "name": "Hotel Sternen;Sternen",
+    "opening_hours": "Tu-Fr 08:30-23:30; Sa 09:00-23:30; Su 09:00-16:00",
+    "phone": "+41419171224",
+    "smoking": "no",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.sternenhotel.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 492153516
+}

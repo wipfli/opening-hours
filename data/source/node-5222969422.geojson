@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.18072,
+      47.657025
+    ]
+  },
+  "properties": {
+    "id": 5222969422,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2026-07-18",
+    "indoor_seating": "yes",
+    "name": "Sea Life Konstanz Bistro",
+    "opening_hours": "Jan-Jun: Mo-Su,PH 10:00-18:00;Jul-Aug: Mo-Su,PH 10:00-17:00;Sep-Dec: Mo-Su,PH 10:00-18:00;Dec: Mo-Su 10:00-18:00",
+    "operator": "Sea Life Konstanz",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.visitsealife.com/konstanz/das-erwartet-euch/restaurant-shop/gastronomie",
+    "wheelchair": "yes"
+  },
+  "id": 5222969422
+}

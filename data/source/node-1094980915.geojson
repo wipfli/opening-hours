@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3100412,
+      47.0221122
+    ]
+  },
+  "properties": {
+    "id": 1094980915,
+    "addr:city": "Horw",
+    "addr:housenumber": "53",
+    "addr:postcode": "6048",
+    "addr:street": "Kantonsstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Ristorante insieme",
+    "opening_hours": "Mo-Sa 08:30-14:00,18:00-23:30",
+    "phone": "+41 41 340 20 20",
+    "website": "https://ristorante-insieme.ch/"
+  },
+  "id": 1094980915
+}

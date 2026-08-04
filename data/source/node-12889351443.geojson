@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1386138,
+      46.1876526
+    ]
+  },
+  "properties": {
+    "id": 12889351443,
+    "addr:city": "Carouge GE",
+    "addr:housenumber": "8",
+    "addr:postcode": "1227",
+    "addr:street": "Place d'Armes",
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab;chicken",
+    "name": "La Pizzeria du Coin",
+    "opening_hours": "Mo-Sa 09:00-23:00",
+    "phone": "+41223369998",
+    "takeaway": "yes",
+    "website": "https://www.ubereats.com/ch/store/cafe\u2013pizzeria-du-coin/tGPZA3E9Uya7KBrJELWo-g"
+  },
+  "id": 12889351443
+}

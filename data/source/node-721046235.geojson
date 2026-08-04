@@ -1,25 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/721046235",
-    "addr:city": "Z\u00fcrich",
-    "addr:country": "CH",
-    "addr:housenumber": "189",
-    "addr:postcode": "8005",
-    "addr:street": "Limmatstrasse",
-    "amenity": "restaurant",
-    "check_date": "2024-02-13",
-    "cuisine": "malaysian",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "indoor_seating": "yes",
-    "name": "a fatt",
-    "opening_hours": "Sa,Su 11:00-22:00; We-Fr 11:00-14:00,17:00-22:00; Mo,Tu off",
-    "outdoor_seating": "yes",
-    "phone": "+41 44 304 16 89",
-    "website": "https://www.afatt.ch",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -27,5 +7,26 @@
       47.3863054
     ]
   },
-  "id": "node-721046235"
+  "properties": {
+    "id": 721046235,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "189",
+    "addr:postcode": "8005",
+    "addr:street": "Limmatstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-22",
+    "cuisine": "malaysian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "A Fatt",
+    "opening_hours": "Sa-Su 11:00-14:00, 17:00-22:00; Tu-Fr 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 304 16 89",
+    "website": "https://www.afatt.ch",
+    "website:menu": "https://afatt.ch/?page_id=585",
+    "wheelchair": "no"
+  },
+  "id": 721046235
 }

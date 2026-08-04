@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5321411,
+      47.2847918
+    ]
+  },
+  "properties": {
+    "id": 298540246,
+    "addr:city": "Langnau am Albis",
+    "addr:housenumber": "2",
+    "addr:postcode": "8135",
+    "addr:street": "Unterr\u00fctistrasse",
+    "amenity": "restaurant",
+    "name": "Pizza-Dome Haslen",
+    "opening_hours": "Tu-Su 17:00-23:00",
+    "phone": "+41 44 713 10 03",
+    "website": "https://www.pizza-dome.ch/"
+  },
+  "id": 298540246
+}

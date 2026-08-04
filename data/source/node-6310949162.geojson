@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6266706,
+      47.4116904
+    ]
+  },
+  "properties": {
+    "id": 6310949162,
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "cuisine": "regional;bbq;beef;burger;dessert",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Sternen Restaurant",
+    "opening_hours": "Mo-Fr 09:00-00:00",
+    "outdoor_seating": "garden",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 71 722 60 00",
+    "smoking": "separated",
+    "website": "https://www.sternen-gastro.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 6310949162
+}

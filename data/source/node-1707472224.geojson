@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5954088,
+      47.4087051
+    ]
+  },
+  "properties": {
+    "id": 1707472224,
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "99",
+    "addr:postcode": "8304",
+    "addr:street": "Neue Winterthurerstrasse",
+    "alt_name": "Kaimug Restaurant Glattzentrum",
+    "amenity": "restaurant",
+    "branch": "Wallisellen Glattzentrum",
+    "brand": "Kaimug",
+    "cuisine": "thai",
+    "level": "2",
+    "name": "Kaimug Restaurant",
+    "opening_hours": "Mo-Sa 09:00-20:00; PH off",
+    "opening_hours:kitchen": "Mo-Sa 09:00-20:30",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "start_date": "2018-05",
+    "website": "http://www.kaimug.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1707472224
+}

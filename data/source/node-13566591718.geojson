@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.478422,
+      47.3909903
+    ]
+  },
+  "properties": {
+    "id": 13566591718,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "753",
+    "addr:postcode": "8048",
+    "addr:street": "Badenerstrasse",
+    "alt_name": "Restaurant Farbhof",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Pizzeria Turicum",
+    "old_name": "Restaurant Farbhof",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa 17:00-23:00",
+    "takeaway": "yes",
+    "website": "https://restaurant-turicum.ch/",
+    "wheelchair": "no"
+  },
+  "id": 13566591718
+}

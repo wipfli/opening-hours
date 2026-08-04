@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4325313,
+      47.5104719
+    ]
+  },
+  "properties": {
+    "id": 9013467092,
+    "addr:city": "Arbon",
+    "addr:housenumber": "1",
+    "addr:postcode": "9320",
+    "addr:street": "Hamelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "name": "La Riva",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+41 71 555 80 22",
+    "website": "https://www.larivaarbon.ch"
+  },
+  "id": 9013467092
+}

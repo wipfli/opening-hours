@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0890354,
+      47.3845019
+    ]
+  },
+  "properties": {
+    "id": 7507371257,
+    "addr:city": "Buchs AG",
+    "addr:housenumber": "9b",
+    "addr:postcode": "5033",
+    "addr:street": "Bresteneggstrasse",
+    "alt_name": "Migros Restaurant Wynecenter",
+    "amenity": "restaurant",
+    "branch": "Buchs AG Wynecenter",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-buchs-ag-wynecenter"
+  },
+  "id": 7507371257
+}

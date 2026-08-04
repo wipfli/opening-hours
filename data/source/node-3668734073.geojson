@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0236957,
+      46.1914753
+    ]
+  },
+  "properties": {
+    "id": 3668734073,
+    "amenity": "restaurant",
+    "description": "Pizza, pasta, and Italian cuisine with a local beer menu.",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Ristorante piazzetta",
+    "opening_hours": "Mo-We 08:00-20:00; Th, Fr 08:00-23:00; Sa 07:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 835 42 47",
+    "website": "https://www.ristobarpiazzetta.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3668734073
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7462384,
+      46.629464
+    ]
+  },
+  "properties": {
+    "id": 304750652,
+    "amenity": "restaurant",
+    "brewery": "Calanda",
+    "cuisine": "sandwich;soup;cake;ice_cream",
+    "dinner": "menu",
+    "lunch": "menu",
+    "name": "Hotel Albula",
+    "opening_hours": "11:30-13:00,18:00-20:00",
+    "opening_hours:reception": "08:30-13:00,16:00-20:00",
+    "operator": "Familie Hepp",
+    "phone": "+41 81 407 11 26",
+    "reservation": "recommended",
+    "tourism": "hotel",
+    "website": "https://www.hotelalbula.ch",
+    "website:menu": "https://www.hotelalbula.ch/caf%C3%A9-lounge/speise-und-getr%C3%A4nkekarte-1"
+  },
+  "id": 304750652
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6838301,
+      47.2571539
+    ]
+  },
+  "properties": {
+    "id": 5301253159,
+    "addr:city": "M\u00e4nnedorf",
+    "addr:housenumber": "5",
+    "addr:postcode": "8707",
+    "addr:street": "Emil-Staub-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Spice Village",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-23:00; Sa-Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 539 51 10",
+    "website": "https://spicevillage.ch/"
+  },
+  "id": 5301253159
+}

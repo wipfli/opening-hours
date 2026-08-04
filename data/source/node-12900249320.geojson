@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9105331,
+      47.3487413
+    ]
+  },
+  "properties": {
+    "id": 12900249320,
+    "addr:city": "Olten",
+    "addr:housenumber": "51",
+    "addr:postcode": "4600",
+    "addr:street": "Aarauerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Wokami",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-21:30; Sa,Su 11:00-21:30",
+    "phone": "+41 62 748 5055",
+    "website": "https://www.wokami.ch/#"
+  },
+  "id": 12900249320
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0741661,
+      46.1042711
+    ]
+  },
+  "properties": {
+    "id": 746707057,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "level": "1",
+    "name": "Kwong-Ming",
+    "opening_hours": "Mo-Sa 11:30-15:00,18:30-23:00; Su 11:30-15:30,18:30-22:00",
+    "phone": "+41 27 722 45 15",
+    "website": "https://www.kwongmingch.com/"
+  },
+  "id": 746707057
+}

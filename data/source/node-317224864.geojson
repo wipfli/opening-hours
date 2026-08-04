@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6118552,
+      46.7912543
+    ]
+  },
+  "properties": {
+    "id": 317224864,
+    "amenity": "restaurant",
+    "name": "O' Montagny",
+    "opening_hours": "Mo-Tu 18:30-23:00; We-Fr 11:30-14:00,18:30-23:00, Sa \"Sur r\u00e9servation\"",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 534 30 30",
+    "website": "https://o-montagny.ch/"
+  },
+  "id": 317224864
+}

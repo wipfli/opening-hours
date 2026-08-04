@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1156795,
+      46.9282692
+    ]
+  },
+  "properties": {
+    "id": 14042218137,
+    "addr:city": "Murten",
+    "addr:housenumber": "1-3",
+    "addr:postcode": "3280",
+    "addr:street": "Rathausgasse",
+    "amenity": "restaurant",
+    "email": "info@murtenhof.ch",
+    "name": "Murtenhof",
+    "opening_hours": "Tu-Su 11:00-14:00,18:00-22:30",
+    "phone": "+41 26 672 90 30",
+    "website": "http://murtenhof.ch/hotel_restaurant/"
+  },
+  "id": 14042218137
+}

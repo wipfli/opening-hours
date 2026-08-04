@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4050217,
+      46.9424909
+    ]
+  },
+  "properties": {
+    "id": 717866254,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Trattoria Bella Italia",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:30; Su 10:00-23:00; Sa 10:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 382 01 10",
+    "website": "https://trattoria-bella-italia.ch/"
+  },
+  "id": 717866254
+}

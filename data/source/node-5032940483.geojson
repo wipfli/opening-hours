@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5418502,
+      47.5282178
+    ]
+  },
+  "properties": {
+    "id": 5032940483,
+    "amenity": "restaurant",
+    "name": "Bistro Solig\u00e4nter",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 860 33 40",
+    "smoking": "outside",
+    "website": "https://bistro-soligaenter.ch/"
+  },
+  "id": 5032940483
+}

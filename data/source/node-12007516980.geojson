@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5664099,
+      47.5647851
+    ]
+  },
+  "properties": {
+    "id": 12007516980,
+    "addr:housenumber": "9",
+    "addr:street": "Im Westfeld",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Cantilena Restaurant",
+    "opening_hours": "Mo-Fr 12:00-15:00, Th,Fr 17:30-22:00, Su 10:00-15:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.cantilena.coop/"
+  },
+  "id": 12007516980
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1408991,
+      46.1820097
+    ]
+  },
+  "properties": {
+    "id": 1634638275,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "1227",
+    "addr:street": "Rue Ancienne",
+    "amenity": "restaurant",
+    "email": "asfoodch@gmail.com",
+    "name": "Ar\u00f4mes et saveurs",
+    "opening_hours": "Tu-Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 301 22 20",
+    "takeaway": "yes",
+    "website": "https://www.aromesetsaveurs.ch/",
+    "wheelchair": "no",
+    "wheelchair:description": "2 marches 18cm \u00e0 l'entr\u00e9e, porte WC 64,5cm ouverture int\u00e9rieure, hauteur sous table 65cm \u00e0 l'int\u00e9rieur et 70cm \u00e0 l'ext\u00e9rieur, table \u00e0 pied central \u00e0 l'ext\u00e9rieur, table \u00e0 pieds lat\u00e9raux \u00e0 l'int\u00e9rieur, table chaise roulante sur demande \u00e0 la r\u00e9servation"
+  },
+  "id": 1634638275
+}

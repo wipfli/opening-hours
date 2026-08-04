@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5025088,
+      47.4169635
+    ]
+  },
+  "properties": {
+    "id": 5370187486,
+    "addr:city": "Laufen",
+    "addr:housenumber": "26",
+    "addr:postcode": "4242",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bistro zur Loki",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "phone": "+41 61 761 85 45",
+    "website": "https://www.loki-laufen.ch/"
+  },
+  "id": 5370187486
+}

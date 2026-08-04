@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5085756,
+      47.420226
+    ]
+  },
+  "properties": {
+    "id": 317005817,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8046",
+    "addr:street": "Jonas-Furrer-Strasse",
+    "alt_name": "Migros Restaurant Affoltern",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Affoltern",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date:opening_hours": "2025-07-26",
+    "cuisine": "international",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "phone": "+41 44 370 16 62",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-affoltern",
+    "wheelchair": "yes"
+  },
+  "id": 317005817
+}

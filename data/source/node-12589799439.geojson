@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6504797,
+      47.5866814
+    ]
+  },
+  "properties": {
+    "id": 12589799439,
+    "addr:city": "Riehen",
+    "addr:housenumber": "77",
+    "addr:postcode": "4125",
+    "addr:street": "Baselstrasse",
+    "amenity": "restaurant",
+    "email": "restaurant@fondationbeyeler.ch",
+    "fax": "+41 61 645 97 60",
+    "name": "Beyeler Restaurant im Park",
+    "opening_hours": "09:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 645 97 70",
+    "website": "https://restaurant.fondationbeyeler.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 12589799439
+}

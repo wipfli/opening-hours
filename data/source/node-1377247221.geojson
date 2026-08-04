@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5300961,
+      47.382094
+    ]
+  },
   "properties": {
-    "@id": "node/1377247221",
+    "id": 1377247221,
     "addr:city": "Z\u00fcrich",
     "addr:postcode": "8005",
     "amenity": "restaurant",
@@ -14,12 +21,5 @@
     "website": "https://picanha-brasil.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5300961,
-      47.382094
-    ]
-  },
-  "id": "node-1377247221"
+  "id": 1377247221
 }

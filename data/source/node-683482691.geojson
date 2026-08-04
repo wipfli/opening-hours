@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.346088,
+      47.4154942
+    ]
+  },
+  "properties": {
+    "id": 683482691,
+    "addr:city": "Spreitenbach",
+    "addr:housenumber": "9",
+    "addr:place": "Heitersberg",
+    "addr:postcode": "8957",
+    "amenity": "restaurant",
+    "cuisine": "regional;burger;steak_house",
+    "name": "Restaurant Heitersberg",
+    "opening_hours": "closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 419 90 00",
+    "reservation": "yes",
+    "website": "https://restaurant-heitersberg.ch/"
+  },
+  "id": 683482691
+}

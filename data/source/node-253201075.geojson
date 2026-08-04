@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4563737,
+      46.9471244
+    ]
+  },
+  "properties": {
+    "id": 253201075,
+    "addr:city": "Bern",
+    "addr:housenumber": "41",
+    "addr:postcode": "3011",
+    "addr:street": "Gerberngasse",
+    "amenity": "restaurant",
+    "contact:email": "info@fischerstuebli.ch",
+    "contact:phone": "+41 31 3110304",
+    "diet:vegetarian": "yes",
+    "name": "Fischerst\u00fcbli",
+    "opening_hours": "Tu-Fr 11:00-14:30,17:00-23:00; Sa 11:00-23:00; Sep 22-Oct 06,Jan 31-Feb 09 off",
+    "operator": "Essklusiv GmbH",
+    "organic": "yes",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://fischerstuebli.ch"
+  },
+  "id": 253201075
+}

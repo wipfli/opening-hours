@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9419747,
+      46.0144384
+    ]
+  },
+  "properties": {
+    "id": 12058880831,
+    "addr:city": "Massagno",
+    "addr:housenumber": "120",
+    "addr:postcode": "6900",
+    "addr:street": "Via San Gottardo",
+    "amenity": "restaurant",
+    "email": "info@spizzicoteca-michelangelo.com",
+    "name": "Pizzeria Michelangelo",
+    "opening_hours": "Mo-Su 10:30-14:30,18:00-23:00",
+    "phone": "+41 91 966 41 29",
+    "website": "https://www.spizzicoteca-michelangelo.com"
+  },
+  "id": 12058880831
+}

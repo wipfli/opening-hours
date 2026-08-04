@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4387885,
+      46.9467151
+    ]
+  },
+  "properties": {
+    "id": 598684504,
+    "amenity": "restaurant",
+    "check_date": "2025-06-25",
+    "contact:email": "info@hellys.ch",
+    "name": "Hellys",
+    "opening_hours": "Tu-Fr 16:00-18:30",
+    "phone": "+41 31 311 90 00",
+    "website": "https://hellys.ch"
+  },
+  "id": 598684504
+}

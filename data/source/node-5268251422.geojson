@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8315183,
+      47.580425
+    ]
+  },
+  "properties": {
+    "id": 5268251422,
+    "addr:housenumber": "2",
+    "addr:street": "Iselisbergstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-01-07",
+    "name": "Frohsinn",
+    "opening_hours": "We 17:00-23:00; Th-Sa 08:30-23:00",
+    "website": "https://www.frohsinn-uesslingen.ch/"
+  },
+  "id": 5268251422
+}

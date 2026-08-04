@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5943289,
+      46.5958547
+    ]
+  },
+  "properties": {
+    "id": 2495273242,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "italian;grill",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@hotel-romana.ch",
+    "name": "Tgesa Romana",
+    "opening_hours": "Mo, We-Su 10:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 684 15 44",
+    "takeaway": "yes",
+    "website": "https://www.tgesa-romana.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2495273242
+}

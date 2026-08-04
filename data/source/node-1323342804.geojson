@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0422363,
+      47.4604256
+    ]
+  },
+  "properties": {
+    "id": 1323342804,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "11",
+    "addr:postcode": "9500",
+    "addr:street": "H\u00f6rnlistrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "China Wok",
+    "not:brand:wikidata": "Q5766542",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-22:00; Sa 17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 920 09 09",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.chinawok.ch/"
+  },
+  "id": 1323342804
+}

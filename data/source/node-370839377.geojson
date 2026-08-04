@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436348,
+      47.3734874
+    ]
+  },
   "properties": {
-    "@id": "node/370839377",
+    "id": 370839377,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -23,12 +30,5 @@
     "website": "https://www.bindella.ch/de/vallocaia.html",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5436348,
-      47.3734874
-    ]
-  },
-  "id": "node-370839377"
+  "id": 370839377
 }

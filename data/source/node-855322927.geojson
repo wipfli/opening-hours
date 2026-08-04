@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1422116,
+      46.2116106
+    ]
+  },
+  "properties": {
+    "id": 855322927,
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "Fattoush",
+    "opening_hours": "12:00-15:00,18:30-21:30",
+    "phone": "+41 22 910 45 50",
+    "website": "https://www.fattoushgeneve.ch",
+    "website:menu": "https://www.fattoushgeneve.ch/en/menu"
+  },
+  "id": 855322927
+}

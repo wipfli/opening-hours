@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6386319,
+      46.5211441
+    ]
+  },
+  "properties": {
+    "id": 3530976694,
+    "amenity": "restaurant",
+    "contact:instagram": "sopoong_lausanne",
+    "cuisine": "korean",
+    "indoor_seating": "yes",
+    "name": "Sopoong",
+    "opening_hours": "Tu-Fr 11:00-16:00; Sa 11:00-15:00",
+    "outdoor_seating": "no",
+    "self_service": "no",
+    "website": "https://sopoong-lausanne.ch/"
+  },
+  "id": 3530976694
+}

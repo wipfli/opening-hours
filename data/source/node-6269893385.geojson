@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7153827,
+      47.5135566
+    ]
+  },
+  "properties": {
+    "id": 6269893385,
+    "addr:postcode": "8400",
+    "amenity": "restaurant",
+    "check_date": "2026-07-07",
+    "email": "info@lidolupo.ch",
+    "internet_access": "no",
+    "name": "Lido Lupo",
+    "opening_hours": "Jun-Aug: Tu-Sa 09:00-20:00; Jun-Aug: Mo 10:00-20:00; Jun-Aug: Su 09:00-19:00; May,Sep: Tu-Sa 08:00-18:00; May,Sep: Mo 10:00-19:00; May,Sep: Su 09:00-18:00",
+    "operator": "Schwimmbad Wolfensberg",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 52 212 55 02",
+    "website": "https://www.lidolupo.ch",
+    "wheelchair": "limited"
+  },
+  "id": 6269893385
+}

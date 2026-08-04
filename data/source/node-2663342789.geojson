@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5102272,
+      47.4270313
+    ]
+  },
+  "properties": {
+    "id": 2663342789,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "47",
+    "addr:postcode": "8046",
+    "addr:street": "B\u00e4renbohlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant B\u00fcsi",
+    "opening_hours": "Su-Fr,PH 09:00-22:00; Sa off",
+    "phone": "+41 44 371 66 70",
+    "website": "https://restaurant-b\u00fcsi.ch/"
+  },
+  "id": 2663342789
+}

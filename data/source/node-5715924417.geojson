@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6921959,
+      47.5089085
+    ]
+  },
+  "properties": {
+    "id": 5715924417,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "44",
+    "addr:postcode": "8408",
+    "addr:street": "Wieshofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Monte Civetta",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 222 19 57",
+    "toilets:wheelchair": "no",
+    "website": "https://monte-civetta.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5715924417
+}

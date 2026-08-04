@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4518209,
+      46.9546759
+    ]
+  },
+  "properties": {
+    "id": 12959299843,
+    "addr:city": "Bern",
+    "addr:housenumber": "70",
+    "addr:postcode": "3013",
+    "addr:street": "Viktoriastrasse",
+    "amenity": "restaurant",
+    "contact:whatsapp": "+41 76 208 05 45",
+    "cuisine": "persian;afghan;oriental;palestinian",
+    "diet:vegan": "yes",
+    "email": "info@gastwerk-bern.ch",
+    "name": "Gastwerk",
+    "opening_hours": "Tu-Th 11:30-13:30",
+    "phone": "+41 762 080 545",
+    "website": "https://gastwerk-bern.ch/"
+  },
+  "id": 12959299843
+}

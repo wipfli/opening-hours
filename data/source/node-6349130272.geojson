@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4427668,
+      46.9485358
+    ]
+  },
+  "properties": {
+    "id": 6349130272,
+    "amenity": "restaurant",
+    "check_date": "2026-04-14",
+    "cuisine": "pizza",
+    "email": "bern@artigiano-pizzeria.com",
+    "indoor_seating": "yes",
+    "name": "Artigiano",
+    "opening_hours": "Mo-Su,PH 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 525 38 39",
+    "website": "https://www.artigiano-pizzeria.com/",
+    "wheelchair": "yes"
+  },
+  "id": 6349130272
+}

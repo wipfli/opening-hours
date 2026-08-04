@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3080462,
+      47.0470664
+    ]
+  },
+  "properties": {
+    "id": 1814750677,
+    "addr:city": "Luzern",
+    "addr:housenumber": "29",
+    "addr:postcode": "6003",
+    "addr:street": "Hirschmattstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Basilico",
+    "opening_hours": "Mo-Sa 11:30-14:00, Mo-Th 17:30-22:30, Fr,Sa 17:30-23:30; Su off",
+    "outdoor_seating": "yes",
+    "website": "https://www.basilico-luzern.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1814750677
+}

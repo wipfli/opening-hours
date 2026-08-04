@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1866472,
+      47.2439749
+    ]
+  },
+  "properties": {
+    "id": 12090100400,
+    "addr:city": "Menziken",
+    "addr:housenumber": "22",
+    "addr:postcode": "5737",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai;regional",
+    "name": "Restaurant Hollywood",
+    "opening_hours": "Tu-Sa 17:00-24:00; Su 17:00-21:00",
+    "phone": "+41 62 771 26 26",
+    "website": "https://www.restaurant-hollywood.ch/"
+  },
+  "id": 12090100400
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5058334,
+      47.3695668
+    ]
+  },
   "properties": {
-    "@id": "node/4948524161",
+    "id": 4948524161,
     "amenity": "restaurant",
     "cuisine": "pizza",
     "delivery": "yes",
@@ -12,12 +19,5 @@
     "takeaway": "yes",
     "website": "https://www.ilbasilico.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5058334,
-      47.3695668
-    ]
-  },
-  "id": "node-4948524161"
+  "id": 4948524161
 }

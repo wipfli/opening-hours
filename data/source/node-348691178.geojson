@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7992443,
+      46.1691203
+    ]
+  },
+  "properties": {
+    "id": 348691178,
+    "addr:city": "Locarno",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "6600",
+    "addr:street": "Via Giuseppe Cattori",
+    "amenity": "restaurant",
+    "name": "Perbacco",
+    "opening_hours": "Tu-Fr 11:00-14:30, 17:30-23:00; Sa-Su 11:00-23:00",
+    "phone": "+41 91 601 07 99",
+    "website": "https://www.ristoranteperbacco.ch/"
+  },
+  "id": 348691178
+}

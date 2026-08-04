@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2682236,
+      47.4153114
+    ]
+  },
+  "properties": {
+    "id": 2608579359,
+    "addr:city": "Gossau",
+    "addr:housenumber": "215",
+    "addr:postcode": "9200",
+    "addr:street": "St. Gallerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "reservation@ladolcevita-gossau.ch",
+    "fax": "+41 71 385 99 74",
+    "name": "La Dolce Vita",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:30; Su 12:00-20:00",
+    "phone": "+41 71 385 51 51",
+    "website": "https://www.ladolcevita-gossau.ch/"
+  },
+  "id": 2608579359
+}

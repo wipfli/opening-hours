@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7201508,
+      47.5007586
+    ]
+  },
+  "properties": {
+    "id": 6082078700,
+    "addr:postcode": "8400",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-04-24",
+    "cuisine": "indian",
+    "name": "Tandoor Restaurant + Takeaway",
+    "name:de": "Tandoor - Indischer Supermarkt und Take Away",
+    "opening_hours": "Mo-Sa 10:00-20:00",
+    "website": "http://www.indian-supermarket.ch/indian/supermarket"
+  },
+  "id": 6082078700
+}

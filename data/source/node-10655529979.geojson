@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2457008,
+      47.0927338
+    ]
+  },
+  "properties": {
+    "id": 10655529979,
+    "addr:city": "Bellmund",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "2564",
+    "addr:street": "St. Niklausstrasse",
+    "amenity": "restaurant",
+    "cuisine": "proven\u00e7ale",
+    "name": "Waldschenke",
+    "opening_hours": "Tu-Fr 11:00+; Sa 17:30+",
+    "phone": "+41 32 3811217",
+    "website": "https://www.waldschenke-sanktniklaus.ch/"
+  },
+  "id": 10655529979
+}

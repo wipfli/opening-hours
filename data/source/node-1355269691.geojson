@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8163891,
+      47.2271231
+    ]
+  },
+  "properties": {
+    "id": 1355269691,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "9",
+    "addr:street": "Hauptplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-05-24",
+    "check_date:opening_hours": "2026-04-24",
+    "cuisine": "spanish",
+    "diet:vegetarian": "yes",
+    "name": "La Fuente",
+    "opening_hours": "Tu-Sa 11:30-14:00, Tu-Fr 18:00-23:00",
+    "website": "https://www.restaurante-lafuente.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1355269691
+}

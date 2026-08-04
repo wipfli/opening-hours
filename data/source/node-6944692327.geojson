@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3063453,
+      47.043666
+    ]
+  },
+  "properties": {
+    "id": 6944692327,
+    "addr:city": "Luzern",
+    "addr:housenumber": "2",
+    "addr:postcode": "6003",
+    "addr:street": "Claridenstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "indoor_seating": "yes",
+    "name": "Pastarazzi",
+    "opening_hours": "Tu-Th 11:15-22:00; Fr 11:15-23:30; Sa 09:30-23:30; Su 09:30-16:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.pastarazzi.ch/"
+  },
+  "id": 6944692327
+}

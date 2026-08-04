@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6236635,
+      46.7608833
+    ]
+  },
+  "properties": {
+    "id": 4356571844,
+    "addr:housenumber": "6",
+    "addr:street": "Scheibenstrasse",
+    "amenity": "restaurant",
+    "name": "Lady Evelyn",
+    "opening_hours": "We-Fr 11:00-23:00; Sa 16:00-23:00; Su 09:00-16:00",
+    "website": "https://ladyevelyn.ch/"
+  },
+  "id": 4356571844
+}

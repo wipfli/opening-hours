@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8465561,
+      46.4588018
+    ]
+  },
+  "properties": {
+    "id": 6377473840,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Lac",
+    "amenity": "restaurant",
+    "check_date": "2023-10-15",
+    "contact:facebook": "https://www.facebook.com/lerubisvevey/",
+    "diet:vegetarian": "yes",
+    "email": "info@lerubis.ch",
+    "name": "Le Rubis",
+    "opening_hours": "Mo-Fr 08:00-19:00; Su 09:30-18:00",
+    "opening_hours:kitchen": "Mo-Fr, Su 11:45-16:00",
+    "phone": "+41 21 921 93 48",
+    "website": "https://www.lerubis.ch"
+  },
+  "id": 6377473840
+}

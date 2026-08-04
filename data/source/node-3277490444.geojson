@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0752951,
+      46.9952572
+    ]
+  },
+  "properties": {
+    "id": 3277490444,
+    "addr:housenumber": "34",
+    "addr:postcode": "8762",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "regional",
+    "name": "Adler",
+    "opening_hours": "Tu-Sa 08:00-24:00",
+    "phone": "+41 55 644 11 71",
+    "website": "https://www.brauereigasthof-adler.ch/men%C3%BC"
+  },
+  "id": 3277490444
+}

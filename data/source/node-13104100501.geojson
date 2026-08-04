@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5746774,
+      47.3437629
+    ]
+  },
+  "properties": {
+    "id": 13104100501,
+    "addr:housenumber": "10",
+    "addr:street": "Gustav-Maurer-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Kookgai's Thai Corner",
+    "opening_hours": "Mo-We 09:00-14:00; Th-Fr 09:00-14:00, 17:30-20:00",
+    "self_service": "no",
+    "website": "https://www.kookgai.ch/"
+  },
+  "id": 13104100501
+}

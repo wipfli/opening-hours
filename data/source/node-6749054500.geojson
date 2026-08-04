@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5607986,
+      47.4532385
+    ]
+  },
+  "properties": {
+    "id": 6749054500,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@villa-antinori.ch",
+    "level": "1",
+    "name": "Villa Antinori da Bindella",
+    "opening_hours": "Mo-Su,PH 06:00-21:00",
+    "operator": "Bindella",
+    "phone": "+41 43 816 16 16",
+    "reservation": "https://www.bindella.ch/de/villa-antinori-da-bindella.html",
+    "smoking": "no",
+    "website": "https://www.bindella.ch/gastronomie/villa-antinori-da-bindella",
+    "wheelchair": "yes"
+  },
+  "id": 6749054500
+}

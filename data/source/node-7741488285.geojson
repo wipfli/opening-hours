@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2401106,
+      47.1245136
+    ]
+  },
+  "properties": {
+    "id": 7741488285,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Thai Living",
+    "opening_hours": "Mo-Tu,Th-Sa 08:00-14:00,18:00-22:00; Su 17:00-22:00; We off",
+    "website": "https://www.openstreetmap.org/changeset/175329919"
+  },
+  "id": 7741488285
+}

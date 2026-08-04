@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5396636,
+      47.3830272
+    ]
+  },
   "properties": {
-    "@id": "node/365892432",
+    "id": 365892432,
     "addr:city": "Z\u00fcrich",
     "amenity": "restaurant",
     "cuisine": "cake;coffee_shop",
@@ -14,12 +21,5 @@
     "website": "https://www.dynamo.ch/restaurant-bar",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5396636,
-      47.3830272
-    ]
-  },
-  "id": "node-365892432"
+  "id": 365892432
 }

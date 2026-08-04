@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5306087,
+      47.3743453
+    ]
+  },
   "properties": {
-    "@id": "node/914812583",
+    "id": 914812583,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "23",
@@ -15,12 +22,5 @@
     "website": "https://www.restaurant-real.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5306087,
-      47.3743453
-    ]
-  },
-  "id": "node-914812583"
+  "id": 914812583
 }

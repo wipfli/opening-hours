@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3139456,
+      46.3032328
+    ]
+  },
+  "properties": {
+    "id": 9131306979,
+    "addr:city": "Conthey",
+    "addr:postcode": "1976",
+    "addr:street": "Route du Sanetsch",
+    "amenity": "restaurant",
+    "name": "Auberge de Zanfleuron",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-18:00",
+    "opening_hours:kitchen": "Mo-Sa 11:30-15:00; Su 11:30-16:00",
+    "phone": "+41 78 841 21 21",
+    "website": "https://www.lezanfleuron.ch/"
+  },
+  "id": 9131306979
+}

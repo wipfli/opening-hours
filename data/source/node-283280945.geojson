@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7721605,
+      46.7819915
+    ]
+  },
+  "properties": {
+    "id": 283280945,
+    "addr:city": "Bristen",
+    "addr:postcode": "6475",
+    "addr:street": "Balmenegg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hotel Maderanertal",
+    "opening_hours": "Jun-Sep",
+    "phone": "+41 41 883 11 22",
+    "tourism": "hotel",
+    "website": "http://www.hotel-maderanertal.ch",
+    "wikidata": "Q56274576"
+  },
+  "id": 283280945
+}

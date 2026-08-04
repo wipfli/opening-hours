@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8969503,
+      47.5556098
+    ]
+  },
+  "properties": {
+    "id": 1638782097,
+    "alt_name": "Scharfes Eck",
+    "amenity": "restaurant",
+    "name": "Scharfes Eck",
+    "opening_hours": "Mo-Th 08:00-24:00; Fr-Sa 08:00-01:00; Nov 01-Feb 28: Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.scharfeseck.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1638782097
+}

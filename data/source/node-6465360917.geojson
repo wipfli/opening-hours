@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8190775,
+      47.2280278
+    ]
+  },
+  "properties": {
+    "id": 6465360917,
+    "addr:housenumber": "32",
+    "addr:street": "Halsgasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Siculus",
+    "opening_hours": "Mo 11:30-14:00,17:00-22:00; Tu-We off; Th-Fr 11:30-14:00; Sa-Su 11:30-22:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 420 43 60",
+    "website": "https://www.siculus.ch/"
+  },
+  "id": 6465360917
+}

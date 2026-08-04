@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5656791,
+      47.4080788
+    ]
+  },
+  "properties": {
+    "id": 9968313408,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "110",
+    "addr:postcode": "8050",
+    "addr:street": "Saatlenstrasse",
+    "alt_name": "Dreispitz",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "3 Spitz",
+    "opening_hours": "Mo-Th 09:00-21:30; Fr 09:00-23:00; Sa 17:00-23:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30,18:00+; Sa 17:30+",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 322 09 37",
+    "takeaway": "yes",
+    "website": "https://www.pizzeriadreispitz.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9968313408
+}

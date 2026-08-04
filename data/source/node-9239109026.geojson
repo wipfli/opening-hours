@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6944254,
+      46.5544562
+    ]
+  },
+  "properties": {
+    "id": 9239109026,
+    "addr:city": "Lausanne 26",
+    "addr:housenumber": "67",
+    "addr:postcode": "1000",
+    "addr:street": "Route du Jorat",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Le Popu",
+    "opening_hours": "Mo-Fr 08:00-12:00, 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41217841131",
+    "website": "http://restaurant-populaire.ch/"
+  },
+  "id": 9239109026
+}

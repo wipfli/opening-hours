@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.304705,
+      47.0523176
+    ]
+  },
+  "properties": {
+    "id": 4281894994,
+    "addr:city": "Luzern",
+    "addr:housenumber": "2",
+    "addr:postcode": "6004",
+    "addr:street": "R\u00f6ssligasse",
+    "amenity": "restaurant",
+    "email": "info@the-lubo.ch",
+    "name": "Rokka Caf\u00e9 & Bar",
+    "opening_hours": "Mo-We 07:00-00:00; Th-Sa 07:00-02:00; Su 07:00-24:00",
+    "phone": "+41 79 358 60 88",
+    "website": "https://www.rokka-by-the-lubo.ch/"
+  },
+  "id": 4281894994
+}

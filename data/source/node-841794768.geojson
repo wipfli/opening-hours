@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.749749,
+      47.1279869
+    ]
+  },
+  "properties": {
+    "id": 841794768,
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "8840",
+    "addr:street": "Schmiedenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@restaurant-einsiedeln.ch",
+    "name": "Veechia Napoli",
+    "opening_hours": "Tu-Su 10:30-14:30,17:00-23:00",
+    "phone": "+41 55 412 87 87",
+    "website": "https://www.restaurant-einsiedeln.ch/"
+  },
+  "id": 841794768
+}

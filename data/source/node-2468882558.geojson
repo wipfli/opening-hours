@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56085,
+      47.3673012
+    ]
+  },
   "properties": {
-    "@id": "node/2468882558",
+    "id": 2468882558,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "70",
     "addr:postcode": "8032",
@@ -14,12 +21,5 @@
     "website": "https://www.bistrotaparis.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.56085,
-      47.3673012
-    ]
-  },
-  "id": "node-2468882558"
+  "id": 2468882558
 }

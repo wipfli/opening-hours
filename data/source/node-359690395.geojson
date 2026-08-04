@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7278351,
+      47.4977995
+    ]
+  },
+  "properties": {
+    "id": 359690395,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "56",
+    "addr:postcode": "8400",
+    "addr:street": "Technikumstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "no",
+    "capacity": "40",
+    "check_date": "2025-01-27",
+    "cuisine": "italian",
+    "delivery": "no",
+    "level": "0",
+    "name": "La Perla",
+    "opening_hours": "Mo 11:30-14:00; Tu-Fr 11:30-14:00, 18:00-22:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 212 55 66",
+    "reservation": "yes",
+    "takeaway": "no",
+    "website": "https://ristorantelaperla.ch/",
+    "wheelchair": "no"
+  },
+  "id": 359690395
+}

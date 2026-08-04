@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5953324,
+      47.4106081
+    ]
+  },
+  "properties": {
+    "id": 3268664485,
+    "addr:housenumber": "9",
+    "addr:street": "Richtiarkade",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Enzian Veggibistro",
+    "opening_hours": "Mo-Fr; PH closed",
+    "operator": "Stiftung Enzian",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway:covid19": "only",
+    "toilets": "yes",
+    "website": "https://stiftung-enzian.ch/unsere-betriebe/gastronomie/cafebars/",
+    "wheelchair": "yes"
+  },
+  "id": 3268664485
+}

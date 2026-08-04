@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8558095,
+      46.6846641
+    ]
+  },
+  "properties": {
+    "id": 7817784242,
+    "addr:housenumber": "10",
+    "addr:street": "Unionsgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-12",
+    "description": "Vegi and Vegan food",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Velo Cafe",
+    "opening_hours": "08:00-16:00",
+    "website": "https://velo-cafe.ch/"
+  },
+  "id": 7817784242
+}

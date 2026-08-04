@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0946289,
+      46.7606006
+    ]
+  },
+  "properties": {
+    "id": 2459513465,
+    "addr:city": "Posieux",
+    "addr:housename": "Brasserie La Croix-Blanche",
+    "addr:housenumber": "71",
+    "addr:postcode": "1725",
+    "addr:street": "Route de Fribourg",
+    "alt_name": "brewery brasserie brauerei biere artisanale craft beer posieux",
+    "amenity": "restaurant",
+    "cuisine": "beer",
+    "name": "Brasserie La Croix-Blanche",
+    "opening_hours": "Mo-We 06:30-23:00; Th 06:30-23:30; Fr 06:30-24:00; Sa 08:00-24:00",
+    "website": "http://www.brasserie-fribourg.com/"
+  },
+  "id": 2459513465
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1461512,
+      46.2120313
+    ]
+  },
+  "properties": {
+    "id": 12506704868,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "34",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Zurich",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "Francesinhas & Cia",
+    "opening_hours": "Mo-Th 11:00-14:30, 18:00-22:30; Fr-Sa 10:00-23:00; Su 10:00-22:30",
+    "phone": "+41 22 731 35 36",
+    "website": "https://www.francesinhasgeneve.com/"
+  },
+  "id": 12506704868
+}

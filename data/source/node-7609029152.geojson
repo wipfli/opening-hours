@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4366361,
+      46.9537271
+    ]
+  },
+  "properties": {
+    "id": 7609029152,
+    "addr:city": "Bern",
+    "addr:housenumber": "33",
+    "addr:postcode": "3012",
+    "addr:street": "Hallerstrasse",
+    "alt_name": "Hallers brasserie tout le monde",
+    "amenity": "restaurant",
+    "check_date": "2025-12-29",
+    "contact:email": "genuss@hallersbrasserie.ch",
+    "contact:facebook": "https://www.facebook.com/brasserietoutlemonde",
+    "contact:instagram": "https://www.instagram.com/hallersbrasserie",
+    "contact:phone": "+41 31 9782121",
+    "name": "Hallers Brasserie",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-23:30; Sa 17:30-23:30",
+    "website": "https://www.hallersbrasserie.ch/"
+  },
+  "id": 7609029152
+}

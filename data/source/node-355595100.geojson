@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7237585,
+      47.353266
+    ]
+  },
+  "properties": {
+    "id": 355595100,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-09-29",
+    "name": "Aquarius",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 09:00-19:00",
+    "website": "https://www.spitaluster.ch/Besucher/Essen-und-Einkaufen.29.html"
+  },
+  "id": 355595100
+}

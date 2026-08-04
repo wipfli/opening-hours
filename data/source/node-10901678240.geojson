@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6382124,
+      47.6962159
+    ]
+  },
+  "properties": {
+    "id": 10901678240,
+    "addr:housenumber": "16",
+    "addr:street": "Bachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-07",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "0",
+    "name": "Barkada",
+    "opening_hours": "Tu-We 11:30-13:30,17:00-20:00; Th 11:30-13:30,17:00-21:00; Fr 11:30-13:30,17:00-22:00; Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 52 624 00 80",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.barkada.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10901678240
+}

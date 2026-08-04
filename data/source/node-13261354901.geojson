@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3969648,
+      47.4346573
+    ]
+  },
+  "properties": {
+    "id": 13261354901,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "18",
+    "addr:postcode": "9000",
+    "addr:street": "Buchentalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Hellas Greek Food",
+    "opening_hours": "Mo-Fr 11:00-13:30,17:00-22:00; Sa-Su 09:00-18:00",
+    "phone": "+41 71 245 00 01",
+    "website": "https://hellasgreekfood-sg.ch/"
+  },
+  "id": 13261354901
+}

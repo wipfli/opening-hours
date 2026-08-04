@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3123117,
+      46.226802
+    ]
+  },
+  "properties": {
+    "id": 9093652028,
+    "addr:city": "Conthey",
+    "addr:housenumber": "19",
+    "addr:postcode": "1964",
+    "addr:street": "Rte de la Morge",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-03-15",
+    "name": "Dix-neuf 64 - Resto Bar Lounge",
+    "opening_hours": "Tu-Sa 09:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41273464433",
+    "website": "https://www.dixneuf-64.ch/"
+  },
+  "id": 9093652028
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478901,
+      47.3608803
+    ]
+  },
   "properties": {
-    "@id": "node/1710700206",
+    "id": 1710700206,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "2",
@@ -23,12 +30,5 @@
     "website": "https://molino.ch/de/ristorante-frascati",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5478901,
-      47.3608803
-    ]
-  },
-  "id": "node-1710700206"
+  "id": 1710700206
 }

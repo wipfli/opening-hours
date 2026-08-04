@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8495218,
+      46.7206714
+    ]
+  },
+  "properties": {
+    "id": 13949459564,
+    "addr:city": "Davos Clavadel",
+    "addr:country": "CH",
+    "addr:housenumber": "34",
+    "addr:postcode": "7272",
+    "addr:street": "Sertigerstrasse",
+    "amenity": "restaurant",
+    "ele": "1860",
+    "email": "info@walserhuus.ch",
+    "fax": "+41 81 410 60 35",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Walserhuus",
+    "opening_hours": "24/7",
+    "operator": "Annalies und Joos",
+    "phone": "+41 81 410 60 30",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.walserhuus.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 13949459564
+}

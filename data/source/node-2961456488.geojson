@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.632962,
+      47.6960248
+    ]
+  },
+  "properties": {
+    "id": 2961456488,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8200",
+    "addr:street": "Tanne",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "Tanne Schaffhausen",
+    "opening_hours": "Tu,We 11:30-14:00; Th,Fr 11:30-22:00; Sa 10:00-16:00",
+    "website": "https://www.tanneschaffhausen.ch"
+  },
+  "id": 2961456488
+}

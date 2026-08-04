@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4487291,
+      46.9429595
+    ]
+  },
+  "properties": {
+    "id": 491060929,
+    "addr:city": "Bern",
+    "addr:housenumber": "5",
+    "addr:postcode": "3000",
+    "addr:street": "Helvetiaplatz",
+    "alt_name": "Bistro Steinhalle",
+    "amenity": "restaurant",
+    "contact:addr": "Helvetiaplatz 5, 3005 Bern",
+    "contact:email": "info@steinhalle.ch",
+    "contact:facebook": "https://www.facebook.com/steinhallebern/",
+    "contact:fax": "+41 31 3515300",
+    "contact:instagram": "https://www.instagram.com/steinhallebern/",
+    "diet:vegetarian": "yes",
+    "name": "Steinhalle",
+    "opening_hours": "Tu-Sa 11:00-24:00; Su 10:00-24:00",
+    "operator": "Lime Concepts AG",
+    "phone": "+41 31 351 51 00",
+    "website": "https://www.steinhalle.ch",
+    "wheelchair": "limited",
+    "wikidata": "Q90254517"
+  },
+  "id": 491060929
+}

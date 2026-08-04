@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8440317,
+      46.4617216
+    ]
+  },
+  "properties": {
+    "id": 7167178477,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "1800",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegan": "yes",
+    "name": "Chef Xu",
+    "opening_hours": "Mo, We-Su 11:00-14:30, 17:30-22:30",
+    "phone": "+41 21 922 11 66",
+    "website": "https://chef-xu.business.site/"
+  },
+  "id": 7167178477
+}

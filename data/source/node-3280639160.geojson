@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4164151,
+      47.0004268
+    ]
+  },
+  "properties": {
+    "id": 3280639160,
+    "addr:city": "Kirchlindach",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "3038",
+    "addr:street": "Lindachstrasse",
+    "alt_name": "Pizzeria al Tiglio Restaurant zur Linde",
+    "amenity": "restaurant",
+    "check_date": "2025-05-03",
+    "contact:email": "info@linde-kirchlindach.ch",
+    "contact:phone": "+41 31 8290360",
+    "name": "Linde",
+    "opening_hours": "Mo-Tu off; We-Su",
+    "operator": "Helena & Peter Brudermann",
+    "source": "survey and website",
+    "website": "https://www.linde-kirchlindach.ch"
+  },
+  "id": 3280639160
+}

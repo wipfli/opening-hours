@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1476351,
+      46.2040528
+    ]
+  },
+  "properties": {
+    "id": 1282981554,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "56",
+    "addr:postcode": "1204",
+    "addr:street": "Rue du Rh\u00f4ne",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Le Baroque",
+    "opening_hours": "Su 10:00-10:00, 22:00-22:00; Mo 19:00-20:00; Tu 19:00-20:00, 23:00-00:00; We 12:00-13:00, 20:00-00:00; Th 19:00-02:00; Fr 20:00-02:00; Sa 19:00-02:00",
+    "phone": "+41 22 310 39 90",
+    "website": "https://www.lebaroquerestaurant.com/"
+  },
+  "id": 1282981554
+}

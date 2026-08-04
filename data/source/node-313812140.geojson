@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4433844,
+      46.9479829
+    ]
+  },
+  "properties": {
+    "id": 313812140,
+    "addr:city": "Bern",
+    "addr:housenumber": "2",
+    "addr:postcode": "3011",
+    "addr:street": "B\u00e4renplatz",
+    "alt_name": "Mishio Vatterland",
+    "amenity": "restaurant",
+    "branch": "Bern Vatterland",
+    "brand": "Mishio",
+    "check_date": "2026-01-01",
+    "contact:addr": "B\u00e4renplatz 2, 3011 Bern",
+    "contact:email": "vatterland@mishio.ch",
+    "contact:fax": "+41 31 3114662",
+    "contact:phone": "+41 31 3131121",
+    "cuisine": "asian",
+    "level": "1",
+    "levels": "1",
+    "name": "Mishio",
+    "opening_hours": "Mo-Sa 11:30-22:00",
+    "operator": "ZFV-Unternehmungen",
+    "website": "https://mishio.ch/bern-vatterland/",
+    "wheelchair": "yes"
+  },
+  "id": 313812140
+}

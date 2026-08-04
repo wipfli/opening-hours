@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9473348,
+      47.2227007
+    ]
+  },
+  "properties": {
+    "id": 2628869753,
+    "addr:city": "Schmerikon",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8716",
+    "addr:street": "Aabachstrasse",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "email": "info@strand-hotel.ch",
+    "location": "lakeside",
+    "name": "Strandhotel",
+    "opening_hours": "Tu-Su; Jul-Aug: Mo-Su",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 282 56 00",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.strand-hotel.ch/"
+  },
+  "id": 2628869753
+}

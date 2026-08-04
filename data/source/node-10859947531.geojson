@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4448098,
+      46.9492153
+    ]
+  },
+  "properties": {
+    "id": 10859947531,
+    "amenity": "restaurant",
+    "capacity": "130",
+    "check_date": "2026-01-01",
+    "contact:phone": "+41 31 310 99 99",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "level": "0;-1",
+    "name": "Galleria Luce",
+    "opening_hours": "Mo-Th,Su 11:30-14:00,18:00-23:00; Fr-Sa 11:30-14:00,18:00-23:30",
+    "operator": "Nilovic + Nilovic",
+    "reservation": "yes",
+    "website": "https://www.ristoranteluce.ch/gallerialuce"
+  },
+  "id": 10859947531
+}

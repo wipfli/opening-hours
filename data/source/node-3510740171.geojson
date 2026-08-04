@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3091937,
+      47.0607672
+    ]
+  },
+  "properties": {
+    "id": 3510740171,
+    "amenity": "restaurant",
+    "cuisine": "brazilian",
+    "name": "Churrascaria do Sul",
+    "opening_hours": "Mo-Tu 11:00-14:30; We-Fr 11:00-14:30,17:00-00:30; Sa-Su 17:00-00:30",
+    "website": "https://churrascaria-do-sul.ch/"
+  },
+  "id": 3510740171
+}

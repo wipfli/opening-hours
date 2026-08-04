@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7210365,
+      46.1842272
+    ]
+  },
+  "properties": {
+    "id": 3660315397,
+    "addr:city": "Cavigliano",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "6654",
+    "addr:street": "Via Stazione",
+    "amenity": "restaurant",
+    "name": "Ristorante-Pensione Peppino",
+    "opening_hours": "24/7",
+    "website": "https://www.dapeppino.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3660315397
+}

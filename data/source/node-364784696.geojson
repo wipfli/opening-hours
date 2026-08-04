@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1187821,
+      46.1898296
+    ]
+  },
+  "properties": {
+    "id": 364784696,
+    "addr:floor": "0",
+    "addr:housenumber": "25",
+    "addr:postcode": "1213",
+    "addr:street": "Route de Chancy",
+    "amenity": "restaurant",
+    "check_date": "2025-08-29",
+    "cuisine": "pizza",
+    "level": "0",
+    "name": "Pizzeria des Ormeaux",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa-Su 11:00-15:00,17:30-23:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 792 02 62",
+    "reservation": "yes",
+    "website": "https://www.pizzeria-les-ormeaux.ch",
+    "website:menu": "https://www.pizzeria-les-ormeaux.ch/nos-mets",
+    "wheelchair": "yes"
+  },
+  "id": 364784696
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4997519,
+      47.5575865
+    ]
+  },
+  "properties": {
+    "id": 291130137,
+    "addr:housenumber": "13",
+    "addr:street": "Stockistrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Traube",
+    "opening_hours": "Tu-Sa 08:00-24:00; Su 09:00-22:30",
+    "phone": "+41 44 867 02 07",
+    "website": "http://www.traube-glattfelden.ch"
+  },
+  "id": 291130137
+}

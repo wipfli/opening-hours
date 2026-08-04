@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0808982,
+      46.2257527
+    ]
+  },
+  "properties": {
+    "id": 1871628928,
+    "addr:city": "Meyrin",
+    "addr:housenumber": "43",
+    "addr:street": "Rue du Cardinal-Journet",
+    "amenity": "restaurant",
+    "name": "Piatto d'Oro",
+    "opening_hours": "Mo-Sa 11:45-14:00, 18:45-22:30",
+    "phone": "+41 22 782 51 14",
+    "website": "http://www.piattodoro.ch"
+  },
+  "id": 1871628928
+}

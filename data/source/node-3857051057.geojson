@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1852289,
+      46.7284236
+    ]
+  },
+  "properties": {
+    "id": 3857051057,
+    "addr:city": "Meiringen",
+    "addr:housenumber": "1",
+    "addr:postcode": "3860",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Migros Restaurant Meiringen",
+    "amenity": "restaurant",
+    "branch": "Meiringen",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-meiringen"
+  },
+  "id": 3857051057
+}

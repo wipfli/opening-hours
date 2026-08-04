@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6361117,
+      46.5236392
+    ]
+  },
+  "properties": {
+    "id": 13527325268,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "11",
+    "addr:postcode": "1005",
+    "addr:street": "Rue Cit\u00e9-Derri\u00e8re",
+    "alt_name": "Amici \u00e0 la Pomme de Pin",
+    "amenity": "restaurant",
+    "check_date": "2026-01-23",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Amici",
+    "opening_hours": "Mo-Fr 09:30-14:45,18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 311 54 58",
+    "reservation": "recommended",
+    "website": "https://ristoranteamici.ch/"
+  },
+  "id": 13527325268
+}

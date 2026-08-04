@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5976018,
+      46.6341688
+    ]
+  },
+  "properties": {
+    "id": 294260804,
+    "addr:city": "Andermatt",
+    "addr:housenumber": "65",
+    "addr:postcode": "6490",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "capacity": "50",
+    "check_date": "2025-03-07",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "name": "Spycher",
+    "opening_hours": "Mo-Su 09:00-18:00+",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://spycher-andermatt.ch/www/index.php/de/restaurant-spycher"
+  },
+  "id": 294260804
+}

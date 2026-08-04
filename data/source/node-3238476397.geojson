@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7935362,
+      46.168773
+    ]
+  },
+  "properties": {
+    "id": 3238476397,
+    "addr:city": "Locarno",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "6600",
+    "addr:street": "Via della Motta",
+    "amenity": "restaurant",
+    "check_date": "2026-01-13",
+    "check_date:opening_hours": "2026-01-13",
+    "diet:vegetarian": "yes",
+    "name": "Il Boccalino",
+    "opening_hours": "Mo-Sa 11:30-14:00,17:30-24:00; Su 17:30-24:00",
+    "phone": "+41 91 751 96 81",
+    "website": "http://www.ilboccalino.ch",
+    "wheelchair": "no"
+  },
+  "id": 3238476397
+}

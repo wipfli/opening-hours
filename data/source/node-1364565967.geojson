@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5939514,
+      47.4651245
+    ]
+  },
+  "properties": {
+    "id": 1364565967,
+    "addr:city": "Gai\u00dfau",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "6974",
+    "addr:street": "Rheinstra\u00dfe",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "hubin@hubin.at",
+    "name": "Hu Bin",
+    "opening_hours": "Mo-Tu off; We-Sa 11:30-14:30,17:30-23:00; Su 11:00-21:00",
+    "phone": "+43557871211",
+    "website": "https://hubin.at/",
+    "wheelchair": "limited"
+  },
+  "id": 1364565967
+}

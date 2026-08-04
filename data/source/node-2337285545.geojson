@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1462065,
+      46.1964873
+    ]
+  },
+  "properties": {
+    "id": 2337285545,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "18",
+    "addr:street": "Boulevard des Philosophes",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-05-04",
+    "cuisine": "chinese",
+    "name": "Chez Kuk",
+    "opening_hours": "Su-Fr 11:30-14:30, Tu-Su 19:00-23:00",
+    "phone": "+41 22 329 93 80",
+    "website": "https://chezkuk.ch/"
+  },
+  "id": 2337285545
+}

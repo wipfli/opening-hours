@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2857343,
+      47.0701327
+    ]
+  },
+  "properties": {
+    "id": 13193585195,
+    "addr:city": "Emmenbr\u00fccke",
+    "addr:housenumber": "7",
+    "addr:postcode": "6020",
+    "addr:street": "Sedelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@inforno.ch",
+    "name": "Inforno Secret Pizza Lab",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:30; Su 16:00-22:30",
+    "phone": "+41 76 762 85 99",
+    "website": "https://inforno.ch/"
+  },
+  "id": 13193585195
+}

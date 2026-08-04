@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3788324,
+      47.4251252
+    ]
+  },
+  "properties": {
+    "id": 12613607784,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "37",
+    "addr:postcode": "9000",
+    "addr:street": "Br\u00fchlgasse",
+    "amenity": "restaurant",
+    "name": "Corso",
+    "opening_hours": "Tu-Fr 08:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "website": "https://restaurant-corso.ch/"
+  },
+  "id": 12613607784
+}

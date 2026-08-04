@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5435914,
+      47.3792128
+    ]
+  },
   "properties": {
-    "@id": "node/3706789050",
+    "id": 3706789050,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "32",
     "addr:postcode": "8006",
@@ -10,19 +17,14 @@
     "check_date": "2023-12-09",
     "cuisine": "international",
     "delivery": "no",
+    "indoor_seating": "yes",
     "name": "Didi's Frieden",
     "opening_hours": "Mo-Fr 11:00-14:30,18:00-24:00, Sa 17:00-24:00",
+    "outdoor_seating": "yes",
     "phone": "+41 44 253 18 10",
     "smoking": "no",
     "takeaway": "no",
     "website": "https://www.didisfrieden.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5435914,
-      47.3792128
-    ]
-  },
-  "id": "node-3706789050"
+  "id": 3706789050
 }

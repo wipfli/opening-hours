@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6001527,
+      46.5271587
+    ]
+  },
+  "properties": {
+    "id": 13844224503,
+    "addr:city": "Renens",
+    "addr:housenumber": "6",
+    "addr:postcode": "1020",
+    "addr:street": "Avenue de Malley",
+    "amenity": "restaurant",
+    "cuisine": "oriental;persian",
+    "name": "18e Rooftop",
+    "opening_hours": "Tu-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su,Mo 16:30-22:00",
+    "phone": "+41 44 797 28 60",
+    "website": "https://18e.ch"
+  },
+  "id": 13844224503
+}

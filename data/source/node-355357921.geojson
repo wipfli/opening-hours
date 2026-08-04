@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0816162,
+      46.5834814
+    ]
+  },
+  "properties": {
+    "id": 355357921,
+    "addr:housenumber": "24",
+    "addr:street": "Rue du Bourg",
+    "amenity": "restaurant",
+    "email": "ah@aubergehalle.ch",
+    "name": "Auberge de la Halle",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+41 26 921 21 78",
+    "website": "https://aubergehalle.ch/"
+  },
+  "id": 355357921
+}

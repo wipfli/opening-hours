@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3717081,
+      47.3057751
+    ]
+  },
+  "properties": {
+    "id": 4907696051,
+    "addr:city": "Werd-Rottenschwil",
+    "addr:housenumber": "24",
+    "addr:postcode": "8919",
+    "addr:street": "Werd",
+    "amenity": "restaurant",
+    "email": "ewigliechtli@bluewin.ch",
+    "name": "Restaurant Reussbr\u00fccke \"s`ewige Liechtli\"",
+    "opening_hours": "We-Sa 10:00+; Su 10:00-17:00; Mo-Tu off",
+    "phone": "+41 56 634 11 20",
+    "toilets:wheelchair": "no",
+    "website": "https://www.ewigliechtli.ch/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 4907696051
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1545091,
+      46.8046791
+    ]
+  },
+  "properties": {
+    "id": 563877145,
+    "addr:housenumber": "25",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de Romont",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Le-Midi-104762706288226",
+    "contact:instagram": "cafedumidifribourg",
+    "diet:vegetarian": "yes",
+    "name": "Le Midi",
+    "opening_hours": "Mo-Th 08:00-23:30; Fr 08:00-00:00; Sa 09:00-00:00; Su 11:00-23:30",
+    "phone": "+41 26 322 31 33",
+    "website": "https://www.lemidi.ch/",
+    "website:menu": "https://www.lemidi.ch/lacarte.html",
+    "wheelchair": "limited"
+  },
+  "id": 563877145
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3560735,
+      46.9646151
+    ]
+  },
+  "properties": {
+    "id": 7465153309,
+    "addr:city": "Stans",
+    "addr:housenumber": "2",
+    "addr:postcode": "6370",
+    "addr:street": "Bitzistrasse",
+    "alt_name": "Migros Restaurant L\u00e4nderpark",
+    "amenity": "restaurant",
+    "branch": "Stans L\u00e4nderpark",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "level": "2",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:30-19:00, Sa 07:30-18:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-stans-laenderpark"
+  },
+  "id": 7465153309
+}

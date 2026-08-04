@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1076383,
+      47.5689772
+    ]
+  },
+  "properties": {
+    "id": 251369004,
+    "amenity": "restaurant",
+    "email": "info@eigenhof.ch",
+    "fax": "+41 71 622 55 56",
+    "name": "Wirtschaft zum Eigenhof",
+    "opening_hours": "Mo 11:00-14:00; We-Su 11:00-14:00, 17:00-23:00",
+    "operator": "Familie Hans-Kaspar Bornhauser",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 622 55 27",
+    "website": "https://www.eigenhof.ch/",
+    "wheelchair": "no"
+  },
+  "id": 251369004
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6147483,
+      47.0009628
+    ]
+  },
+  "properties": {
+    "id": 13728561263,
+    "addr:city": "Brunnen",
+    "addr:housenumber": "8",
+    "addr:postcode": "6440",
+    "addr:street": "Schwyzerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Salvi & Gino",
+    "opening_hours": "Mo,Th-Sa 11:00-14:30,18:00-23:00; Su 11:00-15:30,17:30-22:00",
+    "phone": "+41 41 820 14 82",
+    "website": "https://salvigino.ch/brunnen-menuekarte/"
+  },
+  "id": 13728561263
+}

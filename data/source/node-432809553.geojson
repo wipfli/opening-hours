@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5212819,
+      47.3899318
+    ]
+  },
+  "properties": {
+    "id": 432809553,
+    "addr:housenumber": "305",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-02-11",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "threeOfive",
+    "opening_hours": "11:30-13:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 544 82 30",
+    "website": "https://threeofive.sv-restaurant.ch/",
+    "wheelchair": "no"
+  },
+  "id": 432809553
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2295589,
+      46.3869436
+    ]
+  },
+  "properties": {
+    "id": 5282221575,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Happy Days",
+    "opening_hours": "Tu-Th 11:30-14:00, 18:00-21:30; Fr 11:30-14:00, 18:00-22:00; Sa 09:00-15:00, 18:00-22:00; Su 09:30-21:30",
+    "phone": "+41 22 361 37 37",
+    "website": "https://www.americandiner.ch/",
+    "website:menu": "https://americandiner.ch/la-carte/"
+  },
+  "id": 5282221575
+}

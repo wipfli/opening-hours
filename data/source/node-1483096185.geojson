@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0762483,
+      46.1105977
+    ]
+  },
+  "properties": {
+    "id": 1483096185,
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "brand:wikipedia": "de:Coop (Schweiz)",
+    "cuisine": "german",
+    "layer": "1",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Th 08:30-18:30; Fr 08:30-20:00; Sa 08:00-17:00",
+    "operator": "Coop",
+    "phone": "+41 27 720 47 60",
+    "website": "https://www.cristal-centre.ch/"
+  },
+  "id": 1483096185
+}

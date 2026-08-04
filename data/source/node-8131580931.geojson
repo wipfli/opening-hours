@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6223241,
+      46.5076188
+    ]
+  },
+  "properties": {
+    "id": 8131580931,
+    "addr:housenumber": "7",
+    "addr:street": "Quai de la Nautique",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "diet:vegetarian": "yes",
+    "email": "hoianrestaurant.bbq@gmail.com",
+    "name": "Hoian",
+    "opening_hours": "Mo-Su 11:00-15:00,18:00-24:00",
+    "phone": "+41 21 617 71 51",
+    "website": "https://www.hoianbbq.ch"
+  },
+  "id": 8131580931
+}

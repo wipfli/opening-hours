@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7184166,
+      47.3492494
+    ]
+  },
+  "properties": {
+    "id": 354532237,
+    "amenity": "restaurant",
+    "check_date": "2025-07-19",
+    "cuisine": "asian",
+    "level": "0",
+    "name": "Asialand",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-17:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.asialand.ch/"
+  },
+  "id": 354532237
+}

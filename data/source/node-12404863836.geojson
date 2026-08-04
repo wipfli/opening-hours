@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0501363,
+      47.4676696
+    ]
+  },
+  "properties": {
+    "id": 12404863836,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "88",
+    "addr:postcode": "9500",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Hof zu Wil",
+    "opening_hours": "Tu-Fr 11:00-23:00; Sa 09:00-23:00",
+    "phone": "+41719138700",
+    "website": "https://hofzuwil.ch/"
+  },
+  "id": 12404863836
+}

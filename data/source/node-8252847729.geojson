@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.923515,
+      46.3954639
+    ]
+  },
+  "properties": {
+    "id": 8252847729,
+    "addr:city": "Villeneuve VD",
+    "addr:housenumber": "90",
+    "addr:postcode": "1844",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "check_date": "2023-11-11",
+    "cuisine": "indian",
+    "name": "Indian Paradise",
+    "opening_hours": "Tu-Fr 10:00-14:00,17:00-21:30; Sa 10:00-15:00,18:00-22:00",
+    "operator": "Indian Paradise",
+    "phone": "+41 21 968 11 53",
+    "website": "http://www.indianparadise.ch/"
+  },
+  "id": 8252847729
+}

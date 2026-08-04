@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1408211,
+      46.188487
+    ]
+  },
+  "properties": {
+    "id": 12609083869,
+    "addr:housenumber": "1",
+    "addr:postcode": "1227",
+    "addr:street": "Quai du Cheval-Blanc 1",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Sak\u00e9",
+    "opening_hours": "We-Sa 19:00-21:30",
+    "phone": "+41 22 301 49 36",
+    "website": "https://sake-restaurant.ch/"
+  },
+  "id": 12609083869
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.636369,
+      47.4526637
+    ]
+  },
+  "properties": {
+    "id": 11907851814,
+    "addr:city": "St. Margrethen SG",
+    "addr:housenumber": "12",
+    "addr:postcode": "9430",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante il Fiore da Nicola",
+    "opening_hours": "Mo off; Tu-Sa 11:30-14:00,18:00-22:00; Su 11:30-14:00,18:00-21:00",
+    "phone": "+41 71 740 04 84",
+    "website": "https://www.ristoranteilfioredanicola.ch/"
+  },
+  "id": 11907851814
+}

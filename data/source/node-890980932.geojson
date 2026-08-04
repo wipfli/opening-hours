@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4377268,
+      46.9570893
+    ]
+  },
+  "properties": {
+    "id": 890980932,
+    "alt_name": "Ristorante Pizzeria La Vita",
+    "amenity": "restaurant",
+    "check_date": "2025-06-10",
+    "contact:addr": "Neubr\u00fcckstrasse 70, 3012 Bern",
+    "contact:email": "info@lavita-bern.ch",
+    "contact:fax": "+41 31 302 20 17",
+    "contact:phone": "+41 31 302 20 16",
+    "cuisine": "italian",
+    "name": "La Vita",
+    "old_name": "Rotonda",
+    "opening_hours": "Mo-Sa 09:00-23:30; Su off; PH off",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.lavita-bern.ch",
+    "wheelchair": "no"
+  },
+  "id": 890980932
+}

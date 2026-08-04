@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9218069,
+      45.9891844
+    ]
+  },
+  "properties": {
+    "id": 6173322868,
+    "addr:city": "Montagnola",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "6926",
+    "addr:street": "Via ai Canvetti",
+    "amenity": "restaurant",
+    "cuisine": "indian;asian",
+    "email": "info@tablalugano.ch",
+    "name": "Tabla",
+    "opening_hours": "Mo-Sa 17:00-25:00, Su off",
+    "operator": "Gagan & Daniela Nirh",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 968 19 00",
+    "phone:mobile": "+41 79 359 48 46",
+    "website": "https://www.tablalugano.ch/",
+    "website:menu": "https://www.tablalugano.ch/index.php/our-menu"
+  },
+  "id": 6173322868
+}

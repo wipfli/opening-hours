@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8435513,
+      46.4601973
+    ]
+  },
+  "properties": {
+    "id": 11377488452,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "1800",
+    "addr:street": "Rue des Deux-March\u00e9s",
+    "amenity": "restaurant",
+    "email": "info@ratatouille.ch",
+    "level": "0",
+    "name": "Ratatouille",
+    "opening_hours": "Tu-Fr 08:00-18:30; Sa 08:00-17:00",
+    "phone": "+41 21 965 61 10",
+    "website": "https://www.ratatouille.ch/"
+  },
+  "id": 11377488452
+}

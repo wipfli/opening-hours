@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7483426,
+      46.0188951
+    ]
+  },
+  "properties": {
+    "id": 2432262821,
+    "addr:city": "Zermatt",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "3920",
+    "addr:street": "Kirchstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "no",
+    "email": "info@oldzermatt.ch",
+    "fax": "+41 27 966 23 02",
+    "name": "Old Zermatt",
+    "opening_hours": "Mo-Su 12:00-23:00",
+    "phone": "+41279662388",
+    "website": "https://oldzermatt.ch"
+  },
+  "id": 2432262821
+}

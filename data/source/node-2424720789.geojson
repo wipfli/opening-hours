@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7585596,
+      47.5078362
+    ]
+  },
+  "properties": {
+    "id": 2424720789,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "4",
+    "addr:postcode": "8404",
+    "addr:street": "R\u00f6mertorstrasse",
+    "amenity": "restaurant",
+    "loc_name": "Bahnh\u00f6fli",
+    "name": "Bahnh\u00f6fli Oberi",
+    "opening_hours": "Tu-Th 11:30-23:00, Fr 11:30-24:00, Sa 16:00-24:00",
+    "phone": "+41 52 232 00 32",
+    "website": "https://bahnhoefli-oberi.ch"
+  },
+  "id": 2424720789
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9006739,
+      47.55846
+    ]
+  },
+  "properties": {
+    "id": 567443026,
+    "addr:city": "Frauenfeld",
+    "addr:housenumber": "2",
+    "addr:postcode": "8500",
+    "addr:street": "Hohenzornstrasse",
+    "amenity": "restaurant",
+    "description:covid19": "Siehe auch http://www.brauhaus.ch/xml_1/internet/de/application/d2/f54.cfm - Vorbestellung per Telefon von 10:00-15:00 oder Email an info@brauhaus.ch m\u00f6glich",
+    "email": "frauenfeld@brauhaus.ch",
+    "microbrewery": "yes",
+    "name": "Brauhaus",
+    "opening_hours": "Mo-Th 08:00-23:30; Fr 08:00-24:00; Sa 11:00-24:00; Su 10:00-22:00",
+    "opening_hours:covid19": "Mo-Fr 11:00-14:00",
+    "operator": "Brauhaus Sternen AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 728 99 09",
+    "takeaway": "yes",
+    "takeaway:covid19": "only",
+    "website": "https://www.brauhaus.ch/"
+  },
+  "id": 567443026
+}

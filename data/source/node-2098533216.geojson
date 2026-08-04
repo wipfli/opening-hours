@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6185555,
+      46.9817757
+    ]
+  },
+  "properties": {
+    "id": 2098533216,
+    "addr:city": "Morschach",
+    "addr:postcode": "6443",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-10-14",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Hirschen",
+    "opening_hours": "We-Fr 08:30-24:00; Sa 09:30-24:00; Su 09:30-22:00",
+    "opening_hours:kitchen": "We-Su 11:30-14:00,18:00-20:30; Fr,Sa 11:30-14:00,18:00-21:00",
+    "outdoor_seating": "no",
+    "payment:cash": "only",
+    "smoking": "yes",
+    "website": "https://hirschen-morschach.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2098533216
+}

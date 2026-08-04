@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5823881,
+      47.3749363
+    ]
+  },
+  "properties": {
+    "id": 2820385132,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "75",
+    "addr:postcode": "8044",
+    "addr:street": "Adlisbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "gruezi@adlisberg.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Adlisberg",
+    "opening_hours": "Mo-Sa 10:00-24:00; Su 10:00-23:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00, 17:30-22:00; Sa-Su 11:30-22:00",
+    "operator": "Segm\u00fcller Collection",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.adlisberg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2820385132
+}

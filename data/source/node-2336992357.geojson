@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4445896,
+      46.9448768
+    ]
+  },
+  "properties": {
+    "id": 2336992357,
+    "addr:housenumber": "8",
+    "addr:street": "Gasstrasse",
+    "alt_name": "Restaurant Marzilibr\u00fccke",
+    "amenity": "restaurant",
+    "check_date": "2026-05-03",
+    "contact:addr": "Gasstrasse 8, 3005 Bern",
+    "contact:email": "marzilibruecke@taberna.ch",
+    "contact:phone": "+41 31 3112780",
+    "cuisine": "regional;french;pizza;fondue",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "microbrewery": "yes",
+    "name": "Marzilibr\u00fccke",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa 12:00-23:30; Su 10:00-22:30",
+    "operator": "taBerna Gastro-Kultur AG",
+    "organic": "yes",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "source": "survey and website",
+    "website": "https://www.restaurant-marzilibruecke.ch/"
+  },
+  "id": 2336992357
+}

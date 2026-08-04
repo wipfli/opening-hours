@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.164928,
+      46.7894357
+    ]
+  },
+  "properties": {
+    "id": 7228260102,
+    "addr:city": "Siat",
+    "addr:housenumber": "24",
+    "addr:postcode": "7157",
+    "addr:street": "Via Quadras",
+    "amenity": "restaurant",
+    "name": "Arca da Siat",
+    "opening_hours": "Su 14:00+",
+    "phone": "+41 81 925 16 35",
+    "website": "https://www.arcasiat.ch/"
+  },
+  "id": 7228260102
+}

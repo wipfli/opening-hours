@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8491831,
+      46.8566964
+    ]
+  },
+  "properties": {
+    "id": 7090789847,
+    "alt_name": "Alphasurf restaurant bar La Derive",
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "La D\u00e9rive",
+    "opening_hours": "Mo-Su 09:00-23:00; Seasonal",
+    "operator": "Alphasurf",
+    "website": "https://alphasurf.ch/la-derive-bar"
+  },
+  "id": 7090789847
+}

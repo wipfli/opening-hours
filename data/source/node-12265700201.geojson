@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0389534,
+      47.4589471
+    ]
+  },
+  "properties": {
+    "id": 12265700201,
+    "addr:housenumber": "29",
+    "addr:postcode": "9500",
+    "addr:street": "Wilenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Ginger House",
+    "opening_hours": "We, Sa-Mo 17:00-22:00; Tu, Th-Fr 11:30-13:30, 17:00-22:00",
+    "phone": "+41 71 920 03 20",
+    "website": "https://ginger-haus.ch/"
+  },
+  "id": 12265700201
+}

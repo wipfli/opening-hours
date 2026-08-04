@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6360521,
+      46.558959
+    ]
+  },
+  "properties": {
+    "id": 8562094903,
+    "amenity": "restaurant",
+    "cuisine": "pizza;coffee_shop;regional",
+    "indoor_seating": "yes",
+    "name": "Le Central",
+    "opening_hours": "Mo-Fr 10:00-14:30,17:30-23:00; Sa,Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 652 01 46",
+    "website": "https://www.le-central.ch/"
+  },
+  "id": 8562094903
+}

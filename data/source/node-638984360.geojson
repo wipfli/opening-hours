@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5432563,
+      47.3725751
+    ]
+  },
   "properties": {
-    "@id": "node/638984360",
+    "id": 638984360,
     "amenity": "restaurant",
     "check_date": "2025-11-26",
     "cuisine": "regional",
@@ -11,12 +18,5 @@
     "website": "https://koenigstuhl.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5432563,
-      47.3725751
-    ]
-  },
-  "id": "node-638984360"
+  "id": 638984360
 }

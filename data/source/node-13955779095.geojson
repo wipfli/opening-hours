@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6802219,
+      46.6894676
+    ]
+  },
+  "properties": {
+    "id": 13955779095,
+    "addr:city": "Spiez",
+    "addr:housenumber": "40",
+    "addr:postcode": "3700",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "email": "spiez@littlegreek.ch",
+    "name": "Little Greek Thalassa",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+41 33 511 70 75",
+    "website": "https://www.littlegreek.ch"
+  },
+  "id": 13955779095
+}

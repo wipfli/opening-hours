@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6325438,
+      47.6955267
+    ]
+  },
+  "properties": {
+    "id": 4746039524,
+    "alt_name": "Bistro am Herrenacker",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "email": "bistro@meetingpoint-sh.ch",
+    "name": "Meetingpoint",
+    "opening_hours": "Tu-Sa 09:00-14:00; PH,Su,Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 550 26 16",
+    "smoking": "outside",
+    "website": "https://www.meetingpoint-sh.ch/bistro/",
+    "wheelchair": "yes"
+  },
+  "id": 4746039524
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6183843,
+      47.39796
+    ]
+  },
+  "properties": {
+    "id": 4743004824,
+    "addr:city": "D\u00fcbendorf",
+    "addr:housenumber": "7a",
+    "addr:postcode": "8600",
+    "addr:street": "Wallisellenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "balkan;italian",
+    "name": "Restaurant Plisi",
+    "name:de": "Restaurant Plisi",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "+41 44 820 29 29",
+    "website": "https://www.plisi.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4743004824
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5841104,
+      47.5642081
+    ]
+  },
+  "properties": {
+    "id": 122336670,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Chez Donati",
+    "opening_hours": "Mo-Sa 11:30-14:30,18:30-23:00",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.bindella.ch/de/chez-donati.html"
+  },
+  "id": 122336670
+}

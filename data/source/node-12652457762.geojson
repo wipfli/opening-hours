@@ -1,20 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/12652457762",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "37",
-    "addr:postcode": "8004",
-    "addr:street": "Brauerstrasse",
-    "all_you_can_eat": "yes",
-    "amenity": "restaurant",
-    "cuisine": "chinese",
-    "name": "Happy Panda",
-    "opening_hours": "Mo-Fr 11:00-14:00; Sa 17:30-22:00",
-    "phone": "+41 76 455 88 55",
-    "takeaway": "yes",
-    "website": "https://www.happy-panda.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -22,5 +7,24 @@
       47.3777441
     ]
   },
-  "id": "node-12652457762"
+  "properties": {
+    "id": 12652457762,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "37",
+    "addr:postcode": "8004",
+    "addr:street": "Brauerstrasse",
+    "all_you_can_eat": "yes",
+    "amenity": "restaurant",
+    "cuisine": "asian;wings",
+    "indoor_seating": "yes",
+    "name": "Hungry Duck",
+    "old_name": "Happy Panda",
+    "opening_hours": "Mo-Sa 11:00-16:00; Tu-We 17:00-24:00; Th 17:00-01:00; Fr-Sa 17:00-02:00; Su 17:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 76 455 88 55",
+    "takeaway": "yes",
+    "website": "https://hungryduck.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12652457762
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3927675,
+      47.3867698
+    ]
+  },
+  "properties": {
+    "id": 3174416686,
+    "addr:city": "Teufen AR",
+    "addr:housenumber": "87",
+    "addr:postcode": "9053",
+    "addr:street": "B\u00fchlerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Zur Linde",
+    "opening_hours": "We off; Th-Tu 07:00-23:30",
+    "phone": "+41 71 335 07 37",
+    "website": "https://www.hotelzurlinde.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Hoteleingang ben\u00fctzen, voranmelden"
+  },
+  "id": 3174416686
+}

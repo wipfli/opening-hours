@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1993253,
+      47.2888266
+    ]
+  },
+  "properties": {
+    "id": 861015811,
+    "addr:city": "Birrwil",
+    "addr:housenumber": "28",
+    "addr:street": "Seetalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "seafood;pizza;italian",
+    "name": "Seebrise",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41627721116",
+    "smoking": "outside",
+    "website": "https://www.restaurant-seebrise.ch/"
+  },
+  "id": 861015811
+}

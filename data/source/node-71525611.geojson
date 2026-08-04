@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5906834,
+      47.5677788
+    ]
+  },
+  "properties": {
+    "id": 71525611,
+    "addr:city": "Basel",
+    "addr:housename": "Gatto Nero",
+    "addr:housenumber": "63",
+    "addr:postcode": "4057",
+    "addr:street": "Oetlingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "name": "Gatto Nero",
+    "note": "Open Wed - Fri: 11:00 am - 2:00 pm, 5:00 pm - 9:30 pm Sat: 11:00 am - 10:00 pm",
+    "opening_hours": "We-Fr 11:00-14:00,17:00-21:30; Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 681 50 56",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.facebook.com/gattonerobasel/",
+    "wheelchair": "no"
+  },
+  "id": 71525611
+}

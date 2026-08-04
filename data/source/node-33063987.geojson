@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4346467,
+      46.9513255
+    ]
+  },
+  "properties": {
+    "id": 33063987,
+    "alt_name": "Restaurant Beaulieu - Deheime ir L\u00e4nggass",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "contact:addr": "Erlachstrasse 3, 3012 Bern",
+    "contact:email": "info@restaurantbeaulieu.ch",
+    "contact:phone": "+41 31 3312525",
+    "cuisine": "regional",
+    "name": "Beaulieu",
+    "opening_hours": "Mo-Sa 10:00-23:00",
+    "operator": "Restaurant Beaulieu AG",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurantbeaulieu.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 33063987
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.514105,
+      47.1653859
+    ]
+  },
+  "properties": {
+    "id": 9882789131,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "La Colombe",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "website": "https://hotel-lacolombe.com/restaurant-zur-taube/"
+  },
+  "id": 9882789131
+}

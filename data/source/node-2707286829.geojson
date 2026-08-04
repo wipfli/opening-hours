@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3076552,
+      47.4725329
+    ]
+  },
+  "properties": {
+    "id": 2707286829,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "5400",
+    "addr:street": "Weite Gasse",
+    "amenity": "restaurant",
+    "contact:facebook": "Rose1434barrestaurant",
+    "contact:instagram": "rose1434_barrestaurant",
+    "cuisine": "italian",
+    "email": "ciao@gusto-e-stile.ch",
+    "name": "Rose - Gusto e Stile",
+    "opening_hours": "Tu 17:00-24:00; We-Th 11:00-24:00; Fr 11:00-01:00; Sa 10:00-01:00; Su 12:00-21:00",
+    "phone": "+41562293790",
+    "website": "https://www.gusto-e-stile.ch/"
+  },
+  "id": 2707286829
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6257075,
+      46.9027151
+    ]
+  },
+  "properties": {
+    "id": 1927890020,
+    "addr:city": "Fl\u00fcelen",
+    "addr:housenumber": "5",
+    "addr:postcode": "6454",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2022-05-07",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Anker",
+    "opening_hours": "Tu-Sa 19:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 871 30 30",
+    "reservation": "recommended",
+    "website": "https://deranker.ch"
+  },
+  "id": 1927890020
+}

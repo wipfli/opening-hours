@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4451577,
+      46.9563625
+    ]
+  },
+  "properties": {
+    "id": 7962621588,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "3013",
+    "addr:street": "Lorrainestrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-10-08",
+    "email": "info@werkstadt-lorraine.ch",
+    "indoor_seating": "yes",
+    "name": "WerkStadt Lorraine",
+    "opening_hours": "Mo 08:00-21:00; Tu-We 08:00-20:00; Th-Fr 08:00-21:00; Sa-Su 09:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 77 508 30 16",
+    "website": "https://werkstadt-lorraine.ch/"
+  },
+  "id": 7962621588
+}

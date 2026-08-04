@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0537149,
+      47.3926409
+    ]
+  },
+  "properties": {
+    "id": 11358380819,
+    "addr:housenumber": "96",
+    "addr:postcode": "5000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "hongskitchen.ch",
+    "contact:instagram": "hongskitchen.ch",
+    "cuisine": "korean",
+    "level": "0",
+    "name": "Hong\u2018s Kitchen",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:00-21:30",
+    "phone": "+41 77 268 06 14",
+    "website": "https://www.hongskitchen.ch/"
+  },
+  "id": 11358380819
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439586,
+      47.3690472
+    ]
+  },
   "properties": {
-    "@id": "node/270800785",
+    "id": 270800785,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "16",
@@ -29,12 +36,5 @@
     "website": "https://molino.ch/de/pizzeria-ristorante-molino-select",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5439586,
-      47.3690472
-    ]
-  },
-  "id": "node-270800785"
+  "id": 270800785
 }

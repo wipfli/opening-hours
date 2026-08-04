@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2419932,
+      47.1094131
+    ]
+  },
+  "properties": {
+    "id": 1639950890,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2023-06-11",
+    "cuisine": "regional",
+    "email": "reception@neuschoenstatt.ch",
+    "indoor_seating": "yes",
+    "name": "Neu-Sch\u00f6nstatt",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 511 02 00",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://neuschoenstatt.ch/restaurant-cafe/"
+  },
+  "id": 1639950890
+}

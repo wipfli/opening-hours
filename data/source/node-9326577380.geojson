@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5874032,
+      47.5587494
+    ]
+  },
+  "properties": {
+    "id": 9326577380,
+    "addr:city": "Basel",
+    "addr:housenumber": "36",
+    "addr:postcode": "4051",
+    "addr:street": "Marktplatz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Bohemia",
+    "opening_hours": "Su-Th 08:30-24:00, Fr,Sa 08:30-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 466 15 00",
+    "smoking": "outside",
+    "website": "https://www.bohemia.ch/basel/"
+  },
+  "id": 9326577380
+}

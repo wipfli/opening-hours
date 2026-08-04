@@ -1,22 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/275341574",
-    "addr:city": "Z\u00fcrich",
-    "addr:country": "CH",
-    "addr:housenumber": "7a",
-    "addr:postcode": "8008",
-    "addr:street": "Seefeldstrasse",
-    "amenity": "restaurant",
-    "check_date": "2025-07-15",
-    "cuisine": "indian",
-    "indoor_seating": "yes",
-    "name": "Cheti's Curry",
-    "opening_hours": "Mo-Fr 11:30-14:30, Tu-We 18:30-21:30, Th-Sa 18:30-22:00",
-    "outdoor_seating": "yes",
-    "website": "https://www.chetis.ch/",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -24,5 +7,23 @@
       47.3650488
     ]
   },
-  "id": "node-275341574"
+  "properties": {
+    "id": 275341574,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "7a",
+    "addr:postcode": "8008",
+    "addr:street": "Seefeldstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-04",
+    "check_date:opening_hours": "2026-04-04",
+    "cuisine": "indian",
+    "indoor_seating": "yes",
+    "name": "Cheti's Curry",
+    "opening_hours": "Mo 11:30-14:30; Tu 11:30-14:00,18:30-21:30;  We 11:30-14:30,18:30-21:30; Th-Fr 11:30-14:30,18:30-22:00; Sa 18:30-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.chetis.ch/",
+    "wheelchair": "no"
+  },
+  "id": 275341574
 }

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1441613,
+      46.1945764
+    ]
+  },
+  "properties": {
+    "id": 9227306724,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "4",
+    "addr:postcode": "1205",
+    "addr:street": "Passage de Saint-Fran\u00e7ois",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean;fusion",
+    "name": "Za\u00ef Za\u00ef",
+    "opening_hours": "Mo-We 11:30-14:00,18:00-00:00; Th 11:30-14:00,18:00-01:00; Fr-Sa 11:30-14:30,18:00-02:00",
+    "phone": "+41 22 328 09 48",
+    "website": "https://www.zaizai.ch/"
+  },
+  "id": 9227306724
+}

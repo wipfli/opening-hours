@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5179098,
+      47.3900555
+    ]
+  },
+  "properties": {
+    "id": 305586751,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "12",
+    "addr:postcode": "8005",
+    "addr:street": "Giessereistrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-28",
+    "check_date:opening_hours": "2025-06-28",
+    "cuisine": "italian",
+    "email": "info@ristorante-toscano.ch",
+    "level": "0",
+    "name": "Toscano im Puls 5",
+    "opening_hours": "Mo-Fr 11:00-15:00,17:00-24:00; Sa 17:00-24:00; Su off",
+    "phone": "+41 43 818 22 62",
+    "website": "https://ristorante-toscano.ch/puls5/",
+    "wheelchair": "yes"
+  },
+  "id": 305586751
+}

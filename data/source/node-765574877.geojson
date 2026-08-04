@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1435973,
+      46.0285441
+    ]
+  },
+  "properties": {
+    "id": 765574877,
+    "addr:city": "Orsi\u00e8res",
+    "addr:housenumber": "25",
+    "addr:postcode": "1937",
+    "addr:street": "Route de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "regional;burger;french",
+    "name": "Le Quai de l'Ours/H\u00f4tel Terminus",
+    "opening_hours": "Mo-Th 06:00-23:00; Fr,Sa 06:00-24:00; Su 07:00-23:00",
+    "phone": "+41 27 552 11 00",
+    "tourism": "hotel",
+    "website": "https://terminus-orsieres.ch/"
+  },
+  "id": 765574877
+}

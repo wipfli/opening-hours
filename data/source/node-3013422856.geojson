@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314462,
+      47.3789304
+    ]
+  },
   "properties": {
-    "@id": "node/3013422856",
+    "id": 3013422856,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "47",
@@ -17,12 +24,5 @@
     "website": "http://www.ynos.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5314462,
-      47.3789304
-    ]
-  },
-  "id": "node-3013422856"
+  "id": 3013422856
 }

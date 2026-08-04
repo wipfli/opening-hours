@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5312751,
+      47.4437581
+    ]
+  },
+  "properties": {
+    "id": 5730976821,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Zum B\u00e4rli",
+    "opening_hours": "Mo-Th 08:30-13:00; Fr 08:30-13:00; Sa-Su off",
+    "outdoor_seating": "yes",
+    "website": "https://www.baerlimetzg.ch/znuenibeizheiden.html"
+  },
+  "id": 5730976821
+}

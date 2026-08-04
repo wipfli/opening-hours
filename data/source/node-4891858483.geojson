@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4865708,
+      47.389644
+    ]
+  },
+  "properties": {
+    "id": 4891858483,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "124",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterstrasse",
+    "alt_name": "Suan Long Altstetten",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten",
+    "cuisine": "asian;chinese;thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Suan Long",
+    "old_name": "Asian Dining",
+    "opening_hours": "Mo-Fr 11:00-14:00, Tu-Sa 17:00-22:00",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "yes",
+    "website": "https://suanlong.ch/restaurant/suan-long-altstetten/",
+    "wheelchair": "yes"
+  },
+  "id": 4891858483
+}

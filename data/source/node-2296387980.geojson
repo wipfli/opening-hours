@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9916172,
+      47.120654
+    ]
+  },
+  "properties": {
+    "id": 2296387980,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "email": "info@ristorante-castello3.ch",
+    "name": "Il Castello",
+    "opening_hours": "Mo-Tu,Th-Su 10:00-14:00,17:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 970 34 42",
+    "website": "https://ristorante-castello3.ch"
+  },
+  "id": 2296387980
+}

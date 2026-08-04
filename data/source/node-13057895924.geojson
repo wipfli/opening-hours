@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2959759,
+      47.0261037
+    ]
+  },
+  "properties": {
+    "id": 13057895924,
+    "addr:housenumber": "1",
+    "addr:street": "Schweighofplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-08-08",
+    "cuisine": "pizza;italian",
+    "email": "info@ristorante-fratelli.ch",
+    "name": "Fratelli",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:30; Sa,PH 17:00-23:30; Su 11:00-14:00,17:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 320 79 85",
+    "website": "https://ristorante-fratelli.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13057895924
+}

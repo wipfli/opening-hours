@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4051851,
+      47.1850136
+    ]
+  },
+  "properties": {
+    "id": 9732563266,
+    "addr:city": "Grenchen",
+    "addr:housenumber": "25",
+    "addr:postcode": "2540",
+    "addr:street": "Neumattstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Musette",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "phone": "+41 32 654 20 55",
+    "website": "https://tissotvelodrome.sv-restaurant.ch/de/menuplan-mittag/"
+  },
+  "id": 9732563266
+}

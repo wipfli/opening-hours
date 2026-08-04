@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6795396,
+      47.3679387
+    ]
+  },
+  "properties": {
+    "id": 1904401745,
+    "addr:city": "Greifensee",
+    "addr:housenumber": "1",
+    "addr:postcode": "8606",
+    "addr:street": "Meierwis",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Due Fratelli",
+    "opening_hours": "Mo-Sa 08:30-22:00",
+    "phone": "+41 44 9412500",
+    "website": "https://duefratelli.ch/"
+  },
+  "id": 1904401745
+}

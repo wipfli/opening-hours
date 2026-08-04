@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.359824,
+      46.2314781
+    ]
+  },
+  "properties": {
+    "id": 3785006655,
+    "addr:city": "Sion",
+    "addr:housenumber": "12",
+    "addr:postcode": "1950",
+    "addr:street": "Espace des Remparts",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "pizza",
+    "name": "Don Carlos",
+    "opening_hours": "Mo-Sa 08:00-24:00; Su 09:00-24:00",
+    "phone": "+41 27 322 24 54",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "http://www.don-carlos.ch/"
+  },
+  "id": 3785006655
+}

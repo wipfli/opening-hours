@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7776996,
+      47.2017952
+    ]
+  },
+  "properties": {
+    "id": 11927562889,
+    "addr:housenumber": "8",
+    "addr:street": "Zentrum Staldenbach",
+    "amenity": "restaurant",
+    "check_date": "2025-10-06",
+    "cuisine": "dutch;burger",
+    "name": "Lekker & Lekker",
+    "opening_hours": "Mo-Fr 09:00-21:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 410 50 00",
+    "website": "https://lekker-lekker.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 11927562889
+}

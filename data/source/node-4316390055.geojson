@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9445039,
+      47.2886421
+    ]
+  },
+  "properties": {
+    "id": 4316390055,
+    "addr:housenumber": "47",
+    "addr:street": "Vordere Hauptgasse",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "cuisine": "indian",
+    "delivery": "Mo-Fr 17:00-21:00; Sa 11:00-13:45,17:00-21:45; PH closed; Su 17:00-21:00",
+    "level": "0",
+    "name": "Made in Punjab",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:30; Su 17:00-22:30; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 535 39 22",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.made-in-punjab.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4316390055
+}

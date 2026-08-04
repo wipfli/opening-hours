@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2729861,
+      46.0984324
+    ]
+  },
+  "properties": {
+    "id": 306510840,
+    "addr:city": "Verbier",
+    "addr:postcode": "1936",
+    "addr:street": "Les Attelas",
+    "amenity": "restaurant",
+    "email": "3023@televerbier.ch",
+    "name": "3023",
+    "opening_hours": "Dec 23-Feb 17 09:00-16:15; Feb 18-Apr 23 Mo-Su 9:00-16:45",
+    "phone": "+41 27 7752658",
+    "website": "https://verbier4vallees.ch/fr/experiences-a-verbier/restaurants/3-023_infrastructure_407945"
+  },
+  "id": 306510840
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4372433,
+      47.517644
+    ]
+  },
+  "properties": {
+    "id": 12944810001,
+    "addr:housenumber": "8",
+    "addr:street": "Weitegasse",
+    "amenity": "restaurant",
+    "cuisine": "french;italian_pizza;pizza",
+    "diet:vegetarian": "yes",
+    "name": "Saurer Kantine",
+    "opening_hours": "Nov-Mar: Fr 17:30-22:00; Nov-Mar: Sa 11:30-22:00; Nov-Mar: Su 11:30-20:00",
+    "website": "https://saurergarten.ch/"
+  },
+  "id": 12944810001
+}

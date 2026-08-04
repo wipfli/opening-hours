@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2144466,
+      47.3988897
+    ]
+  },
+  "properties": {
+    "id": 10235197794,
+    "addr:city": "Othmarsingen",
+    "addr:housenumber": "5",
+    "addr:postcode": "5504",
+    "addr:street": "Hendschikerstrasse",
+    "amenity": "restaurant",
+    "email": "info@chline-pflueg.ch",
+    "name": "chline Pflueg",
+    "opening_hours": "Mo-Fr 06:00-24:00",
+    "phone": "+41 79 903 72 02",
+    "website": "https://www.chline-pflueg.ch/"
+  },
+  "id": 10235197794
+}

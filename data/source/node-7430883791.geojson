@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.414572,
+      46.9352155
+    ]
+  },
+  "properties": {
+    "id": 7430883791,
+    "amenity": "restaurant",
+    "check_date": "2026-03-20",
+    "contact:email": "info@restaurantwerkhof.ch",
+    "contact:instagram": "https://www.instagram.com/restaurantwerkhof/",
+    "cuisine": "regional",
+    "name": "Restaurant Werkhof",
+    "opening_hours": "Th-Sa 18:00-24:00",
+    "phone": "+41 31 921 44 44",
+    "website": "https://www.restaurantwerkhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7430883791
+}

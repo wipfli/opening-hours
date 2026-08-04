@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1089629,
+      47.1726885
+    ]
+  },
+  "properties": {
+    "id": 1511969331,
+    "addr:housenumber": "6",
+    "addr:street": "Unterstadt",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-12-02",
+    "cuisine": "thai",
+    "email": "baanthai-sursee@hotmail.com",
+    "name": "Baan Thai",
+    "opening_hours": "Tu-Th 11:00-14:00,17:00-22:30; Fr,Sa 11:00-14:00,17:00-23:00",
+    "phone": "+41 41 922 15 10",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://baanthai-sursee.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1511969331
+}

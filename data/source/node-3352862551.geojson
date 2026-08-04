@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5944425,
+      46.9703241
+    ]
+  },
+  "properties": {
+    "id": 3352862551,
+    "amenity": "restaurant",
+    "email": "info@ristoranteganda.ch",
+    "name": "Restaurant Pizzeria Ganda",
+    "opening_hours": "We-Su 09:00-13:30,17:00-22:00",
+    "phone": "+41 81 559 06 60",
+    "website": "https://www.ristoranteganda.ch"
+  },
+  "id": 3352862551
+}

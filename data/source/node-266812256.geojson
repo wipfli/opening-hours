@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5913355,
+      47.5055769
+    ]
+  },
+  "properties": {
+    "id": 266812256,
+    "addr:housenumber": "67a",
+    "addr:street": "Tannenstrasse",
+    "amenity": "restaurant",
+    "name": "Lokal",
+    "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-24:00; Sa 09:00-14:00",
+    "phone": "+41448657978",
+    "website": "https://www.restaurantlokal.ch/"
+  },
+  "id": 266812256
+}

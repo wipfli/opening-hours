@@ -1,13 +1,20 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.529384,
+      47.3816304
+    ]
+  },
   "properties": {
-    "@id": "node/8643617160",
+    "id": 8643617160,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "121",
     "addr:postcode": "8005",
     "addr:street": "Zollstrasse",
     "amenity": "restaurant",
-    "check_date": "2023-09-24",
+    "check_date": "2026-07-01",
     "cuisine": "italian",
     "indoor_seating": "yes",
     "level": "0",
@@ -18,12 +25,5 @@
     "website": "https://ossozuerich.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.529384,
-      47.3816304
-    ]
-  },
-  "id": "node-8643617160"
+  "id": 8643617160
 }

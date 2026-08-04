@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1107781,
+      47.5680791
+    ]
+  },
+  "properties": {
+    "id": 251369003,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Su-Tu 11:30-14:00,17:30-23:00; Sa 17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 622 30 90",
+    "tourism": "hotel",
+    "website": "http://www.roessli-weinfelden.ch",
+    "wheelchair": "no"
+  },
+  "id": 251369003
+}

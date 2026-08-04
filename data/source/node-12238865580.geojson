@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6784723,
+      47.2257414
+    ]
+  },
+  "properties": {
+    "id": 12238865580,
+    "addr:city": "W\u00e4denswil",
+    "addr:country": "CH",
+    "addr:housenumber": "61",
+    "addr:postcode": "8820",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "info@sushi-lovers.ch",
+    "indoor_seating": "yes",
+    "name": "sushi lovers",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Tu off; Sa-Su 17:30-22:00",
+    "operator": "Yaves Gastronomie GmbH",
+    "outdoor_seating": "no",
+    "phone": "+41 44 620 44 66",
+    "website": "https://www.sushi-lovers.ch/"
+  },
+  "id": 12238865580
+}

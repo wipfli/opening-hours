@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3086673,
+      47.407506
+    ]
+  },
+  "properties": {
+    "id": 9228519198,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "438",
+    "addr:postcode": "9015",
+    "addr:street": "Z\u00fcrcher Strasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Bild",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-22:00; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 553 04 78",
+    "smoking": "outside",
+    "website": "https://pizzeriabild.ch/"
+  },
+  "id": 9228519198
+}

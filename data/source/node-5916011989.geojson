@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3870968,
+      46.9334797
+    ]
+  },
+  "properties": {
+    "id": 5916011989,
+    "addr:housenumber": "148",
+    "addr:postcode": "3018",
+    "addr:street": "Morgenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "arab;kebab;italian_pizza;balkan",
+    "name": "Massimo Pizza Express",
+    "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 17:00-22:00",
+    "operator": "Dorali Massimo",
+    "phone": "+41319917444",
+    "website": "https://pizza-massimo.ch/"
+  },
+  "id": 5916011989
+}

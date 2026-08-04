@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4324835,
+      47.1431444
+    ]
+  },
+  "properties": {
+    "id": 10775875276,
+    "addr:city": "Rotkreuz",
+    "addr:housenumber": "2",
+    "addr:postcode": "6343",
+    "addr:street": "Suurstoffi",
+    "amenity": "restaurant",
+    "level": "0;1",
+    "name": "Food-Stoffi",
+    "opening_hours": "Mo-Fr 07:00-15:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30",
+    "operator": "ZFV",
+    "website": "https://www.zfv.ch/de/essen-gehen/hslu-informatik-wirtschaft-restaurant-food-stoffi"
+  },
+  "id": 10775875276
+}

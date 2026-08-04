@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6336848,
+      47.6977076
+    ]
+  },
+  "properties": {
+    "id": 299417626,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8200",
+    "addr:street": "Vorstadt",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Falken",
+    "opening_hours": "Mo-Th 08:00-22:30; Fr,Sa 08:00-24:00; Su 09:00-22:00",
+    "smoking": "separated",
+    "website": "https://www.falken-schaffhausen.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Man kommt ebenerdig rein, Es ist aber der Raucher Bereich. Rollstuhl WC ist nicht vorhanden, Der Lift der in den Nichtraucherbereich geht ist sehr klein.. Schon gr\u00f6ssere Handrollst\u00fchle werden Probleme haben."
+  },
+  "id": 299417626
+}

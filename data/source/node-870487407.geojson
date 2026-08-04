@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0734482,
+      46.2310638
+    ]
+  },
+  "properties": {
+    "id": 870487407,
+    "addr:city": "Meyrin",
+    "addr:housenumber": "13 bis",
+    "addr:postcode": "1217",
+    "addr:street": "Avenue de Vaudagne",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "description": "L'auberge communale se situe dans le village de Meyrin, \u00e0 proximit\u00e9 de l'a\u00e9roport international de Gen\u00e8ve-Cointrin et du CERN.",
+    "name": "Auberge Communale de Meyrin",
+    "opening_hours": "We-Sa 10:00-23:00; Su 12:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 782 97 66",
+    "smoking": "outside",
+    "source": "https://www.geneveterroir.ch/fr/auberge-communale-de-meyrin/3030",
+    "takeaway": "no",
+    "website": "https://aubergedemeyrin.ch/",
+    "website:menu": "https://aubergedemeyrin.ch/menu"
+  },
+  "id": 870487407
+}

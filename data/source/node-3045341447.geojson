@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6348602,
+      46.7722395
+    ]
+  },
+  "properties": {
+    "id": 3045341447,
+    "addr:city": "Steffisburg",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "3612",
+    "addr:street": "Ziegeleistrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 33 4399545",
+    "name": "Giardino",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "outdoor_seating": "yes",
+    "source": "website;survey",
+    "website": "https://www.solina.ch/Home/Solina-Standorte/Solina-Steffisburg/Restaurant",
+    "wheelchair": "yes"
+  },
+  "id": 3045341447
+}

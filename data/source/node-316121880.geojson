@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2290997,
+      46.0967506
+    ]
+  },
+  "properties": {
+    "id": 316121880,
+    "addr:city": "Verbier",
+    "addr:housenumber": "3",
+    "addr:postcode": "1936",
+    "addr:street": "Route des Creux",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Borsalino",
+    "opening_hours": "Mo-Su 09:30-00:00",
+    "phone": "+41 27 565 44 00",
+    "website": "https://www.restaurant-pizzeria-borsalino.ch/"
+  },
+  "id": 316121880
+}

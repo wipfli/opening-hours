@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8991852,
+      47.6371418
+    ]
+  },
+  "properties": {
+    "id": 270077168,
+    "addr:city": "Eschenz",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:place": "Klingenzell",
+    "addr:postcode": "8264",
+    "amenity": "restaurant",
+    "name": "Klingenzellerhof",
+    "opening_hours": "We,Th 10:00-21:00; Fr,Sa 10:00-22:00; PH,Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.klingenzellerhof.ch/"
+  },
+  "id": 270077168
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4563872,
+      47.1811459
+    ]
+  },
+  "properties": {
+    "id": 10132556755,
+    "amenity": "restaurant",
+    "check_date": "2023-10-23",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "M\u00fchlbach",
+    "opening_hours": "Mo-Fr 10:00-14:00,16:30-22:00",
+    "phone": "+41 76 706 33 00",
+    "website": "https://squashclub-grabs.ch/center/",
+    "wheelchair": "limited"
+  },
+  "id": 10132556755
+}

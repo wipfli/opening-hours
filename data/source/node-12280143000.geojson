@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0325,
+      46.240306
+    ]
+  },
+  "properties": {
+    "id": 12280143000,
+    "addr:city": "Saint-Genis-Pouilly",
+    "addr:country": "FR",
+    "addr:housenumber": "332",
+    "addr:postcode": "01630",
+    "addr:street": "Rue Marie-Claude Vaillant-Couturier",
+    "amenity": "restaurant",
+    "cuisine": "japanese;thai",
+    "delivery": "yes",
+    "name": "Bamboo Azian Kitchen",
+    "opening_hours": "Tu-Sa 11:30-14:00,18:00-22:00; Su 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+33 450208889",
+    "reservation": "no",
+    "takeaway": "yes",
+    "website": "https://bamboo-kitchen.com/",
+    "wheelchair": "yes"
+  },
+  "id": 12280143000
+}

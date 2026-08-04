@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.382108,
+      47.5686177
+    ]
+  },
+  "properties": {
+    "id": 1754681455,
+    "addr:city": "Romanshorn",
+    "addr:housenumber": "26",
+    "addr:postcode": "8590",
+    "addr:street": "Schlossbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Schlosshotel und Restaurant Tribeli",
+    "opening_hours": "We-Fr 10:00-14:00,17:00-22:00; Sa-Su 10:00-22:00",
+    "phone": "+41 71 466 78 00",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.schlossromanshorn.ch/"
+  },
+  "id": 1754681455
+}

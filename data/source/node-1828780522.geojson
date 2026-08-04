@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6743778,
+      47.2294853
+    ]
+  },
+  "properties": {
+    "id": 1828780522,
+    "addr:city": "W\u00e4denswil",
+    "addr:housenumber": "112",
+    "addr:postcode": "8820",
+    "addr:street": "Seestrasse",
+    "alt_name": "Suan Long W\u00e4denswil",
+    "amenity": "restaurant",
+    "branch": "W\u00e4denswil",
+    "contact:fax": "+41 43 477 84 67",
+    "contact:phone": "+41 43 477 86 86",
+    "cuisine": "chinese;thai",
+    "entrance": "yes",
+    "highchair": "yes",
+    "indoor_seating": "yes",
+    "name": "Suan Long",
+    "opening_hours": "Tu-Su 11:30-22:00; Sa 09:00-17:00; PH closed",
+    "operator": "Suan Long Enge",
+    "outdoor_seating": "sidewalk",
+    "takeaway": "yes",
+    "website": "https://suan-long.ch/suanlong/"
+  },
+  "id": 1828780522
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1391096,
+      46.2092188
+    ]
+  },
+  "properties": {
+    "id": 12217008231,
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Nagomi Ramen",
+    "opening_hours": "Tu-Sa 12:00-14:00,19:00-22:00",
+    "website": "https://www.instagram.com/nagomi_san/"
+  },
+  "id": 12217008231
+}

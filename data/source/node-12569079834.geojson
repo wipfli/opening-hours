@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0627085,
+      47.1015927
+    ]
+  },
+  "properties": {
+    "id": 12569079834,
+    "addr:city": "N\u00e4fels",
+    "addr:housenumber": "27",
+    "addr:postcode": "8752",
+    "addr:street": "Unterdorf",
+    "amenity": "restaurant",
+    "cuisine": "turkish;pizza;kebab",
+    "name": "Orange Kebap N\u00e4fels",
+    "opening_hours": "Su-Th 09:00-24:00; Fr-Sa 09:00-01:00",
+    "phone": "+41 55 612 32 00",
+    "website": "https://orangekebap.ch"
+  },
+  "id": 12569079834
+}

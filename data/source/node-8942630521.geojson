@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7613016,
+      47.4713406
+    ]
+  },
+  "properties": {
+    "id": 8942630521,
+    "amenity": "restaurant",
+    "check_date": "2024-05-08",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "phone": "+41619210110",
+    "website": "www.baeren-lausen.ch"
+  },
+  "id": 8942630521
+}

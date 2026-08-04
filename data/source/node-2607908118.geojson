@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4469171,
+      46.9464313
+    ]
+  },
+  "properties": {
+    "id": 2607908118,
+    "addr:city": "Bern",
+    "alt_name": "Restaurant VUE",
+    "amenity": "restaurant",
+    "contact:addr": "Kochergasse 3-5, 3011 Bern",
+    "contact:email": "info@bellevue-palace.ch",
+    "contact:phone": "+41 31 3204545",
+    "cuisine": "international",
+    "name": "VUE",
+    "note": "Belongs to Hotel Bellevue Palace",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:00-22:00; Sa 12:00-15:00,18:00-22:00; Su 11:30-15:00",
+    "source": "survey and website",
+    "website": "https://www.bellevue-palace.ch/de/restaurants-bars/restaurant-vue",
+    "wheelchair": "yes"
+  },
+  "id": 2607908118
+}

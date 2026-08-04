@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5587899,
+      47.4205507
+    ]
+  },
+  "properties": {
+    "id": 3474581137,
+    "addr:housenumber": "9",
+    "addr:street": "Wright-Strasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-03-27",
+    "cuisine": "american;burger",
+    "name": "Stars & Stripes",
+    "opening_hours": "Mo-Sa 11:00-24:00; Su 09:30-23:00",
+    "operator": "Dine & Drink GmbH",
+    "website": "https://www.starsandstripes.ch/glattpark/"
+  },
+  "id": 3474581137
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7936526,
+      47.1825118
+    ]
+  },
+  "properties": {
+    "id": 366919554,
+    "addr:city": "Gutenburg",
+    "addr:country": "CH",
+    "addr:housenumber": "108",
+    "addr:postcode": "4932",
+    "addr:street": "Huttwilstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@bad-gutenburg.ch",
+    "image": "http://www.bad-gutenburg.ch/typo3temp/pics/287f97c25d.jpg",
+    "name": "Bad Gutenburg",
+    "opening_hours": "Mo 06:30-23:30; Tu off; We-Sa 06:30-23:30; Su 06:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 916 80 40",
+    "website": "https://www.bad-gutenburg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 366919554
+}

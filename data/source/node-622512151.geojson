@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4524241,
+      46.9652021
+    ]
+  },
+  "properties": {
+    "id": 622512151,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "65e",
+    "addr:postcode": "3014",
+    "addr:street": "Scheibenstrasse",
+    "alt_name": "Restaurant Wyler-Lorrainebad",
+    "amenity": "restaurant",
+    "contact:email": "info@bbbgmbh.ch",
+    "name": "Wylerbad",
+    "opening_hours": "Mo-Fr 08:30-17:00",
+    "operator": "Berner Badi Beizli GmbH",
+    "outdoor_seating": "yes",
+    "source": "website",
+    "website": "http://www.bbbgmbh.ch/"
+  },
+  "id": 622512151
+}

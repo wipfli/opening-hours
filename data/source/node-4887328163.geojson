@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2275681,
+      46.3708758
+    ]
+  },
+  "properties": {
+    "id": 4887328163,
+    "amenity": "restaurant",
+    "name": "Restaurant de Colovray",
+    "opening_hours": "08:00-23:30",
+    "phone": "+41 22 362 70 00",
+    "toilets": "yes",
+    "toilets:access": "public",
+    "website": "http://restaurantdecolovray.ch/"
+  },
+  "id": 4887328163
+}

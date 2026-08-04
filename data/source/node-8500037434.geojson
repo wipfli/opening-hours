@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1398097,
+      46.2032198
+    ]
+  },
+  "properties": {
+    "id": 8500037434,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "10",
+    "addr:postcode": "1204",
+    "addr:street": "Boulevard Georges-Favon",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Shiso Burger",
+    "opening_hours": "Mo-We 11:30-14:00,18:30-22:00; Th,Fr 11:30-14:00,18:30-22:30; Sa 11:30-22:30; Su 12:30-22:00",
+    "phone": "+41 22 320 36 36",
+    "reservation": "no",
+    "website": "https://www.shisoburger.com/geneva/",
+    "website:menu": "https://shrt.tastycloud.fr/ATPKLyBhuP"
+  },
+  "id": 8500037434
+}

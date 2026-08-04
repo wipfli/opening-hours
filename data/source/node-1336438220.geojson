@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4553687,
+      46.9484571
+    ]
+  },
+  "properties": {
+    "id": 1336438220,
+    "alt_name": "Verdi Ristorante Bar Enoteca",
+    "amenity": "restaurant",
+    "contact:addr": "Gerechtigkeitsgasse 7, 3011 Bern",
+    "contact:email": "ristorante.verdi@bindella.ch",
+    "contact:fax": "+41 31 3126374",
+    "contact:phone": "+41 31 3126368",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Verdi",
+    "old_name": "Hotel Restaurant zum Goldenen Adler",
+    "opening_hours": "Mo-Su 11:00-23:30",
+    "operator": "Bindella",
+    "source": "survey and website",
+    "website": "https://www.bindella.ch/de/verdi.html"
+  },
+  "id": 1336438220
+}

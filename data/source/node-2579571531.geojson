@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5451593,
+      47.5522515
+    ]
+  },
+  "properties": {
+    "id": 2579571531,
+    "addr:city": "Allschwil",
+    "addr:housename": "Restaurant La Vita",
+    "addr:housenumber": "126",
+    "addr:postcode": "4123",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "name": "La Vita",
+    "opening_hours": "Mo 10:00-14:30; Tu-Fr 10:00-14:30,18:00-23:30; Sa 18:00-23:30",
+    "phone": "+41 61 482 20 02",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.la-vita.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2579571531
+}

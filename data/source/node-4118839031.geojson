@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7837923,
+      47.2075771
+    ]
+  },
+  "properties": {
+    "id": 4118839031,
+    "addr:housenumber": "36",
+    "addr:street": "Lotzwilstrasse",
+    "amenity": "restaurant",
+    "name": "Neuh\u00fcsli",
+    "opening_hours": "Tu-Sa 11:30-13:30,17:30-21:30; Su 11:30-13:30; Mo off",
+    "phone": "+41629224803",
+    "website": "https://www.gasthof-neuhuesli.ch"
+  },
+  "id": 4118839031
+}

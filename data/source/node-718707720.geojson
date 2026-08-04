@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6086513,
+      46.5147317
+    ]
+  },
+  "properties": {
+    "id": 718707720,
+    "addr:housenumber": "51",
+    "addr:postcode": "1007",
+    "amenity": "restaurant",
+    "contact:instagram": "restaurant.du.tennis",
+    "cuisine": "international;italian",
+    "email": "seasidethemesstudio@gmail.com",
+    "name": "Restaurant du Tennis",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-21:30; Sa 11:30-14:00, 18:30-21:30; Su 11:30-14:00",
+    "phone": "+41 21 616 26 87",
+    "website": "http://restaurantdutennislausanne.ch/"
+  },
+  "id": 718707720
+}

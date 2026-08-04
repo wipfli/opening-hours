@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5887393,
+      47.5446361
+    ]
+  },
+  "properties": {
+    "id": 10581639707,
+    "addr:housenumber": "7",
+    "addr:postcode": "4053",
+    "addr:street": "Sempacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Miake",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
+    "website": "https://www.miake.ch/",
+    "website:menu": "https://www.miake.ch/menuekarte"
+  },
+  "id": 10581639707
+}

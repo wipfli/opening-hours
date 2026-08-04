@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2054105,
+      47.4802148
+    ]
+  },
+  "properties": {
+    "id": 13128321678,
+    "amenity": "restaurant",
+    "contact:email": "info@restaurant-essenz.ch",
+    "contact:phone": "+41 56 282 20 00",
+    "contact:website": "http://www.restaurant-essenz.ch",
+    "name": "essen'z",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.restaurant-essenz.ch",
+    "wheelchair": "yes"
+  },
+  "id": 13128321678
+}

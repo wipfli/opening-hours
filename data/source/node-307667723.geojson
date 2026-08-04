@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6680315,
+      47.2314321
+    ]
+  },
+  "properties": {
+    "id": 307667723,
+    "addr:city": "W\u00e4denswil",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "8820",
+    "addr:street": "Stegstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Romantica",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:30-24:00, Sa,Su 17:30-24:00",
+    "outdoor_seating": "terrace",
+    "phone": "+41447803322",
+    "url": "http://www.pizzeria-romantica.ch/",
+    "website": "https://www.pizzeria-romantica.ch/waedenswil/"
+  },
+  "id": 307667723
+}

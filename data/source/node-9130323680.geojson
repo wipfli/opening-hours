@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.309505,
+      46.2305124
+    ]
+  },
+  "properties": {
+    "id": 9130323680,
+    "addr:housenumber": "21b",
+    "addr:street": "Rue des Biolles",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza;italian",
+    "name": "Aimer Il Gusto di Amare",
+    "opening_hours": "We-Su 11:30-14:00,18:30-22:30",
+    "phone": "+41799229401",
+    "website": "https://www.restaurantaimer.com/"
+  },
+  "id": 9130323680
+}

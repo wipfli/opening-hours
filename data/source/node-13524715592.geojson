@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3720012,
+      47.4249957
+    ]
+  },
+  "properties": {
+    "id": 13524715592,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "17",
+    "addr:postcode": "9000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Mama Laos",
+    "opening_hours": "We-Fr 11:30-13:30",
+    "website": "https://mamalaos.ch/"
+  },
+  "id": 13524715592
+}

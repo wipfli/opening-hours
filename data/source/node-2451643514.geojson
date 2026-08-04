@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7628234,
+      47.504692
+    ]
+  },
+  "properties": {
+    "id": 2451643514,
+    "addr:housename": "Halle 710",
+    "addr:street": "Barbara-Reinhart-Strasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Restaurant Eulachpark",
+    "opening_hours": "Tu 10:00-15:00, We-Th 10:00-22:00, Fr-Sa 10:00+, Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "website": "https://www.restaurant-eulachpark.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2451643514
+}

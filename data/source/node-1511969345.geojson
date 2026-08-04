@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1106836,
+      47.1717352
+    ]
+  },
+  "properties": {
+    "id": 1511969345,
+    "addr:city": "Sursee",
+    "addr:housenumber": "1",
+    "addr:postcode": "6210",
+    "addr:street": "M\u00fchleplatz",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@dalinda-sursee.ch",
+    "name": "Da Linda",
+    "opening_hours": "We-Th 17:00-23:00; Fr-Sa 10:00-14:00,17:00-23:00; Su 17:00-22:00",
+    "phone": "+41 41 921 44 03",
+    "website": "https://dalinda-sursee.ch"
+  },
+  "id": 1511969345
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.719419,
+      46.1332318
+    ]
+  },
+  "properties": {
+    "id": 663870157,
+    "amenity": "restaurant",
+    "name": "Porto Ronco Beach Club",
+    "opening_hours": "May-Sep 10:00-21:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.ascona-locarno.com/en/commons/details/Crodolo-Palm-Beach-di-Flavia-Cacciapuoti/136818",
+    "wheelchair": "yes"
+  },
+  "id": 663870157
+}

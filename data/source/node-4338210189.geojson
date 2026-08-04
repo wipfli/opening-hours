@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3026324,
+      47.5480227
+    ]
+  },
+  "properties": {
+    "id": 4338210189,
+    "addr:city": "Amriswil",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8580",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "local;regional;coffee_shop",
+    "email": "info@bistro-cartonage.ch",
+    "name": "Bistro Cartonage",
+    "opening_hours": "Sa 09:00-16:00, Mo,We-Sa 09:00-18:00",
+    "phone": "+41 71 410 10 91",
+    "website": "https://www.bistro-cartonage.ch/"
+  },
+  "id": 4338210189
+}

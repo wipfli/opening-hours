@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3939725,
+      47.2978854
+    ]
+  },
+  "properties": {
+    "id": 7468748394,
+    "addr:city": "Jonen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8916",
+    "addr:street": "Staldenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "name": "Di Mama Pizzeria",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:00-22:00; Su 16:00-21:30",
+    "website": "https://dimama8916.ch/"
+  },
+  "id": 7468748394
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2052391,
+      46.3972075
+    ]
+  },
+  "properties": {
+    "id": 13057971924,
+    "addr:city": "Signy-Avenex",
+    "addr:housenumber": "7a",
+    "addr:postcode": "1274",
+    "addr:street": "En Fl\u00e9ch\u00e8re",
+    "amenity": "restaurant",
+    "contact:instagram": "barbacoanyon",
+    "cuisine": "brazilian",
+    "name": "BARBACOA BURGERS & GRILL Nyon",
+    "opening_hours": "Mo-Su 9:00-22:00",
+    "phone": "+41 22 558 01 86",
+    "website": "https://barbacoanyon.ch/",
+    "website:menu": "https://barbacoanyon.ch/#menu"
+  },
+  "id": 13057971924
+}

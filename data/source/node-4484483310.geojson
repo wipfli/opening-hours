@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1423965,
+      47.4455744
+    ]
+  },
+  "properties": {
+    "id": 4484483310,
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza;pizza;italian",
+    "email": "info@ristorante-lapiazza.ch",
+    "indoor_seating": "yes",
+    "name": "Ristorante La Piazza",
+    "opening_hours": "Su-Fr 17:00-23:00; Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 71 230 14 14",
+    "website": "https://ristorante-lapiazza.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4484483310
+}

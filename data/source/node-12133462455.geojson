@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1906446,
+      47.2440543
+    ]
+  },
+  "properties": {
+    "id": 12133462455,
+    "addr:city": "Menziken",
+    "addr:housenumber": "22",
+    "addr:postcode": "5737",
+    "addr:street": "Spitalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Storchen Restaurant",
+    "opening_hours": "Mo-Sa 08:30-23:00; Su 09:30-22:00",
+    "phone": "+41 62 771 14 31",
+    "website": "https://storchenrestaurant.ch/"
+  },
+  "id": 12133462455
+}

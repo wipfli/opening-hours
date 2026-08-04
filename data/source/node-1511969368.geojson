@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.110047,
+      47.1715213
+    ]
+  },
+  "properties": {
+    "id": 1511969368,
+    "addr:city": "Sursee",
+    "addr:housenumber": "10",
+    "addr:postcode": "6210",
+    "addr:street": "M\u00fchleplatz",
+    "amenity": "restaurant",
+    "cuisine": "pasta;pizza",
+    "name": "M\u00fchle",
+    "opening_hours": "Mo,Th-Sa 10:00-24:00; Su,PH 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 921 58 10",
+    "website": "https://www.pizzeria-muehle.ch/"
+  },
+  "id": 1511969368
+}

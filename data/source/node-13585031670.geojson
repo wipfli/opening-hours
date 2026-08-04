@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3643894,
+      47.4210121
+    ]
+  },
+  "properties": {
+    "id": 13585031670,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "14",
+    "addr:postcode": "9000",
+    "addr:street": "Lustgartenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-20",
+    "cuisine": "tibetan",
+    "name": "Restaurant Himalaya",
+    "opening_hours": "Tu-Fr 10:30-14:00,18:00-22:00; Sa 17:00-22:00; Su 15:00-22:00",
+    "website": "https://himalaya-tibet-restaurant.ch/"
+  },
+  "id": 13585031670
+}

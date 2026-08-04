@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403976,
+      47.3773153
+    ]
+  },
   "properties": {
-    "@id": "node/4424600904",
+    "id": 4424600904,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -21,12 +28,5 @@
     "website": "https://sued-zuerich.ch",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5403976,
-      47.3773153
-    ]
-  },
-  "id": "node-4424600904"
+  "id": 4424600904
 }

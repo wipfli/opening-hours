@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8358475,
+      47.0736098
+    ]
+  },
+  "properties": {
+    "id": 5351376655,
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "level": "1",
+    "name": "Nordic Hus",
+    "opening_hours": "PH,Mo-Fr 09:00-14:00;Sa-Su 09:00-16:00",
+    "website": "https://www.studen-sz.ch/rest-nordic-hus.html"
+  },
+  "id": 5351376655
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.184964,
+      46.1720951
+    ]
+  },
+  "properties": {
+    "id": 1940400009,
+    "addr:city": "Saillon",
+    "addr:housenumber": "2",
+    "addr:postcode": "1913",
+    "addr:street": "Rue St-Jacques",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 de la Poste",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.cafedelapostesaillon.ch/"
+  },
+  "id": 1940400009
+}

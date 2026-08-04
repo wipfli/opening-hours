@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6043014,
+      46.5283449
+    ]
+  },
+  "properties": {
+    "id": 2850354167,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "56",
+    "addr:postcode": "1004",
+    "addr:street": "Chemin de Renens",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Brasserie de Malley",
+    "opening_hours": "Mo-Fr 06:00-23:00, Sa 08:00-23:00, Su 08:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 625 95 25",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.brasseriemalley.com",
+    "wheelchair": "yes"
+  },
+  "id": 2850354167
+}

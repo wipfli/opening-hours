@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2706647,
+      47.4385502
+    ]
+  },
+  "properties": {
+    "id": 1836943252,
+    "addr:city": "R\u00fctihof",
+    "addr:housenumber": "2",
+    "addr:postcode": "5406",
+    "addr:street": "Fislisbacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "name": "Moca",
+    "opening_hours": "Tu-Th 11:30-14:00,17:30-22:00; Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00; Su,Mo off",
+    "phone": "+41 56 470 00 68",
+    "website": "https://moca-ruetihof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1836943252
+}

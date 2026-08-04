@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3801129,
+      47.5646171
+    ]
+  },
+  "properties": {
+    "id": 3611264527,
+    "amenity": "restaurant",
+    "check_date": "2025-09-05",
+    "name": "Hafen",
+    "opening_hours": "Mo-Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 466 78 48",
+    "toilets:wheelchair": "yes",
+    "website": "https://restaurant-hafen.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3611264527
+}

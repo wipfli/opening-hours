@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4349876,
+      46.9471272
+    ]
+  },
+  "properties": {
+    "id": 1274323364,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "3008",
+    "addr:street": "Laupenstrasse",
+    "alt_name": "Locanda Ristorante Tre Fratelli",
+    "amenity": "restaurant",
+    "check_date": "2025-04-15",
+    "check_date:opening_hours": "2025-04-15",
+    "contact:email": "info@tre-fratelli-bern.ch",
+    "contact:fax": "+41 31 3812507",
+    "contact:phone": "+41 31 3812573",
+    "cuisine": "italian",
+    "name": "Tre Fratelli",
+    "opening_hours": "Mo-Fr 11:00-23:30; Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.tre-fratelli-bern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1274323364
+}

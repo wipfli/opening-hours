@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5236903,
+      47.1737759
+    ]
+  },
+  "properties": {
+    "id": 5046849025,
+    "addr:city": "Zug",
+    "addr:housenumber": "24",
+    "addr:postcode": "6300",
+    "addr:street": "L\u00fcssiweg",
+    "amenity": "restaurant",
+    "name": "Mensa Kantonsschule Zug",
+    "opening_hours": "Mo-Fr 11:30-13:15",
+    "website": "https://www.eldora-ksz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5046849025
+}

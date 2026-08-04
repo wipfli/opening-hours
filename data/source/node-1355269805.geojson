@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8153539,
+      47.2257018
+    ]
+  },
+  "properties": {
+    "id": 1355269805,
+    "addr:city": "Rapperswil",
+    "addr:place": "Fischmarktplatz",
+    "addr:postcode": "8640",
+    "alt_name": "Dieci al Lago",
+    "amenity": "restaurant",
+    "branch": "al lago",
+    "brand": "dieci",
+    "cuisine": "pizza",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "level": "0;1",
+    "name": "10' dieci",
+    "opening_hours": "09:00+",
+    "operator": "Dieci",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 210 90 20",
+    "toilets:wheelchair": "no",
+    "website": "https://www.dieci.ch/de/restaurant-rapperswil",
+    "wheelchair": "yes"
+  },
+  "id": 1355269805
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5901783,
+      47.5694979
+    ]
+  },
+  "properties": {
+    "id": 7995309310,
+    "addr:city": "Basel",
+    "addr:housenumber": "107",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Pizza Picassso",
+    "opening_hours": "We-Mo 16:00-05:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 691 91 91",
+    "smoking": "outside",
+    "website": "https://pizzapicasso.ch/"
+  },
+  "id": 7995309310
+}

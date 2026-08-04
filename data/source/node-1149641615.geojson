@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9951686,
+      46.2968983
+    ]
+  },
+  "properties": {
+    "id": 1149641615,
+    "amenity": "restaurant",
+    "name": "H\u00f4tel de Ville",
+    "opening_hours": "Th-Mo 08:00-23:00",
+    "phone": "+41 24 499 19 22",
+    "website": "https://www.resthotelollon.ch/",
+    "wikidata": "Q29891336"
+  },
+  "id": 1149641615
+}

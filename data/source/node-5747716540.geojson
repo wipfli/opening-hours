@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5202076,
+      47.4836536
+    ]
+  },
+  "properties": {
+    "id": 5747716540,
+    "addr:city": "Oberglatt",
+    "addr:housenumber": "23",
+    "addr:postcode": "8154",
+    "addr:street": "Grundstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hof Wiesengrund AG",
+    "opening_hours": "\"Nur geschlossene Gesellschaften\"",
+    "outdoor_seating": "yes",
+    "website": "https://www.hof-wiesengrund.ch/"
+  },
+  "id": 5747716540
+}

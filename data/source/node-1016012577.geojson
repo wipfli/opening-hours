@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5252621,
+      47.3764802
+    ]
+  },
   "properties": {
-    "@id": "node/1016012577",
+    "id": 1016012577,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "101",
@@ -16,12 +23,5 @@
     "website": "https://www.pho50.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5252621,
-      47.3764802
-    ]
-  },
-  "id": "node-1016012577"
+  "id": 1016012577
 }

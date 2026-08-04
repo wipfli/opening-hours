@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0467888,
+      47.3892455
+    ]
+  },
+  "properties": {
+    "id": 3709397395,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "5000",
+    "addr:street": "Obere Vorstadt",
+    "amenity": "restaurant",
+    "contact:email": "info@coremio.ch",
+    "contact:facebook": "https://www.facebook.com/pages/category/Italian-Restaurant/ristorante_core_mio-102174588112904/",
+    "contact:instagram": "https://www.instagram.com/ristorante_core_mio/",
+    "contact:phone": "+41 62 822 31 05",
+    "cuisine": "pizza;italian",
+    "name": "Core Mio",
+    "opening_hours": "Mo 11:30-14:00; Tu-Fr 11:30-14:00,17:30-23:30; Sa 17:30-23:30; Su off",
+    "opening_hours:url": "https://coremio.ch/contacts-2/",
+    "smoking": "outside",
+    "website": "https://coremio.ch",
+    "website:menu": "https://smartmenu.foodboard.it/menu/mittagessen/?language=de",
+    "wheelchair": "yes"
+  },
+  "id": 3709397395
+}

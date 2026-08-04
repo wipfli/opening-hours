@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3886166,
+      47.1131526
+    ]
+  },
+  "properties": {
+    "id": 8834352218,
+    "addr:city": "Root",
+    "addr:housenumber": "7",
+    "addr:postcode": "6037",
+    "addr:street": "Luzernerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@roessli-hue.ch",
+    "name": "R\u00f6ssli H\u00fc",
+    "opening_hours": "Tu-Fr 11:30-14:30,17:30+; Sa 17:30+",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 531 91 51",
+    "website": "https://www.roessli-hue.ch"
+  },
+  "id": 8834352218
+}

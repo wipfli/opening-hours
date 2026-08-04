@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5181721,
+      47.1725513
+    ]
+  },
+  "properties": {
+    "id": 3691000030,
+    "addr:city": "Zug",
+    "addr:housenumber": "13c",
+    "addr:postcode": "6300",
+    "addr:street": "Industriestrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2025-05-01",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "Miss Miu",
+    "name:de": "Miss Miu",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 710 84 18",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://www.miss-miu.ch/de/zug-metalli",
+    "wheelchair": "yes"
+  },
+  "id": 3691000030
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.513298,
+      46.9590891
+    ]
+  },
+  "properties": {
+    "id": 9873777996,
+    "addr:city": "Stettlen",
+    "addr:housenumber": "13",
+    "addr:postcode": "3066",
+    "addr:street": "Bernapark",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "La Famiglia",
+    "opening_hours": "Mo-Su 10:00 -14:00, 17:30-23:30",
+    "phone": "+41315300450",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.la-famiglia-bernapark.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9873777996
+}

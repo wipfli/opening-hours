@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9055107,
+      46.4883211
+    ]
+  },
+  "properties": {
+    "id": 1827634794,
+    "amenity": "restaurant",
+    "name": "Bun Di",
+    "opening_hours": "07:30-23:00",
+    "phone": "+41 81 842 80 40",
+    "website": "https://www.bun-di.restaurant/"
+  },
+  "id": 1827634794
+}

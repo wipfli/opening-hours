@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5314099,
+      46.8486364
+    ]
+  },
+  "properties": {
+    "id": 11963510212,
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "description": "Boutique con cucina",
+    "diet:vegan": "yes",
+    "name": "Via Paradiso 8",
+    "opening_hours": "Tu-Sa 09:00-18:00; Th,Fr 09:00-20:00",
+    "phone": "+41 81 252 39 51",
+    "website": "https://www.viaparadiso8.ch/"
+  },
+  "id": 11963510212
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0836144,
+      46.5656681
+    ]
+  },
+  "properties": {
+    "id": 2342468041,
+    "amenity": "restaurant",
+    "cuisine": "french;local",
+    "diet:vegetarian": "yes",
+    "name": "Auberge de la Couronne",
+    "opening_hours": "Tu 07:30-18:00; We,Th 07:30-23:00; Fr 07:30-24:00, Sa 08:00-24:00, Su 08:00-19:00",
+    "phone": "+41 26 921 21 19",
+    "website": "https://aubergelacouronneenney.com/"
+  },
+  "id": 2342468041
+}

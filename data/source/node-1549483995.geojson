@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6420963,
+      46.7695141
+    ]
+  },
+  "properties": {
+    "id": 1549483995,
+    "addr:city": "Intschi",
+    "addr:postcode": "6476",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "internet_access": "wlan",
+    "name": "Gasthaus Alpenblick",
+    "name:de": "Berggasthaus Alpenblick",
+    "name:en": "Berggasthaus Alpenblick",
+    "name:fr": "Berggasthaus Alpenblick",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "phone": "+41 41 883 03 42",
+    "website": "https://www.berggasthaus-alpenblick.ch/"
+  },
+  "id": 1549483995
+}

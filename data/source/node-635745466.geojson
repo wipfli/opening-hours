@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4402537,
+      46.9395675
+    ]
+  },
+  "properties": {
+    "id": 635745466,
+    "addr:housenumber": "80",
+    "addr:street": "Eigerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-12",
+    "cuisine": "curry",
+    "name": "T\u00e4ngi-Curry",
+    "opening_hours": "Mo-Th 11:15-14:00",
+    "opening_hours:kitchen": "Mo-Fr 11:15-14:00",
+    "website": "https://taengi.weebly.com",
+    "wheelchair": "yes"
+  },
+  "id": 635745466
+}

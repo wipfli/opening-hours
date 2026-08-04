@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4365755,
+      46.9478449
+    ]
+  },
+  "properties": {
+    "id": 6142423528,
+    "amenity": "restaurant",
+    "email": "info@theflow-restaurant.ch",
+    "level": "3",
+    "name": "the flow",
+    "opening_hours": "Mo-Fr 10:00-18:00; Mo-Sa 18:00-23:30; Su off",
+    "phone": "+41 31 310 06 60",
+    "source": "https://www.welle7.ch/en/shopping-enjoyment/restaurant-the-flow",
+    "website": "https://www.theflow-restaurant.ch"
+  },
+  "id": 6142423528
+}

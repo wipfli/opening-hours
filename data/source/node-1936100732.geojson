@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.601221,
+      47.5587229
+    ]
+  },
+  "properties": {
+    "id": 1936100732,
+    "addr:city": "Basel",
+    "addr:housenumber": "90",
+    "addr:postcode": "4058",
+    "addr:street": "Grenzacherstrasse",
+    "amenity": "restaurant",
+    "name": "Brauerei",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 61 6924936",
+    "website": "https://www.brauerei-basel.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1936100732
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.71984,
+      47.4994087
+    ]
+  },
+  "properties": {
+    "id": 593846241,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "8",
+    "addr:postcode": "8400",
+    "addr:street": "Sch\u00fctzenstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "no",
+    "capacity": "40",
+    "cuisine": "mexican",
+    "drive_through": "no",
+    "internet_access": "no",
+    "level": "0",
+    "name": "El Burrito Feliz",
+    "opening_hours": "Mo-Sa 11:30-14:00,17:30-22:00; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 765138884",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.elburritofeliz.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 593846241
+}

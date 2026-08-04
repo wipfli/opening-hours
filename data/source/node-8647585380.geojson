@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5607646,
+      47.4512855
+    ]
+  },
+  "properties": {
+    "id": 8647585380,
+    "amenity": "restaurant",
+    "level": "3",
+    "name": "Aspire Lounge (Airside Center)",
+    "old_name": "Skyteam Lounge",
+    "opening_hours": "10:00-17:00",
+    "phone": "+41 43 816 58 40",
+    "website": "https://aspirelounge.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8647585380
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457062,
+      47.4099302
+    ]
+  },
+  "properties": {
+    "id": 311859458,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8050",
+    "addr:street": "Querstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-27",
+    "cuisine": "american",
+    "indoor_seating": "yes",
+    "name": "Cheyenne",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "operator": "Two Spice",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cheyenne-oerlikon.ch",
+    "wheelchair": "limited"
+  },
+  "id": 311859458
+}

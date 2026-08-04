@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.431201,
+      47.2140788
+    ]
+  },
+  "properties": {
+    "id": 306295784,
+    "addr:city": "Bettlach",
+    "addr:housenumber": "41",
+    "addr:postcode": "2544",
+    "addr:street": "Neue Zelgstrasse",
+    "amenity": "restaurant",
+    "ele": "615",
+    "name": "neue Zelg",
+    "opening_hours": "Fr 09:00-23:00; Sa 14:00-23:00; Su 09:00-18:00",
+    "phone": "+41 79 200 58 23",
+    "website": "https://kimtcherei.ch/restaurant/"
+  },
+  "id": 306295784
+}

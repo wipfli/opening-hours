@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5916548,
+      47.56648
+    ]
+  },
+  "properties": {
+    "id": 8010710188,
+    "addr:city": "Basel",
+    "addr:housenumber": "57",
+    "addr:postcode": "4057",
+    "addr:street": "Feldbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Chanthaburi",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-24:00; Sa 18:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 61 683 22 23",
+    "smoking": "no",
+    "website": "https://www.chanthaburi.ch"
+  },
+  "id": 8010710188
+}

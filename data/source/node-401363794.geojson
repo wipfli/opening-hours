@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6286055,
+      47.3562321
+    ]
+  },
+  "properties": {
+    "id": 401363794,
+    "addr:city": "Binz",
+    "addr:housenumber": "215",
+    "addr:postcode": "8122",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "name": "zur Trotte",
+    "opening_hours": "Mo-Fr 08:00-23:00; Su 11:00-23:00",
+    "phone": "+41 44 980 39 82",
+    "website": "https://www.ristorante-daremo.ch/"
+  },
+  "id": 401363794
+}

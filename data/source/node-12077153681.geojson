@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5712084,
+      47.577645
+    ]
+  },
+  "properties": {
+    "id": 12077153681,
+    "addr:city": "Saint-Louis",
+    "addr:housenumber": "89",
+    "addr:postcode": "68300",
+    "addr:street": "Avenue de B\u00e2le",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Nagoya Sushi",
+    "opening_hours": "Mo-Sa 11:30-14:30,18:30-23:30",
+    "phone": "+33 3 89 08 78 90",
+    "website": "http://www.nagoyasushi68.fr"
+  },
+  "id": 12077153681
+}

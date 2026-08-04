@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445108,
+      47.3749804
+    ]
+  },
   "properties": {
-    "@id": "node/656327626",
+    "id": 656327626,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "21",
@@ -19,12 +26,5 @@
     "website": "https://walliser-keller.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5445108,
-      47.3749804
-    ]
-  },
-  "id": "node-656327626"
+  "id": 656327626
 }

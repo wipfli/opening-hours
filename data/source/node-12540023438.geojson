@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5329449,
+      47.1822888
+    ]
+  },
+  "properties": {
+    "id": 12540023438,
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "check_date": "2026-02-22",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Gasthof Ebel",
+    "opening_hours": "We-Fr 11:00-14:00,17:00-23:00; Sa,Su 11:00-18:00+",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 761 86 01",
+    "smoking": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:fee": "no",
+    "toilets:gender_segregated": "yes",
+    "website": "https://ebelbaar.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12540023438
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1658474,
+      46.289406
+    ]
+  },
+  "properties": {
+    "id": 12888775282,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Mumbai Delice",
+    "opening_hours": "Tu-Su 11:30-14:00,18:00-22:00",
+    "phone": "+41 76 548 44 43",
+    "website": "https://mumbaidelice.ch/"
+  },
+  "id": 12888775282
+}

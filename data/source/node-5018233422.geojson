@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0510654,
+      47.4746544
+    ]
+  },
+  "properties": {
+    "id": 5018233422,
+    "amenity": "restaurant",
+    "name": "L\u00f6wen",
+    "name:de": "L\u00f6wen",
+    "opening_hours": "Tu-Fr 09:00-23:00; Sa 08:30-23:00; Su-Mo off",
+    "website": "https://loewen-herznach.ch/"
+  },
+  "id": 5018233422
+}

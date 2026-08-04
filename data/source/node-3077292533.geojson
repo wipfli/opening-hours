@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.597422,
+      47.566436
+    ]
+  },
+  "properties": {
+    "id": 3077292533,
+    "addr:city": "Basel",
+    "addr:housenumber": "104",
+    "addr:postcode": "4058",
+    "addr:street": "Haltingerstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@tapeo.ch",
+    "cuisine": "spanish",
+    "name": "Tapeo Tapas Bar La Terraza",
+    "opening_hours": "Tu-Su 17:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 543 03 12",
+    "smoking": "outside",
+    "website": "http://www.tapeo.ch"
+  },
+  "id": 3077292533
+}

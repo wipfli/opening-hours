@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5532985,
+      47.3883565
+    ]
+  },
+  "properties": {
+    "id": 4889986286,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "99",
+    "addr:postcode": "8044",
+    "addr:street": "Germaniastrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-01",
+    "email": "info@restaurantrigiblick.ch",
+    "internet_access": "no",
+    "name": "Restaurant Rigiblick",
+    "opening_hours": "Mo-Tu off; We-Sa 12:00-22:00; Su 12:00-21:00",
+    "operator": "Vreni Giger",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 255 15 70",
+    "website": "https://www.restaurantrigiblick.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4889986286
+}

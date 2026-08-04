@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7811258,
+      47.3658085
+    ]
+  },
+  "properties": {
+    "id": 7679394379,
+    "addr:city": "Pf\u00e4ffikon ZH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8330",
+    "addr:street": "Usterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-31",
+    "cuisine": "regional",
+    "name": "Restaurant Hecht",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:00; Sa 11:00-23:00; Su,PH 11:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 950 11 55",
+    "smoking": "outside",
+    "website": "https://www.gasthof-hecht.ch/"
+  },
+  "id": 7679394379
+}

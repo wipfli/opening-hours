@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6263541,
+      46.7598135
+    ]
+  },
+  "properties": {
+    "id": 1601611293,
+    "addr:city": "Thun",
+    "addr:housenumber": "10",
+    "addr:postcode": "3600",
+    "addr:street": "B\u00e4lliz",
+    "amenity": "restaurant",
+    "cuisine": "mongolian",
+    "name": "HAN Mongolian Barbecue",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00, Sa,Su 11:30-15:00,17:00-23:00",
+    "operator": "HAN Mongolian Barbecue",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+41 33 221 70 90",
+    "takeaway": "yes",
+    "website": "https://www.han.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1601611293
+}

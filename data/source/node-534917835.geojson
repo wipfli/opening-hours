@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7313352,
+      47.4979559
+    ]
+  },
+  "properties": {
+    "id": 534917835,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "8",
+    "addr:postcode": "8403",
+    "addr:street": "Technikumstrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Bistro Alte Kaserne",
+    "opening_hours": "Mo-Fr 09:00-22:30; Sa 15:00-22:30",
+    "phone": "+41 52 267 57 75",
+    "website": "https://altekaserne.ch/bistro/"
+  },
+  "id": 534917835
+}

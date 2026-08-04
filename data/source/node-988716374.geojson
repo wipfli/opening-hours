@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1057318,
+      46.8218964
+    ]
+  },
+  "properties": {
+    "id": 988716374,
+    "addr:city": "Belfaux",
+    "addr:housenumber": "11",
+    "addr:postcode": "1782",
+    "addr:street": "Route du Centre",
+    "amenity": "restaurant",
+    "cuisine": "french;swiss",
+    "name": "Auberge du Mouton",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:00-22:30; Su 10:00-15:00",
+    "phone": "+41 26 475 48 40;+41 78 637 63 63",
+    "website": "https://www.aubergedumouton.ch/"
+  },
+  "id": 988716374
+}

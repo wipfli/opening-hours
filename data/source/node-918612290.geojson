@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6257858,
+      46.5247077
+    ]
+  },
+  "properties": {
+    "id": 918612290,
+    "amenity": "restaurant",
+    "check_date": "2026-01-11",
+    "cuisine": "italian;pizza",
+    "diet:gluten_free": "yes",
+    "diet:vegetarian": "yes",
+    "name": "La Nonna",
+    "opening_hours": "Mo-Fr 09:00-15:00, 18:00-00:00; Sa 11:00-15:15, 18:00-00:00; Su 17:45-00:00",
+    "phone": "+41 21 646 54 12",
+    "website": "https://www.pizzeria-lanonna.ch/",
+    "website:menu": "https://de.cdn-website.com/4b4cc1b7f24d42e4bcb43e34da608f82/files/uploaded/MENUSEMAINE17.03-14480dea.pdf",
+    "wheelchair": "limited"
+  },
+  "id": 918612290
+}

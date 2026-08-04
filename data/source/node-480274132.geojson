@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5296761,
+      47.3935843
+    ]
+  },
+  "properties": {
+    "id": 480274132,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8037",
+    "addr:street": "Nordbr\u00fccke",
+    "amenity": "restaurant",
+    "check_date": "2025-08-27",
+    "check_date:opening_hours": "2025-08-27",
+    "cuisine": "international",
+    "indoor_seating": "yes",
+    "name": "The Artisan",
+    "opening_hours": "Mo-Th 18:00-23:00, Fr 18:00-24:00, Sa 10:30-15:00,18:00-24:00, Su 10:30-15:00,18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 501 35 71",
+    "smoking": "outside",
+    "takeaway": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://theartisan.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 480274132
+}

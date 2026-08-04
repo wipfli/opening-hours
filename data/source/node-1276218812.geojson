@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6385134,
+      46.5205713
+    ]
+  },
+  "properties": {
+    "id": 1276218812,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "36",
+    "addr:postcode": "1005",
+    "addr:street": "Rue Marterey",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Le Java",
+    "opening_hours": "Mo-Th 07:30-24:00; Fr 07:30-01:00; Sa-Su 09:30-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 321 38 37",
+    "smoking": "outside",
+    "website": "https://www.lejava.ch/"
+  },
+  "id": 1276218812
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5987873,
+      47.3969508
+    ]
+  },
+  "properties": {
+    "id": 4891858478,
+    "access": "private",
+    "addr:city": "D\u00fcbendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "130",
+    "addr:postcode": "8600",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "capacity": "204",
+    "email": "giardino@zfv.ch",
+    "name": "Helsana Bistro Giardino",
+    "opening_hours": "Mo-Fr 06:00-18:00",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 819 14 75",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/helsana-bistro-giardino",
+    "wheelchair": "yes"
+  },
+  "id": 4891858478
+}

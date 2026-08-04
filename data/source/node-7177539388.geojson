@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6493007,
+      46.7716422
+    ]
+  },
+  "properties": {
+    "id": 7177539388,
+    "amenity": "restaurant",
+    "name": "La Rotonde",
+    "opening_hours": "Mo-Fr 12:00-14:00, 18:30-21:30; Sa 18:30-21:30",
+    "phone": "+41 24 424 64 64",
+    "website": "https://www.bainsyverdon.ch/restauration/la-rotonde/"
+  },
+  "id": 7177539388
+}

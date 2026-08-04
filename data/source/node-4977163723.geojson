@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2394496,
+      46.3830578
+    ]
+  },
+  "properties": {
+    "id": 4977163723,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Qing Dao Express",
+    "opening_hours": "Mo 11:30-14:00; Tu-Fr 11:30-14:00 17:00-21:00; Sa 17:00-21:00; Su 11:30-14:00 17:00-21:00",
+    "phone": "+41 22 361 07 07",
+    "website": "https://www.qingdaoexpress.ch/"
+  },
+  "id": 4977163723
+}

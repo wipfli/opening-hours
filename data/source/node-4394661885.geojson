@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0762352,
+      47.3785736
+    ]
+  },
+  "properties": {
+    "id": 4394661885,
+    "addr:city": "Suhr",
+    "addr:country": "CH",
+    "addr:housenumber": "55",
+    "addr:postcode": "5034",
+    "addr:street": "Tramstrasse",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "name": "Pizza Kurier 55",
+    "opening_hours": "Tu-Th 11:00-13:30,17:00-22:30; Fr-Sa 11:00-13:30,17:00-23:00; Su 16:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.pizza55.ch/"
+  },
+  "id": 4394661885
+}

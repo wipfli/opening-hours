@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9282753,
+      46.9916828
+    ]
+  },
+  "properties": {
+    "id": 3897950480,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "4",
+    "addr:postcode": "2000",
+    "addr:street": "Rue du Ch\u00e2teau",
+    "amenity": "restaurant",
+    "check_date": "2025-07-31",
+    "cuisine": "crepe",
+    "indoor_seating": "yes",
+    "name": "La Cr\u00eaperie du Ch\u00e2teau",
+    "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-22:00; Su 11:30-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 721 02 00",
+    "website": "https://www.creperieduchateau.ch",
+    "wheelchair": "no"
+  },
+  "id": 3897950480
+}

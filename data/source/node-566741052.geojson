@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.498395,
+      47.02085
+    ]
+  },
+  "properties": {
+    "id": 566741052,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Piazza",
+    "opening_hours": "Mo-Fr 08:30-20:00, 09:00-18:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 859 45 47",
+    "takeaway": "yes",
+    "website": "https://www.piazzagastroag.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 566741052
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7934772,
+      46.1690726
+    ]
+  },
+  "properties": {
+    "id": 7200783384,
+    "addr:city": "Locarno",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "6600",
+    "addr:street": "Via della Motta",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Govinda",
+    "opening_hours": "Mo-We 09:00-15:00; Th-Sa 09:00-15:00, 18:30-22:30",
+    "organic": "yes;used",
+    "phone": "+41917523852",
+    "website": "https://www.govinda-locarno.ch"
+  },
+  "id": 7200783384
+}

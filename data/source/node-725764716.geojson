@@ -1,17 +1,26 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5332337,
+      47.3832551
+    ]
+  },
   "properties": {
-    "@id": "node/725764716",
+    "id": 725764716,
     "addr:city": "Z\u00fcrich",
+    "addr:floor": "0",
     "addr:housenumber": "56",
     "addr:postcode": "8005",
     "addr:street": "Ackerstrasse",
     "amenity": "restaurant",
-    "check_date": "2025-03-19",
+    "check_date": "2026-06-29",
     "cuisine": "indian",
     "disused:amenity": "restaurant",
     "email": "reservation@tadka.ch",
     "indoor_seating": "yes",
+    "level": "0",
     "name": "Tadka",
     "opening_hours": "Mo-Fr 11:30-14:00, 18:00-22:30; Sa 18:00-22:30; Su 17:30-22:30",
     "outdoor_seating": "yes",
@@ -21,12 +30,5 @@
     "website:menu": "https://tadka.ch/menu/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5332337,
-      47.3832551
-    ]
-  },
-  "id": "node-725764716"
+  "id": 725764716
 }

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4848405,
+      47.388287
+    ]
+  },
+  "properties": {
+    "id": 12626440541,
+    "amenity": "restaurant",
+    "brand": "Santa Lucia",
+    "brand:wikidata": "Q110419156",
+    "cuisine": "pizza;italian",
+    "indoor_seating": "yes",
+    "name": "Santa Lucia",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:30; Sa-Su 11:30-22:30",
+    "outdoor_seating": "terrace",
+    "oven": "wood_fired",
+    "phone": "+41 44 431 65 60",
+    "website": "https://www.bindella.ch/gastronomie/santa-lucia-altstetten"
+  },
+  "id": 12626440541
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4998089,
+      46.5117289
+    ]
+  },
+  "properties": {
+    "id": 8717999889,
+    "addr:city": "Morges",
+    "addr:housenumber": "2",
+    "addr:postcode": "1110",
+    "addr:street": "Rue Docteur Yersin",
+    "amenity": "restaurant",
+    "name": "Happy Bowl",
+    "opening_hours": "Mo-Su 10:00-14:00, Mo-Su 18:00-21:00",
+    "phone": "+41 21 552 25 55",
+    "website": "https://morges.happybowl.ch/",
+    "wheelchair": "no"
+  },
+  "id": 8717999889
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5137204,
+      47.3738667
+    ]
+  },
   "properties": {
-    "@id": "node/3689198434",
+    "id": 3689198434,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "86",
@@ -20,12 +27,5 @@
     "website": "https://www.lapiccolatrattoria.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5137204,
-      47.3738667
-    ]
-  },
-  "id": "node-3689198434"
+  "id": 3689198434
 }

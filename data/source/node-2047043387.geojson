@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3839849,
+      47.5684517
+    ]
+  },
+  "properties": {
+    "id": 2047043387,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "zur Mole",
+    "opening_hours": "We-Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 769 30 90",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.moleromanshorn.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2047043387
+}

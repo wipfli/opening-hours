@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9046985,
+      47.3500562
+    ]
+  },
+  "properties": {
+    "id": 12124000321,
+    "amenity": "restaurant",
+    "email": "info@stadtbadolten.ch",
+    "name": "Stadtbad",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00",
+    "phone": "+41 62 286 60 60",
+    "website": "https://restaurantstadtbad.ch/"
+  },
+  "id": 12124000321
+}

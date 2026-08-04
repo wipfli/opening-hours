@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4422812,
+      46.2596751
+    ]
+  },
+  "properties": {
+    "id": 3303963205,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@accademia-dellapizza.ch",
+    "name": "Accademia della Pizza",
+    "opening_hours": "Mo-Su 08:00-00:00",
+    "phone": "+41 27 203 28 68",
+    "website": "https://accademia-dellapizza.ch"
+  },
+  "id": 3303963205
+}

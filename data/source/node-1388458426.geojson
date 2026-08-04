@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4558063,
+      47.4013622
+    ]
+  },
+  "properties": {
+    "id": 1388458426,
+    "alt_name": "Selfservice",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hiestand",
+    "opening_hours": "Mo-Fr 06:00-16:00",
+    "website": "http://www.backmarkt.ch/restaurant/restaurant-take-away.html",
+    "wheelchair": "yes"
+  },
+  "id": 1388458426
+}

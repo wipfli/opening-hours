@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5966627,
+      47.6052973
+    ]
+  },
+  "properties": {
+    "id": 3841716268,
+    "addr:city": "Ellikon am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8464",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "info@schiffellikon.ch",
+    "name": "Gasthaus zum Schiff",
+    "opening_hours": "We-Fr 10:30-14:00,17:30-22:00; Sa 10:30-22:00; Su 10:30-20:00",
+    "operator": "B. Tolaj",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 301 40 00",
+    "website": "https://www.schiffellikon.ch/"
+  },
+  "id": 3841716268
+}

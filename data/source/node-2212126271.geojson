@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2768187,
+      47.0446335
+    ]
+  },
+  "properties": {
+    "id": 2212126271,
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "name": "Albergio",
+    "opening_hours": "We-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 392 11 37",
+    "website": "http://www.albergio.ch/"
+  },
+  "id": 2212126271
+}

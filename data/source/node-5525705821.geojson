@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.627827,
+      46.5213192
+    ]
+  },
+  "properties": {
+    "id": 5525705821,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "11",
+    "addr:postcode": "1003",
+    "addr:street": "Rue du Port-Franc",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Cipriano Bar",
+    "opening_hours": "Mo-We 07:30-24:00, Th 07:30-01:00, Fr,Sa 07:30-02:00, Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 533 00 15",
+    "toilets:wheelchair": "yes",
+    "website": "https://cipriano-bar.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5525705821
+}

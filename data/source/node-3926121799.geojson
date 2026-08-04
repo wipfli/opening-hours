@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5100441,
+      47.3906264
+    ]
+  },
+  "properties": {
+    "id": 3926121799,
+    "amenity": "restaurant",
+    "check_date": "2025-07-25",
+    "cuisine": "steak_house",
+    "indoor_seating": "yes",
+    "name": "Route Twenty-Six",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00, Sa-Su 12:00-14:00,17:00-22:00",
+    "operator": "ABC Betriebs AG;Marriott",
+    "outdoor_seating": "yes",
+    "website": "https://www.routetwentysix.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3926121799
+}

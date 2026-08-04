@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4954653,
+      47.381824
+    ]
+  },
+  "properties": {
+    "id": 10777960125,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "cuisine": "regional",
+    "email": "mail@minimum.ch",
+    "name": "Minimum",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 10:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 321 86 92",
+    "reservation": "yes",
+    "website": "https://minimum.ch/restaurant",
+    "wheelchair": "yes"
+  },
+  "id": 10777960125
+}

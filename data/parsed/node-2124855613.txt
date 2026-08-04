@@ -1,5 +1,0 @@
-This venue has complex seasonal hours that change significantly between winter and summer seasons, with different periods having different schedules. The website shows detailed winter season hours that are currently active but will end soon (March 7, 2026), followed by a closure period (March 8-23), then a terrace season starting March 24, and summer season starting April 3.
-
-Given the complexity of the seasonal variations, the multiple sub-venues (Winterstube vs Winter-Garten) with different hours, and the fact that the summer hours aren't even listed yet, I cannot confidently produce a single accurate `opening_hours` string.
-
-UNSURE

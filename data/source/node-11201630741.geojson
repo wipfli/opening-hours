@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.623707,
+      47.0598232
+    ]
+  },
+  "properties": {
+    "id": 11201630741,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Raiffeisen Stadtcaf\u00e9",
+    "opening_hours": "Mo-Fr 08:30-18:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 422 81 81",
+    "website": "https://raiffeisen-stadtcafe.ch"
+  },
+  "id": 11201630741
+}

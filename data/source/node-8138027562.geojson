@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.512785,
+      47.1895254
+    ]
+  },
+  "properties": {
+    "id": 8138027562,
+    "amenity": "restaurant",
+    "email": "story@zuwebe.ch",
+    "name": "Story",
+    "opening_hours": "Mo-Fr 07:30-15:30, PH off",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:00",
+    "phone": "+41 41 781 61 61",
+    "reservation": "yes",
+    "website": "https://www.restaurant-story.ch"
+  },
+  "id": 8138027562
+}

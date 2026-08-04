@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6619214,
+      46.5113866
+    ]
+  },
+  "properties": {
+    "id": 6292731720,
+    "addr:city": "Pully",
+    "addr:housenumber": "61",
+    "addr:postcode": "1009",
+    "addr:street": "Avenue de Lavaux",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Maison Tha\u00ef La Clerg\u00e8re Pully",
+    "opening_hours": "Mo-Fr, Su 11:15-14:00,17:30-21:45; Sa 17:30-21:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 711 26 24",
+    "website": "https://maisonthai-pully.ch/"
+  },
+  "id": 6292731720
+}

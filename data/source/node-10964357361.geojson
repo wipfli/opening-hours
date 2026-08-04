@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1238294,
+      46.1739335
+    ]
+  },
+  "properties": {
+    "id": 10964357361,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "pizza",
+    "name": "D'Ka",
+    "opening_hours": "Mo 07:00-14:30; Tu-Fr 08:00-14:30; Sa 09:00-14:30; Mo, Tu, Th-Sa 17:30-00:00",
+    "phone": "+41228800728",
+    "website": "https://d-ka.ch",
+    "website:menu": "https://d-ka.ch/menu/carte/"
+  },
+  "id": 10964357361
+}

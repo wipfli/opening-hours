@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8402568,
+      46.257718
+    ]
+  },
+  "properties": {
+    "id": 4973453021,
+    "amenity": "restaurant",
+    "name": "Osteria Vittoria",
+    "opening_hours": "Mo 17:00-21:00; Tu-Su 12:00-21:00",
+    "phone": "+41 91 746 1111",
+    "tourism": "hotel",
+    "website": "https://osteriavittoria.ch"
+  },
+  "id": 4973453021
+}

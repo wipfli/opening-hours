@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3750347,
+      47.4255646
+    ]
+  },
+  "properties": {
+    "id": 13516588847,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "11",
+    "addr:postcode": "9000",
+    "addr:street": "Marktplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-02-01",
+    "cuisine": "pizza",
+    "name": "Disco Pizza",
+    "opening_hours": "Tu-Fr 11:45-14:00,17:30-22:00; Sa 11:45-22:00",
+    "website": "https://discopizza.ch/"
+  },
+  "id": 13516588847
+}

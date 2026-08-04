@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6312213,
+      46.5244889
+    ]
+  },
+  "properties": {
+    "id": 5223601321,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "23",
+    "addr:postcode": "1004",
+    "addr:street": "Rue du Valentin",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Slice Pizza",
+    "opening_hours": "Tu-Su 18:00+",
+    "operator": "P&R Natural Foods S\u00e0rl",
+    "phone": "+41 21 311 53 49",
+    "website": "https://www.slicepizza.ch/"
+  },
+  "id": 5223601321
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1109866,
+      47.1718632
+    ]
+  },
+  "properties": {
+    "id": 1511969314,
+    "addr:city": "Sursee",
+    "addr:housenumber": "25",
+    "addr:postcode": "6210",
+    "addr:street": "Oberstadt",
+    "amenity": "restaurant",
+    "email": "sursee@el-mosquito.ch",
+    "name": "El Mosquito",
+    "opening_hours": "Mo-Fr 16:30-00:30; Sa 15:00-00:30; Su,PH 12:00-22:00",
+    "phone": "+41 41 922 00 77",
+    "toilets:wheelchair": "no",
+    "website": "https://www.el-mosquito.ch/sursee/sursee-home/",
+    "wheelchair": "limited"
+  },
+  "id": 1511969314
+}

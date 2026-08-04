@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5161869,
+      47.1606496
+    ]
+  },
+  "properties": {
+    "id": 13882940401,
+    "addr:housenumber": "13",
+    "addr:postcode": "6300",
+    "addr:street": "Hofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Speranza",
+    "opening_hours": "Tu-Sa 11:30-21:00",
+    "website": "https://la-speranza.ch/"
+  },
+  "id": 13882940401
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5177733,
+      46.9317062
+    ]
+  },
+  "properties": {
+    "id": 13512932115,
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "email": "gastronomie@hss-services.ch",
+    "level": "0",
+    "name": "Bistro Siloah",
+    "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su 10:00-17:00",
+    "opening_hours:kitchen": "11:30-13:00",
+    "opening_hours:url": "https://www.siloah.ch/ueber-uns/gastronomie",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+41 31 958 18 81",
+    "self_service": "yes",
+    "website": "https://www.siloah.ch/ueber-uns/gastronomie"
+  },
+  "id": 13512932115
+}

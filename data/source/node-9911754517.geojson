@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.475864,
+      47.3935167
+    ]
+  },
+  "properties": {
+    "id": 9911754517,
+    "amenity": "restaurant",
+    "check_date": "2026-07-13",
+    "check_date:opening_hours": "2025-06-29",
+    "email": "imfo@micasgarten.ch",
+    "name": "Micas Garten",
+    "opening_hours": "Mo-We 17:00-22:45; Th-Fr 17:00-23:45; Sa 16:00-23:45; Su 16:00-21:45",
+    "operator": "Frau Gerolds Garten AG",
+    "outdoor_seating": "yes",
+    "payment:cash": "no",
+    "payment:twint": "yes",
+    "phone": "+41 79 270 50 70",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.micasgarten.ch/"
+  },
+  "id": 9911754517
+}

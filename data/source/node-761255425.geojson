@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.443094,
+      46.9493437
+    ]
+  },
+  "properties": {
+    "id": 761255425,
+    "addr:city": "Bern",
+    "addr:housenumber": "19",
+    "addr:postcode": "3011",
+    "addr:street": "Aarbergergasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-14",
+    "contact:addr": "Aarbergergasse 19, 3011 Bern",
+    "contact:email": "casa.marcello@gmx.ch",
+    "contact:phone": "+41 31 3113026",
+    "cuisine": "regional",
+    "description": "Allowed to bring your own food",
+    "name": "Casa Marcello",
+    "opening_hours": "Mo-Th,Su 10:00-23:00; Fr-Sa 15:00-01:00",
+    "operator": "Lanfranchi Gastro GmbH",
+    "source": "survey and website",
+    "website": "http://casa-marcello.wix.com/casa-marcello",
+    "wheelchair": "limited"
+  },
+  "id": 761255425
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4911617,
+      47.43053
+    ]
+  },
+  "properties": {
+    "id": 1962314081,
+    "addr:city": "Rehetobel",
+    "addr:housenumber": "20",
+    "addr:postcode": "9038",
+    "addr:street": "Gupf",
+    "amenity": "restaurant",
+    "name": "Gasthaus zum Gupf",
+    "opening_hours": "We-Su 11:30-15:00,18:00-24:00",
+    "phone": "+41 71 877 11 10",
+    "tourism": "hotel",
+    "website": "https://www.gupf.ch/",
+    "wikidata": "Q90725330"
+  },
+  "id": 1962314081
+}

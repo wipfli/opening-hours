@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4013786,
+      47.4052072
+    ]
+  },
+  "properties": {
+    "id": 428889268,
+    "addr:city": "Dietikon",
+    "addr:housenumber": "28",
+    "addr:postcode": "8953",
+    "addr:street": "L\u00f6wenstrasse",
+    "alt_name": "Migros Restaurant Dietikon",
+    "amenity": "restaurant",
+    "branch": "Dietikon L\u00f6wenzentrum",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-dietikon-loewenzentrum",
+    "wheelchair": "yes"
+  },
+  "id": 428889268
+}

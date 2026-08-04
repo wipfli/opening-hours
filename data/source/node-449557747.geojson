@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4431958,
+      46.457123
+    ]
+  },
+  "properties": {
+    "id": 449557747,
+    "amenity": "restaurant",
+    "check_date": "2026-07-25",
+    "email": "hirschen@huettenzauber.ch",
+    "name": "Restaurant & Pub Hirschen",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su 11:00-22:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30,17:30-21:30; Sa-Su 11:30-21:30",
+    "phone": "+41 33 733 03 20",
+    "website": "https://huettenzauber.ch/en/lenk-im-simmental/hirschen/"
+  },
+  "id": 449557747
+}

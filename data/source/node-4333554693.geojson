@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5661734,
+      46.7674015
+    ]
+  },
+  "properties": {
+    "id": 4333554693,
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "Bras D'Or",
+    "opening_hours": "Su 10:00-15:00; We-Th 10:00-14:30, 18:30-22:30; Fr-Sa 10:00-14:30, 18:30-23:00",
+    "phone": "+4124 459 13 74",
+    "website": "https://www.brasdor.ch/"
+  },
+  "id": 4333554693
+}

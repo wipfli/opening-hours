@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2822302,
+      47.4546996
+    ]
+  },
+  "properties": {
+    "id": 6077202385,
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "DaOn",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:00;Sa-Su 17:00-22:00",
+    "phone": "+41 79 858 13 83",
+    "website": "https://www.daon.ch",
+    "wheelchair": "no"
+  },
+  "id": 6077202385
+}

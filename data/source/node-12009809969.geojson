@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5004442,
+      46.8244728
+    ]
+  },
+  "properties": {
+    "id": 12009809969,
+    "addr:postcode": "1450",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Nogi kawa sushi",
+    "opening_hours": "Mo-Sa 10:30-14:00, 17:30-22:00",
+    "phone": "+41244546886",
+    "website": "https://nogi-kawa-sushi.ch/",
+    "website:menu": "https://nogi-kawa-sushi.ch/storage/app/media/menu/Nogi%20Kawa%20Sushi_carte_sd.pdf"
+  },
+  "id": 12009809969
+}

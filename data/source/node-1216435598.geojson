@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3981961,
+      46.8104546
+    ]
+  },
+  "properties": {
+    "id": 1216435598,
+    "addr:city": "Bonaduz",
+    "addr:housenumber": "17",
+    "addr:postcode": "7402",
+    "addr:street": "Obere Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Oberalp",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-23:00; Sa 11:00-23:00; Su 11:00-21:00",
+    "phone": "+41 81 655 20 00",
+    "website": "https://www.restaurant-oberalp.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1216435598
+}

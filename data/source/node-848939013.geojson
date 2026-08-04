@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5234872,
+      47.3742019
+    ]
+  },
   "properties": {
-    "@id": "node/848939013",
+    "id": 848939013,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "125",
@@ -15,12 +22,5 @@
     "website": "https://www.queenidia.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5234872,
-      47.3742019
-    ]
-  },
-  "id": "node-848939013"
+  "id": 848939013
 }

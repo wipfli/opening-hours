@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7829682,
+      47.2025043
+    ]
+  },
+  "properties": {
+    "id": 9547943768,
+    "amenity": "restaurant",
+    "check_date": "2025-06-25",
+    "name": "Elem\u00e4nt",
+    "opening_hours": "Mo off; Tu-Fr 17:00-23:30; Sa 17:00-00:30, Su off",
+    "website": "https://www.hotelmeilenstein.ch/kulinarik/elemaent"
+  },
+  "id": 9547943768
+}

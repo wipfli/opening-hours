@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5299364,
+      47.3780557
+    ]
+  },
   "properties": {
-    "@id": "node/1360843969",
+    "id": 1360843969,
     "addr:housenumber": "31",
     "addr:postcode": "8004",
     "addr:street": "Kanonengasse",
@@ -17,12 +24,5 @@
     "website": "http://www.viet-thai.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5299364,
-      47.3780557
-    ]
-  },
-  "id": "node-1360843969"
+  "id": 1360843969
 }

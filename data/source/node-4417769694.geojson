@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5871271,
+      47.5610761
+    ]
+  },
+  "properties": {
+    "id": 4417769694,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "4051",
+    "addr:street": "Blumenrain",
+    "alt_name": "Schuler Weinrestaurant Basel",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Portofino Basel",
+    "old_name": "Der vierte K\u00f6nig",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-23:00; Sa 18:00-23:00",
+    "operator": "St. Jakobskellerei Schuler & Cie",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.portofino-basel.ch"
+  },
+  "id": 4417769694
+}

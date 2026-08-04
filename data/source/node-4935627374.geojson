@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.556448,
+      47.355851
+    ]
+  },
   "properties": {
-    "@id": "node/4935627374",
+    "id": 4935627374,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "159",
@@ -15,15 +22,8 @@
     "outdoor_seating": "no",
     "phone": "+41 44 422 47 13",
     "smoking": "no",
-    "website": "http://www.restaurant-metzg.ch/",
+    "website": "https://www.restaurant-metzg.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.556448,
-      47.355851
-    ]
-  },
-  "id": "node-4935627374"
+  "id": 4935627374
 }

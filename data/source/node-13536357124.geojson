@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1824378,
+      47.4160751
+    ]
+  },
+  "properties": {
+    "id": 13536357124,
+    "amenity": "restaurant",
+    "email": "ciao@mammami.ch",
+    "name": "MammaMi",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-22:30; Sa 17:30-23:00; Su 11:30-14:00, 17:30-22:30",
+    "opening_hours:kitchen": "11:30\u201314:00 & 17:30\u201321:30",
+    "phone": "+41 44 501 16 60",
+    "website": "https://mammami.ch"
+  },
+  "id": 13536357124
+}

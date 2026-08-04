@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5171375,
+      47.1737401
+    ]
+  },
+  "properties": {
+    "id": 340223542,
+    "addr:housenumber": "30",
+    "addr:postcode": "6300",
+    "addr:street": "Baarerstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "tibits.uk",
+    "contact:instagram": "tibits_restaurants",
+    "contact:twitter": "tibits_uk",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@tibits.ch",
+    "internet_access": "wlan",
+    "name": "Tibits",
+    "opening_hours": "Mo-Sa 07:30-22:00; Su 09:00-16:00",
+    "phone": "+41 41 531 33 33",
+    "website": "https://www.tibits.ch/en/1698#tibits-zug",
+    "wheelchair": "no"
+  },
+  "id": 340223542
+}

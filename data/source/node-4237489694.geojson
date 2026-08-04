@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5307103,
+      47.3406225
+    ]
+  },
+  "properties": {
+    "id": 4237489694,
+    "amenity": "restaurant",
+    "check_date": "2026-03-08",
+    "check_date:opening_hours": "2026-03-08",
+    "cuisine": "vietnamese",
+    "level": "0",
+    "name": "Green Papaya",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-21:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.greenpapaya.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4237489694
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2051407,
+      46.4438926
+    ]
+  },
+  "properties": {
+    "id": 4056819468,
+    "addr:city": "Blitzingen",
+    "addr:housenumber": "33",
+    "addr:postcode": "3989",
+    "addr:street": "Rottenweg",
+    "amenity": "restaurant",
+    "bicycle:rental": "yes",
+    "bicycle:repair": "yes",
+    "bicycle:sales": "yes",
+    "brand": "focus;giant",
+    "name": "Olympia-Sport",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+41 27 971 03 30",
+    "shop": "sports",
+    "ski:rental": "yes",
+    "ski:repair": "yes",
+    "ski:sales": "yes",
+    "ski:type": "nordic",
+    "website": "https://olympia-sport.ch/"
+  },
+  "id": 4056819468
+}

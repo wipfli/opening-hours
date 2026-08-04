@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6343904,
+      46.7797667
+    ]
+  },
+  "properties": {
+    "id": 4624194990,
+    "addr:city": "Steffisburg",
+    "addr:housenumber": "4",
+    "addr:postcode": "3612",
+    "addr:street": "Zibeleg\u00e4ssli",
+    "amenity": "restaurant",
+    "cuisine": "sausage;tea;sandwich;coffee_shop;breakfast",
+    "name": "Bistro Alte Schmitte",
+    "name:de": "Bistro Alte Schmitte",
+    "opening_hours": "We-Su 09:00-17:00",
+    "operator": "Eduard + Eva Geissler",
+    "phone": "+41 33 437 40 66",
+    "website": "https://www.alteschmitte.ch/"
+  },
+  "id": 4624194990
+}

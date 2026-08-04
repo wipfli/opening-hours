@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3226644,
+      47.0995845
+    ]
+  },
+  "properties": {
+    "id": 12696461245,
+    "addr:city": "Busswil BE",
+    "addr:housenumber": "18",
+    "addr:postcode": "3292",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "name": "Pizza Star",
+    "opening_hours": "Mo-Th 11:00-14:00,17:00-22:30, Fr-Sa 11:00-14:00,17:00-23:00, Su 17:00-22:00",
+    "phone": "+41 32 313 17 18",
+    "website": "https://pizzeria-star.ch/"
+  },
+  "id": 12696461245
+}

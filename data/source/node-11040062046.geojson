@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7520302,
+      47.3882162
+    ]
+  },
+  "properties": {
+    "id": 11040062046,
+    "addr:city": "Fehraltorf",
+    "addr:country": "CH",
+    "addr:housenumber": "61",
+    "addr:postcode": "8320",
+    "addr:street": "Kempttalstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-10-20",
+    "cuisine": "tamil",
+    "delivery": "yes",
+    "email": "info@jaffnakitchen.ch",
+    "mobile": "+41 762 156 097",
+    "name": "Jaffna Kitchen",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:00; Su 17:00-22:00",
+    "phone": "+41 449 550 005",
+    "takeaway": "yes",
+    "website": "https://jaffnakitchen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 11040062046
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6164037,
+      47.3028389
+    ]
+  },
+  "properties": {
+    "id": 500851716,
+    "addr:city": "Herrliberg",
+    "addr:housenumber": "91",
+    "addr:postcode": "8704",
+    "addr:street": "Bl\u00fcemlisalpstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bl\u00fcemlisalp",
+    "opening_hours": "Mo 09:00-23:00; Th-Sa 09:00-23:00; Su 09:00-22:00",
+    "phone": "+41 44 915 34 90",
+    "website": "https://www.bluemlisalp-herrliberg.ch/"
+  },
+  "id": 500851716
+}

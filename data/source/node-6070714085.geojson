@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1514434,
+      46.8037152
+    ]
+  },
+  "properties": {
+    "id": 6070714085,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "1",
+    "addr:postcode": "1700",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "capacity": "25",
+    "cuisine": "kebab;tacos",
+    "name": "Mykebab",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "http://mykebab.ch/"
+  },
+  "id": 6070714085
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5062829,
+      47.4193772
+    ]
+  },
+  "properties": {
+    "id": 3729613512,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "544",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-01-16",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Spice Garden",
+    "opening_hours": "Mo-We 11:00-14:00, 17:00-22:30; Th-Fr 11:00-14:00, 17:00-22:30; Sa 17:00-23:00; Su 11:00-14:00,17:00-22:30",
+    "phone": "+41 43 960 19 69",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://spicegarden-zh.ch/",
+    "website:menu": "https://spicegarden-zh.ch/menu/",
+    "wheelchair": "no"
+  },
+  "id": 3729613512
+}

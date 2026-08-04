@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.302812,
+      47.0508958
+    ]
+  },
+  "properties": {
+    "id": 1327348697,
+    "amenity": "restaurant",
+    "check_date": "2025-11-28",
+    "cuisine": "italian",
+    "name": "Cara Mia Ristorante",
+    "old_name": "Nix in der Laterne",
+    "old_name:de": "Laterne",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa 11:30-24:00",
+    "phone": "+41 41 554 02 70",
+    "website": "https://caramia-luzern.ch/"
+  },
+  "id": 1327348697
+}

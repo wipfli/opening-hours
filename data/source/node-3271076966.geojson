@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6312908,
+      46.522396
+    ]
+  },
+  "properties": {
+    "id": 3271076966,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Brasserie Saint-Laurent",
+    "opening_hours": "Mo-Tu, Th-Fr 08:30-23:00; We, Sa 07:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41213121444",
+    "website": "http://www.brasserie-saint-Laurent.ch"
+  },
+  "id": 3271076966
+}

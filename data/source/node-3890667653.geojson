@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5996043,
+      47.5637483
+    ]
+  },
+  "properties": {
+    "id": 3890667653,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-25",
+    "cuisine": "japanese",
+    "indoor_seating": "yes",
+    "name": "namamen Japanese Ramenbar Messe",
+    "opening_hours": "Mo-Fr 11:00-14:30,18:00-21:30",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.namamen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3890667653
+}

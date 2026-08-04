@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7903616,
+      47.5210495
+    ]
+  },
+  "properties": {
+    "id": 1834135244,
+    "addr:city": "Wiesendangen",
+    "addr:housenumber": "50",
+    "addr:postcode": "8542",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "al Wisent",
+    "opening_hours": "We-Sa 11:00-14:00, 17:00-22:30",
+    "website": "https://www.alwisent.ch/"
+  },
+  "id": 1834135244
+}

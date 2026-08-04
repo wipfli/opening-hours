@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6834458,
+      46.7833468
+    ]
+  },
+  "properties": {
+    "id": 4690791251,
+    "amenity": "restaurant",
+    "name": "Poltera Stube",
+    "opening_hours": "Mo,Th,Fr,Sa,Su 18:00+",
+    "website": "https://www.poltera-stube.ch/"
+  },
+  "id": 4690791251
+}

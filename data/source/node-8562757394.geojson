@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0330171,
+      47.4601448
+    ]
+  },
+  "properties": {
+    "id": 8562757394,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "75",
+    "addr:postcode": "9501",
+    "addr:street": "Hubstrasse",
+    "amenity": "restaurant",
+    "capacity": "180",
+    "cuisine": "sandwich;regional;italian;asian;ice_cream;german;burger;international;pizza;chicken",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "SV Mensa Kantonsschule Wil",
+    "opening_hours": "Mo-Fr 09:00-14:30",
+    "opening_hours:covid19": "\"restricted to students and staff\"",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://kantiwil.sv-restaurant.ch/de/menuplan/",
+    "wheelchair": "yes"
+  },
+  "id": 8562757394
+}

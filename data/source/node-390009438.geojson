@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4988664,
+      46.9349741
+    ]
+  },
+  "properties": {
+    "id": 390009438,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Tao Tao",
+    "name:zh": "\u9676\u9676",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-23:00; Sa, Su 18:00-23:00",
+    "phone": "+41 319526463",
+    "website": "https://www.taotao.ch/"
+  },
+  "id": 390009438
+}

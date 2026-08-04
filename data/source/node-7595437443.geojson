@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6279006,
+      46.7595855
+    ]
+  },
+  "properties": {
+    "id": 7595437443,
+    "addr:city": "Thun",
+    "addr:housenumber": "1",
+    "addr:postcode": "3600",
+    "addr:street": "Gerberngasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Rathaus",
+    "opening_hours": "Mo,Tu 11:00-21:00; We 10:00-22:00; Th 10:00-22:30; Fr 10:00-23:00; Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.rathaus-thun.ch/de/Restaurant"
+  },
+  "id": 7595437443
+}

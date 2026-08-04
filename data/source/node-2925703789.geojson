@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3985876,
+      46.9442456
+    ]
+  },
+  "properties": {
+    "id": 2925703789,
+    "alt_name": "Trucker 2 Bar/Steakhouse",
+    "amenity": "restaurant",
+    "contact:addr": "Gotenstrasse 6, 3018 Bern",
+    "contact:email": "trucker-bar2@bluewin.ch",
+    "contact:phone": "+41 31 9911413",
+    "contact:website": "https://www.truckerbar.ch/kontakt",
+    "cuisine": "american",
+    "name": "Trucker",
+    "opening_hours": "Mo-Th 06:00-23:30; Fr-Sa 06:00-00:30; Su 09:00-20:00",
+    "operator": "Rada und Aschi",
+    "website": "https://www.truckerbar.ch"
+  },
+  "id": 2925703789
+}

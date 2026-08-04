@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.816216,
+      47.2267267
+    ]
+  },
+  "properties": {
+    "id": 4280011858,
+    "addr:city": "Rapperswil-Jona",
+    "addr:housenumber": "5",
+    "addr:postcode": "8640",
+    "addr:street": "Hauptplatz",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Banoo Im R\u00f6ssli",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-22:00; Su 11:30-19:30",
+    "outdoor_seating": "yes",
+    "website": "http://www.roessli-rapperswil.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4280011858
+}

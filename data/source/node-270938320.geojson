@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398264,
+      47.3700603
+    ]
+  },
   "properties": {
-    "@id": "node/270938320",
+    "id": 270938320,
     "access:covid19": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -13,23 +20,17 @@
     "branch": "Z\u00fcrich Paradeplatz",
     "brand": "Santa Lucia",
     "brand:wikidata": "Q110419156",
-    "check_date": "2023-05-13",
+    "check_date": "2026-04-27",
+    "check_date:opening_hours": "2026-04-27",
     "cuisine": "pizza;italian",
     "name": "Santa Lucia",
     "old_name": "Contrapunto",
-    "opening_hours": "Mo-Sa 11:30-22:30; Su off",
+    "opening_hours": "Mo-Sa 11:30-23:30; Su 11:30-22:30",
     "operator": "Bindella",
     "oven": "wood_fired",
     "takeaway": "yes",
     "website": "https://www.bindella.ch/de/santa-lucia-paradeplatz.html",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5398264,
-      47.3700603
-    ]
-  },
-  "id": "node-270938320"
+  "id": 270938320
 }

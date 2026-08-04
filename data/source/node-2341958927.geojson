@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4718936,
+      47.4427732
+    ]
+  },
+  "properties": {
+    "id": 2341958927,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "diet:gluten_free": "yes",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant zum steinernen Haus",
+    "name:de": "Steinernes Haus",
+    "opening_hours": "Mo-Fr 08:30-00:00; Sa 08:45-14:00",
+    "website": "https://steinerneshaus.ch/"
+  },
+  "id": 2341958927
+}

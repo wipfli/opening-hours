@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0367728,
+      47.3493749
+    ]
+  },
+  "properties": {
+    "id": 13585781927,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Gi\u00f3 Ambiente",
+    "opening_hours": "Su-Mo off; Tu-Th 08:45-22:00; Fr-Sa 08:45-23:00",
+    "website": "https://www.gioambiente.ch/"
+  },
+  "id": 13585781927
+}

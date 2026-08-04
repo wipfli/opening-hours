@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.640007,
+      46.7787901
+    ]
+  },
+  "properties": {
+    "id": 8039265221,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "1400",
+    "addr:street": "Rue du Milieu",
+    "amenity": "restaurant",
+    "cuisine": "poke",
+    "email": "yverdon@planetbowl.ch",
+    "indoor_seating": "yes",
+    "name": "Planet Bowl",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa-Su 11:00-18:30",
+    "outdoor_seating": "no",
+    "phone": "+41 21 555 12 66",
+    "website": "https://planetbowl.ch/"
+  },
+  "id": 8039265221
+}

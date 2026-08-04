@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6017793,
+      47.3169307
+    ]
+  },
+  "properties": {
+    "id": 5823126563,
+    "addr:city": "Aedermannsdorf",
+    "addr:housenumber": "73",
+    "addr:street": "Grossrieden",
+    "amenity": "restaurant",
+    "email": "info@grossrieden.ch",
+    "name": "Grossrieden",
+    "opening_hours": "Mo,Tu off",
+    "phone": "+41 62 394 11 43",
+    "website": "https://www.grossrieden.ch/"
+  },
+  "id": 5823126563
+}

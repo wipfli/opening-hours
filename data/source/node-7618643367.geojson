@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1778226,
+      47.3992634
+    ]
+  },
+  "properties": {
+    "id": 7618643367,
+    "addr:city": "Niederlenz",
+    "addr:housenumber": "2",
+    "addr:postcode": "5702",
+    "addr:street": "Lenzburgerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Da Maurizio",
+    "opening_hours": "Mo 11:00-14:00,17:00-21:30; Tu 11:00-14:00; We 11:00-14:00,17:00-21:30; Th 11:00-14:00,17:00-21:30; Fr 11:00-14:00,17:00-22:00; Sa 11:00-14:00,17:00-22:00",
+    "outdoor_seating": "parklet",
+    "phone": "+41 76 200 04 45",
+    "website": "https://www.damaurizio.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7618643367
+}

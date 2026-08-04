@@ -1,18 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/703215583",
-    "addr:housenumber": "38",
-    "addr:street": "Stampfenbachstrasse",
-    "amenity": "restaurant",
-    "cuisine": "italian",
-    "name": "Casa Ferlin",
-    "old_name": "Chiantiquelle",
-    "opening_hours": "Mo-Fr 11:30-14:00,18:30-22:00",
-    "phone": "+41 44 362 35 09",
-    "website": "https://www.casaferlin.ch/",
-    "wheelchair": "limited"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -20,5 +7,20 @@
       47.3797694
     ]
   },
-  "id": "node-703215583"
+  "properties": {
+    "id": 703215583,
+    "addr:housenumber": "38",
+    "addr:street": "Stampfenbachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Casa Ferlin",
+    "old_name": "Chiantiquelle",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 362 35 09",
+    "website": "https://www.casaferlin.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 703215583
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.868034,
+      47.0448909
+    ]
+  },
+  "properties": {
+    "id": 251332429,
+    "addr:city": "Eriswil",
+    "addr:housenumber": "1466",
+    "addr:postcode": "4952",
+    "addr:street": "Brestenegg-Alp",
+    "amenity": "restaurant",
+    "contact:email": "info@brestenegg.ch",
+    "name": "Alpwirtschaft Brestenegg",
+    "old_name": "Restaurant Brestenegg-Alp",
+    "opening_hours": "Mo,Tu,Fr,Sa 10:00-23:00; Su 10:00-22:00; We,Th off",
+    "opening_hours:kitchen": "Mo,Tu,Fr,Sa 11:00-21:00; Su 11:00-20:30; We,Th off",
+    "operator": "Beat und Annette W\u00e4chli",
+    "phone": "+41 62 966 12 88",
+    "website": "https://www.brestenegg.ch"
+  },
+  "id": 251332429
+}

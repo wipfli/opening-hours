@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1102222,
+      47.1721906
+    ]
+  },
+  "properties": {
+    "id": 1512081530,
+    "amenity": "restaurant",
+    "check_date": "2026-03-18",
+    "name": "Oberstadt",
+    "opening_hours": "We-Mo 11:30-14:30,18:00-23:30; Sa-Mo 18:00-23:30",
+    "website": "https://www.oberstadt-baden.ch"
+  },
+  "id": 1512081530
+}

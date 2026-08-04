@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5382686,
+      47.4137718
+    ]
+  },
+  "properties": {
+    "id": 1573053887,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "180",
+    "addr:postcode": "8050",
+    "addr:street": "Birchstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-24",
+    "check_date:opening_hours": "2025-07-24",
+    "indoor_seating": "yes",
+    "name": "Nordlicht",
+    "opening_hours": "Mo-Su 07:30-18:00",
+    "operator": "Senevita",
+    "outdoor_seating": "yes",
+    "website": "https://www.senevita.ch/de/betriebe/nordlicht/gastronomie.php",
+    "wheelchair": "yes"
+  },
+  "id": 1573053887
+}

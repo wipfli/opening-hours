@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4487186,
+      46.9475735
+    ]
+  },
+  "properties": {
+    "id": 3034850790,
+    "amenity": "restaurant",
+    "contact:addr": "M\u00fcnstergasse 68, 3011 Bern",
+    "contact:phone": "+41 31 311 18 68",
+    "name": "sua",
+    "opening_hours": "Mo-Th 12:00-14:00,18:00-22:30, Fr 12:00-14:00,18:00-23:00, Sa 18:00-23:00, Su closed",
+    "source": "survey and website",
+    "website": "https://www.suarestaurant.ch/"
+  },
+  "id": 3034850790
+}

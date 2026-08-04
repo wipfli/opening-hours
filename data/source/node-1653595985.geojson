@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5886568,
+      47.5513041
+    ]
+  },
+  "properties": {
+    "id": 1653595985,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "4051",
+    "addr:street": "Steinentorstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "email": "filini.basel@radissonblu.com",
+    "indoor_seating": "yes",
+    "name": "Rein",
+    "opening_hours": "11:30-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 227 29 50",
+    "smoking": "outside",
+    "website": "http://www.filinirestaurant.com/restaurant-basel",
+    "wheelchair": "yes",
+    "wheelchair:description": "Rollstuhltoilette vorhanden"
+  },
+  "id": 1653595985
+}

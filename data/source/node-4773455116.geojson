@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444905,
+      47.3692887
+    ]
+  },
   "properties": {
-    "@id": "node/4773455116",
+    "id": 4773455116,
     "addr:housenumber": "7",
     "addr:street": "R\u00f6ssligasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://www.ilgattopardo.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5444905,
-      47.3692887
-    ]
-  },
-  "id": "node-4773455116"
+  "id": 4773455116
 }

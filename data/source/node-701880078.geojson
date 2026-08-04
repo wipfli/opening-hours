@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.488112,
+      47.478409
+    ]
+  },
+  "properties": {
+    "id": 701880078,
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "name": "Fulmine",
+    "opening_hours": "Mo-Sa 10:00-23:00; Su 11:00-22:30",
+    "phone": "+41 43 497 66 13",
+    "website": "https://www.pizza-fulmine.ch/"
+  },
+  "id": 701880078
+}

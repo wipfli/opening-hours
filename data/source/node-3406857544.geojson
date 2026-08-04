@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4979186,
+      47.4768495
+    ]
+  },
+  "properties": {
+    "id": 3406857544,
+    "addr:city": "Rorschach",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "9400",
+    "addr:street": "Eisenbahnstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 71 841 85 98",
+    "name": "El Cid",
+    "opening_hours": "Fr 18:00-00:00; Sa 11:00-00:00; Su 11:00-20:00",
+    "website": "https://elcid.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3406857544
+}

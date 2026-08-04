@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5160863,
+      47.1705804
+    ]
+  },
+  "properties": {
+    "id": 12165514157,
+    "addr:city": "Zug",
+    "addr:housenumber": "32a",
+    "addr:postcode": "6300",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "TakeSushi",
+    "opening_hours": "Mo-Sa 10:00-21:00",
+    "phone": "+41417119994",
+    "website": "https://www.takesushi.ch/"
+  },
+  "id": 12165514157
+}

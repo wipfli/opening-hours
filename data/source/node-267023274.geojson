@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.539455,
+      47.4143917
+    ]
+  },
+  "properties": {
+    "id": 267023274,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8050",
+    "addr:street": "Ellen-Widmann-Weg",
+    "alt_name": "Kai Sushi Oerlikon",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon",
+    "contact:email": "info@kaibar.ch",
+    "contact:phone": "+41 43 538 42 47",
+    "contact:website": "http://www.kaibar.ch/",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "name": "Kai Sushi",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-23:00; Sa-Su 17:30-23:00",
+    "operator": "Urban Food Culture",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://kaisushi.ch/de/standorte/kai-sushi-oerlikon/",
+    "wheelchair": "yes"
+  },
+  "id": 267023274
+}

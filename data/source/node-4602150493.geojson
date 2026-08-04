@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6756562,
+      47.2274918
+    ]
+  },
+  "properties": {
+    "id": 4602150493,
+    "addr:city": "W\u00e4denswil",
+    "addr:housenumber": "87",
+    "addr:postcode": "8820",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai;vietnamese;curry",
+    "highchair": "no",
+    "indoor_seating": "yes",
+    "name": "Sea Thai Take Away",
+    "name:de": "Sea Thai Take Away",
+    "opening_hours": "Mo-Th 11:00-14:00,18:00-21:00; Fr 11:00-14:00,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 477 92 53",
+    "website": "https://www.seathai.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4602150493
+}

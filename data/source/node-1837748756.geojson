@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6393344,
+      47.4638969
+    ]
+  },
+  "properties": {
+    "id": 1837748756,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Linde",
+    "opening_hours": "We-Fr 10:30-14:00,17:00-22:00; Sa,Su 10:30-22:00",
+    "source": "Stonebirdultra",
+    "website": "http://www.birchwil.ch/GP8.htm"
+  },
+  "id": 1837748756
+}

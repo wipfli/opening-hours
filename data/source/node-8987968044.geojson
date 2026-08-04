@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3046786,
+      47.3735434
+    ]
+  },
+  "properties": {
+    "id": 8987968044,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Restaurant Reusstal",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Sa 10:00-24:00; Su 10:00-22:00",
+    "website": "https://www.restaurant-pizzeria-reussthal.ch/"
+  },
+  "id": 8987968044
+}

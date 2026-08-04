@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3036494,
+      46.2183901
+    ]
+  },
+  "properties": {
+    "id": 3372131987,
+    "addr:city": "Conthey",
+    "addr:housenumber": "7",
+    "addr:postcode": "1964",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "name": "Les Foug\u00e8res",
+    "opening_hours": "Mo-We 06:30-19:00; Th-Fr 06:30-22:00; Sa 07:30-22:00; Su 07:30-18:00",
+    "phone": "+4127 346 05 40",
+    "website": "https://www.restaurant-les-fougeres.ch/"
+  },
+  "id": 3372131987
+}

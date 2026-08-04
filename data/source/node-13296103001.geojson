@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5825845,
+      46.5378186
+    ]
+  },
+  "properties": {
+    "id": 13296103001,
+    "addr:housenumber": "7",
+    "addr:postcode": "1020",
+    "addr:street": "Rue de la Savonnerie",
+    "amenity": "restaurant",
+    "cuisine": "oriental;sandwich",
+    "diet:vegetarian": "yes",
+    "name": "Falamix",
+    "opening_hours": "Mo 11:00-15:00; Tu-We, Fr 09:00-15:00; Th 11:00-22:00",
+    "phone": "+41767420102",
+    "website": "https://www.falamix.com/"
+  },
+  "id": 13296103001
+}

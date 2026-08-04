@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7822955,
+      47.2046564
+    ]
+  },
+  "properties": {
+    "id": 12179749227,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "22",
+    "addr:postcode": "4900",
+    "addr:street": "Bleienbachstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "przi rest lthal",
+    "opening_hours": "We-Sa 16:00-23:00",
+    "phone": "+41 62 531 88 22",
+    "website": "https://przi.ch"
+  },
+  "id": 12179749227
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4544306,
+      46.9603909
+    ]
+  },
+  "properties": {
+    "id": 610380079,
+    "addr:postcode": "3014",
+    "alt_name": "Pizzeria Michelangelo",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-02-06",
+    "contact:addr": "Scheibenstrasse 16, 3014 Bern",
+    "contact:email": "info@pizzeria-michelangelo.ch",
+    "contact:fax": "+41 31 3329950",
+    "contact:phone": "+41 31 3329950",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "name": "Michelangelo",
+    "opening_hours": "Mo-Sa 10:00-22:00; Su 12:00-22:00",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "http://www.michelangelo-bern.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 610380079
+}

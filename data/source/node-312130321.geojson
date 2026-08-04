@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.522301,
+      47.3761736
+    ]
+  },
   "properties": {
-    "@id": "node/312130321",
+    "id": 312130321,
     "addr:housenumber": "103",
     "addr:street": "Kanzleistrasse",
     "amenity": "restaurant",
@@ -24,12 +31,5 @@
     "website": "www.osteria-santobevitore.ch/#la-baracca-ristorante",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.522301,
-      47.3761736
-    ]
-  },
-  "id": "node-312130321"
+  "id": 312130321
 }

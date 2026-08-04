@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7501725,
+      47.1252739
+    ]
+  },
+  "properties": {
+    "id": 1027099886,
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8840",
+    "addr:street": "Ilgenweidstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@meinradsberg.ch",
+    "name": "Meinradsberg",
+    "opening_hours": "We-Su 09:00-24:00",
+    "phone": "+41 55 418 81 97",
+    "website": "https://www.meinradsberg.ch/"
+  },
+  "id": 1027099886
+}

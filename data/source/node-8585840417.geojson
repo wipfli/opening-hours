@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6400779,
+      46.5215345
+    ]
+  },
+  "properties": {
+    "id": 8585840417,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "1005",
+    "addr:street": "Place de l'Ours",
+    "amenity": "restaurant",
+    "contact:facebook": "FritesBelga",
+    "contact:instagram": "fritesbelga",
+    "cuisine": "burger;friture;sandwich",
+    "name": "Belga",
+    "opening_hours": "Mo,Tu 11:30-22:00; We-Sa 11:30-24:00; Su 11:30-22:00",
+    "phone": "+41 22 808 02 27",
+    "website": "https://www.fritesbelga.com/"
+  },
+  "id": 8585840417
+}

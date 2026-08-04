@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1680071,
+      46.8033465
+    ]
+  },
+  "properties": {
+    "id": 2434928647,
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "1700",
+    "addr:street": "Place du Petit-Saint-Jean / St. Johann-Platz",
+    "alt_name": "Restaurant Au Tirlibaum",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 du Tirlibaum",
+    "opening_hours": "Th-Tu 08:30-23:30",
+    "phone": "+41 26 322 53 98",
+    "website": "https://www.restaurant-tirlibaum.ch"
+  },
+  "id": 2434928647
+}

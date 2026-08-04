@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0483531,
+      47.1334191
+    ]
+  },
+  "properties": {
+    "id": 378743265,
+    "addr:city": "Grosswangen",
+    "addr:housenumber": "5",
+    "addr:postcode": "6022",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Pinte",
+    "opening_hours": "We-Sa 08:30-24:00; PH,Su 09:00-17:00",
+    "phone": "+41 41 921 96 49",
+    "website": "https://www.restaurantpinte.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 378743265
+}

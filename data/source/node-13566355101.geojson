@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4403793,
+      46.7911665
+    ]
+  },
+  "properties": {
+    "id": 13566355101,
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Raschuns",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "outdoor_seating": "yes",
+    "self_service": "no",
+    "website": "https://www.berghuetta-raschuns.ch"
+  },
+  "id": 13566355101
+}

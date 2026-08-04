@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5040204,
+      47.0003325
+    ]
+  },
+  "properties": {
+    "id": 7770673150,
+    "amenity": "restaurant",
+    "name": "verve",
+    "opening_hours": "Th-Mo 18:30-22:00",
+    "phone": "+41 81 303 30 35",
+    "website": "https://www.resortragaz.ch/de/restaurants-und-bars/verve-by-sven"
+  },
+  "id": 7770673150
+}

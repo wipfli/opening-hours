@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8253342,
+      47.3458219
+    ]
+  },
+  "properties": {
+    "id": 2089790473,
+    "addr:city": "B\u00e4retswil",
+    "addr:housenumber": "24",
+    "addr:postcode": "8335",
+    "addr:street": "Hittnauerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hirschfarm",
+    "opening_hours": "Mo off; Tu-Fr 11:00-14:00,17:30-23:00; Sa 17:30-24:00; Su,PH off",
+    "phone": "+41 43 833 61 07",
+    "website": "https://hirschfarm-restaurant.ch/"
+  },
+  "id": 2089790473
+}

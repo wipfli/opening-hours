@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5408542,
+      47.3782017
+    ]
+  },
   "properties": {
-    "@id": "node/2289533439",
+    "id": 2289533439,
     "access": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -22,12 +29,5 @@
     "website": "https://www.zfv.ch/de/essen-gehen/sbb-restaurant-oase",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5408542,
-      47.3782017
-    ]
-  },
-  "id": "node-2289533439"
+  "id": 2289533439
 }

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1442849,
+      47.2936507
+    ]
+  },
+  "properties": {
+    "id": 12698165967,
+    "amenity": "restaurant",
+    "name": "Apunto",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "website": "https://www.schuermatt.ch/ls/standorte/zetzwil/Restaurant-Apunto.php"
+  },
+  "id": 12698165967
+}

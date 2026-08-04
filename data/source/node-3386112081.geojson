@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4123294,
+      47.4072236
+    ]
+  },
+  "properties": {
+    "id": 3386112081,
+    "amenity": "restaurant",
+    "name": "Victoria",
+    "opening_hours": "Mo-Sa 08:00-22:00",
+    "website": "https://www.victoria-fahrweid.ch/"
+  },
+  "id": 3386112081
+}

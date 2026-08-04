@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6274884,
+      46.3779761
+    ]
+  },
+  "properties": {
+    "id": 521659525,
+    "addr:city": "Leukerbad",
+    "addr:housenumber": "5",
+    "addr:postcode": "3954",
+    "addr:street": "Willy-Sp\u00fchler-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "name": "Canaan",
+    "opening_hours": "Mo 18:00-23:00; Tu-Su 11:00-14:30, 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41274728253",
+    "website": "https://canaan.ch"
+  },
+  "id": 521659525
+}

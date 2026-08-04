@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0039384,
+      46.0056993
+    ]
+  },
+  "properties": {
+    "id": 826761125,
+    "alt_name": "Ristorante Roccabella",
+    "amenity": "restaurant",
+    "email": "info@ristorante-roccabella.com",
+    "name": "Roccabella",
+    "opening_hours": "Tu-Su 10:00-23:45; Mo closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 971 27 22",
+    "website": "https://ristoranteroccabella.ch"
+  },
+  "id": 826761125
+}

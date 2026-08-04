@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1232683,
+      47.429541
+    ]
+  },
+  "properties": {
+    "id": 3548889106,
+    "addr:city": "Oberuzwil",
+    "addr:housenumber": "2",
+    "addr:postcode": "9242",
+    "addr:street": "Flawilerstrasse",
+    "amenity": "restaurant",
+    "name": "Gasthaus zum R\u00f6ssli",
+    "opening_hours": "Tu-Fr 08:45-24:00+, Sa 10:00-23:00+",
+    "website": "http://www.gasthausroessli.com/"
+  },
+  "id": 3548889106
+}

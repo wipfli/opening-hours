@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7671754,
+      47.3636969
+    ]
+  },
+  "properties": {
+    "id": 12138120005,
+    "addr:housenumber": "11",
+    "addr:postcode": "8330",
+    "addr:street": "Schanzweg",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "name": "Il Borgo - Pizzeria Napoletana",
+    "opening_hours": "Mo,We,Th 11:30-14:00,17:00-22:00; Fr 11:30-14:00,17:00-23:00; Sa 17:00-23:00; Su 11:30-22:00; Tu off",
+    "phone": "+41 44 516 50 03",
+    "website": "https://il-borgo.ch/"
+  },
+  "id": 12138120005
+}

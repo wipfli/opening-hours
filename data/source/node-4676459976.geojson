@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5591522,
+      47.432224
+    ]
+  },
+  "properties": {
+    "id": 4676459976,
+    "amenity": "restaurant",
+    "email": "info@gogis-takeaway.ch",
+    "mobile": "+41 78 631 87 79",
+    "name": "Gogi's take away",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "takeaway": "yes",
+    "website": "https://www.gogis-takeaway.ch/"
+  },
+  "id": 4676459976
+}

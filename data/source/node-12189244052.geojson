@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3415469,
+      47.3632938
+    ]
+  },
+  "properties": {
+    "id": 12189244052,
+    "amenity": "restaurant",
+    "capacity": "30",
+    "contact:addr": "Sonder 249, 9063 Stein AR",
+    "contact:email": "info@bsonderig.ch",
+    "contact:phone": "+41 71 3671144",
+    "cuisine": "regional",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Bsondrig",
+    "opening_hours": "We-Fr 15:00+; Sa,Su 09:00+",
+    "outdoor_seating": "yes",
+    "takeaway": "no",
+    "website": "https://bsonderig.ch"
+  },
+  "id": 12189244052
+}

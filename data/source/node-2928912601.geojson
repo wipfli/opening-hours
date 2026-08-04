@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4467668,
+      46.9290405
+    ]
+  },
+  "properties": {
+    "id": 2928912601,
+    "addr:city": "Wabern",
+    "addr:country": "CH",
+    "addr:housenumber": "22-24",
+    "addr:postcode": "3084",
+    "addr:street": "Dorfstrasse",
+    "addr:suburb": "Wabern",
+    "amenity": "restaurant",
+    "contact:email": "info@dieheiterefahne.ch",
+    "diet:vegan": "yes",
+    "name": "Heitere Fahne",
+    "opening_hours": "We 17:00-23:00; Fr 17:00-00:30; Su 10:30-17:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://dieheiterefahne.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2928912601
+}

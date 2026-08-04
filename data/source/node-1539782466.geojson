@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3745668,
+      47.4269336
+    ]
+  },
+  "properties": {
+    "id": 1539782466,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Engelgasse",
+    "amenity": "restaurant",
+    "name": "Schwarzer Engel",
+    "name:de": "Schwarzer Engel",
+    "opening_hours": "Mo,We,Th 11:30-24:00, Fr 11:30-01:00, Sa 13:00-01:00, Su 15:00-23:00",
+    "phone": "+41 71 223 35 75",
+    "website": "https://www.schwarzerengel.ch/"
+  },
+  "id": 1539782466
+}

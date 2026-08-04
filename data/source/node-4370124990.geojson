@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.486059,
+      47.3872299
+    ]
+  },
+  "properties": {
+    "id": 4370124990,
+    "addr:housenumber": "4",
+    "addr:street": "Lindenplatz",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Caffe Cioccolato",
+    "opening_hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 11:00-18:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.caffecioccolato.ch"
+  },
+  "id": 4370124990
+}

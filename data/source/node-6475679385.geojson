@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1476746,
+      46.2034135
+    ]
+  },
+  "properties": {
+    "id": 6475679385,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Globus",
+    "opening_hours": "Mo-We 08:00-21:00; Th 08:00-22:00; Fr 08:00-21:00; Sa 09:00-20:00",
+    "operator": "Grands Magasins Globus SA",
+    "operator:ref:CH:UID": "CHE-105.839.536",
+    "outdoor_seating": "pedestrian_zone",
+    "ref:CH-GE:REG": "1-30295E",
+    "website": "https://www.globus.ch/fr/stores/geneve",
+    "wheelchair": "yes"
+  },
+  "id": 6475679385
+}

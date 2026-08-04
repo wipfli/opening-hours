@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6263778,
+      46.5182065
+    ]
+  },
+  "properties": {
+    "id": 2977336940,
+    "addr:postcode": "1003",
+    "amenity": "restaurant",
+    "check_date": "2025-09-25",
+    "check_date:diet:gluten_free": "2025-09-25",
+    "check_date:diet:vegan": "2025-09-25",
+    "check_date:diet:vegetarian": "2025-09-25",
+    "cuisine": "indian",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "contact@nandanam.ch",
+    "indoor_seating": "yes",
+    "name": "Nandanam",
+    "opening_hours": "Tu-Sa 11:30-14:30,18:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 312 23 00",
+    "website": "https://www.nandanam.ch/",
+    "website:menu": "https://www.nandanam.ch/bienvenue/#cartesmenu"
+  },
+  "id": 2977336940
+}

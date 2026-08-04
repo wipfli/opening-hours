@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6531325,
+      46.5146217
+    ]
+  },
+  "properties": {
+    "id": 1552814775,
+    "addr:housenumber": "79",
+    "addr:postcode": "1005",
+    "addr:street": "Avenue du L\u00e9man",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "diet:vegetarian": "yes",
+    "name": "Keyann",
+    "opening_hours": "Tu-Sa 11:00-14:00, 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 711 00 44",
+    "website": "https://keyann.ch/"
+  },
+  "id": 1552814775
+}

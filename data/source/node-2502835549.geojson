@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3946892,
+      47.4309179
+    ]
+  },
+  "properties": {
+    "id": 2502835549,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "150",
+    "addr:postcode": "9000",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-14",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Terronia",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "opening_hours:kitchen": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 245 22 80",
+    "website": "https://www.terronia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2502835549
+}

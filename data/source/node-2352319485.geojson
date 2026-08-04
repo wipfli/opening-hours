@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.359813,
+      46.2283926
+    ]
+  },
+  "properties": {
+    "id": 2352319485,
+    "addr:city": "Sion",
+    "addr:housenumber": "3",
+    "addr:postcode": "1950",
+    "addr:street": "Avenue de Tourbillon",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Chez Lin",
+    "opening_hours": "10:30-14:30,18:00-22:30; Fr,Sa 10:30-14:30,18:00-23:30",
+    "phone": "+41 27 322 11 66",
+    "website": "https://www.chez-lin-sion.ch",
+    "wheelchair": "limited"
+  },
+  "id": 2352319485
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6368749,
+      46.5223988
+    ]
+  },
+  "properties": {
+    "id": 13955772902,
+    "addr:housenumber": "9",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Saint-Martin",
+    "amenity": "restaurant",
+    "check_date": "2026-06-21",
+    "check_date:opening_hours": "2026-06-21",
+    "name": "Casa & Lola",
+    "opening_hours": "Tu-Sa 11:00-11:00, 14:00-23:00",
+    "phone": "+41 78 331 86 50",
+    "website": "https://casa-and-lola.ch/"
+  },
+  "id": 13955772902
+}

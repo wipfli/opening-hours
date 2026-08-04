@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6376191,
+      47.6960548
+    ]
+  },
+  "properties": {
+    "id": 2288101397,
+    "addr:housenumber": "3/5",
+    "addr:postcode": "8200",
+    "addr:street": "Brunnengasse",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "email": "essen@dchuchi.ch",
+    "name": "D\u2018Chuchi",
+    "opening_hours": "Tu, Sa 18:00-23:30; We-Fr 11:30-14:00, 18:00-23:30",
+    "phone": "+41 52 620 05 28",
+    "website": "https://www.dchuchi.ch/"
+  },
+  "id": 2288101397
+}

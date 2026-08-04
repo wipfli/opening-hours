@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7670142,
+      47.363858
+    ]
+  },
+  "properties": {
+    "id": 6702776785,
+    "addr:postcode": "8330",
+    "amenity": "restaurant",
+    "name": "Yumino Thai Street Food",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-21:30; Sa 17:30-21:30",
+    "phone": "+41788215199",
+    "website": "http://yumino.ch"
+  },
+  "id": 6702776785
+}

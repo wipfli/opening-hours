@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3037669,
+      47.0396733
+    ]
+  },
+  "properties": {
+    "id": 1518396127,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Moosmatt",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:30, Sa 18:00-23:30",
+    "phone": "+41 41 310 73 80",
+    "website": "https://www.moosmatt-luzern.ch"
+  },
+  "id": 1518396127
+}

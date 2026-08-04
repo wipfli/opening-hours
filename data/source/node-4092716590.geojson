@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3752017,
+      47.4227529
+    ]
+  },
+  "properties": {
+    "id": 4092716590,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Webergasse",
+    "amenity": "restaurant",
+    "name": "Stadtbistro",
+    "opening_hours": "Mo-Sa 06:30-17:00; Su 07:00-14:00",
+    "website": "https://stadtbistro.sg/",
+    "wheelchair": "limited"
+  },
+  "id": 4092716590
+}

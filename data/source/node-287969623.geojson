@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.116408,
+      46.8094613
+    ]
+  },
+  "properties": {
+    "id": 287969623,
+    "addr:city": "Pigniu",
+    "addr:housenumber": "7",
+    "addr:postcode": "7156",
+    "addr:street": "Via Pistregn",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Alpina",
+    "opening_hours": "We-Su 11:00-19:00+; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 620 12 16",
+    "tourism": "hotel",
+    "website": "https://www.alpina-restaurant-pigniu.ch/"
+  },
+  "id": 287969623
+}

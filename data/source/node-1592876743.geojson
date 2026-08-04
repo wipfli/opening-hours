@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5840196,
+      47.5645165
+    ]
+  },
+  "properties": {
+    "id": 1592876743,
+    "addr:city": "Basel",
+    "addr:housenumber": "58",
+    "addr:postcode": "4056",
+    "addr:street": "St. Johanns-Vorstadt",
+    "amenity": "restaurant",
+    "contact:email": "johanniterbruecke@negishi.ch",
+    "contact:phone": "+41 61 274 10 20",
+    "cuisine": "sushi",
+    "indoor_seating": "yes",
+    "name": "Negishi",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "no",
+    "payment:twint": "yes",
+    "smoking": "outside",
+    "website": "https://www.negishi.ch/de/basel-johanniterbruecke"
+  },
+  "id": 1592876743
+}

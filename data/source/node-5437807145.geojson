@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9238918,
+      46.4319685
+    ]
+  },
+  "properties": {
+    "id": 5437807145,
+    "addr:city": "Glion - Montreux",
+    "addr:housenumber": "5",
+    "addr:postcode": "1823",
+    "addr:street": "Chemin de Fer",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-25",
+    "contact:facebook": "https://www.facebook.com/glion.buffetdelagare",
+    "contact:instagram": "https://www.instagram.com/buffet_glion/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g188108-d2463393-Reviews-Buffet_De_La_Gare_De_Glion-Montreux_Canton_of_Vaud.html",
+    "diet:vegan": "limited",
+    "name": "Buffet de la Gare",
+    "opening_hours": "Th-Mo 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 525 27 86",
+    "website": "https://buffet2glion.ch/"
+  },
+  "id": 5437807145
+}

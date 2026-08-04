@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9482498,
+      47.2264472
+    ]
+  },
+  "properties": {
+    "id": 4817497997,
+    "addr:city": "Schmerikon",
+    "addr:housenumber": "57",
+    "addr:postcode": "8716",
+    "addr:street": "Sennh\u00fcttenstrasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "italian",
+    "delivery": "no",
+    "name": "Pizzeria Obergass",
+    "opening_hours": "Tu-Th 08:30-14:00,17:00-23:00; Fr 08:30-14:00,17:00-24:00; Sa 10:00-14:00,17:00-24:00; Su 10:00-14:00,17:00-22:00",
+    "phone": "+41 55 282 35 02",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.pizzeria-obergass.ch",
+    "wheelchair": "yes"
+  },
+  "id": 4817497997
+}

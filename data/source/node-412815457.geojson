@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8436472,
+      46.4616411
+    ]
+  },
+  "properties": {
+    "id": 412815457,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1800",
+    "addr:street": "Rue de la Clerg\u00e8re",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "email": "taoyuanvevey@bluewin.ch",
+    "name": "Tao Yuan",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:30-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 921 20 33",
+    "start_date": "2000",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-chinois-tao-yuan.ch/"
+  },
+  "id": 412815457
+}

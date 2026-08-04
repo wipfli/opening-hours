@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.441585,
+      46.9470877
+    ]
+  },
+  "properties": {
+    "id": 7241894945,
+    "amenity": "restaurant",
+    "contact:addr": "Gurtengasse 4, 3011 Bern",
+    "contact:email": "bern@williamsbutcherstable.ch",
+    "contact:phone": "+41 31 3207520",
+    "indoor_seating": "yes",
+    "name": "Williams ButchersTable",
+    "opening_hours": "Mo-Sa 11:30-24:00",
+    "outdoor_seating": "yes",
+    "source:opening_hours": "https://i.imgur.com/hAcg5t8.jpg",
+    "website": "https://www.williamsbutcherstable.ch"
+  },
+  "id": 7241894945
+}

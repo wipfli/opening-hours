@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4746489,
+      46.7122126
+    ]
+  },
+  "properties": {
+    "id": 419327521,
+    "addr:city": "Bretonni\u00e8res",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1329",
+    "addr:street": "Route d'Agiez",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "L'Ecusson vaudois",
+    "opening_hours": "Tu-Sa 08:00-23:00; Su 10:00-15:00",
+    "phone": "+41 24 565 99 00",
+    "website": "https://www.restaurant-ecusson-vaudois.ch/"
+  },
+  "id": 419327521
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5541539,
+      47.3553163
+    ]
+  },
   "properties": {
-    "@id": "node/4935627376",
+    "id": 4935627376,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "154",
@@ -19,12 +26,5 @@
     "website": "https://www.restaurant-tuefenegg.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5541539,
-      47.3553163
-    ]
-  },
-  "id": "node-4935627376"
+  "id": 4935627376
 }

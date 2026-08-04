@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5408759,
+      47.3972052
+    ]
+  },
+  "properties": {
+    "id": 304597368,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "133",
+    "addr:postcode": "8057",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-26",
+    "cuisine": "vietnamese",
+    "indoor_seating": "yes",
+    "name": "Hang's",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:30; Sa-Su 12:00-14:00,17:30-22:30",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30, 17:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 370 26 10",
+    "takeaway": "yes",
+    "website": "https://hangs.ch",
+    "wheelchair": "limited"
+  },
+  "id": 304597368
+}

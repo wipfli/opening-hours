@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7211262,
+      47.5011461
+    ]
+  },
+  "properties": {
+    "id": 560156308,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "23",
+    "addr:postcode": "8400",
+    "addr:street": "Wartstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "no",
+    "capacity": "30",
+    "check_date:opening_hours": "2024-01-14",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "maharajacurry@gmail.com",
+    "level": "0",
+    "name": "Maharaja Curry",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41522039988",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.maharaja-curry.ch",
+    "wheelchair": "no"
+  },
+  "id": 560156308
+}

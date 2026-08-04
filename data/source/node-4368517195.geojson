@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3429485,
+      47.3650233
+    ]
+  },
+  "properties": {
+    "id": 4368517195,
+    "addr:city": "Del\u00e9mont",
+    "addr:housenumber": "32",
+    "addr:postcode": "2800",
+    "addr:street": "Rue du 23-Juin",
+    "amenity": "restaurant",
+    "capacity": "45",
+    "capacity:indoor": "25",
+    "capacity:outdoor_seating": "20",
+    "cuisine": "french",
+    "name": "La Bonne Auberge",
+    "opening_hours": "Su-Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 422 17 58",
+    "start_date": "1950",
+    "website": "http://www.labonneauberge.ch"
+  },
+  "id": 4368517195
+}

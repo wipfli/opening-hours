@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1440428,
+      46.1966418
+    ]
+  },
+  "properties": {
+    "id": 12033320917,
+    "addr:housenumber": "9",
+    "addr:postcode": "1205",
+    "addr:street": "Rue Leschot",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "O\u2019Liban",
+    "opening_hours": "Mo-Fr 11:45-13:30, 18:30-21:30; Sa 18:30-21:30",
+    "phone": "+41 22 320 14 81",
+    "website": "https://www.oliban-geneve.ch/",
+    "website:menu": "https://www.oliban-geneve.ch/"
+  },
+  "id": 12033320917
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4405862,
+      46.9528647
+    ]
+  },
+  "properties": {
+    "id": 429232017,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "3012",
+    "addr:street": "Neubr\u00fcckstrasse",
+    "amenity": "restaurant",
+    "contact:email": "souslepont@reitschule.ch",
+    "contact:phone": "+41 31 3066955",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Sous le Pont",
+    "opening_hours": "We 12:00-23:00; Th 12:00-00:00 Fr 12:00-01:00; Sa 18:00-01:00; Tu[-1] 18:00-23:00; Su[1] 10:00-16:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://souslepont-roessli.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 429232017
+}

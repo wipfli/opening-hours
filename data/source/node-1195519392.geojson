@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7733672,
+      46.9144192
+    ]
+  },
+  "properties": {
+    "id": 1195519392,
+    "addr:city": "K\u00fcblis",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:street": "Hauptstrass",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "Terminus",
+    "opening_hours": "We-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 330 53 30",
+    "smoking": "isolated",
+    "website": "https://www.terminus-hotel.ch/restaurant.html"
+  },
+  "id": 1195519392
+}

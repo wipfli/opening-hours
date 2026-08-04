@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.299415,
+      47.0497268
+    ]
+  },
+  "properties": {
+    "id": 1292171079,
+    "addr:city": "Luzern",
+    "addr:housenumber": "5",
+    "addr:postcode": "6003",
+    "addr:street": "Gibraltarstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Asia Mr. Rung",
+    "opening_hours": "Mo-Fr 11:30-14:30, Mo-Sa 18:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.mr-rung.com/"
+  },
+  "id": 1292171079
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9421086,
+      47.2915172
+    ]
+  },
+  "properties": {
+    "id": 7744561678,
+    "addr:city": "Zofingen",
+    "addr:housenumber": "5",
+    "addr:postcode": "4800",
+    "addr:street": "Aarburgerstrasse",
+    "alt_name": "Migros Restaurant Zofingen",
+    "amenity": "restaurant",
+    "branch": "Zofingen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zofingen"
+  },
+  "id": 7744561678
+}

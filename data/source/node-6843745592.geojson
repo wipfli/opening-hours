@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4870962,
+      47.1217481
+    ]
+  },
+  "properties": {
+    "id": 6843745592,
+    "addr:city": "Sevelen",
+    "addr:housenumber": "55",
+    "addr:postcode": "9475",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Thai Style",
+    "opening_hours": "Th-Fr 11:00-13:30,17:30-21:30; Sa 17:00-21:30",
+    "phone": "+41815994707",
+    "website": "https://thaistyle-restaurant.business.site",
+    "wheelchair": "no"
+  },
+  "id": 6843745592
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5001788,
+      47.3826361
+    ]
+  },
+  "properties": {
+    "id": 6680755287,
+    "amenity": "restaurant",
+    "check_date": "2023-12-18",
+    "cuisine": "lebanese",
+    "name": "Al Mouchtar",
+    "opening_hours": "Mo-Fr 10:30-20:00; Sa,Su 11:00-20:00",
+    "website": "https://www.al-mouchtar.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6680755287
+}

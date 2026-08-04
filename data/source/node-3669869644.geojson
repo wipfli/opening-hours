@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8880454,
+      46.6233246
+    ]
+  },
+  "properties": {
+    "id": 3669869644,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1520",
+    "email": "info@sulwald.ch",
+    "name": "Sulwald-St\u00fcbli",
+    "opening_hours": "Depends on the weather",
+    "operator": "Lorenz St\u00e4mpfli and Alina von Bergen",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 855 12 51",
+    "website": "https://www.sulwald.ch/"
+  },
+  "id": 3669869644
+}

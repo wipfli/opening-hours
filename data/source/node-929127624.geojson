@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1376074,
+      46.2190855
+    ]
+  },
+  "properties": {
+    "id": 929127624,
+    "addr:housenumber": "37",
+    "addr:postcode": "1202",
+    "addr:street": "Rue de Vermont",
+    "amenity": "restaurant",
+    "contact:facebook": "laromanageneve",
+    "cuisine": "italian",
+    "email": "laromanageneva@gmail.com",
+    "level": "0",
+    "name": "La Romana",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-22:00; Sa 18:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 734 82 86",
+    "takeaway": "yes",
+    "website": "https://www.la-romana-geneve.ch/",
+    "website:menu": "https://la-romana-geneve.ch/menu/carte-restaurant-italien-la-romana/"
+  },
+  "id": 929127624
+}

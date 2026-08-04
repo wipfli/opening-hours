@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4210797,
+      46.9320424
+    ]
+  },
+  "properties": {
+    "id": 286879680,
+    "alt_name": "Landhaus Liebefeld",
+    "amenity": "restaurant",
+    "email": "info@landhaus-liebefeld.ch",
+    "name": "Landhaus",
+    "opening_hours": "Mo-Fr 07:00-00:30; Sa 09:00-00:30; Su off",
+    "phone": "+41 31 9710758",
+    "website": "https://www.landhaus-liebefeld.ch/"
+  },
+  "id": 286879680
+}

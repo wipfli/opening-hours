@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6213801,
+      46.5260973
+    ]
+  },
+  "properties": {
+    "id": 9029831317,
+    "addr:housenumber": "38",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue de France",
+    "amenity": "restaurant",
+    "name": "Bufal\u00e0",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:30-22:00; Su 18:30-22:00",
+    "website": "http://bufalamenu.framer.ai"
+  },
+  "id": 9029831317
+}

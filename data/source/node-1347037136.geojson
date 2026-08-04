@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7209987,
+      47.1941964
+    ]
+  },
+  "properties": {
+    "id": 1347037136,
+    "addr:housenumber": "11",
+    "addr:postcode": "8832",
+    "addr:street": "Roosstrasse",
+    "amenity": "restaurant",
+    "email": "info@restaurant-verenahof.ch",
+    "name": "Verenahof",
+    "opening_hours": "Mo-Fr 08:30-24:00; Sa 10:00-24:00; Su 10:00-22:00",
+    "phone": "+41 43 810 25 25",
+    "website": "https://www.restaurant-verenahof.ch/"
+  },
+  "id": 1347037136
+}

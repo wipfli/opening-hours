@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9867456,
+      45.8699385
+    ]
+  },
+  "properties": {
+    "id": 3037562769,
+    "addr:city": "Mendrisio",
+    "addr:country": "CH",
+    "addr:postcode": "6850",
+    "addr:street": "Piazzale alla Valle",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Bar-Ristorante-Pizzeria-Anatolia-115241785211208/",
+    "cuisine": "kebab",
+    "name": "Ristorante Essenziale",
+    "opening_hours": "Mo-Sa 08:00-01:00; Su 19:00-01:00; PH 19:00-01:00",
+    "phone": "+41 91 630 22 55",
+    "smoking": "outside",
+    "source": "website and survey",
+    "takeaway": "yes",
+    "website": "http://www.anatolia-tr.ch"
+  },
+  "id": 3037562769
+}

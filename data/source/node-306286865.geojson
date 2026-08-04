@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7750377,
+      47.3936289
+    ]
+  },
+  "properties": {
+    "id": 306286865,
+    "addr:city": "Russikon",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8332",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-25",
+    "cuisine": "regional",
+    "email": "info@metzg-russikon.ch",
+    "name": "Restaurant & Bar Metzg Russikon",
+    "opening_hours": "Mo-Fr 06:00-24:00",
+    "phone": "+41 44 955 40 00",
+    "website": "https://metzg-russikon.ch/"
+  },
+  "id": 306286865
+}

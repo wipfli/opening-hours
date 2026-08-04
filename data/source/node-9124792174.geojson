@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8441402,
+      47.1156796
+    ]
+  },
+  "properties": {
+    "id": 9124792174,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "125",
+    "addr:postcode": "2300",
+    "addr:street": "Rue de la Charri\u00e8re",
+    "amenity": "restaurant",
+    "email": "info@barrosrestaurant.ch",
+    "name": "Barros",
+    "opening_hours": "Tu-Su 10:15-15:00; We,Fr 10:15-21:30",
+    "operator": "Restaurant des Cadolles",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 721 30 15",
+    "takeaway": "yes",
+    "website": "https://barrosrestaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9124792174
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1652658,
+      46.6089827
+    ]
+  },
+  "properties": {
+    "id": 6724824185,
+    "addr:city": "Vals",
+    "addr:housenumber": "208",
+    "addr:postcode": "7132",
+    "addr:street": "Leis",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "email": "info@ganni.ch",
+    "name": "Ganni",
+    "opening_hours": "PH,Mo-Su 11:00-22:00",
+    "operator": "Carlo & Anke T\u00f6nz",
+    "phone": "+41819351354",
+    "website": "https://www.ganni.ch/"
+  },
+  "id": 6724824185
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3586977,
+      46.2296964
+    ]
+  },
+  "properties": {
+    "id": 9344272838,
+    "addr:city": "Sion",
+    "addr:housenumber": "18",
+    "addr:postcode": "1950",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "name": "Nobilis",
+    "opening_hours": "Mo-Fr 10:30-23:00",
+    "phone": "+41 27 322 36 85",
+    "website": "https://ecole-nobilis.ch/"
+  },
+  "id": 9344272838
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3729072,
+      47.4236605
+    ]
+  },
+  "properties": {
+    "id": 884300486,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "4",
+    "addr:postcode": "9000",
+    "addr:street": "St.Leonhard-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "La Taverna IV",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-23:00; Sa 12:00-23:00; Su 12:00-21:00",
+    "website": "https://www.la-taverna.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 884300486
+}

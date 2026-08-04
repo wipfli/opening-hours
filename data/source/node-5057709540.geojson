@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6529479,
+      46.5250016
+    ]
+  },
+  "properties": {
+    "id": 5057709540,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "21",
+    "addr:postcode": "1012",
+    "addr:street": "Avenue de Chailly",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "indoor_seating": "yes",
+    "name": "Fu Li",
+    "opening_hours": "Tu-Su 09:30-23:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.facebook.com/Restaurant-FU-LI-2225392630839731/"
+  },
+  "id": 5057709540
+}

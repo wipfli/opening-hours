@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2847399,
+      47.0701645
+    ]
+  },
+  "properties": {
+    "id": 11919608161,
+    "addr:city": "Emmenbr\u00fccke",
+    "addr:postcode": "6020",
+    "addr:street": "Seetalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "MyGrill",
+    "opening_hours": "Mo-Fr 09:00-14:00,17:00-23:00; Sa-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 77 452 56 90",
+    "takeaway": "yes",
+    "website": "https://www.mygrill-swiss.ch",
+    "wheelchair": "limited"
+  },
+  "id": 11919608161
+}

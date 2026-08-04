@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4953933,
+      47.4022849
+    ]
+  },
+  "properties": {
+    "id": 3900561493,
+    "addr:housenumber": "228",
+    "addr:street": "Limmattalstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-02-23",
+    "cuisine": "italian_pizza",
+    "name": "Osteria Vineria \"da Biagio\" Restaurant Limmatberg",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-00:00; Sa 18:00-00:00",
+    "phone": "+41 44 341 00 76",
+    "toilets:wheelchair": "no",
+    "website": "https://www.osteriadabiagio.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3900561493
+}

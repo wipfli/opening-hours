@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4465318,
+      46.9580433
+    ]
+  },
+  "properties": {
+    "id": 280528098,
+    "addr:city": "Bern",
+    "addr:housenumber": "3",
+    "addr:postcode": "3013",
+    "addr:street": "Quartiergasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "italian",
+    "currency:CHF": "yes",
+    "currency:EUR": "yes",
+    "email": "info@lacarbonara.ch",
+    "fax": "+41 31 332 14 42",
+    "indoor_seating": "yes",
+    "name": "La Carbonara",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa 10:00-23:30; Su off",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postcard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 332 14 40",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.lacarbonara.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 280528098
+}

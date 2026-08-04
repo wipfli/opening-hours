@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0425856,
+      47.3933179
+    ]
+  },
+  "properties": {
+    "id": 1676339785,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "5000",
+    "addr:street": "Halde",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Sultan-Restaurant-Halde-2244921792458590",
+    "contact:instagram": "https://www.instagram.com/sultan_halde20/",
+    "contact:mobile": "+41795959126",
+    "cuisine": "bangladeshi",
+    "name": "Sultan - Restaurant Halde",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-23:30; Sa 17:00-24:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41628234565",
+    "reservation": "yes",
+    "source": "local_knowledge",
+    "takeaway": "yes",
+    "website": "https://halde20.ch/",
+    "website:booking": "https://halde20.ch/#carousel_b2e4",
+    "website:menu": "https://halde20.ch/Men%C3%BC.html"
+  },
+  "id": 1676339785
+}

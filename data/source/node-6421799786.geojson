@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9290161,
+      46.9921588
+    ]
+  },
+  "properties": {
+    "id": 6421799786,
+    "addr:housenumber": "8",
+    "addr:postcode": "2000",
+    "addr:street": "Grand Rue",
+    "amenity": "restaurant",
+    "cuisine": "friture",
+    "name": "Poulet Secret",
+    "opening_hours": "24/7",
+    "phone": "+41 78 659 59 36",
+    "website": "https://pouletsecret.ch/"
+  },
+  "id": 6421799786
+}

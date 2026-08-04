@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1445272,
+      46.1908049
+    ]
+  },
+  "properties": {
+    "id": 1770873447,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "17",
+    "addr:postcode": "1205",
+    "addr:street": "Place des Augustins",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "Zaitouna",
+    "opening_hours": "Mo-Fr 11:30-23:00; Sa 11:30-00:00",
+    "phone": "+41 22 808 09 09",
+    "takeaway": "yes",
+    "website": "https://www.lafourchette.ch/restaurant/zaitouna/511885?cc=18174-54f",
+    "wheelchair:description": "hauteur seuil entr\u00e9e 8cm, porte entr\u00e9e large de 75 cm, 98cm de hauteur sous table, table \u00e0 pied lat\u00e9ral, WC au m\u00eame \u00e9tage, porte WC large de 70cm, dimension WC 180x89cm"
+  },
+  "id": 1770873447
+}

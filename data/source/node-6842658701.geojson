@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5301347,
+      47.3831028
+    ]
+  },
   "properties": {
-    "@id": "node/6842658701",
+    "id": 6842658701,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "213",
     "addr:postcode": "8005",
@@ -24,12 +31,5 @@
     "website": "https://www.th1.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5301347,
-      47.3831028
-    ]
-  },
-  "id": "node-6842658701"
+  "id": 6842658701
 }

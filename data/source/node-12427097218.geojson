@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5315976,
+      47.3922718
+    ]
+  },
+  "properties": {
+    "id": 12427097218,
+    "amenity": "restaurant",
+    "check_date": "2025-08-07",
+    "name": "Neri",
+    "opening_hours": "Mo,Su off; Tu-We 17:30-23:00; Th-Sa 17:30-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 233 85 30",
+    "website": "https://www.neri-cantina.ch/"
+  },
+  "id": 12427097218
+}

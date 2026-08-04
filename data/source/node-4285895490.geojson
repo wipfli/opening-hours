@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1556419,
+      46.4738327
+    ]
+  },
+  "properties": {
+    "id": 4285895490,
+    "amenity": "restaurant",
+    "contact:facebook": "restolesgranges",
+    "cuisine": "sandwich",
+    "email": "social@restolesgranges.ch",
+    "internet_access": "wlan",
+    "name": "Les Granges",
+    "opening_hours": "We-Fr 10:00-14:30, 17:30-22:00; Sa, Su 10:00-23:00",
+    "phone": "+41 26 924 68 34",
+    "takeaway": "yes",
+    "website": "https://restolesgranges.ch"
+  },
+  "id": 4285895490
+}

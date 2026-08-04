@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5083108,
+      47.3522158
+    ]
+  },
   "properties": {
-    "@id": "node/2018246102",
+    "id": 2018246102,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "341",
@@ -19,12 +26,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.albisguetli.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5083976,
-      47.3522874
-    ]
-  },
-  "id": "node-2018246102"
+  "id": 2018246102
 }

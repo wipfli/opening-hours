@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8991964,
+      47.5490236
+    ]
+  },
+  "properties": {
+    "id": 8068955060,
+    "amenity": "restaurant",
+    "name": "Restaurant Minigolf",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "website": "https://www.frauenfeld.ch/kultur-freizeit/freizeit/freizeitanlagen-sport/festhalle-rueegerholz/restaurant.html/248"
+  },
+  "id": 8068955060
+}

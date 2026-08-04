@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5150839,
+      47.1666288
+    ]
+  },
+  "properties": {
+    "id": 2088677582,
+    "addr:city": "Zug",
+    "addr:housenumber": "12",
+    "addr:place": "Landsgemeindeplatz",
+    "addr:postcode": "6300",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "name": "Widder",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:00; Sa 18:00-23:00; Su off",
+    "phone": "+41 41 240 05 05",
+    "website": "https://www.restaurantwidder.ch/"
+  },
+  "id": 2088677582
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6454975,
+      47.4111195
+    ]
+  },
+  "properties": {
+    "id": 366931645,
+    "addr:housenumber": "1",
+    "addr:postcode": "8602",
+    "addr:street": "Sennh\u00fcttestrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-16",
+    "cuisine": "regional",
+    "name": "Sternen",
+    "name:de": "Gasthof Sternen",
+    "opening_hours": "Tu-Sa 08:30-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 833 44 66",
+    "website": "https://www.sternenwangen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 366931645
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7892714,
+      46.7080725
+    ]
+  },
+  "properties": {
+    "id": 13959900339,
+    "addr:city": "Davos Monstein",
+    "addr:housenumber": "24",
+    "addr:postcode": "7278",
+    "addr:street": "Oberalpstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-20",
+    "email": "oberalptraum@bluewin.ch",
+    "name": "OberalpTraum",
+    "opening_hours": "2023 Jul 6-Aug 6 Mo-Su 11:00-17:00; 2023 Aug 10-Oct 8 Th-Su",
+    "phone": "+41 79 437 62 24",
+    "website": "https://www.oberalptraum.ch/"
+  },
+  "id": 13959900339
+}

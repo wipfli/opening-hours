@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4444387,
+      47.0457855
+    ]
+  },
+  "properties": {
+    "id": 13109979231,
+    "addr:city": "Sargans",
+    "addr:housenumber": "2a",
+    "addr:postcode": "7320",
+    "addr:street": "Bahnhofpark",
+    "amenity": "restaurant",
+    "cuisine": "kebab;pizza",
+    "name": "Kivi's Kitchen",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00",
+    "website": "https://kiviskitchen.ch/"
+  },
+  "id": 13109979231
+}

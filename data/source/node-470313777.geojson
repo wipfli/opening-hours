@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0479274,
+      47.3918477
+    ]
+  },
+  "properties": {
+    "id": 470313777,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "43",
+    "addr:postcode": "5000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "branch": "Aarau",
+    "brand": "Tibits",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "tibits",
+    "opening_hours": "Mo-We 07:30-22:00; Th-Sa 07:30-23:00; Su 09:00-16:00",
+    "opening_hours:url": "https://www.tibits.ch/de/restaurants/standorte",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 834 40 34",
+    "restaurant": "single_dish",
+    "smoking": "no",
+    "website": "https://tibits.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 470313777
+}

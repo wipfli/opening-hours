@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2363721,
+      46.0867389
+    ]
+  },
+  "properties": {
+    "id": 307703109,
+    "addr:city": "Verbier",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1936",
+    "addr:street": "Hameau de Clambin",
+    "amenity": "restaurant",
+    "email": "chezdany@bluewin.ch",
+    "fax": "+41 27 7712610",
+    "name": "Chez Dany",
+    "opening_hours": "Mo-Su 12:00-22:00",
+    "phone": "+41 27 7712524",
+    "website": "https://www.chezdany.ch/"
+  },
+  "id": 307703109
+}

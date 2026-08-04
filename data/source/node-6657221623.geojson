@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5744946,
+      47.3269647
+    ]
+  },
+  "properties": {
+    "id": 6657221623,
+    "access": "yes",
+    "amenity": "restaurant",
+    "email": "indigo@zfv.ch",
+    "name": "Indigo",
+    "opening_hours": "Mo-Fr 08:00-14:00",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 991 32 40",
+    "takeaway": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/restaurant-indigo"
+  },
+  "id": 6657221623
+}

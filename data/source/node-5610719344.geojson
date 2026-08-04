@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5288831,
+      47.2928299
+    ]
+  },
+  "properties": {
+    "id": 5610719344,
+    "amenity": "restaurant",
+    "capacity": "100",
+    "check_date:opening_hours": "2021-09-26",
+    "name": "Restaurant Langenberg (B\u00e4rentreff)",
+    "opening_hours": "Mar-Oct Mo-Fr 09:00-17:00; Mar-Oct Sa,Su,PH 09:00-19:00; Nov-Feb Mo-Fr 09:00-15:00; Nov-Feb Sa-Su,PH 09:00-17:00",
+    "outdoor_seating": "yes",
+    "self_service": "only",
+    "smoking": "no",
+    "website": "https://www.wildnispark.ch/de/parkbesuch/verpflegung/restaurant-langenberg-",
+    "wheelchair": "yes"
+  },
+  "id": 5610719344
+}

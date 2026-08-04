@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4835899,
+      47.4424558
+    ]
+  },
+  "properties": {
+    "id": 4828229529,
+    "addr:city": "Watt",
+    "addr:housenumber": "35",
+    "addr:postcode": "8105",
+    "amenity": "restaurant",
+    "check_date": "2026-03-16",
+    "check_date:opening_hours": "2026-03-16",
+    "cuisine": "local;steak_house",
+    "name": "P\u00f6stli",
+    "name:de": "P\u00f6stli",
+    "opening_hours": "Mo-Fr 10:00-14:00, 17:00-22:00; Sa 11:00-22:00; Su 16:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 840 35 70",
+    "self_service": "no",
+    "website": "https://www.steakhauspost.ch/"
+  },
+  "id": 4828229529
+}

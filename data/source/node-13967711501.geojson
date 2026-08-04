@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2131977,
+      46.6619756
+    ]
+  },
+  "properties": {
+    "id": 13967711501,
+    "addr:street": "Route de l'Auta Chia",
+    "amenity": "restaurant",
+    "name": "Buvette des Gros Chaumiaux",
+    "opening_hours": "Mo-Su 08:00-23:00; Nov off; Dec off; Jan off; Feb off; Mar off; Apr off",
+    "phone": "+41269271479",
+    "website": "https://fribourg.ch/fr/la-gruyere/buvettes-alpage/buvette-des-gros-chaumiaux/"
+  },
+  "id": 13967711501
+}

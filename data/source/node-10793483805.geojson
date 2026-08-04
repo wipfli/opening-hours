@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.741218,
+      46.6067519
+    ]
+  },
+  "properties": {
+    "id": 10793483805,
+    "amenity": "restaurant",
+    "check_date": "2023-04-07",
+    "cuisine": "regional",
+    "diet:seasonal": "yes",
+    "email": "info@benouais.ch",
+    "name": "Ben Ouais",
+    "opening_hours": "Mo,Th-Su 08:00-22:00",
+    "phone": "+41 21 903 34 30",
+    "shop": "convenience",
+    "tourism": "guest_house",
+    "website": "https://benouais.ch/",
+    "zero_waste": "only"
+  },
+  "id": 10793483805
+}

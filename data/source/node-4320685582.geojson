@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2445878,
+      47.1390397
+    ]
+  },
+  "properties": {
+    "id": 4320685582,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "15",
+    "addr:postcode": "2502",
+    "addr:street": "Zentralstrasse",
+    "addr:street:fr": "Rue Centrale",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Perroquet Vert",
+    "opening_hours": "Tu-Sa 08:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 322 25 55",
+    "takeaway": "no",
+    "website": "http://www.perroquetvert.ch"
+  },
+  "id": 4320685582
+}

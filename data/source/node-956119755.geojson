@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0155199,
+      46.2503756
+    ]
+  },
+  "properties": {
+    "id": 956119755,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/lecafesuisee",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Caf\u00e9 Suisse",
+    "opening_hours": "Tu-Th 11:30-23:00; Fr,Sa 11:30-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 24 463 33 98",
+    "website": "https://www.cafe-suisse.ch/",
+    "wikidata": "Q90151059"
+  },
+  "id": 956119755
+}

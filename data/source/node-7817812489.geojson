@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5607489,
+      47.4304674
+    ]
+  },
+  "properties": {
+    "id": 7817812489,
+    "addr:housenumber": "55",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-07",
+    "cuisine": "pizza;italian",
+    "name": "NA081",
+    "opening_hours": "Mo-Th 11:00-14:00, 17:30-22:00; Fr-Su 11:30-22:00",
+    "phone": "+41 44 829 20 11",
+    "website": "https://na081.ch/glattbrugg",
+    "website:menu": "https://na081.ch/glattbrugg/#menu"
+  },
+  "id": 7817812489
+}

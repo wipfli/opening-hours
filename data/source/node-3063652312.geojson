@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6249812,
+      46.5202516
+    ]
+  },
+  "properties": {
+    "id": 3063652312,
+    "amenity": "restaurant",
+    "check_date": "2024-02-03",
+    "craft": "brewery",
+    "name": "Brasserie de Montbenon",
+    "opening_hours": "09:00-24:00",
+    "operator": "Soulfood SA",
+    "phone": "+41 21 320 40 30",
+    "website": "https://www.brasseriedemontbenon.ch/"
+  },
+  "id": 3063652312
+}

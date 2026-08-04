@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.137997,
+      46.2126736
+    ]
+  },
+  "properties": {
+    "id": 2101429180,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "2",
+    "addr:postcode": "1202",
+    "addr:street": "Rue du Grand-Pr\u00e9",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-10-06",
+    "cuisine": "peruvian",
+    "name": "Le Jules-\u00c9douard",
+    "opening_hours": "Mo-Th 12:00-14:00,18:00-24:00, Fr,Sa 12:00-14:30,18:00-02:00",
+    "phone": "+41 22 734 20 98",
+    "website": "https://www.jules-edouard.ch"
+  },
+  "id": 2101429180
+}

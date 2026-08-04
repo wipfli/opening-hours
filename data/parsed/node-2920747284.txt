@@ -1,7 +1,0 @@
-The opening hours are:
-- Monday, Thursday, Friday: 12–14 and 18–22
-- Saturday: 12–16 and 18–22
-- Sunday: 18–22
-- Tuesday and Wednesday: closed
-
-Mo,Th,Fr 12:00-14:00,18:00-22:00; Sa 12:00-16:00,18:00-22:00; Su 18:00-22:00

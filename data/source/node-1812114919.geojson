@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3058216,
+      47.0517969
+    ]
+  },
+  "properties": {
+    "id": 1812114919,
+    "amenity": "restaurant",
+    "check_date": "2026-01-13",
+    "cuisine": "german",
+    "description": "Zunfthausrestaurant",
+    "name": "Pfistern",
+    "opening_hours": "Mo-Sa 09:00-24:00; Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurant-pfistern.ch/"
+  },
+  "id": 1812114919
+}

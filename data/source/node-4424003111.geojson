@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5254278,
+      47.3739923
+    ]
+  },
   "properties": {
-    "@id": "node/4424003111",
+    "id": 4424003111,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "97",
     "addr:postcode": "8004",
@@ -26,12 +33,5 @@
     "website": "https://www.miss-miu.ch/de/home",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5254278,
-      47.3739923
-    ]
-  },
-  "id": "node-4424003111"
+  "id": 4424003111
 }

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2451046,
+      46.8945843
+    ]
+  },
+  "properties": {
+    "id": 2467305993,
+    "addr:city": "Sarnen",
+    "addr:housenumber": "158",
+    "addr:postcode": "6060",
+    "addr:street": "Br\u00fcnigstrasse",
+    "amenity": "restaurant",
+    "brewery": "Eichhof",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Aiola",
+    "opening_hours": "Mo-Sa 08:00-23:30; Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 660 15 15",
+    "website": "https://www.ristorante-mediterraneo.ch/"
+  },
+  "id": 2467305993
+}

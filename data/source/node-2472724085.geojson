@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.663978,
+      46.5898973
+    ]
+  },
+  "properties": {
+    "id": 2472724085,
+    "addr:city": "Cugy VD",
+    "addr:housenumber": "2",
+    "addr:postcode": "1053",
+    "addr:street": "Route de l'Abbaye",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/montheronauberge/",
+    "contact:instagram": "https://www.instagram.com/montheron_auberge/",
+    "cuisine": "regional",
+    "email": "auberge@montheron.ch",
+    "name": "Auberge de l'Abbaye de Montheron",
+    "opening_hours": "We-Su 12:00-14:00, 18:30-22:00",
+    "phone": "+41 21 731 73 73",
+    "website": "https://www.montheron.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2472724085
+}

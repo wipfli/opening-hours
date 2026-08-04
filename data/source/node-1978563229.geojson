@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5032278,
+      46.9340256
+    ]
+  },
+  "properties": {
+    "id": 1978563229,
+    "addr:city": "G\u00fcmligen",
+    "addr:country": "CH",
+    "addr:housenumber": "198",
+    "addr:postcode": "3073",
+    "addr:street": "Worbstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-25",
+    "contact:facebook": "Rung-Reuang-Thai-Restaurant-Takeaway-236772826779733",
+    "contact:phone": "+41 31 954 2738",
+    "cuisine": "thai",
+    "email": "info@rung-reuang.ch",
+    "name": "Rung Reuang",
+    "name:de": "Rung Reuang Thai Restaurant & Takeaway",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "website": "http://www.rung-reuang.ch"
+  },
+  "id": 1978563229
+}

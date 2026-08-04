@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4029939,
+      46.9947477
+    ]
+  },
+  "properties": {
+    "id": 4454559702,
+    "amenity": "restaurant",
+    "description": "Eine Reservation f\u00fcr Mittag- oder Abendessen ist erforderlich.",
+    "name": "Villa Honegg",
+    "opening_hours": "11:30-14:00,18:00-23:30",
+    "phone": "+41 41 618 32 00",
+    "website": "https://villa-honegg.ch/de/restaurant/"
+  },
+  "id": 4454559702
+}

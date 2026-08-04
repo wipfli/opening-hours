@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2786585,
+      46.2061484
+    ]
+  },
+  "properties": {
+    "id": 9116506808,
+    "addr:city": "V\u00e9troz",
+    "addr:housenumber": "1",
+    "addr:postcode": "1964",
+    "addr:street": "Route du Camping",
+    "amenity": "restaurant",
+    "name": "Botza Beach",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr-Su 10:00-12:00",
+    "phone": "+41 27 346 19 40",
+    "website": "https://botzabeach.ch/"
+  },
+  "id": 9116506808
+}

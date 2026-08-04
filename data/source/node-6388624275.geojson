@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5848459,
+      47.5628093
+    ]
+  },
+  "properties": {
+    "id": 6388624275,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "4056",
+    "addr:street": "St. Johanns-Vorstadt",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "email": "info@restaurant-la.com",
+    "indoor_seating": "yes",
+    "name": "LA",
+    "opening_hours": "Tu-Sa 16:00-23:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 534 96 69",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.restaurant-la.com/",
+    "wheelchair": "limited"
+  },
+  "id": 6388624275
+}

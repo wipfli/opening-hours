@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5428981,
+      47.4104948
+    ]
+  },
+  "properties": {
+    "id": 4818335506,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "350-354",
+    "addr:place": "Neumarkt Oerlikon",
+    "addr:postcode": "8050",
+    "addr:street": "Hofwiesenstrasse",
+    "alt_name": "Migros Restaurant Oerlikon",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon Neumarkt",
+    "cuisine": "international",
+    "delivery": "no",
+    "level": "2",
+    "name": "Migros Restaurant",
+    "note": "Umbaubedingt bis Herbst 2020 geschlossen",
+    "opening_hours": "closed",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "phone": "+41 44 317 60 20",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-oerlikon-neumarkt",
+    "wheelchair": "yes"
+  },
+  "id": 4818335506
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4102764,
+      46.9436979
+    ]
+  },
+  "properties": {
+    "id": 718484447,
+    "addr:city": "Bern",
+    "addr:housenumber": "129",
+    "addr:postcode": "3008",
+    "addr:street": "Schlossstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "contact:addr": "Schlossstrasse 129, 3008 Bern",
+    "cuisine": "italian",
+    "delivery": "no",
+    "name": "Caff\u00e9 Italia",
+    "old_name": "As",
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa 08:00-20:00, Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 317 77 04",
+    "source": "survey;local knowledge",
+    "website": "https://linktr.ee/caffeitalia_bern"
+  },
+  "id": 718484447
+}

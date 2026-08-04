@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7711271,
+      46.9282585
+    ]
+  },
+  "properties": {
+    "id": 3513960655,
+    "addr:city": "Pany",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "7243",
+    "addr:street": "Platzgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Don Antonio",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-23:00; Su 11:30-14:00,17:00-21:00",
+    "phone": "+41 81 332 14 25",
+    "website": "http://www.donantonio-pany.ch/"
+  },
+  "id": 3513960655
+}

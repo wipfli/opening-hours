@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6072956,
+      47.5593005
+    ]
+  },
+  "properties": {
+    "id": 12100158143,
+    "access": "private",
+    "addr:city": "Basel",
+    "addr:postcode": "4070",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "level": "12",
+    "name": "Evergreen",
+    "opening_hours": "Mo-Th 11:30-13:30",
+    "website": "https://tavero.roche.com/menu/Restaurant%20EVERGREEN,%20Bau%20002,%2012.%20OG/Evergreen"
+  },
+  "id": 12100158143
+}

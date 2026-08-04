@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6045293,
+      47.5393683
+    ]
+  },
+  "properties": {
+    "id": 7457739460,
+    "addr:city": "Basel",
+    "addr:housenumber": "200",
+    "addr:postcode": "4053",
+    "addr:street": "M\u00fcnchensteinerstrasse",
+    "alt_name": "Migros Restaurant Dreipitz",
+    "amenity": "restaurant",
+    "branch": "Basel Dreispitz MParc",
+    "indoor_seating": "yes",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Basel",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-basel-dreispitz-mparc"
+  },
+  "id": 7457739460
+}

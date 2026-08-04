@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8965443,
+      47.1896368
+    ]
+  },
+  "properties": {
+    "id": 2287821097,
+    "addr:city": "Wangen SZ",
+    "addr:housenumber": "12",
+    "addr:postcode": "8855",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "cuisine": "regional;coffee_shop",
+    "highchair": "yes",
+    "name": "Caf\u00e9 Memory",
+    "opening_hours": "Mo-We 07:00-18:30; Th-Fr 07:00-22:00; Sa 07:00-14:30; PH closed",
+    "opening_hours:kitchen": "Mo-We 07:00-18:30; Th-Fr 07:00-22:00; Sa 07:00-13:30; PH closed",
+    "operator": "Michael K\u00e4lin",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.cafe-memory.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2287821097
+}

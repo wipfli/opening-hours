@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3111759,
+      47.0573288
+    ]
+  },
+  "properties": {
+    "id": 1573053894,
+    "amenity": "restaurant",
+    "attraction:ref": "6",
+    "check_date": "2023-05-12",
+    "indoor_seating": "yes",
+    "name": "Old Swiss House",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "sightseeingtour:attraction": "Rundgang_fuer_Asiaten",
+    "toilets:wheelchair": "no",
+    "website": "https://www.oldswisshouse.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1573053894
+}

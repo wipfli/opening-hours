@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8476074,
+      46.8494278
+    ]
+  },
+  "properties": {
+    "id": 9036360758,
+    "amenity": "restaurant",
+    "check_date": "2025-08-03",
+    "contact:facebook": "https://www.facebook.com/people/Il-Baretto-by-FMR/61574217736117/",
+    "contact:instagram": "ilbarettobyfmr",
+    "cuisine": "italian",
+    "email": "ilbarettobyfmr@outlook.com",
+    "internet_access": "no",
+    "name": "Il Baretto",
+    "opening_hours": "Mo-Tu off; We-Sa 08:00-23:00; Su 08:00-16:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 79 965 14 70",
+    "toilets": "yes",
+    "website": "https://www.ilbarettobyfmr.com",
+    "website:menu": "https://www.ilbarettobyfmr.com/_files/ugd/e4fd0c_d535e1879fa5449790ca17600f359da5.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 9036360758
+}

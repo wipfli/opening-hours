@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7261656,
+      47.4984254
+    ]
+  },
+  "properties": {
+    "id": 359688178,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8400",
+    "addr:street": "Neumarkt",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-06-08",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Typisch Thai",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Sa,Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 213 28 41",
+    "website": "https://www.typischthai.ch",
+    "wheelchair": "no"
+  },
+  "id": 359688178
+}

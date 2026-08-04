@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.904719,
+      47.352453
+    ]
+  },
+  "properties": {
+    "id": 7427187437,
+    "addr:city": "Olten",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4600",
+    "addr:street": "Frohburgstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-03-20",
+    "name": "Aarhof",
+    "opening_hours": "Mo-Fr 10:00-24:00",
+    "phone": "+41 62 212 88 62",
+    "website": "https://www.aarhof.ch/"
+  },
+  "id": 7427187437
+}

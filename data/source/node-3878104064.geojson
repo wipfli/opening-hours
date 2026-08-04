@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0328553,
+      46.2148243
+    ]
+  },
+  "properties": {
+    "id": 3878104064,
+    "addr:city": "Satigny",
+    "addr:housenumber": "173",
+    "addr:street": "Route du Mandement",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "description": "Restaurant thailandais en plein coeur du village de\nSatigny ouvert du lundi au vendredi, midi et soir.\n\n\nSur notre terrasse ou dans notre salle, nous vous\nservons des repas traditionnels ainsi que des vins\nlocaux. \u00c9galement \u00e0 emporter.",
+    "name": "Cafe du Soleil - Satigny",
+    "opening_hours": "Mo-Fr 11:00-14:30, 17:00-23:45",
+    "phone": "+41 22 753 11 71",
+    "website": "https://www.cafedusoleil-satigny.com/"
+  },
+  "id": 3878104064
+}

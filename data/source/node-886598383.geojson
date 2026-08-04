@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6305517,
+      46.5174069
+    ]
+  },
+  "properties": {
+    "id": 886598383,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Bella Vita",
+    "opening_hours": "PH,Mo-Su 09:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 312 12 60",
+    "website": "https://www.restaurant-bellavita.com/"
+  },
+  "id": 886598383
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5405687,
+      47.3693
+    ]
+  },
   "properties": {
-    "@id": "node/270938652",
+    "id": 270938652,
     "amenity": "restaurant",
     "cuisine": "vietnamese",
     "indoor_seating": "yes",
@@ -10,12 +17,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.anan.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5405687,
-      47.3693
-    ]
-  },
-  "id": "node-270938652"
+  "id": 270938652
 }

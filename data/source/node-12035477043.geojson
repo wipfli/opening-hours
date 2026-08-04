@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1818911,
+      47.2550683
+    ]
+  },
+  "properties": {
+    "id": 12035477043,
+    "addr:city": "Reinach AG",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "5734",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizza Kurier Fulmine",
+    "opening_hours": "Tu-Th 10:30-13:30, 17:30-22:30; Fr-Sa 10:30-13:30, 17:30-23:00; Su 17:00-21:30",
+    "phone": "+41 62 772 02 76",
+    "website": "https://www.fulmine.ch/"
+  },
+  "id": 12035477043
+}

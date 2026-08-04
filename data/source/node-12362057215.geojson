@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6418623,
+      47.5145848
+    ]
+  },
+  "properties": {
+    "id": 12362057215,
+    "amenity": "restaurant",
+    "name": "Deli Rolls",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:00; Su 17:00-21:00",
+    "phone": "+41 52 315 28 32",
+    "takeaway": "yes",
+    "website": "https://www.deli-rolls-pfungen.ch/"
+  },
+  "id": 12362057215
+}

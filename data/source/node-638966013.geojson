@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5434614,
+      47.3734009
+    ]
+  },
   "properties": {
-    "@id": "node/638966013",
+    "id": 638966013,
     "addr:housenumber": "6",
     "addr:street": "Hirschengasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://www.hirschen-zuerich.ch/weinschenke.html",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5434614,
-      47.3734009
-    ]
-  },
-  "id": "node-638966013"
+  "id": 638966013
 }

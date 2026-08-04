@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8012982,
+      47.2574706
+    ]
+  },
+  "properties": {
+    "id": 12892538311,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@rosenburg.ch",
+    "level": "0",
+    "name": "Rosenburg",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 243 11 42",
+    "website": "https://rosenburg.ch"
+  },
+  "id": 12892538311
+}

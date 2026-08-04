@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4380295,
+      46.9198005
+    ]
+  },
+  "properties": {
+    "id": 789876448,
+    "amenity": "restaurant",
+    "email": "info@gurtenpark.ch",
+    "fax": "+41 31 9703344",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Gurtners",
+    "opening_hours": "Mo-Sa 11:30-23:00; Su 11:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41319703323",
+    "website": "https://www.gurtenpark.ch/Restaurants/Gurtners",
+    "wheelchair": "yes"
+  },
+  "id": 789876448
+}

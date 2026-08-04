@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.513364,
+      46.9653891
+    ]
+  },
+  "properties": {
+    "id": 4990553060,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@buura-beizli.ch",
+    "name": "Buura - Beizli",
+    "opening_hours": "PH,Fr-We 11:00-18:00",
+    "operator": "Familie Bl\u00f6chlinger-Wyss",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 302 28 15",
+    "website": "https://www.buura-beizli.ch/"
+  },
+  "id": 4990553060
+}

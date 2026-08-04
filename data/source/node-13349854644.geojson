@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6809437,
+      47.4467558
+    ]
+  },
+  "properties": {
+    "id": 13349854644,
+    "amenity": "restaurant",
+    "name": "Strickhof Mensa",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "website": "https://www.strickhof.ch/campus/gastronomie/gastronomie-lindau/"
+  },
+  "id": 13349854644
+}

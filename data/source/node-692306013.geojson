@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0464241,
+      47.3917644
+    ]
+  },
+  "properties": {
+    "id": 692306013,
+    "addr:city": "Aarau",
+    "addr:housenumber": "18",
+    "addr:postcode": "5000",
+    "addr:street": "Igelweid",
+    "alt_name": "Migros Restaurant Aarau",
+    "amenity": "restaurant",
+    "branch": "Aarau Igelweid",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "name": "Migros Restaurant",
+    "opening_hours": "Sa 07:00-18:00; Mo-Fr 07:30-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:twint": "yes",
+    "phone": "+41585675300",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-aarau-igelweid",
+    "wheelchair": "yes"
+  },
+  "id": 692306013
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5393944,
+      47.3777455
+    ]
+  },
   "properties": {
-    "@id": "node/4833061595",
+    "id": 4833061595,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:place": "Hauptbahnhof, Querhalle",
@@ -16,12 +23,5 @@
     "website": "https://www.time-lounge.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5393944,
-      47.3777455
-    ]
-  },
-  "id": "node-4833061595"
+  "id": 4833061595
 }

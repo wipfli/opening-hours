@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.322262,
+      47.4675943
+    ]
+  },
+  "properties": {
+    "id": 7515126764,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "52",
+    "addr:postcode": "5430",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;pasta;ice_cream",
+    "indoor_seating": "yes",
+    "name": "alla Rotonda",
+    "opening_hours": "Tu-Fr 09:00-24:00; Sa 12:00-24:00; Su 12:00-22:00",
+    "opening_hours:covid19": "restricted",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 493 01 35",
+    "website": "https://di-nardo.ch"
+  },
+  "id": 7515126764
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5287791,
+      46.8547676
+    ]
+  },
+  "properties": {
+    "id": 6008402331,
+    "amenity": "restaurant",
+    "cuisine": "asian;burger",
+    "email": "restaurant@noname-chur.ch",
+    "level": "0",
+    "name": "No Name",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 250 37 37",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.noname-chur.ch/"
+  },
+  "id": 6008402331
+}

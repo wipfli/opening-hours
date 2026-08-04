@@ -1,5 +1,0 @@
-I cannot find explicit opening hours listed on this website. The page shows "Öffnungszeiten: Google Maps" which indicates the hours are linked to Google Maps rather than displayed directly on the website itself.
-
-Since I cannot see the actual hours and they appear to be dynamically linked to Google Maps (which may use JavaScript to display only current day hours), I cannot provide a reliable OpenStreetMap opening_hours string.
-
-UNSURE

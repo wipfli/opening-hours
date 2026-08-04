@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1111846,
+      47.1711081
+    ]
+  },
+  "properties": {
+    "id": 1511936775,
+    "addr:city": "Sursee",
+    "addr:housenumber": "2",
+    "addr:postcode": "6210",
+    "addr:street": "G\u00f6ldlinstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-18",
+    "cuisine": "steak_house",
+    "name": "Giardino",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:30-23:30; PH off",
+    "outdoor_seating": "yes",
+    "website": "https://giardino-sursee.ch"
+  },
+  "id": 1511936775
+}

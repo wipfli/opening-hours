@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0671147,
+      47.0052099
+    ]
+  },
+  "properties": {
+    "id": 4333988891,
+    "addr:housenumber": "144",
+    "addr:postcode": "8762",
+    "addr:street": "H\u00f6schetli",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@restaurant-unique.ch",
+    "name": "Unique",
+    "opening_hours": "Th-Mo 08:30-22:00",
+    "phone": "+41556442233",
+    "website": "http://www.restaurant-unique.ch"
+  },
+  "id": 4333988891
+}

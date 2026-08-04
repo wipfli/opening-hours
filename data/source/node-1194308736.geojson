@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8967706,
+      46.8085069
+    ]
+  },
+  "properties": {
+    "id": 1194308736,
+    "amenity": "restaurant",
+    "name": "M\u00e4derbeiz Pischa",
+    "opening_hours": "Mo-Su 09:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 544 40 51",
+    "website": "https://www.forgotten-mountain.ch/"
+  },
+  "id": 1194308736
+}

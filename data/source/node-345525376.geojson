@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5149995,
+      47.3748597
+    ]
+  },
   "properties": {
-    "@id": "node/345525376",
+    "id": 345525376,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "16",
     "addr:postcode": "8003",
@@ -15,12 +22,5 @@
     "wheelchair": "no",
     "wheelchair:description": "mit Strassencaf\u00e9-Tischen, wird bedient"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5149995,
-      47.3748597
-    ]
-  },
-  "id": "node-345525376"
+  "id": 345525376
 }

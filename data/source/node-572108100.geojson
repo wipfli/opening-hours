@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.825688,
+      47.227652
+    ]
+  },
+  "properties": {
+    "id": 572108100,
+    "addr:housenumber": "72",
+    "addr:postcode": "8640",
+    "addr:street": "Neue Jonastrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-06-19",
+    "loc_name": "Bott\u00e9ga",
+    "name": "Bottega Club & Lounge",
+    "opening_hours": "Mo-Th 17:00-02:00; Fr-Sa 17:00-03:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 210 64 64",
+    "website": "https://www.bottega-club.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 572108100
+}

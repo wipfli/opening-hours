@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3052538,
+      47.5290174
+    ]
+  },
+  "properties": {
+    "id": 4417866591,
+    "addr:city": "Hagenwil b. Amriswil",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8580",
+    "addr:street": "Schloss-Strasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "local;regional",
+    "email": "info@schloss-hagenwil.ch",
+    "name": "Wasserschloss Hagenwil",
+    "name:de": "Wasserschloss Hagenwil",
+    "opening_hours": "Mo 10:00-24:00; Tu 10:00-14:00; We off; Th-Sa 10:00-24:00; Su 09:00-22:00",
+    "phone": "+41 71 411 19 13",
+    "website": "https://schloss-hagenwil.ch/"
+  },
+  "id": 4417866591
+}

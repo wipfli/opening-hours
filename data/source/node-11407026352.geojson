@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6195061,
+      47.4217691
+    ]
+  },
+  "properties": {
+    "id": 11407026352,
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8305",
+    "addr:street": "S\u00e4ntisstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-31",
+    "cuisine": "asian",
+    "name": "Kawali Asian Restaurant",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00,17:30-21:30; Sa-Su 17:00-21:00",
+    "phone": "+41 79 282 55 24",
+    "website": "https://kawaliasia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 11407026352
+}

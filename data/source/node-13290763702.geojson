@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.417686,
+      47.3730529
+    ]
+  },
+  "properties": {
+    "id": 13290763702,
+    "addr:housenumber": "97",
+    "addr:postcode": "9055",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "ice_cream;local",
+    "email": "info@sternen-appenzellerland.ch",
+    "internet_access": "wlan",
+    "name": "Landgasthof Sternen",
+    "opening_hours": "Th-Mo 09:00-24:00",
+    "phone": "+41 71 793 17 58",
+    "self_service": "no",
+    "website": "https://www.sternen-appenzellerland.ch"
+  },
+  "id": 13290763702
+}

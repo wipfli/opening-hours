@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7501128,
+      47.0568515
+    ]
+  },
+  "properties": {
+    "id": 296251735,
+    "addr:postcode": "2400",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@royal-panini.ch",
+    "name": "Royal Panini",
+    "opening_hours": "Tu-Fr 09:00-14:00, 17:00-23:00; Sa 10:00-14:00, 17:00-23:00",
+    "phone": "+41 32 931 91 31",
+    "website": "http://www.royal-panini.ch"
+  },
+  "id": 296251735
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.45949,
+      47.363465
+    ]
+  },
+  "properties": {
+    "id": 7634206408,
+    "addr:city": "Uitikon Waldegg",
+    "addr:country": "CH",
+    "addr:housenumber": "51",
+    "addr:postcode": "8142",
+    "addr:street": "Leuengasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-02",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "email": "info@ristorante-piazzetta.ch",
+    "name": "Piazetta",
+    "opening_hours": "Mo off; Tu-Fr 10:00-14:00,17:30-23:00; Sa 17:30-23:00; Su 11:00-16:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 78 922 73 63",
+    "reservation": "yes",
+    "website": "https://www.ristorante-piazzetta.ch",
+    "website:booking": "https://reserve.foratable.com/?restaurantHash=5baf1d7748ede2f76100f63093b7f0ff",
+    "website:menu": "https://www.ristorante-piazzetta.ch/Menue-Menu/"
+  },
+  "id": 7634206408
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.52865,
+      47.371199
+    ]
+  },
   "properties": {
-    "@id": "node/4958366052",
+    "id": 4958366052,
     "amenity": "restaurant",
     "check_date": "2023-09-24",
     "cuisine": "asian;sushi",
@@ -11,12 +18,5 @@
     "website": "https://www.yens-restaurant.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.52865,
-      47.371199
-    ]
-  },
-  "id": "node-4958366052"
+  "id": 4958366052
 }

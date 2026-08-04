@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5402127,
+      47.5202355
+    ]
+  },
+  "properties": {
+    "id": 3303303323,
+    "addr:city": "B\u00fclach",
+    "addr:housenumber": "16",
+    "addr:postcode": "8180",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-12",
+    "cuisine": "thai",
+    "diet:gluten_free": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Siam Thai",
+    "opening_hours": "Mo-Fr 11:00-13:30,16:45-22:00; Sa 11:00-22:00, Su 15:00-22:00; Tu off",
+    "smoking": "no",
+    "website": "https://www.siamthai.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3303303323
+}

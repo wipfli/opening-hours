@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.458181,
+      46.4425814
+    ]
+  },
+  "properties": {
+    "id": 3236993754,
+    "amenity": "restaurant",
+    "name": "Zum Stall",
+    "opening_hours": "We-Sa 16:00+",
+    "website": "http://www.zum-stall.ch/"
+  },
+  "id": 3236993754
+}

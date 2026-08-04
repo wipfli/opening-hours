@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7174598,
+      47.5054454
+    ]
+  },
+  "properties": {
+    "id": 7969145588,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "36",
+    "addr:postcode": "8400",
+    "addr:street": "W\u00fclflingerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-16",
+    "cuisine": "fusion;caucasian",
+    "name": "Timmuccino Fusion Bistro & Caf\u00e9",
+    "opening_hours": "Tu-Th 08:30-13:30, 17:00-22:00; Fr 08:30-13:30, 17:00-24:00; Sa 16:00-24:00",
+    "phone": "+41 76 242 22 66",
+    "website": "https://timmuccino.ch/"
+  },
+  "id": 7969145588
+}

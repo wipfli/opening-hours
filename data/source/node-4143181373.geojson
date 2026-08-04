@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4443385,
+      46.8321831
+    ]
+  },
+  "properties": {
+    "id": 4143181373,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Dino's Pizzakurier Ems",
+    "opening_hours": "Mo-Fr 11:00-13:00,17:00-22:00, Sa-Su 11:00-14:00,16:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.dinospizza.ch/"
+  },
+  "id": 4143181373
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6324531,
+      46.5151041
+    ]
+  },
+  "properties": {
+    "id": 12609537728,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "8",
+    "addr:postcode": "1006",
+    "addr:street": "Avenue d'Ouchy",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "diet:vegetarian": "yes",
+    "email": "bienvenue@decicomptoirgourmand.ch",
+    "indoor_seating": "yes",
+    "name": "D\u00e9Ci comptoir gourmand",
+    "opening_hours": "Mo-Tu 07:30-14:30; We-Fr 07:30-23:00; Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 17 70",
+    "website": "https://www.decicomptoirgourmand.ch/"
+  },
+  "id": 12609537728
+}

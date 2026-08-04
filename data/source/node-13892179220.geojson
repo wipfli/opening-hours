@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1734328,
+      46.7421392
+    ]
+  },
+  "properties": {
+    "id": 13892179220,
+    "amenity": "restaurant",
+    "cuisine": "regional;italian",
+    "name": "La Tuilerie",
+    "opening_hours": "Tu-Fr 08:30-14:00,17:00-23:00, Sa 17:00-23:00,09:00-14:00; Su 09:00-14:00; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 413 43 13",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://latuilerie.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13892179220
+}

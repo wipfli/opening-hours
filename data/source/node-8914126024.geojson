@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5139563,
+      47.454185
+    ]
+  },
+  "properties": {
+    "id": 8914126024,
+    "addr:housenumber": "2",
+    "addr:street": "Oberaustrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;regional;indian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Pizzeria Hirschen Grub SG",
+    "opening_hours": "We-Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41718771218",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.hirschen-grubsg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 8914126024
+}

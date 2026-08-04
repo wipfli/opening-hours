@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4855098,
+      47.4803627
+    ]
+  },
+  "properties": {
+    "id": 310860663,
+    "addr:city": "Niederhasli",
+    "addr:housenumber": "13g",
+    "addr:postcode": "8155",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;european;pizza;pasta;steak_house",
+    "description": "Italienische und Schweizer K\u00fcche",
+    "diet:healthy": "yes",
+    "diet:local": "yes",
+    "diet:mediterranean": "yes",
+    "diet:non-vegetarian": "yes",
+    "diet:seafood": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "fixme": "was housenumber 13k, now reopened in 13g in spring of 2025 after building was rebuilt, maybe position needs to be slightly adjusted",
+    "name": "Da Pepino Niederhasli \u2013 Italienische und Schweizer K\u00fcche",
+    "opening_hours": "Mo-Su 10:00-14:00,17:00-23:00",
+    "opening_hours:kitchen": "Mo-Su 11:00-14:00,17:00-22:00",
+    "phone": "+41 44 850 00 70",
+    "website": "https://dapepino.ch"
+  },
+  "id": 310860663
+}

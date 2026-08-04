@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1859774,
+      46.9642293
+    ]
+  },
+  "properties": {
+    "id": 665543084,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Berggasthaus Edelwyss",
+    "opening_hours": "Th-Mo",
+    "phone": "+41 55 642 24 26",
+    "website": "https://berggasthaus-edelwyss.ch/"
+  },
+  "id": 665543084
+}

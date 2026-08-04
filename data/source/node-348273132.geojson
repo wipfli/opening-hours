@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8499769,
+      47.2602363
+    ]
+  },
+  "properties": {
+    "id": 348273132,
+    "addr:city": "R\u00fcti (ZH)",
+    "addr:housenumber": "11",
+    "addr:postcode": "8630",
+    "addr:street": "Werner-Weber-Strasse",
+    "amenity": "restaurant",
+    "name": "Al Seda",
+    "opening_hours": "Tu-Fr 08:30-14:00,17:00-24:00; Sa 11:00-14:00,17:00-24:00",
+    "website": "https://alseda.ch/"
+  },
+  "id": 348273132
+}

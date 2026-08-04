@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4554698,
+      46.9589795
+    ]
+  },
+  "properties": {
+    "id": 11417054366,
+    "addr:city": "Bern",
+    "addr:housenumber": "64",
+    "addr:postcode": "3014",
+    "addr:street": "Milit\u00e4rstrasse",
+    "amenity": "restaurant",
+    "email": "hallo@olympiabern.ch",
+    "name": "OLYMPIA",
+    "opening_hours": "Mo-Do  07:30-22:30  Fr  07:30-23:30  Sa  08:30-23:30  So  09:30-17:00",
+    "phone": "+41315292910",
+    "website": "https://www.olympiabern.ch"
+  },
+  "id": 11417054366
+}

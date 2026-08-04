@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5565523,
+      47.5459171
+    ]
+  },
+  "properties": {
+    "id": 9448453209,
+    "addr:city": "Basel",
+    "addr:housenumber": "113",
+    "addr:postcode": "4054",
+    "addr:street": "Neuweilerstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Hundert13 Suppenbar",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 505 41 13",
+    "smoking": "outside",
+    "website": "https://www.cateringold.ch/hundert13"
+  },
+  "id": 9448453209
+}

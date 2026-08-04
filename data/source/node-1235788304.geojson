@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6400413,
+      46.7761211
+    ]
+  },
+  "properties": {
+    "id": 1235788304,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Caf\u00e9 de la Promenade",
+    "opening_hours": "Tu-Fr 08:00-23:00; Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 420 20 55",
+    "toilets:wheelchair": "no",
+    "website": "https://la-promenade.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "WC au sous-sol, sans ascenseur"
+  },
+  "id": 1235788304
+}

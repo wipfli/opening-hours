@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339821,
+      47.3668389
+    ]
+  },
   "properties": {
-    "@id": "node/3344853709",
+    "id": 3344853709,
     "addr:housenumber": "33",
     "addr:street": "Bleicherweg",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "outdoor_seating": "yes",
     "website": "https://ristorante33.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5339821,
-      47.3668389
-    ]
-  },
-  "id": "node-3344853709"
+  "id": 3344853709
 }

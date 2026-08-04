@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2926293,
+      46.2244521
+    ]
+  },
+  "properties": {
+    "id": 6700683057,
+    "addr:city": "Jussy",
+    "addr:housenumber": "19",
+    "addr:postcode": "1254",
+    "addr:street": "Route de la Fronti\u00e8re",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "cuisine": "regional;french;traditional",
+    "internet_access": "wlan",
+    "name": "La Ferme",
+    "opening_hours": "Tu 18:00-23:00; We-Sa 10:30-15:00,18:00-23:30; Su 11:00-18:00",
+    "phone": "+41 22 759 14 66",
+    "website": "https://laferme-jussy.business.site/"
+  },
+  "id": 6700683057
+}

@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4442865,
+      46.940558
+    ]
+  },
+  "properties": {
+    "id": 259025144,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housename": "Dampfzentrale",
+    "addr:housenumber": "47",
+    "addr:postcode": "3005",
+    "addr:street": "Marzilistrasse",
+    "amenity": "restaurant",
+    "contact:email": "dampfzentrale@taberna.ch",
+    "contact:phone": "+41 31 3123300",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Dampfzentrale",
+    "opening_hours": "Apr-Sep: Mo-Fr 11:00-14:00,17:30-23:30, Sa 14:00-00:30, Su 10:00-23:00; Oct-Mar: Mo-Fr 11:00-14:00,17:30-23:30, Sa 16:00-00:30",
+    "operator": "taBerna Gastro-Kultur AG",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "website": "https://www.taberna.ch/dampfzentrale/das-restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 259025144
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4507512,
+      46.9483389
+    ]
+  },
+  "properties": {
+    "id": 3781985916,
+    "alt_name": "Restaurant & Bar Tredicipercento",
+    "amenity": "restaurant",
+    "check_date": "2025-07-17",
+    "contact:addr": "Rathausgasse 25, 3011 Bern",
+    "contact:email": "info@tredicipercento.ch",
+    "contact:fax": "+41 31 3118031",
+    "contact:phone": "+41 31 3118031",
+    "cuisine": "italian",
+    "name": "Tredicipercento",
+    "opening_hours": "Mo off; Tu-Sa 18:00-23:30; Su off",
+    "operator": "Tredicipercento GmbH",
+    "source": "survey and website",
+    "website": "https://restaurant.tredicipercento.ch/"
+  },
+  "id": 3781985916
+}

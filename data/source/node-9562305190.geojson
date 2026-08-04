@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6243472,
+      47.5506791
+    ]
+  },
+  "properties": {
+    "id": 9562305190,
+    "addr:city": "Birsfelden",
+    "addr:housenumber": "13",
+    "addr:postcode": "4127",
+    "addr:street": "Muttenzerstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Rebstock",
+    "opening_hours": "Mo-Fr 14:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 311 69 26",
+    "smoking": "outside",
+    "website": "https://www.facebook.com/rebstock.birsfelden/"
+  },
+  "id": 9562305190
+}

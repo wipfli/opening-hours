@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1156876,
+      46.736359
+    ]
+  },
+  "properties": {
+    "id": 339579669,
+    "amenity": "restaurant",
+    "check_date": "2025-02-06",
+    "cuisine": "regional",
+    "name": "Kartitscha",
+    "opening_hours": "8:00-18:00 (Ski season only)",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "website": "http://www.kartitscha.ch/"
+  },
+  "id": 339579669
+}

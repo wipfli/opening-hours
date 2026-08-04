@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7493091,
+      47.3955157
+    ]
+  },
+  "properties": {
+    "id": 10719195574,
+    "addr:city": "Oberdorf BL",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "4436",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Tu 14:00-24:00,We-Sa 08:30-24:00",
+    "phone": "+41 61 961 03 01",
+    "website": "https://www.roessli-oberdorf.ch/"
+  },
+  "id": 10719195574
+}

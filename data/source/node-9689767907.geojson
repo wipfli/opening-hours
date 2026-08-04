@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8444535,
+      46.4597666
+    ]
+  },
+  "properties": {
+    "id": 9689767907,
+    "addr:city": "Vevey",
+    "addr:housenumber": "10",
+    "addr:postcode": "1800",
+    "addr:street": "Rue des Deux-March\u00e9s",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-05-24",
+    "contact:facebook": "https://m.facebook.com/crazymoose3/",
+    "contact:instagram": "crazymoosevevey",
+    "cuisine": "salad;egg_parfait;smoked_trout;ravioli;tartare;fish;elk_steak;chocolate_souffle;palet_breton;pavlova",
+    "name": "Le Moose",
+    "old_name": "Le Gramme",
+    "opening_hours": "Tu 10:00-14:00,18:00-22:00; We-Fr 11:30-14:00,18:00-22:00; Sa 10:00-14:00,18:00-22:00",
+    "phone": "+41 21 921 21 86",
+    "reservation": "recommended",
+    "website": "https://lemoose-vevey.com/"
+  },
+  "id": 9689767907
+}

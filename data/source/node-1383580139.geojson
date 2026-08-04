@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5284695,
+      47.3837599
+    ]
+  },
   "properties": {
-    "@id": "node/1383580139",
+    "id": 1383580139,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "7",
     "addr:postcode": "8005",
@@ -16,12 +23,5 @@
     "website": "https://www.cochinchin.ch",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5284695,
-      47.3837599
-    ]
-  },
-  "id": "node-1383580139"
+  "id": 1383580139
 }

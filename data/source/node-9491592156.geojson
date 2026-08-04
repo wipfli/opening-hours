@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0613077,
+      46.7675927
+    ]
+  },
+  "properties": {
+    "id": 9491592156,
+    "addr:city": "Breil/Brigels",
+    "addr:country": "CH",
+    "addr:housenumber": "32",
+    "addr:postcode": "7165",
+    "addr:street": "Via Capitasch",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "highchair": "yes",
+    "level": "0",
+    "name": "Gasthof Surselva",
+    "opening_hours": "week 46-51,week 9-19: Tu-Su, PH 09:00-23:00; Dec 22-Jan 09: Mo-Su,PH 09:00-23:00; Dec 24, Dec 31: 14:00-23:00; week 2-8: Tu-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41819411125",
+    "website": "https://surselva-brigels.jimdofree.com/",
+    "wheelchair": "yes"
+  },
+  "id": 9491592156
+}

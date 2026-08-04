@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9526568,
+      46.0043523
+    ]
+  },
+  "properties": {
+    "id": 12463977447,
+    "addr:city": "Lugano",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "6900",
+    "addr:street": "Via Canova",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Acqua e Farina",
+    "opening_hours": "Mo-Su 11:30-14:15,18:30-24:00",
+    "reservation": "no",
+    "toilets": "yes",
+    "website": "https://acqua-farina.ch"
+  },
+  "id": 12463977447
+}

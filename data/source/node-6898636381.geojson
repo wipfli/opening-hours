@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3712276,
+      47.4229075
+    ]
+  },
+  "properties": {
+    "id": 6898636381,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "1a",
+    "addr:place": "Bahnhofplatz",
+    "addr:postcode": "9000",
+    "alt_name": "Tibits St. Gallen",
+    "amenity": "restaurant",
+    "branch": "St. Gallen",
+    "brand": "tibits",
+    "check_date": "2026-05-20",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Tibits",
+    "opening_hours": "Mo-Th 06:30-22:00; Fr,Sa 06:30-22:30; Su,PH 09:00-22:00",
+    "operator": "Tibits",
+    "outdoor_seating": "yes",
+    "website": "https://www.tibits.ch/de/restaurants#tibits-stgallen",
+    "wheelchair": "yes"
+  },
+  "id": 6898636381
+}

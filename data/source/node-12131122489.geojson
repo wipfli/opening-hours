@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0603431,
+      47.4738904
+    ]
+  },
+  "properties": {
+    "id": 12131122489,
+    "addr:city": "Rossr\u00fcti",
+    "addr:housenumber": "17",
+    "addr:postcode": "9512",
+    "addr:street": "Konstanzerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Pizzeria Valentino",
+    "opening_hours": "Tu 17:00-23:00, We-Su 11:00-14:00, 17:00-23:00",
+    "phone": "+41 71 911 32 48",
+    "website": "https://www.pizzeriavalentino.ch/"
+  },
+  "id": 12131122489
+}

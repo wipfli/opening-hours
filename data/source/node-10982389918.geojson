@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1717879,
+      46.7254323
+    ]
+  },
+  "properties": {
+    "id": 10982389918,
+    "amenity": "restaurant",
+    "name": "Balmweid",
+    "opening_hours": "Mo-Su 08:30-09:30; Mo-Su 17:00-19:00; PH closed",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "website": "https://www.restaurantbalmweid.ch/"
+  },
+  "id": 10982389918
+}

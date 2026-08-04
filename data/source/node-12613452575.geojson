@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1485126,
+      46.2080121
+    ]
+  },
+  "properties": {
+    "id": 12613452575,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "11",
+    "addr:postcode": "1201",
+    "addr:street": "Quai du Mont-Blanc",
+    "amenity": "restaurant",
+    "name": "The Living Room",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "phone": "+41 22 909 60 65",
+    "website": "https://www.livingroombarandkitchen.com/",
+    "website:menu": "https://www.livingroombarandkitchen.com/menus"
+  },
+  "id": 12613452575
+}

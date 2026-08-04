@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1216392,
+      46.1833968
+    ]
+  },
+  "properties": {
+    "id": 4292392388,
+    "addr:housenumber": "45",
+    "addr:postcode": "1212",
+    "addr:street": "Route du Grand-Lancy",
+    "amenity": "restaurant",
+    "check_date": "2024-08-17",
+    "cuisine": "international;fine_dining;french",
+    "email": "info@cafezinette.ch",
+    "internet_access": "no",
+    "name": "Cafe Zinette",
+    "opening_hours": "Mo 10:00-24:00; Tu-Fr 08:30-24:00; Sa-Su off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 743 12 00",
+    "website": "http://www.cafezinette.ch"
+  },
+  "id": 4292392388
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6873504,
+      47.4312984
+    ]
+  },
+  "properties": {
+    "id": 13277188107,
+    "addr:city": "Effretikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8307",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:gluten_free": "yes",
+    "name": "Napul\u00e9",
+    "opening_hours": "Mo-Th 11:30-14:00,18:00-22:00; Fr 11:30-14:00,18:00-22:30; Sa 11:30-14:30,18:00-22:00; Su 11:30-14:30,18:00-22:00",
+    "phone": "+41 52 551 80 08",
+    "website": "https://www.napule.ch/de/effretikon"
+  },
+  "id": 13277188107
+}

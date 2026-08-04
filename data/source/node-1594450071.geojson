@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6249302,
+      46.5421928
+    ]
+  },
+  "properties": {
+    "id": 1594450071,
+    "alt_name": "Chez les vieux",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-09-07",
+    "cuisine": "regional",
+    "diet:vegetarian": "no",
+    "name": "Restaurant Le Tournesol",
+    "opening_hours": "Mo-Fr 09:00-17:00, Sa,Su 10:00-17:00",
+    "source": "Survey",
+    "website": "https://www.fbg.ch/pages?section_id=2&menu_id=6&sub_id=8",
+    "wheelchair": "yes"
+  },
+  "id": 1594450071
+}

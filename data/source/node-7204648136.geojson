@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5334773,
+      47.3818826
+    ]
+  },
   "properties": {
-    "@id": "node/7204648136",
+    "id": 7204648136,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "71",
     "addr:postcode": "8005",
@@ -19,12 +26,5 @@
     "website:menu": "https://zurich.na081.ch/assets/pdf/NA081_Menukarte_DE.pdf",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5334773,
-      47.3818826
-    ]
-  },
-  "id": "node-7204648136"
+  "id": 7204648136
 }

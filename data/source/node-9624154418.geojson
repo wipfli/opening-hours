@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7224012,
+      46.6581398
+    ]
+  },
+  "properties": {
+    "id": 9624154418,
+    "addr:city": "Krattigen",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3704",
+    "addr:street": "Spiezstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "747",
+    "email": "info@kreuz-krattigen.ch",
+    "microbrewery": "no",
+    "name": "Kreuz",
+    "name:de": "Hotel Restaurant Kreuz",
+    "opening_hours": "We-Fr 09:00-23:30; Sa 10:00-23:30; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 654 16 47",
+    "smoking": "separated",
+    "toilets": "yes",
+    "website": "https://www.kreuz-krattigen.ch/"
+  },
+  "id": 9624154418
+}

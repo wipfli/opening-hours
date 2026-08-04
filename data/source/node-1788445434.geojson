@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8018747,
+      47.2841556
+    ]
+  },
+  "properties": {
+    "id": 1788445434,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Weinschenke",
+    "opening_hours": "We-Fr 09:00-14:00,17:00-23:00; Sa 10:30-23:00; Su 10:30-20:30",
+    "opening_hours:covid19": "off",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 928 01 35",
+    "website": "https://www.weinschenke-oberland.ch/"
+  },
+  "id": 1788445434
+}

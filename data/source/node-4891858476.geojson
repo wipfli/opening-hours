@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455532,
+      47.3819656
+    ]
+  },
   "properties": {
-    "@id": "node/4891858476",
+    "id": 4891858476,
     "access": "private",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -17,12 +24,5 @@
     "self_service": "yes",
     "website": "https://www.zfv.ch/de/essen-gehen/mensa-minerva"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5455532,
-      47.3819656
-    ]
-  },
-  "id": "node-4891858476"
+  "id": 4891858476
 }

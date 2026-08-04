@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4399418,
+      47.4395492
+    ]
+  },
+  "properties": {
+    "id": 8043934154,
+    "addr:city": "D\u00e4llikon",
+    "addr:housenumber": "14",
+    "addr:postcode": "8108",
+    "addr:street": "Regensdorferstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Bai Ka Prao",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 43 888 08 80",
+    "website": "https://baikaprao.ch/"
+  },
+  "id": 8043934154
+}

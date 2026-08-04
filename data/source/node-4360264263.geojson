@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7494761,
+      47.1266219
+    ]
+  },
+  "properties": {
+    "id": 4360264263,
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "76",
+    "addr:postcode": "8840",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-23",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Th 07:00-23:15; Fr,Sa 07:00-24:00; Su 07:00-23:00",
+    "smoking": "no",
+    "website": "https://www.baeren-einsiedeln.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4360264263
+}

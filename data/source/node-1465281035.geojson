@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8448138,
+      47.0227922
+    ]
+  },
+  "properties": {
+    "id": 1465281035,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "rest.kuttelbad1317@outlook.com",
+    "fax": "+41 34 437 00 48",
+    "name": "Chuttelbad",
+    "opening_hours": "Mo-Th off; We-Su 10:00-24:00",
+    "operator": "Sonja Moser",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 437 00 48",
+    "website": "http://www.restaurant-kuttelbad1317.com"
+  },
+  "id": 1465281035
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3015176,
+      47.0525099
+    ]
+  },
+  "properties": {
+    "id": 5428908522,
+    "addr:city": "Luzern",
+    "addr:housenumber": "7",
+    "addr:postcode": "6004",
+    "addr:street": "St. Karli-Quai",
+    "amenity": "restaurant",
+    "diet:vegan": "only",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Karls Kraut",
+    "opening_hours": "Tu-Fr 11:30-14:00, Tu,We 17:30-22:00, Th-Sa 17:30-22:30, Sa 12:00-15:00, Su 10:00-13:30, PH 17:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 534 77 77",
+    "website": "https://www.karlskraut.ch",
+    "wheelchair": "yes"
+  },
+  "id": 5428908522
+}

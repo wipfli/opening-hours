@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7176427,
+      47.3614244
+    ]
+  },
+  "properties": {
+    "id": 5143995624,
+    "addr:city": "Uster",
+    "addr:housenumber": "71",
+    "addr:postcode": "8610",
+    "addr:street": "Gschwaderstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-10",
+    "cuisine": "regional;burger",
+    "level": "0",
+    "name": "Heimat",
+    "opening_hours": "Mo 08:30-22:00; Tu 08:30-16:30; We-Fr 08:30-22:00; Su 10:00-17:00; Sa off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.heimat-uster.ch/"
+  },
+  "id": 5143995624
+}

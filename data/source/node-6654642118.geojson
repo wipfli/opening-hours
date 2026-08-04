@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5861992,
+      47.556758
+    ]
+  },
+  "properties": {
+    "id": 6654642118,
+    "addr:city": "Basel",
+    "addr:housenumber": "2",
+    "addr:postcode": "4051",
+    "addr:street": "Gemsberg",
+    "amenity": "restaurant",
+    "contact:phone": "+41 61 261 4213",
+    "cuisine": "regional;asian",
+    "indoor_seating": "yes",
+    "name": "Restaurant L\u00f6wenzorn",
+    "opening_hours": "Mo-Th 11:00-14:00,16:30-23:00; Fr 11:00-14:00,16:30-24:00; Sa 12:00-24:00; Su,PH 14:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.loewenzorn-basel.ch"
+  },
+  "id": 6654642118
+}

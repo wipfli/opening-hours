@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3501349,
+      47.0425428
+    ]
+  },
+  "properties": {
+    "id": 9272723524,
+    "addr:city": "Luzern",
+    "addr:housenumber": "72",
+    "addr:postcode": "6006",
+    "addr:street": "Seeburgstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Hermitage",
+    "note": "Open to Hotel guests only (current as of Nov 2021)",
+    "opening_hours": "Mo-Su,PH 18:00-23:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.hermitage-luzern.ch/de/Restaurant-Bar/Restaurant-Hermitage",
+    "wheelchair": "yes"
+  },
+  "id": 9272723524
+}

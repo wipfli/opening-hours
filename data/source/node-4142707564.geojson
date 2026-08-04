@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5879257,
+      47.3820685
+    ]
+  },
+  "properties": {
+    "id": 4142707564,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "236",
+    "addr:postcode": "8044",
+    "addr:street": "Tobelhofstrasse",
+    "amenity": "restaurant",
+    "bar": "no",
+    "capacity": "80",
+    "cuisine": "traditional",
+    "ele": "617.02",
+    "name": "Ch\u00e4salp",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-24:00; Sa 10:00-14:00, 17:30-24:00; Su 11:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 260 75 75",
+    "website": "https://www.chaesalp.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4142707564
+}

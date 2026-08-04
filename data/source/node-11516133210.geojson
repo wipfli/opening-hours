@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.022617,
+      47.036563
+    ]
+  },
+  "properties": {
+    "id": 11516133210,
+    "addr:city": "Cornaux NE",
+    "addr:housenumber": "16",
+    "addr:postcode": "2087",
+    "addr:street": "Grand-Pont",
+    "amenity": "restaurant",
+    "email": "lacantinevertecornaux@gmail.com",
+    "name": "La Cantine Verte",
+    "opening_hours": "Mo-Tu 08:00-16:00; We-Fr 08:00-22:00; Sa 18:00-23:00; Su 08:00-16:00",
+    "phone": "+41 32 757 37 27",
+    "website": "https://www.lacantineverte.ch/"
+  },
+  "id": 11516133210
+}

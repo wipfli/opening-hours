@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5264203,
+      47.0854754
+    ]
+  },
+  "properties": {
+    "id": 1944969827,
+    "amenity": "restaurant",
+    "name": "Brunnen",
+    "opening_hours": "We,Th,Fr 08:30-23:00; Sa[1-3] 11:30-23:00; Su[1-3] 10:00-22:00",
+    "website": "http://www.suuremocke.ch/"
+  },
+  "id": 1944969827
+}

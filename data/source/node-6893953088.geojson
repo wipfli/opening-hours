@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6376872,
+      46.5243859
+    ]
+  },
+  "properties": {
+    "id": 6893953088,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Le Troubadour",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-00:00; Sa 10:00-00:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 312 37 15",
+    "website": "https://www.troubadourlausanne.com/"
+  },
+  "id": 6893953088
+}

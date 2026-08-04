@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5186364,
+      47.1735825
+    ]
+  },
+  "properties": {
+    "id": 2046685157,
+    "addr:housenumber": "9",
+    "addr:street": "Metallstrasse",
+    "amenity": "restaurant",
+    "diet:gluten_free": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Pizzeria da Pino",
+    "opening_hours": "Mo 10:00-14:30; Tu-Sa 10:00-14:30,18:00-24:00",
+    "website": "https://www.da-pino.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2046685157
+}

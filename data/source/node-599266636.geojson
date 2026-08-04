@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9715941,
+      46.3192798
+    ]
+  },
+  "properties": {
+    "id": 599266636,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-17",
+    "contact:facebook": "https://www.facebook.com/restaurantdelafontaineaigle",
+    "contact:instagram": "https://www.instagram.com/restaurantdelafontaineaigle/",
+    "name": "La Fontaine",
+    "opening_hours": "Mo-Fr 11:00-14:30,18:00-23:00; Tu 11:00-14:30",
+    "phone": "+41 24 466 75 52",
+    "website": "https://www.restaurantdelafontaine.ch/"
+  },
+  "id": 599266636
+}

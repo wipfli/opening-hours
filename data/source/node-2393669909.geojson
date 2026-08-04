@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5558208,
+      46.7466053
+    ]
+  },
+  "properties": {
+    "id": 2393669909,
+    "addr:city": "Valbella",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "7077",
+    "addr:street": "Voa Principala",
+    "amenity": "restaurant",
+    "cuisine": "south_tyrolean;swiss",
+    "description": "Wir servieren Ihnen original S\u00fcdtiroler Spezialit\u00e4ten aus der Heimat unserer K\u00f6che und typische Schweizer Gerichte.",
+    "name": "Romana Grill & Bar",
+    "opening_hours": "Fr-Tu 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 384 26 16",
+    "website": "https://restaurantromana.ch/"
+  },
+  "id": 2393669909
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7262079,
+      47.4989829
+    ]
+  },
+  "properties": {
+    "id": 359687975,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8400",
+    "addr:street": "Bosshardeng\u00e4sschen",
+    "amenity": "restaurant",
+    "check_date": "2025-11-06",
+    "check_date:opening_hours": "2025-11-06",
+    "contact:email": "info@restaurant-truebli.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Tr\u00fcbli",
+    "opening_hours": "Tu-Sa 16:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 52 212 55 36",
+    "website": "https://restaurant-truebli.ch",
+    "wheelchair": "yes"
+  },
+  "id": 359687975
+}

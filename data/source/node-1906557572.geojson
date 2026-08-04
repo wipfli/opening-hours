@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4982984,
+      47.3780904
+    ]
+  },
+  "properties": {
+    "id": 1906557572,
+    "amenity": "restaurant",
+    "check_date": "2024-08-20",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Mangostan",
+    "opening_hours": "Mo-Fr 11:30-14:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.mangostan.ch/"
+  },
+  "id": 1906557572
+}

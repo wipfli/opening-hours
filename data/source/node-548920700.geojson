@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7212551,
+      47.4989065
+    ]
+  },
+  "properties": {
+    "id": 548920700,
+    "addr:housenumber": "3",
+    "addr:postcode": "8400",
+    "addr:street": "Strickerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Fu Ji",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://fujirestaurant.ch/",
+    "website:menu": "https://fujirestaurant.ch/index_html_files/Menukarte%20Fuji%20web.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 548920700
+}

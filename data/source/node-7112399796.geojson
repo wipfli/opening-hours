@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.446811,
+      46.9463158
+    ]
+  },
+  "properties": {
+    "id": 7112399796,
+    "alt_name": "Grill & Bar Noumi",
+    "amenity": "restaurant",
+    "contact:addr": "Kochergasse 3-5, 3011 Bern",
+    "contact:email": "info@noumi.ch",
+    "contact:phone": "+41 31 3204664",
+    "cuisine": "international",
+    "name": "Noumi",
+    "note": "Belongs to Hotel Bellevue Palace",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:00-22:00; Sa 12:00-14:00,18:00-22:00; Su off",
+    "source": "survey and website",
+    "website": "https://www.bellevue-palace.ch/de/restaurants-bars/noumi",
+    "wheelchair": "yes"
+  },
+  "id": 7112399796
+}

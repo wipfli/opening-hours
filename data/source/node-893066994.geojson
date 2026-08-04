@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5685201,
+      47.3922035
+    ]
+  },
+  "properties": {
+    "id": 893066994,
+    "addr:city": "Marbach SG",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9437",
+    "addr:street": "Untergasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;pizza;pasta;soup;salad;meat;fish",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Krone",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Sa 09:00-23:00; Su,PH 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 777 20 66",
+    "website": "https://restaurantkronemarbach.ch/"
+  },
+  "id": 893066994
+}

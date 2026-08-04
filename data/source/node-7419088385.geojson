@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3191401,
+      47.4715491
+    ]
+  },
+  "properties": {
+    "id": 7419088385,
+    "addr:postcode": "5430",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "mailto:info@kasai-bbq.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Kasai",
+    "opening_hours": "Tu-Th 18:00-23:00; Fr-Sa 18:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 560 10 99",
+    "website": "https://kasai-bbq.ch"
+  },
+  "id": 7419088385
+}

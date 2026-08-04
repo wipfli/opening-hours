@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5334304,
+      47.2066385
+    ]
+  },
+  "properties": {
+    "id": 1348543900,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "11",
+    "addr:postcode": "4500",
+    "addr:street": "Wengistrasse",
+    "alt_name": "Migros Restaurant Solothurn",
+    "amenity": "restaurant",
+    "branch": "Solothurn",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-solothurn",
+    "wheelchair": "limited"
+  },
+  "id": 1348543900
+}

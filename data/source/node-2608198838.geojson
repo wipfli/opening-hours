@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2904863,
+      47.0582618
+    ]
+  },
+  "properties": {
+    "id": 2608198838,
+    "addr:city": "Luzern",
+    "addr:housenumber": "76",
+    "addr:postcode": "6004",
+    "addr:street": "St.-Karli-Strasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Shanghai 1",
+    "opening_hours": "Mo-Su 10:30-14:30,17:30-23:30",
+    "website": "https://www.shanghai-luzern.ch/"
+  },
+  "id": 2608198838
+}

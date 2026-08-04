@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.9956864,
+      46.1932798
+    ]
+  },
+  "properties": {
+    "id": 2939928181,
+    "addr:city": "Dardagny",
+    "addr:housenumber": "504",
+    "addr:postcode": "1283",
+    "addr:street": "Route du Mandement",
+    "amenity": "restaurant",
+    "name": "Auberge de Dardagny",
+    "opening_hours": "We-Su 08:00-00:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.auberge-dardagny.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2939928181
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0613274,
+      47.0060654
+    ]
+  },
+  "properties": {
+    "id": 9997002432,
+    "addr:city": "Gampelen",
+    "addr:housenumber": "1",
+    "addr:postcode": "3235",
+    "addr:street": "Platanenstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-11",
+    "name": "Rasthof Platanenhof",
+    "opening_hours": "06:00-22:00",
+    "phone": "+41 32 312 70 50",
+    "website": "https://www.rasthof-platanenhof.ch/restaurant/"
+  },
+  "id": 9997002432
+}

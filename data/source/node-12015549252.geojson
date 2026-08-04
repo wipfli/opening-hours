@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4423172,
+      47.1497317
+    ]
+  },
+  "properties": {
+    "id": 12015549252,
+    "addr:city": "Holzh\u00e4usern",
+    "addr:postcode": "6343",
+    "addr:street": "Katharinenhof",
+    "amenity": "restaurant",
+    "name": "Albero",
+    "opening_hours": "Mo-Su 07:00-21:30",
+    "phone": "+41585680703",
+    "website": "https://www.albero-holzhaeusern.ch/das-restaurant/"
+  },
+  "id": 12015549252
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5323754,
+      46.8485048
+    ]
+  },
+  "properties": {
+    "id": 3993618413,
+    "amenity": "restaurant",
+    "name": "Bierhalle",
+    "opening_hours": "Mo-Sa 16:00-24:00; Th off",
+    "outdoor_seating": "no",
+    "phone": "+41 81 252 30 23",
+    "website": "https://bierhalle-chur.ch/"
+  },
+  "id": 3993618413
+}

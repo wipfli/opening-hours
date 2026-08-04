@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8644883,
+      46.7268685
+    ]
+  },
+  "properties": {
+    "id": 11197886037,
+    "amenity": "restaurant",
+    "name": "Gasthof B\u00e4ren",
+    "opening_hours": "We-Sa 08:30-22:00; Su 08:30-21:00",
+    "opening_hours:kitchen": "We-Sa 12:00-13:30,18:00-21:00; Su 12:00-13:30,18:00-20:00",
+    "website": "https://www.baeren-habkern.ch/restaurant"
+  },
+  "id": 11197886037
+}

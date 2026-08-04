@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5263148,
+      47.1942693
+    ]
+  },
+  "properties": {
+    "id": 9451116517,
+    "addr:city": "Baar",
+    "addr:housenumber": "1",
+    "addr:postcode": "6340",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "check_date": "2026-02-22",
+    "cuisine": "regional;coffee_shop",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "elefantenne",
+    "name": "Elefant",
+    "opening_hours": "We-Th,Sa 09:00-17:00; Fr 09:00-19:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "no",
+    "phone": "+41 76 730 18 00",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.elefant.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Ein Eingang ist gut geeignet. Falls Personal nicht reagiert, anrufen"
+  },
+  "id": 9451116517
+}

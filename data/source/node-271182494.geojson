@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.828327,
+      47.1027771
+    ]
+  },
+  "properties": {
+    "id": 271182494,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "2300",
+    "addr:street": "Rue de la Serre",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "contact@larancino.ch",
+    "name": "L'Arancino",
+    "opening_hours": "Mo-Sa 10:30-13:15,17:30-20:45; Tu 17:30-20:45; Su 17:30-21:15",
+    "operator": "Anthony & Mirco Genovese",
+    "phone": "+41 32 914 31 98",
+    "website": "https://www.larancino.ch/",
+    "wheelchair": "no"
+  },
+  "id": 271182494
+}

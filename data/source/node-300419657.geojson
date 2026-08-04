@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5078042,
+      47.3936197
+    ]
+  },
+  "properties": {
+    "id": 300419657,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "261",
+    "addr:postcode": "8005",
+    "addr:street": "Hardturmstrasse",
+    "alt_name": "Cucina Bernoulli",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Escher-Wyss",
+    "check_date": "2024-08-21",
+    "cuisine": "italian;pizza",
+    "name": "Cucina",
+    "old_name": "Brasserie Bernoulli",
+    "opening_hours": "Mo 11:30-14:00; Tu-Fr 11:30-14:00,17:30-22:30; Sa 17:00-22:30; Su off",
+    "website": "https://www.cucinarestaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 300419657
+}

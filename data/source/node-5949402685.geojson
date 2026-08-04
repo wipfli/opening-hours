@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.602264,
+      46.527248
+    ]
+  },
+  "properties": {
+    "id": 5949402685,
+    "addr:city": "Prilly",
+    "addr:housenumber": "1",
+    "addr:postcode": "1008",
+    "addr:street": "Chemin du Viaduc",
+    "amenity": "restaurant",
+    "cuisine": "chinese;buffet",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Wok Royal",
+    "opening_hours": "Mo-Su,PH 11:00-14:30,18:30-23:30",
+    "outdoor_seating": "no",
+    "phone": "+41 21 626 22 22",
+    "website": "https://wok-royal.ch/"
+  },
+  "id": 5949402685
+}

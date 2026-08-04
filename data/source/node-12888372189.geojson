@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9031326,
+      47.3071903
+    ]
+  },
+  "properties": {
+    "id": 12888372189,
+    "amenity": "restaurant",
+    "name": "Gizzi",
+    "opening_hours": "Mo-Th 10:00-14:00,17:00-23:00; Fr 10:00-14:00,17:00-24:00; Sa 10:00-24:00; Su 12:00-21:00",
+    "phone": "+41 62 552 90 90",
+    "website": "https://gizzi90.ch/"
+  },
+  "id": 12888372189
+}

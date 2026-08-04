@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6486823,
+      46.5281469
+    ]
+  },
+  "properties": {
+    "id": 3389304149,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "24",
+    "addr:postcode": "1012",
+    "addr:street": "Avenue de la Vallonnette",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Thats-amore-107024355643801",
+    "contact:instagram": "restaurantthatsamore",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "That's Amore",
+    "opening_hours": "Tu-Fr 11:00-15:00, 18:30-23:30; Sa 18:30-23:30",
+    "opening_hours:covid19": "restricted",
+    "phone": "+41 21 653 04 02",
+    "website": "https://www.thatsamore-restaurant.ch/"
+  },
+  "id": 3389304149
+}

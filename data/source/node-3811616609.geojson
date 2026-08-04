@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5878307,
+      47.5570266
+    ]
+  },
+  "properties": {
+    "id": 3811616609,
+    "addr:city": "Basel",
+    "addr:housenumber": "10",
+    "addr:postcode": "4001",
+    "addr:street": "Im Schmiedenhof",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "1777",
+    "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41612617777",
+    "smoking": "outside",
+    "website": "https://www.1777.ch/"
+  },
+  "id": 3811616609
+}

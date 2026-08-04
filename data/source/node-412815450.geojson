@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8427725,
+      46.4606503
+    ]
+  },
+  "properties": {
+    "id": 412815450,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Th\u00e9\u00e2tre",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/LaClef.restaurant/",
+    "cuisine": "swiss",
+    "diet:flexitarian": "yes",
+    "diet:homemade": "yes",
+    "diet:local": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Caf\u00e9 Restaurant La Clef",
+    "opening_hours": "Tu-Th 08:00-23:00; Fr-Sa 08:00-24:00",
+    "opening_hours:covid19": "Mo-Fr 09:00-23:00; Sa 09:00-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+4121 922 88 33;+4179 832 82 81",
+    "website": "https://www.laclefvevey.ch/",
+    "website:menu": "https://www.laclefvevey.ch/where-to-buy/"
+  },
+  "id": 412815450
+}

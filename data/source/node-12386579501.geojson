@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1343964,
+      46.1884617
+    ]
+  },
+  "properties": {
+    "id": 12386579501,
+    "addr:housenumber": "20",
+    "addr:postcode": "1227",
+    "addr:street": "Rue de la Gabelle",
+    "amenity": "restaurant",
+    "contact:email": "rajumultani01@gmail.com",
+    "cuisine": "indian",
+    "name": "Le Maharadja",
+    "opening_hours": "Mo-Fr 10:00-14:00, 17:30-22:30; Sa, Su 11:30-22:30",
+    "phone": "+41 22 301 55 16",
+    "website": "https://le-maharadja.ch/"
+  },
+  "id": 12386579501
+}

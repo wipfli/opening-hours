@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6012444,
+      47.3507708
+    ]
+  },
+  "properties": {
+    "id": 11371618509,
+    "addr:city": "Zollikerberg",
+    "addr:housenumber": "57",
+    "addr:postcode": "8125",
+    "addr:street": "Trichtenhauserstrasse",
+    "addr:street:official_name": "Trichtenhauser Strasse",
+    "amenity": "restaurant",
+    "name": "Sushi Dou Zollikerberg",
+    "opening_hours": "17:00-21:30",
+    "phone": "+41 76 521 31 31",
+    "website": "https://sushidou.ch/"
+  },
+  "id": 11371618509
+}

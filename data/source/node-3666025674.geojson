@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5097103,
+      47.4550317
+    ]
+  },
+  "properties": {
+    "id": 3666025674,
+    "amenity": "restaurant",
+    "name": "Rossb\u00fcchel",
+    "opening_hours": "Apr-Sep: Mo-Sa 11:00-23:00; Apr-Sep: Su 11:00-22:00",
+    "phone": "+41 71 891 20 20",
+    "website": "https://rossbuechel.com/"
+  },
+  "id": 3666025674
+}

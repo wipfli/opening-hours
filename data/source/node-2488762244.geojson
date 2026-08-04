@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0045506,
+      46.2195832
+    ]
+  },
+  "properties": {
+    "id": 2488762244,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-27",
+    "contact:facebook": "https://www.facebook.com/people/Napoli-di-Gregorio/61574882413191/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g1130015-d7347073-Reviews-Napoli-Saint_Maurice_Canton_of_Valais_Swiss_Alps.html",
+    "cuisine": "pizza",
+    "email": "napolidigregorio@gmail.com",
+    "name": "Napoli di Greg\u00f3rio",
+    "opening_hours": "Tu-Sa 11:00-14:30,18:00-22:30; Su 11:00-15:00",
+    "phone": "+41 24 485 13 17",
+    "source:opening_hours": "website",
+    "website": "https://www.restaurantpizzerianapoli.ch/"
+  },
+  "id": 2488762244
+}

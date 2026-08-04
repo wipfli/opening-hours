@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5318493,
+      47.3954854
+    ]
+  },
+  "properties": {
+    "id": 2383597672,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "diet:gluten_free": "no",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "SAHltimbocca",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 350 55 45",
+    "smoking": "no",
+    "website": "https://sah-zh.ch/angebote-im-ueberblick/sahltimbocca-restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 2383597672
+}

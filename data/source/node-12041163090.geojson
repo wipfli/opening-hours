@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1602865,
+      46.203664
+    ]
+  },
+  "properties": {
+    "id": 12041163090,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Dagli Amici",
+    "opening_hours": "Mo-Th 11:00-14:30, 18:30-23:00; Fr 11:00-14:30, 18:30-00:00; Sa 18:30-00:00",
+    "website": "https://www.pizzeriadagliamici.ch/"
+  },
+  "id": 12041163090
+}

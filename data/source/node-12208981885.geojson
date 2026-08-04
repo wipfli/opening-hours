@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6076878,
+      47.5317399
+    ]
+  },
+  "properties": {
+    "id": 12208981885,
+    "amenity": "restaurant",
+    "email": "kontakt@schmatzbasel.ch",
+    "level": "1",
+    "name": "schmatz",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "opening_hours:url": "https://www.schmatzbasel.ch/restaurant.html",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 337 82 00",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.schmatzbasel.ch/",
+    "website:menu": "https://www.schmatzbasel.ch/print-menu.html"
+  },
+  "id": 12208981885
+}

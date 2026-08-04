@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5450622,
+      47.3682436
+    ]
+  },
   "properties": {
-    "@id": "node/6830405408",
+    "id": 6830405408,
     "amenity": "restaurant",
     "check_date": "2025-07-10",
     "check_date:opening_hours": "2025-06-17",
@@ -15,12 +22,5 @@
     "website": "https://www.williamsbutcherstable.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5450622,
-      47.3682436
-    ]
-  },
-  "id": "node-6830405408"
+  "id": 6830405408
 }

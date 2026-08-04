@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2396664,
+      47.1303414
+    ]
+  },
+  "properties": {
+    "id": 10815664064,
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "2503",
+    "addr:street": "Rue d'Aarberg",
+    "amenity": "restaurant",
+    "check_date": "2026-06-26",
+    "contact:facebook": "https://www.facebook.com/people/Kumo-Izakaya/100086879166546/",
+    "contact:instagram": "kumoizakaya_bienne",
+    "cuisine": "japanese",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Kumo Izakaya",
+    "opening_hours": "Tu-Th, Su 11:00-14:00, 17:00-22:00; Fr, Sa 11:00-14:00, 17:00-22:30",
+    "opening_hours:kitchen": "Tu-Th, Su 11:00-13:00, 17:00-21:00; Fr, Sa 11:00-13:00, 17:00-21:30",
+    "outdoor_seating": "no",
+    "phone": "+41 32 322 99 88",
+    "website": "https://kumo-izakaya.ch/"
+  },
+  "id": 10815664064
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3998956,
+      46.8122625
+    ]
+  },
+  "properties": {
+    "id": 13707383501,
+    "addr:housenumber": "1",
+    "addr:postcode": "7402",
+    "addr:street": "Versamerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-05",
+    "check_date:opening_hours": "2026-04-05",
+    "email": "info@altepost.swiss",
+    "name": "Hotel Alte Post",
+    "opening_hours": "Mo-Fr 17:00-23:00; Sa-Su 09:00-23:00",
+    "website": "https://altepost.swiss/"
+  },
+  "id": 13707383501
+}

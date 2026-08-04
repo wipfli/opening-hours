@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2652394,
+      47.0627993
+    ]
+  },
+  "properties": {
+    "id": 5575563614,
+    "amenity": "restaurant",
+    "name": "BUPALU",
+    "opening_hours": "Mo-Fr 09:00-14:30",
+    "smoking": "no",
+    "website": "https://www.businessparkluzern.com/restaurant-bupalu"
+  },
+  "id": 5575563614
+}

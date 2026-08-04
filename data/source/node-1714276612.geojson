@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6332805,
+      47.6970579
+    ]
+  },
+  "properties": {
+    "id": 1714276612,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8200",
+    "addr:street": "Schwertstrasse",
+    "alt_name": "Santa Lucia Schaffhausen",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "branch": "Schaffhausen",
+    "brand": "Santa Lucia",
+    "check_date": "2025-08-24",
+    "contact:phone": "+41 52 625 22 55",
+    "cuisine": "italian",
+    "level": "0",
+    "name": "Santa Lucia",
+    "opening_hours": "11:30-22:30",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "reservation": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.bindella.ch/gastronomie/santa-lucia-schaffhausen",
+    "wheelchair": "yes",
+    "wheelchair:description": "Rollstuhl WC vis-\u00e0-vis Depot Interio, Office hours"
+  },
+  "id": 1714276612
+}

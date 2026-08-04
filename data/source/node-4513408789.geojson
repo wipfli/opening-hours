@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9868152,
+      47.2252985
+    ]
+  },
+  "properties": {
+    "id": 4513408789,
+    "addr:housenumber": "28",
+    "addr:postcode": "8730",
+    "addr:street": "St\u00e4dtchen",
+    "amenity": "restaurant",
+    "check_date": "2026-05-10",
+    "check_date:opening_hours": "2026-05-10",
+    "contact:instagram": "restaurant_schaefli_uznach",
+    "cuisine": "fine_dining;regional",
+    "name": "Restaurant Sch\u00e4fli",
+    "name:de": "Restaurant Sch\u00e4fli",
+    "opening_hours": "We 12:00-14:00; Th-Fr 12:00-14:00, 18:00-23:30; Sa 18:00-23:30",
+    "phone": "+41552902690",
+    "website": "https://www.restaurant-schaefli.ch/",
+    "website:menu": "https://www.restaurant-schaefli.ch/feinessenmitfinessen",
+    "wheelchair": "no"
+  },
+  "id": 4513408789
+}

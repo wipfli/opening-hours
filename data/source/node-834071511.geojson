@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4351244,
+      46.9515314
+    ]
+  },
+  "properties": {
+    "id": 834071511,
+    "addr:city": "Bern",
+    "addr:housenumber": "1",
+    "addr:postcode": "3012",
+    "addr:street": "Hallerstrasse",
+    "alt_name": "Cr\u00eaperie Le Carrousel",
+    "amenity": "restaurant",
+    "cuisine": "creperie",
+    "email": "mail@le-carrousel.ch",
+    "name": "Le Carrousel",
+    "opening_hours": "Tu-Sa 11:30-22:30",
+    "operator": "triplette GmbH",
+    "phone": "+41 31 301 12 80",
+    "website": "https://www.le-carrousel.ch/",
+    "wheelchair": "no"
+  },
+  "id": 834071511
+}

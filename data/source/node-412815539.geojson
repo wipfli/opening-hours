@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8409917,
+      46.4602965
+    ]
+  },
+  "properties": {
+    "id": 412815539,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Torrent",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "email": "info@natwork.ch",
+    "name": "Le National",
+    "opening_hours": "Mo-Su 11:30-14:15, 17:00-23:00",
+    "phone": "+41 21 923 76 25",
+    "website": "https://www.natio.ch/"
+  },
+  "id": 412815539
+}

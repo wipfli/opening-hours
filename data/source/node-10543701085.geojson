@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5493695,
+      47.0499006
+    ]
+  },
+  "properties": {
+    "id": 10543701085,
+    "addr:city": "Goldau",
+    "addr:floor": "1",
+    "addr:housenumber": "3",
+    "addr:postcode": "6410",
+    "addr:street": "Centralstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-01",
+    "cuisine": "pizza",
+    "email": "info@baeren-steakhaus.ch",
+    "name": "Pizzeria B\u00e4ren",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 855 52 02",
+    "website": "https://www.baeren-steakhaus.ch/",
+    "wheelchair": "no"
+  },
+  "id": 10543701085
+}

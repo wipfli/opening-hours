@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403598,
+      47.3700175
+    ]
+  },
   "properties": {
-    "@id": "node/270938393",
+    "id": 270938393,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "6",
@@ -16,12 +23,5 @@
     "website": "https://www.muensterhoefli.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5403598,
-      47.3700175
-    ]
-  },
-  "id": "node-270938393"
+  "id": 270938393
 }

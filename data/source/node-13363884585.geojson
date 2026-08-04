@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2143126,
+      46.2036858
+    ]
+  },
+  "properties": {
+    "id": 13363884585,
+    "addr:housenumber": "1",
+    "addr:street": "Place du Trait\u00e9-de-Turin",
+    "amenity": "restaurant",
+    "name": "La Magie de Belle-Terre",
+    "opening_hours": "Mo 06:30-12:00; Tu-Th 06:30-22:30; Fr 06:30-12:00; Sa 07:00-12:00; Su 07:00-14:00",
+    "phone": "+41 22 346 58 41",
+    "website": "https://www.lamagiedebelleterre.ch/"
+  },
+  "id": 13363884585
+}

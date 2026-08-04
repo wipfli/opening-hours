@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0803455,
+      47.3694363
+    ]
+  },
+  "properties": {
+    "id": 11524961992,
+    "addr:city": "Suhr",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "5034",
+    "addr:street": "Gr\u00e4nicherstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@pizzatraum.ch",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizzatraum",
+    "opening_hours": "Tu-Th 11:00-13:30, 17:00-22:30; Fr-Sa 11:00-13:30, 17:00-23:00; Su 17:00-22:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:twint": "yes",
+    "phone": "+41628247050",
+    "website": "https://www.pizzatraum.ch/"
+  },
+  "id": 11524961992
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6794789,
+      46.7843397
+    ]
+  },
+  "properties": {
+    "id": 9178572031,
+    "amenity": "restaurant",
+    "email": "info@gueterschuppen-arosa.ch",
+    "name": "G\u00fcterschuppen",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "phone": "+41 81 544 79 45",
+    "website": "https://www.gueterschuppen-arosa.ch/"
+  },
+  "id": 9178572031
+}

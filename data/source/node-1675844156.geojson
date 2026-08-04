@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0407,
+      47.3912349
+    ]
+  },
+  "properties": {
+    "id": 1675844156,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Riviera",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00; Sa-Su 17:00-24:00",
+    "website": "https://riviera-aarau.ch/"
+  },
+  "id": 1675844156
+}

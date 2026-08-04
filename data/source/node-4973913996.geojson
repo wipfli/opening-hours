@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9846554,
+      47.178845
+    ]
+  },
+  "properties": {
+    "id": 4973913996,
+    "addr:city": "Le Cerneux-Veusil",
+    "addr:housenumber": "150",
+    "addr:place": "Le Cerneux-Veusil Dessus",
+    "addr:postcode": "2345",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "email": "info@hotelbeausejour.ch",
+    "name": "Beau S\u00e9jour \"chez Tante Eva\"",
+    "opening_hours": "Th 16:00-00:00; Fr 11:00-01:00; Sa 10:00-01:00; Su 10:00-00:00",
+    "phone": "+41 32 552 17 40",
+    "rooms": "8",
+    "website": "https://www.hotelbeausejour.ch/"
+  },
+  "id": 4973913996
+}

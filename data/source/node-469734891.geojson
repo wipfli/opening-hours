@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5073125,
+      46.6141279
+    ]
+  },
+  "properties": {
+    "id": 469734891,
+    "addr:postcode": "1304",
+    "amenity": "restaurant",
+    "cuisine": "mexican;pizza",
+    "email": "loscuatescossonay@gmail.com",
+    "name": "Los Cuates",
+    "opening_hours": "Tu-Sa 11:00-23:00",
+    "phone": "+41 21 862 13 04",
+    "website": "https://www.loscuates.ch",
+    "wheelchair": "limited"
+  },
+  "id": 469734891
+}

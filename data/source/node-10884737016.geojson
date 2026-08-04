@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0470287,
+      46.3570864
+    ]
+  },
+  "properties": {
+    "id": 10884737016,
+    "addr:city": "M\u00f6rel",
+    "addr:housenumber": "33",
+    "addr:postcode": "3983",
+    "addr:street": "Furkastrasse",
+    "amenity": "restaurant",
+    "name": "Furka",
+    "opening_hours": "Tu-Th 09:00-22:30; Fr, Sa 09:00-23:00",
+    "website": "https://www.minand.ch/furka"
+  },
+  "id": 10884737016
+}

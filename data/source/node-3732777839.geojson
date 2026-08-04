@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8548459,
+      47.3380393
+    ]
+  },
+  "properties": {
+    "id": 3732777839,
+    "amenity": "restaurant",
+    "capacity": "70",
+    "cuisine": "regional",
+    "name": "Restaurant Ochsen",
+    "opening_hours": "We-Mo 09:00-24:00; Su 09:00-21:00",
+    "phone": "+41 43 833 67 27",
+    "smoking": "no",
+    "website": "https://www.ochsen-baeretswil.ch/"
+  },
+  "id": 3732777839
+}

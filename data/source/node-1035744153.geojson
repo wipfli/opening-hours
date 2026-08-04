@@ -1,14 +1,21 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5288696,
+      47.3760618
+    ]
+  },
   "properties": {
-    "@id": "node/1035744153",
+    "id": 1035744153,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "64",
     "addr:postcode": "8004",
     "addr:street": "M\u00fcllerstrasse",
     "amenity": "restaurant",
-    "check_date": "2024-06-19",
+    "check_date": "2026-07-12",
     "cuisine": "cake;tea;coffee_shop",
     "diet:vegan": "only",
     "diet:vegetarian": "only",
@@ -18,12 +25,5 @@
     "website": "https://vegelateria.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5288696,
-      47.3760618
-    ]
-  },
-  "id": "node-1035744153"
+  "id": 1035744153
 }

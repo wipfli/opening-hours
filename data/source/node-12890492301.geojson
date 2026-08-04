@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5151191,
+      46.8535787
+    ]
+  },
+  "properties": {
+    "id": 12890492301,
+    "addr:housenumber": "32",
+    "addr:postcode": "7000",
+    "addr:street": "Ringstrasse",
+    "amenity": "restaurant",
+    "cuisine": "fish;french;german;italian;local;mediterranean;regional",
+    "name": "Swisscom Eldora Kantine",
+    "opening_hours": "Mo-Fr 00:00-24:00",
+    "self_service": "only",
+    "website": "https://swisscom.eldora.ch/de/chu-rin32"
+  },
+  "id": 12890492301
+}

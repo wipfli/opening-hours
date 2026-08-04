@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.631927,
+      46.5186325
+    ]
+  },
+  "properties": {
+    "id": 1263690648,
+    "addr:housenumber": "4",
+    "addr:postcode": "1003",
+    "addr:street": "Rue du Midi",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "sushiaux5epices@hotmail.com",
+    "name": "Sushi aux 5 \u00e9pices",
+    "opening_hours": "Su, Tu 17:00-21:00; We-Th 11:30-14:30, 17:00-21:00; Fr 11:30-14:30, 17:00-21:30; Sa 12:00-15:00, 17:00-21:30",
+    "phone": "+41 21 553 08 08;+41 76 717 21 31",
+    "website": "https://www.sushiaux5epices.ch",
+    "website:menu": "https://www.sushiaux5epices.ch/menu/menu.pdf"
+  },
+  "id": 1263690648
+}

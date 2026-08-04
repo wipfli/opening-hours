@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7313826,
+      47.4989606
+    ]
+  },
+  "properties": {
+    "id": 270908998,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "zum Sch\u00e4fli",
+    "opening_hours": "Mo-Fr 08:30-00:00; Sa 10:30-00:00",
+    "outdoor_seating": "pedestrian_zone",
+    "website": "https://www.restaurant-schaefli-winterthur.ch/",
+    "wheelchair": "no"
+  },
+  "id": 270908998
+}

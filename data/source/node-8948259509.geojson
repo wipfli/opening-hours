@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5280089,
+      46.9909863
+    ]
+  },
+  "properties": {
+    "id": 8948259509,
+    "addr:city": "Gersau",
+    "addr:housenumber": "8",
+    "addr:postcode": "6442",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Senthil's Seerestaurant Pauli",
+    "opening_hours": "Tu 17:00-23:00; We-Sa 10:00-23:00; Su 10:00-22:00",
+    "phone": "+41 41 828 22 80",
+    "website": "https://seerestaurant-pauli.ch/"
+  },
+  "id": 8948259509
+}

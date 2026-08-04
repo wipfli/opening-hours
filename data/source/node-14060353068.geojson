@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0806855,
+      46.0924638
+    ]
+  },
+  "properties": {
+    "id": 14060353068,
+    "amenity": "restaurant",
+    "contact:city": "Chemin-Dessous",
+    "contact:country": "CH",
+    "contact:facebook": "https://www.facebook.com/lebelvedere.valais",
+    "contact:housename": "Le Belv\u00e9d\u00e8re",
+    "contact:instagram": "https://www.instagram.com/le_belvedere_/",
+    "contact:postcode": "1927",
+    "email": "info@lebelvedere.ch",
+    "fax": "+41 277231403",
+    "name": "Le Belv\u00e8dere",
+    "opening_hours": "We-Sa 10:00-15:00,18:00-23:30; Su 10:00-16:00",
+    "phone": "+41277231400",
+    "source:opening_hours": "favebook + website",
+    "website": "https://www.lebelvedere.ch/"
+  },
+  "id": 14060353068
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339963,
+      47.3686567
+    ]
+  },
   "properties": {
-    "@id": "node/1721512241",
+    "id": 1721512241,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -16,12 +23,5 @@
     "website": "https://www.gourmetburger.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5339963,
-      47.3686567
-    ]
-  },
-  "id": "node-1721512241"
+  "id": 1721512241
 }

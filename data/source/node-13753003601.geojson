@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4719692,
+      46.3090065
+    ]
+  },
+  "properties": {
+    "id": 13753003601,
+    "addr:housenumber": "26",
+    "addr:postcode": "3963",
+    "addr:street": "Route du Rawyl",
+    "amenity": "restaurant",
+    "check_date": "2026-04-22",
+    "check_date:opening_hours": "2026-04-22",
+    "cuisine": "breakfast;chicken;coffee_shop;fine_dining;local;pancake;pizza",
+    "email": "crans-cafe@bluewin.ch",
+    "internet_access": "wlan",
+    "name": "Crans-Cafe - Restaurant - Pizzeria",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "website": "http://crans-cafe.ch",
+    "website:menu": "http://crans-cafe.ch"
+  },
+  "id": 13753003601
+}

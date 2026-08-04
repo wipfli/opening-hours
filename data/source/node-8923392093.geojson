@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4604465,
+      46.693785
+    ]
+  },
+  "properties": {
+    "id": 8923392093,
+    "amenity": "restaurant",
+    "cuisine": "crepe;ice_cream",
+    "name": "Le Pectinarium",
+    "opening_hours": "We-Su 10:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 730 53 41",
+    "website": "https://www.lepassager.com/"
+  },
+  "id": 8923392093
+}

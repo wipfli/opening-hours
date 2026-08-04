@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4550161,
+      46.9586076
+    ]
+  },
+  "properties": {
+    "id": 265627185,
+    "alt_name": "Restaurant Grotto Ticino, Pizzeria Cafiero",
+    "amenity": "restaurant",
+    "contact:addr": "Breitenrainplatz 26, 3014 Bern",
+    "contact:email": "info@grotto-ticino.ch",
+    "contact:fax": "+41 31 3317255",
+    "contact:phone": "+41 31 3319677",
+    "contact:website": "http://www.grotto-ticino.ch/kontakt/",
+    "cuisine": "italian;pizza",
+    "name": "Grotto Ticino",
+    "opening_hours": "Tu-Sa 12:00-23:00",
+    "operator": "Fam. Cafiero",
+    "source": "survey and website",
+    "website": "https://www.grotto-ticino.ch/"
+  },
+  "id": 265627185
+}

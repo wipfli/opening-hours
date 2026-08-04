@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.985293,
+      47.3209952
+    ]
+  },
+  "properties": {
+    "id": 6572484507,
+    "addr:city": "Safenwil",
+    "addr:housenumber": "1c",
+    "addr:postcode": "5745",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Ristorante Lucca",
+    "opening_hours": "Mo-Su 09:00-13:30,14:00-17:30,18:00-22:30",
+    "opening_hours:kitchen": "Mo-Su 11:00-13:30,18:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.lucca-safenwil.ch/"
+  },
+  "id": 6572484507
+}

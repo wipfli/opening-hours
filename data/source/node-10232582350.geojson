@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5295109,
+      46.5179112
+    ]
+  },
+  "properties": {
+    "id": 10232582350,
+    "addr:city": "Pr\u00e9verenges",
+    "addr:housenumber": "27",
+    "addr:postcode": "1028",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Asia Flavor",
+    "opening_hours": "Mo-Su 11:30-14:30,17:30-22:00",
+    "phone": "+41 21 551 75 75; +41 76 530 87 65",
+    "stroller": "yes",
+    "takeaway": "yes",
+    "website": "https://asiaflavor.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 10232582350
+}

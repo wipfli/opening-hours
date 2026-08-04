@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5432314,
+      47.3706365
+    ]
+  },
   "properties": {
-    "@id": "node/4732388222",
+    "id": 4732388222,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "40",
@@ -20,12 +27,5 @@
     "wikimedia_commons": "Category:Zunfthaus zur Zimmerleuten",
     "wikipedia": "en:Zunfthaus zur Zimmerleuten"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5432314,
-      47.3706365
-    ]
-  },
-  "id": "node-4732388222"
+  "id": 4732388222
 }

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8442522,
+      46.4593147
+    ]
+  },
+  "properties": {
+    "id": 1932766554,
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "diet:vegetarian": "yes",
+    "name": "Le Syrien",
+    "opening_hours": "Jun-Sep 10:00-22:00; 10:00-20:00",
+    "phone": "+41 21 921 02 57",
+    "takeaway": "yes",
+    "website": "https://www.local.ch/fr/d/vevey/1800/cuisine-orientale/le-syrien-yKqVNnXYJiFRsWBGTwz-ew"
+  },
+  "id": 1932766554
+}

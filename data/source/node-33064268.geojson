@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4307582,
+      46.9539906
+    ]
+  },
+  "properties": {
+    "id": 33064268,
+    "amenity": "restaurant",
+    "check_date": "2023-11-28",
+    "cuisine": "oriental",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Ali Baba",
+    "opening_hours": "Mo-Fr 09:00-15:30",
+    "operator": "Ali Bi\u00e7er",
+    "payment:american_express": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 305 39 00",
+    "takeaway": "yes",
+    "website": "https://www.alibaba-bern.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 33064268
+}

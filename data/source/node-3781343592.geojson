@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0944685,
+      46.2225489
+    ]
+  },
+  "properties": {
+    "id": 3781343592,
+    "addr:housenumber": "18",
+    "addr:street": "Chemin des Coquelicots",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 restaurant de l'aviation",
+    "opening_hours": "Mo 06:00-15:00; Tu-Fr 06:00-00:00; Sa 09:00-00:00",
+    "phone": "+41223411232",
+    "website": "https://laviation.ch"
+  },
+  "id": 3781343592
+}

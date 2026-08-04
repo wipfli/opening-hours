@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7212681,
+      47.5012974
+    ]
+  },
+  "properties": {
+    "id": 548920518,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@osteriadelfiore.ch",
+    "name": "Osteria del fiore",
+    "opening_hours": "Tu-Sa 18:00-23:00",
+    "phone": "+41 52 202 44 88",
+    "website": "https://www.osteriadelfiore.ch/"
+  },
+  "id": 548920518
+}

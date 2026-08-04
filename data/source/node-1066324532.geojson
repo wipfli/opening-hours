@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4487055,
+      46.9481471
+    ]
+  },
+  "properties": {
+    "id": 1066324532,
+    "alt_name": "The BEEF Steakhouse & Bar",
+    "amenity": "restaurant",
+    "contact:addr": "Kramgasse 74, 3011 Bern",
+    "contact:email": "reservation@beef-steakhouse.ch",
+    "contact:facebook": "https://www.facebook.com/beefsteakhouse",
+    "contact:fax": "+41 31 3116403",
+    "contact:phone": "+41 31 3116400",
+    "name": "The BEEF",
+    "opening_hours": "Mo-Fr 11:30-23:00; Sa 09:00-23:00; Su 10:00-17:00",
+    "operator": "BEEF Steakhouse AG",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.beef-steakhouse.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1066324532
+}

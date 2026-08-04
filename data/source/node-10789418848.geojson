@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.598452,
+      47.354368
+    ]
+  },
+  "properties": {
+    "id": 10789418848,
+    "amenity": "restaurant",
+    "name": "Wiesli 30",
+    "opening_date": "2023-04-06",
+    "opening_hours": "Mo-We, Su 08:00-18:00; Th,Fr 08:00-23:30",
+    "start_date": "2023-04-06",
+    "website": "https://wiesli30.ch/"
+  },
+  "id": 10789418848
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5115027,
+      47.0057026
+    ]
+  },
+  "properties": {
+    "id": 8998924190,
+    "addr:city": "Bad Ragaz",
+    "addr:housenumber": "41",
+    "addr:postcode": "7310",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "name": "Bistro im Park",
+    "opening_hours": "We-Su 11:00-19:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.camping-badragaz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8998924190
+}

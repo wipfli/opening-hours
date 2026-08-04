@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4925606,
+      47.3837329
+    ]
+  },
+  "properties": {
+    "id": 12171818443,
+    "amenity": "restaurant",
+    "level": "1",
+    "name": "Intermezzo",
+    "opening_hours": "Mo-Th 11:00-13:30",
+    "website": "https://www.buckhuser.ch/de/intermezzo"
+  },
+  "id": 12171818443
+}

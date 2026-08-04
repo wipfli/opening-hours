@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4311317,
+      46.9542251
+    ]
+  },
+  "properties": {
+    "id": 3272891441,
+    "amenity": "restaurant",
+    "check_date": "2026-03-17",
+    "cuisine": "ramen",
+    "name": "Mondo",
+    "opening_hours": "Tu-Fr 11:45-14:00,18:00-22:30; Sa 18:00-22:30",
+    "opening_hours:kitchen": "Tu-Fr 11:45-13:30,18:00-21:00; Sa 18:00-21:00",
+    "website": "https://www.mondo-bern.ch"
+  },
+  "id": 3272891441
+}

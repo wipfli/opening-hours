@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277141,
+      47.3847907
+    ]
+  },
   "properties": {
-    "@id": "node/2904476136",
+    "id": 2904476136,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "146",
     "addr:postcode": "8005",
@@ -19,12 +26,5 @@
     "wheelchair": "no",
     "wheelchair:description": "Terassensitzpl\u00e4tze vor dem Restaurant"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5277141,
-      47.3847907
-    ]
-  },
-  "id": "node-2904476136"
+  "id": 2904476136
 }

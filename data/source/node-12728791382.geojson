@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.174734,
+      47.6483573
+    ]
+  },
+  "properties": {
+    "id": 12728791382,
+    "addr:city": "Kreuzlingen",
+    "addr:country": "CH",
+    "addr:housenumber": "64",
+    "addr:postcode": "8280",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;burger",
+    "email": "info@pirata-pizza.ch",
+    "name": "Pizza Pirata",
+    "opening_hours": "Tu-Th 11:30-13:30,17:30-22:00; Fr 11:30-13:30,17:30-23:00; Sa 17:30-23:00; Su 17:00-22:00",
+    "phone": "+41 71 672 55 00",
+    "website": "https://www.pirata-pizza.ch/"
+  },
+  "id": 12728791382
+}

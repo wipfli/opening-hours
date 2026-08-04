@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6599507,
+      47.4610593
+    ]
+  },
+  "properties": {
+    "id": 682404511,
+    "addr:housename": "Restaurant Sternen",
+    "addr:housenumber": "203",
+    "addr:postcode": "8309",
+    "addr:street": "Alte Winterthurerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sternen",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-21:30; Sa-Su 11:00-21:30",
+    "phone": "+41 44 837 09 30",
+    "website": "https://pizzasternen.ch/",
+    "website:menu": "https://pizzasternen.ch/menu/"
+  },
+  "id": 682404511
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8422116,
+      47.0946923
+    ]
+  },
+  "properties": {
+    "id": 8988949261,
+    "amenity": "restaurant",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegetarian": "no",
+    "name": "Restaurant des Tunnles",
+    "opening_hours": "Mo 11:00-14:30; Tu-Fr 11:00-14:30, 18:30-22:30; Sa 18:30-23:30",
+    "phone": "+41 32 968 20 01",
+    "website": "https://www.restaurantdestunnels.ch/",
+    "wheelchair": "no"
+  },
+  "id": 8988949261
+}

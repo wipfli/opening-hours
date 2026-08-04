@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5100698,
+      47.3697414
+    ]
+  },
   "properties": {
-    "@id": "node/267879344",
+    "id": 267879344,
     "access:covid19": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -23,12 +30,5 @@
     "website": "https://www.shangrila-tibet.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5100698,
-      47.3697414
-    ]
-  },
-  "id": "node-267879344"
+  "id": 267879344
 }

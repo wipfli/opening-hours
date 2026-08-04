@@ -1,2 +1,3 @@
-overpass-turbo-results.geojson
 .venv
+osm_extract.geojson
+data/switzerland-latest.osm.pbf

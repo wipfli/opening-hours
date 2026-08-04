@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.372755,
+      47.4204026
+    ]
+  },
+  "properties": {
+    "id": 7193108084,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "1",
+    "addr:postcode": "9000",
+    "addr:street": "Haldenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "european",
+    "diet:fish": "yes",
+    "diet:gluten_free": "yes",
+    "diet:healthy": "yes",
+    "diet:lactose_free": "yes",
+    "diet:local": "yes",
+    "diet:organic": "yes",
+    "diet:pescetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Soleil d'Or",
+    "opening_hours": "Tu-Sa 17:30-00:00",
+    "phone": "+41 79 886 08 08",
+    "stars": "5",
+    "website": "https://restaurant-soleildor.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7193108084
+}

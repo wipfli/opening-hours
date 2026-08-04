@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9121072,
+      47.5649358
+    ]
+  },
+  "properties": {
+    "id": 8448947493,
+    "addr:city": "Frauenfeld",
+    "addr:housenumber": "8",
+    "addr:postcode": "8500",
+    "addr:street": "Oststrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Little Italy",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-22:30;PH off",
+    "website": "http://www.pizzeria-littleitaly.ch/"
+  },
+  "id": 8448947493
+}

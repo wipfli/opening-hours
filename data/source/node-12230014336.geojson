@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8650714,
+      46.533564
+    ]
+  },
+  "properties": {
+    "id": 12230014336,
+    "amenity": "restaurant",
+    "name": "Restaurant Survih",
+    "opening_hours": "Dec 21-Mar 09: Mo-Su 09:30-16:00",
+    "website": "https://skilift-survih.ch/restaurant/"
+  },
+  "id": 12230014336
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8199342,
+      46.7914123
+    ]
+  },
+  "properties": {
+    "id": 3198331110,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "7270",
+    "addr:street": "Talstrasse",
+    "amenity": "restaurant",
+    "name": "Pulsa Fonduestube",
+    "opening_hours": "Mo-Su 07:00-11:00,18:00-21:30",
+    "website": "https://www.hotelgrischa.ch/de/5-restaurants/pulsa-fonduestube/"
+  },
+  "id": 3198331110
+}

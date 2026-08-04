@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8142332,
+      46.7472899
+    ]
+  },
+  "properties": {
+    "id": 9456846397,
+    "amenity": "restaurant",
+    "check_date": "2024-07-28",
+    "name": "Hubelh\u00fctte",
+    "opening_hours": "We-Su 10:00-16:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.davosklostersmountains.ch/de/mountains/gastro-events/restaurants-bars/Hubelhuette_g_556"
+  },
+  "id": 9456846397
+}

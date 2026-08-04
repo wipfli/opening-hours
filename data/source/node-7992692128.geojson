@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7276785,
+      47.5035992
+    ]
+  },
+  "properties": {
+    "id": 7992692128,
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "1",
+    "name": "Gr\u00fcner Saal",
+    "opening_hours": "Mo-Fr 11:00-14:00; PH off",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:00; PH off",
+    "operator": "SV (Schweiz) AG",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://gruener-saal.sv-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7992692128
+}

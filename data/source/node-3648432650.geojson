@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5500364,
+      46.9620475
+    ]
+  },
+  "properties": {
+    "id": 3648432650,
+    "addr:city": "La Br\u00e8vine",
+    "addr:country": "CH",
+    "addr:postcode": "2406",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chez Bichon",
+    "opening_hours": "Th,Su 09:00-17:00; Fr,Sa 09:00-23:00",
+    "phone": "+41 32 935 12 58",
+    "website": "https://www.restaurant-chez-bichon-brevine.ch/fr/"
+  },
+  "id": 3648432650
+}

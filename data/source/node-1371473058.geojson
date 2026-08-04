@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9476324,
+      46.0044
+    ]
+  },
+  "properties": {
+    "id": 1371473058,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;regional",
+    "level": "0",
+    "name": "AnaCapri",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "operator": "AnaCapri Ristorante SA",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 922 53 00",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.anacapri.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1371473058
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1470323,
+      46.2041891
+    ]
+  },
+  "properties": {
+    "id": 1105370307,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "42",
+    "addr:postcode": "1204",
+    "addr:street": "Rue du Rh\u00f4ne",
+    "amenity": "restaurant",
+    "name": "rooftop\u00b042",
+    "opening_hours": "Tu-Sa 10:00-02:00",
+    "phone": "+41 22 346 77 00",
+    "website": "https://www.rooftop42.com/"
+  },
+  "id": 1105370307
+}

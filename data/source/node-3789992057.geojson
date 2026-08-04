@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8979862,
+      47.556738
+    ]
+  },
+  "properties": {
+    "id": 3789992057,
+    "addr:city": "Frauenfeld",
+    "addr:housenumber": "178",
+    "addr:postcode": "8500",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-14",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@gagakiki.com",
+    "level": "0",
+    "name": "Gk - gaga kiki",
+    "opening_hours": "Mo-We 10:45-14:00,16:00-21:00; Th-Fr 10:45-14:00,16:00-22:00; Sa 11:45-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 76 680 77 14",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "takeaway:covid19": "yes",
+    "website": "https://gagakiki.com/",
+    "wheelchair": "limited"
+  },
+  "id": 3789992057
+}

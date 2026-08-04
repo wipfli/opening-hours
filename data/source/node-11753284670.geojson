@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1349093,
+      46.1896485
+    ]
+  },
+  "properties": {
+    "id": 11753284670,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "1227",
+    "addr:street": "Avenue Industrielle",
+    "amenity": "restaurant",
+    "email": "ciao@mama-geneve.ch",
+    "name": "Mama cantina",
+    "opening_hours": "We-Fr 10:00-15:00; Mo-Tu 10:00-16:00",
+    "phone": "+41 76 830 90 24",
+    "website": "https://mama-geneve.ch"
+  },
+  "id": 11753284670
+}

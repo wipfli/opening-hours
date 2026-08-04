@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1304298,
+      46.4736665
+    ]
+  },
+  "properties": {
+    "id": 2420265362,
+    "amenity": "restaurant",
+    "internet_access": "yes",
+    "name": "Le Caribou",
+    "opening_hours": "Mo-Th, Su 11:00-23:00; Fr, Sa 11:00-00:00",
+    "phone": "+41 26 924 74 70",
+    "takeaway": "yes",
+    "website": "https://cariboubar.ch/"
+  },
+  "id": 2420265362
+}

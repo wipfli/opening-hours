@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9406178,
+      46.9965692
+    ]
+  },
+  "properties": {
+    "id": 11698560628,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "10",
+    "addr:street": "Avenue de Clos-Brochet",
+    "amenity": "restaurant",
+    "facebook": "https://www.facebook.com/people/Restaurant-Trait-dunion/100095147604929/",
+    "instagram": "restauranttraitdunion",
+    "name": "Trait d'Union",
+    "opening_hours": "Mo-Fr 12:00-14:00",
+    "phone": "+41 77 440 94 51",
+    "website": "https://restauranttraitdunion.my.canva.site/"
+  },
+  "id": 11698560628
+}

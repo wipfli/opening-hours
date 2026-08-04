@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8255597,
+      47.099812
+    ]
+  },
+  "properties": {
+    "id": 12277879759,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:housenumber": "61",
+    "addr:postcode": "2300",
+    "addr:street": "Avenue L\u00e9opold-Robert",
+    "amenity": "restaurant",
+    "check_date": "2026-03-28",
+    "cuisine": "middle_eastern",
+    "diet:halal": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Chef Falafel",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-20:30; Sa-Su 11:00-14:30,18:00-20:30",
+    "phone": "+41 79 199 09 87",
+    "website": "https://www.cheffalafel.com/"
+  },
+  "id": 12277879759
+}

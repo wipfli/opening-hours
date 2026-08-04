@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9736515,
+      46.0197405
+    ]
+  },
+  "properties": {
+    "id": 3342881950,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Ristorante-Pizzeria del Sole",
+    "opening_hours": "Mo-Fr 07:30-00:00, Sa-Su 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 941 74 61",
+    "takeaway": "yes",
+    "website": "https://www.ristorantedelsole.ch/"
+  },
+  "id": 3342881950
+}

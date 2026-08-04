@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6392091,
+      47.6957833
+    ]
+  },
+  "properties": {
+    "id": 9668611117,
+    "addr:housenumber": "21",
+    "addr:street": "Unterstadt",
+    "amenity": "restaurant",
+    "name": "AL ANDALUS",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:30-23:00; Su 17:00-23:00",
+    "phone": "+41 52 625 60 98",
+    "website": "https://www.alandalus-sh.ch/"
+  },
+  "id": 9668611117
+}

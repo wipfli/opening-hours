@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4319093,
+      46.9370386
+    ]
+  },
+  "properties": {
+    "id": 666998446,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "32",
+    "addr:postcode": "3007",
+    "addr:street": "Seftigenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Perla Nera",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:30-23:00; Sa 17:00-23:00; Su 11:00-15:00,17:30-22:30",
+    "website": "https://www.perla-nera.ch"
+  },
+  "id": 666998446
+}

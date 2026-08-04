@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5984948,
+      47.5542064
+    ]
+  },
+  "properties": {
+    "id": 2579603914,
+    "addr:city": "Basel",
+    "addr:housenumber": "60",
+    "addr:postcode": "4052",
+    "addr:street": "St. Alban-Vorstadt",
+    "amenity": "restaurant",
+    "contact:phone": "+41 61 271 60 40",
+    "cuisine": "regional;seasonal",
+    "indoor_seating": "yes",
+    "name": "St. Alban-Eck",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-24:00; Sa 18:00-24:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://stalbaneck.ch/"
+  },
+  "id": 2579603914
+}

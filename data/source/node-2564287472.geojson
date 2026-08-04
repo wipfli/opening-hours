@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4479979,
+      46.9440292
+    ]
+  },
+  "properties": {
+    "id": 2564287472,
+    "addr:city": "Bern",
+    "addr:housenumber": "4",
+    "addr:postcode": "3005",
+    "addr:street": "Helvetiaplatz",
+    "alt_name": "Restaurant las alps",
+    "amenity": "restaurant",
+    "email": "lasalps@alpinesmuseum.ch",
+    "name": "las alps",
+    "opening_hours": "Mo 09:30-14:00; Tu-Fr 09:30-17:00; Sa-Su 10:00-17:00",
+    "phone": "+41 31 331 22 22",
+    "website": "https://www.alpinesmuseum.ch/de/restaurant"
+  },
+  "id": 2564287472
+}

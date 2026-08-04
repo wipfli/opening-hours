@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9870777,
+      46.3171944
+    ]
+  },
+  "properties": {
+    "id": 12206989090,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "name": "Sushi o Place",
+    "opening_hours": "Mo-Su 11:00-14:00,17:00-22:00",
+    "takeaway": "no",
+    "website": "www.sushi-place.ch",
+    "wheelchair": "yes"
+  },
+  "id": 12206989090
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5203837,
+      47.4763708
+    ]
+  },
+  "properties": {
+    "id": 343000691,
+    "amenity": "restaurant",
+    "check_date": "2026-03-30",
+    "check_date:opening_hours": "2026-03-30",
+    "cuisine": "italian;pizza",
+    "name": "Il Castello",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-23:00; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://ristorante-castello.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 343000691
+}

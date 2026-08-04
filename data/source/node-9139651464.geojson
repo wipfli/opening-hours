@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6206016,
+      47.6802722
+    ]
+  },
+  "properties": {
+    "id": 9139651464,
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "diet:vegetarian": "yes",
+    "name": "Nuevo Sombrero",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:30; Sa,Su 11:00-14:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.elsombrero.ch/"
+  },
+  "id": 9139651464
+}

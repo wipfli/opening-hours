@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4178124,
+      46.9463221
+    ]
+  },
+  "properties": {
+    "id": 282772930,
+    "alt_name": "Ristorante - Pizzeria da Davide",
+    "amenity": "restaurant",
+    "contact:addr": "Freiburgstrasse 68, 3008 Bern",
+    "contact:email": "info@settebello-bern.ch",
+    "contact:fax": "+41 32 3331870",
+    "contact:phone": "+41 31 3717777",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Ristaurante Pizzeria Settebello",
+    "opening_hours": "Mo-Fr 11:00-14:00, Sa 17:00-00:30, Mo-Fr 17:00-23:00",
+    "operator": "Ristorante Pizzeria da Davide GmbH",
+    "outdoor_seating": "yes",
+    "panoramax": "ab1b91b6-caa5-449e-bc92-3a47b8b7bd09",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:qr_code": "yes",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://www.settebello-bern.ch/"
+  },
+  "id": 282772930
+}

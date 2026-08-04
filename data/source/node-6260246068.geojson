@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3051671,
+      47.0758632
+    ]
+  },
+  "properties": {
+    "id": 6260246068,
+    "addr:city": "Lyss",
+    "addr:housenumber": "16",
+    "addr:postcode": "3250",
+    "addr:street": "Bielstrasse",
+    "amenity": "restaurant",
+    "email": "info@petitpalacelyss.ch",
+    "name": "Petit Palace",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:30; Sa 15:00-23:30; Su,Mo off",
+    "phone": "+41 32 384 13 47",
+    "website": "https://www.restaurantpetitpalace.ch/"
+  },
+  "id": 6260246068
+}

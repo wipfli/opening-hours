@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9477004,
+      46.2530642
+    ]
+  },
+  "properties": {
+    "id": 6631280485,
+    "addr:postcode": "1870",
+    "addr:street": "Ruelle des Anges",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Downtown",
+    "opening_hours": "We-Fr 11:30-13:30, 18:30-21:00; Tu 18:30-21:00; Sa 12:00-13:45, 18:30-21:00",
+    "website": "https://downtownburger.ch/"
+  },
+  "id": 6631280485
+}

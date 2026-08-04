@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.918451,
+      45.9841551
+    ]
+  },
+  "properties": {
+    "id": 13175399801,
+    "addr:city": "Montagnola",
+    "addr:housenumber": "72",
+    "addr:postcode": "6926",
+    "addr:street": "Via Collina d'Oro",
+    "amenity": "restaurant",
+    "email": "info@osteriadellabellavista.com",
+    "name": "Osteria Bellavista",
+    "opening_hours": "Mo 17:00-23:00, Tu-Fr 12:00-14:30,17:30-23:00, Sa 11:30-14:30,17:00-23:30, Su 12:00-14:30, 17:00-23:30",
+    "phone": "+41 91 985 89 12",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.osteriadellabellavista.com/"
+  },
+  "id": 13175399801
+}

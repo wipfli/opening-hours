@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5270244,
+      47.3720798
+    ]
+  },
   "properties": {
-    "@id": "node/469315522",
+    "id": 469315522,
     "amenity": "restaurant",
     "check_date": "2023-10-27",
     "diet:vegan": "no",
@@ -13,12 +20,5 @@
     "website": "http://www.restaurant-werd.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5270244,
-      47.3720798
-    ]
-  },
-  "id": "node-469315522"
+  "id": 469315522
 }

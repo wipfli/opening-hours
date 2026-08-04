@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.365703,
+      47.421544
+    ]
+  },
+  "properties": {
+    "id": 959680098,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "7",
+    "addr:postcode": "9000",
+    "addr:street": "Gr\u00fcnbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "Brasserie LOK",
+    "opening_hours": "Mo-Sa 10:00-23:00; Su 09:30-21:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.brasserielok.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 959680098
+}

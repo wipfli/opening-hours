@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2960532,
+      47.052581
+    ]
+  },
+  "properties": {
+    "id": 1504787042,
+    "amenity": "restaurant",
+    "check_date": "2023-11-18",
+    "cuisine": "indian",
+    "name": "GourmIndia",
+    "opening_hours": "Mo-Fr 11:45-13:45,17:30-22:00; Sa-Su 17:30-22:00",
+    "phone": "+41 41 250 43 43",
+    "website": "https://www.gourmindialuzern.com/"
+  },
+  "id": 1504787042
+}

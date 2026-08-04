@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0816459,
+      46.4672588
+    ]
+  },
+  "properties": {
+    "id": 4922475621,
+    "amenity": "restaurant",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegetarian": "only",
+    "email": "info@hdv-rossiniere.com",
+    "name": "H\u00f4tel de Ville",
+    "name:fr": "H\u00f4tel de Ville",
+    "opening_hours": "Mo,Tu,Th-Sa 08:30-23:00; We off; Su 08:30-22:00",
+    "phone": "+41 26 924 65 40",
+    "tourism": "guest_house",
+    "website": "https://www.hotel-rossiniere.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4922475621
+}

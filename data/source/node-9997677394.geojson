@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5373957,
+      47.376313
+    ]
+  },
   "properties": {
-    "@id": "node/9997677394",
+    "id": 9997677394,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "51",
     "addr:postcode": "8001",
@@ -12,12 +19,5 @@
     "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 12:00-20:00",
     "website": "https://www.riceup-restaurant.com/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5373957,
-      47.376313
-    ]
-  },
-  "id": "node-9997677394"
+  "id": 9997677394
 }

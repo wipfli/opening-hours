@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4450707,
+      46.9569712
+    ]
+  },
+  "properties": {
+    "id": 620033213,
+    "amenity": "restaurant",
+    "contact:addr": "Lorrainestrasse 32, 3013 Bern",
+    "contact:instagram": "bayou.bar.bern",
+    "cuisine": "american",
+    "email": "reservationen@bayou-bar.ch",
+    "level": "-1",
+    "name": "Bayou Bar & Grill",
+    "opening_hours": "Mo-Tu 11:30-14:00; We-Fr 11:30-14:00, 17:00-00:30; Sa 17:00-00:30",
+    "phone": "+41 31 503 19 36",
+    "website": "https://bayou-bar.ch/",
+    "wheelchair": "no"
+  },
+  "id": 620033213
+}

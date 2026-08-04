@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.727372,
+      47.4979565
+    ]
+  },
+  "properties": {
+    "id": 247766478,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "59",
+    "addr:postcode": "8400",
+    "addr:street": "Steinberggasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-15",
+    "diet:vegetarian": "yes",
+    "email": "winterthur@grepery.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "grepery",
+    "opening_hours": "Mo-Th 09:00-24:00; Fr-Sa 09:00-01:00; Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 52 202 45 45",
+    "website": "https://www.grepery.ch/winterthur/",
+    "wheelchair": "limited"
+  },
+  "id": 247766478
+}

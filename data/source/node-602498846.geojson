@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4525114,
+      46.9571464
+    ]
+  },
+  "properties": {
+    "id": 602498846,
+    "addr:city": "Bern",
+    "addr:housenumber": "25",
+    "addr:postcode": "3014",
+    "addr:street": "Moserstrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "only",
+    "email": "ks@3dosha.ch",
+    "name": "3dosha ayurveda",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-22:00; Sa 17:30-22:00",
+    "operator": "3dosha ayurveda GmbH",
+    "phone": "+41 31 331 13 73",
+    "takeaway": "yes",
+    "website": "https://www.3dosha.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 602498846
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7170937,
+      47.6926899
+    ]
+  },
+  "properties": {
+    "id": 388291550,
+    "amenity": "restaurant",
+    "name": "Restaurant Waldheim",
+    "opening_hours": "Th-Su 09:30-23:00",
+    "website": "https://www.restaurant-waldheim.com/"
+  },
+  "id": 388291550
+}

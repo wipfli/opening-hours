@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5111991,
+      46.8140092
+    ]
+  },
+  "properties": {
+    "id": 1096485623,
+    "amenity": "restaurant",
+    "name": "Edelweish\u00fctte",
+    "opening_hours": "Mo-Su 10:00-16:00",
+    "phone": "+41 81 252 56 84",
+    "website": "https://www.edelweisshuette.ch/"
+  },
+  "id": 1096485623
+}

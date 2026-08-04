@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5943075,
+      47.4114292
+    ]
+  },
+  "properties": {
+    "id": 3268664478,
+    "addr:housenumber": "1",
+    "addr:street": "Richtiarkade",
+    "amenity": "restaurant",
+    "check_date": "2025-07-05",
+    "name": "La Esquina",
+    "name:gsw": "scharfe Egge",
+    "opening_hours": "Mo-Th 11:30-14:00,17:00-23:00; Fr 11:30-14:00,16:00-23:00",
+    "smoking": "no",
+    "website": "https://www.laesquina.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3268664478
+}

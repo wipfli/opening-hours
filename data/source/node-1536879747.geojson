@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314693,
+      47.34398
+    ]
+  },
+  "properties": {
+    "id": 1536879747,
+    "addr:housenumber": "29",
+    "addr:postcode": "8038",
+    "addr:street": "Albisstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-25",
+    "check_date:opening_hours": "2026-05-25",
+    "cuisine": "thai",
+    "level": "0",
+    "name": "Winit's",
+    "opening_hours": "Mo-Fr 11:45-14:00, Mo-Th 18:00-22:00, Fr,Sa 18:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 482 02 49",
+    "website": "https://www.winits.ch/"
+  },
+  "id": 1536879747
+}

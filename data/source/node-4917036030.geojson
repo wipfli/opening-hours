@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5947032,
+      47.5428824
+    ]
+  },
+  "properties": {
+    "id": 4917036030,
+    "addr:city": "Basel",
+    "addr:housenumber": "6",
+    "addr:postcode": "4053",
+    "addr:street": "Tellplatz",
+    "amenity": "restaurant",
+    "cuisine": "italian;mediterranean;pizza",
+    "email": "rest.casino@bluewin.ch",
+    "indoor_seating": "yes",
+    "name": "Casino",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 848 74 99 21",
+    "smoking": "outside",
+    "source": "https://www.pizzeria-gundeli-basel.ch/",
+    "website": "https://www.pizzeria-gundeli-basel.ch/"
+  },
+  "id": 4917036030
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5318896,
+      46.8523998
+    ]
+  },
+  "properties": {
+    "id": 10808426648,
+    "amenity": "restaurant",
+    "description": "Yaal bietet tamilische Spezialit\u00e4ten & Fusion-Gerichte mit veganen Optionen. Montag bis Freitag: Mittagsbuffet 11.30 bis 13.30 Uhr Samstag Mittag und Abend \u00e0 la carte Warme K\u00fcche bis 21.00 Uhr",
+    "name": "Yaal",
+    "opening_hours": "Mo-Sa 11:30-13:30,18:00-22:00",
+    "phone": "+41 81 252 66 11",
+    "website": "https://yaal.ch/"
+  },
+  "id": 10808426648
+}

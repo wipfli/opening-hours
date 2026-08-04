@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3913762,
+      47.4153709
+    ]
+  },
+  "properties": {
+    "id": 3207414073,
+    "addr:housenumber": "26",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-28",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Kantine RBL Ost",
+    "opening_hours": "Mo-Fr 06:00-24:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 740 57 90",
+    "takeaway": "yes",
+    "website": "https://rbl-ostdietikon.sv-restaurant.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3207414073
+}

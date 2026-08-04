@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6253046,
+      46.9034875
+    ]
+  },
+  "properties": {
+    "id": 1927890175,
+    "addr:city": "Fl\u00fcelen",
+    "addr:housenumber": "4",
+    "addr:postcode": "6454",
+    "addr:street": "Axenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Asia Garden Urnerhof",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:00; We off; Sa 16:00-22:00; Su 11:30-22:00",
+    "phone": "+41 41 871 26 26",
+    "website": "https://www.asiagardenurnerhof.ch/"
+  },
+  "id": 1927890175
+}

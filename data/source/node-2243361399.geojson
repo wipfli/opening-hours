@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5931863,
+      46.5961005
+    ]
+  },
+  "properties": {
+    "id": 2243361399,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date:opening_hours": "2026-02-08",
+    "cuisine": "regional",
+    "description": "Wir legen grossen Wert auf Regionalit\u00e4t. Die Mehrzahl der Produkte haben kurze Wege. Sie stammen aus Graub\u00fcnden oder der Ostschweiz. Regionales Genusshandwerk hat einen grossen Stellenwert.",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@floriansweinstube.ch",
+    "name": "Restaurant Florian's",
+    "opening_hours": "08:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 637 18 03",
+    "website": "https://www.floriansweinstube.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2243361399
+}

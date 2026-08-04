@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0710768,
+      47.0404195
+    ]
+  },
+  "properties": {
+    "id": 2027860463,
+    "addr:city": "Glarus",
+    "addr:housenumber": "6",
+    "addr:postcode": "8750",
+    "addr:street": "Schweizerhofstrasse",
+    "alt_name": "Migros Restaurant Glarus",
+    "amenity": "restaurant",
+    "branch": "Glarus",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Th,Sa 08:00-19:00; Fr 08:00-20:00",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-glarus-zentrum-glaernisch"
+  },
+  "id": 2027860463
+}

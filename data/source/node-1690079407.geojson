@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8658695,
+      46.8870163
+    ]
+  },
+  "properties": {
+    "id": 1690079407,
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "cuisine": "regional",
+    "name": "Bergrestaurant Erika",
+    "opening_hours": "May 1-Nov 1: We off, Su -18:30; Nov 2-Apr 30: PH,Sa,Su open",
+    "phone": "+41 34 491 17 79",
+    "website": "http://www.erika.too.ch"
+  },
+  "id": 1690079407
+}

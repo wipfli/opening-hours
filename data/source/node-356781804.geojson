@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8176666,
+      47.4807917
+    ]
+  },
+  "properties": {
+    "id": 356781804,
+    "addr:city": "Sissach",
+    "addr:country": "CH",
+    "addr:housename": "Bergwirtschaft",
+    "addr:housenumber": "46",
+    "addr:place": "Sissacher Fluh",
+    "addr:postcode": "4450",
+    "addr:street": "Fluehmatten",
+    "amenity": "restaurant",
+    "description": "Bergwirtschaft",
+    "diet:vegetarian": "yes",
+    "horse": "yes",
+    "name": "Sissacherfluh",
+    "opening_hours": "Tu-Sa 09:30-23:00; Su 09:00-18:00",
+    "phone": "+41 61 971 13 71",
+    "website": "https://www.sissacherfluh.ch/"
+  },
+  "id": 356781804
+}

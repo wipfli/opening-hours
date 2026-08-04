@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3243917,
+      47.4672036
+    ]
+  },
+  "properties": {
+    "id": 3724305453,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "69",
+    "addr:postcode": "5430",
+    "addr:street": "Landstrasse",
+    "alt_name": "Migros Restaurant Wettingen",
+    "amenity": "restaurant",
+    "branch": "Wettingen Landstrasse",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-wettingen-landstrasse",
+    "wheelchair": "yes"
+  },
+  "id": 3724305453
+}

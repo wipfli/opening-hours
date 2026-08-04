@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.902218,
+      47.0599536
+    ]
+  },
+  "properties": {
+    "id": 8864121510,
+    "addr:city": "Cernier",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "2053",
+    "addr:street": "Rue de l'Epervier",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "diet:kosher": "no",
+    "email": "cernier@happybowl.ch",
+    "name": "Happy Bowl",
+    "opening_hours": "Mo-Su 11:30-13:30, 18:30-21:00",
+    "phone": "+41 32 466 88 77",
+    "takeaway": "yes",
+    "website": "https://cernier.happybowl.ch/"
+  },
+  "id": 8864121510
+}

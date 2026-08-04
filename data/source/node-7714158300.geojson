@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2916982,
+      47.1659454
+    ]
+  },
+  "properties": {
+    "id": 7714158300,
+    "addr:city": "Hochdorf",
+    "addr:housenumber": "5",
+    "addr:postcode": "6280",
+    "addr:street": "Hauptstrasse",
+    "alt_name": "Migros Restaurant Hochdorf",
+    "amenity": "restaurant",
+    "branch": "Hochdorf Seetal-Center",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-hochdorf-seetal-center"
+  },
+  "id": 7714158300
+}

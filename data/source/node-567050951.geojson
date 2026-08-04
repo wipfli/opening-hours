@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5879883,
+      47.5510592
+    ]
+  },
+  "properties": {
+    "id": 567050951,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "4051",
+    "addr:street": "Steinentorstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "indoor_seating": "yes",
+    "name": "Paddy Reilly's Irish Pub & Restaurant",
+    "opening_hours": "Mo-Th 16:00-24:00, Fr 14:00-05:00, Sa 13:00-05:00, Su 14:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "http://www.irish-pub.ch/"
+  },
+  "id": 567050951
+}

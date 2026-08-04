@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9547032,
+      46.2998624
+    ]
+  },
+  "properties": {
+    "id": 4159626721,
+    "addr:street": "Route Industrielle",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;mongols",
+    "name": "Barbaro",
+    "opening_hours": "Mo-Fr 06:00-14:00,19:00-23:30; Sa 19:00-23:30; Su 12:00-16:00",
+    "phone": "+41 24 466 56 77",
+    "website": "http://www.barbaro.ch/"
+  },
+  "id": 4159626721
+}

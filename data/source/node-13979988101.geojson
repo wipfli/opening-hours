@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5286925,
+      47.3862501
+    ]
+  },
+  "properties": {
+    "id": 13979988101,
+    "addr:housenumber": "49",
+    "addr:postcode": "8005",
+    "addr:street": "Quellenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Ph\u1edf Na Vegi",
+    "opening_hours": "Tu 17:00-22:00; We-Fr 11:00-14:30, 17:00-22:00; Sa-Su 12:00-22:00",
+    "phone": "+41 43 557 55 99",
+    "website": "https://pho-na-vegi.ch/",
+    "website:menu": "https://pho-na-vegi.ch/menu/"
+  },
+  "id": 13979988101
+}

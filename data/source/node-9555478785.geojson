@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7918576,
+      47.2106926
+    ]
+  },
+  "properties": {
+    "id": 9555478785,
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "Qu\u00e9 Rico",
+    "opening_hours": "Mo-Tu off; We-Th 17:00-00:00; Fr-Sa 16:00-00:30; Su 16:00-22:00",
+    "phone": "+4162 922 33 33",
+    "website": "https://www.que-rico.ch/"
+  },
+  "id": 9555478785
+}

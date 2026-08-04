@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4249218,
+      46.2271389
+    ]
+  },
+  "properties": {
+    "id": 7716548985,
+    "amenity": "restaurant",
+    "email": "nax@auboulot.ch",
+    "name": "AU BOULOT!",
+    "opening_hours": "10:00-23:00; Tu,We off",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 203 03 04",
+    "reservation": "yes",
+    "survey:date": "2024-09-29",
+    "website": "https://www.auboulot.ch/"
+  },
+  "id": 7716548985
+}

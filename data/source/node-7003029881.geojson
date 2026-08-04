@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5974416,
+      47.570009
+    ]
+  },
+  "properties": {
+    "id": 7003029881,
+    "addr:city": "Basel",
+    "addr:housenumber": "181",
+    "addr:postcode": "4058",
+    "addr:street": "Riehenring",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Casa Piccola Italia",
+    "opening_hours": "Tu-Su 18:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.casapiccolaitalia.ch/"
+  },
+  "id": 7003029881
+}

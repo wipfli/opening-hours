@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3415597,
+      46.9577725
+    ]
+  },
+  "properties": {
+    "id": 1815657470,
+    "alt_name": "Restaurant Gruob",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante Pizzeria Da Pippo",
+    "opening_hours": "Tu-Sa 11:00-14:00,18:00-22:00; Su 11:00-21:00",
+    "phone": "+41415304246",
+    "website": "https://pizzeriadapippo.ch/"
+  },
+  "id": 1815657470
+}

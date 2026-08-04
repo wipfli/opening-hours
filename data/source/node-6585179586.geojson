@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9260034,
+      46.2782471
+    ]
+  },
+  "properties": {
+    "id": 6585179586,
+    "addr:housenumber": "6",
+    "addr:postcode": "1893",
+    "addr:street": "Rue du Rovra",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "La Treille",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr 08:00-00:00; Sa 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41244724725",
+    "website": "https://www.latreille-muraz.ch/"
+  },
+  "id": 6585179586
+}

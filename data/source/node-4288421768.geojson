@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4563593,
+      47.3614617
+    ]
+  },
+  "properties": {
+    "id": 4288421768,
+    "addr:city": "Gais",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "9056",
+    "addr:street": "Gaiserau",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant L\u00f6wen",
+    "opening_hours": "Mo-Sa 09:00-24:00; Su off",
+    "phone": "+41 71 793 11 16",
+    "website": "http://loewen-gais.ch/"
+  },
+  "id": 4288421768
+}

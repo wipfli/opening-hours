@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7944503,
+      47.4747413
+    ]
+  },
+  "properties": {
+    "id": 4095400168,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "33",
+    "addr:postcode": "8405",
+    "addr:street": "Hulmenweg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Frohsinn Eidberg",
+    "opening_hours": "We-Sa 10:00-22:00; Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 232 19 35",
+    "website": "https://frohsinn-eidberg.ch/"
+  },
+  "id": 4095400168
+}

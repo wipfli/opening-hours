@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5216676,
+      47.3217269
+    ]
+  },
+  "properties": {
+    "id": 420849920,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "name": "Zen",
+    "opening_hours": "We-Su 11:30-14:00,18:00-22:00",
+    "website": "https://www.restaurant-zen.ch/"
+  },
+  "id": 420849920
+}

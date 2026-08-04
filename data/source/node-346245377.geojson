@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5258364,
+      47.3769125
+    ]
+  },
+  "properties": {
+    "id": 346245377,
+    "addr:housenumber": "63",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-29",
+    "check_date:opening_hours": "2026-05-29",
+    "contact:instagram": "gotthardbar_zh",
+    "internet_access": "wlan",
+    "name": "Gotthard Bar",
+    "opening_hours": "Mo-We 17:00-02:00; Th 17:00-04:00; Fr 17:00-04:30; Sa 19:00-04:30",
+    "website": "http://www.gotthard-bar.ch",
+    "wheelchair": "no"
+  },
+  "id": 346245377
+}

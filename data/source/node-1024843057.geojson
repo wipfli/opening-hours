@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2111109,
+      47.4657349
+    ]
+  },
+  "properties": {
+    "id": 1024843057,
+    "addr:housenumber": "20",
+    "addr:postcode": "5212",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "email": "info@bigsterne.ch",
+    "name": "Big Sterne",
+    "old_name": "Sternen",
+    "opening_hours": "Mo-Fr 05:30-23:00; Sa,Su 15:00-21:00+",
+    "phone": "+41 56 451 11 22",
+    "source": "Bing",
+    "website": "https://www.bigsterne.ch/"
+  },
+  "id": 1024843057
+}

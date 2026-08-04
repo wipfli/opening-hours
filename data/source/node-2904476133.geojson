@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5302362,
+      47.3843323
+    ]
+  },
   "properties": {
-    "@id": "node/2904476133",
+    "id": 2904476133,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "43",
     "addr:postcode": "8005",
@@ -17,12 +24,5 @@
     "website": "https://4leoni-firenze.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5302362,
-      47.3843323
-    ]
-  },
-  "id": "node-2904476133"
+  "id": 2904476133
 }

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5474623,
+      47.3821725
+    ]
+  },
   "properties": {
-    "@id": "node/2140368560",
+    "id": 2140368560,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "45",
     "addr:postcode": "8006",
@@ -16,12 +23,5 @@
     "website": "https://www.stapferstube.com/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5474623,
-      47.3821725
-    ]
-  },
-  "id": "node-2140368560"
+  "id": 2140368560
 }

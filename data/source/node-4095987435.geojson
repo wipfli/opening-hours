@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7515018,
+      47.5270733
+    ]
+  },
+  "properties": {
+    "id": 4095987435,
+    "addr:city": "Reutlingen (Winterthur)",
+    "addr:housenumber": "67",
+    "addr:postcode": "8404",
+    "addr:street": "Reutlingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wirtschaft Zur Eintracht",
+    "opening_hours": "Tu-Fr 11:00-24:00; Sa 17:00-24:00",
+    "website": "https://eintracht-reutlingen.ch/"
+  },
+  "id": 4095987435
+}

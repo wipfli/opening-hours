@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5252048,
+      47.3764992
+    ]
+  },
   "properties": {
-    "@id": "node/10267138041",
+    "id": 10267138041,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "101",
@@ -15,12 +22,5 @@
     "website": "http://www.putput.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5252048,
-      47.3764992
-    ]
-  },
-  "id": "node-10267138041"
+  "id": 10267138041
 }

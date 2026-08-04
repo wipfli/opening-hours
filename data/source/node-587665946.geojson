@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4488673,
+      46.9530929
+    ]
+  },
+  "properties": {
+    "id": 587665946,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "3013",
+    "addr:street": "Kornhausstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "giardino@kursaal-bern.ch",
+    "name": "Restaurant Giardino",
+    "opening_hours": "Mo-Th 11:00-24:00; Fr-Sa 11:00-24:30; Su 09:00-24:00",
+    "opening_hours:kitchen": "11:30-14:00,18:00-22:00",
+    "operator": "Kongress + Kursaal Bern AG",
+    "phone": "+41 31 339 52 65",
+    "website": "https://kursaal-restaurant.ch/giardino-restaurant-bar"
+  },
+  "id": 587665946
+}

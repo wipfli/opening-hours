@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6402407,
+      47.704789
+    ]
+  },
+  "properties": {
+    "id": 2955607720,
+    "amenity": "restaurant",
+    "name": "Sch\u00f6nb\u00fchl",
+    "opening_hours": "09:30-17:30",
+    "takeaway": "no",
+    "website": "http://www.restaurant.schoenbuehl-sh.ch/"
+  },
+  "id": 2955607720
+}

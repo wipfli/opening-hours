@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.145514,
+      46.2047804
+    ]
+  },
+  "properties": {
+    "id": 4575798591,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "19",
+    "addr:postcode": "1204",
+    "addr:street": "Rue du Rh\u00f4ne",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "contact:facebook": "riversidecafe.ch",
+    "contact:instagram": "riverside.geneve",
+    "cuisine": "french;international;burger",
+    "delivery": "no",
+    "email": "info@riverside-geneve.ch",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Riverside",
+    "name:en": "Riverside Caf\u00e9",
+    "opening_hours": "Tu-We 12:00-00:00; Th-Fr 12:00-01:00; Sa 12:00-02:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 311 32 00",
+    "self_service": "no",
+    "source": "http://riversidecafe.ch",
+    "takeaway": "no",
+    "website": "https://www.riverside-geneve.ch",
+    "website:menu": "https://www.riverside-geneve.ch/menu"
+  },
+  "id": 4575798591
+}

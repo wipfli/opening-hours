@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5125827,
+      47.1804715
+    ]
+  },
+  "properties": {
+    "id": 1464796558,
+    "addr:city": "Zug",
+    "addr:housenumber": "13",
+    "addr:place": "Feldhof",
+    "addr:postcode": "6300",
+    "amenity": "restaurant",
+    "cuisine": "indian;curry",
+    "diet:non-vegetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Oh! Curry",
+    "opening_hours": "Tu-Fr 11:30-13:45,18:00-20:45; Sa 18:00-20:45; Su, Mo off",
+    "phone": "+41 41 553 36 63",
+    "website": "https://oohcurry.ch/zug-home/",
+    "website:menu": "https://oohcurry.ch/wp-content/uploads/2025/07/Zug-Main-Menu-2025.pdf",
+    "wheelchair": "limited"
+  },
+  "id": 1464796558
+}

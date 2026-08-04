@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6311228,
+      46.5229894
+    ]
+  },
+  "properties": {
+    "id": 8241637905,
+    "addr:housenumber": "14",
+    "addr:street": "Rue Chaucrau",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Royal India",
+    "opening_hours": "Mo-Sa 11:00-14:30, 17:30-22:30; Su 17:30-21:30",
+    "phone": "+41 21 311 67 47",
+    "takeaway": "yes",
+    "website": "https://www.royalindia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8241637905
+}

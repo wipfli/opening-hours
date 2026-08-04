@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6334635,
+      47.0156834
+    ]
+  },
+  "properties": {
+    "id": 4229752334,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@timeout-ibach.ch",
+    "name": "Time Out",
+    "opening_hours": "Mo,We,Th 08:30-14:30,17:00-22:30;Sa 09:00-23:00,Su 09:00-21:30; Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 811 27 27",
+    "website": "https://www.timeoutibach.ch/"
+  },
+  "id": 4229752334
+}

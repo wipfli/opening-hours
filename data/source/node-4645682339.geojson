@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2636561,
+      47.0979607
+    ]
+  },
+  "properties": {
+    "id": 4645682339,
+    "addr:city": "Jens",
+    "addr:housenumber": "4",
+    "addr:postcode": "2565",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Sa 08:30-21:30; Su 10:00-21:30; Sa 09:00-23:00",
+    "phone": "+41 32 331 00 08",
+    "website": "www.baeren-jens.ch"
+  },
+  "id": 4645682339
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.515108,
+      47.1696082
+    ]
+  },
+  "properties": {
+    "id": 1836907052,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@giardino-zug.ch",
+    "level": "0",
+    "name": "Giardino",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-23:30, Sa 10:30-14:30,17:30-23:30",
+    "phone": "+41 41 710 67 00",
+    "website": "https://giardino-zug.ch",
+    "wheelchair": "limited"
+  },
+  "id": 1836907052
+}

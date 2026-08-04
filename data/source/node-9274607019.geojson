@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9120308,
+      47.2723403
+    ]
+  },
+  "properties": {
+    "id": 9274607019,
+    "addr:city": "Wald ZH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8636",
+    "addr:street": "Laupenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "burger;pizza",
+    "name": "Meat Western Khawasti",
+    "opening_hours": "Mo off; Tu-Fr 11:00-14:00,15:30-22:00; Sa 12:00-22:30; Su 12:00-22:00; PH off",
+    "website": "https://www.meat-western.ch/"
+  },
+  "id": 9274607019
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1544428,
+      46.200484
+    ]
+  },
+  "properties": {
+    "id": 12229260770,
+    "addr:housenumber": "22",
+    "addr:postcode": "1207",
+    "addr:street": "Boulevard Helv\u00e9tique",
+    "amenity": "restaurant",
+    "cuisine": "breakfast",
+    "email": "hello@white-rabbit.ch",
+    "name": "White Rabbit 3",
+    "opening_hours": "Mo-Fr 09:00-15:00; Sa,Su 09:00-16:00",
+    "phone": "+41 22 900 14 14",
+    "website": "https://white-rabbit.ch/"
+  },
+  "id": 12229260770
+}

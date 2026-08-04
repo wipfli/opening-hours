@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2801486,
+      47.0350339
+    ]
+  },
+  "properties": {
+    "id": 3188232605,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-09-21",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Da Marcello",
+    "opening_hours": "We-Fr 12:00-14:00,18:00-22:00; Sa 18:00-22:00; PH 18:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "website": "https://www.damarcello.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3188232605
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5327096,
+      47.4450633
+    ]
+  },
+  "properties": {
+    "id": 9879802892,
+    "addr:city": "Heiden",
+    "addr:country": "CH",
+    "addr:housenumber": "32 A",
+    "addr:postcode": "9410",
+    "addr:street": "Poststrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "name": "Barissimo",
+    "opening_hours": "Tu 16:00-23:00; We-Th 09:00-12:30,16:00-23:00; Fr-Sa 14:00-24:00; Su-Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 891 20 57",
+    "smoking": "outside",
+    "website": "https://barissimo-heiden.ch/"
+  },
+  "id": 9879802892
+}

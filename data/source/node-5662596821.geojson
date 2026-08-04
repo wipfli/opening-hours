@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0608373,
+      47.0986618
+    ]
+  },
+  "properties": {
+    "id": 5662596821,
+    "addr:postcode": "8752",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Die Burgerei",
+    "opening_hours": "Mo-Sa 11:00-14:00, 17:00-22:00",
+    "phone": "+41556121303",
+    "website": "https://www.die-burgerei.ch/"
+  },
+  "id": 5662596821
+}

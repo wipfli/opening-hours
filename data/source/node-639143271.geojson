@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.571762,
+      47.4040619
+    ]
+  },
+  "properties": {
+    "id": 639143271,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "519",
+    "addr:postcode": "8051",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-27",
+    "indoor_seating": "yes",
+    "name": "Restaurant Gasthof Hirschen",
+    "opening_hours": "Mo-Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.hirschen-schwamendingen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 639143271
+}

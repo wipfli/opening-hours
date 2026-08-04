@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5311226,
+      46.8489105
+    ]
+  },
+  "properties": {
+    "id": 11463324074,
+    "amenity": "restaurant",
+    "cuisine": "local;regional",
+    "name": "Zum Kornhausplatz",
+    "name:de": "Zum Kornplatz",
+    "opening_hours": "Tu-Sa 11:00-14:30, 17:00-23:00",
+    "phone": "+41812522759",
+    "website": "http://kornplatz-chur.ch/"
+  },
+  "id": 11463324074
+}

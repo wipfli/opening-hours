@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5775239,
+      46.5334896
+    ]
+  },
+  "properties": {
+    "id": 12944962425,
+    "addr:city": "Chavannes-pr\u00e8s-Renens",
+    "addr:housenumber": "40",
+    "addr:postcode": "1022",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "contact:instagram": "chezmano_",
+    "cuisine": "indian;sri_lankan;pizza",
+    "diet:vegetarian": "yes",
+    "name": "Chez Mano",
+    "opening_hours": "Tu-Sa 11:30-14:30,18:00-22:00",
+    "takeaway": "only",
+    "website": "https://ch.wwwcafe.de/531/"
+  },
+  "id": 12944962425
+}

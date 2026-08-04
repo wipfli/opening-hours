@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8242738,
+      46.1901296
+    ]
+  },
+  "properties": {
+    "id": 2434765860,
+    "addr:city": "Brione sopra Minusio",
+    "addr:housenumber": "110",
+    "addr:postcode": "6645",
+    "addr:street": "Via Val Resa",
+    "amenity": "restaurant",
+    "email": "info@grottoalritrovo.ch",
+    "name": "Grotto al Ritrovo dai Fusetti",
+    "opening_hours": "Mo-Su 12:00-22:30",
+    "phone": "+41 91 743 55 95",
+    "website": "https://grottoalritrovo.ch/"
+  },
+  "id": 2434765860
+}

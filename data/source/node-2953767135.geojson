@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4410308,
+      46.9486631
+    ]
+  },
+  "properties": {
+    "id": 2953767135,
+    "amenity": "restaurant",
+    "contact:addr": "Hotel Schweizerhof, Bahnhofplatz 11, 3011 Bern",
+    "contact:email": "info@schweizerhof-bern.ch",
+    "contact:fax": "+41 31 3268083",
+    "contact:phone": "+41 31 3268080",
+    "name": "Jack's Brasserie",
+    "opening_hours": "Mo-Su 06:30-14:30, 17:30-23:30",
+    "source": "survey and website",
+    "website": "http://en.schweizerhof-bern.ch/restaurants-bar/jack's-brasserie",
+    "wheelchair": "yes"
+  },
+  "id": 2953767135
+}

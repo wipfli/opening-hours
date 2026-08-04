@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1331844,
+      46.1986505
+    ]
+  },
+  "properties": {
+    "id": 11359230958,
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "Le petit Rapha\u00ebl",
+    "opening_hours": "Mo-Sa 08:00-23:00",
+    "website": "https://www.lepetitraphael.ch/"
+  },
+  "id": 11359230958
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0712791,
+      47.3706677
+    ]
+  },
+  "properties": {
+    "id": 4891728883,
+    "addr:city": "Suhr",
+    "addr:housenumber": "44",
+    "addr:postcode": "5034",
+    "addr:street": "Suhrestrasse",
+    "alt_name": "FC Suhr Clubrestaurant",
+    "amenity": "restaurant",
+    "contact:email": "ciao@pizzeria-gioero.ch",
+    "contact:instagram": "https://www.instagram.com/pizzeriagioero/",
+    "cuisine": "pizza",
+    "name": "Pizzeria Gio e Ro",
+    "old_name": "Gigis's feine Holzofenpizza",
+    "opening_hours": "Th 18:00-21:00; Fr 18:00-22:00; Sa 18:00-22:00; Su 17:30-21:00",
+    "phone": "+41628420758",
+    "website": "https://www.pizzeria-gioero.ch/",
+    "website:reservation": "https://www.pizzeria-gioero.ch/reservierungen"
+  },
+  "id": 4891728883
+}

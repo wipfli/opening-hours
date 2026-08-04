@@ -1,29 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/9792386803",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "4",
-    "addr:postcode": "8004",
-    "addr:street": "Europaallee",
-    "amenity": "restaurant",
-    "branch": "Z\u00fcrich Europaallee",
-    "check_date": "2024-08-09",
-    "cuisine": "pizza",
-    "delivery": "no",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "europaallee@vito.ch",
-    "indoor_seating": "yes",
-    "name": "Vito",
-    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00; Su 12:00-22:00",
-    "outdoor_seating": "yes",
-    "phone": "+41 79 274 18 15",
-    "reservation": "yes",
-    "takeaway": "yes",
-    "website": "https://www.vito.ch/europaallee",
-    "wheelchair": "yes"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -31,5 +7,37 @@
       47.3783449
     ]
   },
-  "id": "node-9792386803"
+  "properties": {
+    "id": 9792386803,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8004",
+    "addr:street": "Europaallee",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Europaallee",
+    "changing_table": "yes",
+    "check_date": "2026-06-27",
+    "check_date:opening_hours": "2026-04-17",
+    "cuisine": "pizza",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "europaallee@vito.ch",
+    "indoor_seating": "yes",
+    "name": "Vito",
+    "opening_hours": "Mo-Tu 11:00-22:30; We-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-22:30",
+    "opening_hours:kitchen": "Mo-Tu 11:30-21:30; We-Th 11:30-22:00; Fr-Sa 11:30-22:30; Su 12:00-21:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 79 274 18 15",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.vito.ch/europaallee",
+    "wheelchair": "yes"
+  },
+  "id": 9792386803
 }

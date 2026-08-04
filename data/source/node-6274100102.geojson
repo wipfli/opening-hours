@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3062127,
+      47.0741934
+    ]
+  },
+  "properties": {
+    "id": 6274100102,
+    "alt_name": "Restaurant Hirschen",
+    "amenity": "restaurant",
+    "contact:addr": "Hirschenplatz 2, 3250 Lyss",
+    "contact:email": "info@hirschen-lyss.ch",
+    "contact:phone": "+41 32 3841308",
+    "cuisine": "italian;international",
+    "name": "Hirschen",
+    "opening_hours": "Mo-Sa 08:00-23:30, Su 09:00-23:00",
+    "source": "survey and website",
+    "website": "https://www.hirschen-lyss.ch"
+  },
+  "id": 6274100102
+}

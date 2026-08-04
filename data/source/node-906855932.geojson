@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5159377,
+      47.3717505
+    ]
+  },
   "properties": {
-    "@id": "node/906855932",
+    "id": 906855932,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "26",
     "addr:postcode": "8003",
@@ -17,12 +24,5 @@
     "website": "https://lacote-zuerich.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5159377,
-      47.3717505
-    ]
-  },
-  "id": "node-906855932"
+  "id": 906855932
 }

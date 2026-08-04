@@ -1,9 +1,0 @@
-Looking at the website, the hours for the **Restaurant** are:
-
-- Montag - Freitag: 11.30 - 14.00, 18.30 - 23.00
-- Samstag: 18.30 - 23.00
-- Sonntag: 10.00 - 15.00
-
-Note: "Feiertags geschlossen" means closed on public holidays, and the kitchen closes at 21:30 but the restaurant is open until 23:00.
-
-Mo-Fr 11:30-14:00,18:30-23:00; Sa 18:30-23:00; Su 10:00-15:00; PH off

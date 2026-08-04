@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8233489,
+      47.5404032
+    ]
+  },
+  "properties": {
+    "id": 2638258297,
+    "addr:city": "Gundetswil",
+    "addr:housenumber": "39",
+    "addr:postcode": "8543",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wirtschaft zum Lindenhof",
+    "opening_hours": "Mo-Tu, Fr-Sa 08:30-23:30; Su 09:00-22:00",
+    "phone": "+41 52 375 18 77",
+    "website": "https://www.zum-lindenhof.ch/"
+  },
+  "id": 2638258297
+}

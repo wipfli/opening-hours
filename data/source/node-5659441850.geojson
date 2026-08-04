@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5709854,
+      47.3970109
+    ]
+  },
+  "properties": {
+    "id": 5659441850,
+    "addr:city": "Marbach SG",
+    "addr:housenumber": "219",
+    "addr:postcode": "9437",
+    "addr:street": "Weinsteingasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Schloss Weinstein",
+    "opening_hours": "We-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00; Su 11:30-20:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.schloss-weinstein.ch/"
+  },
+  "id": 5659441850
+}

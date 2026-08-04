@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3763484,
+      47.4261655
+    ]
+  },
+  "properties": {
+    "id": 445417869,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Bohl",
+    "amenity": "restaurant",
+    "check_date": "2025-09-29",
+    "indoor_seating": "yes",
+    "name": "90 Grad",
+    "opening_hours": "Mo-Th 08:00-00:00; Fr-Sa 08:00-01:00; Su 09:30-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurant-90grad.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 445417869
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.784581,
+      47.214234
+    ]
+  },
+  "properties": {
+    "id": 3541831193,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "28",
+    "addr:postcode": "4900",
+    "addr:street": "Wiesenstrasse",
+    "alt_name": "Migros Restaurant Langenthal",
+    "amenity": "restaurant",
+    "branch": "Langenthal",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-langenthal",
+    "wheelchair": "yes",
+    "wheelchair:description": "WC: Eurokey (kann bei Abwaschk\u00fcche verlangt werden); \u00d6ffnungszeiten: Mo-Do: 08.00 - 20.00, Fr: 08.00 - 21.00, Sa: 07.30 - 17.00"
+  },
+  "id": 3541831193
+}

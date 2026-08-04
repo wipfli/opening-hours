@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5437442,
+      47.3722057
+    ]
+  },
   "properties": {
-    "@id": "node/280783431",
+    "id": 280783431,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "21",
@@ -24,12 +31,5 @@
     "website": "https://www.bindella.ch/de/santa-lucia-niederdorf.html",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5437442,
-      47.3722057
-    ]
-  },
-  "id": "node-280783431"
+  "id": 280783431
 }

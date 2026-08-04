@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4334896,
+      46.9425205
+    ]
+  },
+  "properties": {
+    "id": 812915211,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-05-26",
+    "contact:addr": "M\u00fchlemattstrasse 48, 3007 Bern",
+    "contact:email": "contact@musigbistrot.ch",
+    "contact:phone": "+41 31 3721032",
+    "indoor_seating": "yes",
+    "name": "musigbistrot",
+    "opening_hours": "Mo-Fr 10:00-23:30; Sa 18:00-00:30",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "http://www.musigbistrot.ch",
+    "wheelchair": "limited"
+  },
+  "id": 812915211
+}

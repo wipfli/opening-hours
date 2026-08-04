@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.545135,
+      47.3788419
+    ]
+  },
   "properties": {
-    "@id": "node/10860757271",
+    "id": 10860757271,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "10",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "phone": "+41 43 268 48 48",
     "website": "https://orientworld.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.545135,
-      47.3788419
-    ]
-  },
-  "id": "node-10860757271"
+  "id": 10860757271
 }

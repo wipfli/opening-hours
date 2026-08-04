@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357174,
+      47.3777357
+    ]
+  },
   "properties": {
-    "@id": "node/4034163671",
+    "id": 4034163671,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "1a",
@@ -28,12 +35,5 @@
     "website": "https://www.hiltl.ch/de/standorte/sihlpost",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5357174,
-      47.3777357
-    ]
-  },
-  "id": "node-4034163671"
+  "id": 4034163671
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5721187,
+      47.4049275
+    ]
+  },
+  "properties": {
+    "id": 4893875852,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8051",
+    "addr:street": "Schwamendingerplatz",
+    "amenity": "restaurant",
+    "capacity": "134",
+    "name": "Schwamedinge",
+    "opening_hours": "Mo-Fr 06:30-24:00; Sa 07:30-24:00; Su 08:00-24:00",
+    "operator": "Oelemezler Gastrobetriebe",
+    "outdoor_seating": "yes",
+    "website": "https://oelemezler-gastrobetriebe.ch/restaurant-schwamedinge/",
+    "wheelchair": "yes"
+  },
+  "id": 4893875852
+}

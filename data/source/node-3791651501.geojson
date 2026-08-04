@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6251654,
+      46.5149741
+    ]
+  },
+  "properties": {
+    "id": 3791651501,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "25",
+    "addr:street": "Avenue \u00c9douard-Dapples",
+    "amenity": "restaurant",
+    "indoor_seating": "no",
+    "name": "Le Cabanon du Montriond",
+    "opening_hours": "Tu-Sa 14:30-23:30; Su 14:30-21:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.lemontriond.ch/"
+  },
+  "id": 3791651501
+}

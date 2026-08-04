@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6355411,
+      47.6956525
+    ]
+  },
+  "properties": {
+    "id": 1717939887,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "La Piazza",
+    "opening_hours": "Mo-Sa 09:30-24:00; Su 10:00-24:00",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lapiazza-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1717939887
+}

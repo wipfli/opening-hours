@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5964733,
+      47.2612529
+    ]
+  },
+  "properties": {
+    "id": 11710850798,
+    "addr:city": "Horgen",
+    "addr:housenumber": "4",
+    "addr:postcode": "8810",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/people/Ristorante-Olivo/100064681705058/",
+    "contact:instagram": "https://www.instagram.com/ristorante.olivo/",
+    "cuisine": "italian;pizza",
+    "email": "info@ristorante-olivo.ch",
+    "name": "Olivo",
+    "opening_hours": "Mo-Fr 06:00-00:00; Sa 07:00-00:00; Su, PH 08:00-00:00",
+    "phone": "+41 44 534 99 99",
+    "website": "https://ristorante-olivo.ch",
+    "website:menu": "https://ristorante-olivo.ch/menu/speisekarte"
+  },
+  "id": 11710850798
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5382808,
+      47.3758207
+    ]
+  },
   "properties": {
-    "@id": "node/10721724386",
+    "id": 10721724386,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "11",
@@ -16,12 +23,5 @@
     "operator": "Don Leone Gastro AG",
     "website": "https://ristorante-leo.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5382808,
-      47.3758207
-    ]
-  },
-  "id": "node-10721724386"
+  "id": 10721724386
 }

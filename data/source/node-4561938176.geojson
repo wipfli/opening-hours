@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1894027,
+      47.5161436
+    ]
+  },
+  "properties": {
+    "id": 4561938176,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "no",
+    "name": "Gasthof B\u00e4ren AG",
+    "opening_hours": "Tu-Sa 08:00-24:00; Su 09:00-17:00",
+    "operator": "Fam. Wernli",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 284 12 14",
+    "smoking": "separated",
+    "tourism": "guest_house",
+    "website": "https://www.gasthofbaeren.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4561938176
+}

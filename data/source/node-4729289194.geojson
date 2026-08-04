@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4276276,
+      46.945812
+    ]
+  },
+  "properties": {
+    "id": 4729289194,
+    "amenity": "restaurant",
+    "check_date": "2026-01-19",
+    "contact:addr": "Effingerstrasse 92, 3008 Bern",
+    "contact:facebook": "https://www.facebook.com/Little-Panda-1328041447262313",
+    "contact:phone": "+41 79 2382988",
+    "cuisine": "chinese",
+    "name": "Little Panda",
+    "opening_hours": "Mo-Fr 11:30-13:30,18:00-21:00; Sa 18:00-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "takeaway": "yes",
+    "website": "https://www.little-panda.ch/"
+  },
+  "id": 4729289194
+}

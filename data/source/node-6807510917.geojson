@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5336562,
+      46.8512208
+    ]
+  },
+  "properties": {
+    "id": 6807510917,
+    "addr:city": "Chur",
+    "addr:housenumber": "1",
+    "addr:postcode": "7000",
+    "addr:street": "Grabenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@cafepatschifig.ch",
+    "name": "Caf\u00e9 Patschifig",
+    "opening_hours": "Mo-Fr 07:00-17:00; Sa 09:00-16:00",
+    "opening_hours:kitchen": "11:00-14:30",
+    "phone": "+41 81 252 35 35",
+    "smoking": "no",
+    "website": "https://www.cafepatschifig.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6807510917
+}

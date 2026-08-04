@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1560201,
+      46.7955037
+    ]
+  },
+  "properties": {
+    "id": 4325365491,
+    "amenity": "restaurant",
+    "check_date": "2026-02-22",
+    "cuisine": "vietnamese",
+    "name": "PHO Vietnam",
+    "opening_hours": "Mo 17:00-23:00; Tu-Sa 10:00-14:30,17:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 26 422 17 48",
+    "website": "https://www.phovietnam.ch",
+    "wheelchair": "no"
+  },
+  "id": 4325365491
+}

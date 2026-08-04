@@ -1,3 +1,0 @@
-Page.goto: net::ERR_NAME_NOT_RESOLVED at https://tach.ch/
-Call log:
-  - navigating to "https://tach.ch/", waiting until "networkidle"

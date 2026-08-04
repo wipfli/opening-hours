@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7705984,
+      47.2182825
+    ]
+  },
+  "properties": {
+    "id": 9546667829,
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "COMME IL FAUT",
+    "opening_hours": "Mo-Su 11:30-14:00,18:00-23:00",
+    "phone": "+41 62 922 94 22",
+    "website": "https://www.parkhotel-langenthal.ch/de/kulinarik/comme-il-faut/"
+  },
+  "id": 9546667829
+}

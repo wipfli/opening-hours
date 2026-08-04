@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9010553,
+      46.310569
+    ]
+  },
+  "properties": {
+    "id": 428844930,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;regional",
+    "name": "Auberge de l'Etoile",
+    "opening_hours": "Th-Tu 09:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 244815354",
+    "website": "https://aubergeetoile.ch/"
+  },
+  "id": 428844930
+}

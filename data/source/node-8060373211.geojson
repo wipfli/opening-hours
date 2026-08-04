@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8456264,
+      46.4683242
+    ]
+  },
+  "properties": {
+    "id": 8060373211,
+    "amenity": "restaurant",
+    "contact:instagram": "bistrot_des_cedres",
+    "cuisine": "lebanese;swiss",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Bistrot des C\u00e8dres",
+    "opening_hours": "Mo 16:30-22:00; Tu-Sa 10:00-14:30, 16:30-22:00",
+    "opening_hours:kitchen": "Mo 18:30-21:30; Tu-Sa 11:30-14:30, 18:30-21:30",
+    "phone": "+41 21 525 75 06",
+    "takeaway": "yes",
+    "website": "https://www.bistrotdescedres.ch/",
+    "website:menu": "https://bistrotdescedres.ch/la-carte"
+  },
+  "id": 8060373211
+}

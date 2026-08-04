@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5598757,
+      47.5573309
+    ]
+  },
+  "properties": {
+    "id": 12728570301,
+    "addr:housenumber": "302",
+    "addr:postcode": "4123",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "grill;mediterranean",
+    "name": "Dem",
+    "opening_hours": "Tu-Fr 10:00-14:00, 17:00-23:00; Sa-Su 10:00-00:00",
+    "phone": "+41767154455",
+    "website": "https://demrestaurant.ch/"
+  },
+  "id": 12728570301
+}

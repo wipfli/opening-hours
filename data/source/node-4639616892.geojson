@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9642714,
+      46.0904751
+    ]
+  },
+  "properties": {
+    "id": 4639616892,
+    "addr:postcode": "3905",
+    "amenity": "restaurant",
+    "email": "info@ferien-im-wallis.ch",
+    "name": "Alpina",
+    "name:de": "Alpina",
+    "opening_hours": "Mo-Su 08:00-19:15",
+    "outdoor_seating": "yes",
+    "phone": "+41279572443",
+    "website": "http://www.ferien-im-wallis.ch"
+  },
+  "id": 4639616892
+}

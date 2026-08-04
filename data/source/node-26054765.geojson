@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6411012,
+      46.8826227
+    ]
+  },
+  "properties": {
+    "id": 26054765,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "27",
+    "addr:postcode": "6460",
+    "addr:street": "Tellsgasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Wilhelm Tell",
+    "opening_hours": "Mo-Su 10:00-24:00",
+    "toilets:wheelchair": "limited",
+    "website": "https://www.pizzeriatell.ch",
+    "wheelchair": "yes"
+  },
+  "id": 26054765
+}

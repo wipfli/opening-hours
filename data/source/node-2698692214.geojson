@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0725165,
+      46.101342
+    ]
+  },
+  "properties": {
+    "id": 2698692214,
+    "addr:city": "Martigny",
+    "addr:housenumber": "10",
+    "addr:postcode": "1920",
+    "addr:street": "Place Centrale",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "email": "steakhousemartigny@gmail.com",
+    "name": "Steak House Martigny chez Steve et Arnaud",
+    "opening_hours": "Mo, We-Fr 10:00-23:00; Sa 10:00-00:00; Su 10:00-23:00",
+    "phone": "+41 27 722 25 65",
+    "website": "http://steakhouse-martigny.com"
+  },
+  "id": 2698692214
+}

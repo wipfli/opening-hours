@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.592893,
+      47.4922681
+    ]
+  },
+  "properties": {
+    "id": 2089059599,
+    "addr:city": "Reinach BL",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "4153",
+    "addr:street": "Angensteinerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Cucina-amici Pizzaria",
+    "opening_hours": "Mo-Fr 11:00-14:00, Mo-Sa 17:00-23:00",
+    "website": "https://cucina-amici.ch/"
+  },
+  "id": 2089059599
+}

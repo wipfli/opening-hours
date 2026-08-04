@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163974,
+      47.3620219
+    ]
+  },
   "properties": {
-    "@id": "node/5016528002",
+    "id": 5016528002,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "12",
@@ -15,12 +22,5 @@
     "phone": "+41 43 333 32 05",
     "website": "https://www.trattoriadamichele.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5163974,
-      47.3620219
-    ]
-  },
-  "id": "node-5016528002"
+  "id": 5016528002
 }

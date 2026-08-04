@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8285929,
+      47.101731
+    ]
+  },
+  "properties": {
+    "id": 371199008,
+    "addr:postcode": "2300",
+    "amenity": "restaurant",
+    "cuisine": "burger;regional",
+    "email": "info@unionlachaux.ch",
+    "name": "Union Restaurant du Th\u00e9\u00e2tre",
+    "old_name": "L'heure bleue",
+    "opening_hours": "Tu-Fr 11:30-14:30, 17:30-23:30; Sa 17:30-23:30",
+    "phone": "+41 32 914 01 01",
+    "website": "https://unionlachaux.ch"
+  },
+  "id": 371199008
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8387981,
+      46.88989
+    ]
+  },
+  "properties": {
+    "id": 3710800598,
+    "addr:city": "Serneus",
+    "addr:housenumber": "63",
+    "addr:postcode": "7249",
+    "addr:street": "Serneuserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-05-10",
+    "cuisine": "regional",
+    "name": "Gotschna",
+    "opening_hours": "We-Sa 10:00-22:00; Su 10:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 422 14 28",
+    "website": "https://www.restaurant-gotschna.ch/"
+  },
+  "id": 3710800598
+}

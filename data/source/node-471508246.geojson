@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7783335,
+      47.2026366
+    ]
+  },
+  "properties": {
+    "id": 471508246,
+    "addr:city": "Pf\u00e4ffikon SZ",
+    "addr:housenumber": "13",
+    "addr:postcode": "8808",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-31",
+    "contact:email": "contact@capolinea-restaurant.ch",
+    "contact:phone": "+41 55 556 80 44",
+    "contact:website": "http://www.capolinea-restaurant.ch/kontakt/",
+    "cuisine": "mediterranean;italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Capolinea",
+    "opening_hours": "Tu-Fr 08:00-23:00; Sa 09:00-23:00; Su,Mo off",
+    "website": "https://www.capolinea-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 471508246
+}

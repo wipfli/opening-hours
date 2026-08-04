@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3249465,
+      47.0724592
+    ]
+  },
+  "properties": {
+    "id": 5768704931,
+    "addr:city": "Ebikon",
+    "addr:housenumber": "50",
+    "addr:postcode": "6030",
+    "addr:street": "Luzernerstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@falken-am-rotsee.ch",
+    "contact:fax": "+41 41 4204851",
+    "cuisine": "chinese",
+    "name": "Falken am Rotsee",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00",
+    "phone": "+41 41 420 18 61",
+    "website": "http://www.falken-am-rotsee.ch/"
+  },
+  "id": 5768704931
+}

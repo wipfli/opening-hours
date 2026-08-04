@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5169017,
+      46.8414692
+    ]
+  },
+  "properties": {
+    "id": 442882727,
+    "addr:city": "Gelterfingen",
+    "addr:housenumber": "32",
+    "addr:postcode": "3126",
+    "addr:street": "Dorf",
+    "amenity": "restaurant",
+    "email": "info@lindegelterfingen.ch",
+    "name": "Linde",
+    "opening_hours": "We-Sa 09:00-23:00; Su 10:00-21:00",
+    "opening_hours:kitchen": "We-Sa 09:00-20:00; Su 10:00-20:00",
+    "phone": "+41 31 819 56 65",
+    "website": "https://www.lindegelterfingen.ch/"
+  },
+  "id": 442882727
+}

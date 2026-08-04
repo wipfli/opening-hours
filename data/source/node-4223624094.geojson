@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9790875,
+      45.9235091
+    ]
+  },
+  "properties": {
+    "id": 4223624094,
+    "addr:housenumber": "24",
+    "addr:postcode": "6818",
+    "addr:street": "Via Pedreta",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Osteria Camping Paradiso Lago",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "phone": "+41 79 7097014",
+    "website": "http://www.camping-paradisi.ch"
+  },
+  "id": 4223624094
+}

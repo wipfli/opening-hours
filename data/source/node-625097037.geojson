@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9038256,
+      47.4150776
+    ]
+  },
+  "properties": {
+    "id": 625097037,
+    "addr:city": "Schmidr\u00fcti",
+    "addr:postcode": "8495",
+    "addr:street": "Im Dorf",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gasthaus zum Freihof K\u00e4mpf",
+    "opening_hours": "Fr 16:00-23:00; Sa 09:00-23:00; Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "takeaway": "no",
+    "website": "https://www.gasthauszumfreihofkaempf.ch/"
+  },
+  "id": 625097037
+}

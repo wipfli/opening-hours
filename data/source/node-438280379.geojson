@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4282688,
+      46.9483374
+    ]
+  },
+  "properties": {
+    "id": 438280379,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "3008",
+    "addr:street": "Murtenstrasse",
+    "alt_name": "Azzurro Terra e Mare",
+    "amenity": "restaurant",
+    "contact:email": "info@ristorante-azzurro.ch",
+    "contact:fax": "+41 31 3858585",
+    "contact:phone": "+41 31 3858585",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Azzurro",
+    "opening_hours": "Mo-Th 09:00-23:00; Fr 09:00-23:30; Sa 10:00-23:30; Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.ristorante-azzurro.ch/",
+    "wheelchair": "no"
+  },
+  "id": 438280379
+}

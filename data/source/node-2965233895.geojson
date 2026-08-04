@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4419279,
+      46.9494099
+    ]
+  },
+  "properties": {
+    "id": 2965233895,
+    "addr:floor": "4",
+    "alt_name": "Coop Restaurant Bern Ryfflihof",
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "changing_table": "yes",
+    "changing_table:fee": "no",
+    "changing_table:location": "female_toilet;male_toilet",
+    "contact:addr": "Aarbergergasse 53, 3011 Bern",
+    "contact:phone": "+41 31 3297040",
+    "cuisine": "german",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo 09:00-19:00; Tu,We 08:00-19:00; Th,Fr 08:00-20:00; Sa 08:00-18:00; PH off",
+    "operator": "Coop-Gruppe Genossenschaft",
+    "smoking": "isolated",
+    "source": "survey and website",
+    "toilets:wheelchair": "designated",
+    "website": "https://www.coop.ch/restaurant",
+    "wheelchair": "yes"
+  },
+  "id": 2965233895
+}

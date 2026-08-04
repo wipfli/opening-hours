@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.847696,
+      46.4586372
+    ]
+  },
+  "properties": {
+    "id": 7090679621,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "53",
+    "addr:postcode": "1800",
+    "addr:street": "Rue d'Italie",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Pummaro pizzas",
+    "opening_hours": "Mo-Su 12:00-14:00, 18:00-23:00",
+    "phone": "+41 21 922 34 65",
+    "takeaway": "yes",
+    "website": "https://pummaro.ch/"
+  },
+  "id": 7090679621
+}

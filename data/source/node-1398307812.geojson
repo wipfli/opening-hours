@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3250547,
+      47.4668097
+    ]
+  },
+  "properties": {
+    "id": 1398307812,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "79",
+    "addr:postcode": "5430",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;cafe",
+    "delivery": "yes",
+    "level": "1",
+    "name": "Awarillo",
+    "opening_hours": "Mo-Th 10:00-14:00,17:30-23:00; Fr-Sa 10:00-23:00; Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 426 57 98",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.awarillo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1398307812
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3507659,
+      46.2303458
+    ]
+  },
+  "properties": {
+    "id": 8247128629,
+    "addr:housenumber": "69",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "cuisine": "crepe",
+    "name": "Verso l'Alto",
+    "opening_hours": "We,Th 18:00-22:00; Fr,Sa 16:00-22:00; Su 16:00-21:00",
+    "phone": "+41273238915",
+    "website": "https://versolalto.ch/creperie/"
+  },
+  "id": 8247128629
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4479878,
+      47.1904524
+    ]
+  },
+  "properties": {
+    "id": 458419620,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Zum gr\u00fcne Aff",
+    "opening_hours": "Apr-Sep: Mo-Su 09:00-22:00+; Oct-Mar: Tu-Su 09:00-22:00+",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.zumgrueneaff.ch/"
+  },
+  "id": 458419620
+}

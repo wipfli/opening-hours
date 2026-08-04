@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4908184,
+      47.3918334
+    ]
+  },
+  "properties": {
+    "id": 4874369329,
+    "access": "yes",
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8048",
+    "addr:street": "Vulkanplatz",
+    "amenity": "restaurant",
+    "capacity": "228",
+    "check_date:opening_hours": "2025-08-22",
+    "cuisine": "international;regional",
+    "diet:vegetarian": "yes",
+    "email": "westlink@zfv.ch",
+    "indoor_seating": "yes",
+    "name": "SBB Restaurant WestLink",
+    "opening_hours": "Mo-Fr 11:15-13:30",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "patio",
+    "phone": "+41 44 419 03 76",
+    "self_service": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/sbb-restaurant-westlink",
+    "wheelchair": "yes"
+  },
+  "id": 4874369329
+}

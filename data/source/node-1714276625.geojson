@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6377696,
+      47.6963918
+    ]
+  },
+  "properties": {
+    "id": 1714276625,
+    "addr:housenumber": "19",
+    "addr:street": "Bachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-31",
+    "cuisine": "pizza",
+    "level": "0",
+    "name": "Mamma Rosa",
+    "opening_hours": "Mo,We-Sa 11:30-14:00,17:30-22:00; Tu off; Su 17:30-22:00; Dec 24 off",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 52 625 24 69",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.pizzeria-mammarosa.ch/"
+  },
+  "id": 1714276625
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0420894,
+      47.4644276
+    ]
+  },
+  "properties": {
+    "id": 2674896783,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "3",
+    "addr:postcode": "9500",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "name": "Kreisel Imbiss",
+    "opening_hours": "Mo-Th, Su 09:00-24:00; Fr, Sa 09:00-20:00",
+    "takeaway": "yes",
+    "website": "https://www.kreisel-imbiss-wil.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2674896783
+}

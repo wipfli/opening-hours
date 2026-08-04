@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.932085,
+      46.990521
+    ]
+  },
+  "properties": {
+    "id": 8820506917,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "1",
+    "addr:postcode": "2000",
+    "addr:street": "Place Numa-Droz",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-02-13",
+    "cuisine": "buffet;sushi;asian",
+    "name": "Wok Royal",
+    "opening_hours": "Mo-Su 11:00-14:30,18:30-23:30",
+    "phone": "+41 32 710 00 10",
+    "website": "https://brasserie.wokroyal.ch/"
+  },
+  "id": 8820506917
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5733321,
+      46.742385
+    ]
+  },
+  "properties": {
+    "id": 11182465816,
+    "addr:city": "Vaz",
+    "addr:place": "Station Scharmoin",
+    "addr:postcode": "7078",
+    "amenity": "restaurant",
+    "name": "Freeflow Restaurant",
+    "opening_hours": "Dec 21-Mar 29 Mo-Su,PH 09:00-15:30",
+    "phone": "+41 81 385 51 80",
+    "website": "https://arosalenzerheide.swiss/de/Skigebiet/Sommer/Freeflow-Scharmoin_isd_125388"
+  },
+  "id": 11182465816
+}

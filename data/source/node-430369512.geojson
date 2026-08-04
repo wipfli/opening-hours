@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.006534,
+      47.4066086
+    ]
+  },
+  "properties": {
+    "id": 430369512,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "mailbox@hirschen-erlinsbach.ch",
+    "name": "Hirschen",
+    "opening_hours": "Mo-Th 07:00-23:30; Fr-Sa 07:00-24:00; Su 07:00-22:00",
+    "phone": "+41 62 857 33 33",
+    "website": "https://www.hirschen-erlinsbach.ch/"
+  },
+  "id": 430369512
+}

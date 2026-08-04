@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.002045,
+      47.3711481
+    ]
+  },
+  "properties": {
+    "id": 13739233170,
+    "amenity": "restaurant",
+    "name": "Im Storchen",
+    "opening_hours": "Mo-Fr 06:30-21:30; Sa-Su 08:00-12:00",
+    "website": "https://im-storchen.ch/"
+  },
+  "id": 13739233170
+}

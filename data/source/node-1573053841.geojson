@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3066702,
+      47.0522323
+    ]
+  },
+  "properties": {
+    "id": 1573053841,
+    "addr:city": "Luzern",
+    "addr:housenumber": "14",
+    "addr:postcode": "6004",
+    "addr:street": "Furrengasse",
+    "amenity": "restaurant",
+    "attraction:ref": "4",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "email": "contact@altstadthotelluzern.ch",
+    "fax": "+41 41 4188230",
+    "name": "Li Tai Pe",
+    "opening_hours": "We-Fr 17:30-22:00; Sa-Su 11:30-14:00,17:30-23:00",
+    "phone": "+41 41 4101023",
+    "sightseeingtour:attraction": "yes",
+    "start_date": "1959",
+    "toilets:wheelchair": "no",
+    "website": "https://www.litaipe.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1573053841
+}

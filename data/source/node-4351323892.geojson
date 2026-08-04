@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5355364,
+      47.3704056
+    ]
+  },
   "properties": {
-    "@id": "node/4351323892",
+    "id": 4351323892,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "61",
@@ -14,12 +21,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.luigia.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5355364,
-      47.3704056
-    ]
-  },
-  "id": "node-4351323892"
+  "id": 4351323892
 }

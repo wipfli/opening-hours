@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7500142,
+      46.1777288
+    ]
+  },
+  "properties": {
+    "id": 11085357919,
+    "addr:city": "Losone",
+    "addr:housenumber": "5",
+    "addr:postcode": "6616",
+    "addr:street": "Via alle Gerre",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "The Mira View Ristorante",
+    "opening_hours": "Mo-Su 07:30-21:00",
+    "phone": "+41 91 785 11 90",
+    "website": "https://www.vistagroup.ch/restaurant-ascona/the-mira-view"
+  },
+  "id": 11085357919
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9674568,
+      47.4640655
+    ]
+  },
+  "properties": {
+    "id": 6462494675,
+    "addr:city": "Eschlikon TG",
+    "addr:housenumber": "42",
+    "addr:postcode": "8360",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-16",
+    "cuisine": "italian",
+    "name": "il tiglio",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-23:00; Sa 17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 910 11 12",
+    "website": "https://iltiglio.ch/"
+  },
+  "id": 6462494675
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0047759,
+      47.1179864
+    ]
+  },
+  "properties": {
+    "id": 10974815014,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "no",
+    "email": "vukhachooang@yahoo.de",
+    "level": "0",
+    "name": "Asia Wok",
+    "opening_hours": "Tu-Fr 10:30-14:30, 17:00-22:30; Sa-Su,PH 10:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 970 44 68",
+    "takeaway": "yes",
+    "website": "https://www.wok-willisau.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10974815014
+}

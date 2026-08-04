@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0603405,
+      47.390775
+    ]
+  },
+  "properties": {
+    "id": 10862203906,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-09-25",
+    "cuisine": "oriental",
+    "name": "Safari Oriental Restaurant",
+    "opening_hours": "Tu-Th 11:00-14:00,17:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-22:00; Mo off",
+    "website": "https://www.safari-oriental-restaurant.ch/"
+  },
+  "id": 10862203906
+}

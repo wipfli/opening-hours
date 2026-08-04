@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1823666,
+      47.2548633
+    ]
+  },
+  "properties": {
+    "id": 12035568145,
+    "addr:city": "Reinach AG",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "5734",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Arooi-Maak",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:00-21:30; Sa 11:00-22:00",
+    "phone": "+41 62 771 47 00",
+    "website": "http://www.arooi-maak.ch/"
+  },
+  "id": 12035568145
+}

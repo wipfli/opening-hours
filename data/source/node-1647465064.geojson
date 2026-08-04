@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8180939,
+      47.2276217
+    ]
+  },
+  "properties": {
+    "id": 1647465064,
+    "addr:city": "Rapperswil SG",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "8640",
+    "addr:street": "Schmiedgasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2026-07-02",
+    "check_date:opening_hours": "2025-11-27",
+    "cuisine": "kebab;pizza;sandwich;salad;bistro",
+    "delivery": "no",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "official_name": "Bistro Altstadtegge",
+    "opening_hours": "Tu-Th 11:30-14:00,17:30-24:00, Fr,Sa 11:30-01:00, Su 11:30-24:00",
+    "outdoor_seating": "yes",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "phone": "+41 55 2104546",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://altstadtegge.ch",
+    "website:menu": "https://altstadtegge.ch/doc/Karte.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 1647465064
+}

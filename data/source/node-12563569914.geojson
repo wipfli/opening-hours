@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4490982,
+      46.9475247
+    ]
+  },
+  "properties": {
+    "id": 12563569914,
+    "addr:city": "Bern",
+    "addr:housenumber": "60",
+    "addr:postcode": "3011",
+    "addr:street": "M\u00fcnstergasse",
+    "amenity": "restaurant",
+    "cuisine": "american;mexican",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@burritobandito.ch",
+    "level": "0;1",
+    "name": "Burrito Bandito",
+    "opening_hours": "Tu-Th 11:30-21:00; Fr-Sa 11:30-22:00; Su 11:30-21:00",
+    "payment:cards": "yes",
+    "payment:contactless": "yes",
+    "phone": "+41 31 525 26 58",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:handwashing": "yes",
+    "website": "https://www.burritobandito.ch"
+  },
+  "id": 12563569914
+}

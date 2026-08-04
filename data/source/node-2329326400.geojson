@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1920712,
+      47.1349366
+    ]
+  },
+  "properties": {
+    "id": 2329326400,
+    "addr:city": "Sempach",
+    "addr:housenumber": "47",
+    "addr:postcode": "6204",
+    "addr:street": "Stadtstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "T\u00fcrmli",
+    "opening_hours": "Mo-Sa 09:00-00:00; Su 09:00-22:00",
+    "operator": "AO Gastro AG",
+    "phone": "+41 41 460 22 88",
+    "website": "https://www.tuermli-sempach.ch/"
+  },
+  "id": 2329326400
+}

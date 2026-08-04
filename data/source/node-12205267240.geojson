@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8151693,
+      47.2262003
+    ]
+  },
+  "properties": {
+    "id": 12205267240,
+    "addr:housenumber": "15",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-24",
+    "check_date:diet:vegan": "2026-04-24",
+    "check_date:diet:vegetarian": "2026-04-24",
+    "check_date:opening_hours": "2026-04-24",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Paia Pok\u00e9",
+    "opening_hours": "Mo-Fr 11:30-14:30, Mo-Th 18:00-21:00, Fr 18:00-22:00, Sa 12:00-22:00, Su 12:00-20:00",
+    "website": "https://www.paiapoke.ch"
+  },
+  "id": 12205267240
+}

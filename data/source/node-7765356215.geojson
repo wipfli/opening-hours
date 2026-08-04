@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3764687,
+      46.5657136
+    ]
+  },
+  "properties": {
+    "id": 7765356215,
+    "addr:city": "Zweisimmen",
+    "addr:housenumber": "32",
+    "addr:postcode": "3770",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "contact:email": "willkommen@forellensee.ch",
+    "cuisine": "regional;ice_cream;coffee_shop;international;cake;salad;dessert",
+    "diet:fish": "yes",
+    "diet:healthy": "yes",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:organic": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Forellensee",
+    "opening_hours": "Mo-Tu off; We-Su 11:30-22:00; 2025: Oct 06-Dec 31 closed; 2026: Jan 01-Apr 16 closed",
+    "phone": "+41337222969",
+    "website": "https://www.forellensee.ch/"
+  },
+  "id": 7765356215
+}

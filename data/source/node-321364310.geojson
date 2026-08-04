@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5470004,
+      47.3772558
+    ]
+  },
   "properties": {
-    "@id": "node/321364310",
+    "id": 321364310,
     "addr:housename": "ETH TAN",
     "addr:street": "Tannenstrasse",
     "amenity": "restaurant",
@@ -27,12 +34,5 @@
     "website": "https://web.sv-restaurant.ch/stores/42011/details",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5470004,
-      47.3772558
-    ]
-  },
-  "id": "node-321364310"
+  "id": 321364310
 }

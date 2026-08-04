@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.238496,
+      47.3855077
+    ]
+  },
+  "properties": {
+    "id": 10934904851,
+    "addr:city": "Dottikon",
+    "addr:housenumber": "16",
+    "addr:postcode": "5605",
+    "addr:street": "Othmarsingerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-09",
+    "check_date:currency:XBT": "2025-06-09",
+    "cuisine": "regional",
+    "currency:XBT": "yes",
+    "name": "Restaurant Zum G\u00fcggel",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Tu,We off; Sa 10:00-14:30,17:00-23:00; Su 10:00-14:30,17:00-21:00",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "yes",
+    "phone": "+41 56 624 12 24",
+    "survey:date": "2023-05-28",
+    "website": "https://www.gueggel.ch"
+  },
+  "id": 10934904851
+}

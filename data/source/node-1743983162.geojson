@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.429633,
+      46.9307535
+    ]
+  },
+  "properties": {
+    "id": 1743983162,
+    "amenity": "restaurant",
+    "check_date": "2025-03-10",
+    "cuisine": "italian;pizza",
+    "name": "Medusa",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr 08:30-24:30; Sa 11:00-24:30; Su 11:00-23:00",
+    "phone": "+41 31 972 08 52",
+    "takeaway": "yes",
+    "website": "https://medusabern.ch/"
+  },
+  "id": 1743983162
+}

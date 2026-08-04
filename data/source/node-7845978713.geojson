@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7010077,
+      47.4970473
+    ]
+  },
+  "properties": {
+    "id": 7845978713,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "68",
+    "addr:postcode": "8406",
+    "addr:street": "Schlosstalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian;pizza",
+    "delivery": "yes",
+    "name": "Bombay Darbar",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa,Su 17:00-22:00",
+    "website": "http://bombaydarbar.ch/index.html"
+  },
+  "id": 7845978713
+}

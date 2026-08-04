@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5245483,
+      47.3715144
+    ]
+  },
   "properties": {
-    "@id": "node/1815839613",
+    "id": 1815839613,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "3",
@@ -16,12 +23,5 @@
     "website": "https://www.silexrestaurant.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5245483,
-      47.3715144
-    ]
-  },
-  "id": "node-1815839613"
+  "id": 1815839613
 }

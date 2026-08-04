@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7437272,
+      47.1310854
+    ]
+  },
+  "properties": {
+    "id": 4594020095,
+    "addr:housenumber": "2",
+    "addr:street": "Heidenb\u00fchl",
+    "amenity": "restaurant",
+    "cuisine": "thai;curry",
+    "name": "Muang Thai",
+    "name:de": "Muang Thai",
+    "opening_hours": "Tu-Fr 11:00-22:30; Sa 17:30-22:30; Su 11:00-21:30",
+    "phone": "+41 55 535 73 30",
+    "website": "https://www.muang-thai.com/"
+  },
+  "id": 4594020095
+}

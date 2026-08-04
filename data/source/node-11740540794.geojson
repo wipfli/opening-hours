@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9605276,
+      46.2768107
+    ]
+  },
+  "properties": {
+    "id": 11740540794,
+    "amenity": "restaurant",
+    "name": "Le Pont du Rh\u00f4ne Monthey",
+    "opening_hours": "Mo-Fr 06:00-15:00",
+    "phone": "+41 24 471 22 72",
+    "website": "https://www.restaurant-lepontdurhone.ch/"
+  },
+  "id": 11740540794
+}

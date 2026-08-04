@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6457278,
+      47.2421722
+    ]
+  },
+  "properties": {
+    "id": 3525701246,
+    "addr:city": "Au (ZH)",
+    "addr:housenumber": "4",
+    "addr:postcode": "8804",
+    "addr:street": "Alte Steinacherstrasse",
+    "amenity": "restaurant",
+    "name": "Sch\u00fctzehuus Au",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa-Su 18:00-00:00",
+    "phone": "+41 44 781 44 77",
+    "website": "https://www.schuetzehuusau.ch/"
+  },
+  "id": 3525701246
+}

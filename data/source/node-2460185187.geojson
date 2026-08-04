@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6348945,
+      47.6996481
+    ]
+  },
+  "properties": {
+    "id": 2460185187,
+    "amenity": "restaurant",
+    "name": "Adler Gartenwirtschaft",
+    "opening_hours": "Tu-Sa 08:30-23:00; Su, PH 09:00-22:00; Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 625 55 15",
+    "website": "https://www.gasthaus-adler.ch/index.php?id=2"
+  },
+  "id": 2460185187
+}

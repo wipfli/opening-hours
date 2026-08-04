@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8808495,
+      47.3670632
+    ]
+  },
+  "properties": {
+    "id": 762194672,
+    "addr:housenumber": "2",
+    "addr:street": "Gublenstrasse",
+    "amenity": "restaurant",
+    "name": "Sch\u00f6ntal",
+    "opening_hours": "Mo-Tu 11:00+; Fr-Sa 11:00-23:30; Su 10:00+",
+    "phone": "+41 52 386 11 17",
+    "website": "https://schoental-bauma.ch/"
+  },
+  "id": 762194672
+}

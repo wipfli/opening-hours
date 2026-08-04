@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0051378,
+      47.2845738
+    ]
+  },
+  "properties": {
+    "id": 1597697704,
+    "amenity": "restaurant",
+    "check_date": "2026-05-17",
+    "check_date:opening_hours": "2026-05-17",
+    "name": "Restaurant Post",
+    "opening_hours": "Mo-Tu, Th-Sa 08:00-23:00; Su 08:00-21:00",
+    "phone": "+41 62 721 59 05",
+    "website": "https://postbottenwil.ch/"
+  },
+  "id": 1597697704
+}

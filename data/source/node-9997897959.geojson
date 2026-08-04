@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1595762,
+      46.8057735
+    ]
+  },
+  "properties": {
+    "id": 9997897959,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "25",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "check_date": "2025-02-20",
+    "cuisine": "vietnamese",
+    "diet:non-vegetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Chez Ginette",
+    "opening_hours": "Mo-We 11:00-14:30,18:00-23:00; Th-Fr 11:00-14:30,18:00-23:30; Sa 11:30-15:30,18:00-23:30",
+    "phone": "+41 26 303 60 52",
+    "website": "https://chezginette.ch/"
+  },
+  "id": 9997897959
+}

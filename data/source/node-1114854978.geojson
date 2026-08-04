@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2177333,
+      47.4786413
+    ]
+  },
+  "properties": {
+    "id": 1114854978,
+    "addr:city": "Windisch",
+    "addr:housenumber": "1",
+    "addr:postcode": "5210",
+    "addr:street": "Dohlenzelgstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "delivery": "yes",
+    "name": "Lenzo Palace",
+    "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 07:00-24:00",
+    "phone": "+41 56 441 76 57",
+    "takeaway": "yes",
+    "website": "https://lenzo-windisch.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1114854978
+}

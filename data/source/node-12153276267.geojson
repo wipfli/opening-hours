@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8359826,
+      46.4684908
+    ]
+  },
+  "properties": {
+    "id": 12153276267,
+    "amenity": "restaurant",
+    "check_date": "2025-04-18",
+    "name": "Funicul\u00ec Funicul\u00e0",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa, Su 08:00-15:00",
+    "operator": "Kym\u00e8m Caf\u00e9",
+    "phone": "+41 21 611 90 99",
+    "website": "https://www.funiculi-funicula.ch/"
+  },
+  "id": 12153276267
+}

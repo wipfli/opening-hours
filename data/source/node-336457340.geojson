@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4778943,
+      47.1671544
+    ]
+  },
+  "properties": {
+    "id": 336457340,
+    "addr:city": "Buchs SG",
+    "addr:housenumber": "2",
+    "addr:postcode": "9470",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab;burger;wraps",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Vibes",
+    "name:en": "Vibes",
+    "name:gsw": "Vibes",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41817563818",
+    "website": "https://www.vibes-restaurants.ch/",
+    "wheelchair": "no"
+  },
+  "id": 336457340
+}

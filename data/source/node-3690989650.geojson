@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.516775,
+      47.172201
+    ]
+  },
+  "properties": {
+    "id": 3690989650,
+    "addr:city": "Zug",
+    "addr:housenumber": "14",
+    "addr:postcode": "6300",
+    "addr:street": "Baarerstrasse",
+    "amenity": "restaurant",
+    "branch": "Zug Metalli",
+    "check_date": "2025-01-03",
+    "cuisine": "japanese;sushi",
+    "delivery": "yes",
+    "delivery:covid19": "only",
+    "level": "0",
+    "name": "Negishi Sushi Bar",
+    "opening_hours": "Mo-Sa 10:00-23:00;Su 16:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.negishi.ch/zug-metalli",
+    "wheelchair": "yes"
+  },
+  "id": 3690989650
+}

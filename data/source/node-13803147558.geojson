@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3358332,
+      47.4105355
+    ]
+  },
+  "properties": {
+    "id": 13803147558,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "154",
+    "addr:postcode": "9014",
+    "addr:street": "F\u00fcrstenlandstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Rose Brugge",
+    "opening_hours": "Mo-Fr 08:30-22:00; Sa 10:00-22:00",
+    "website": "https://www.rosebrugge.ch/"
+  },
+  "id": 13803147558
+}

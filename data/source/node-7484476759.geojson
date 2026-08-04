@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8413936,
+      46.4599212
+    ]
+  },
+  "properties": {
+    "id": 7484476759,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "1800",
+    "addr:street": "Grande Place",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/blablavevey/",
+    "contact:instagram": "https://www.instagram.com/blablavevey/",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Bla Bla Vevey",
+    "opening_hours": "Mo-Su 12:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 922 35 33",
+    "website": "https://www.blablavevey.com/",
+    "website:menu": "https://www.blablavevey.com/restaurant/"
+  },
+  "id": 7484476759
+}

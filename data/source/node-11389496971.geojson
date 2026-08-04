@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6295436,
+      46.5235267
+    ]
+  },
+  "properties": {
+    "id": 11389496971,
+    "addr:housenumber": "6",
+    "addr:postcode": "1004",
+    "addr:street": "Rue de la Tour",
+    "amenity": "restaurant",
+    "cuisine": "caribbean",
+    "indoor_seating": "yes",
+    "name": "Ti Kr\u00e9yol",
+    "opening_hours": "Fr-Sa 17:00-02:00; Tu-We 17:00-23:00; Th 17:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 311 25 57",
+    "website": "https://tikreyol.ch/"
+  },
+  "id": 11389496971
+}

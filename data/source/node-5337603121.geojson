@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7478302,
+      47.6901847
+    ]
+  },
+  "properties": {
+    "id": 5337603121,
+    "addr:city": "Diessenhofen",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "8253",
+    "addr:street": "Rheinstrasse",
+    "amenity": "restaurant",
+    "name": "Unterhof",
+    "opening_hours": "Mo,We,Th,Fr,Sa,Su 09:30-23:00",
+    "phone": "+41 52 646 38 83",
+    "website": "https://www.unterhof.ch/"
+  },
+  "id": 5337603121
+}

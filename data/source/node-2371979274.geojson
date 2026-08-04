@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2470386,
+      47.1427302
+    ]
+  },
+  "properties": {
+    "id": 2371979274,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "24a",
+    "addr:postcode": "2502",
+    "addr:street": "Obergasse",
+    "addr:street:fr": "Rue Haute",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "check_date": "2026-07-11",
+    "cuisine": "regional;swiss;breakfast",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "lescaves.ch@gmail.com",
+    "name": "Restaurant & Bar Les Caves",
+    "opening_hours": "Mo-Fr 17:00-23:00; Sa-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 338 70 70",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://lescaves.ch"
+  },
+  "id": 2371979274
+}

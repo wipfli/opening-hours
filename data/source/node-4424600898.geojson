@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5407173,
+      47.3780227
+    ]
+  },
   "properties": {
-    "@id": "node/4424600898",
+    "id": 4424600898,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -29,12 +36,5 @@
     "website": "https://www.brasserie-federal.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5407173,
-      47.3780227
-    ]
-  },
-  "id": "node-4424600898"
+  "id": 4424600898
 }

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5827168,
+      47.5432006
+    ]
+  },
+  "properties": {
+    "id": 14062279060,
+    "addr:city": "Basel",
+    "addr:housenumber": "1a",
+    "addr:postcode": "4053",
+    "addr:street": "Gundeldingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "spanish;mediterranean",
+    "name": "Max",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-22:00; Sa-Su 09:30-15:00,17:30-22:00",
+    "phone": "+41 76 210 14 54",
+    "website": "https://max-restaurant.ch/"
+  },
+  "id": 14062279060
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9490087,
+      46.2799936
+    ]
+  },
+  "properties": {
+    "id": 10020504786,
+    "addr:city": "Collombey-le-Grand",
+    "addr:housenumber": "1",
+    "addr:postcode": "1868",
+    "addr:street": "Place de la Fontaine",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "name": "Steakhouse La Fontaine",
+    "opening_hours": "Tu,We 08:00-22:30; Th 08:00-23:00; Fr,Sa 08:00-00:00; Su 09:00-15:00",
+    "phone": "+41 24 472 99 53",
+    "website": "https://steakhouselafontaine.ch/"
+  },
+  "id": 10020504786
+}

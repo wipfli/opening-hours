@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0332033,
+      47.3623431
+    ]
+  },
+  "properties": {
+    "id": 7667543507,
+    "amenity": "restaurant",
+    "check_date": "2026-02-19",
+    "name": "Club-Restaurant Sch\u00fctzenrain",
+    "opening_hours": "Mo 18:30-22:00; We 18:00-22:00; Th-Sa 18:30-22:00",
+    "phone": "+41 78 654 28 39",
+    "website": "https://fcentfelden.ch/club-restaurant/"
+  },
+  "id": 7667543507
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1412552,
+      46.2083391
+    ]
+  },
+  "properties": {
+    "id": 2995687573,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "1201",
+    "addr:street": "Boulevard James-Fazy",
+    "amenity": "restaurant",
+    "check_date": "2025-07-21",
+    "cuisine": "regional",
+    "name": "Bagatelle",
+    "opening_hours": "Mo-Su 08:00-23:30",
+    "opening_hours:kitchen": "Mo-Su 11:30-22:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 732 26 29",
+    "website": "https://www.brasseriebagatelle.com"
+  },
+  "id": 2995687573
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5935129,
+      47.5508116
+    ]
+  },
+  "properties": {
+    "id": 11268593147,
+    "addr:city": "Basel",
+    "addr:housenumber": "14",
+    "addr:postcode": "4051",
+    "addr:street": "Aeschengraben",
+    "amenity": "restaurant",
+    "branch": "Aeschen",
+    "cuisine": "pizza",
+    "email": "aeschen@vito.ch",
+    "indoor_seating": "yes",
+    "name": "VITO",
+    "opening_hours": "Mo-We 09:00-22:00; Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 220 55 68",
+    "smoking": "outside",
+    "website": "https://www.vito.ch/aeschen"
+  },
+  "id": 11268593147
+}

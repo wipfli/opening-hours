@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9335153,
+      46.9939359
+    ]
+  },
+  "properties": {
+    "id": 11760507924,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "1",
+    "addr:postcode": "2000",
+    "addr:street": "Avenue DuPeyrou",
+    "amenity": "restaurant",
+    "check_date": "2025-07-31",
+    "cuisine": "fine_dining",
+    "name": "H\u00f4tel DuPeyrou",
+    "opening_hours": "Tu-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "source": "Orthophotos2006sitn50cm",
+    "toilets:wheelchair": "no",
+    "website": "https://dupeyrou.ch",
+    "wheelchair": "limited"
+  },
+  "id": 11760507924
+}

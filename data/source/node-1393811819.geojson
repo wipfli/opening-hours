@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5228253,
+      47.374456
+    ]
+  },
   "properties": {
-    "@id": "node/1393811819",
+    "id": 1393811819,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "138",
     "addr:postcode": "8004",
@@ -22,12 +29,5 @@
     "website:menu": "https://www.lataqueria.ch/menu",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5228253,
-      47.374456
-    ]
-  },
-  "id": "node-1393811819"
+  "id": 1393811819
 }

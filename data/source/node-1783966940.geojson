@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0630557,
+      47.0973692
+    ]
+  },
+  "properties": {
+    "id": 1783966940,
+    "addr:postcode": "8752",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "email": "schuetzenhof-naefels@bluewin.ch",
+    "name": "Hotel Restaurant Sch\u00fctzenhof",
+    "opening_hours": "Fr-We 08:00-24:00",
+    "phone": "+41 55 612 11 37",
+    "tourism": "hotel",
+    "website": "https://www.schuetzenhof-naefels.ch"
+  },
+  "id": 1783966940
+}

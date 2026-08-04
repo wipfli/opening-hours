@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7286933,
+      47.5016982
+    ]
+  },
+  "properties": {
+    "id": 12128125202,
+    "amenity": "restaurant",
+    "cuisine": "italian;mediterranean",
+    "name": "Bistro Villa Str\u00e4uli",
+    "opening_hours": "Mo-Fr 10:00-14:00",
+    "website": "https://www.villastraeuli.ch/de/bistro"
+  },
+  "id": 12128125202
+}

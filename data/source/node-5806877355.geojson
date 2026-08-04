@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.560931,
+      46.8340909
+    ]
+  },
+  "properties": {
+    "id": 5806877355,
+    "amenity": "restaurant",
+    "brewery": "moretti;calanda",
+    "contact:phone": "+41 31 781 08 72",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Al Fiume",
+    "opening_hours": "Tu-We 11:30-14:00,18:00-23:00; Fr-Su 11:00-23:30; Su 09:00-20:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "website": "https://al-fiume.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5806877355
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7757557,
+      47.1163285
+    ]
+  },
+  "properties": {
+    "id": 5294438546,
+    "amenity": "restaurant",
+    "name": "Landgasthof Seeblick",
+    "opening_hours": "Th-Sa 09:00-00:00; Su 9:00-22:00; Mo 09:00-00:00",
+    "restaurant": "single_dish",
+    "website": "https://www.landgasthof-seeblick.ch/"
+  },
+  "id": 5294438546
+}

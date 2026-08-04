@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5291751,
+      47.3840714
+    ]
+  },
   "properties": {
-    "@id": "node/2110405159",
+    "id": 2110405159,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "26",
@@ -24,12 +31,5 @@
     "website": "https://molino.ch/de/pizzeria-ristorante-molino-gasometerstrasse",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5291751,
-      47.3840714
-    ]
-  },
-  "id": "node-2110405159"
+  "id": 2110405159
 }

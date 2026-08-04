@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6356229,
+      46.5170787
+    ]
+  },
+  "properties": {
+    "id": 4935349839,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "10",
+    "addr:postcode": "1003",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "check_date": "2024-02-16",
+    "cuisine": "indian",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Shanti",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 323 74 80",
+    "takeaway": "yes",
+    "website": "https://www.shanti-restaurant.ch/"
+  },
+  "id": 4935349839
+}

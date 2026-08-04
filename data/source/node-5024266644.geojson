@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2390869,
+      46.3859137
+    ]
+  },
+  "properties": {
+    "id": 5024266644,
+    "amenity": "restaurant",
+    "name": "Restaurant Generali",
+    "opening_hours": "Mo-Fr 11:15-13:30",
+    "operator": "ZFV",
+    "outdoor_seating": "yes",
+    "phone": "+41 58 471 01 72",
+    "website": "https://zfv.ch/fr/microsites/generali-restaurant-nyon/"
+  },
+  "id": 5024266644
+}

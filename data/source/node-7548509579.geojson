@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1258325,
+      46.2304577
+    ]
+  },
+  "properties": {
+    "id": 7548509579,
+    "addr:city": "Le Grand-Saconnex",
+    "addr:housenumber": "40",
+    "addr:postcode": "1218",
+    "addr:street": "Chemin du Pommier",
+    "amenity": "restaurant",
+    "name": "Yourte du Grand Saconnex",
+    "opening_hours": "Tu-Su 10:00-23:00",
+    "phone": "+41 77 412 66 05",
+    "website": "https://t-interactions.ch/"
+  },
+  "id": 7548509579
+}

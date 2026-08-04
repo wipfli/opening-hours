@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4510725,
+      47.0575171
+    ]
+  },
+  "properties": {
+    "id": 2820917688,
+    "addr:city": "Sargans",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "7320",
+    "addr:street": "Vild",
+    "amenity": "restaurant",
+    "check_date": "2025-10-19",
+    "email": "info@restaurant-bergwerk-gonzen.ch",
+    "name": "Restaurant Gonzenbergwerk",
+    "opening_hours": "Mo,Tu 09:00-16:30; We-Su 09:00-22:00",
+    "phone": "+41 81 710 68 61",
+    "website": "https://www.restaurant-bergwerk-gonzen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2820917688
+}

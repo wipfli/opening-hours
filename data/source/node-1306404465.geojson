@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0633066,
+      46.0900136
+    ]
+  },
+  "properties": {
+    "id": 1306404465,
+    "addr:city": "Martigny",
+    "addr:housenumber": "51",
+    "addr:postcode": "1920",
+    "addr:street": "Rue du Bourg",
+    "amenity": "restaurant",
+    "check_date": "2026-04-27",
+    "check_date:opening_hours": "2026-04-27",
+    "contact:instagram": "auxbonsvivants_martigny",
+    "cuisine": "french;regional",
+    "email": "info@auxbonsvivants.ch",
+    "name": "Aux bons vivants",
+    "opening_hours": "We-Sa 10:00-14:30,17:00-23:00; Su 10:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 565 05 69",
+    "self_service": "no",
+    "website": "https://www.auxbonsvivants.ch/"
+  },
+  "id": 1306404465
+}

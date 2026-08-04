@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.158941,
+      46.2052679
+    ]
+  },
+  "properties": {
+    "id": 12112471501,
+    "addr:housenumber": "14",
+    "addr:street": "Rue Du-Roveray",
+    "amenity": "restaurant",
+    "contact:facebook": "restaurantpasargades",
+    "contact:instagram": "restaurant_pasargades_gva",
+    "cuisine": "persian",
+    "name": "Pasargades",
+    "opening_hours": "Tu-Sa 12:00-14:30, 18:30-23:00; Su 12:00-14:30, 18:30-22:00; Mo 18:30-23:00",
+    "phone": "+41 22 900 14 02",
+    "website": "https://www.restaurantpasargades.com",
+    "website:menu": "https://www.restaurantpasargades.com/carte"
+  },
+  "id": 12112471501
+}

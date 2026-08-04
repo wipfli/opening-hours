@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8509546,
+      47.0795381
+    ]
+  },
+  "properties": {
+    "id": 1141853564,
+    "addr:city": "Eriswil",
+    "addr:housenumber": "32",
+    "addr:postcode": "4952",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;steak_house",
+    "name": "Gasthof Alpen",
+    "opening_hours": "Tu-Th 08:30-23:30; Fr-Sa 08:30-00:30; Su 09:30-22:00",
+    "phone": "+41 62 966 18 47",
+    "website": "https://gasthof-alpen.ch/"
+  },
+  "id": 1141853564
+}

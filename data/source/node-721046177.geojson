@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.528489,
+      47.3871627
+    ]
+  },
   "properties": {
-    "@id": "node/721046177",
+    "id": 721046177,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "12",
@@ -17,12 +24,5 @@
     "website": "https://www.restaurantalpenrose.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.528489,
-      47.3871627
-    ]
-  },
-  "id": "node-721046177"
+  "id": 721046177
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0779788,
+      46.1052077
+    ]
+  },
+  "properties": {
+    "id": 10310609837,
+    "addr:city": "Martigny",
+    "addr:housenumber": "37",
+    "addr:postcode": "1920",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "asian;thai;chinese",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Chez Tao",
+    "opening_hours": "Mo-Sa 11:00-14:00,18:00-22:00",
+    "phone": "+41277233110",
+    "website": "https://www.restaurant-chinois-chez-tao.ch/"
+  },
+  "id": 10310609837
+}

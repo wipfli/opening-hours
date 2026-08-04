@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9643759,
+      45.9510283
+    ]
+  },
+  "properties": {
+    "id": 3308007340,
+    "addr:city": "Bissone",
+    "addr:postcode": "6816",
+    "addr:street": "Piazza Francesco Borromini",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ristorante La Palma",
+    "opening_hours": "Mo-Su 11:30-15:00,17:45-23:00",
+    "operator": "Futura Ristoranti",
+    "phone": "+4191 649 84 06",
+    "smoking": "outside",
+    "website": "https://www.palmabissone.ch/"
+  },
+  "id": 3308007340
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5236343,
+      46.6059545
+    ]
+  },
+  "properties": {
+    "id": 5927704337,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "fast_food": "yes",
+    "name": "Mokeang Tha\u00ef Food",
+    "opening_hours": "Mo-Th 10:00-14:30, 17:00-21:30; Fr, Sa 10:00-14:30, 17:00-22:00; Su 10:00-14:30, 17:00-21:00",
+    "phone": "+41 21 861 12 75",
+    "website": "https://www.mokeang.ch"
+  },
+  "id": 5927704337
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9512761,
+      46.0059129
+    ]
+  },
+  "properties": {
+    "id": 373417055,
+    "addr:city": "Lugano",
+    "addr:housenumber": "4",
+    "addr:postcode": "6900",
+    "addr:street": "Via Ludovico Ariosto",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "check_date": "2026-01-14",
+    "check_date:opening_hours": "2026-01-14",
+    "cuisine": "italian;pizza",
+    "currency:XBT": "yes",
+    "name": "Commercio",
+    "opening_hours": "Mo-Sa 06:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:lightning": "yes",
+    "payment:onchain": "no",
+    "phone": "+41 91 923 43 64",
+    "website": "https://www.ristorantecommercio.ch"
+  },
+  "id": 373417055
+}

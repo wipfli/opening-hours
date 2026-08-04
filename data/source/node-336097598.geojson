@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.360202,
+      47.4544471
+    ]
+  },
+  "properties": {
+    "id": 336097598,
+    "addr:city": "Wittenbach",
+    "addr:housenumber": "1259",
+    "addr:place": "Erlenholz",
+    "addr:postcode": "9300",
+    "amenity": "restaurant",
+    "mobile": "+41 76 216 43 09",
+    "name": "Erlenholz",
+    "opening_hours": "We-Th 11:00-23:00; Fr-Sa 11:00-00:30; Su 11:00-20:00",
+    "phone": "+41 71 298 45 54",
+    "website": "https://www.erlenholz.ch/"
+  },
+  "id": 336097598
+}

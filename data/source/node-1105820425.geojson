@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6386062,
+      46.5183078
+    ]
+  },
+  "properties": {
+    "id": 1105820425,
+    "addr:housenumber": "17",
+    "addr:postcode": "1005",
+    "addr:street": "Avenue Villamont",
+    "amenity": "restaurant",
+    "check_date": "2025-08-27",
+    "check_date:diet:vegetarian": "2025-08-27",
+    "contact:facebook": "Le-Nil-Bleu-113064756806599",
+    "cuisine": "african;ethiopian",
+    "diet:vegetarian": "yes",
+    "email": "info@nil-bleu.ch",
+    "fax": "+41 21 312 89 81",
+    "indoor_seating": "yes",
+    "name": "Le Nil Bleu",
+    "opening_hours": "Mo-Sa 10:30-14:30, 17:30-22:30; Su 17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 312 89 80",
+    "website": "https://www.nil-bleu.ch/"
+  },
+  "id": 1105820425
+}

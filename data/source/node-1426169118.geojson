@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6391741,
+      47.4069128
+    ]
+  },
+  "properties": {
+    "id": 1426169118,
+    "access": "private",
+    "amenity": "restaurant",
+    "check_date": "2023-04-21",
+    "cuisine": "regional",
+    "name": "Hangar 11",
+    "note": "Personalrestaurant",
+    "opening_hours": "Mo-Fr 07:00-19:30; Sa-Su 07:00-14:00,17:00-19:30",
+    "operator": "SV Group",
+    "phone": "+41 43 931 67 92",
+    "website": "http://hangar11.sv-group.ch"
+  },
+  "id": 1426169118
+}

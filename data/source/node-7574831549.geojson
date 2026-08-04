@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5243812,
+      47.368721
+    ]
+  },
   "properties": {
-    "@id": "node/7574831549",
+    "id": 7574831549,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "32",
@@ -14,12 +21,5 @@
     "phone": "+41 44 554 82 63",
     "website": "https://www.lolas-restaurant.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5243812,
-      47.368721
-    ]
-  },
-  "id": "node-7574831549"
+  "id": 7574831549
 }

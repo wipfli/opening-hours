@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3031716,
+      47.1274221
+    ]
+  },
+  "properties": {
+    "id": 5813439253,
+    "addr:postcode": "8880",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@seehof-walenstadt.ch",
+    "image": "https://www.seehof-walenstadt.ch/wp-content/uploads/2024/05/Haus-aussen-7586-810x366.jpg",
+    "internet_access": "wlan",
+    "name": "Seehof",
+    "name:de": "Restaurant Seehof",
+    "opening_hours": "06:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 735 12 45",
+    "reservation": "yes",
+    "stars": "3",
+    "website": "https://www.seehof-walenstadt.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5813439253
+}

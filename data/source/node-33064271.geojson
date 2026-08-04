@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4256783,
+      46.9555998
+    ]
+  },
+  "properties": {
+    "id": 33064271,
+    "amenity": "restaurant",
+    "check_date": "2024-12-13",
+    "contact:addr": "Schwalbenweg 2, 3012 Bern",
+    "contact:email": "info@restaurantzebra.ch",
+    "cuisine": "regional",
+    "diet:vegetarian": "only",
+    "name": "Zebra",
+    "opening_hours": "We-Sa 18:00-23:00; Su 09:30-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 301 23 40",
+    "website": "https://restaurantzebra.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 33064271
+}

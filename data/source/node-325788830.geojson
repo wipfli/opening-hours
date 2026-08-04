@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8793306,
+      47.2813301
+    ]
+  },
+  "properties": {
+    "id": 325788830,
+    "addr:city": "D\u00fcrnten",
+    "addr:housenumber": "15",
+    "addr:postcode": "8635",
+    "addr:street": "H\u00f6henstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;cake;dessert",
+    "email": "info@landgasthof-hasenstrick.ch",
+    "name": "Landgasthof Hasenstrick",
+    "opening_hours": "24/7",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 250 12 20",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.landgasthof-hasenstrick.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 325788830
+}

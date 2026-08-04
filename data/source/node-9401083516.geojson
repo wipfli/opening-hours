@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2819432,
+      46.2260644
+    ]
+  },
+  "properties": {
+    "id": 9401083516,
+    "addr:housenumber": "1",
+    "addr:street": "Rue de l'Eglise",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "PizzItalia",
+    "opening_hours": "Mo-Su 11:30-14:00, 18:00-22:00",
+    "phone": "+41 27 345 50 61",
+    "website": "https://www.pizzitalia.ch/"
+  },
+  "id": 9401083516
+}

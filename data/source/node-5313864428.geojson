@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7277842,
+      47.498444
+    ]
+  },
+  "properties": {
+    "id": 5313864428,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "3",
+    "addr:postcode": "8400",
+    "addr:street": "Metzggasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-03",
+    "email": "info@sabisbistro.ch",
+    "name": "Sabi's Genuss Bistro",
+    "opening_hours": "Tu 08:00-23:00; We-Th 09:00-23:00; Fr 08:00-24:00; Sa 09:00-24:00",
+    "phone": "+41 79 527 88 66",
+    "website": "https://www.sabisbistro.ch/"
+  },
+  "id": 5313864428
+}

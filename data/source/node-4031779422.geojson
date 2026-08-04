@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5175231,
+      47.3730074
+    ]
+  },
   "properties": {
-    "@id": "node/4031779422",
+    "id": 4031779422,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -13,12 +20,5 @@
     "opening_hours": "Mo-Tu 08:00-17:00; We-Fr 08:00-23:00",
     "website": "https://www.tillsamman.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5175231,
-      47.3730074
-    ]
-  },
-  "id": "node-4031779422"
+  "id": 4031779422
 }

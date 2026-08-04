@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5299156,
+      47.3786741
+    ]
+  },
   "properties": {
-    "@id": "node/1240044657",
+    "id": 1240044657,
     "addr:housenumber": "84",
     "addr:street": "Milit\u00e4rstrasse",
     "amenity": "restaurant",
@@ -22,12 +29,5 @@
     "website": "https://tach.ch",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5299156,
-      47.3786741
-    ]
-  },
-  "id": "node-1240044657"
+  "id": 1240044657
 }

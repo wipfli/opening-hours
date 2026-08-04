@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0362401,
+      47.3648022
+    ]
+  },
+  "properties": {
+    "id": 4799193458,
+    "addr:city": "Oberentfelden",
+    "addr:housenumber": "33",
+    "addr:postcode": "5036",
+    "addr:street": "Grenzweg",
+    "amenity": "restaurant",
+    "name": "Badi-Restaurant",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa, Su 09:00-19:00",
+    "website": "https://www.badi-entfelden.ch/badi-restaurant.shtml"
+  },
+  "id": 4799193458
+}

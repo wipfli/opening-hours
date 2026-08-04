@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526169,
+      47.3773665
+    ]
+  },
   "properties": {
-    "@id": "node/334300587",
+    "id": 334300587,
     "addr:housenumber": "43",
     "addr:street": "Hohlstrasse",
     "amenity": "restaurant",
@@ -14,12 +21,5 @@
     "website": "https://restaurant-aargauerhof.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.526169,
-      47.3773665
-    ]
-  },
-  "id": "node-334300587"
+  "id": 334300587
 }

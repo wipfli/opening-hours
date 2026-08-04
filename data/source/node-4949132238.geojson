@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4963959,
+      47.3684607
+    ]
+  },
+  "properties": {
+    "id": 4949132238,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "486",
+    "addr:postcode": "8055",
+    "addr:street": "Birmensdorferstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-01-20",
+    "cuisine": "burger;kebab;pasta;pizza",
+    "delivery": "yes",
+    "name": "Monti",
+    "opening_hours": "Mo-Fr 10:30-22:30; Sa-Su 14:00-22:30",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://monti-triemli.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4949132238
+}

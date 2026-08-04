@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.636599,
+      46.78185
+    ]
+  },
+  "properties": {
+    "id": 9609850950,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:housenumber": "5",
+    "addr:postcode": "1400",
+    "addr:street": "Ruelle Vautier",
+    "amenity": "restaurant",
+    "name": "Les Aliz\u00e9s",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "SemoNord",
+    "phone": "+41 24 426 66 06",
+    "website": "https://www.semonord.ch/les-alizes/"
+  },
+  "id": 9609850950
+}

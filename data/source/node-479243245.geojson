@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.518937,
+      47.4104848
+    ]
+  },
+  "properties": {
+    "id": 479243245,
+    "addr:housenumber": "211",
+    "addr:postcode": "9044",
+    "addr:street": "Loch",
+    "amenity": "restaurant",
+    "check_date": "2025-11-08",
+    "cuisine": "regional",
+    "name": "Restaurant am Seeli",
+    "opening_hours": "Nov-Mar: Fr-Sa 17:30+; Nov-Mar: Su 11:30-14:30; Apr-Oct: off",
+    "website": "https://www.amseeliwald.ch/",
+    "website:menu": "https://www.amseeliwald.ch/speisekarte"
+  },
+  "id": 479243245
+}

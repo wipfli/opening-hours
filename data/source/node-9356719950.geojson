@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.840197,
+      46.809374
+    ]
+  },
+  "properties": {
+    "id": 9356719950,
+    "addr:city": "Davos Dorf",
+    "addr:housenumber": "3",
+    "addr:postcode": "7260",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "D\u00f6rfji",
+    "opening_hours": "Mo-Sa 08:00-17:00",
+    "phone": "+41 81 416 38 38",
+    "website": "http://www.doerfji.ch/"
+  },
+  "id": 9356719950
+}

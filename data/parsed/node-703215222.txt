@@ -1,7 +1,0 @@
-The website shows Pick-up Takeaway hours, but these are likely also the restaurant hours:
-
-Mo-Fr: 11:00-14:00, 17:30-21:30
-Sa: 12:00-22:00
-Su: Closed
-
-Mo-Fr 11:00-14:00,17:30-21:30; Sa 12:00-22:00; Su off

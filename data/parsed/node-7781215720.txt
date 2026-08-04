@@ -1,7 +1,0 @@
-The website states:
-- Monday to Friday: 11:30 – 24:00
-- Saturday / Sunday: on request (by appointment)
-
-Since Saturday and Sunday are only on request, they should be excluded.
-
-Mo-Fr 11:30-24:00

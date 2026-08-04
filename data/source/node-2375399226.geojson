@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.215538,
+      46.206848
+    ]
+  },
+  "properties": {
+    "id": 2375399226,
+    "addr:city": "Grugnay (Chamoson)",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "1955",
+    "addr:street": "Pont-Crittin",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "drive_in": "no",
+    "name": "Le Lion d'Or",
+    "opening_hours": "Mo-Tu 10:00-16:00; We-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 565 92 60",
+    "takeaway": "yes",
+    "website": "https://liondorchamoson.ch/"
+  },
+  "id": 2375399226
+}

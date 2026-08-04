@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7899664,
+      47.2126387
+    ]
+  },
+  "properties": {
+    "id": 4975015022,
+    "addr:city": "Langenthal",
+    "addr:postcode": "4900",
+    "amenity": "restaurant",
+    "check_date": "2025-09-28",
+    "check_date:opening_hours": "2025-09-28",
+    "name": "Suteria",
+    "opening_hours": "Jul-Sep: Mo-Fr 07:00-18:30; Jul-Sep: Sa 07:30-17:00; Jul-Sep: Su,PH 09:00-13:00; Oct-Jun: Mo-Fr 07:00-18:30; Oct-Jun: Sa 07:30-17:00; Oct-Jun: Su,PH 09:00-17:00",
+    "phone": "+41 62 212 80 40",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.suteria.ch",
+    "wheelchair": "yes",
+    "wheelchair:description": "WC-T\u00fcre nur 71 cm breit, ohne T\u00fcrschliesser"
+  },
+  "id": 4975015022
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1320353,
+      46.2153727
+    ]
+  },
+  "properties": {
+    "id": 9642082656,
+    "addr:housenumber": "55",
+    "addr:street": "Rue du Grand-Pr\u00e9",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Kyo Sushi",
+    "opening_hours": "Mo-Fr 12:00-14:30,19:00-22:30; Sa 18:00-24:00",
+    "website": "http://kyosushigeneve.ch/"
+  },
+  "id": 9642082656
+}

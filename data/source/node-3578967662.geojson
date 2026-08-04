@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8539976,
+      47.2567983
+    ]
+  },
+  "properties": {
+    "id": 3578967662,
+    "addr:city": "R\u00fcti ZH",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "8630",
+    "addr:street": "Ferrachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Sonne",
+    "opening_hours": "Mo,Tu,Th,Fr 11:00-14:00; Sa 17:00-23:00",
+    "website": "https://www.sonne-rueti.ch/"
+  },
+  "id": 3578967662
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6951108,
+      47.5105886
+    ]
+  },
+  "properties": {
+    "id": 7439496294,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "247",
+    "addr:postcode": "8408",
+    "addr:street": "W\u00fclflingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab",
+    "delivery": "yes",
+    "name": "Kebab Treff",
+    "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
+    "takeaway": "yes",
+    "website": "https://www.wuelflingen.kebaptreff.com/info"
+  },
+  "id": 7439496294
+}

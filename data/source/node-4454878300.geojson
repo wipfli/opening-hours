@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3074573,
+      47.4722979
+    ]
+  },
+  "properties": {
+    "id": 4454878300,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "5400",
+    "addr:street": "Weite Gasse",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Fiori",
+    "opening_hours": "Mo 10:00-18:00; Tu-Fr 09:00-21:00; Sa 10:00-22:00",
+    "website": "https://fioribaden.ch/"
+  },
+  "id": 4454878300
+}

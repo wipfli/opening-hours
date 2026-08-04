@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4438314,
+      46.4559009
+    ]
+  },
+  "properties": {
+    "id": 449557753,
+    "addr:housenumber": "13",
+    "addr:street": "Oberriedstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "name": "Elk",
+    "opening_hours": "Th-Su 11:00-22:00",
+    "phone": "+41337331500",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.elk-lenk.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 449557753
+}

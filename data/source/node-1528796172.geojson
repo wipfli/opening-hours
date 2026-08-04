@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1570382,
+      46.203087
+    ]
+  },
+  "properties": {
+    "id": 1528796172,
+    "addr:housenumber": "22",
+    "addr:postcode": "1207",
+    "addr:street": "Rue Muzy",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Chez Marino",
+    "opening_hours": "Mo-Su 11:30-14:30, 18:30-23:00",
+    "phone": "+41 22 736 45 16",
+    "website": "https://www.chez-marino.ch/"
+  },
+  "id": 1528796172
+}

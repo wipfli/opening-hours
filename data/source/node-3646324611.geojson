@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6069146,
+      46.9801179
+    ]
+  },
+  "properties": {
+    "id": 3646324611,
+    "addr:city": "La Br\u00e9vine",
+    "addr:housenumber": "182",
+    "addr:postcode": "2406",
+    "addr:street": "Village",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "name": "l'Isba",
+    "note": "NOUS AVONS LE REGRET DE VOUS ANNONCER LA FERMETURE DU BAR L'ISBA ET CE JUSQU'\u00c0 NOUVEL AVIS. DES LIVRAISONS A DOMICILE SONT ORGANISES SUR DEMANDE. PIZZA ET PLATS A LA CARTE A L'EMPORTER LE MID visitez nous sur facebook: https://www.facebook.com/barlisba/",
+    "opening_hours": "Mo,Tu,Fr 07:00-24:00; We 07:00-18:30; Th off; Sa,Su 07:30-24:00",
+    "phone": "+41 32 935 13 06",
+    "smoking": "no",
+    "website": "https://barisba.wixsite.com/pizzeria"
+  },
+  "id": 3646324611
+}

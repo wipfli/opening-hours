@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464212,
+      47.4098258
+    ]
+  },
+  "properties": {
+    "id": 310139076,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "352",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-03",
+    "cuisine": "steak_house",
+    "indoor_seating": "yes",
+    "name": "Rolli's Steakhouse",
+    "opening_hours": "Mo-Sa 10:00-23:30",
+    "outdoor_seating": "sidewalk",
+    "phone": "+41 44 311 28 80",
+    "website": "https://rollis-steakhouse.ch/",
+    "wheelchair": "no"
+  },
+  "id": 310139076
+}

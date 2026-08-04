@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9439015,
+      47.2903508
+    ]
+  },
+  "properties": {
+    "id": 4316390058,
+    "amenity": "restaurant",
+    "check_date": "2026-02-21",
+    "name": "Zum Goldenen Ochsen",
+    "opening_hours": "Mo-Th 16:00-00:15; Fr 16:00-02:00; Sa 14:00-02:00",
+    "phone": "+41 62 751 44 37",
+    "website": "https://www.ochsen-zofingen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4316390058
+}

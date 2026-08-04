@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.818801,
+      47.2258714
+    ]
+  },
+  "properties": {
+    "id": 3124182769,
+    "addr:city": "Rapperswil SG",
+    "addr:housenumber": "22",
+    "addr:postcode": "8640",
+    "addr:street": "Untere Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Art of Food - South Indian Restaurant",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-21:00; Sa 12:00-22:00; PH off",
+    "phone": "+41 55 210 16 50",
+    "website": "https://www.house-of-spice.ch"
+  },
+  "id": 3124182769
+}

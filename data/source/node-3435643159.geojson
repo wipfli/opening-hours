@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0727917,
+      46.582442
+    ]
+  },
+  "properties": {
+    "id": 3435643159,
+    "addr:city": "Pringy",
+    "addr:housenumber": "3",
+    "addr:postcode": "1663",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant de La Maison du Gruy\u00e8re",
+    "opening_hours": "Mo-Sa 07:30-18:30; Su 08:00-18:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.lamaisondugruyere.ch/restaurant-de/la-maison-du-gruyere-restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 3435643159
+}

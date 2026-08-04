@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.520129,
+      47.3886962
+    ]
+  },
+  "properties": {
+    "id": 5134936743,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "259",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "alt_name": "Pi\u00f9 Schiffbau",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Schiffbau",
+    "brand": "Pi\u00f9",
+    "check_date": "2025-07-26",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Pi\u00f9",
+    "opening_hours": "Mo-Th 11:30-22:30; Fr-Sa 11:30-23:00; Su 12:00-22:00",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "start_date": "2017-10-07",
+    "website": "https://www.piu-ristorante.ch/piu-schiffbau-zurich/",
+    "wheelchair": "yes"
+  },
+  "id": 5134936743
+}

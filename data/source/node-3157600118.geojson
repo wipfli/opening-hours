@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7030246,
+      47.3409715
+    ]
+  },
+  "properties": {
+    "id": 3157600118,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Landgasthof Ochsen",
+    "opening_hours": "Mo,Tu,Th 08:30-23:00; Fr,Sa 08:30-24:00; Su 09:30-20:00",
+    "website": "http://www.gasthof-ochsen.ch"
+  },
+  "id": 3157600118
+}

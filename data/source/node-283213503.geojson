@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4283012,
+      46.9385585
+    ]
+  },
+  "properties": {
+    "id": 283213503,
+    "alt_name": "Restaurant S\u00fcder",
+    "amenity": "restaurant",
+    "contact:addr": "Weissensteinstrasse 61, 3007 Bern",
+    "contact:email": "info@restaurant-sueder.ch",
+    "contact:fax": "+41 31 3715768",
+    "contact:phone": "+41 31 3715767",
+    "name": "dr S\u00fcder",
+    "opening_hours": "Mo off; Tu-Fr 11:00-14:30, 18:00-23:30; Sa 18:00-23:30; Su off",
+    "operator": "Renate Fankhauser & Martin Moser",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.restaurant-sueder.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 283213503
+}

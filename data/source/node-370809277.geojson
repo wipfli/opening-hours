@@ -1,11 +1,19 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5243486,
+      47.371054
+    ]
+  },
   "properties": {
-    "@id": "node/370809277",
+    "id": 370809277,
     "amenity": "restaurant",
     "cuisine": "pizza",
     "delivery": "yes",
     "email": "info@arcadepizzeria.ch",
+    "indoor_seating": "yes",
     "level": "0",
     "name": "Arcade Pizzeria",
     "opening_hours": "Mo-Th 11:00-14:00,18:00-22:00; Fr 11:30-14:00,18:00-23:00; Sa-Su 12:00-14:30,18:00-22:30",
@@ -17,12 +25,5 @@
     "website": "https://arcadepizzeria.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5243486,
-      47.371054
-    ]
-  },
-  "id": "node-370809277"
+  "id": 370809277
 }

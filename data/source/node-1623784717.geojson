@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6301762,
+      46.5157858
+    ]
+  },
+  "properties": {
+    "id": 1623784717,
+    "addr:housenumber": "7",
+    "addr:postcode": "1006",
+    "addr:street": "Rue du Simplon",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-05-05",
+    "contact:facebook": "cafedusimplon",
+    "contact:instagram": "cafedusimplon",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Caf\u00e9 du Simplon",
+    "opening_hours": "Mo-Fr 07:00-23:30; Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 616 31 04",
+    "smoking": "outside",
+    "website": "https://www.cafedusimplon.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1623784717
+}

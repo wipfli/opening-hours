@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0722729,
+      46.1005258
+    ]
+  },
+  "properties": {
+    "id": 13313595239,
+    "amenity": "restaurant",
+    "name": "Le Cercle",
+    "opening_hours": "Tu-Fr 12:00-14:00,19:00-21:30; Sa 19:00-21:30",
+    "website": "https://quartierlodze.com/le-cercle"
+  },
+  "id": 13313595239
+}

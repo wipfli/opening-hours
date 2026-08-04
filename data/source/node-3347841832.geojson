@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5404808,
+      47.4224326
+    ]
+  },
+  "properties": {
+    "id": 3347841832,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "77",
+    "addr:postcode": "8052",
+    "addr:street": "Seebacherstrasse",
+    "amenity": "restaurant",
+    "check_date:diet:vegan": "2025-09-11",
+    "cuisine": "indian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@tandoorhaus.com",
+    "indoor_seating": "yes",
+    "name": "Tandoor House",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 299 94 40",
+    "website": "https://www.tandoorhaus.com",
+    "wheelchair": "no"
+  },
+  "id": 3347841832
+}

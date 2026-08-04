@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8169024,
+      47.2255683
+    ]
+  },
+  "properties": {
+    "id": 4508725395,
+    "addr:housenumber": "5",
+    "addr:postcode": "8640",
+    "addr:street": "Untere Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian;sushi",
+    "name": "Sayori euro asia sushi bar",
+    "name:de": "Sayori euro asia sushi bar",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "phone": "+41 55 214 18 18",
+    "website": "https://www.sayori.ch/sayori/rapperswil/"
+  },
+  "id": 4508725395
+}

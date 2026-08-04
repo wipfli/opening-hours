@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6240465,
+      46.7206769
+    ]
+  },
+  "properties": {
+    "id": 503902725,
+    "addr:city": "Gwatt",
+    "addr:housenumber": "84",
+    "addr:postcode": "3645",
+    "addr:street": "Spiezstrasse",
+    "amenity": "restaurant",
+    "cuisine": "burger;american;barbecue",
+    "loc_name": "Diner 66",
+    "name": "Diner 66",
+    "opening_hours": "Mo-Fr 08:30-22:00; Tu off; Sa 09:00-22:00; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "smoking": "isolated",
+    "website": "https://diner66.ch"
+  },
+  "id": 503902725
+}

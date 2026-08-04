@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7338929,
+      46.2317767
+    ]
+  },
+  "properties": {
+    "id": 2895132247,
+    "amenity": "restaurant",
+    "check_date": "2025-10-26",
+    "cuisine": "regional",
+    "email": "grotto.carossa@gmail.com",
+    "name": "Grotto Ca' Rossa",
+    "opening_hours": "Tu-Su 10:00-14:30,17:30-24:00",
+    "phone": "+41 91 753 28 32",
+    "website": "http://www.grottocarossa.ch"
+  },
+  "id": 2895132247
+}

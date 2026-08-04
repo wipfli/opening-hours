@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2536045,
+      46.9795096
+    ]
+  },
+  "properties": {
+    "id": 11183717636,
+    "addr:city": "Kriens",
+    "addr:housenumber": "2",
+    "addr:place": "Pilatus Kulm",
+    "addr:postcode": "6010",
+    "amenity": "restaurant",
+    "capacity": "200",
+    "cuisine": "regional",
+    "delivery": "no",
+    "ele": "2132",
+    "email": "hotels@pilatus.ch",
+    "indoor_seating": "yes",
+    "name": "Pilatus Kulm",
+    "opening_hours": "Mo-Su 11:30-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 329 12 12",
+    "rooms": "30",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://pilatus.ch/hotels/hotel-pilatus-kulm"
+  },
+  "id": 11183717636
+}

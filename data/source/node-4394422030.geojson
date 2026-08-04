@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5555642,
+      46.7285974
+    ]
+  },
+  "properties": {
+    "id": 4394422030,
+    "addr:city": "Lenzerheide/Lai",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "7078",
+    "addr:street": "Voa Sporz",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pizzeria da Elio",
+    "opening_hours": "Tu-Su 11:00-14:00,17:00-23:00",
+    "phone": "+41 81 384 33 36",
+    "website": "https://www.daelio.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4394422030
+}

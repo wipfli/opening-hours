@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4686379,
+      47.4314707
+    ]
+  },
+  "properties": {
+    "id": 7503094042,
+    "addr:city": "Regensdorf",
+    "addr:place": "Zentrum",
+    "addr:postcode": "8105",
+    "alt_name": "Migros Restaurant Regensdorf",
+    "amenity": "restaurant",
+    "branch": "Regensdorf Zentrum",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "outdoor_seating": "no",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-regensdorf-zentrum-2"
+  },
+  "id": 7503094042
+}

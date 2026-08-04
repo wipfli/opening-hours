@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2111721,
+      46.4898046
+    ]
+  },
+  "properties": {
+    "id": 7243678418,
+    "addr:city": "Rougemont",
+    "addr:housenumber": "9",
+    "addr:postcode": "1659",
+    "addr:street": "Rue des Allamans",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Trattoria",
+    "opening_hours": "We-Su 09:30-14:00, 17:45-22:00",
+    "phone": "+41 26 925 03 53",
+    "website": "https://trattoria-rougemont.com"
+  },
+  "id": 7243678418
+}

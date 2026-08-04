@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.150688,
+      46.211391
+    ]
+  },
+  "properties": {
+    "id": 2817861278,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "37",
+    "addr:postcode": "1201",
+    "addr:street": "Rue Philippe-Plantamour",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "internet_access": "wlan",
+    "name": "The Hamburger Foundation",
+    "opening_hours": "Mo-Su 11:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 310 00 44",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.thehamburgerfoundation.ch/en/restaurant-paquis.html",
+    "wheelchair": "no"
+  },
+  "id": 2817861278
+}

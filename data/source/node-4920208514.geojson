@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9108553,
+      47.3870537
+    ]
+  },
+  "properties": {
+    "id": 4920208514,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sternen Sternenberg",
+    "opening_hours": "We-Th 09:00-22:00,Fr-Sa 09:00-23:00, Su 09:00-17:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:twint": "yes",
+    "phone": "+41 52 386 14 02",
+    "website": "https://www.sternen-sternenberg.ch/"
+  },
+  "id": 4920208514
+}

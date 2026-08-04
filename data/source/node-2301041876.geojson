@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1419449,
+      46.2206127
+    ]
+  },
+  "properties": {
+    "id": 2301041876,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "1202",
+    "addr:street": "Avenue de France",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "email": "contact@thai-phuket.com",
+    "name": "Tha\u00ef Phuket",
+    "note": "surveyed by Alex-7 with OSMpad on bicycle",
+    "opening_hours": "Mo-Fr 12:00-14:30, 19:00-22:30; Sa 19:00-22:30",
+    "phone": "+41 22 734 41 00",
+    "source": "survey",
+    "survey:date": "2013-05-12",
+    "website": "https://www.thai-phuket.ch/",
+    "website:menu": "https://www.thai-phuket.ch/wp-content/uploads/sites/47/2020/04/Menu-Thai-Phuket-20mars-2017-Min.W.F-3.pdf"
+  },
+  "id": 2301041876
+}

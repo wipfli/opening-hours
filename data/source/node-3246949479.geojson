@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6011281,
+      46.5242138
+    ]
+  },
+  "properties": {
+    "id": 3246949479,
+    "addr:city": "Airolo",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "6780",
+    "addr:street": "Via Fontana",
+    "amenity": "restaurant",
+    "contact:email": "caseificiodelgottardo@bluewin.ch",
+    "contact:fax": "+41 91 8691730",
+    "contact:phone": "+41 91 8691180",
+    "name": "Caseificio del Gottardo",
+    "opening_hours": "PH,Mo-Su 09:00-20:00",
+    "operator": "Caseificio dimostrativodel Gottardo SA",
+    "source": "survey and website",
+    "website": "https://www.caseificiodelgottardo.ch/"
+  },
+  "id": 3246949479
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5138059,
+      47.3737738
+    ]
+  },
   "properties": {
-    "@id": "node/7204669291",
+    "id": 7204669291,
     "addr:housenumber": "86",
     "addr:street": "Aemtlerstrasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://tapasandfriends.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5138059,
-      47.3737738
-    ]
-  },
-  "id": "node-7204669291"
+  "id": 7204669291
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1570372,
+      46.8053358
+    ]
+  },
+  "properties": {
+    "id": 5706095223,
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "81",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de Lausanne",
+    "alt_name": "Restaurant Indien Diyarah FR",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Restaurant Indian Diyarah",
+    "opening_hours": "Mo-Su 11:30-14:00,17:30-22:00",
+    "phone": "+41 26 303 79 25",
+    "website": "https://www.restaurantdiyarah.ch/"
+  },
+  "id": 5706095223
+}

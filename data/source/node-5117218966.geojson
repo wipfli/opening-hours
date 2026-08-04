@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5388583,
+      47.5228606
+    ]
+  },
+  "properties": {
+    "id": 5117218966,
+    "amenity": "restaurant",
+    "branch": "B\u00fclach",
+    "cuisine": "italian;pizza",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "dieci Pizza Kurier",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-22:00; Fr-Sa 11:00-13:30,17:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 527 57 10",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://dieci.ch/de/pizzakurier-buelach",
+    "wheelchair": "yes"
+  },
+  "id": 5117218966
+}

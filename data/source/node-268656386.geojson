@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4654856,
+      47.4300419
+    ]
+  },
+  "properties": {
+    "id": 268656386,
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "8105",
+    "addr:street": "Watterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-09",
+    "cuisine": "regional",
+    "name": "Gasthof Hirschen",
+    "opening_hours": "Mo-Fr 09:00-22:30; Sa 17:30-22:30; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 843 22 22",
+    "smoking": "isolated",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "https://www.hirschen-regensdorf.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 268656386
+}

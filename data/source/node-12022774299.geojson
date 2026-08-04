@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7469328,
+      46.0223595
+    ]
+  },
+  "properties": {
+    "id": 12022774299,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "3",
+    "addr:postcode": "3920",
+    "addr:street": "Brantschenhaus",
+    "alt_name": "Shogun Japanese Restaurant",
+    "amenity": "restaurant",
+    "branch": "Zermatt",
+    "cuisine": "japanese",
+    "delivery": "yes",
+    "email": "shogun@matterhorn-group.ch",
+    "name": "Shogun Sushi Restaurant",
+    "opening_hours": "Mo off; Tu-Fr 18:00-23:00; Sa-Su 12:00-14:00,18:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 27 966 28 44",
+    "takeaway": "yes",
+    "website": "https://shogun-japan-restaurant-zermatt.ch/"
+  },
+  "id": 12022774299
+}

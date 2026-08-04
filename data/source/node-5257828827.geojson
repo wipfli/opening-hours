@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5606113,
+      47.4516151
+    ]
+  },
+  "properties": {
+    "id": 5257828827,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "email": "customer.relations@ssp-ch.com",
+    "level": "1",
+    "name": "Sports Bar & Terrace",
+    "opening_hours": "Mo-Su,PH 06:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 816 85 98",
+    "website": "https://www.foodtravelexperts.com/",
+    "wheelchair": "yes"
+  },
+  "id": 5257828827
+}

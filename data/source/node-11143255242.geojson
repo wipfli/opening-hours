@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1556686,
+      46.8044177
+    ]
+  },
+  "properties": {
+    "id": 11143255242,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Holy Cow!",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "website": "https://www.holycow.ch/"
+  },
+  "id": 11143255242
+}

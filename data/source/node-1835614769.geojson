@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2915556,
+      47.435259
+    ]
+  },
+  "properties": {
+    "id": 1835614769,
+    "amenity": "restaurant",
+    "name": "Restaurant Linde",
+    "opening_hours": "Mo-Tu,Th-Su 06:00-24:00",
+    "website": "https://www.linde-fislisbach.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1835614769
+}

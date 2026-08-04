@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5260285,
+      47.3876044
+    ]
+  },
   "properties": {
-    "@id": "node/1508362751",
+    "id": 1508362751,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "231",
@@ -22,12 +29,5 @@
     "website": "https://www.restaurant-maha.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5260285,
-      47.3876044
-    ]
-  },
-  "id": "node-1508362751"
+  "id": 1508362751
 }

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2801822,
+      47.0920063
+    ]
+  },
+  "properties": {
+    "id": 11153427965,
+    "addr:city": "Flumserberg",
+    "addr:housenumber": "9",
+    "addr:postcode": "8898",
+    "addr:street": "Molseralpstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@colors-flumserberg.ch",
+    "name": "COLORS - Restaurant und Bar",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "operator": "BBF Gastro AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 720 15 60",
+    "website": "https://www.colors-flumserberg.ch/",
+    "website:menu": "https://www.colors-flumserberg.ch/restaurant-und-bar/speisekarte/"
+  },
+  "id": 11153427965
+}

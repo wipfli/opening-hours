@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5161251,
+      47.1882688
+    ]
+  },
+  "properties": {
+    "id": 11727148023,
+    "addr:city": "Baar",
+    "addr:housenumber": "8",
+    "addr:postcode": "6340",
+    "addr:street": "Oberneuhofstrasse",
+    "amenity": "restaurant",
+    "email": "info@neuhof-kulinaria.ch",
+    "name": "Neuhof Kulinaria",
+    "opening_hours": "Mo-Fr 08:30-14:00, Th-Fr 16:30+",
+    "phone": "+41 41 761 8125",
+    "reservation": "yes",
+    "website": "https://neuhof-kulinaria.ch/"
+  },
+  "id": 11727148023
+}

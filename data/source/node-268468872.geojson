@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.546484,
+      47.3671867
+    ]
+  },
   "properties": {
-    "@id": "node/268468872",
+    "id": 268468872,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "8",
@@ -22,12 +29,5 @@
     "website": "https://www.yoojis.com/standorte/zuerich-i-bellevue/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.546484,
-      47.3671867
-    ]
-  },
-  "id": "node-268468872"
+  "id": 268468872
 }

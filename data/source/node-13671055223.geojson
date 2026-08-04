@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6056359,
+      47.5537856
+    ]
+  },
+  "properties": {
+    "id": 13671055223,
+    "addr:city": "Basel",
+    "addr:housenumber": "19",
+    "addr:postcode": "4052",
+    "addr:street": "Weidengasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;mediterranean",
+    "email": "info@trattoria-ossobuco.ch",
+    "lunch": "yes",
+    "name": "Trattoria Ossobuco",
+    "opening_hours": "Tu-Fr 12:00-14:00, Tu-Sa, PH 18:00-22:00",
+    "operator": "Ivan di Grazio",
+    "outdoor_seating": "yes",
+    "phone": "+41612292725",
+    "website": "https://www.trattoria-ossobuco.ch",
+    "website:menu": "https://www.trattoria-ossobuco.ch/menu-a-la-carte/"
+  },
+  "id": 13671055223
+}

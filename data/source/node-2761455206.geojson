@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3243358,
+      47.4557779
+    ]
+  },
+  "properties": {
+    "id": 2761455206,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizzeria an der Limmat",
+    "opening_hours": "Mo-Th 10:00-14:00,17:00-22:00; Fr 10:00-14:00,17:00-23:00; Su 16:00-22:00",
+    "website": "http://www.pizzeria-limmat.ch/"
+  },
+  "id": 2761455206
+}

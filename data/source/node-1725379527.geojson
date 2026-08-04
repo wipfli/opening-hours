@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.612569,
+      46.7633614
+    ]
+  },
+  "properties": {
+    "id": 1725379527,
+    "amenity": "restaurant",
+    "fax": "+41 33 221 12 48",
+    "internet_access": "no",
+    "name": "Z\u00fcndkapselfabrik",
+    "opening_hours": "Mo-Fr 07:30-15:00",
+    "operator": "Transfair",
+    "phone": "+41 33 221 48 15",
+    "smoking": "outside",
+    "website": "https://www.trans-fair.ch/gastronomie/zuendkapselfabrik"
+  },
+  "id": 1725379527
+}

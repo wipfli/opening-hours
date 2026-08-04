@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3617188,
+      46.232633
+    ]
+  },
+  "properties": {
+    "id": 8358643709,
+    "addr:city": "Sion",
+    "addr:housenumber": "9",
+    "addr:postcode": "1950",
+    "addr:street": "Rue des Tanneries",
+    "amenity": "restaurant",
+    "name": "C \u00e7a",
+    "opening_hours": "Tu-th 10:00-24:00; Fr-Sa 10:00-01:00",
+    "phone": "+41 27 322 44 02",
+    "website": "https://www.c-ca.ch/"
+  },
+  "id": 8358643709
+}

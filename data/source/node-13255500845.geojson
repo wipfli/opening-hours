@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6073912,
+      46.3398282
+    ]
+  },
+  "properties": {
+    "id": 13255500845,
+    "amenity": "restaurant",
+    "email": "nuovalocandaturisti@gmail.com",
+    "name": "Locanda Turisti",
+    "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-01:00; Sa 07:00-01:00; Su,PH 07:00-24:00",
+    "phone": "+41 91 760 70 28",
+    "website": "https://locanda-turisti.ch/ristorante/"
+  },
+  "id": 13255500845
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5958467,
+      47.4084178
+    ]
+  },
+  "properties": {
+    "id": 1707472545,
+    "addr:city": "Wallisellen",
+    "addr:country": "CH",
+    "addr:housenumber": "99",
+    "addr:place": "Glattzentrum",
+    "addr:postcode": "8301",
+    "addr:street": "Neue Winterthurerstrasse",
+    "alt_name": "Migros Restaurant Glattzentrum",
+    "amenity": "restaurant",
+    "branch": "Wallisellen Glattzentrum",
+    "cuisine": "international",
+    "delivery": "no",
+    "level": "2",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 09:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "phone": "+41 44 839 20 50",
+    "self_service": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-wallisellen-glattzentrum",
+    "wheelchair": "yes"
+  },
+  "id": 1707472545
+}

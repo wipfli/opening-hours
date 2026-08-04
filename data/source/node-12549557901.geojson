@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1238542,
+      46.2076953
+    ]
+  },
+  "properties": {
+    "id": 12549557901,
+    "addr:housenumber": "24",
+    "addr:postcode": "1203",
+    "addr:street": "Avenue d'A\u00efre",
+    "amenity": "restaurant",
+    "cuisine": "georgian;italian;italian_pizza",
+    "email": "rdmaisonmarani@gmail.com",
+    "level": "0",
+    "name": "Maison Marani",
+    "opening_hours": "Tu-Fr 12:00-14:30, 18:30-23:00; Sa 18:30-23:00; Su 12:00-14:30",
+    "outdoor_seating": "24",
+    "phone": "+41223440606",
+    "website": "https://www.maisonmarani.ch/"
+  },
+  "id": 12549557901
+}

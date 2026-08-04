@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3071542,
+      47.473927
+    ]
+  },
+  "properties": {
+    "id": 10138287186,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "5400",
+    "addr:street": "Schlossbergplatz",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Cai Sushi",
+    "opening_hours": "Mo-Th 11:00-14:00,17:00-22:00; Fr-Sa 11:00-22:00",
+    "takeaway": "yes",
+    "website": "https://cai-sushi.business.site"
+  },
+  "id": 10138287186
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5660055,
+      47.4516486
+    ]
+  },
+  "properties": {
+    "id": 9788411743,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-09-02",
+    "diet:vegetarian": "yes",
+    "email": "zoom.zurich@hyatt.com",
+    "name": "ZOOM Restaurant & Bar",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "phone": "+41 44 597 12 34",
+    "website": "https://www.hyatt.com/de-DE/hotel/switzerland/hyatt-place-zurich-airport-the-circle/zrhzz/dining",
+    "wheelchair": "yes"
+  },
+  "id": 9788411743
+}

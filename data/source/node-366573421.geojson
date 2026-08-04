@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3969768,
+      47.1244893
+    ]
+  },
+  "properties": {
+    "id": 366573421,
+    "addr:city": "Gisikon",
+    "addr:housenumber": "1",
+    "addr:postcode": "6038",
+    "addr:street": "Tellstrasse",
+    "amenity": "restaurant",
+    "email": "tell@remimag.ch",
+    "fax": "+41 41 450 29 09",
+    "name": "Tell",
+    "opening_hours": "Apr-Sep Mo-Th 09:00-23:00, Fr-Sa 09:00-24:00, Su 09:00-23:00; Oct-Mar Mo-Th 09:00-22:30, Fr-Sa 09:00-23:30, Su 09:00-22:30",
+    "phone": "+41 41 450 12 61",
+    "website": "https://www.gasthof-tell.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 366573421
+}

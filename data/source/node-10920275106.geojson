@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1398859,
+      46.1958824
+    ]
+  },
+  "properties": {
+    "id": 10920275106,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "91",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-07-14",
+    "cuisine": "mexican",
+    "email": "geneve@luchalibre.ch",
+    "indoor_seating": "yes",
+    "name": "Lucha Libre",
+    "opening_hours": "Mo 17:00-24:00; Tu-Th 11:45-14:30, 17:00-24:00; We 11:30-15:00,17:00-25:00; Fr 11:45-14:30, 17:00-25:00; Sa 11:30-14:30, 17:00-25:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 321 62 77",
+    "website": "https://www.luchalibre.ch/copie-de-reservations-geneve",
+    "wheelchair": "yes"
+  },
+  "id": 10920275106
+}

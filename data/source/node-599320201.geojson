@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9692034,
+      46.3177087
+    ]
+  },
+  "properties": {
+    "id": 599320201,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/restantdumarche/",
+    "cuisine": "regional",
+    "email": "infos@restaurant-du-marche.ch",
+    "name": "Caf\u00e9 Restaurant du March\u00e9",
+    "opening_hours": "Mo-Sa 09:00-22:30",
+    "phone": "+41 24 466 46 49",
+    "website": "https://www.restaurant-marche-aigle.com/"
+  },
+  "id": 599320201
+}

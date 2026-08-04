@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5179287,
+      47.1776904
+    ]
+  },
+  "properties": {
+    "id": 2083545723,
+    "addr:city": "Zug",
+    "addr:housenumber": "87",
+    "addr:postcode": "6300",
+    "addr:street": "Baarerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-01-31",
+    "cuisine": "salad",
+    "name": "Lieblings Salat",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-20:00; Sa 11:00-18:00",
+    "website": "https://lieblingssalat.ch/"
+  },
+  "id": 2083545723
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5673361,
+      47.3921033
+    ]
+  },
+  "properties": {
+    "id": 4773480629,
+    "amenity": "restaurant",
+    "brewery": "Sch\u00fctzengarten",
+    "cuisine": "regional",
+    "email": "karla.kobelt@gmx.ch",
+    "indoor_seating": "yes",
+    "microbrewery": "no",
+    "name": "Linde",
+    "opening_hours": "Mo-Fr 09:00-11:30,15:00-12:00; Sa 15:00-12:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 717771346",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.linde-marbach.ch",
+    "wheelchair": "no"
+  },
+  "id": 4773480629
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2445474,
+      47.1401469
+    ]
+  },
+  "properties": {
+    "id": 12168076191,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "8",
+    "addr:postcode": "2502",
+    "addr:street": "Pont-du-Moulin / M\u00fchlebr\u00fccke",
+    "amenity": "restaurant",
+    "cuisine": "spanish;portuguese",
+    "name": "Au Rendez-Vous",
+    "opening_hours": "Tu-Fr 09:30-1430,17:00-23:00; Sa 10:00-14:30,17:00-23:00",
+    "phone": "+41324970747",
+    "toilets:wheelchair": "no",
+    "website": "http://www.tapasaurendezvous.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 12168076191
+}

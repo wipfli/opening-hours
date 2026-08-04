@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5520167,
+      47.413863
+    ]
+  },
+  "properties": {
+    "id": 4408792429,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "36/38",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-11-02",
+    "cuisine": "steak_house",
+    "name": "Steakhouse Argentina",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr 10:00-24:00; Sa 16:00-24:00; Su 11:00-23:00; Jul-Aug Sa-Su off",
+    "operator": "Dine & Drink GmbH",
+    "outdoor_seating": "yes",
+    "website": "https://www.steakhouse-argentina.ch/oerlikon/"
+  },
+  "id": 4408792429
+}

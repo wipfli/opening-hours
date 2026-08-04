@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9263922,
+      46.9969901
+    ]
+  },
+  "properties": {
+    "id": 12206140601,
+    "amenity": "restaurant",
+    "name": "La casa de la pizza",
+    "opening_hours": "Su-Th 18:00-22:00; Fr-Sa 18:00-23:00",
+    "website": "https://www.lacasadelapizza.ch"
+  },
+  "id": 12206140601
+}

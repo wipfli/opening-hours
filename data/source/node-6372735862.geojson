@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7113952,
+      47.2276159
+    ]
+  },
+  "properties": {
+    "id": 6372735862,
+    "addr:city": "Berken",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:place": "Unterberken",
+    "addr:postcode": "3376",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "nfo@loewenberken.ch",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo-Tu off",
+    "phone": "+41 62 963 17 44",
+    "website": "http://www.loewenberken.ch"
+  },
+  "id": 6372735862
+}

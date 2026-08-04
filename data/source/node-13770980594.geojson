@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2260245,
+      47.2840987
+    ]
+  },
+  "properties": {
+    "id": 13770980594,
+    "addr:city": "Meisterschwanden",
+    "addr:housenumber": "1",
+    "addr:postcode": "5616",
+    "addr:street": "Seerosenstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Cocon",
+    "opening_hours": "Tu-Sa 18:00+",
+    "phone": "+41 56 676 68 68",
+    "website": "https://www.seerose.ch/de/restaurant-uebersichtsseite/restaurant-cocon"
+  },
+  "id": 13770980594
+}

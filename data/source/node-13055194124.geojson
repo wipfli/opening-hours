@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8461523,
+      46.9428086
+    ]
+  },
+  "properties": {
+    "id": 13055194124,
+    "addr:city": "Cortaillod",
+    "addr:housenumber": "2",
+    "addr:postcode": "2016",
+    "addr:street": "Rue des Coteaux",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "H\u00f4tel de Commune",
+    "opening_hours": "Mo-Sa 09:30-14:00,17:00-23:00; Su 09:00-14:00,17:00-22:00",
+    "phone": "+41328411209",
+    "takeaway": "yes",
+    "website": "https://www.restauranthotelcommune.ch"
+  },
+  "id": 13055194124
+}

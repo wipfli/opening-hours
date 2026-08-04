@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6340718,
+      46.5224115
+    ]
+  },
+  "properties": {
+    "id": 9275344621,
+    "amenity": "restaurant",
+    "check_date": "2025-09-20",
+    "check_date:diet:vegetarian": "2025-09-20",
+    "contact:facebook": "https://www.facebook.com/LeBarbareLausanne",
+    "contact:instagram": "https://www.instagram.com/le_barbare_lausanne/",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Le Barbare",
+    "opening_hours": "Tu, We 08:00-00:00; Th, Fr 08:00-01:00; Sa 09:00-01:00; Su 10:00-18:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.lebarbare.ch/"
+  },
+  "id": 9275344621
+}

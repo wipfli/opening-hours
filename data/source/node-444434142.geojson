@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4391205,
+      46.9469538
+    ]
+  },
+  "properties": {
+    "id": 444434142,
+    "alt_name": "Caf\u00e9 Restaurant Domino",
+    "amenity": "restaurant",
+    "check_date": "2025-05-26",
+    "check_date:opening_hours": "2025-05-26",
+    "contact:addr": "Schwanengasse 3, 3011 Bern",
+    "contact:email": "husseini.k@bluewin.ch",
+    "contact:phone": "+41 31 3114191",
+    "cuisine": "lebanese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Domino",
+    "opening_hours": "Mo-Sa 10:00-23:00; Su,PH off",
+    "opening_hours:kitchen": "Mo-Sa 11:00-14:00,18:00-22:00",
+    "operator": "Caf\u00e9 Restaurant Domino GmbH",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.domino-bern.ch/"
+  },
+  "id": 444434142
+}

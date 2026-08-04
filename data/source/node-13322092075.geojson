@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2403113,
+      47.1350628
+    ]
+  },
+  "properties": {
+    "id": 13322092075,
+    "amenity": "restaurant",
+    "contact:addr": "Sch\u00fcsspromenade 14d, 2502 Biel/Bienne",
+    "contact:phone": "+41 32 322 18 40",
+    "indoor_seating": "yes",
+    "name": "Caf\u00e9 Restaurant de l'Ecluse",
+    "opening_hours": "Nov-Mar: Tu 10:00-23:30; Fr-Sa 10:00-23:30; We-Th 10:00-14:00, 17:00-23:30; Su-Mo off; Apr-Oct: Tu-Sa 10:00-23:30; Su-Mo off",
+    "outdoor_seating": "yes",
+    "website": "https://ecluse-biel.ch",
+    "wheelchair": "yes"
+  },
+  "id": 13322092075
+}

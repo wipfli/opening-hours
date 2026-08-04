@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5322322,
+      46.8507867
+    ]
+  },
+  "properties": {
+    "id": 506052551,
+    "amenity": "restaurant",
+    "name": "Restaurant Calanda",
+    "opening_hours": "Mo-Su 09:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 253 08 80",
+    "reservation": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.calanda-chur.ch",
+    "wheelchair": "yes"
+  },
+  "id": 506052551
+}

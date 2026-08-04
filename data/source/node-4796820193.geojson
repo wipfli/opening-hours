@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0458819,
+      47.3616337
+    ]
+  },
+  "properties": {
+    "id": 4796820193,
+    "addr:city": "Unterentfelden",
+    "addr:housenumber": "8",
+    "addr:postcode": "5035",
+    "addr:street": "Binzmattweg",
+    "alt_name": "Migros Restaurant Unterentfelden",
+    "amenity": "restaurant",
+    "branch": "Unterentfelden",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-unterentfelden"
+  },
+  "id": 4796820193
+}

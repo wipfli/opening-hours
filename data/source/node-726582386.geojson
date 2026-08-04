@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1858106,
+      46.8365906
+    ]
+  },
+  "properties": {
+    "id": 726582386,
+    "addr:city": "Giswil",
+    "addr:housenumber": "48",
+    "addr:postcode": "6074",
+    "addr:street": "Br\u00fcnigstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hotel Bahnhof",
+    "opening_hours": "We-Su 08:30-22:30",
+    "phone": "+41 41 675 11 61",
+    "toilets:wheelchair": "no",
+    "website": "https://www.bahnhofgiswil.ch/",
+    "wheelchair": "no",
+    "wheelchair:description": "Bei sch\u00f6nem Wetter ist der Garten ohne Stufen erreichbar. Dort 100 Pl\u00e4tze."
+  },
+  "id": 726582386
+}

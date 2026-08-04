@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3412283,
+      46.8176183
+    ]
+  },
+  "properties": {
+    "id": 5926757957,
+    "addr:city": "Schwarzenburg",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "3150",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "name": "B\u00e4ren",
+    "opening_hours": "Tu-Sa 08:30-21:00+",
+    "website": "https://baeren-schwarzenburg.ch/"
+  },
+  "id": 5926757957
+}

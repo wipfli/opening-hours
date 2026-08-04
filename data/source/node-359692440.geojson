@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7185647,
+      47.5019996
+    ]
+  },
+  "properties": {
+    "id": 359692440,
+    "addr:postcode": "8400",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-01-12",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "level": "0",
+    "name": "Restaurant Merano",
+    "opening_hours": "Mo-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41522225888",
+    "self_service": "no",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-merano.ch",
+    "wheelchair": "no"
+  },
+  "id": 359692440
+}

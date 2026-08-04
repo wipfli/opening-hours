@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7816724,
+      47.365804
+    ]
+  },
+  "properties": {
+    "id": 301663066,
+    "addr:city": "Pf\u00e4ffikon ZH",
+    "addr:country": "CH",
+    "addr:housenumber": "41",
+    "addr:postcode": "8330",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-31",
+    "email": "info@braui.com",
+    "fax": "+41 449 512 748",
+    "is_in": "Pf\u00e4ffikon,Z\u00fcrich,Switzerland,Europe",
+    "name": "Brauerei",
+    "opening_hours": "Tu-Fr 11:00-14:00,16:30-23:30; Sa 16:30-23:00; PH off",
+    "phone": "+41 449 512 747",
+    "url": "http://www.braui.com/",
+    "website": "https://www.braui.com/",
+    "wheelchair": "limited"
+  },
+  "id": 301663066
+}

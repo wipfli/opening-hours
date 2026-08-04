@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4923689,
+      46.5042309
+    ]
+  },
+  "properties": {
+    "id": 4871242795,
+    "addr:city": "Morges",
+    "addr:housenumber": "13",
+    "addr:postcode": "1110",
+    "addr:street": "Promenade G\u00e9n\u00e9ral Guisan",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "facebook": "lapiscotte",
+    "name": "Lido du L\u00e9man",
+    "opening_hours": "Mo-Su 09:30-22:00",
+    "phone": "+41218024704",
+    "website": "https://www.lidoduleman.ch"
+  },
+  "id": 4871242795
+}

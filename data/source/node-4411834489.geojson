@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2372345,
+      46.3842204
+    ]
+  },
+  "properties": {
+    "id": 4411834489,
+    "addr:housenumber": "2",
+    "addr:postcode": "1260",
+    "addr:street": "Rue Jules-Gachet",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;mediterranean",
+    "delivery:covid19": "yes",
+    "email": "nyon@luigia.ch",
+    "name": "Luigia",
+    "opening_hours": "Mo-Th 11:30-14:00, 18:00-23:30; Fr 11:30-14:00, 18:00-23:00; Sa 12:00-23:00; Su 12:00-22:30",
+    "phone": "+41 22 310 09 00",
+    "website": "https://www.luigia.ch/fr"
+  },
+  "id": 4411834489
+}

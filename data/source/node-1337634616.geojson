@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.452659,
+      46.948233
+    ]
+  },
+  "properties": {
+    "id": 1337634616,
+    "alt_name": "Caf\u00e9 du Commerce",
+    "amenity": "restaurant",
+    "contact:addr": "Gerechtigkeitsgasse 74, 3011 Bern",
+    "contact:email": "info@restaurant-commerce.com",
+    "contact:fax": "+41 31 3117974",
+    "contact:phone": "+41 31 3111161",
+    "cuisine": "spanish",
+    "name": "Commerce",
+    "opening_hours": "Mo 17:00-23:30; Tu-Sa 11:00-14:30, 17:00-23:30; Su off",
+    "source": "survey and website",
+    "website": "https://www.restaurant-commerce.com/"
+  },
+  "id": 1337634616
+}

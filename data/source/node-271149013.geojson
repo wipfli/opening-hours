@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478765,
+      47.3654324
+    ]
+  },
   "properties": {
-    "@id": "node/271149013",
+    "id": 271149013,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "19-21",
@@ -28,12 +35,5 @@
     "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-stadelhofen",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5478765,
-      47.3654324
-    ]
-  },
-  "id": "node-271149013"
+  "id": 271149013
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7133319,
+      47.3515441
+    ]
+  },
+  "properties": {
+    "id": 331350098,
+    "addr:city": "Uster",
+    "addr:housenumber": "13",
+    "addr:postcode": "8610",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-12",
+    "level": "0",
+    "name": "Schl\u00fcssel Bar",
+    "opening_hours": "Sa,Su 17:30-18:00+",
+    "phone": "+41 44 991 28 38",
+    "website": "https://schl\u00fcsselbar.ch",
+    "wheelchair": "limited"
+  },
+  "id": 331350098
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4380102,
+      46.9475398
+    ]
+  },
+  "properties": {
+    "id": 9563432108,
+    "addr:city": "Bern",
+    "addr:housenumber": "10",
+    "addr:postcode": "3011",
+    "addr:street": "Bubenbergplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-05-05",
+    "level": "1",
+    "name": "Lokero Bistro",
+    "opening_hours": "Mo-We 07:00-22:00; Th-Fr 07:00-23:00; Sa 09:00-23:00; Su 09:00-20:00",
+    "outdoor_seating": "yes",
+    "start_date": "2020-04-24",
+    "website": "https://lokero.ch/"
+  },
+  "id": 9563432108
+}

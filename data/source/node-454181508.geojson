@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9482956,
+      46.4161858
+    ]
+  },
+  "properties": {
+    "id": 454181508,
+    "addr:city": "Veytaux",
+    "addr:housenumber": "12",
+    "addr:postcode": "1820",
+    "addr:street": "Route du Terravet",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-01",
+    "contact:facebook": "https://www.facebook.com/aubergedesonchaux/",
+    "contact:instagram": "https://www.instagram.com/auberge_de_sonchaux/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g911522-d1171022-Reviews-Auberge_de_Sonchaux_Terravet-Veytaux_Canton_of_Vaud.html",
+    "email": "aubergesonchaux@gmail.com",
+    "image": "https://img.ricardostatic.ch/images/f3e715fc-b085-42d4-bd60-56d15f55c4e0/t_1000x750/sanchaud-restaurant-auberge-de-sonchaux",
+    "name": "Auberge de Sonchaux",
+    "opening_hours": "Apr 01-Jun 30 09:00-22:00; Apr 01-Jun 30 Tu off; Jul 01-Aug 30 09:00-22:00; Sep 01-Oct 30 Mo 09:00-22:15; Sep 01-Oct 30 We-Su 09:00-22:00",
+    "phone": "+41 21 963 44 67",
+    "source:opening_hours": "website",
+    "website": "https://www.aubergedesonchaux.ch/"
+  },
+  "id": 454181508
+}

@@ -1,8 +1,0 @@
-Looking at the website content, I can see clear opening hours for lunch and dinner:
-
-Lunch: Monday - Friday, 11:30 - 14:00
-Dinner: Monday - Saturday, 18:00 - 00:00
-
-These are straightforward hours with no signs of JavaScript dynamic content or ambiguity.
-
-Mo-Fr 11:30-14:00; Mo-Sa 18:00-00:00

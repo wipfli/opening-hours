@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7662625,
+      47.2513157
+    ]
+  },
+  "properties": {
+    "id": 1701559604,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "name": "Ristorante Sch\u00f6nau",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00+; We off; Sa 17:00+",
+    "phone": "+41 55 244 14 64",
+    "website": "https://www.restaurantschoenau.ch/"
+  },
+  "id": 1701559604
+}

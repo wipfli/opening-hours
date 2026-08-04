@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4953166,
+      46.5077161
+    ]
+  },
+  "properties": {
+    "id": 2974366301,
+    "addr:city": "Morges",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "1110",
+    "addr:street": "Les Rives-de-la-Morges",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "La Rive",
+    "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-00:00; Su 09:00-23:00",
+    "phone": "+41 21 803 53 53",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.restaurantlarive.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2974366301
+}

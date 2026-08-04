@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7801795,
+      47.5484808
+    ]
+  },
+  "properties": {
+    "id": 3595070782,
+    "addr:city": "Dinhard",
+    "addr:housenumber": "86",
+    "addr:postcode": "8474",
+    "addr:street": "Riedm\u00fchlestrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Riedm\u00fchle",
+    "opening_hours": "Mo 11:30-13:30,17:30-21:00; We-Sa 11:30-13:30,17:30-21:00; Su 11:30-14:00,17:00-20:00",
+    "phone": "+41 52 336 11 98",
+    "website": "https://www.riedmuehli.ch/"
+  },
+  "id": 3595070782
+}

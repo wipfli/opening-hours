@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5554336,
+      47.5513807
+    ]
+  },
+  "properties": {
+    "id": 519860581,
+    "addr:city": "Teufen ZH",
+    "addr:housenumber": "1",
+    "addr:place": "T\u00f6ssegg",
+    "addr:postcode": "8428",
+    "amenity": "restaurant",
+    "email": "mc.albrecht@bluewin.ch",
+    "name": "T\u00f6ssegg",
+    "opening_hours": "Oct 1-Oct Tu[3] Mo-Tu closed; Oct Sa[-2]-Jan 31 closed",
+    "phone": "+41 44 865 65 55",
+    "website": "https://www.toessegg.ch/"
+  },
+  "id": 519860581
+}

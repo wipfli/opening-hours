@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5551599,
+      47.4175762
+    ]
+  },
+  "properties": {
+    "id": 12563439201,
+    "addr:housenumber": "74",
+    "addr:postcode": "8050",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "Vitabella.zurich",
+    "cuisine": "italian",
+    "email": "welcome@vitabellazurich.ch",
+    "level": "0",
+    "name": "Vitabella",
+    "opening_hours": "Mo-Fr 09:00-22:00",
+    "phone": "+41445383900",
+    "website": "https://vitabellazurich.ch",
+    "website:menu": "https://vitabellazurich.ch/speisekarte/"
+  },
+  "id": 12563439201
+}

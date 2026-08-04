@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7197938,
+      47.2491572
+    ]
+  },
+  "properties": {
+    "id": 2757964078,
+    "addr:city": "St\u00e4fa",
+    "addr:country": "CH",
+    "addr:housenumber": "47",
+    "addr:postcode": "8712",
+    "addr:street": "Allenbergstrasse",
+    "amenity": "restaurant",
+    "email": "salzwaag@gmail.com",
+    "name": "zur Salzwaag",
+    "opening_hours": "Tu-Sa 08:00-23:00; Su 09:00-22:00",
+    "phone": "+41 43 477 05 04",
+    "website": "https://www.salzwaag.ch/"
+  },
+  "id": 2757964078
+}

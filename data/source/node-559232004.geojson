@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4670016,
+      46.9578432
+    ]
+  },
+  "properties": {
+    "id": 559232004,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "3014",
+    "addr:street": "Mingerstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@curlingbern.ch",
+    "contact:fax": "+41 31 3314482",
+    "contact:phone": "+41 31 3319940",
+    "name": "Caledonia",
+    "opening_hours": "Mo-Fr 11:00-15:00",
+    "operator": "Sportgastro AG",
+    "website": "https://www.caledonia-bern.ch"
+  },
+  "id": 559232004
+}

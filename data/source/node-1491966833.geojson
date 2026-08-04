@@ -1,13 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/1491966833",
-    "amenity": "restaurant",
-    "name": "Bederhof",
-    "opening_hours": "Mo-Fr 11:30-14:00,18:30-23:00; Sa 18:30-23:00; Su off",
-    "website": "https://bederhof.ch/",
-    "wheelchair": "limited"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -15,5 +7,13 @@
       47.3624137
     ]
   },
-  "id": "node-1491966833"
+  "properties": {
+    "id": 1491966833,
+    "amenity": "restaurant",
+    "name": "Bederhof",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-23:00; Sa 18:30-23:00; Su off",
+    "website": "https://bederhof.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1491966833
 }

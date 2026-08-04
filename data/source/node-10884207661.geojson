@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3425918,
+      47.350526
+    ]
+  },
+  "properties": {
+    "id": 10884207661,
+    "addr:city": "Bremgarten AG",
+    "addr:housenumber": "22",
+    "addr:postcode": "5620",
+    "addr:street": "Antonigasse",
+    "amenity": "restaurant",
+    "name": "Stadthof",
+    "opening_hours": "Mo-Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+    "website": "https://www.stadthof-bremgarten.ch"
+  },
+  "id": 10884207661
+}

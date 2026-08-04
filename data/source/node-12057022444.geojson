@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5146524,
+      46.8489878
+    ]
+  },
+  "properties": {
+    "id": 12057022444,
+    "addr:city": "Chur",
+    "addr:housenumber": "10",
+    "addr:postcode": "7000",
+    "addr:street": "Ringstrasse",
+    "amenity": "restaurant",
+    "name": "Energia",
+    "opening_hours": "Mo-Fr 08:00-16:30",
+    "phone": "+41 81 257 50 68",
+    "website": "https://www.ksgr.ch/energia"
+  },
+  "id": 12057022444
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1274322,
+      46.2359347
+    ]
+  },
+  "properties": {
+    "id": 528517475,
+    "addr:city": "Le Grand-Saconnex",
+    "addr:housenumber": "48",
+    "addr:street": "L'Ancienne-Route",
+    "amenity": "restaurant",
+    "name": "Delice Ange'Vin",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:00-22:00",
+    "phone": "+41 22 798 07 27",
+    "website": "restaurant-delice-angevin.com"
+  },
+  "id": 528517475
+}

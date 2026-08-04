@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5511155,
+      47.0732329
+    ]
+  },
+  "properties": {
+    "id": 279388840,
+    "addr:city": "Kernenried",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "3309",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@gasthof-loewen.ch",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo-Sa 11:00-22:30; Tu off; Su 11:00-19:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 7677181",
+    "website": "https://www.gasthof-loewen.ch"
+  },
+  "id": 279388840
+}

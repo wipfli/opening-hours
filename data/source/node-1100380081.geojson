@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7085774,
+      47.1912871
+    ]
+  },
+  "properties": {
+    "id": 1100380081,
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "name": "Groggi",
+    "opening_hours": "Mo 09:00-14:00; Tu-Su 09:00-23:00",
+    "website": "https://restaurant-groggi.ch/"
+  },
+  "id": 1100380081
+}

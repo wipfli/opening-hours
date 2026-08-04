@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1504047,
+      47.5484558
+    ]
+  },
+  "properties": {
+    "id": 7522032744,
+    "addr:city": "B\u00fcrglen TG",
+    "addr:housenumber": "2c",
+    "addr:postcode": "8575",
+    "addr:street": "Industriestrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "Kulturrausch",
+    "cuisine": "italian;mexican",
+    "name": "Pizzeria Bale's",
+    "opening_hours": "Mo-Tu, Th-Fr 17:00-23:00; Sa 16:00-23:00; Su 14:00-23:00",
+    "phone": "+41716331212",
+    "website": "https://www.pizzeriabales.ch/"
+  },
+  "id": 7522032744
+}

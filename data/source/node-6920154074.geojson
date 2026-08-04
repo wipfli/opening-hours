@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5000241,
+      46.9004782
+    ]
+  },
+  "properties": {
+    "id": 6920154074,
+    "addr:housenumber": "3",
+    "addr:street": "Obere Egg",
+    "amenity": "restaurant",
+    "email": "corneliaaschwanden@gmail.com",
+    "name": "Alpstubli Gitschenen",
+    "opening_hours": "Fr 09:00-17:00; Sa-Su 10:00-17:00",
+    "phone": "+41 41 878 00 92",
+    "website": "https://alpstubli-gitschenen.ch"
+  },
+  "id": 6920154074
+}

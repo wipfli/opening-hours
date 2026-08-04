@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6032289,
+      47.3128726
+    ]
+  },
+  "properties": {
+    "id": 8094056705,
+    "addr:city": "K\u00fcsnacht (ZH)",
+    "addr:housenumber": "115",
+    "addr:postcode": "8700",
+    "addr:street": "Hesligenstrasse",
+    "amenity": "restaurant",
+    "name": "Sch\u00fctzenstube",
+    "opening_hours": "We-Su 10:00-24:00",
+    "phone": "+41 44 910 40 35",
+    "website": "https://schutzenstube-kusnacht.business.site/"
+  },
+  "id": 8094056705
+}

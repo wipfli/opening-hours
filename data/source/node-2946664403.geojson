@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3722254,
+      47.3502184
+    ]
+  },
+  "properties": {
+    "id": 2946664403,
+    "amenity": "restaurant",
+    "name": "Gr\u00fcne Bode",
+    "opening_hours": "We-Sa 11:00-23:00; Su 11:00-22:00; Mo-Tu off",
+    "phone": "+41 56 633 32 24",
+    "website": "https://www.gruenebode.ch/"
+  },
+  "id": 2946664403
+}

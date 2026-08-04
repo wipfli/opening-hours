@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4486186,
+      46.9531895
+    ]
+  },
+  "properties": {
+    "id": 9015194277,
+    "addr:city": "Bern",
+    "addr:housenumber": "3",
+    "addr:postcode": "3013",
+    "addr:street": "Kornhausstrasse",
+    "amenity": "restaurant",
+    "cuisine": "bar_and_grill",
+    "email": "fb@kursaal-bern.ch",
+    "name": "Rooftop Grill",
+    "opening_hours": "Tu-Sa 17:00-23:00",
+    "phone": "+41 31 339 52 60",
+    "website": "https://www.rooftop-grill.ch"
+  },
+  "id": 9015194277
+}

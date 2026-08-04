@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6434707,
+      47.4424771
+    ]
+  },
+  "properties": {
+    "id": 10785019054,
+    "access": "permissive",
+    "addr:city": "St. Margrethen",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "9430",
+    "addr:street": "Obere Heldsbergstrasse",
+    "amenity": "restaurant",
+    "contact:phone": "+41 71 744 82 08",
+    "disused:military": "bunker",
+    "layer": "-1",
+    "name": "Heldsbergstube",
+    "opening_hours": "Sa 10:00-16:00",
+    "operator": "Festungsmuseum Heldsberg",
+    "website": "https://festung.ch/essen-und-trinken/"
+  },
+  "id": 10785019054
+}

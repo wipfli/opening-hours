@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8962789,
+      47.5556153
+    ]
+  },
+  "properties": {
+    "id": 5972847718,
+    "addr:city": "Frauenfeld",
+    "addr:housenumber": "1",
+    "addr:postcode": "8500",
+    "addr:street": "Rheinstrasse",
+    "alt_name": "Molino Frauenfeld",
+    "amenity": "restaurant",
+    "branch": "Frauenfeld",
+    "brand": "Molino",
+    "check_date": "2024-01-12",
+    "cuisine": "italian;pizza",
+    "level": "0",
+    "name": "Molino",
+    "opening_hours": "Mo-Su 11:30-14:00,18:00-23:00; PH open",
+    "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
+    "operator": "Ospena Group",
+    "toilets": "yes",
+    "website": "https://molino.ch/de/pizzeria-ristorante-molino-frauenfeld",
+    "wheelchair": "limited"
+  },
+  "id": 5972847718
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3073413,
+      47.4746779
+    ]
+  },
+  "properties": {
+    "id": 5295057322,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "5400",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-30",
+    "check_date:opening_hours": "2026-05-30",
+    "cuisine": "american;mediterranean",
+    "email": "info@colombobaden.ch",
+    "name": "Colombo",
+    "opening_hours": "We,Th 10:00-23:00; Fr 10:00-24:00; Sa 09:00-24:00; Su 09:30-17:30",
+    "phone": "+41565520202",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.colombobaden.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5295057322
+}

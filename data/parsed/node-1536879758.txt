@@ -1,7 +1,0 @@
-Looking at the opening hours listed:
-
-- Mo - Fr: 10.00 - 14.00 and 17.30 - 23.00
-- Sa: 17.30 - 23.00
-- So: geschlossen (closed)
-
-Mo-Fr 10:00-14:00,17:30-23:00; Sa 17:30-23:00

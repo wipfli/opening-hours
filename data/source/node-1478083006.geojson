@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3302039,
+      46.6666348
+    ]
+  },
+  "properties": {
+    "id": 1478083006,
+    "addr:city": "Le Pont",
+    "addr:housenumber": "47",
+    "addr:postcode": "1342",
+    "addr:street": "Sur les Quais",
+    "amenity": "restaurant",
+    "email": "rest.lac.pont@bluewin.ch",
+    "name": "Restaurant du Lac",
+    "opening_hours": "Mo,Th-Su 11:00-14:30, 18:30-23:00",
+    "phone": "+41 21 841 12 96",
+    "website": "https://restaurantdulaclepont.com/"
+  },
+  "id": 1478083006
+}

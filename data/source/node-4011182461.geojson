@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.04887,
+      47.4665857
+    ]
+  },
+  "properties": {
+    "id": 4011182461,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "18",
+    "addr:postcode": "9500",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Hong Kong",
+    "opening_hours": "Tu-Sa 11:30-14:00",
+    "phone": "+41 71 911 81 65",
+    "website": "http://china-restaurant-hongkong.ch"
+  },
+  "id": 4011182461
+}

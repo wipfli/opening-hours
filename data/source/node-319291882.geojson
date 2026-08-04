@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5040594,
+      47.3807554
+    ]
+  },
   "properties": {
-    "@id": "node/319291882",
+    "id": 319291882,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "457",
@@ -24,12 +31,5 @@
     "website:menu": "https://pavillon.ooki.tokyo/data/files/EN_Ooki_Pavillon_MenueInhalt_20241007.pdf",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5040594,
-      47.3807554
-    ]
-  },
-  "id": "node-319291882"
+  "id": 319291882
 }

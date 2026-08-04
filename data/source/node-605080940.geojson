@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4161036,
+      47.422
+    ]
+  },
+  "properties": {
+    "id": 605080940,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "151",
+    "addr:postcode": "9011",
+    "addr:street": "Speicherstrasse",
+    "amenity": "restaurant",
+    "capacity": "40",
+    "cuisine": "regional",
+    "email": "info@schwarzerbaeren.ch",
+    "internet_access": "wlan",
+    "name": "Schwarzer B\u00e4ren",
+    "opening_hours": "Th-Su 09:00-22:00",
+    "phone": "+41 71 280 17 16",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "http://www.schwarzerbaeren.ch"
+  },
+  "id": 605080940
+}

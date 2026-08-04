@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4833655,
+      46.9698933
+    ]
+  },
+  "properties": {
+    "id": 419793506,
+    "addr:city": "Valens",
+    "addr:housenumber": "1",
+    "addr:postcode": "7317",
+    "addr:street": "Taminaplatz",
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "delivery": "no",
+    "name": "Zanai",
+    "opening_hours": "Tu-Su 11:30-21:30",
+    "phone": "+41 58 511 15 55",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://restaurant-zanai.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 419793506
+}

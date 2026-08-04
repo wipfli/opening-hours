@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3903659,
+      47.3115745
+    ]
+  },
+  "properties": {
+    "id": 9907217332,
+    "addr:city": "Oberlunkhofen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8917",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "capacity": "16",
+    "cuisine": "thai",
+    "name": "Restaurant Central",
+    "opening_hours": "Mo 17:00-21:00; Tu-Th 11:00-14:00,17:00-21:00; Fr 11:00-14:00,17:00-21:30; Sa 17:00-21:30",
+    "takeaway": "yes",
+    "website": "https://u-dom.ch/"
+  },
+  "id": 9907217332
+}

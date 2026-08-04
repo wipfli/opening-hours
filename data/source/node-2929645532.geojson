@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4231148,
+      46.9533972
+    ]
+  },
+  "properties": {
+    "id": 2929645532,
+    "addr:housenumber": "8",
+    "addr:postcode": "3012",
+    "addr:street": "Fabrikstrasse",
+    "alt_name": "Mensa und Cafeteria vonRoll",
+    "amenity": "restaurant",
+    "check_date": "2025-09-01",
+    "contact:addr": "Fabrikstrasse 8, 3012 Bern",
+    "contact:email": "mensavonroll@zfv.ch",
+    "contact:fax": "+41 31 6315818",
+    "contact:phone": "+41 31 6845810",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Mensa vonRoll",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "source": "website",
+    "website": "https://www.gastro-unibern.ch/standorte/mensa-vonroll/",
+    "wheelchair": "yes"
+  },
+  "id": 2929645532
+}

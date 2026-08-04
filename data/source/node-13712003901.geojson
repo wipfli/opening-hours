@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6273472,
+      46.5121786
+    ]
+  },
+  "properties": {
+    "id": 13712003901,
+    "addr:housenumber": "6",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue du Grammont",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "info@yokocho.ch",
+    "name": "Yokoch\u014d",
+    "opening_hours": "Tu-Th 11:30-23:00; Fr 11:30-00:00; Sa 11:00-00:00; Su 11:00-16:00",
+    "website": "https://www.yokocho.ch/",
+    "website:menu": "https://www.yokocho.ch/menus"
+  },
+  "id": 13712003901
+}

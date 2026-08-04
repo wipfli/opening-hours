@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4465106,
+      46.9474238
+    ]
+  },
+  "properties": {
+    "id": 1066324526,
+    "alt_name": "Ristorante Pizzeria da Bucolo",
+    "amenity": "restaurant",
+    "contact:addr": "Amthausgasse 10, 3011 Bern",
+    "contact:email": "team@dabucolo.ch",
+    "contact:phone": "+41 31 3328282",
+    "cuisine": "italian;pizza",
+    "diet:gluten_free": "yes",
+    "name": "da Bucolo",
+    "opening_hours": "Mo-Fr 11:30-14:30, 17:30-23:30; Sa 17:30-23:30",
+    "outdoor_seating": "no",
+    "website": "https://dabucolo.ch/"
+  },
+  "id": 1066324526
+}

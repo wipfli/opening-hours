@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3081841,
+      47.0491893
+    ]
+  },
+  "properties": {
+    "id": 5695175222,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "La Bestia - Pizza Pizza",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-22:30; Fr 11:30-14:00,17:30-24:00; Sa 11:30-24:00; Su 12:00-21:00",
+    "website": "https://labestia-luzern.ch/"
+  },
+  "id": 5695175222
+}

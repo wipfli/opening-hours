@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8973307,
+      46.4903798
+    ]
+  },
+  "properties": {
+    "id": 766917933,
+    "amenity": "restaurant",
+    "name": "Station",
+    "opening_hours": "Mo-Su 11:30-14:00, 18:00-21:30",
+    "phone": "+41 81 838 80 00",
+    "website": "https://www.station-pontresina.ch/de/gastronomie/restaurant-und-pizzeria"
+  },
+  "id": 766917933
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4528131,
+      46.9463221
+    ]
+  },
+  "properties": {
+    "id": 253201362,
+    "alt_name": "Zum Z\u00e4hringer",
+    "amenity": "restaurant",
+    "contact:addr": "Badgasse 1, 3011 Bern",
+    "contact:email": "info@restaurant-zaehringer.ch",
+    "contact:fax": "+41 31 3120887",
+    "contact:phone": "+41 31 3120888",
+    "contact:website": "https://www.restaurant-zaehringer.ch/kontakt.php",
+    "name": "Z\u00e4hringer",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-23:30; Sa 18:00-23:30; Su off",
+    "source": "survey and website",
+    "website": "https://www.restaurant-zaehringer.ch"
+  },
+  "id": 253201362
+}

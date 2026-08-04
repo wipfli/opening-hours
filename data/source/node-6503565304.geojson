@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6211218,
+      46.8766129
+    ]
+  },
+  "properties": {
+    "id": 6503565304,
+    "addr:city": "Konolfingen",
+    "addr:housenumber": "21",
+    "addr:postcode": "3510",
+    "addr:street": "Thunstrasse",
+    "alt_name": "Migros Restaurant Konolfingen",
+    "amenity": "restaurant",
+    "branch": "Konolfingen",
+    "changing_table": "yes",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "designated",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-konolfingen",
+    "wheelchair": "yes"
+  },
+  "id": 6503565304
+}

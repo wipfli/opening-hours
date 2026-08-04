@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3665444,
+      47.4189399
+    ]
+  },
+  "properties": {
+    "id": 6520718675,
+    "addr:postcode": "9000",
+    "amenity": "restaurant",
+    "check_date": "2026-05-20",
+    "check_date:opening_hours": "2026-05-20",
+    "contact:instagram": "ninos_forchetta",
+    "cuisine": "pizza;italian",
+    "name": "Forchetta d'oro",
+    "opening_hours": "Mo-We 11:30-14:00; Th-Fr 17:30-23:00",
+    "phone": "+41712225080",
+    "website": "https://forchettadoro.ch/"
+  },
+  "id": 6520718675
+}

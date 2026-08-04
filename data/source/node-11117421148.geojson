@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2830003,
+      47.3172335
+    ]
+  },
+  "properties": {
+    "id": 11117421148,
+    "amenity": "restaurant",
+    "contact:email": "info@dorfplatz-urnaesch.ch",
+    "fixme": "name, Restaurant von der Metzgerei Signer",
+    "name": "Gasthaus \"Dorfplatz\"",
+    "opening_hours": "Tu-Fr 08:30-19:00; Sa-Su 09:30-16:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 71 3641160",
+    "website": "https://www.signer-gastro.ch/"
+  },
+  "id": 11117421148
+}

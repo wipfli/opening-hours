@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5424142,
+      47.3803612
+    ]
+  },
+  "properties": {
+    "id": 4599535995,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "4",
+    "addr:postcode": "8006",
+    "addr:street": "Stampfenbachplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-06-02",
+    "cuisine": "japanese",
+    "instagram": "machidashoten_sui",
+    "name": "Machida Shoten",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa-Su 11:30-23:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "website": "https://ch.machidashoten.com/",
+    "wheelchair": "yes"
+  },
+  "id": 4599535995
+}

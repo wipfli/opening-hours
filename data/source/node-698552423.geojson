@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.581831,
+      47.557879
+    ]
+  },
+  "properties": {
+    "id": 698552423,
+    "amenity": "restaurant",
+    "check_date": "2024-08-28",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Zum Tell",
+    "opening_hours": "Mo-Fr 11:00-14:30,18:00-24:00; Sa 18:00-24:00; PH closed",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "website": "https://www.zumtellbasel.ch/",
+    "wheelchair": "no"
+  },
+  "id": 698552423
+}

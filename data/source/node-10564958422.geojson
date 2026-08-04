@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.124144,
+      46.1871196
+    ]
+  },
+  "properties": {
+    "id": 10564958422,
+    "addr:city": "Grand-Lancy",
+    "addr:housenumber": "2",
+    "addr:postcode": "1212",
+    "addr:street": "Place de Pont-Rouge",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;pasta",
+    "name": "Adretissimo",
+    "opening_hours": "Mo-Th 09:00-22:30; Fr 09:00-23:30; Sa 18:30-23:30",
+    "phone": "+41 22 879 60 10",
+    "takeaway": "yes",
+    "website": "https://www.adretissimo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 10564958422
+}

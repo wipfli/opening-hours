@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9205876,
+      46.9883468
+    ]
+  },
+  "properties": {
+    "id": 415608099,
+    "addr:housenumber": "1",
+    "addr:postcode": "2000",
+    "addr:street": "Quai Louis-Perrier",
+    "amenity": "restaurant",
+    "email": "info@bainsdesdames.ch",
+    "name": "Les Bains des Dames",
+    "opening_hours": "Apr-Sep Mo-Su 10:00-23:00; Oct-Mar off",
+    "phone": "+41 32 721 26 55",
+    "website": "https://www.bainsdesdames.ch"
+  },
+  "id": 415608099
+}

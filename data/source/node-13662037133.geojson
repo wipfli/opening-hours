@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0423047,
+      47.4622376
+    ]
+  },
+  "properties": {
+    "id": 13662037133,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "1",
+    "addr:postcode": "9500",
+    "addr:street": "Untere Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Greco",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "+41 71 555 96 75",
+    "website": "https://grecofinefood.ch/"
+  },
+  "id": 13662037133
+}

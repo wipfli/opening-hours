@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.235912,
+      46.3768543
+    ]
+  },
+  "properties": {
+    "id": 4887282614,
+    "amenity": "restaurant",
+    "email": "eventlaplagedenyon@gmail.com",
+    "name": "Restaurant de la Plage",
+    "opening_hours": "Mo-Su 09:30-00:00",
+    "phone": "+41 22 362 61 01",
+    "website": "https://www.laplagedenyon.ch/",
+    "website:menu": "https://www.laplagedenyon.ch/le-menu"
+  },
+  "id": 4887282614
+}

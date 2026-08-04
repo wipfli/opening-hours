@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478557,
+      47.4075523
+    ]
+  },
+  "properties": {
+    "id": 3479329968,
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon",
+    "check_date": "2025-10-25",
+    "cuisine": "lebanese",
+    "name": "SimSim",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00, Sa 17:30-22:30",
+    "website": "https://sim-sim.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3479329968
+}

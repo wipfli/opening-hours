@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4120388,
+      46.9217306
+    ]
+  },
+  "properties": {
+    "id": 3285602094,
+    "addr:city": "K\u00f6niz",
+    "addr:country": "CH",
+    "addr:housenumber": "29",
+    "addr:postcode": "3098",
+    "addr:street": "Landorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-11",
+    "name": "Brunnenhof",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa 09:00-23:00",
+    "website": "https://www.restaurant-brunnenhof.ch/"
+  },
+  "id": 3285602094
+}

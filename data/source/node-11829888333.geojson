@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4900576,
+      46.9548094
+    ]
+  },
+  "properties": {
+    "id": 11829888333,
+    "addr:city": "Ostermundigen",
+    "addr:housenumber": "43",
+    "addr:postcode": "3072",
+    "addr:street": "Oberdorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "diet:mediterranean": "yes",
+    "name": "Salotto Zero Otto Nove",
+    "opening_hours": "Ma-Sa 17:30-22:00",
+    "phone": "+41 78 223 05 39",
+    "website": "https://salottozerottonove.ch"
+  },
+  "id": 11829888333
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5507215,
+      47.4067404
+    ]
+  },
+  "properties": {
+    "id": 928025623,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "8050",
+    "addr:street": "Schwamendingenstrasse",
+    "amenity": "restaurant",
+    "capacity": "60",
+    "check_date": "2023-10-14",
+    "cuisine": "Schnitzel;regional",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Schnitzelhuus Oerlikon",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00, Sa 17:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 310 12 35",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.schnitzelhuus.com/",
+    "wheelchair": "no"
+  },
+  "id": 928025623
+}

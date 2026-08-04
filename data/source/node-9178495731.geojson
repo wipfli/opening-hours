@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5511478,
+      47.3529697
+    ]
+  },
   "properties": {
-    "@id": "node/9178495731",
+    "id": 9178495731,
     "amenity": "restaurant",
     "capacity": "200",
     "diet:vegetarian": "no",
@@ -13,12 +20,5 @@
     "website": "https://www.fischerstube-zuerich.ch/fischerdorf",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5511478,
-      47.3529697
-    ]
-  },
-  "id": "node-9178495731"
+  "id": 9178495731
 }

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.026798,
+      47.0111164
+    ]
+  },
+  "properties": {
+    "id": 5141087251,
+    "amenity": "restaurant",
+    "email": "info@kreuzromoos.ch",
+    "name": "Hotel Kreuz",
+    "opening_hours": "Su 09:00-22:00; Tu-Sa 09:00-18:00",
+    "phone": "+41 41480 13 51",
+    "website": "https://www.kreuzromoos.ch/"
+  },
+  "id": 5141087251
+}

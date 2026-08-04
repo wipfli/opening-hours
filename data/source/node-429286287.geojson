@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8948629,
+      47.1917136
+    ]
+  },
+  "properties": {
+    "id": 429286287,
+    "addr:housenumber": "3",
+    "addr:postcode": "8855",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "contact:phone": "+41 55 511 77 24",
+    "cuisine": "regional",
+    "description": "Spezialit\u00e4t: Fleisch auf heissem Stein",
+    "level": "1",
+    "name": "Gasthof Kreuz",
+    "opening_hours": "We-Su 10:00-24:00; PH unknown",
+    "website": "http://www.kreuzwangen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 429286287
+}

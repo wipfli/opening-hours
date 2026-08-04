@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6271598,
+      46.5212669
+    ]
+  },
+  "properties": {
+    "id": 13719406001,
+    "addr:housenumber": "20",
+    "addr:postcode": "1003",
+    "addr:street": "Rue des C\u00f4tes-de-Montbenon",
+    "amenity": "restaurant",
+    "check_date": "2026-04-09",
+    "check_date:opening_hours": "2026-04-09",
+    "cuisine": "asian",
+    "name": "Tao",
+    "opening_hours": "Mo-Tu 11:00-23:00; We 11:00-00:00; Th 11:00-01:00; Fr-Sa 11:00-02:00; Su 11:00-22:00",
+    "website": "https://www.taoloungebar.ch/",
+    "website:menu": "https://www.taoloungebar.ch/menu-de-saison"
+  },
+  "id": 13719406001
+}

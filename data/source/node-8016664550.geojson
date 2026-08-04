@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8287679,
+      47.1107963
+    ]
+  },
+  "properties": {
+    "id": 8016664550,
+    "amenity": "restaurant",
+    "cuisine": "pizza;portuguese;regional",
+    "name": "Caf\u00e9t\u00e9ria R\u00eaverie",
+    "opening_hours": "Mo 08:30-11:30; Tu-Th 08:30-14:30, 17:30-21:30; Fr 08:30-14:30,17:30-23:00; Sa 09:00-14:00",
+    "website": "https://www.cafet-reverie.ch",
+    "wheelchair": "limited"
+  },
+  "id": 8016664550
+}

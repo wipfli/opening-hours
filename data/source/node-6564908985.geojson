@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4535816,
+      47.4825399
+    ]
+  },
+  "properties": {
+    "id": 6564908985,
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8157",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "capacity": "26",
+    "cuisine": "regional",
+    "email": "info@sonne-dielsdorf.ch",
+    "name": "Sonne",
+    "opening_hours": "Mo-We,Fr 10:00-18:00; Th 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 855 17 77",
+    "website": "https://www.sonne-dielsdorf.ch/"
+  },
+  "id": 6564908985
+}

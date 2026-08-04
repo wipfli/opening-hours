@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4898031,
+      46.9350291
+    ]
+  },
+  "properties": {
+    "id": 2063259694,
+    "addr:city": "Muri b. Bern",
+    "addr:housenumber": "6",
+    "addr:postcode": "3074",
+    "addr:street": "Kranichweg",
+    "alt_name": "Restaurant Thoracker",
+    "amenity": "restaurant",
+    "contact:email": "liana@thoracker-restaurant.ch",
+    "contact:fax": "+41 31 9513168",
+    "contact:phone": "+41 31 9513167",
+    "name": "Thoracker",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa 17:00-23:00; Su off",
+    "operator": "Liana GmbH",
+    "source": "survey and website",
+    "website": "https://www.thoracker-restaurant.ch/"
+  },
+  "id": 2063259694
+}

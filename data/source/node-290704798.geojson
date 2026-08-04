@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3965921,
+      46.9487728
+    ]
+  },
+  "properties": {
+    "id": 290704798,
+    "addr:city": "Bern",
+    "addr:housenumber": "12",
+    "addr:postcode": "3027",
+    "addr:street": "B\u00fcmplizstrasse",
+    "alt_name": "Ristorante Pizzeria Tre Re",
+    "amenity": "restaurant",
+    "contact:addr": "B\u00fcmplizstrasse 12, 3027 Bern",
+    "contact:phone": "+41 31 525 66 55",
+    "cuisine": "pizza",
+    "drive_in": "no",
+    "microbrewery": "no",
+    "name": "Ristorante Aurelis",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa 11:00-23:30; Su off; PH off",
+    "operator": "Tre Re GmbH",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://ristorante-aurelis.ch/"
+  },
+  "id": 290704798
+}

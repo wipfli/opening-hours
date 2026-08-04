@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6350129,
+      47.6962342
+    ]
+  },
+  "properties": {
+    "id": 12895591863,
+    "addr:housenumber": "63",
+    "addr:street": "Vordergasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-07",
+    "cuisine": "italian",
+    "level": "-1",
+    "name": "Cucina D'Alfonso",
+    "opening_hours": "Mo-Th,Sa-Su 11:30-13:30,17:00-22:00; Fr 11:30-13:30,17:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://cucina-dalfonso.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 12895591863
+}

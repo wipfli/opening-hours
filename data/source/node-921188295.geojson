@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4981001,
+      46.8931565
+    ]
+  },
+  "properties": {
+    "id": 921188295,
+    "alt_name": "Ristorante Pizzeria l'Osteria",
+    "amenity": "restaurant",
+    "brand": "L'Osteria",
+    "brand:wikidata": "Q17323478",
+    "brand:wikipedia": "de:L\u2019Osteria",
+    "contact:email": "info@losteria.ch",
+    "contact:phone": "+41 31 8194050",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "name": "L'Osteria",
+    "opening_hours": "Mo off; Tu-Th 11:00-14:00, 17:00-22:00; Fr-Sa 11:00-14:00, 17:00-23:00; Su 17:00-22:00",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "http://www.losteria.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 921188295
+}

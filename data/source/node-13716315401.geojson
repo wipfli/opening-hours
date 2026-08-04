@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0647249,
+      46.2309612
+    ]
+  },
+  "properties": {
+    "id": 13716315401,
+    "addr:city": "Lumino",
+    "addr:housenumber": "71",
+    "addr:postcode": "6533",
+    "addr:street": "Via Bellinzona",
+    "amenity": "restaurant",
+    "check_date": "2026-07-17",
+    "check_date:opening_hours": "2026-04-08",
+    "cuisine": "burger;italian;mediterranean",
+    "email": "info@3544.ch",
+    "name": "Bistro e Residenza 3544",
+    "opening_hours": "Mo-Su 11:00-14:00, 18:00-22:30",
+    "phone": "+41794239085",
+    "tourism": "apartment",
+    "website": "https://3544.ch",
+    "website:menu": "https://www.printmycoke.ch/file/1666067739_1666067739086-menu1.pdf"
+  },
+  "id": 13716315401
+}

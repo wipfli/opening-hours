@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.316336,
+      46.1344228
+    ]
+  },
+  "properties": {
+    "id": 840524945,
+    "amenity": "restaurant",
+    "delivery": "no",
+    "name": "Chez Caroline",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr-Sa 8:45-23:00; Su 8:45-19:00; ",
+    "outdoor_seating": "yes",
+    "phone": "+4127 288 13 03",
+    "takeaway": "yes",
+    "website": "https://chezcaroline.ch/"
+  },
+  "id": 840524945
+}

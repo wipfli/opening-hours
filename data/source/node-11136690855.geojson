@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5904091,
+      46.5288686
+    ]
+  },
+  "properties": {
+    "id": 11136690855,
+    "addr:housenumber": "25",
+    "addr:street": "Rue du Lac",
+    "amenity": "restaurant",
+    "check_date": "2023-08-22",
+    "cuisine": "japanese;sushi;asian",
+    "name": "Takumi",
+    "opening_hours": "Mo-Sa 11:00-22:30",
+    "phone": "+41 21 553 80 81",
+    "website": "https://takumi1020.ch/"
+  },
+  "id": 11136690855
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7890967,
+      47.2118571
+    ]
+  },
+  "properties": {
+    "id": 7112475113,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "13",
+    "addr:postcode": "4900",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;saisonal",
+    "email": "info@restaurantalacarte.ch",
+    "name": "\u00e0 la cArte",
+    "opening_hours": "Mo-Th 07:30-18:30; Fr 07:30 - 23:30; Sa 07:30 - 17:00; PH off",
+    "phone": "+41 62 923 61 00",
+    "website": "https://www.restaurantalacarte.ch/"
+  },
+  "id": 7112475113
+}

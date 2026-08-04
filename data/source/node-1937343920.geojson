@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5036962,
+      47.1743879
+    ]
+  },
+  "properties": {
+    "id": 1937343920,
+    "amenity": "restaurant",
+    "email": "hello@strandbad-zug.ch",
+    "name": "Strandbad Zug",
+    "opening_hours": "Mo-Su,PH 09:00-22:00",
+    "operator": "Pointbreak Group",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.strandbad-zug.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1937343920
+}

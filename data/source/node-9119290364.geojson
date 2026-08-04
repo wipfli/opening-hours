@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.283671,
+      46.2243003
+    ]
+  },
+  "properties": {
+    "id": 9119290364,
+    "addr:city": "V\u00e9troz",
+    "addr:housenumber": "20",
+    "addr:postcode": "1963",
+    "addr:street": "Avenue des Vergers",
+    "amenity": "restaurant",
+    "name": "La Madeleine",
+    "opening_hours": "Mo-Th 08:00-22:00; Fr 08:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+4127 346 10 11",
+    "website": "https://www.cafe-madeleine.ch/"
+  },
+  "id": 9119290364
+}

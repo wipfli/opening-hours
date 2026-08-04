@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5908596,
+      47.5672076
+    ]
+  },
+  "properties": {
+    "id": 7683239068,
+    "addr:city": "Basel",
+    "addr:housenumber": "90",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "VITO Klybeck",
+    "opening_hours": "Mo-Th 11:30-22:00; Su 12:00-22:00; Fr 11:30-23:00; Sa 12:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 243 72 22",
+    "smoking": "outside",
+    "website": "https://www.vito.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7683239068
+}

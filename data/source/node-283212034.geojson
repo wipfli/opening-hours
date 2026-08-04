@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4476937,
+      46.9301011
+    ]
+  },
+  "properties": {
+    "id": 283212034,
+    "addr:city": "Wabern",
+    "addr:housenumber": "2",
+    "addr:postcode": "3084",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "Tai Yien China Restaurant",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "info@taiyien.ch",
+    "name": "Restaurant Tai Yien",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00+; Sa-Su 18:00+",
+    "operator": "KaiLi GmbH",
+    "phone": "+41 319616400",
+    "website": "https://www.taiyien.ch"
+  },
+  "id": 283212034
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1506426,
+      46.2029138
+    ]
+  },
+  "properties": {
+    "id": 11470986569,
+    "addr:housenumber": "6",
+    "addr:postcode": "1204",
+    "addr:street": "Rue du Port",
+    "amenity": "restaurant",
+    "contact:instagram": "ariston_geneve",
+    "cuisine": "coffee_shop;french;grill;pasta",
+    "name": "Ariston Bar Restaurant",
+    "opening_hours": "Mo-Tu 11:30-14:30; We-Sa 11:30-14:30, 18:30-22:30",
+    "phone": "+41 22 311 99 84",
+    "website": "https://www.ariston-geneve.ch/"
+  },
+  "id": 11470986569
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5950897,
+      47.4021219
+    ]
+  },
+  "properties": {
+    "id": 3017503879,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "20",
+    "addr:postcode": "8051",
+    "addr:street": "Helen-Keller-Strasse",
+    "amenity": "restaurant",
+    "name": "Sport Restaurant Heerensch\u00fcrli",
+    "opening_hours": "Mo-Fr 16:00-22:00; Sa-Su 08:00-20:00; PH off",
+    "phone": "+41 43 321 63 57",
+    "website": "https://www.srh12.ch/"
+  },
+  "id": 3017503879
+}

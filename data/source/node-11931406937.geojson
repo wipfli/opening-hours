@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6202482,
+      47.4948122
+    ]
+  },
+  "properties": {
+    "id": 11931406937,
+    "addr:city": "Arlesheim",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4144",
+    "addr:street": "Gartenweg",
+    "amenity": "restaurant",
+    "email": "info@eremitage.ch",
+    "name": "Restaurant Eremitage",
+    "opening_hours": "Mo-Sa 17:30-21:00",
+    "phone": "+41 61 701 54 20",
+    "stars": "3",
+    "website": "https://www.eremitage.ch/Hotel"
+  },
+  "id": 11931406937
+}

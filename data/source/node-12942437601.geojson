@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9292194,
+      46.4145491
+    ]
+  },
+  "properties": {
+    "id": 12942437601,
+    "addr:housenumber": "22",
+    "addr:postcode": "1820",
+    "addr:street": "Avenue de Chillon",
+    "amenity": "restaurant",
+    "contact:facebook": "fortdechillon",
+    "contact:instagram": "fortdechillon",
+    "cuisine": "local",
+    "email": "info@fortdechillon.ch",
+    "internet_access": "wlan",
+    "name": "Bistrot du Soldat",
+    "opening_hours": "Mo-Su 09:30-17:00",
+    "phone": "+41 21 552 44 55",
+    "website": "https://fortdechillon.ch/en/bistrot-du-soldat/",
+    "website:menu": "https://fortdechillon.ch/en/bistrot-du-soldat/"
+  },
+  "id": 12942437601
+}

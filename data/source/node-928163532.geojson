@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6321829,
+      47.6937845
+    ]
+  },
+  "properties": {
+    "id": 928163532,
+    "amenity": "restaurant",
+    "award:GaultMillau": "13",
+    "name": "Wirtschaft zur Beckenburg",
+    "opening_hours": "Tu-Fr 11:00-14:30,18:00-23:30; Sa 18:00-24:00; Su,Mo off",
+    "phone": "+41 52 625 28 20",
+    "website": "https://www.beckenburg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 928163532
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9035053,
+      47.4961245
+    ]
+  },
+  "properties": {
+    "id": 3012899115,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "no",
+    "name": "Landgasthof Heidelberg",
+    "opening_hours": "Mo-Fr 07:00-24:00; Sa 10:00-24:00; Su 10:00-17:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.heidelberg-aadorf.ch/"
+  },
+  "id": 3012899115
+}

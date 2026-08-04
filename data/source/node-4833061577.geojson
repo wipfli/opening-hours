@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5163605,
+      47.3709294
+    ]
+  },
   "properties": {
-    "@id": "node/4833061577",
+    "id": 4833061577,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "11",
@@ -14,12 +21,5 @@
     "takeaway": "yes",
     "website": "https://grottino77.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5163605,
-      47.3709294
-    ]
-  },
-  "id": "node-4833061577"
+  "id": 4833061577
 }

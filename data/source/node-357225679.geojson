@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5273865,
+      47.3726012
+    ]
+  },
   "properties": {
-    "@id": "node/357225679",
+    "id": 357225679,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "66",
@@ -15,12 +22,5 @@
     "website": "https://www.yu-an.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5273865,
-      47.3726012
-    ]
-  },
-  "id": "node-357225679"
+  "id": 357225679
 }

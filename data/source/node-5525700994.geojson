@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5317917,
+      46.2932556
+    ]
+  },
+  "properties": {
+    "id": 5525700994,
+    "addr:city": "Sierre",
+    "addr:housenumber": "9b",
+    "addr:postcode": "3960",
+    "addr:street": "Avenue du Rothorn",
+    "amenity": "restaurant",
+    "name": "Terra Brasil Churrascaria",
+    "opening_hours": "Tu-Sa 11:00-14:30, 18:00-23:00; Su 11:00-17:00",
+    "phone": "+41 27 455 13 95",
+    "website": "https://www.terrabrasil.ch/"
+  },
+  "id": 5525700994
+}

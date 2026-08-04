@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5482187,
+      47.3747979
+    ]
+  },
+  "properties": {
+    "id": 14070357498,
+    "addr:housenumber": "71",
+    "addr:street": "R\u00e4mistrasse",
+    "amenity": "restaurant",
+    "description": "Zugang nur f\u00fcr Mitarbeitende/Emeriti von UZH, ETH, USZ oder Beh\u00f6rden und deren Begleitung",
+    "email": "uniturm@zfv.ch",
+    "name": "Restaurant UniTurm",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "phone": "+41 44 634 21 41",
+    "reservation": "required",
+    "website": "https://www.zfv.ch/de/essen-gehen/restaurant-uniturm"
+  },
+  "id": 14070357498
+}

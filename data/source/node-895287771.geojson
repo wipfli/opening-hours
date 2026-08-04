@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6377084,
+      46.5195836
+    ]
+  },
+  "properties": {
+    "id": 895287771,
+    "addr:city": "Lausanne",
+    "addr:postcode": "1005",
+    "addr:street": "Place Benjamin-Constant",
+    "amenity": "restaurant",
+    "breakfast": "Su 11:00-15:00",
+    "brewery": "various",
+    "cuisine": "regional;burger;salad;cake;dessert",
+    "description": "caf\u00e9 - bar - restaurant",
+    "diet:vegetarian": "yes",
+    "distillery": "various",
+    "drink": "coffee;beer;;wine;whisky",
+    "email": "contact@etoileblanche.ch",
+    "fixme": "Opening hours kitchen probably shorter",
+    "indoor_seating": "yes",
+    "lunch": "11:45-14:00",
+    "name": "L'Etoile Blanche",
+    "opening_hours": "Mo-Th 07:00-01:00; Fr 07:00-02:00; Sa 09:00-02:00; Su 10:00-01:00",
+    "opening_hours:covid19": "Mo-Sa 11:45-14:00,18:45-22:00",
+    "opening_hours:kitchen": "Mo-Th 07:00-01:00; Fr 07:00-02:00; Sa 09:00-02:00; Su 10:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 351 24 60",
+    "takeaway:covid19": "yes",
+    "website": "https://etoileblanche.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 895287771
+}

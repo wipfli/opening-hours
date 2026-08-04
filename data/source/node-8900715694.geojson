@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0250578,
+      47.5054698
+    ]
+  },
+  "properties": {
+    "id": 8900715694,
+    "addr:city": "Frick",
+    "addr:country": "CH",
+    "addr:housenumber": "101",
+    "addr:postcode": "5070",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "kebab;pizza;burger;italian",
+    "name": "Maestro Pizza",
+    "opening_hours": "Mo-Sa 10:30-13:30, 16:00-22:30; Su 16:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 871 62 46",
+    "website": "https://maestrofrick.ch/"
+  },
+  "id": 8900715694
+}

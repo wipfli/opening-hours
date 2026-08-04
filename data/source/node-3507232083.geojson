@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8905766,
+      46.3361732
+    ]
+  },
+  "properties": {
+    "id": 3507232083,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-27",
+    "contact:facebook": "https://www.facebook.com/restaubergevouvry/",
+    "contact:instagram": "https://www.instagram.com/restaubergevouvry/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g1936060-d3983363-Reviews-Restaurant_Auberge_de_Vouvry-Vouvry_Canton_of_Valais_Swiss_Alps.html",
+    "cuisine": "regional",
+    "email": "contact@restaubergevouvry.ch",
+    "name": "Auberge de Vouvry",
+    "opening_hours": "Tu-Sa 11:00-14:30,18:00-22:00",
+    "phone": "+41 24 481 12 21",
+    "takeaway": "yes",
+    "website": "https://www.restaubergevouvry.ch/"
+  },
+  "id": 3507232083
+}

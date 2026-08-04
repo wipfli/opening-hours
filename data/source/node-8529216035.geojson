@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3071871,
+      47.0697716
+    ]
+  },
+  "properties": {
+    "id": 8529216035,
+    "addr:city": "Lyss",
+    "addr:housenumber": "9",
+    "addr:postcode": "3250",
+    "addr:street": "Kirchenfeldstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/prestopizzalyss/",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "email": "info@prestopizzalyss.ch",
+    "name": "Presto Pizza",
+    "opening_hours": "Mo off; Tu-Su 17:30+",
+    "phone": "+41 32 384 6846",
+    "takeaway": "only",
+    "website": "https://prestopizzalyss.ch"
+  },
+  "id": 8529216035
+}

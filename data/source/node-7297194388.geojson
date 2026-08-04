@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5597981,
+      47.1283546
+    ]
+  },
+  "properties": {
+    "id": 7297194388,
+    "addr:city": "Utzenstorf",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "3427",
+    "addr:street": "Koppigenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "freischuetz@bluewin.ch",
+    "name": "Freisch\u00fctz",
+    "opening_hours": "Th-Mo 08:00-24:00",
+    "phone": "+41 32 665 40 19",
+    "website": "https://www.wirtschaft-freischuetz.ch/"
+  },
+  "id": 7297194388
+}

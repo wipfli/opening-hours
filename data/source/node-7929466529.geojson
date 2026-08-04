@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8835691,
+      47.2890907
+    ]
+  },
+  "properties": {
+    "id": 7929466529,
+    "amenity": "restaurant",
+    "check_date": "2024-06-28",
+    "cuisine": "american",
+    "email": "info@bachtelranch.com",
+    "name": "Bachtel-Ranch Western Saloon",
+    "opening_hours": "Mo,Th-Sa 11:00-23:00; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 937 31 87",
+    "website": "https://bachtelranch.com/"
+  },
+  "id": 7929466529
+}

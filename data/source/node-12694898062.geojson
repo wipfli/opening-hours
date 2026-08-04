@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1402987,
+      46.194911
+    ]
+  },
+  "properties": {
+    "id": 12694898062,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "40",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "cuisine": "cafetaria",
+    "diet:vegetarian": "yes",
+    "name": "UNIMAIL Time",
+    "opening_hours": "Mo-Fr 11:15-14:30",
+    "takeaway": "yes",
+    "website": "https://mail-unigeneve.sv-restaurant.ch/fr/plan-des-menus/unimail-time/",
+    "wheelchair": "yes"
+  },
+  "id": 12694898062
+}

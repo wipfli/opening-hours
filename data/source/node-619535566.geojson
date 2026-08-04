@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6710989,
+      46.7695426
+    ]
+  },
+  "properties": {
+    "id": 619535566,
+    "addr:city": "Amsteg",
+    "addr:housenumber": "88",
+    "addr:postcode": "6474",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "name": "Stern Post",
+    "opening_hours": "Th-Su 12:00-14:00,18:00-22:00",
+    "phone": "+41 41 884 01 01",
+    "tourism": "hotel",
+    "website": "https://www.stern-post.ch/"
+  },
+  "id": 619535566
+}

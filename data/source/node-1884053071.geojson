@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6320551,
+      46.1539755
+    ]
+  },
+  "properties": {
+    "id": 1884053071,
+    "amenity": "restaurant",
+    "name": "Antica Osteria del Ghiridone",
+    "opening_hours": "Tu-Su 08:30-22:00",
+    "phone": "+41917981221",
+    "website": "https://www.osteriadelghiridone.ch/"
+  },
+  "id": 1884053071
+}

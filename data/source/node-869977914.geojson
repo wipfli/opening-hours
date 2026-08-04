@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287165,
+      47.3734849
+    ]
+  },
   "properties": {
-    "@id": "node/869977914",
+    "id": 869977914,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "31",
@@ -13,6 +20,7 @@
     "brand": "Molino",
     "check_date": "2026-02-28",
     "cuisine": "pizza",
+    "indoor_seating": "yes",
     "name": "Molino",
     "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00",
     "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
@@ -24,12 +32,5 @@
     "wheelchair": "yes",
     "wheelchair:description": "WC ist teilweise rollstuhlgerecht"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5287165,
-      47.3734849
-    ]
-  },
-  "id": "node-869977914"
+  "id": 869977914
 }

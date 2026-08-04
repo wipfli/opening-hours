@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5880234,
+      47.5519953
+    ]
+  },
+  "properties": {
+    "id": 4595404674,
+    "addr:city": "Basel",
+    "addr:housenumber": "71",
+    "addr:postcode": "4051",
+    "addr:street": "Steinenvorstadt",
+    "alt_name": "Molino Basel",
+    "amenity": "restaurant",
+    "branch": "Basel",
+    "brand": "Molino",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Molino",
+    "opening_hours": "Mo-Sa 09:00-24:00; Su 10:00-24:00",
+    "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
+    "operator": "Ospena Group",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 273 80 80",
+    "smoking": "outside",
+    "website": "https://molino.ch/de/pizzeria-ristorante-molino-basel",
+    "wheelchair": "no"
+  },
+  "id": 4595404674
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5978944,
+      47.229569
+    ]
+  },
+  "properties": {
+    "id": 2402233532,
+    "addr:city": "Hirzel",
+    "addr:housenumber": "2",
+    "addr:postcode": "8816",
+    "addr:street": "Alter Hirschen",
+    "alt_name": "Alter Hirschen",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant zum alten Hirschen",
+    "opening_hours": "Th-Su 11:00-14:00, 17:00-24:00",
+    "website": "http://www.rest-altenhirschen.ch/",
+    "website:menu": "http://www.rest-altenhirschen.ch/Speisekarte.htm"
+  },
+  "id": 2402233532
+}

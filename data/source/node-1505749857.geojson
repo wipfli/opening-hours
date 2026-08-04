@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2463555,
+      47.1408887
+    ]
+  },
+  "properties": {
+    "id": 1505749857,
+    "addr:housenumber": "16",
+    "addr:postcode": "2502",
+    "addr:street": "Rue des Mar\u00e9chaux / Schmiedengasse",
+    "amenity": "restaurant",
+    "cuisine": "syrian",
+    "name": "original",
+    "opening_hours": "Mo-Tu 11:00-15:00; We-Fr 11:00-14:00, 16:00-18:30, Sa 10:30-15:00",
+    "phone": "+41 78 947 39 25",
+    "website": "https://www.originalcooking.ch"
+  },
+  "id": 1505749857
+}

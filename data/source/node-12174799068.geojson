@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.079461,
+      47.4037552
+    ]
+  },
+  "properties": {
+    "id": 12174799068,
+    "addr:city": "Fontenais",
+    "addr:housenumber": "207",
+    "addr:postcode": "2902",
+    "addr:street": "Place de la Fontaine",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info.limprimerie@gmail.com",
+    "name": "L'Imprimerie",
+    "opening_hours": "Su-Mo 09:00-23:00; Th 09:00-00:00; Fr-Sa 09:00-01:00",
+    "phone": "+41 32 466 62 62",
+    "website": "https://www.brasserie-l-imprimerie.ch"
+  },
+  "id": 12174799068
+}

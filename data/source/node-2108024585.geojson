@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6609899,
+      46.5101744
+    ]
+  },
+  "properties": {
+    "id": 2108024585,
+    "addr:city": "Pully",
+    "addr:housenumber": "22",
+    "addr:postcode": "1009",
+    "addr:street": "Grand'Rue",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Stella",
+    "opening_hours": "Mo-Sa 09:00-14:00, 18:00-23:00",
+    "phone": "+41 21 728 06 60",
+    "website": "https://restaurantlastella.ch/"
+  },
+  "id": 2108024585
+}

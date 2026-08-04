@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6265553,
+      46.3100997
+    ]
+  },
+  "properties": {
+    "id": 886099057,
+    "addr:city": "Susten",
+    "addr:housenumber": "54",
+    "addr:postcode": "3952",
+    "addr:street": "Pfynwaldstra\u00dfe",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:vegetarian": "limited",
+    "email": "pizzeriapronto@hotmail.com",
+    "name": "Walliser Spycher",
+    "opening_hours": "09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41274731725",
+    "takeaway": "yes",
+    "website": "https://spycher-susten.ch/",
+    "website:menu": "https://spycher-susten.ch/speisekarte/",
+    "wheelchair": "no"
+  },
+  "id": 886099057
+}

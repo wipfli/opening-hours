@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4306266,
+      46.9407874
+    ]
+  },
+  "properties": {
+    "id": 7545709020,
+    "alt_name": "Al Taglio da Rina",
+    "amenity": "restaurant",
+    "capacity": "10",
+    "contact:addr": "Eigerplatz 10, 3007 Bern",
+    "contact:email": "info@darina.ch",
+    "contact:phone": "+41 31 3724161",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Da Rina",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr,Sa 10:00-23:30; Su,PH off",
+    "operator": "DaRina AG",
+    "outdoor_seating": "yes",
+    "website": "https://www.darina.ch"
+  },
+  "id": 7545709020
+}

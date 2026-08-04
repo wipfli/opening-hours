@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0401912,
+      46.8800502
+    ]
+  },
+  "properties": {
+    "id": 11828683599,
+    "addr:housenumber": "20",
+    "addr:street": "Rue Centrale",
+    "alt_name": "Restaurant Swiss Hotel La Couronne",
+    "amenity": "restaurant",
+    "cuisine": "japanese;thai",
+    "delivery": "Mo-Su 12:00-14:00,18:00-22:00",
+    "indoor_seating": "yes",
+    "name": "Swiss Hotel la Couronne",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 675 54 14",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "limited",
+    "website": "https://www.swisshotel-lacouronne.ch/restaurant",
+    "wheelchair": "limited"
+  },
+  "id": 11828683599
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5270667,
+      47.3798297
+    ]
+  },
   "properties": {
-    "@id": "node/1235083458",
+    "id": 1235083458,
     "amenity": "restaurant",
     "check_date": "2024-08-24",
     "cuisine": "chinese",
@@ -14,12 +21,5 @@
     "website": "https://www.khujug.restaurant/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5270667,
-      47.3798297
-    ]
-  },
-  "id": "node-1235083458"
+  "id": 1235083458
 }

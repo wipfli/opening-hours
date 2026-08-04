@@ -1,3 +1,0 @@
-Page.goto: net::ERR_NAME_NOT_RESOLVED at http://schlachthof-letzigrund.ch/
-Call log:
-  - navigating to "http://schlachthof-letzigrund.ch/", waiting until "networkidle"

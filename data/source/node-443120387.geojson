@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4468902,
+      46.9474365
+    ]
+  },
+  "properties": {
+    "id": 443120387,
+    "alt_name": "Caf\u00e9 Restaurant Black",
+    "amenity": "restaurant",
+    "check_date": "2022-08-19",
+    "contact:addr": "Amthausgasse 4, 3011 Bern",
+    "contact:phone": "+41 31 3112363",
+    "name": "Black",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:30-17:30; Su off",
+    "operator": "Rolf Gr\u00fcnig Restaurationsbetriebe GmbH",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cafe-black.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 443120387
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.547952,
+      47.3786854
+    ]
+  },
   "properties": {
-    "@id": "node/633584181",
+    "id": 633584181,
     "addr:housenumber": "15",
     "addr:street": "Universit\u00e4tstrasse",
     "amenity": "restaurant",
@@ -19,12 +26,5 @@
     "website": "https://hotpasta.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.547952,
-      47.3786854
-    ]
-  },
-  "id": "node-633584181"
+  "id": 633584181
 }

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9820506,
+      47.224309
+    ]
+  },
+  "properties": {
+    "id": 34015219,
+    "addr:housenumber": "6",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "email": "zenezenasia@gmail.com",
+    "name": "Zen Zen Asia",
+    "opening_hours": "Tu-Su 11:00-22:00",
+    "phone": "+41 78 239 55 79",
+    "website": "https://zenzen-asia.ch",
+    "wheelchair": "yes"
+  },
+  "id": 34015219
+}

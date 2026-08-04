@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287783,
+      47.3770439
+    ]
+  },
   "properties": {
-    "@id": "node/656649674",
+    "id": 656649674,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "4",
@@ -17,14 +24,8 @@
     "outdoor_seating": "no",
     "phone": "+41 44 542 88 85",
     "website": "https://www.achi.restaurant/",
+    "website:menu": "https://www.yumpu.com/xx/document/read/68736431/achi-menu-2024/3",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5287783,
-      47.3770439
-    ]
-  },
-  "id": "node-656649674"
+  "id": 656649674
 }

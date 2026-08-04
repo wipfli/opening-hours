@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5659978,
+      46.8970973
+    ]
+  },
+  "properties": {
+    "id": 11649887273,
+    "addr:city": "Trimmis",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "7203",
+    "addr:street": "Chegelplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-06-09",
+    "check_date:currency:XBT": "2026-06-09",
+    "contact:facebook": "sonne.trimmis",
+    "contact:instagram": "restaurant.sonne",
+    "cuisine": "pizza;regional;italian;ice_cream;pasta;salad;german",
+    "currency:CHF": "yes",
+    "currency:XBT": "yes",
+    "diet:local": "yes",
+    "email": "info@sonne-trimmis.ch",
+    "name": "Restaurant Sonne Trimmis",
+    "opening_hours": "Tu 11:00-14:00,17:00-22:00; We-Sa 17:00-22:00; Su 11:00-15:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:onchain": "no",
+    "payment:post_finance": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 81 521 78 79",
+    "survey:date": "2026-06-09",
+    "website": "https://sonne-trimmis.ch"
+  },
+  "id": 11649887273
+}

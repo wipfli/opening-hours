@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7888532,
+      47.2697675
+    ]
+  },
+  "properties": {
+    "id": 2105406427,
+    "amenity": "restaurant",
+    "email": "restaurant.eintracht@ggs.ch",
+    "name": "Eintracht",
+    "opening_hours": "Tu 16:00-23:30; We,Th 08:00-23:30; Fr 08:00-24:00; Sa 00:00-00:30,09:00-24:00; Su 00:00-00:30,09:00-21:45",
+    "phone": "+41 62 926 12 05",
+    "website": "http://www.eintracht-wolfwil.ch/"
+  },
+  "id": 2105406427
+}

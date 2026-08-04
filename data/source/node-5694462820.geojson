@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5221215,
+      47.386196
+    ]
+  },
   "properties": {
-    "@id": "node/5694462820",
+    "id": 5694462820,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "69",
@@ -17,12 +24,5 @@
     "website": "https://www.restaurant-viadukt.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5221215,
-      47.386196
-    ]
-  },
-  "id": "node-5694462820"
+  "id": 5694462820
 }

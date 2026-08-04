@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6386389,
+      47.5175273
+    ]
+  },
+  "properties": {
+    "id": 476506169,
+    "addr:city": "Pfungen",
+    "addr:housenumber": "38",
+    "addr:postcode": "8422",
+    "addr:street": "Weiacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Sternen",
+    "opening_hours": "We-Sa 18:00-22:30; Th-Fr 11:30-14:00; Su,Mo-Tu off",
+    "phone": "+41 52 315 22 98",
+    "website": "https://www.sternen-pfungen.ch/"
+  },
+  "id": 476506169
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.126327,
+      46.1864796
+    ]
+  },
+  "properties": {
+    "id": 11219789407,
+    "addr:city": "Grand-Lancy",
+    "addr:country": "CH",
+    "addr:housenumber": "9A",
+    "addr:postcode": "1212",
+    "addr:street": "Esplanade de Pont-Rouge",
+    "amenity": "restaurant",
+    "brand": "Westhive",
+    "cuisine": "salad;pasta;regional;burger",
+    "email": "info@westhive.com",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "La Kitchen by Westhive",
+    "opening_hours": "Mo-We 07:30-15:00; Th 07:30-19:00; Fr 07:30-15:00",
+    "phone": "+41 43 444 68 00",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.westhive.com/fr/restauration/la-kitchen-geneve-pont-rouge/",
+    "wheelchair": "yes"
+  },
+  "id": 11219789407
+}

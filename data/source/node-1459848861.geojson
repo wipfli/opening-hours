@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.170756,
+      46.288953
+    ]
+  },
+  "properties": {
+    "id": 1459848861,
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "CNV",
+    "opening_hours": "Feb-Oct Mo-Sa 08:00-23:00, Su 08:00-18:00",
+    "website": "https://restaurantclubnautiqueversoix.ch",
+    "wheelchair": "no"
+  },
+  "id": 1459848861
+}

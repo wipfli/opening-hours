@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6020008,
+      47.5548054
+    ]
+  },
+  "properties": {
+    "id": 122336999,
+    "addr:city": "Basel",
+    "addr:housenumber": "70",
+    "addr:postcode": "4052",
+    "addr:street": "St. Alban-Rheinweg",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Gasthof zum Goldenen Sternen",
+    "opening_hours": "Mo-Su 11:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 2721666",
+    "smoking": "outside",
+    "website": "https://www.sternen-basel.ch/"
+  },
+  "id": 122336999
+}

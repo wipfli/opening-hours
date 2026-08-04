@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0973206,
+      46.9524245
+    ]
+  },
+  "properties": {
+    "id": 2292064950,
+    "addr:city": "Praz (Vully)",
+    "addr:housenumber": "145",
+    "addr:postcode": "1788",
+    "addr:street": "Route Principale",
+    "amenity": "restaurant",
+    "capacity": "300",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegetarian": "yes",
+    "hotel": "yes",
+    "name": "H\u00f4tel Restaurant Cave Bel-Air",
+    "opening_hours": "Mo,Tu,Fr-Su 08:00-23:45",
+    "opening_hours:covid19": "Mo,Tu,Fr,Sa-Su 11:00-15:00,18:00-22:00",
+    "operator": "Laurent Chervet",
+    "outdoor_seating": "yes",
+    "phone": "+41266731414",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "https://www.bel-air.swiss/",
+    "wheelchair": "yes"
+  },
+  "id": 2292064950
+}

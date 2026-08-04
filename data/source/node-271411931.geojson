@@ -1,14 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/271411931",
-    "amenity": "restaurant",
-    "level": "0",
-    "name": "Restaurant Schipfe 16",
-    "opening_hours": "Tu-Sa 10:00-22:00; PH closed",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/stadtleben/gastronomie/schipfe16/restaurant.html",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -16,5 +7,14 @@
       47.373118
     ]
   },
-  "id": "node-271411931"
+  "properties": {
+    "id": 271411931,
+    "amenity": "restaurant",
+    "level": "0",
+    "name": "Restaurant Schipfe 16",
+    "opening_hours": "Tu-Sa 11:00-22:00; PH off",
+    "website": "https://www.stadt-zuerich.ch/sd/de/index/stadtleben/gastronomie/schipfe16/restaurant.html",
+    "wheelchair": "no"
+  },
+  "id": 271411931
 }

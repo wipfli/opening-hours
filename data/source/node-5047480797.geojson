@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7106172,
+      47.3517934
+    ]
+  },
+  "properties": {
+    "id": 5047480797,
+    "addr:housenumber": "6",
+    "addr:street": "Zeughausgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-31",
+    "level": "0",
+    "name": "Chabis Ch\u00e4s Foodwastestand",
+    "opening_hours": "Mo-Fr 16:00-18:00; Sa 14:00-15:00",
+    "street_vendor": "food_truck",
+    "website": "https://www.instagram.com/chabischaes.ch/"
+  },
+  "id": 5047480797
+}

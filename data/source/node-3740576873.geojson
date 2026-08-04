@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0221344,
+      47.4101699
+    ]
+  },
+  "properties": {
+    "id": 3740576873,
+    "amenity": "restaurant",
+    "check_date": "2026-04-11",
+    "cuisine": "regional",
+    "email": "info@waldhausgehren.ch",
+    "name": "Restaurant Waldhaus Gehren",
+    "opening_hours": "Tu-Th 09:00-23:00; Fr-Sa 09:00-00:00; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41628440660",
+    "self_service": "no",
+    "website": "https://www.waldhausgehren.ch/"
+  },
+  "id": 3740576873
+}

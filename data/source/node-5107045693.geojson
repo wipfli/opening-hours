@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.718053,
+      47.2394606
+    ]
+  },
+  "properties": {
+    "id": 5107045693,
+    "addr:city": "St\u00e4fa",
+    "addr:country": "CH",
+    "addr:housenumber": "37",
+    "addr:postcode": "8712",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "fish",
+    "name": "Sonne",
+    "opening_hours": "Tu-Sa 07:00-14:00, 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 477 10 10",
+    "website": "http://www.sonnestaefa.ch/"
+  },
+  "id": 5107045693
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445394,
+      47.4024233
+    ]
+  },
+  "properties": {
+    "id": 3389274208,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "43",
+    "addr:postcode": "8057",
+    "addr:street": "Oerlikonerstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-06-30",
+    "contact:facebook": "https://www.facebook.com/Restaurant-Nihao-617029391841374/",
+    "cuisine": "asian",
+    "email": "info@restaurant-nihao.ch",
+    "name": "Nihao",
+    "opening_hours": "Tu-Fr,Su 11:30-14:30,17:30-22:30; Sa 17:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 537 54 34",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.restaurant-nihao.ch/",
+    "website:menu": "https://www.restaurant-nihao.ch/pdf/speisekarte.pdf"
+  },
+  "id": 3389274208
+}

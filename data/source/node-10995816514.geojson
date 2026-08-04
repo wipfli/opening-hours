@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5479282,
+      47.3791998
+    ]
+  },
   "properties": {
-    "@id": "node/10995816514",
+    "id": 10995816514,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "25",
     "addr:postcode": "8006",
@@ -14,12 +21,5 @@
     "phone": "+41782362599",
     "website": "https://mi-te.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5479282,
-      47.3791998
-    ]
-  },
-  "id": "node-10995816514"
+  "id": 10995816514
 }

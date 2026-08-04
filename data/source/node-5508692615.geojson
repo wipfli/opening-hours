@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2409883,
+      47.4972623
+    ]
+  },
+  "properties": {
+    "id": 5508692615,
+    "addr:city": "Vogelsang",
+    "addr:housenumber": "55",
+    "addr:postcode": "5412",
+    "addr:street": "Limmatstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "international",
+    "delivery": "yes",
+    "name": "Kantine Wasserschloss",
+    "opening_hours": "Mo-Fr 11:40-13:30 || \"Take-away oder nach Vereinbarung\"",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 201 77 65",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://kantine-wasserschloss.ch/"
+  },
+  "id": 5508692615
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7541469,
+      47.5072954
+    ]
+  },
+  "properties": {
+    "id": 2424723261,
+    "addr:housenumber": "159",
+    "addr:street": "R\u00f6merstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Sonneck",
+    "opening_hours": "Mo-Th 09:00-14:00, Fr 09:00-14:00, Mo-Th 16:30-23:30, Fr 16:30-24:00",
+    "phone": "+41 52 242 48 48",
+    "website": "https://www.sunnegg.ch",
+    "wheelchair": "yes"
+  },
+  "id": 2424723261
+}

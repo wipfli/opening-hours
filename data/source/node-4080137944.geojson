@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5245237,
+      46.7893603
+    ]
+  },
+  "properties": {
+    "id": 4080137944,
+    "addr:city": "Seftigen",
+    "addr:housenumber": "2",
+    "addr:postcode": "3662",
+    "addr:street": "Allmendweg",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pizzeria Ristorante Da Gloria",
+    "opening_hours": "Mo,Th-Sa 10:00-14:00,17:00-22:30; Tu off; Su 10:00-22:00",
+    "phone": "+41 33 356 32 19",
+    "website": "http://www.dagloria.ch/"
+  },
+  "id": 4080137944
+}

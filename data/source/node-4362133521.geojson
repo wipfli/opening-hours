@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5786242,
+      47.3204337
+    ]
+  },
+  "properties": {
+    "id": 4362133521,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/SeerestaurantZH/",
+    "contact:instagram": "https://www.instagram.com/seerestaurant_steinburg/",
+    "contact:twitter": "https://twitter.com/seerestaurantzh",
+    "name": "Seerestaurant Steinburg",
+    "opening_hours": "Tu-Sa 17:30-23:00",
+    "phone": "+41449100638",
+    "website": "https://seerestaurant-steinburg.ch/"
+  },
+  "id": 4362133521
+}

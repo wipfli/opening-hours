@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6917342,
+      47.5177011
+    ]
+  },
+  "properties": {
+    "id": 12685683338,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8408",
+    "addr:street": "Sporrerpark",
+    "amenity": "restaurant",
+    "name": "Sporrer",
+    "opening_hours": "We-Th 11:30-14:00, 17:30-22:00; Fr 11:30-14:00, 17:30-23:00; Sa 11:30-23:00; Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 222 27 08",
+    "website": "https://sporrer.ch/"
+  },
+  "id": 12685683338
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1067254,
+      46.1657566
+    ]
+  },
+  "properties": {
+    "id": 6700927485,
+    "addr:city": "Plan-les-Ouates",
+    "addr:housenumber": "19",
+    "addr:postcode": "1228",
+    "addr:street": "Chemin du Champ-des-Filles",
+    "amenity": "restaurant",
+    "name": "Brasserie de Plan-les\u2019",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "phone": "+41227948482",
+    "terrace": "yes",
+    "website": "https://brasserieplanles.ch/"
+  },
+  "id": 6700927485
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6068171,
+      46.9962804
+    ]
+  },
+  "properties": {
+    "id": 7184323436,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Stauffacher",
+    "opening_hours": "Mo-Sa 07:30-24:00",
+    "phone": "+41 41 820 18 22",
+    "website": "https://www.restaurantstauffacher.ch/"
+  },
+  "id": 7184323436
+}

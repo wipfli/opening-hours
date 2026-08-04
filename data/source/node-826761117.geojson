@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0025979,
+      46.0050963
+    ]
+  },
+  "properties": {
+    "id": 826761117,
+    "addr:street": "Piazza Nisci\u00f6r",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "contact:facebook": "LocandaGandriese",
+    "contact:instagram": "locandagandriese",
+    "cuisine": "italian;local",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "infolocandagandriese@gmail.com",
+    "indoor_seating": "yes",
+    "name": "Locanda Gandriese",
+    "opening_hours": "09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 971 41 81",
+    "website": "https://www.locandagandriese.com/"
+  },
+  "id": 826761117
+}

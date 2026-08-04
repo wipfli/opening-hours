@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0668382,
+      47.3979582
+    ]
+  },
+  "properties": {
+    "id": 4519067992,
+    "addr:city": "Aarau",
+    "addr:housenumber": "2",
+    "addr:postcode": "5000",
+    "addr:street": "Neumattstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "kontakt@mojo-food.ch",
+    "name": "Mojo",
+    "opening_hours": "Mo-Fr 08:00-15:30",
+    "phone": "+41 62 834 53 13",
+    "website": "https://mojo-food.ch/"
+  },
+  "id": 4519067992
+}

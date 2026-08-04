@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8928083,
+      47.5552162
+    ]
+  },
+  "properties": {
+    "id": 6312291774,
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "level": "0",
+    "name": "Trio",
+    "opening_hours": "Tu-Th 11:30-14:00,17:30-22:00; Fr 11:30-14:00,17:30-23:00; Sa 11:30-23:00; Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://restaurant-trio.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 6312291774
+}

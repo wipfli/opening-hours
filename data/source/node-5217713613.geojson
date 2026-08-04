@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8548579,
+      46.8108511
+    ]
+  },
+  "properties": {
+    "id": 5217713613,
+    "addr:city": "Davos Dorf",
+    "addr:housenumber": "26",
+    "addr:postcode": "7260",
+    "addr:street": "Fl\u00fcelastrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-23",
+    "cuisine": "pizza;burger;sandwich;ice_cream",
+    "diet:vegetarian": "yes",
+    "email": "info@chaletvelo.ch",
+    "name": "Chalet Velo",
+    "opening_hours": "Jul-Aug: 12:00-21:00; Jun,Sep: We-Su 12:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 78 698 63 24",
+    "website": "https://chaletvelo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5217713613
+}

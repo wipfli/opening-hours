@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5131571,
+      47.362924
+    ]
+  },
   "properties": {
-    "@id": "node/4839549446",
+    "id": 4839549446,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "17",
@@ -18,12 +25,5 @@
     "phone": "+41 79 153 06 06",
     "website": "https://www.binzundkunz.ch"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5131571,
-      47.362924
-    ]
-  },
-  "id": "node-4839549446"
+  "id": 4839549446
 }

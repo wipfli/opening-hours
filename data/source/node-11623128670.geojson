@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0258027,
+      46.2361951
+    ]
+  },
+  "properties": {
+    "id": 11623128670,
+    "amenity": "restaurant",
+    "name": "Au Soleil du Ch\u00e2tel",
+    "opening_hours": "Tu-Sa 09:30-23:00; Su 10:00-15:00",
+    "phone": "+41 78 639 71 21",
+    "website": "https://www.ausoleil-bex.ch/"
+  },
+  "id": 11623128670
+}

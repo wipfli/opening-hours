@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7541948,
+      47.0609091
+    ]
+  },
+  "properties": {
+    "id": 10314636966,
+    "addr:city": "Le Locle",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "2400",
+    "addr:street": "Rue du Marais",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining;local",
+    "email": "info@lacroisette.ch",
+    "name": "La Croisette",
+    "opening_hours": "Mo 06:45-14:15; Tu-Fr 06:45-14:15,17:00-24:00; Sa 17:00-24:00",
+    "operator": "Food & Beverages Fran\u00e7ois Berner",
+    "phone": "+41 32 931 35 30",
+    "website": "https://www.lacroisette.ch"
+  },
+  "id": 10314636966
+}

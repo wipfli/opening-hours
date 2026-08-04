@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5413332,
+      47.383118
+    ]
+  },
   "properties": {
-    "@id": "node/552932425",
+    "id": 552932425,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "102",
@@ -15,12 +22,5 @@
     "operator": "Sares Invest",
     "website": "https://pizzeriaveneziana.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5413332,
-      47.383118
-    ]
-  },
-  "id": "node-552932425"
+  "id": 552932425
 }

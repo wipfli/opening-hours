@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4398684,
+      46.9342461
+    ]
+  },
+  "properties": {
+    "id": 662759350,
+    "alt_name": "Teppanyaki-Restaurant Taishi",
+    "amenity": "restaurant",
+    "contact:addr": "Seftigenstrasse 99, 3007 Bern",
+    "contact:email": "ambassador@fhotels.ch",
+    "contact:fax": "+41 31 3714117",
+    "contact:phone": "+41 31 3709999",
+    "cuisine": "japanese",
+    "name": "Taishi",
+    "opening_hours": "Mo off; Tu-Fr 12:00-14:00,18:00-22:00; Sa 18:00-22:00; Su off; PH off",
+    "source": "survey and website",
+    "website": "https://fassbindhotels.ch/gastronomy/teppanyaki-restaurant-taishi-bern/"
+  },
+  "id": 662759350
+}

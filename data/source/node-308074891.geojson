@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3927272,
+      46.9489179
+    ]
+  },
+  "properties": {
+    "id": 308074891,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "265",
+    "addr:postcode": "3027",
+    "addr:street": "Murtenstrasse",
+    "alt_name": "Restaurant Tea-Room Blumenfeld",
+    "amenity": "restaurant",
+    "contact:email": "joss@blumenfeld.ch",
+    "contact:phone": "+41 31 9941600",
+    "name": "Blumenfeld",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su off",
+    "source": "survey and website",
+    "website": "https://www.blumenfeld.ch/"
+  },
+  "id": 308074891
+}

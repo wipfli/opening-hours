@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6063849,
+      46.9937538
+    ]
+  },
+  "properties": {
+    "id": 4319193513,
+    "amenity": "restaurant",
+    "check_date": "2026-04-27",
+    "name": "Haddock",
+    "opening_hours": "Mo-Fr 11:30-24:00; Sa 11:30-24:00; Su 11:30-22:00",
+    "phone": "+41 41 820 60 00",
+    "website": "https://haddock-brunnen.ch/"
+  },
+  "id": 4319193513
+}

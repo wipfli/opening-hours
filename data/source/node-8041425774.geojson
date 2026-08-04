@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5882538,
+      47.5511599
+    ]
+  },
+  "properties": {
+    "id": 8041425774,
+    "addr:city": "Basel",
+    "addr:housenumber": "39",
+    "addr:postcode": "4051",
+    "addr:street": "Steinentorstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Grill Heuwaage",
+    "opening_hours": "Mo-Sa 10:00-22:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 271 04 06",
+    "smoking": "outside",
+    "website": "https://grillheuwaage.ch/"
+  },
+  "id": 8041425774
+}

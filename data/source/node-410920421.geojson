@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5388477,
+      46.479401
+    ]
+  },
+  "properties": {
+    "id": 410920421,
+    "addr:city": "Adelboden",
+    "addr:country": "CH",
+    "addr:housenumber": "34",
+    "addr:postcode": "3715",
+    "addr:street": "Hahnenmoosstrasse",
+    "amenity": "restaurant",
+    "email": "info@desalpes-adelboden.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hotel des Alpes",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "operator": "Ilona Richter und Thomas Hofer",
+    "phone": "+41 33 673 12 24",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "https://www.desalpes-adelboden.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 410920421
+}

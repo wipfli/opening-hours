@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8493583,
+      47.1133632
+    ]
+  },
+  "properties": {
+    "id": 4818042309,
+    "addr:housenumber": "6",
+    "addr:street": "Brunnenplatz",
+    "amenity": "restaurant",
+    "name": "PURA Huttwil",
+    "opening_hours": "We-Fr 09:00-11:45, We 15:00-19:00, Th 15:00-22:00, Fr 15:00-23:00, Sa 09:00-19:00",
+    "website": "https://pura-huttwil.ch"
+  },
+  "id": 4818042309
+}

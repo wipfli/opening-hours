@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1538929,
+      46.7974328
+    ]
+  },
+  "properties": {
+    "id": 1325586721,
+    "alt_name": "Boulevard 39 FR",
+    "alt_name:fr": "brasserie le Boulevard 39 FR",
+    "amenity": "restaurant",
+    "check_date": "2026-02-22",
+    "name": "Brasserie 39",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.leboulevard.ch/fr",
+    "wheelchair": "limited"
+  },
+  "id": 1325586721
+}

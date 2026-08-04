@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4971622,
+      47.4937577
+    ]
+  },
+  "properties": {
+    "id": 1620892077,
+    "amenity": "restaurant",
+    "name": "Davinci's",
+    "opening_hours": "Tu-Fr 11:30-14:00; We-Sa 18:00-22:00",
+    "phone": "+41 43 810 33 80",
+    "website": "https://www.davincis.ch/"
+  },
+  "id": 1620892077
+}

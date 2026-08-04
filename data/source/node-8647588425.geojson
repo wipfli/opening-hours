@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5607978,
+      47.4515757
+    ]
+  },
+  "properties": {
+    "id": 8647588425,
+    "amenity": "restaurant",
+    "email": "flughafen.info@autogrill.net",
+    "level": "2",
+    "name": "Chalet Suisse",
+    "opening_hours": "Mo-Su,PH 06:00-21:00",
+    "phone": "+41 43 816 60 83",
+    "website": "https://www.chaletsuisse-zrh.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8647588425
+}

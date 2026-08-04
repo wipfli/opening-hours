@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5375731,
+      46.5151801
+    ]
+  },
+  "properties": {
+    "id": 2241362756,
+    "addr:city": "Denges",
+    "addr:housenumber": "101",
+    "addr:postcode": "1026",
+    "addr:street": "Route de Gen\u00e8ve",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "delivery": "yes",
+    "name": "Restaurant Ausonia",
+    "opening_hours": "Mo-Su,PH 11:45-14:30,17:45-22:00",
+    "phone": "+41 21 633 74 51",
+    "takeaway": "yes",
+    "website": "https://www.ausonia.ch"
+  },
+  "id": 2241362756
+}

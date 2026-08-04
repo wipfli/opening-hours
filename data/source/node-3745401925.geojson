@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.133215,
+      46.206191
+    ]
+  },
+  "properties": {
+    "id": 3745401925,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "4",
+    "addr:postcode": "1203",
+    "addr:street": "Rue des D\u00e9lices",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "no",
+    "internet_access": "wlan",
+    "name": "D\u00e9lices Parc",
+    "opening_hours": "Mo-Fr 09:00-24:00, Sa 10:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 344 07 26",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "http://www.delicesparc.ch"
+  },
+  "id": 3745401925
+}

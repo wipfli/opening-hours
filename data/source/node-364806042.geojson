@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2760646,
+      47.0447755
+    ]
+  },
+  "properties": {
+    "id": 364806042,
+    "alt_name": "Restaurant Rathaus",
+    "amenity": "restaurant",
+    "contact:addr": "Stadtplatz 24, 3270 Aarberg",
+    "contact:email": "info@cucina-italiana.ch",
+    "contact:phone": "+41 32 3921239",
+    "cuisine": "italian",
+    "name": "Cucina italiana",
+    "opening_hours": "Mo,Tu 09:00-22:30; Fr,Sa 09:00-23:00; Su 09:30-22:00; We,Th off",
+    "source": "survey and website",
+    "website": "https://www.cucina-italiana.ch"
+  },
+  "id": 364806042
+}

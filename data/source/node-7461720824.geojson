@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8449637,
+      46.4592037
+    ]
+  },
+  "properties": {
+    "id": 7461720824,
+    "amenity": "restaurant",
+    "capacity": "30",
+    "cuisine": "japanese;chinese;sushi;asian",
+    "delivery": "yes",
+    "email": "lotusvevey@bluewin.ch",
+    "name": "Le Lotus",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:30-22:30; Sa,Su 07:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 921 33 61",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-asiatique.ch/"
+  },
+  "id": 7461720824
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5355187,
+      46.75488
+    ]
+  },
+  "properties": {
+    "id": 4516764791,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2026-07-06",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "Grizzlyb\u00e4r",
+    "name:de": "Grizzlyb\u00e4r",
+    "opening_hours": "We-Sa 08:00-22:00; Su 08:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 356 26 55",
+    "reservation": "yes",
+    "tourism": "hotel",
+    "website": "https://www.grizzlybaer.ch/"
+  },
+  "id": 4516764791
+}

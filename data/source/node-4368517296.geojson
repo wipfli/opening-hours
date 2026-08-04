@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3420179,
+      47.365325
+    ]
+  },
+  "properties": {
+    "id": 4368517296,
+    "addr:city": "Del\u00e9mont",
+    "addr:housenumber": "39",
+    "addr:postcode": "2800",
+    "addr:street": "Rue de l'H\u00f4pital",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@komachi.ch",
+    "name": "Komachi",
+    "name:fr": "Komachi",
+    "opening_hours": "Tu-Th 08:30-14:00,18:00-22:00; Fr 08:30-14:00,18:00-23:00; Sa 10:00-14:00,18:00-23:00; PH,Su off",
+    "phone": "+41 32 423 00 53",
+    "website": "http://www.komachi.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4368517296
+}

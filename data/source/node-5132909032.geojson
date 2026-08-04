@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7872843,
+      46.9397149
+    ]
+  },
+  "properties": {
+    "id": 5132909032,
+    "addr:city": "Langnau i. E.",
+    "addr:housenumber": "1a",
+    "addr:postcode": "3550",
+    "addr:street": "Schlossstrasse",
+    "alt_name": "Migros Restaurant Langnau i.E.",
+    "amenity": "restaurant",
+    "branch": "Langnau im Emmental",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "smoking": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-langnau-ie",
+    "wheelchair": "yes"
+  },
+  "id": 5132909032
+}

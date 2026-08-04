@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6970248,
+      47.5247307
+    ]
+  },
+  "properties": {
+    "id": 5013999504,
+    "amenity": "restaurant",
+    "email": "landhof@sinnenvoll.ch",
+    "name": "BIO Restaurant LANDHOF",
+    "opening_hours": "Mo-Fr 11:00-14:00; Th-Sa 11:00-14:00,18:00-22:00",
+    "phone": "+41 61 511 07 07",
+    "website": "https://landhof-pratteln.ch/"
+  },
+  "id": 5013999504
+}

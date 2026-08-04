@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1560148,
+      47.0942404
+    ]
+  },
+  "properties": {
+    "id": 4985607322,
+    "amenity": "restaurant",
+    "name": "Twanner Stube",
+    "opening_hours": "Fr,Su 10:00-22:00; Sa 10:00-22:30",
+    "website": "https://www.twannerstube.ch/"
+  },
+  "id": 4985607322
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8979537,
+      46.5272395
+    ]
+  },
+  "properties": {
+    "id": 13323729342,
+    "addr:city": "Ch\u00e2tel-Saint-Denis",
+    "addr:housenumber": "52",
+    "addr:postcode": "1618",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Le Ch\u00e2tel",
+    "opening_hours": "Mo,Th,Fr,Sa 11:00-14:30,18:00-23:00",
+    "phone": "+41 21 931 44 44",
+    "website": "https://lechatel.ch/"
+  },
+  "id": 13323729342
+}

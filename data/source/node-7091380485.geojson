@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6298788,
+      46.512799
+    ]
+  },
+  "properties": {
+    "id": 7091380485,
+    "addr:housenumber": "22",
+    "addr:postcode": "1006",
+    "addr:street": "Avenue d'Ouchy",
+    "amenity": "restaurant",
+    "cuisine": "georgian",
+    "indoor_seating": "yes",
+    "name": "Le pr\u00e9-fleuri",
+    "opening_hours": "Tu-Th 10:00-14:00; Mo-Fr 18:30-23:00; Sa-Su 12:30-15:00,18:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 63 67",
+    "website": "https://www.restaurantgeorgien.ch/"
+  },
+  "id": 7091380485
+}

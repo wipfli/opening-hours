@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8332809,
+      47.2247363
+    ]
+  },
+  "properties": {
+    "id": 4861893202,
+    "addr:city": "Jona",
+    "addr:housenumber": "6",
+    "addr:postcode": "8645",
+    "addr:street": "Eichwiesstrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "indoor_seating": "yes",
+    "name": "Yushu",
+    "opening_hours": "Mo 17:00-21:00; Tu off; We 17:00-21:00; Th-Fr 11:30-13:30, 17:00-21:30; Sa 12:00-14:00, 17:00-21:30; Su 12:00-21:00; PH off",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "website": "https://www.yushu.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4861893202
+}

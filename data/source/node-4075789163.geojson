@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6052129,
+      47.4038645
+    ]
+  },
+  "properties": {
+    "id": 4075789163,
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "3",
+    "addr:postcode": "8304",
+    "addr:street": "Am Wasser",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Bistro ZwiBack",
+    "opening_hours": "Mo-Fr 06:30-18:30; Sa 08:00-11:00; Su 10:00-14:00",
+    "phone": "+41 44 325 44 66",
+    "takeaway": "yes",
+    "website": "https://zwiback.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4075789163
+}

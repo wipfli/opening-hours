@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4041036,
+      47.2805087
+    ]
+  },
+  "properties": {
+    "id": 599959925,
+    "addr:city": "Ottenbach",
+    "addr:housenumber": "6a",
+    "addr:postcode": "8913",
+    "addr:street": "Affolternstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "delivery": "yes",
+    "name": "Restaurant Othli",
+    "opening_hours": "Su-Mo 17:00-22:30; Tu-Sa 10:00-22:30",
+    "outdoor_seating": "no",
+    "website": "https://www.restaurant-othli-ottenbach.ch/"
+  },
+  "id": 599959925
+}

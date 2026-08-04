@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1429226,
+      47.2798252
+    ]
+  },
+  "properties": {
+    "id": 1708825387,
+    "addr:city": "Gontenschwil",
+    "addr:housenumber": "9",
+    "addr:postcode": "5728",
+    "addr:street": "Oberkulmerstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant L\u00f6wen",
+    "opening_hours": "Tu-Su 08:30-24:00",
+    "phone": "+41 62 773 12 51",
+    "website": "https://www.loewen-gontenschwil.ch/"
+  },
+  "id": 1708825387
+}

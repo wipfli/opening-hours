@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4589134,
+      47.1816382
+    ]
+  },
+  "properties": {
+    "id": 254745858,
+    "addr:housenumber": "4",
+    "addr:street": "Sinserstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;pasta;pizza;risotto",
+    "delivery": "yes",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:30; Sa 17:30-23:30; PH closed",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30,18:00-21:30; Sa 18:00-21:30; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 780 13 18",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-roessli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 254745858
+}

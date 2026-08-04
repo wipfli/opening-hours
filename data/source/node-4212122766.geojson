@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4355503,
+      47.5165867
+    ]
+  },
+  "properties": {
+    "id": 4212122766,
+    "addr:city": "Arbon",
+    "addr:housenumber": "5",
+    "addr:postcode": "9320",
+    "addr:street": "Walhallastrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-11-11",
+    "cuisine": "italian",
+    "email": "info@rpietro.ch",
+    "name": "Pietro",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-22:30",
+    "opening_hours:kitchen": "Tu-Sa 11:30-13:30,17:30-21:30",
+    "operator": "JP Gastro GmbH",
+    "phone": "+41 71 446 80 00",
+    "website": "https://rpietro.ch",
+    "website:menu": "https://www.rpietro.ch/menu/"
+  },
+  "id": 4212122766
+}

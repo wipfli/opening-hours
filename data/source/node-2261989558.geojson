@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4153051,
+      46.908929
+    ]
+  },
+  "properties": {
+    "id": 2261989558,
+    "addr:city": "Schliern b. K\u00f6niz",
+    "addr:housenumber": "8",
+    "addr:postcode": "3098",
+    "addr:street": "D\u00f6rfliweg",
+    "alt_name": "Restaurant D\u00f6rfli",
+    "amenity": "restaurant",
+    "check_date": "2025-10-19",
+    "contact:phone": "+41 31 971 99 90",
+    "name": "D\u00f6rfli",
+    "opening_hours": "Tu-Th 08:30-22:00; Fr 08:30-23:00; Sa 10:00-23:00; Su 10:00-21:00",
+    "toilets:wheelchair": "no",
+    "website": "https://www.doerflischliern.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2261989558
+}

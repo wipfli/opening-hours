@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8273328,
+      47.3043863
+    ]
+  },
+  "properties": {
+    "id": 12057665725,
+    "addr:city": "Hinwil",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8340",
+    "addr:street": "Hintere W\u00e4sseristrasse",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "name": "B&S Grill",
+    "opening_hours": "Tu-Fr 11:00-22:00; Sa,Su,PH 09:00-22:00",
+    "phone": "+41 449 380 124",
+    "website": "http://bs-grill.ch"
+  },
+  "id": 12057665725
+}

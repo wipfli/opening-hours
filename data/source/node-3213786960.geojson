@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.432672,
+      46.936623
+    ]
+  },
+  "properties": {
+    "id": 3213786960,
+    "amenity": "restaurant",
+    "contact:addr": "Seftigenstrasse 45, 3007 Bern",
+    "name": "Tadim Grill",
+    "opening_hours": "Tu-Th 11:00-22:30; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+    "opening_hours:delivery": "Tu-Th 16:30-22:30; Fr 16:30-23:00; Sa 13:00-23:00; Su 13:00-22:00",
+    "phone": "+41 31 372 20 20",
+    "takeaway": "yes",
+    "website": "https://www.tadimgrill.ch/"
+  },
+  "id": 3213786960
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4026425,
+      46.8201283
+    ]
+  },
+  "properties": {
+    "id": 3488309555,
+    "addr:housenumber": "39",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-10",
+    "cuisine": "pizza;coffee_shop;soup",
+    "email": "staniscorner@tep.ch",
+    "name": "Stani's Corner",
+    "opening_hours": "Tu-Sa 08:00-21:00; Su 09:00-21:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 76 451 07 83",
+    "website": "https://staniscorner.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3488309555
+}

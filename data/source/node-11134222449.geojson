@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3542359,
+      46.2308923
+    ]
+  },
+  "properties": {
+    "id": 11134222449,
+    "addr:housenumber": "49a",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "name": "Happy Bowl Sion",
+    "opening_hours": "Mo-Su 11:00-14:00, 18:00-21:00",
+    "phone": "+41 27 565 10 61",
+    "website": "https://happybowlsion.ch/fr/"
+  },
+  "id": 11134222449
+}

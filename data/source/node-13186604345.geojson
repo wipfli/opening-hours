@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.914366,
+      47.2770454
+    ]
+  },
+  "properties": {
+    "id": 13186604345,
+    "addr:city": "Wald ZH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8636",
+    "addr:street": "Unterpuntstrasse",
+    "amenity": "restaurant",
+    "name": "Beiz 1640 (L\u00f6wen)",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa 17:00-23:00; PH off",
+    "website": "https://www.beiz1640.ch/"
+  },
+  "id": 13186604345
+}

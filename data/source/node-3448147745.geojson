@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287161,
+      47.3749607
+    ]
+  },
   "properties": {
-    "@id": "node/3448147745",
+    "id": 3448147745,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "39",
     "addr:postcode": "8004",
@@ -14,12 +21,5 @@
     "website": "https://www.bund39.cn/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5287161,
-      47.3749607
-    ]
-  },
-  "id": "node-3448147745"
+  "id": 3448147745
 }

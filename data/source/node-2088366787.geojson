@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5371579,
+      47.5515399
+    ]
+  },
+  "properties": {
+    "id": 2088366787,
+    "addr:city": "Allschwil",
+    "addr:housenumber": "11",
+    "addr:postcode": "4123",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "no",
+    "name": "J\u00e4gerstube",
+    "opening_hours": "Mo-Sa 08:30-24:00; Su 10:00-22:00",
+    "phone": "+41 61 481 04 10",
+    "website": "https://www.jaegerstube.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2088366787
+}

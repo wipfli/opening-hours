@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6305551,
+      46.7583768
+    ]
+  },
+  "properties": {
+    "id": 3267356267,
+    "amenity": "restaurant",
+    "check_date": "2026-02-06",
+    "cuisine": "burger;curry;barbecue;local;mediterranean;regional;steak_house",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Schmiedstube Bar/Restaurant",
+    "opening_hours": "We-Sa 18:00-03:00",
+    "website": "https://www.schmiedstubethun.ch/"
+  },
+  "id": 3267356267
+}

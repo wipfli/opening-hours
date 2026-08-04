@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.492027,
+      46.5133538
+    ]
+  },
+  "properties": {
+    "id": 1555766425,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Restaurant de la Tour",
+    "opening_hours": "Mo-Th 09:30-14:30,17:30-23:00; Fr,Sa 09:30-14:30,17:30-24:00; PH 17:30-23:00",
+    "phone": "+41 21 801 73 78",
+    "website": "https://www.restaurant-morges.com/"
+  },
+  "id": 1555766425
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5104574,
+      46.2167289
+    ]
+  },
+  "properties": {
+    "id": 2429781852,
+    "amenity": "restaurant",
+    "description": "Buvette d'alpage servant fondue, assiettes de charcuterie, bi\u00e8res artisanales...",
+    "name": "La L\u00e9",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+41 79 791 82 30",
+    "website": "https://www.vercorin.ch/fr/buvette-vercorin-581.html"
+  },
+  "id": 2429781852
+}

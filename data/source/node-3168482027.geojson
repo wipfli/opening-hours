@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5366583,
+      47.3694613
+    ]
+  },
   "properties": {
-    "@id": "node/3168482027",
+    "id": 3168482027,
     "amenity": "restaurant",
     "cuisine": "thai",
     "name": "Thai Erawan",
@@ -13,12 +20,5 @@
     "website": "https://thaierawan-restaurant.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5366583,
-      47.3694613
-    ]
-  },
-  "id": "node-3168482027"
+  "id": 3168482027
 }

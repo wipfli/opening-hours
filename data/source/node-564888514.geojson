@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7261331,
+      47.4986633
+    ]
+  },
+  "properties": {
+    "id": 564888514,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8400",
+    "addr:street": "Neumarkt",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Riwaayat",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-23:00; Sa 17:30-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://riwaayat.ch",
+    "wheelchair": "limited"
+  },
+  "id": 564888514
+}

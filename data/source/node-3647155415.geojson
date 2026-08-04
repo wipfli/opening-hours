@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5175686,
+      47.3581623
+    ]
+  },
   "properties": {
-    "@id": "node/3647155415",
+    "id": 3647155415,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "65",
@@ -23,12 +30,5 @@
     "self_service": "yes",
     "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-brunaupark"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5175686,
-      47.3581623
-    ]
-  },
-  "id": "node-3647155415"
+  "id": 3647155415
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6759188,
+      47.2927538
+    ]
+  },
+  "properties": {
+    "id": 696400194,
+    "addr:city": "Balsthal",
+    "addr:housenumber": "50",
+    "addr:place": "Schwengimatt",
+    "addr:postcode": "4710",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "j-lehmann@bluewin.ch",
+    "name": "Berggasthof Schw\u00e4ngimatt",
+    "opening_hours": "Mo-Th off; Fr-Sa 08:00-20:00; Su 08:00-18:00",
+    "phone": "+41 62 391 11 49",
+    "tourism": "guest_house",
+    "website": "https://www.berggasthof-schwengimatt.ch/"
+  },
+  "id": 696400194
+}

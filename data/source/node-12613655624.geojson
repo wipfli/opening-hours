@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.964818,
+      47.004342
+    ]
+  },
+  "properties": {
+    "id": 12613655624,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "2",
+    "addr:postcode": "2000",
+    "addr:street": "Route des Gouttes d'Or",
+    "amenity": "restaurant",
+    "name": "La Table du Palafitte",
+    "opening_hours": "Mo-Su 12:00-14:00,18:30-21:30",
+    "website": "https://www.palafitte.ch/"
+  },
+  "id": 12613655624
+}

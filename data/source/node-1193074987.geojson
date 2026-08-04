@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2415557,
+      47.4948777
+    ]
+  },
+  "properties": {
+    "id": 1193074987,
+    "addr:city": "Vogelsang",
+    "addr:housenumber": "25",
+    "addr:postcode": "5412",
+    "addr:street": "Limmatstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-11",
+    "cuisine": "italian",
+    "delivery": "no",
+    "email": "info@assaggiozurbrucke.com",
+    "name": "L'Assaggio Zur Br\u00fccke - Ristorante & Pizzeria",
+    "opening_hours": "Tu-Fr, Su 10:00-14:00, 17:30-24:00; Sa 17:30-14:00",
+    "phone": "+41 56 223 11 53",
+    "takeaway": "no",
+    "website": "https://www.assaggiozurbrucke.com/"
+  },
+  "id": 1193074987
+}

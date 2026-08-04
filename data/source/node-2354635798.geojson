@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5814554,
+      47.530811
+    ]
+  },
+  "properties": {
+    "id": 2354635798,
+    "addr:housenumber": "2",
+    "addr:street": "Gupfe",
+    "amenity": "restaurant",
+    "check_date": "2025-12-14",
+    "check_date:opening_hours": "2025-12-14",
+    "cuisine": "italian;pizza",
+    "name": "Freieneck",
+    "opening_hours": "Mo-Fr 09:00-13:30,16:00-21:00; Sa 11:00-21:00; Su 15:00-21:00",
+    "phone": "+41 44 865 14 11",
+    "tourism": "guest_house",
+    "website": "https://freieneckpizza.ch/"
+  },
+  "id": 2354635798
+}

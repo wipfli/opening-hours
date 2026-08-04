@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9355592,
+      46.4615065
+    ]
+  },
+  "properties": {
+    "id": 2917128297,
+    "amenity": "restaurant",
+    "name": "z'Reschti",
+    "opening_hours": "We-Su 17:00-23:00",
+    "website": "https://www.camping-morteratsch.ch/gastro/"
+  },
+  "id": 2917128297
+}

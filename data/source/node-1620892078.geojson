@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5043934,
+      47.4915992
+    ]
+  },
+  "properties": {
+    "id": 1620892078,
+    "addr:city": "Niederglatt ZH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8172",
+    "addr:street": "S\u00e4gereistrasse",
+    "amenity": "restaurant",
+    "name": "Mona Lisa",
+    "opening_hours": "Mo-Tu 11:30-13:30,17:00-22:30; We 11:30-13:30,17:00-22:00; Th 11:30-13:30,17:00-22:30; Fr off; Sa,Su 11:30-13:30,17:00-23:00",
+    "website": "https://www.monalisa-niederglatt.ch/"
+  },
+  "id": 1620892078
+}

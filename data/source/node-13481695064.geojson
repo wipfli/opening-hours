@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3731771,
+      47.4221775
+    ]
+  },
+  "properties": {
+    "id": 13481695064,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "15",
+    "addr:postcode": "9000",
+    "addr:street": "Frongartenstrasse",
+    "amenity": "restaurant",
+    "name": "Rubens",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:30-16:00",
+    "website": "https://www.rubens-sg.ch/"
+  },
+  "id": 13481695064
+}

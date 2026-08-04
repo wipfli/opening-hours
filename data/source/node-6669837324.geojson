@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8427708,
+      47.3008134
+    ]
+  },
+  "properties": {
+    "id": 6669837324,
+    "amenity": "restaurant",
+    "check_date": "2023-10-31",
+    "cuisine": "pizza",
+    "email": "info@zentrumhinwil.ch",
+    "name": "Pizzeria Zentrum",
+    "opening_hours": "Mo-Th 08:30-23:00; Fr,Sa 08:30-00:00; Su,PH 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 998 20 00",
+    "website": "https://www.zentrumhinwil.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6669837324
+}

@@ -1,5 +1,0 @@
-The OSM tags specify `addr:street=Badenerstrasse`, so I need the hours for the Badenerstrasse 138 location:
-
-Montag–Sonntag: 11:30–23:00
-
-Mo-Su 11:30-23:00

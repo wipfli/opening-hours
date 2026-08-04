@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9962281,
+      47.2847718
+    ]
+  },
+  "properties": {
+    "id": 13807052081,
+    "addr:city": "Goldingen",
+    "addr:postcode": "8638",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "1",
+    "name": "Atzm\u00e4nnig Lodge",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "operator": "Sportbahnen Atzm\u00e4nnig AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 284 64 34",
+    "self_service": "yes",
+    "website": "https://www.atzmaennig.ch/de/gastronomie/restaurant-atzmaennig-lodge/",
+    "wheelchair": "yes"
+  },
+  "id": 13807052081
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0950438,
+      46.7016808
+    ]
+  },
+  "properties": {
+    "id": 11716629919,
+    "amenity": "restaurant",
+    "check_date": "2024-03-11",
+    "cuisine": "pasta;regional;soup",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "Restaurant L\u2019Usteria Baer & Post",
+    "opening_hours": "10:00-23:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-14:30,18:00-21:30",
+    "outdoor_seating": "yes",
+    "takeaway": "no",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://baer-post.ch",
+    "wheelchair": "yes"
+  },
+  "id": 11716629919
+}

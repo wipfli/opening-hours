@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3197681,
+      47.4690504
+    ]
+  },
+  "properties": {
+    "id": 8301144517,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "5430",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-20",
+    "cuisine": "vietnamese",
+    "name": "\u00c4ntli",
+    "opening_hours": "Tu-Th 11:00-14:00,17:30-21:00; Fr 11:00-14:00,17:30-22:00; Sa 17:30-22:00",
+    "phone": "+41 56 536 76 33",
+    "website": "https://aentli.com"
+  },
+  "id": 8301144517
+}

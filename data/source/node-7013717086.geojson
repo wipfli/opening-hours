@@ -1,0 +1,48 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5124278,
+      47.1768691
+    ]
+  },
+  "properties": {
+    "id": 7013717086,
+    "addr:city": "Zug",
+    "addr:floor": "0",
+    "addr:housenumber": "16",
+    "addr:postcode": "6300",
+    "addr:street": "Aabachstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "baby_feeding": "yes",
+    "bar": "yes",
+    "brewery": "various",
+    "capacity": "1700",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "check_date": "2025-05-02",
+    "cuisine": "asian;burger;international;italian;japanese;kebab",
+    "email": "mail@freiruum.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "Freiruum Zug",
+    "opening_hours": "Mo-We 09:00-22:00; Th-Fr 09:00-24:00; Sa 10:00-24:00; Su 10:00-20:00",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 510 86 06",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "limited",
+    "website": "https://freiruum.ch",
+    "website:menu": "https://www.freiruum.ch/genuss",
+    "wheelchair": "yes",
+    "wheelchair:description": "WC ist etwas eng"
+  },
+  "id": 7013717086
+}

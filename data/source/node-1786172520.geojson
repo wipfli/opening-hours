@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7589912,
+      47.3055261
+    ]
+  },
+  "properties": {
+    "id": 1786172520,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "name": "Pizzeria Laufenbach",
+    "opening_hours": "Mo,Tu,Th,Fr 08:45-14:00,16:00-22:30; Sa 11:00-22:30; Su,PH 17:00-21:30",
+    "opening_hours:covid19": "off",
+    "phone": "+41 44 935 15 04",
+    "website": "http://laufenbachgossau.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1786172520
+}

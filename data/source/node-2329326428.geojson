@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1912433,
+      47.1360838
+    ]
+  },
+  "properties": {
+    "id": 2329326428,
+    "addr:city": "Sempach",
+    "addr:housenumber": "22",
+    "addr:postcode": "6204",
+    "addr:street": "Stadtstrasse",
+    "amenity": "restaurant",
+    "email": "willkommen@adler-sempach.c",
+    "name": "Adler",
+    "opening_hours": "Tu-Sa 10:00-14:00, 17:30-23:30",
+    "phone": "+41 41 460 13 23",
+    "website": "https://www.adler-sempach.ch",
+    "website:menu": "https://www.adler-sempach.ch/angebot/"
+  },
+  "id": 2329326428
+}

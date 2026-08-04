@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5499916,
+      47.3606695
+    ]
+  },
   "properties": {
-    "@id": "node/268471384",
+    "id": 268471384,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "23",
@@ -20,12 +27,5 @@
     "website": "https://www.bindella.ch/de/amalfi.html",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5499916,
-      47.3606695
-    ]
-  },
-  "id": "node-268471384"
+  "id": 268471384
 }

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4176168,
+      46.9497795
+    ]
+  },
+  "properties": {
+    "id": 13667025050,
+    "addr:housenumber": "1",
+    "addr:street": "Weyermannsstrasse",
+    "amenity": "restaurant",
+    "name": "La Vie",
+    "opening_hours": "Mo-Fr 09:00-19:00",
+    "phone": "+41 31 387 20 40",
+    "website": "https://www.restaurantlavie.ch/"
+  },
+  "id": 13667025050
+}

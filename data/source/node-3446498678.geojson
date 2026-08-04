@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5603372,
+      46.8732519
+    ]
+  },
+  "properties": {
+    "id": 3446498678,
+    "addr:city": "M\u00fcnsingen",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "3110",
+    "addr:street": "Bahnhofplatz",
+    "alt_name": "Migros Restaurant M\u00fcnsingen",
+    "amenity": "restaurant",
+    "branch": "M\u00fcnsingen",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "check_date": "2023-06-07",
+    "cuisine": "international",
+    "level": "2",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:twint": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-muensingen",
+    "wheelchair": "yes"
+  },
+  "id": 3446498678
+}

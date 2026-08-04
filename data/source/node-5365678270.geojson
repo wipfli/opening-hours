@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2864709,
+      47.0930225
+    ]
+  },
+  "properties": {
+    "id": 5365678270,
+    "addr:city": "Flumserberg Tannenbodenalp",
+    "addr:housenumber": "184",
+    "addr:postcode": "8898",
+    "addr:street": "Flumserbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@tannenboden.ch",
+    "name": "Tannenboden",
+    "opening_hours": "Th-Tu 08:00-22:30+; We off",
+    "phone": "+41 81 733 11 22",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://tannenboden.ch",
+    "wheelchair": "no"
+  },
+  "id": 5365678270
+}

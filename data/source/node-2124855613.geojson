@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5190628,
+      47.385169
+    ]
+  },
   "properties": {
-    "@id": "node/2124855613",
+    "id": 2124855613,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "23",
     "addr:postcode": "8005",
@@ -14,12 +21,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.fraugerold.ch"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5190628,
-      47.385169
-    ]
-  },
-  "id": "node-2124855613"
+  "id": 2124855613
 }

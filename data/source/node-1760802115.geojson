@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5332076,
+      47.3773415
+    ]
+  },
   "properties": {
-    "@id": "node/1760802115",
+    "id": 1760802115,
     "addr:housenumber": "14",
     "addr:postcode": "8004",
     "addr:street": "Freisch\u00fctzgasse",
@@ -21,12 +28,5 @@
     "website": "https://www.kennedys.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5332076,
-      47.3773415
-    ]
-  },
-  "id": "node-1760802115"
+  "id": 1760802115
 }

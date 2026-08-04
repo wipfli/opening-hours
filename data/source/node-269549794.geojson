@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7158799,
+      47.3467206
+    ]
+  },
+  "properties": {
+    "id": 269549794,
+    "addr:housenumber": "7",
+    "addr:street": "Schulweg",
+    "amenity": "restaurant",
+    "name": "Kastanie",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00",
+    "website": "https://www.restaurant-kastanie.ch/"
+  },
+  "id": 269549794
+}

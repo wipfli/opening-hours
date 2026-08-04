@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9874917,
+      47.122825
+    ]
+  },
+  "properties": {
+    "id": 11685035104,
+    "amenity": "restaurant",
+    "name": "Restaurant Gulp",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su,PH 11:00-17:00",
+    "website": "https://waldruh.ch/hotellerie/restaurant-kulinarisches/"
+  },
+  "id": 11685035104
+}

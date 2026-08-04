@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8435348,
+      46.4628964
+    ]
+  },
+  "properties": {
+    "id": 7018893991,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "1800",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Sushi Kaiten",
+    "opening_hours": "We-Su 11:30-22:30; Mo,Tu 11:30-14:30,18:00-22:30",
+    "outdoor_seating": "no",
+    "phone": "+41 21 922 66 66",
+    "takeaway": "yes",
+    "website": "https://sushikaiten.ch/"
+  },
+  "id": 7018893991
+}

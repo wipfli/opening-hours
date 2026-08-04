@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6149467,
+      47.06362
+    ]
+  },
+  "properties": {
+    "id": 420839626,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "delivery": "no",
+    "email": "restaurant@asiengarden.ch",
+    "indoor_seating": "yes",
+    "name": "Asien Garden",
+    "opening_hours": "Mo-Fr 10:30-23:30; Sa-Su 17:30-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 422 35 18",
+    "takeaway": "yes",
+    "website": "http://www.asiengarden.ch/"
+  },
+  "id": 420839626
+}

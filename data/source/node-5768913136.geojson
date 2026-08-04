@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2209091,
+      46.3868971
+    ]
+  },
+  "properties": {
+    "id": 5768913136,
+    "amenity": "restaurant",
+    "name": "Les Fontaines",
+    "opening_hours": "08:30-23:00",
+    "phone": "+41 22 361 04 41",
+    "toilets": "yes",
+    "toilets:access": "public",
+    "website": "https://www.facebook.com/fontaines45/"
+  },
+  "id": 5768913136
+}

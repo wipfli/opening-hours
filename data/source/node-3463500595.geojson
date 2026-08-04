@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2404084,
+      47.1262514
+    ]
+  },
+  "properties": {
+    "id": 3463500595,
+    "amenity": "restaurant",
+    "check_date": "2026-06-05",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "microbrewery": "no",
+    "name": "Bella Pizza",
+    "opening_hours": "Mo,Fr-Sa 11:00-14:00,17:00-22:30; Su 17:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 32 525 64 66",
+    "website": "https://www.bella-pizerria.ch"
+  },
+  "id": 3463500595
+}

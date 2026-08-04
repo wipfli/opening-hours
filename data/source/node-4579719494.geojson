@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5409931,
+      47.3789138
+    ]
+  },
   "properties": {
-    "@id": "node/4579719494",
+    "id": 4579719494,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "2",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "website": "https://restaurantspitz.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5409931,
-      47.3789138
-    ]
-  },
-  "id": "node-4579719494"
+  "id": 4579719494
 }

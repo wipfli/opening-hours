@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4416351,
+      46.9516157
+    ]
+  },
+  "properties": {
+    "id": 2979140526,
+    "alt_name": "Cr\u00eaperie la Chouette",
+    "amenity": "restaurant",
+    "check_date": "2025-01-21",
+    "contact:addr": "Bollwerk 39, 3011 Bern",
+    "contact:email": "info@la-chouette-bern.ch",
+    "contact:facebook": "https://www.facebook.com/LaChouetteCrepe",
+    "contact:instagram": "http://instagram.com/lachouettebern",
+    "contact:phone": "+41 31 3110335",
+    "cuisine": "crepe",
+    "diet:vegan": "yes",
+    "name": "La Chouette",
+    "opening_hours": "Tu-We 11:30-22:00; Th 11:30-23:00; Fr 11:30-24:00; Sa 17:00-24:00",
+    "source": "survey and website",
+    "website": "https://la-chouette-bern.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2979140526
+}

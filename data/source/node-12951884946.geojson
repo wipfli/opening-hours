@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7062858,
+      47.4859605
+    ]
+  },
+  "properties": {
+    "id": 12951884946,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "30",
+    "addr:postcode": "8406",
+    "addr:street": "Klosterstrasse",
+    "amenity": "restaurant",
+    "name": "JJ\u2019s Restaurant",
+    "opening_hours": "Mo-Fr 07:00-15:00",
+    "website": "https://jjs.sv-restaurant.ch"
+  },
+  "id": 12951884946
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5458392,
+      47.3684514
+    ]
+  },
   "properties": {
-    "@id": "node/3926088056",
+    "id": 3926088056,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "8",
@@ -23,12 +30,5 @@
     "website": "https://www.burger-meister.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5458392,
-      47.3684514
-    ]
-  },
-  "id": "node-3926088056"
+  "id": 3926088056
 }

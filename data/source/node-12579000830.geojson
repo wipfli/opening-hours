@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1295264,
+      46.2283846
+    ]
+  },
+  "properties": {
+    "id": 12579000830,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "6",
+    "addr:postcode": "1202",
+    "addr:street": "Rue Michelle-Nicod",
+    "amenity": "restaurant",
+    "cuisine": "salad",
+    "delivery": "yes",
+    "diet:healthy": "yes",
+    "diet:meat": "yes",
+    "diet:raw": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Elsalad",
+    "opening_hours": "Mo-Fr 10:30-15:00",
+    "website": "https://www.elsalad.com/"
+  },
+  "id": 12579000830
+}

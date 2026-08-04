@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6492945,
+      46.5154051
+    ]
+  },
+  "properties": {
+    "id": 8175783836,
+    "amenity": "restaurant",
+    "check_date": "2026-05-18",
+    "check_date:opening_hours": "2026-05-18",
+    "contact:facebook": "people/Restaurant-Le-Rossignol/100064499241039",
+    "contact:instagram": "restaurantlerossignol",
+    "email": "restaurantlerossignol@hotmail.com",
+    "indoor_seating": "yes",
+    "name": "Le rossignol",
+    "opening_hours": "Tu-We 12:00-14:30,19:00-22:30; Th-Fr 12:00-14:30,19:00-23:00; Sa 19:00-23:00; Su-Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41217280956",
+    "website": "https://restaurantlerossignol.ch/"
+  },
+  "id": 8175783836
+}

@@ -1,9 +1,0 @@
-Looking at the website content for the Universitätstrasse location in Zürich:
-
-- It says "monday to friday"
-- There's a note "NO SERVICE ON SATURDAYS AND SUNDAYS"
-- But no specific opening/closing hours are listed
-
-Since no specific times are provided for the Universitätstrasse location, I cannot construct a reliable opening_hours string.
-
-UNSURE

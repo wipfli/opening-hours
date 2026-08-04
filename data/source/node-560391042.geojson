@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5002309,
+      47.0143286
+    ]
+  },
+  "properties": {
+    "id": 560391042,
+    "addr:city": "Bad Ragaz",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "7310",
+    "addr:street": "Nordstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@dongiovanni.ch",
+    "fax": "+41 81 330 70 06",
+    "name": "Pizza Kurier Don Giovanni",
+    "opening_hours": "Mo-Th 11:00-13:00,17:00-22:30; Fr 11:00-13:00,17:00-23:30; Sa 17:00-23:30; Su 17:00-22:00",
+    "phone": "+41 81 330 70 07",
+    "smoking": "separated",
+    "website": "http://www.dongiovanni.ch/"
+  },
+  "id": 560391042
+}

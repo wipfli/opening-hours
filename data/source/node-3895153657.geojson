@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3734974,
+      47.4245373
+    ]
+  },
+  "properties": {
+    "id": 3895153657,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "12",
+    "addr:postcode": "9000",
+    "addr:street": "Oberer Graben",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 im P\u00e4rkli",
+    "opening_hours": "Mo 07:30-14:00; Tu-Fr 07:30-22:00; Sa 07:30-12:00,18:00-22:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.paerkli.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3895153657
+}

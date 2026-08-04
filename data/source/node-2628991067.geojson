@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5196023,
+      47.3722182
+    ]
+  },
   "properties": {
-    "@id": "node/2628991067",
+    "id": 2628991067,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "18",
@@ -15,12 +22,5 @@
     "phone": "+41 43 558 44 22",
     "website": "https://www.wirtschaftimfranz.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5196023,
-      47.3722182
-    ]
-  },
-  "id": "node-2628991067"
+  "id": 2628991067
 }

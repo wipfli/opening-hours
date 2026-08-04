@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0481185,
+      47.4663233
+    ]
+  },
+  "properties": {
+    "id": 12262910986,
+    "addr:housenumber": "35",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "name": "El Pincho - zum wilden Mann",
+    "opening_hours": "Tu-Fr 17:00-22:00; Fr 11:30-14:00; Sa 10:30-22:00; Su 14:00-22:00",
+    "phone": "+4171 911 10 33",
+    "website": "https://www.elpincho.ch"
+  },
+  "id": 12262910986
+}

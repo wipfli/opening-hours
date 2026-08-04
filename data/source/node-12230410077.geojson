@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5866721,
+      47.5577878
+    ]
+  },
+  "properties": {
+    "id": 12230410077,
+    "addr:city": "Basel",
+    "addr:housenumber": "28",
+    "addr:postcode": "4051",
+    "addr:street": "Schneidergasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "cuisine": "italian",
+    "email": "lounge@etna-bar.ch",
+    "indoor_seating": "yes",
+    "name": "Etna Lounge",
+    "opening_hours": "Tu-We 09:00-19:00; Th-Fr 09:00-22:00; Sa 09:00-22:00; Su \"Brunch auf Reservation\"; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 262 20 00",
+    "smoking": "outside",
+    "website": "https://etna-lounge.ch"
+  },
+  "id": 12230410077
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5457188,
+      47.3675511
+    ]
+  },
   "properties": {
-    "@id": "node/268467807",
+    "id": 268467807,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "4",
@@ -18,12 +25,5 @@
     "wikidata": "Q1789864",
     "wikimedia_commons": "Category:Kronenhalle"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5457188,
-      47.3675511
-    ]
-  },
-  "id": "node-268467807"
+  "id": 268467807
 }

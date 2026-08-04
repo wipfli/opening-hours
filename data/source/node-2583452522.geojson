@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3064155,
+      47.0422682
+    ]
+  },
+  "properties": {
+    "id": 2583452522,
+    "addr:city": "Luzern",
+    "addr:housenumber": "29",
+    "addr:postcode": "6003",
+    "addr:street": "Bleicherstrasse",
+    "amenity": "restaurant",
+    "brand": "Vegitat",
+    "cuisine": "middle_eastern;kebab",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Vegitat",
+    "opening_hours": "Mo-Su 11:30-21:00; PH off",
+    "outdoor_seating": "no",
+    "phone": "+41 41 218 88 42",
+    "website": "https://vegitat.ch"
+  },
+  "id": 2583452522
+}

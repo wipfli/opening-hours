@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4221262,
+      46.9326961
+    ]
+  },
+  "properties": {
+    "id": 286879681,
+    "amenity": "restaurant",
+    "check_date": "2026-06-27",
+    "contact:facebook": "https://www.facebook.com/www.facebook.com/100089363316525/",
+    "cuisine": "greek",
+    "diet:vegetarian": "yes",
+    "name": "Greek Spot",
+    "opening_hours": "Tu-Th,Su 11:30-21:00; Fr-Sa 11:30-22:00",
+    "phone": "+41 31 556 80 88",
+    "takeaway": "yes",
+    "website": "https://www.greekspot.ch",
+    "website:menu": "https://www.greekspot.ch/menu",
+    "wheelchair": "limited"
+  },
+  "id": 286879681
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4596534,
+      46.9475089
+    ]
+  },
+  "properties": {
+    "id": 253201072,
+    "alt_name": "Tramdepot",
+    "amenity": "restaurant",
+    "contact:addr:full": "Grosser Muristalden 6, 3006 Bern",
+    "contact:email": "info@altestramdepot.ch",
+    "contact:facebook": "https://www.facebook.com/altestramdepot.ch",
+    "contact:fax": "+41 31 3681416",
+    "contact:phone": "+41 31 3681415",
+    "contact:website": "https://www.altestramdepot.ch",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "microbrewery": "yes",
+    "name": "Altes Tramdepot",
+    "opening_hours": "Mar-Oct Mo-Su 10:00-00:30; Nov-Feb Mo-Su 11:00-00:30",
+    "opening_hours:kitchen": "Mo-Su 11:00-23:30",
+    "operator": "Altes Tramdepot Brauerei Restaurant AG",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.altestramdepot.ch",
+    "wheelchair": "yes"
+  },
+  "id": 253201072
+}

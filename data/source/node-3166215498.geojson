@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3747037,
+      47.42654
+    ]
+  },
+  "properties": {
+    "id": 3166215498,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "12",
+    "addr:postcode": "9000",
+    "addr:street": "Engelgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Vigna",
+    "opening_hours": "Tu-Th 11:00-14:00, 17:00-24:00; Fr 11:00-14:00, 17:00-00:30; Sa 11:00-00:30",
+    "website": "https://lavigna.ch/"
+  },
+  "id": 3166215498
+}

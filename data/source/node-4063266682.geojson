@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1771505,
+      46.7455423
+    ]
+  },
+  "properties": {
+    "id": 4063266682,
+    "addr:city": "Surcuolm",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:place": "B\u00fcndner Rigi",
+    "addr:postcode": "7138",
+    "amenity": "restaurant",
+    "check_date": "2025-11-04",
+    "cuisine": "regional",
+    "delivery": "no",
+    "language:de": "yes",
+    "language:en": "yes",
+    "language:fr": "yes",
+    "name": "B\u00fcndner Rigi",
+    "opening_hours": "Mo-Su,PH 10:00-18:00 open, 18:00-24:00 \"Reservation f\u00fcr abends m\u00f6glich\"",
+    "opening_hours:kitchen": "Mo-Su,PH 11:00-17:00 open, 17:00-24:00 \"Reservation f\u00fcr abends m\u00f6glich\"",
+    "operator": "Brunke Gastro & Hotel",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "no",
+    "website": "http://www.buendnerrigi.ch/"
+  },
+  "id": 4063266682
+}

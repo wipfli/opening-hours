@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6242953,
+      46.5442587
+    ]
+  },
+  "properties": {
+    "id": 3721634748,
+    "addr:city": "Lausanne",
+    "addr:postcode": "1018",
+    "addr:street": "Route du Ch\u00e2telard",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-01",
+    "cuisine": "italian",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegetarian": "no",
+    "name": "Restaurent Herat",
+    "opening_hours": "Tu-Fr 10:00-14:30,18:00-22:00; Sa,Su 11:30-22:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 646 31 42",
+    "website": "https://restaurant-lasosta.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3721634748
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0706334,
+      46.0999037
+    ]
+  },
+  "properties": {
+    "id": 2698692262,
+    "addr:housenumber": "2",
+    "addr:postcode": "1920",
+    "addr:street": "Rue de l'H\u00f4pital",
+    "amenity": "restaurant",
+    "contact:facebook": "lestouristesrestaurant",
+    "contact:instagram": "les_touristes_restaurant",
+    "cuisine": "fine_dining;local",
+    "email": "info@touristes-martigny.ch",
+    "name": "Les Touristes",
+    "opening_hours": "Tu-Sa 11:45-15:30, 18:45-22:30",
+    "phone": "+41275520150",
+    "website": "https://touristes-martigny.ch/",
+    "website:menu": "https://touristes-martigny.ch/menus/"
+  },
+  "id": 2698692262
+}

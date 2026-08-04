@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2164292,
+      46.2077274
+    ]
+  },
+  "properties": {
+    "id": 9214937272,
+    "addr:city": "Grugnay (Chamoson)",
+    "addr:housenumber": "12",
+    "addr:postcode": "1955",
+    "addr:street": "Chemin de Rossaillennaz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "capacity": "30",
+    "cuisine": "pizza",
+    "delivery": "no",
+    "level": "2",
+    "name": "Restaurant la Pr\u00e9fecture",
+    "opening_hours": "Mo 11:00-14:30, 18:00-22:00; Tu 11:00-22:00; We off; Th 11:00-23:00; Fr 10:30-23:00; Sa 11:00-23:00; Su 11:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 565 26 66",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.laprefecture.com/",
+    "wheelchair": "no"
+  },
+  "id": 9214937272
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.308305,
+      47.4731754
+    ]
+  },
+  "properties": {
+    "id": 10868980826,
+    "addr:housenumber": "20",
+    "addr:street": "Rathausgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "cuisine": "japanese;sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@yukikun.ch",
+    "name": "Yuki Kun",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-22:00; Sa 11:30-15:00, 17:30-22:00",
+    "phone": "+41 56 618 56 58",
+    "reservation": "yes",
+    "website": "https://yukikun.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10868980826
+}

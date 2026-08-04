@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4289755,
+      46.9589325
+    ]
+  },
+  "properties": {
+    "id": 2956914056,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "133",
+    "addr:postcode": "3012",
+    "addr:street": "Bremgartenstrasse",
+    "amenity": "restaurant",
+    "contact:email": "neufeld@zfv.ch",
+    "contact:fax": "+41 31 635 30 57",
+    "contact:phone": "+41 31 635 30 55",
+    "internet_access": "wlan",
+    "level": "-1",
+    "name": "Mensa Gymnasium Neufeld",
+    "opening_hours": "Mo-Fr 08:30-16:30; Sa-Su off",
+    "operator": "ZFV",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://zfv.ch/de/microsites/mensa-gymnasium-neufeld/ueber-uns"
+  },
+  "id": 2956914056
+}

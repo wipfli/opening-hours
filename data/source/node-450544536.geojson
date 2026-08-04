@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.446406,
+      46.9587028
+    ]
+  },
+  "properties": {
+    "id": 450544536,
+    "alt_name": "Caf\u00e9 Kairo",
+    "amenity": "restaurant",
+    "contact:addr": "Dammweg 43, 3013 Bern",
+    "contact:email": "kairo@lorraine.ch",
+    "contact:phone": "+41 31 3302625",
+    "cuisine": "regional",
+    "name": "Kairo",
+    "opening_hours": "Mo-Fr 08:30-00:30; Sa 09:30-00:30; Su off",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cafe-kairo.ch",
+    "wheelchair": "no"
+  },
+  "id": 450544536
+}

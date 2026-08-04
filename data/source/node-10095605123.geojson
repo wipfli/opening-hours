@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6254589,
+      46.90382
+    ]
+  },
+  "properties": {
+    "id": 10095605123,
+    "addr:city": "Fl\u00fcelen",
+    "addr:housenumber": "12",
+    "addr:postcode": "6454",
+    "addr:street": "Axenstrasse",
+    "amenity": "restaurant",
+    "name": "The Roots",
+    "opening_hours": "We-Su 11:30-23:00",
+    "opening_hours:kitchen": "We-Su 11:30-13:45; We-Su 18:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 557 70 06",
+    "website": "https://theroots-flueelen.ch"
+  },
+  "id": 10095605123
+}

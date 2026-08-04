@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4392299,
+      46.6953508
+    ]
+  },
+  "properties": {
+    "id": 12954440408,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Pizzakurier La Mamma",
+    "opening_hours": "Mo-Fr 11:00-13:00,17:00-22:00; Sa,Su 11:00-14:00,16:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 284 45 00",
+    "website": "https://pizzakurier-lamammathusis.ch/"
+  },
+  "id": 12954440408
+}

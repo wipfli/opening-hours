@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8912318,
+      47.5597474
+    ]
+  },
+  "properties": {
+    "id": 7126251698,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "email": "info@mymangos.ch",
+    "level": "0",
+    "name": "Mango's",
+    "opening_hours": "Mo,We-Fr 11:00-14:00,17:00-22:00; Sa 17:00-22:00; Su 11:00-17:00; PH closed",
+    "takeaway": "yes",
+    "website": "https://www.mymangos.ch/",
+    "wheelchair": "no"
+  },
+  "id": 7126251698
+}

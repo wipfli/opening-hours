@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.438979,
+      47.3535624
+    ]
+  },
+  "properties": {
+    "id": 1982490356,
+    "addr:housenumber": "10",
+    "addr:postcode": "8903",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "name": "Br\u00fcelmatt",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa-Su off",
+    "phone": "+41 44 737 35 50",
+    "website": "https://brueelmatt.ch/"
+  },
+  "id": 1982490356
+}

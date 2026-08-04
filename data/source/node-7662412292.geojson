@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3733066,
+      46.4794628
+    ]
+  },
+  "properties": {
+    "id": 7662412292,
+    "addr:city": "F\u00e9chy",
+    "addr:housenumber": "1",
+    "addr:place": "Place du Saugey",
+    "addr:postcode": "1173",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "cuisine:specialty": "burger",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Auberge de F\u00e9chy",
+    "opening_hours": "Tu-Fr 09:00-15:00, 18:00-23:00; Sa 11:00-15:00, 18:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41218080335",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.aubergefechy.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7662412292
+}

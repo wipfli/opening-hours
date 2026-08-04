@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5495722,
+      47.3635603
+    ]
+  },
   "properties": {
-    "@id": "node/1728953807",
+    "id": 1728953807,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "27",
@@ -22,12 +29,5 @@
     "website": "https://www.sazio.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5495722,
-      47.3635603
-    ]
-  },
-  "id": "node-1728953807"
+  "id": 1728953807
 }

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7906627,
+      47.2134316
+    ]
+  },
+  "properties": {
+    "id": 6899653925,
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "indoor_seating": "yes",
+    "name": "St\u00e4\u00e4bli To",
+    "opening_hours": "Mo 17:30-22:00; Tu-Sa 11:30-14:00; Tu-Th 17:30-22:00; Fr, Sa 17:30-23:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 923 23 68",
+    "takeaway": "yes",
+    "website": "https://www.xn--restaurant-stbli-7nba.ch/"
+  },
+  "id": 6899653925
+}

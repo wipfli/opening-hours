@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3031243,
+      47.1267952
+    ]
+  },
+  "properties": {
+    "id": 752371760,
+    "addr:city": "Walenstadt",
+    "addr:housenumber": "101",
+    "addr:postcode": "8880",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "mexican;international",
+    "email": "info@promenade-walenstadt.ch",
+    "image": "https://static.wixstatic.com/media/cb62c3_3af6c45c251d43b7bc62be7bf9657b13~mv2.jpg/v1/fill/w_785,h_369,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cb62c3_3af6c45c251d43b7bc62be7bf9657b13~mv2.jpg",
+    "name": "Promenade Walenstadt",
+    "opening_hours": "Mo-Fr 08:45-23:00; Sa 11:00-23:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 735 30 30",
+    "reservation": "yes",
+    "website": "https://www.promenade-walenstadt.ch/",
+    "website:menu": "https://www.promenade-walenstadt.ch/_files/ugd/cb62c3_8e0c88f2df924ab7b98f0cccee3856a8.pdf"
+  },
+  "id": 752371760
+}

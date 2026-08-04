@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9754524,
+      46.0083184
+    ]
+  },
+  "properties": {
+    "id": 2873740901,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@piccolo-vigneto.ch",
+    "internet_access": "wlan",
+    "name": "Ristorante Piccolo Vigneto",
+    "opening_hours": "We-Su 10:00-14:30, 17:30-24:00; Tu 17:30-24:00",
+    "phone": "+41 91 972 39 85",
+    "takeaway": "yes",
+    "website": "https://piccolo-vigneto.ch/",
+    "website:menu": "https://piccolo-vigneto.ch/carta/"
+  },
+  "id": 2873740901
+}

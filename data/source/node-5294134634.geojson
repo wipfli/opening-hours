@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5838656,
+      47.5565553
+    ]
+  },
+  "properties": {
+    "id": 5294134634,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "4051",
+    "addr:street": "Leonhardsgraben",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Antalya",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.restaurantantalya.ch/",
+    "website:menu": "https://www.restaurantantalya.ch/menu"
+  },
+  "id": 5294134634
+}

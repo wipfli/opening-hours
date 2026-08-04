@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4757817,
+      46.9375968
+    ]
+  },
+  "properties": {
+    "id": 278791780,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "3015",
+    "addr:street": "Weltpoststrasse",
+    "alt_name": "Restaurant Eggh\u00f6lzli",
+    "amenity": "restaurant",
+    "contact:email": "info@egghoelzli.ch",
+    "contact:fax": "+41 31 3506600",
+    "contact:phone": "+41 31 3506640",
+    "name": "Eggh\u00f6lzli",
+    "opening_hours": "Mo-Sa 08:00-23:30; Su 09:00-22:00",
+    "source": "survey and website",
+    "website": "https://www.egghoelzli.ch/?id=6",
+    "wheelchair": "yes"
+  },
+  "id": 278791780
+}

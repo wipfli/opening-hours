@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7743934,
+      47.4578298
+    ]
+  },
+  "properties": {
+    "id": 11027326424,
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "diet:vegetarian": "no",
+    "indoor_seating": "yes",
+    "name": "Steakhouse Hot Stone",
+    "opening_hours": "17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 523 22 22",
+    "website": "http://www.steakhouse-hotstone.ch/kollbrunn/"
+  },
+  "id": 11027326424
+}

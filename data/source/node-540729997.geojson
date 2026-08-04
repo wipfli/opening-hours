@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4568571,
+      46.9587854
+    ]
+  },
+  "properties": {
+    "id": 540729997,
+    "alt_name": "Restaurant Lokal",
+    "amenity": "restaurant",
+    "contact:addr": "Milit\u00e4rstrasse 42, 3014 Bern",
+    "contact:email": "restaurant@lokal-bern.ch",
+    "contact:facebook": "https://www.facebook.com/lokalbern",
+    "contact:phone": "+41 31 3327000",
+    "name": "Lokal",
+    "opening_hours": "Mo-Tu 9:30-23:30; Fr 9:30-00:00; Sa 15:00-00:00; Su off; PH off",
+    "source": "survey and website",
+    "website": "https://www.lokal-bern.ch/"
+  },
+  "id": 540729997
+}

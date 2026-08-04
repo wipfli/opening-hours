@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1345911,
+      46.1895303
+    ]
+  },
+  "properties": {
+    "id": 11755331872,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1227",
+    "addr:street": "Avenue Industrielle",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "La Ruota",
+    "opening_hours": "Mo-Fr 11:40-14:00; Mo-Sa 18:30-22:30",
+    "phone": "+41 22 342 31 55",
+    "website": "https://www.restaurantlaruota.com/"
+  },
+  "id": 11755331872
+}

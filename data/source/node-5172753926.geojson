@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1724756,
+      47.3904074
+    ]
+  },
+  "properties": {
+    "id": 5172753926,
+    "addr:housenumber": "38",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-11-11",
+    "check_date:opening_hours": "2024-11-11",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Aicha\u2018s",
+    "opening_hours": "Mo-Fr 10:30-22:00; Sa 11:00-22:00",
+    "outdoor_seating": "terrace",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 62 530 07 71",
+    "website": "https://aichas.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5172753926
+}

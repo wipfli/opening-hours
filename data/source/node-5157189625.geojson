@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5851995,
+      47.5603036
+    ]
+  },
+  "properties": {
+    "id": 5157189625,
+    "addr:city": "Basel",
+    "addr:housenumber": "15",
+    "addr:postcode": "4051",
+    "addr:street": "Petersgraben",
+    "amenity": "restaurant",
+    "check_date": "2025-09-28",
+    "check_date:opening_hours": "2025-09-28",
+    "contact:facebook": "zazaa.petersgraben",
+    "contact:instagram": "zazaa.ch",
+    "cuisine": "lebanese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "catering@zazaa.ch",
+    "indoor_seating": "yes",
+    "name": "Za Zaa",
+    "opening_hours": "Mo-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 61 501 80 44",
+    "smoking": "outside",
+    "website": "https://zazaa.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5157189625
+}

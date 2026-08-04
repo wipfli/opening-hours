@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2313529,
+      46.6061349
+    ]
+  },
+  "properties": {
+    "id": 2627064812,
+    "addr:city": "Le Sentier",
+    "addr:housenumber": "14",
+    "addr:postcode": "1347",
+    "addr:street": "Rue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Buffet de la gare",
+    "opening_hours": "Mo-Su 07:30-22:00",
+    "phone": "+41 21 565 66 88",
+    "takeaway": "yes",
+    "website": "https://www.buffetgaresentier.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2627064812
+}

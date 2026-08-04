@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3053654,
+      47.4776484
+    ]
+  },
+  "properties": {
+    "id": 3594280318,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "5400",
+    "addr:street": "Haselstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-06-05",
+    "delivery": "yes",
+    "email": "office@bburger.ch",
+    "name": "B Burger",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:30-22:00; Sa 12:00-22:00; Su 12:00-21:00",
+    "phone": "+41 56 525 33 22",
+    "takeaway": "yes",
+    "website": "https://bburger.ch"
+  },
+  "id": 3594280318
+}

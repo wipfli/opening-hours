@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6400467,
+      46.5205523
+    ]
+  },
+  "properties": {
+    "id": 11850727456,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "9",
+    "addr:postcode": "1005",
+    "addr:street": "Rue Charles-Augustin-Sainte-Beuve",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "name": "Cut Pizza",
+    "opening_hours": "Mo-Sa 11:30-15:00,17:30-21:00",
+    "phone": "+41 21 311 03 91",
+    "website": "https://cutpizza.ch/"
+  },
+  "id": 11850727456
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.499536,
+      46.50939
+    ]
+  },
+  "properties": {
+    "id": 1207861988,
+    "addr:city": "Morges",
+    "addr:housenumber": "32",
+    "addr:postcode": "1110",
+    "addr:street": "Rue Louis de Savoie",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "Le gallion",
+    "opening_hours": "Mo-Th,Su 09:00-15:00,17:30-23:00; Fr-Sa 09:00-15:00,17:30-00:00",
+    "phone": "+41 21 800 32 76",
+    "website": "https://legallion-morges.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1207861988
+}

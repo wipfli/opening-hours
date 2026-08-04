@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5368559,
+      47.3435586
+    ]
+  },
+  "properties": {
+    "id": 103122838,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "407",
+    "addr:postcode": "8038",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "dedicated_room",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "ziegel@rotefabrik.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Ziegel oh Lac",
+    "opening_hours": "Tu-Su 11:00-23:00",
+    "opening_hours:brunch": "Sa-Su 11:00-14:00",
+    "opening_hours:kitchen": "Tu-Fr 12:00-14:00, Tu-Sa 18:30-21:00, Su 18:00-20:30",
+    "operator": "Genossenschaft Ziegel oh Lac",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 481 62 42",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.ziegelohlac.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 103122838
+}

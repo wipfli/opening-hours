@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.895149,
+      47.5540815
+    ]
+  },
+  "properties": {
+    "id": 1532756863,
+    "amenity": "restaurant",
+    "name": "Gasthof zum goldenen Kreuz",
+    "opening_hours": "We-Sa 11:30-14:00,18:00-22:00; Su 11:30-14:00,17:30-21:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "tourism": "hotel",
+    "website": "https://www.goldeneskreuz.ch/"
+  },
+  "id": 1532756863
+}

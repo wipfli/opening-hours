@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2884128,
+      46.825835
+    ]
+  },
+  "properties": {
+    "id": 8860032107,
+    "addr:city": "Flims Waldhaus",
+    "addr:housenumber": "14",
+    "addr:postcode": "7018",
+    "addr:street": "Rudi Dadens",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "email": "info@lamexicana.ch",
+    "name": "La Mexicana",
+    "opening_hours": "We-Su 17:00-23:00",
+    "phone": "+41 81 630 40 88",
+    "website": "https://lamexicana.ch/"
+  },
+  "id": 8860032107
+}

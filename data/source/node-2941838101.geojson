@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.630486,
+      46.516769
+    ]
+  },
+  "properties": {
+    "id": 2941838101,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-02-15",
+    "cuisine": "regional",
+    "description": "Restaurant CFF Voyageurs",
+    "name": "Chez CFF",
+    "opening_hours": "Mo-Fr 06:30-20:00; Sa 06:45-14:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.zfv.ch/fr/se-restaurer/restaurant-cff-lausanne-voyageurs",
+    "wheelchair": "yes"
+  },
+  "id": 2941838101
+}

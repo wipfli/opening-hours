@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4464459,
+      46.9486027
+    ]
+  },
+  "properties": {
+    "id": 2574170317,
+    "amenity": "restaurant",
+    "check_date": "2026-01-01",
+    "contact:addr": "Zeughausgasse 9, 3011 Bern",
+    "contact:email": "info@volkshausbern.ch",
+    "contact:fax": "+41 31 3292299",
+    "contact:phone": "+41 31 3292233",
+    "name": "Volkshaus 1914",
+    "opening_hours": "Mo-Sa 06:30-23:30; Su 09:00-22:30",
+    "source": "survey and website",
+    "website": "https://www.volkshausbern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2574170317
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0098944,
+      47.6044909
+    ]
+  },
+  "properties": {
+    "id": 498740089,
+    "addr:city": "M\u00fcllheim Dorf",
+    "addr:housenumber": "52",
+    "addr:postcode": "8555",
+    "addr:street": "Kreuzlingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pasta;pizza",
+    "delivery": "Tu-Su 17:30-22:30",
+    "internet_access": "wlan",
+    "name": "Il Castello",
+    "opening_hours": "Tu-Su 11:00-14:00,17:00-23:00",
+    "opening_hours:kitchen": "Tu-Su 11:00-13:30,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41527631153",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.pizzeria-castello.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 498740089
+}

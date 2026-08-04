@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6916103,
+      47.2526815
+    ]
+  },
+  "properties": {
+    "id": 471352741,
+    "addr:city": "M\u00e4nnedorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "8708",
+    "addr:street": "Oberdorfgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "dasilvia@bluewin.ch",
+    "name": "Ristorante da Mamma Lisetta",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00; Su,PH off",
+    "phone": "+41 44 542 37 74",
+    "website": "https://www.damammalisetta.ch"
+  },
+  "id": 471352741
+}

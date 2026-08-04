@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1892212,
+      47.4140421
+    ]
+  },
+  "properties": {
+    "id": 3807281282,
+    "addr:city": "Flawil",
+    "addr:housenumber": "34",
+    "addr:postcode": "9230",
+    "addr:street": "Unterdorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai;asian",
+    "delivery": "yes",
+    "name": "Raan Thai Isaan Rosengarten",
+    "opening_hours": "Mo 17:00-22:00; Tu-Fr 10:30-22:00; Sa 17:00-22:00; Su 17:00-21:00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.raan-thai-isan.ch/"
+  },
+  "id": 3807281282
+}

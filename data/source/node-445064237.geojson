@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3735727,
+      47.4310484
+    ]
+  },
+  "properties": {
+    "id": 445064237,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Bodanstrasse",
+    "amenity": "restaurant",
+    "name": "Wienerberg",
+    "opening_hours": "Tu-Fr 11:30-14:30,17:30-22:30; Sa 17:30-23:00",
+    "website": "https://www.wienerberg.info/",
+    "wheelchair": "no"
+  },
+  "id": 445064237
+}

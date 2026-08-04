@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6253316,
+      46.5239404
+    ]
+  },
+  "properties": {
+    "id": 1252267327,
+    "addr:housenumber": "16",
+    "addr:postcode": "1003",
+    "addr:street": "Place Chauderon",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "name": "Au Canard P\u00e9kinois",
+    "opening_hours": "Mo-Sa 12:00-14:30,19:00-22:30",
+    "website": "http://au-canard-pekinois.ch/"
+  },
+  "id": 1252267327
+}

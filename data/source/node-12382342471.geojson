@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7184255,
+      47.3005919
+    ]
+  },
+  "properties": {
+    "id": 12382342471,
+    "addr:city": "M\u00f6nchaltorf",
+    "addr:housenumber": "3",
+    "addr:postcode": "8617",
+    "addr:street": "Isenrietstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizzeria Due Fratelli",
+    "opening_hours": "Mo-Sa 08:30-22:00",
+    "phone": "+41 44 941 25 00",
+    "website": "https://duefratelli.ch/"
+  },
+  "id": 12382342471
+}

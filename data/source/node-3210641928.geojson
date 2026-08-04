@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4516097,
+      46.9481554
+    ]
+  },
+  "properties": {
+    "id": 3210641928,
+    "amenity": "restaurant",
+    "contact:addr": "Kramgasse 12, 3011 Bern",
+    "contact:email": "info@kramer-bern.ch",
+    "contact:phone": "+41 31 3111140",
+    "name": "Kramer",
+    "old_name": "Kramgass-Comestibles;Karl&Co",
+    "opening_hours": "Mo-We 11:00-22:00; Th-Sa 11:00-23:30; Su off",
+    "operator": "aarestadt gastro GmbH",
+    "source": "survey and website",
+    "website": "https://www.kramer-bern.ch/"
+  },
+  "id": 3210641928
+}

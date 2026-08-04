@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3717223,
+      47.4247253
+    ]
+  },
+  "properties": {
+    "id": 616127619,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "19",
+    "addr:postcode": "9000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "Sch\u00fctzengarten",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "microbrewery": "yes",
+    "name": "Brauwerk",
+    "opening_hours": "Mo-Sa 11:30-23:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30,17:00-21:00; Sa 12:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 71 222 85 90",
+    "smoking": "outside",
+    "website": "https://www.restaurantbrauwerk.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 616127619
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3091355,
+      47.0469071
+    ]
+  },
+  "properties": {
+    "id": 3545194707,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Memories of Asia",
+    "opening_hours": "Mo-Th 11:30-14:00,18:00-23:00; Fr 11:30-14:00,18:00-24:00; Sa 18:00-24:00; Su off; PH off",
+    "website": "http://www.memoriesofasia.ch/"
+  },
+  "id": 3545194707
+}

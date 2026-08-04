@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5605055,
+      47.4159991
+    ]
+  },
+  "properties": {
+    "id": 7279102685,
+    "amenity": "restaurant",
+    "cuisine": "burger;coffee_shop;local",
+    "diet:vegetarian": "yes",
+    "email": "fernsehstrasse@zfv.ch",
+    "indoor_seating": "yes",
+    "name": "SRF Live Restaurant & Bar",
+    "opening_hours": "Mo-Su 08:30-20:45",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 315 58 85",
+    "website": "https://zfv.ch/de/microsites/srf-live-restaurant-bar"
+  },
+  "id": 7279102685
+}

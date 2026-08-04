@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8834753,
+      46.8674977
+    ]
+  },
+  "properties": {
+    "id": 2137118544,
+    "addr:city": "Klosters",
+    "addr:housenumber": "22",
+    "addr:postcode": "7250",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "pizzeria@alcapone-klosters.ch",
+    "name": "Al Capone",
+    "opening_hours": "Mo-Su 10:00-14:30,16:00-24:00",
+    "phone": "+41 81 416 82 82",
+    "website": "https://www.alcapone-klosters.ch/"
+  },
+  "id": 2137118544
+}

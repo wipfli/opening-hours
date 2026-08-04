@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3652788,
+      47.0093476
+    ]
+  },
+  "properties": {
+    "id": 2300199376,
+    "addr:city": "Meikirch",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "3045",
+    "addr:street": "Bernstrasse",
+    "alt_name": "Gasthof B\u00e4ren Meikirch",
+    "amenity": "restaurant",
+    "contact:email": "baerenmeikirch@hotmail.ch",
+    "contact:phone": "+41 31 8220774",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Tu 16:00-00:30; We off; Th-Fr 16:00-00:30; Sa-Su 11:00-00:30",
+    "operator": "Jungschnouz Gastro gmbh",
+    "outdoor_seating": "yes",
+    "source": "Bing",
+    "takeaway": "no",
+    "website": "https://www.baeren-meikirch.ch/"
+  },
+  "id": 2300199376
+}

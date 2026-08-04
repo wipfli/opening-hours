@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7142262,
+      46.7351878
+    ]
+  },
+  "properties": {
+    "id": 2582824137,
+    "addr:city": "Schwanden (Sigriswil)",
+    "addr:housenumber": "65",
+    "addr:postcode": "3657",
+    "addr:street": "Schwandenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@rothorn-schwanden.ch",
+    "internet_access": "wlan",
+    "name": "Landgasthof Rothorn",
+    "opening_hours": "Tu,We,Fr 08:30-23:30,Th 08:30-21:00,Sa 08:30-00:30,Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41332511186",
+    "tourism": "hotel",
+    "website": "https://www.rothorn-schwanden.ch/"
+  },
+  "id": 2582824137
+}

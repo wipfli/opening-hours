@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1085989,
+      46.7248256
+    ]
+  },
+  "properties": {
+    "id": 6291712586,
+    "amenity": "restaurant",
+    "check_date": "2025-02-06",
+    "cuisine": "regional",
+    "name": "Wali",
+    "opening_hours": "09:30-16:30",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "website": "https://www.wali-bergrestaurant.com/",
+    "wheelchair": "limited"
+  },
+  "id": 6291712586
+}

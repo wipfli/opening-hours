@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4859908,
+      47.3931061
+    ]
+  },
+  "properties": {
+    "id": 12072072341,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Piazza 106",
+    "opening_hours": "Mo-Fr 08:30-16:30",
+    "outdoor_seating": "yes",
+    "website": "https://piazza106.ch/"
+  },
+  "id": 12072072341
+}

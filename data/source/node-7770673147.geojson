@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5023089,
+      47.0002182
+    ]
+  },
+  "properties": {
+    "id": 7770673147,
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "name": "Olives d'Or",
+    "opening_hours": "Mo-Su 18:00-22:00",
+    "phone": "+41 81 303 30 35",
+    "website": "https://www.resortragaz.ch/de/restaurants-und-bars/olives-dor"
+  },
+  "id": 7770673147
+}

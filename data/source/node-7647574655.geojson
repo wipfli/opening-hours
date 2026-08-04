@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4390169,
+      47.482692
+    ]
+  },
+  "properties": {
+    "id": 7647574655,
+    "addr:city": "Regensberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "8158",
+    "addr:street": "Oberburg",
+    "amenity": "restaurant",
+    "name": "Krone",
+    "opening_hours": "We-Sa 18:00-21:00",
+    "phone": "+41 44 855 20 20",
+    "website": "https://www.kroneregensberg.com/de/restaurant/"
+  },
+  "id": 7647574655
+}

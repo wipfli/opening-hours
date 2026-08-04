@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1582319,
+      46.2056387
+    ]
+  },
+  "properties": {
+    "id": 11078269105,
+    "addr:housenumber": "28",
+    "addr:postcode": "1207",
+    "addr:street": "Quai Gustave-Ador",
+    "amenity": "restaurant",
+    "cuisine": "breakfast;cake;coffee_shop;tea",
+    "name": "Hunch",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa-Su 09:00-18:00",
+    "website": "https://hunch-geneve.business.site/website/hunch-geneve/?hl=en"
+  },
+  "id": 11078269105
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3887057,
+      46.9423864
+    ]
+  },
+  "properties": {
+    "id": 13206771290,
+    "amenity": "restaurant",
+    "check_date": "2025-10-10",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "name": "Mikuri",
+    "opening_hours": "We-Fr 11:00-13:30,17:00-20:30; Sa-Su 17:00-20:30",
+    "phone": "+41 79 540 41 50",
+    "takeaway": "yes",
+    "website": "https://mikuri.ch/"
+  },
+  "id": 13206771290
+}

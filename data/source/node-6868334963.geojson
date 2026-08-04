@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4600934,
+      46.9983987
+    ]
+  },
+  "properties": {
+    "id": 6868334963,
+    "amenity": "restaurant",
+    "cuisine": "pasta",
+    "email": "info@casa-lana.ch",
+    "name": "Casa Lana",
+    "opening_hours": "Mo-Sa 09:00-21:30; Su,PH closed",
+    "opening_hours:kitchen": "Mo-Sa 11:30-14:00,18:00-21:30; Su,PH closed",
+    "phone": "+41 31 911 11 31",
+    "takeaway": "yes",
+    "website": "https://www.casa-lana.ch/"
+  },
+  "id": 6868334963
+}

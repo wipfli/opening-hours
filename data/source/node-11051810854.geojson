@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3574751,
+      46.9207254
+    ]
+  },
+  "properties": {
+    "id": 11051810854,
+    "amenity": "restaurant",
+    "name": "Sankt Martin",
+    "opening_hours": "May-Oct: Su-Fr 07:00-22:00; May-Oct: Sa 07:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.sanktmartin.online/"
+  },
+  "id": 11051810854
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5378026,
+      47.3759329
+    ]
+  },
   "properties": {
-    "@id": "node/10721724387",
+    "id": 10721724387,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "11",
@@ -17,12 +24,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.roofgarden.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5378026,
-      47.3759329
-    ]
-  },
-  "id": "node-10721724387"
+  "id": 10721724387
 }

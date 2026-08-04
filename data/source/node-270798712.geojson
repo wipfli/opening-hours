@@ -1,18 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/270798712",
-    "addr:housenumber": "35",
-    "addr:postcode": "8032",
-    "addr:street": "Wolfbachstrasse",
-    "amenity": "restaurant",
-    "indoor_seating": "yes",
-    "name": "Wolfbach",
-    "opening_hours": "Mo-Fr 11:00-15:00, 18:00-23:00; Sa 18:00-23:00",
-    "outdoor_seating": "yes",
-    "phone": "+41434330088",
-    "website": "https://www.wolfbach-zh.ch"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -20,5 +7,25 @@
       47.3703441
     ]
   },
-  "id": "node-270798712"
+  "properties": {
+    "id": 270798712,
+    "addr:housenumber": "35",
+    "addr:postcode": "8032",
+    "addr:street": "Wolfbachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-27",
+    "email": "info@wolfbach-zh.ch",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "name": "Wolfbach",
+    "opening_hours": "Mo-Fr 11:00-15:00, 18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41434330088",
+    "website": "https://www.wolfbach-zh.ch",
+    "wheelchair": "limited"
+  },
+  "id": 270798712
 }

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3112645,
+      47.0568871
+    ]
+  },
+  "properties": {
+    "id": 1485039278,
+    "addr:city": "Luzern",
+    "addr:housenumber": "11",
+    "addr:postcode": "6004",
+    "addr:street": "L\u00f6wenplatz",
+    "amenity": "restaurant",
+    "email": "mail@kinoluzern.ch",
+    "indoor_seating": "yes",
+    "name": "Bourbaki Panorama",
+    "name:de": "Bourbaki Panorama",
+    "name:ru": "\u0411\u0443\u0440\u0431\u0430\u043a\u0438- \u041f\u0430\u043d\u043e\u0440\u0430\u043c\u0430",
+    "opening_hours": "Mo-Th 09:00-23:00; Fr 09:00-24:00; Sa 00:00-00:30,09:00-24:00; Su 00:00-00:30,09:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 41 419 99 98",
+    "website": "https://www.kinobourbaki.ch/de-ch/bourbaki-kinobar.html",
+    "wheelchair": "yes"
+  },
+  "id": 1485039278
+}

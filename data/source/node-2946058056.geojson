@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4449099,
+      46.9485977
+    ]
+  },
+  "properties": {
+    "id": 2946058056,
+    "addr:floor": "1",
+    "alt_name": "Migros Restaurant Marktgasse",
+    "amenity": "restaurant",
+    "branch": "Bern Marktgasse",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "contact:addr": "Marktgasse 46, 3011 Bern",
+    "cuisine": "international",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-bern-marktgasse"
+  },
+  "id": 2946058056
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5158046,
+      47.2076858
+    ]
+  },
+  "properties": {
+    "id": 4213169584,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "2",
+    "addr:postcode": "4500",
+    "addr:street": "Brunngrabenstrasse",
+    "amenity": "restaurant",
+    "capacity": "122",
+    "delivery": "no",
+    "name": "Trattoria City West",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-22:00",
+    "phone": "+41 32 621 87 77",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "http://www.trattoriacitywest.ch/"
+  },
+  "id": 4213169584
+}

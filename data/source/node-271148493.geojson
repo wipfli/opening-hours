@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5477023,
+      47.3670788
+    ]
+  },
   "properties": {
-    "@id": "node/271148493",
+    "id": 271148493,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "18",
@@ -23,12 +30,5 @@
     "website": "https://www.outback-lodge.ch/stadelhofen",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5477023,
-      47.3670788
-    ]
-  },
-  "id": "node-271148493"
+  "id": 271148493
 }

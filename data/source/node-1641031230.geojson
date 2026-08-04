@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1423457,
+      46.1858902
+    ]
+  },
+  "properties": {
+    "id": 1641031230,
+    "addr:housenumber": "13",
+    "addr:postcode": "1227",
+    "addr:street": "rue de la Filature",
+    "amenity": "restaurant",
+    "check_date": "2025-01-05",
+    "name": "Gueuleton",
+    "opening_hours": "Tu-Sa 12:00-13:30,19:00-21:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 314 61 26",
+    "website": "https://www.gueuleton.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1641031230
+}

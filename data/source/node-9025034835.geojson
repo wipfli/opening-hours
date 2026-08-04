@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.442668,
+      46.2310877
+    ]
+  },
+  "properties": {
+    "id": 9025034835,
+    "amenity": "restaurant",
+    "name": "Ts\u00e9betta",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "website": "https://www.tsebetta.ch/"
+  },
+  "id": 9025034835
+}

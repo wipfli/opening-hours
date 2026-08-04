@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.693592,
+      47.3441046
+    ]
+  },
+  "properties": {
+    "id": 320149547,
+    "amenity": "restaurant",
+    "check_date": "2025-05-21",
+    "check_date:opening_hours": "2025-05-21",
+    "level": "0",
+    "name": "Moni + Hanspi's B\u00e4sebeiz",
+    "opening_hours": "\"April - August: Samstag, Sonntag ab 12:00 bis Sonnenuntergang bei sch\u00f6nem Wetter ge\u00f6ffnet\"",
+    "website": "https://www.baesebeiz-uster.ch/"
+  },
+  "id": 320149547
+}

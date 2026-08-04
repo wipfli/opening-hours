@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222246,
+      47.3739825
+    ]
+  },
   "properties": {
-    "@id": "node/312137617",
+    "id": 312137617,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "35",
     "addr:postcode": "8004",
@@ -17,12 +24,5 @@
     "website": "https://www.cantinazurich.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5222246,
-      47.3739825
-    ]
-  },
-  "id": "node-312137617"
+  "id": 312137617
 }

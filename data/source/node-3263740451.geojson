@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2384264,
+      46.870634
+    ]
+  },
+  "properties": {
+    "id": 3263740451,
+    "addr:city": "Sachseln",
+    "addr:housenumber": "15",
+    "addr:postcode": "6072",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Gasthaus Bahnhof",
+    "opening_hours": "We-Sa 08:00-21:30; Su 08:00-20:00",
+    "phone": "+4141 660 14 08",
+    "website": "https://gasthausbahnhof.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3263740451
+}

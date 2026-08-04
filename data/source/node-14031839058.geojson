@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9381503,
+      46.9907478
+    ]
+  },
+  "properties": {
+    "id": 14031839058,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "4",
+    "addr:postcode": "2000",
+    "addr:street": "Promenade de Marthe Robert",
+    "amenity": "restaurant",
+    "instagram": "restaurantlesjeunesrives.ne",
+    "name": "Les Jeunes Rives",
+    "opening_hours": "Mo-Su 08:30-22:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-22:00",
+    "phone": "+41325542829",
+    "takeaway": "yes",
+    "website": "https://www.restaurantlesjeunesrives.ch"
+  },
+  "id": 14031839058
+}

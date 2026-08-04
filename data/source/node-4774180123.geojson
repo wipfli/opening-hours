@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3770225,
+      47.4771982
+    ]
+  },
+  "properties": {
+    "id": 4774180123,
+    "addr:city": "Wittenbach",
+    "addr:housenumber": "1094",
+    "addr:place": "Dottenwil",
+    "addr:postcode": "9300",
+    "amenity": "restaurant",
+    "name": "Schloss Dottenwil",
+    "name:de": "Schloss Dottenwil",
+    "note": "Tel. Sa ab 14.00 / So ab 10.00 Uhr. OH: kann Sa ab 20.00 geschlossen sein.",
+    "opening_hours": "Sa 14:00-23:00 \"kann ab 20.00 geschlossen sein\", Su 10:00-18:00",
+    "phone": "+41 71 298 32 01",
+    "website": "https://www.dottenwil.ch/"
+  },
+  "id": 4774180123
+}

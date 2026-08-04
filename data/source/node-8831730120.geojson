@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6308607,
+      46.7717581
+    ]
+  },
+  "properties": {
+    "id": 8831730120,
+    "addr:housenumber": "1",
+    "addr:postcode": "3612",
+    "addr:street": "Astrastrasse",
+    "amenity": "restaurant",
+    "name": "Chili Corner",
+    "opening_hours": "Mo-We 08:30-22:30; Th 08:30-17:30; Fr,Sa 08:30-22:30",
+    "website": "http://chili-corner.com/"
+  },
+  "id": 8831730120
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6842279,
+      47.5197332
+    ]
+  },
+  "properties": {
+    "id": 2955638928,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "79",
+    "addr:postcode": "8408",
+    "addr:street": "Taggenbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Taggenberg",
+    "opening_hours": "Tu-Fr 11:30-14:30,18:00-24:00; Sa 18:00-24:00; Su,Mo,PH off",
+    "opening_hours:covid19": "off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 222 05 22",
+    "website": "https://dastaggenberg.ch/"
+  },
+  "id": 2955638928
+}

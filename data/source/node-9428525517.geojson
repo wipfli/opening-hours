@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3981969,
+      46.2967716
+    ]
+  },
+  "properties": {
+    "id": 9428525517,
+    "addr:housenumber": "5",
+    "addr:postcode": "1972",
+    "addr:street": "Place du Village",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2023-01-30",
+    "contact:facebook": "jojosThai",
+    "cuisine": "thai",
+    "email": "jojos.anzere@gmail.com",
+    "name": "Jojo's Tha\u00ef",
+    "opening_hours": "Mo,Tu,Th 17:00-22:00; We off; Fr,Sa 12:00-14:00,17:00-23:00; Su 12:00-14:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 27 565 53 65",
+    "reservation": "yes",
+    "source": "survey",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.jojosthai.ch"
+  },
+  "id": 9428525517
+}

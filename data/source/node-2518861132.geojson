@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9607181,
+      46.5174765
+    ]
+  },
+  "properties": {
+    "id": 2518861132,
+    "addr:city": "Les Paccots",
+    "addr:housenumber": "20",
+    "addr:postcode": "1619",
+    "addr:street": "Route des Rosalys",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Les Rosalys",
+    "opening_hours": "Fr-Tu 09:00-23:00",
+    "phone": "+41 21 948 80 80",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lesrosalys.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2518861132
+}

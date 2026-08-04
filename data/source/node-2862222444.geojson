@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9894559,
+      46.3161876
+    ]
+  },
+  "properties": {
+    "id": 2862222444,
+    "addr:city": "Brig",
+    "addr:housenumber": "19",
+    "addr:postcode": "3900",
+    "addr:street": "Alte Simplonstrasse",
+    "amenity": "restaurant",
+    "email": "info@angleterre-brig.ch",
+    "indoor_seating": "yes",
+    "name": "Angleterre",
+    "opening_hours": "We,Th 10:00-24:00, Fr,Sa 10:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 924 55 66",
+    "website": "https://angleterrebrig.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2862222444
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4536087,
+      46.9480506
+    ]
+  },
+  "properties": {
+    "id": 3085310364,
+    "alt_name": "Restaurant Arlequin",
+    "amenity": "restaurant",
+    "contact:addr": "Gerechtigkeitsgasse 51, 3011 Bern",
+    "contact:phone": "+41 31 3113946",
+    "name": "Arlequin",
+    "opening_hours": "Mo off; Tu-Th 10:30-23:30; Fr-Sa 10:30-00:30; Su off",
+    "source": "survey and website",
+    "website": "http://www.arlequin-bern.ch"
+  },
+  "id": 3085310364
+}

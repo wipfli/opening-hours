@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5979146,
+      47.5479251
+    ]
+  },
+  "properties": {
+    "id": 13791837929,
+    "addr:city": "Basel",
+    "addr:housenumber": "2",
+    "addr:postcode": "4052",
+    "addr:street": "M\u00fcnchensteinerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Asian Food Basel",
+    "opening_hours": "Tu-Th 11:00-13:45,17:00-21:30; Fr 11:00-13:45,17:00-22:30; Sa 17:00-22:30; Su 17:00-21:30",
+    "phone": "+41 61 333 31 31",
+    "website": "https://www.asianfood.ch/"
+  },
+  "id": 13791837929
+}

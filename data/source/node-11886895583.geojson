@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6339633,
+      47.6969392
+    ]
+  },
+  "properties": {
+    "id": 11886895583,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "18",
+    "addr:postcode": "8200",
+    "addr:street": "Stadthausgasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "essKultur",
+    "opening_hours": "Mo-Sa 11:30-15:00",
+    "phone": "+41 52 625 18 88",
+    "takeaway": "yes",
+    "website": "https://www.esskultur-welten.ch"
+  },
+  "id": 11886895583
+}

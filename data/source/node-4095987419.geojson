@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7222403,
+      47.5009501
+    ]
+  },
+  "properties": {
+    "id": 4095987419,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "12",
+    "addr:postcode": "8400",
+    "addr:street": "Wartstrasse",
+    "alt_name": "Thai Bistro",
+    "amenity": "restaurant",
+    "check_date": "2023-06-27",
+    "cuisine": "thai",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Malai Thai",
+    "opening_hours": "11:30-22:00",
+    "opening_hours:kitchen": "11:30-21:30",
+    "operator": "Malai Thai",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.malaithai.ch/thai-bistros/",
+    "wheelchair": "limited"
+  },
+  "id": 4095987419
+}

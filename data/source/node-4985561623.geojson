@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1578198,
+      47.0953254
+    ]
+  },
+  "properties": {
+    "id": 4985561623,
+    "alt_name": "Restaurant Traube;Restaurant Traube Twann",
+    "amenity": "restaurant",
+    "check_date": "2025-10-18",
+    "check_date:opening_hours": "2022-05-30",
+    "cuisine": "fish;regional",
+    "email": "info@traube-twann.ch",
+    "name": "Traube",
+    "opening_hours": "We-Sa 11:30-14:00,17:30-23:00; Su 11:30-14:00,17:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 315 70 71",
+    "website": "https://www.traube-twann.ch/"
+  },
+  "id": 4985561623
+}

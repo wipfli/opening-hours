@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9535556,
+      46.0051632
+    ]
+  },
+  "properties": {
+    "id": 13108627201,
+    "addr:housenumber": "10",
+    "addr:postcode": "6900",
+    "addr:street": "Quartiere Maghetti",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pane e Pomodoro",
+    "opening_hours": "Mo-Sa,11:30-15:00,18:30-24:00",
+    "phone": "+41 91 921 01 86",
+    "website": "https://www.panepomodororistorante.ch/"
+  },
+  "id": 13108627201
+}

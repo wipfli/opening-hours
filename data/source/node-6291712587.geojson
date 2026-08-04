@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1078828,
+      46.7210772
+    ]
+  },
+  "properties": {
+    "id": 6291712587,
+    "amenity": "restaurant",
+    "check_date": "2025-02-06",
+    "name": "Waschchr\u00fct",
+    "opening_hours": "09:00-16:30 (Ski season only)",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "website": "https://www.jerantis.ch/"
+  },
+  "id": 6291712587
+}

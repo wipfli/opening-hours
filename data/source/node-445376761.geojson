@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3764816,
+      47.4265343
+    ]
+  },
+  "properties": {
+    "id": 445376761,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "1",
+    "addr:postcode": "9000",
+    "addr:street": "Bohl",
+    "amenity": "restaurant",
+    "cuisine": "italian;steak_house",
+    "indoor_seating": "yes",
+    "name": "Al Capone",
+    "opening_hours": "Mo-Su 10:30-22:00+",
+    "outdoor_seating": "no",
+    "phone": "+41 71 223 45 03",
+    "website": "https://www.steakhouse-alcapone.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q131938429"
+  },
+  "id": 445376761
+}

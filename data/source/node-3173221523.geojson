@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1962006,
+      47.1163831
+    ]
+  },
+  "properties": {
+    "id": 3173221523,
+    "addr:city": "Sempach Station",
+    "addr:housenumber": "13",
+    "addr:postcode": "6203",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "email": "info@sempacherhof.ch",
+    "name": "Sempacherhof",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-23:00; Sa,Su off",
+    "phone": "+41 41 469 7010",
+    "website": "https://www.sempacherhof.ch/"
+  },
+  "id": 3173221523
+}

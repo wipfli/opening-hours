@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1457232,
+      46.2110036
+    ]
+  },
+  "properties": {
+    "id": 10118882618,
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Neuch\u00e2tel 13",
+    "amenity": "restaurant",
+    "cuisine": "american",
+    "name": "American Dream Diner",
+    "opening_hours": "Th-Fr 12:00-02:00; Sa-We 12:00-23:00",
+    "phone": "+41 22 732 32 01",
+    "website": "https://www.americandreamdiner.com/"
+  },
+  "id": 10118882618
+}

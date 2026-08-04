@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5649789,
+      47.4506628
+    ]
+  },
+  "properties": {
+    "id": 10682616299,
+    "amenity": "restaurant",
+    "check_date": "2026-01-05",
+    "check_date:diet:vegetarian": "2026-01-05",
+    "cuisine": "sushi",
+    "diet:vegetarian": "yes",
+    "email": "circle@negishi.ch",
+    "level": "0",
+    "name": "Negishi",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "operator": "Familie Wiesner Gastronomie AG",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 305 26 44",
+    "takeaway": "yes",
+    "website": "https://www.negishi.ch/de/standorte/kloten-circle",
+    "wheelchair": "yes"
+  },
+  "id": 10682616299
+}

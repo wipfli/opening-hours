@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4145968,
+      47.4992498
+    ]
+  },
+  "properties": {
+    "id": 251191973,
+    "addr:city": "Sch\u00f6fflisdorf",
+    "addr:housenumber": "14",
+    "addr:postcode": "8165",
+    "addr:street": "Dorfwisenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "sd@dapepino.ch",
+    "name": "Da Pepino",
+    "old_name": "Zur Schmitte",
+    "opening_hours": "Tu-Fr 10:00-14:00,17:00-23:00; Sa,Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 856 16 50",
+    "website": "https://dapepino.ch/schoefflisdorf/",
+    "wheelchair": "yes"
+  },
+  "id": 251191973
+}

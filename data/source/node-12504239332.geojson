@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4295033,
+      46.9448852
+    ]
+  },
+  "properties": {
+    "id": 12504239332,
+    "addr:city": "Bern",
+    "addr:housenumber": "30",
+    "addr:postcode": "3007",
+    "addr:street": "Zieglerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-26",
+    "contact:instagram": "famii.ramen",
+    "cuisine": "ramen",
+    "delivery": "yes",
+    "delivery:partner": "Just Eat",
+    "email": "famii.ramen@outlook.com",
+    "name": "Famii Ramen",
+    "opening_hours": "Mo-Fr 11:00-13:30,18:00-21:00",
+    "website": "https://www.famii.ch/",
+    "website:menu": "https://www.famii.ch/men%C3%BC"
+  },
+  "id": 12504239332
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9994109,
+      47.479326
+    ]
+  },
+  "properties": {
+    "id": 506264171,
+    "addr:city": "M\u00fcnchwilen (TG)",
+    "addr:housenumber": "17",
+    "addr:postcode": "9542",
+    "addr:street": "Weinfelderstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Salta In Bocca",
+    "opening_hours": "Su-Tu,Th,Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 966 21 41",
+    "website": "https://saltainbocca.ch"
+  },
+  "id": 506264171
+}

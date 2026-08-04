@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3070761,
+      47.4776019
+    ]
+  },
+  "properties": {
+    "id": 1845356468,
+    "addr:housenumber": "3",
+    "addr:street": "Nordhaus",
+    "amenity": "restaurant",
+    "check_date": "2023-12-27",
+    "cuisine": "sushi",
+    "name": "Sayori teppan yaki",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-22:00; Sa,Su 17:00-22:00",
+    "website": "https://www.sayori.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1845356468
+}

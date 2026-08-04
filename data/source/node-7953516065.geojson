@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6334618,
+      46.5723755
+    ]
+  },
+  "properties": {
+    "id": 7953516065,
+    "amenity": "restaurant",
+    "name": "Coucou",
+    "opening_hours": "Mo,Tu,Th,Fr 10:00-15:00,18:00-23:00; We 10:00-15:00,18:00-23:00; Sa 11:00-15:30,18:00-23:30; PH,Su off",
+    "phone": "+41 21 652 65 24",
+    "website": "https://www.lecoucou.ch/"
+  },
+  "id": 7953516065
+}

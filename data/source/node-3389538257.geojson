@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5473718,
+      47.3627091
+    ]
+  },
+  "properties": {
+    "id": 3389538257,
+    "addr:housenumber": "45",
+    "addr:street": "Utoquai",
+    "amenity": "restaurant",
+    "check_date": "2026-05-09",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "0",
+    "name": "Eden Kitchen & Bar",
+    "opening_hours": "06:30-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 266 25 25",
+    "website": "https://www.lareserve-zurich.com/de/restaurants/eden-kitchen-and-bar/",
+    "wheelchair": "no"
+  },
+  "id": 3389538257
+}

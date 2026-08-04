@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1219152,
+      47.1469958
+    ]
+  },
+  "properties": {
+    "id": 2304237774,
+    "addr:city": "Les Pr\u00e9s-d'Orvin",
+    "addr:housenumber": "101",
+    "addr:postcode": "2534",
+    "addr:street": "Colisses",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bison Ranch",
+    "opening_hours": "We-Su 10:00-22:00; Mo-Tu off",
+    "phone": "+41 32 322 00 24",
+    "website": "https://www.bisonranch.ch/"
+  },
+  "id": 2304237774
+}

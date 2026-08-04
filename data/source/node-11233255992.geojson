@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.684185,
+      47.5064541
+    ]
+  },
+  "properties": {
+    "id": 11233255992,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "102",
+    "addr:postcode": "8408",
+    "addr:street": "Wieshofstrasse",
+    "amenity": "restaurant",
+    "name": "IPW Restaurant",
+    "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+    "website": "https://ipw.ch/ueber-uns/gastronomie-1"
+  },
+  "id": 11233255992
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0209473,
+      47.5075219
+    ]
+  },
+  "properties": {
+    "id": 11155404816,
+    "addr:city": "Frick",
+    "addr:country": "CH",
+    "addr:housenumber": "49",
+    "addr:postcode": "5070",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Peppino",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:00-22:00; Sa 17:00-22:00; Su-Mo off",
+    "phone": "+41 62 871 95 95",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://peppino.pizza/frick/",
+    "website:menu": "https://peppino.pizza/menu"
+  },
+  "id": 11155404816
+}

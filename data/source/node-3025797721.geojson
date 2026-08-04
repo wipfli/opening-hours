@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4704873,
+      46.9097729
+    ]
+  },
+  "properties": {
+    "id": 3025797721,
+    "addr:city": "Kehrsatz",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3122",
+    "addr:street": "Bernstrasse",
+    "alt_name": "Ristorante Pizzeria Il Brunello",
+    "amenity": "restaurant",
+    "contact:email": "info@ilbrunello.ch",
+    "contact:phone": "+41 31 9610204",
+    "cuisine": "italian",
+    "name": "Il Brunello",
+    "opening_hours": "Mo-Th 08:30-23:30; Fr 08:30-00:30; Sa 09:30-00:30; Su off",
+    "source": "survey and website",
+    "website": "https://www.ilbrunello.ch/"
+  },
+  "id": 3025797721
+}

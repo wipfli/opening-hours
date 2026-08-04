@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8465351,
+      47.3099739
+    ]
+  },
+  "properties": {
+    "id": 1315431060,
+    "addr:city": "Kappel SO",
+    "addr:postcode": "4616",
+    "amenity": "restaurant",
+    "branch": "A1 Gunzgen S\u00fcd",
+    "brand": "March\u00e9",
+    "name": "March\u00e9 Gunzgen S\u00fcd",
+    "opening_hours": "06:00-21:00",
+    "operator": "March\u00e9 Restaurants Schweiz",
+    "website": "https://www.marche.ch/de/marche_gunzgen_sued.html"
+  },
+  "id": 1315431060
+}

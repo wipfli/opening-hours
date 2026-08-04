@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7950235,
+      47.2693661
+    ]
+  },
+  "properties": {
+    "id": 9171997817,
+    "addr:city": "Wolfwil",
+    "addr:housenumber": "42",
+    "addr:postcode": "4628",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "Kaffee Zentrum",
+    "opening_hours": "We-Su 09:00-18:00; Fr 09:00-20:00; Sa 09:00-17:00",
+    "phone": "+41 76 719 27 29",
+    "website": "https://www.kaffeezentrum.ch/"
+  },
+  "id": 9171997817
+}

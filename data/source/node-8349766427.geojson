@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4362244,
+      46.9437576
+    ]
+  },
+  "properties": {
+    "id": 8349766427,
+    "amenity": "restaurant",
+    "contact:addr": "Monbijoustrasse 29, 3011 Bern",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Asia H\u00f6ck",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-21:00; Sa-Su 17:30-21:30",
+    "outdoor_seating": "yes",
+    "website": "https://asiahoeck.ch/"
+  },
+  "id": 8349766427
+}

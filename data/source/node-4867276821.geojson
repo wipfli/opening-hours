@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7967057,
+      47.0433077
+    ]
+  },
+  "properties": {
+    "id": 4867276821,
+    "addr:housenumber": "16",
+    "addr:postcode": "3457",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "fish;sandwich;regional;breakfast;ice_cream;tea;coffee_shop;local;pasta;noodles",
+    "diet:vegetarian": "yes",
+    "email": "restaurant@gruetli.ch",
+    "internet_access": "wlan",
+    "name": "Restaurant Gr\u00fctli",
+    "name:de": "Restaurant Gr\u00fctli",
+    "opening_hours": "Mo 08:30-14:00, Tu-Sa 08:30-00:30",
+    "operator": "Markus & Doris Z\u00fcrcher",
+    "phone": "+41 34 437 15 80",
+    "website": "https://www.gruetli.ch/"
+  },
+  "id": 4867276821
+}

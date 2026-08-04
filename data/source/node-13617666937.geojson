@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6015913,
+      47.3952129
+    ]
+  },
+  "properties": {
+    "id": 13617666937,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Ayay",
+    "opening_hours": "Mo-Fr 10:00-14:00; PH off",
+    "website": "https://ayay.ch/restaurant/"
+  },
+  "id": 13617666937
+}

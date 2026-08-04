@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4383212,
+      46.9464162
+    ]
+  },
+  "properties": {
+    "id": 892833058,
+    "alt_name": "Restaurant Arirang",
+    "amenity": "restaurant",
+    "check_date": "2025-11-10",
+    "contact:addr": "Hirschengraben 11, 3011 Bern",
+    "contact:email": "mail@restaurant-arirang.ch",
+    "contact:phone": "+41 31 3292945",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Arirang",
+    "note": "Entrance Wallgasse",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:45-21:15",
+    "operator": "KIMOH GmbH",
+    "outdoor_seating": "no",
+    "source": "survey and website",
+    "website": "https://www.restaurant-arirang.ch/",
+    "wheelchair": "no"
+  },
+  "id": 892833058
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9344029,
+      47.4270216
+    ]
+  },
+  "properties": {
+    "id": 1416362764,
+    "addr:city": "Dussnang",
+    "addr:housenumber": "2",
+    "addr:postcode": "8374",
+    "addr:street": "M\u00fchlestrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant M\u00fchle Schurten",
+    "opening_hours": "We-Su 09:00-24:00",
+    "phone": "+41 71 977 13 70",
+    "website": "http://muehleschurten.ch/"
+  },
+  "id": 1416362764
+}

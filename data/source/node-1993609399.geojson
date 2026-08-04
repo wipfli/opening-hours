@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6952903,
+      46.9001354
+    ]
+  },
+  "properties": {
+    "id": 1993609399,
+    "addr:housenumber": "11",
+    "addr:postcode": "3533",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "description": "Caf\u00e9 - Restaurant - B\u00e4ckerei",
+    "name": "D\u00f6rfli",
+    "opening_hours": "Tu,We 07:00-23:00; Th,Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-18:00",
+    "shop": "bakery",
+    "website": "https://www.cafe-doerfli.com/",
+    "wheelchair": "yes"
+  },
+  "id": 1993609399
+}

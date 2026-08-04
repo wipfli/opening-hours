@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5403074,
+      47.5205292
+    ]
+  },
+  "properties": {
+    "id": 4045806097,
+    "addr:city": "B\u00fclach",
+    "addr:housenumber": "3",
+    "addr:postcode": "8180",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/restaurantroys",
+    "contact:phone": "+41 44 886 22 22",
+    "cuisine": "kebab;pizza;pasta",
+    "indoor_seating": "yes",
+    "name": "Roy's Restaurant & Takeaway",
+    "opening_hours": "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "http://www.restaurant-roys.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4045806097
+}

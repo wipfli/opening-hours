@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3532119,
+      47.4189819
+    ]
+  },
+  "properties": {
+    "id": 5036745721,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "42",
+    "addr:postcode": "9000",
+    "addr:street": "Z\u00fcrcher Strasse",
+    "amenity": "restaurant",
+    "cuisine": "arab",
+    "indoor_seating": "yes",
+    "name": "Habibi",
+    "name:fr": "Habibi",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 79 636 41 13",
+    "website": "https://habibi-restaurant.jimdo.com/"
+  },
+  "id": 5036745721
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0051618,
+      47.2237794
+    ]
+  },
+  "properties": {
+    "id": 435560093,
+    "addr:city": "Les Breuleux",
+    "addr:postcode": "2345",
+    "amenity": "restaurant",
+    "email": "restaurant.roselet@philippos.ch",
+    "name": "Relais du Roselet",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 959 18 92",
+    "website": "https://www.philippos.ch/de/besuchen-sie-uns/le-roselet/restaurant-relais-du-roselet"
+  },
+  "id": 435560093
+}

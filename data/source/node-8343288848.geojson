@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8451498,
+      46.4639035
+    ]
+  },
+  "properties": {
+    "id": 8343288848,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Vecchia Napoli",
+    "opening_hours": "Tu-Sa 11:45-14:45, 18:30-22:00",
+    "phone": "+41 21 921 63 07",
+    "website": "https://www.vecchia-napoli-vevey.ch/",
+    "wheelchair": "no"
+  },
+  "id": 8343288848
+}

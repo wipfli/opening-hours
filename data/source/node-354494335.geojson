@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.718404,
+      47.3519593
+    ]
+  },
+  "properties": {
+    "id": 354494335,
+    "addr:city": "Uster",
+    "addr:housenumber": "10a",
+    "addr:postcode": "8610",
+    "addr:street": "Industriestrasse",
+    "alt_name": "HAN Uster",
+    "amenity": "restaurant",
+    "branch": "Uster",
+    "check_date": "2025-05-08",
+    "cuisine": "mongolian",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Han",
+    "opening_hours": "Mo-Fr 10:00-14:00, Mo-Th 18:00-23:30, Fr 18:00-24:00, Sa 17:30-24:00, Su 17:00-23:30; PH 17:00-23:30",
+    "operator": "its1world Management",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://han.ch/uster/",
+    "wheelchair": "limited"
+  },
+  "id": 354494335
+}

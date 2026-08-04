@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5525017,
+      47.410535
+    ]
+  },
+  "properties": {
+    "id": 1331310513,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Brasserie Bits & Bites",
+    "opening_hours": "Mo-Fr 06:30-23:00; Sa-Su 07:00-23:00",
+    "phone": "+41 44 316 11 00",
+    "website": "https://www.brasseriebitsandbites.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1331310513
+}

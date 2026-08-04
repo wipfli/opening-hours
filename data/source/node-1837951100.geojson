@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4941174,
+      46.4276061
+    ]
+  },
+  "properties": {
+    "id": 1837951100,
+    "addr:street": "Bummereweg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "kids_area:outdoor": "yes",
+    "mobile": "+41 79 216 11 56",
+    "name": "Nessli Beizli",
+    "opening_hours": "May-Jun Th-Su; Jul-Oct We-Su",
+    "outdoor_seating": "yes",
+    "place": "farm",
+    "toilets": "yes",
+    "website": "https://nessli-beizli.business.site"
+  },
+  "id": 1837951100
+}

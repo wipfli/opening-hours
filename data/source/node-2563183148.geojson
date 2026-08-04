@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8463245,
+      47.4195928
+    ]
+  },
+  "properties": {
+    "id": 2563183148,
+    "addr:housenumber": "35",
+    "addr:street": "T\u00f6sstalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@dongiuseppe.ch",
+    "name": "Don Giuseppe",
+    "office": "delivery",
+    "opening_hours": "Tu-Sa 11:00-14:00, 17:00-22:30; Su 17:00-22:00",
+    "phone": "+41 52 394 26 36",
+    "website": "https://www.dongiuseppe.ch/"
+  },
+  "id": 2563183148
+}

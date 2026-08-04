@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7474883,
+      47.1270328
+    ]
+  },
+  "properties": {
+    "id": 5694793625,
+    "addr:city": "Einsiedeln",
+    "addr:housenumber": "46",
+    "addr:postcode": "8840",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-23",
+    "cuisine": "regional",
+    "email": "gastgeber@sternenbistro.ch",
+    "name": "Sternen Bistro",
+    "opening_hours": "Mo-Fr 11:00-22:00",
+    "phone": "+41 55 412 55 15",
+    "smoking": "no",
+    "website": "https://www.sternenbistro.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5694793625
+}

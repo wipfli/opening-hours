@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0760367,
+      46.1023557
+    ]
+  },
+  "properties": {
+    "id": 9566783832,
+    "addr:city": "Martigny",
+    "addr:housenumber": "12",
+    "addr:postcode": "1920",
+    "addr:street": "Rue du Grand Verger",
+    "amenity": "restaurant",
+    "diet:organic": "yes",
+    "diet:vegetarian": "yes",
+    "email": "secretariat@nouvelleterre.net",
+    "name": "V&G",
+    "note": "Repas le midi seulement",
+    "opening_hours": "Tu-Fr 09:00-18:30; Sa 09:00-17:00",
+    "reservation": "recommended",
+    "website": "https://www.nouvelleterre.net/"
+  },
+  "id": 9566783832
+}

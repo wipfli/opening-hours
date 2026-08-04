@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3090391,
+      47.0612468
+    ]
+  },
+  "properties": {
+    "id": 2984634375,
+    "addr:city": "Luzern",
+    "addr:housenumber": "4",
+    "addr:postcode": "6004",
+    "addr:street": "Maihofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Felsenegg",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 420 10 13",
+    "website": "https://www.felsenegg-luzern.ch/"
+  },
+  "id": 2984634375
+}

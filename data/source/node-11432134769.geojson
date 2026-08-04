@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.237628,
+      46.3840663
+    ]
+  },
+  "properties": {
+    "id": 11432134769,
+    "addr:housenumber": "14",
+    "addr:street": "Avenue Viollier",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name:en": "The Greek Project",
+    "opening_hours": "Mo-Fr 07:15-21:45; Sa-Su 09:15-21:45",
+    "website": "http://www.TheGreekProject.ch"
+  },
+  "id": 11432134769
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8051527,
+      46.4874976
+    ]
+  },
+  "properties": {
+    "id": 418083178,
+    "amenity": "restaurant",
+    "name": "Domaine de la Buritaz",
+    "opening_hours": "We-Fr 10:00-23:00; Su 09:00-14:00",
+    "phone": "+41 21 711 38 06",
+    "website": "https://domaineburitaz.ch/"
+  },
+  "id": 418083178
+}

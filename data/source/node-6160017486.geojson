@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6717793,
+      46.548181
+    ]
+  },
+  "properties": {
+    "id": 6160017486,
+    "addr:housenumber": "27",
+    "addr:postcode": "1066",
+    "addr:street": "Route de la Croix-Blanche",
+    "amenity": "restaurant",
+    "check_date": "2026-05-05",
+    "check_date:opening_hours": "2026-05-05",
+    "cuisine": "coffee_shop;local",
+    "email": "contact@auberge-epalinges.ch",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Auberge Communale d'Epalinges",
+    "opening_hours": "Tu-Sa 08:30-15:00, 18:30-23:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:qr_code": "no",
+    "phone": "+41 21 784 27 65",
+    "self_service": "no",
+    "website": "https://auberge-epalinges.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6160017486
+}

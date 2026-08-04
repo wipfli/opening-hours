@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3698729,
+      47.4234031
+    ]
+  },
+  "properties": {
+    "id": 960312959,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "2",
+    "addr:place": "Bahnhofplatz",
+    "addr:postcode": "9001",
+    "alt_name": "Yooji's St. Gallen",
+    "amenity": "restaurant",
+    "branch": "St. Gallen Bahnhof",
+    "brand": "Yooji's",
+    "check_date:opening_hours": "2025-07-25",
+    "cuisine": "sushi",
+    "indoor_seating": "yes",
+    "name": "Yooji's",
+    "opening_hours": "Mo-Fr 09:00-21:30; Sa 10:00-21:30; Su 10:00-20:30",
+    "operator": "Two Spice",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.yoojis.com/de/content/st-gallen-bahnhof-st-gallen",
+    "wheelchair": "yes"
+  },
+  "id": 960312959
+}

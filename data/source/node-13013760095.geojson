@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1926232,
+      46.7747252
+    ]
+  },
+  "properties": {
+    "id": 13013760095,
+    "addr:city": "Ilanz",
+    "addr:housenumber": "24",
+    "addr:postcode": "7130",
+    "addr:street": "Crappa Grossa",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;burger",
+    "name": "Shaka",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off",
+    "phone": "+41 81 925 28 38",
+    "website": "https://www.shakailanz.ch/"
+  },
+  "id": 13013760095
+}

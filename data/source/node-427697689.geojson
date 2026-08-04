@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4516548,
+      47.4816698
+    ]
+  },
+  "properties": {
+    "id": 427697689,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "hotel@bienengarten-dielsdorf.ch",
+    "name": "Bienengarten",
+    "opening_hours": "11:00-24:00; Sa 08:00-24:00",
+    "operator": "Roger Stierli",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 853 12 17",
+    "website": "https://www.bienengarten-dielsdorf.ch/restaurant.html"
+  },
+  "id": 427697689
+}

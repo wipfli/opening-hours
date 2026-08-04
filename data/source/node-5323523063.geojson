@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.531894,
+      46.2934678
+    ]
+  },
+  "properties": {
+    "id": 5323523063,
+    "addr:housenumber": "9a",
+    "addr:street": "Avenue du Rothorn",
+    "amenity": "restaurant",
+    "description": "Restaurant libanais & shicha bar",
+    "name": "Wanasah",
+    "opening_hours": "Mo, Tu, Th, Su 10:00-00:00; Fr, Sa 10:00-01:00",
+    "phone": "+41 78 341 57 57",
+    "website": "https://m.facebook.com/wanasah.ch/"
+  },
+  "id": 5323523063
+}

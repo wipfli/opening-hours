@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6341258,
+      46.5536999
+    ]
+  },
+  "properties": {
+    "id": 2036262365,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Xin Yuan",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:30; Sa 17:30-22:30; Su 11:30-14:00,17:30-22:30",
+    "phone": "+41 21 652 01 35",
+    "website": "https://www.xinyuan.ch/"
+  },
+  "id": 2036262365
+}

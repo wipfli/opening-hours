@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5479839,
+      47.4077073
+    ]
+  },
+  "properties": {
+    "id": 4831458722,
+    "addr:city": "Z\u00fcrich",
+    "addr:postcode": "8050",
+    "amenity": "restaurant",
+    "check_date": "2025-10-25",
+    "cuisine": "chinese",
+    "indoor_seating": "yes",
+    "name": "Lin's",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa-Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 333 59 41",
+    "website": "https://lins-restaurant.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4831458722
+}

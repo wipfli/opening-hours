@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9288707,
+      46.9925655
+    ]
+  },
+  "properties": {
+    "id": 571470033,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "artisan@nombril-venus.ch",
+    "name": "Le nombril de Venus",
+    "opening_hours": "Tu-Fr 09:00-18:00; Mo 11:00-18:00; Sa 09:00-17:00",
+    "phone": "+41 32 721 00 46",
+    "website": "https://nombril-venus.ch/"
+  },
+  "id": 571470033
+}

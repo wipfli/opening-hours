@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6016523,
+      47.5719494
+    ]
+  },
+  "properties": {
+    "id": 10140233773,
+    "addr:city": "Basel",
+    "addr:housenumber": "12",
+    "addr:postcode": "4058",
+    "addr:street": "Goldbachweg",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:fait_maison-label": "yes",
+    "diet:healthy": "yes",
+    "diet:local": "yes",
+    "diet:mediterranean": "yes",
+    "name": "ROBA BUONA",
+    "opening_hours": "DI-FR 10:00-14:00; 16:00-18:30. SA 11:00-17:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "phone": "+41 61 209 37 08",
+    "website": "https://www.robabuona.ch/"
+  },
+  "id": 10140233773
+}

@@ -1,12 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/10967922624",
-    "amenity": "restaurant",
-    "name": "Lumi\u00e8re",
-    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30,12:00-14:30; PH closed",
-    "website": "https://www.restaurant-lumiere.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -14,5 +7,12 @@
       47.3721352
     ]
   },
-  "id": "node-10967922624"
+  "properties": {
+    "id": 10967922624,
+    "amenity": "restaurant",
+    "name": "Lumi\u00e8re",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30,12:00-14:30; PH closed",
+    "website": "https://www.restaurant-lumiere.ch/"
+  },
+  "id": 10967922624
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4898386,
+      47.3868901
+    ]
+  },
+  "properties": {
+    "id": 2028882332,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "647",
+    "addr:postcode": "8048",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "no",
+    "indoor_seating": "yes",
+    "name": "Restaurant Casino",
+    "opening_hours": "Mo-Sa 08:00-18:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 432 10 60",
+    "website": "http://casinoaltstetten.ch"
+  },
+  "id": 2028882332
+}

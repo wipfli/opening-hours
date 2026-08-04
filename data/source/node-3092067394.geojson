@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0423979,
+      47.4627849
+    ]
+  },
+  "properties": {
+    "id": 3092067394,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "5",
+    "addr:postcode": "9500",
+    "addr:street": "Obere Bahnhofstrasse",
+    "alt_name": "Migros Restaurant Wil SG",
+    "amenity": "restaurant",
+    "branch": "Wil SG",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date": "2025-11-03",
+    "cuisine": "international",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 07:30-19:00; Tu 07:30-20:00; Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "outdoor_seating": "no",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-wil-sg"
+  },
+  "id": 3092067394
+}

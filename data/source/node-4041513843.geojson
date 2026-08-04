@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6228058,
+      47.3999266
+    ]
+  },
+  "properties": {
+    "id": 4041513843,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Saal Restaurant",
+    "opening_hours": "Mo-Sa 18:00-00:30; PH closed",
+    "phone": "+41448220282",
+    "website": "https://www.saal.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4041513843
+}

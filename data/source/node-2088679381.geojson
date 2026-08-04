@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.51491,
+      47.1671865
+    ]
+  },
+  "properties": {
+    "id": 2088679381,
+    "addr:city": "Zug",
+    "addr:housenumber": "1",
+    "addr:postcode": "6301",
+    "addr:street": "Landsgemeindeplatz",
+    "amenity": "restaurant",
+    "cuisine": "french;regional;fish",
+    "email": "brasserie@loewen-zug.ch",
+    "internet_access": "wlan",
+    "name": "Brasserie L\u00f6wen",
+    "opening_hours": "PH,Mo-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 725 22 20",
+    "smoking": "outside",
+    "website": "https://www.loewen-zug.ch/brasserie.html",
+    "wheelchair": "limited"
+  },
+  "id": 2088679381
+}

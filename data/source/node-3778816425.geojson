@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3137738,
+      47.4802615
+    ]
+  },
+  "properties": {
+    "id": 3778816425,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "29",
+    "addr:postcode": "5400",
+    "addr:street": "Limmatpromenade",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "cuisine": "thai",
+    "email": "home@phranakhon.ch",
+    "name": "Phra Nakhon",
+    "opening_hours": "Th-Mo 18:00-23:00",
+    "phone": "+41 56 221 77 21",
+    "website": "https://www.phranakhon.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3778816425
+}

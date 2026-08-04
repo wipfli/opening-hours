@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6288175,
+      46.3794645
+    ]
+  },
+  "properties": {
+    "id": 10634770942,
+    "addr:city": "Leukerbad",
+    "addr:housenumber": "3",
+    "addr:postcode": "3954",
+    "addr:street": "Troggasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "name": "Golden India",
+    "opening_hours": "Mo-Su 12:00-13:00, 17:00-21:30",
+    "phone": "+41273035555",
+    "website": "https://goldenindia.ch/"
+  },
+  "id": 10634770942
+}

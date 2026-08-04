@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1835875,
+      47.0370386
+    ]
+  },
+  "properties": {
+    "id": 2035289207,
+    "addr:city": "Malters",
+    "addr:housenumber": "63",
+    "addr:postcode": "6102",
+    "addr:street": "Luzernstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hotel Restaurant Kreuz",
+    "opening_hours": "We-Sa 07:00-24:00; Su 07:00-22:00",
+    "phone": "+41 41 497 14 01",
+    "website": "http://www.kreuz-malters.ch/"
+  },
+  "id": 2035289207
+}

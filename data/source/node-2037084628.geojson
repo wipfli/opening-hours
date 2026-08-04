@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5376266,
+      47.4063257
+    ]
+  },
+  "properties": {
+    "id": 2037084628,
+    "addr:housenumber": "265",
+    "addr:postcode": "8057",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-19",
+    "cuisine": "austrian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Gasthaus Hofwiesen",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 433 80 88",
+    "website": "https://www.hofwiesen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2037084628
+}

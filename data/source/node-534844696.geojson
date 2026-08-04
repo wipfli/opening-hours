@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5614469,
+      47.2978522
+    ]
+  },
+  "properties": {
+    "id": 534844696,
+    "addr:housenumber": "55",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-15",
+    "cuisine": "pizza",
+    "email": "pipponi@pipponi.ch",
+    "name": "Pipponi",
+    "opening_hours": "Mo 11:00-14:00; Tu-Su 11:00-14:00,17:00-23:00",
+    "phone": "+41 44 721 05 55",
+    "website": "https://pipponi.ch/"
+  },
+  "id": 534844696
+}

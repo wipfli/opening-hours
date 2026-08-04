@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0477671,
+      47.4604874
+    ]
+  },
+  "properties": {
+    "id": 13814558979,
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "name": "Pizza Time Wil",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+41719662333",
+    "takeaway": "yes",
+    "website": "https://pizzatimewil.ch/"
+  },
+  "id": 13814558979
+}

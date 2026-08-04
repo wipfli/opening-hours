@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2471438,
+      47.627621
+    ]
+  },
+  "properties": {
+    "id": 7379186911,
+    "addr:city": "Landschlacht",
+    "addr:housenumber": "10",
+    "addr:postcode": "8597",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "delivery": "no",
+    "email": "info@dasrotehaus.ch",
+    "fax": "+41 71 695 19 91",
+    "name": "Rotes Haus",
+    "opening_hours": "Mo closed, Tu 17:00-21:00, We-Su 11:00-14:00, 17:30-23:00",
+    "phone": "+41 71 695 19 16",
+    "reservation": "yes",
+    "smoking": "no",
+    "website": "http://www.dasrotehaus.ch/"
+  },
+  "id": 7379186911
+}

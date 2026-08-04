@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1547877,
+      46.1930021
+    ]
+  },
+  "properties": {
+    "id": 2395622181,
+    "amenity": "restaurant",
+    "cuisine": "oriental",
+    "indoor_seating": "yes",
+    "name": "Chiche ou pas Chiche",
+    "opening_hours": "Mo-Fr 07:00-19:00; Su 09:00-19:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.chicheoupaschiche.com/",
+    "wheelchair": "no"
+  },
+  "id": 2395622181
+}

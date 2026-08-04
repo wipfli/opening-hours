@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4225145,
+      47.3812974
+    ]
+  },
+  "properties": {
+    "id": 841975066,
+    "addr:city": "Urdorf",
+    "addr:country": "CH",
+    "addr:housenumber": "122",
+    "addr:postcode": "8902",
+    "addr:street": "Birmensdorferstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Sonne",
+    "opening_hours": "Mo-Fr 10:00-14:00,18:00-24:00; Sa 18:00-24:00",
+    "phone": "+41 44 777 21 25",
+    "website": "https://www.damichele.ch/"
+  },
+  "id": 841975066
+}

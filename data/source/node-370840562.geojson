@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436598,
+      47.3729061
+    ]
+  },
   "properties": {
-    "@id": "node/370840562",
+    "id": 370840562,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "5",
@@ -21,12 +28,5 @@
     "website": "https://www.bindella.ch/de/spaghetti-factory-rosenhof.html",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5436598,
-      47.3729061
-    ]
-  },
-  "id": "node-370840562"
+  "id": 370840562
 }

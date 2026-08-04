@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8403066,
+      46.4637908
+    ]
+  },
+  "properties": {
+    "id": 7104313044,
+    "addr:postcode": "1800",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;pizza",
+    "level": "0",
+    "name": "Chez Fer-ro",
+    "opening_hours": "Mo-Sa 07:00-22:30; Su 09:00-21:00",
+    "phone": "+41 21 922 33 97",
+    "website": "https://www.chez-ciccio.ch/",
+    "website:menu": "https://www.chez-ciccio.ch/menu"
+  },
+  "id": 7104313044
+}

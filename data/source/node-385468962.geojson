@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8009035,
+      47.0401209
+    ]
+  },
+  "properties": {
+    "id": 385468962,
+    "addr:postcode": "2314",
+    "amenity": "restaurant",
+    "email": "info@lecochonrose.ch",
+    "name": "Le Cochon Rose",
+    "name:fr": "Le Cochon Rose",
+    "opening_hours": "Mo-Tu 08:30-22:00; Fr 08:30-23:00; Sa 09:00-23:00; Su 09:00-22:00",
+    "phone": "+41 32 920 34 14",
+    "website": "https://lecochonrose.ch"
+  },
+  "id": 385468962
+}

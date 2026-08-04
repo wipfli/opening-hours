@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9227647,
+      46.3952771
+    ]
+  },
+  "properties": {
+    "id": 917957401,
+    "addr:city": "Villeneuve VD",
+    "addr:housenumber": "91",
+    "addr:postcode": "1844",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "name": "Restaurant Le Ch\u00e2teau",
+    "opening_hours": "Tu-Sa 10:00-15:00,18:00-22:00; Su 10:00-15:00",
+    "phone": "+41 21 960 20 09",
+    "website": "https://www.lechateaudevilleneuve.ch/"
+  },
+  "id": 917957401
+}

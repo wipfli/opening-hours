@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.377258,
+      47.4249561
+    ]
+  },
+  "properties": {
+    "id": 445480111,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "9a",
+    "addr:postcode": "9000",
+    "addr:street": "Spisergasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Bierfalken",
+    "opening_hours": "Mo-Fr 09:00-22:00+; Sa 08:30-17:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.bierfalkenwirt.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 445480111
+}

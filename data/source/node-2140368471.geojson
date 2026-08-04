@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5472423,
+      47.3804786
+    ]
+  },
   "properties": {
-    "@id": "node/2140368471",
+    "id": 2140368471,
     "amenity": "restaurant",
     "check_date": "2025-09-25",
     "cuisine": "chinese",
@@ -10,12 +17,5 @@
     "website": "https://bamboo-inn.ch/",
     "website:menu": "https://bamboo-inn.ch/menu"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5472423,
-      47.3804786
-    ]
-  },
-  "id": "node-2140368471"
+  "id": 2140368471
 }

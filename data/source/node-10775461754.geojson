@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2758737,
+      47.3769751
+    ]
+  },
+  "properties": {
+    "id": 10775461754,
+    "amenity": "restaurant",
+    "name": "Bergh\u00fcsli",
+    "opening_hours": "We-Fr 10:00-23:00; Sa-Su 10:00-23:30",
+    "outdoor_seating": "yes",
+    "website": "https://berghuesli.ch"
+  },
+  "id": 10775461754
+}

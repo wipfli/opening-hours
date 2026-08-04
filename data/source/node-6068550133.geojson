@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2704292,
+      47.5527
+    ]
+  },
+  "properties": {
+    "id": 6068550133,
+    "addr:city": "Amriswil",
+    "addr:country": "CH",
+    "addr:housenumber": "86",
+    "addr:postcode": "8580",
+    "addr:street": "Kreuzlingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "no",
+    "name": "Pizzeria Vesuvio",
+    "opening_hours": "We-Mo 11:00-14:00,17:00-23:00",
+    "opening_hours:covid19": "Mo,We,Th,Su 11:30-14:00,17:00-20:30; Fr, Sa 11:30-14:00,17:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 410 16 66",
+    "website": "https://www.vesuvio-oberaach.ch"
+  },
+  "id": 6068550133
+}

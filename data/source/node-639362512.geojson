@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6211314,
+      47.3992293
+    ]
+  },
+  "properties": {
+    "id": 639362512,
+    "addr:city": "D\u00fcbendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "47",
+    "addr:postcode": "8600",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-13",
+    "check_date:diet:halal": "2025-06-13",
+    "cuisine": "asian",
+    "diet:halal": "yes",
+    "name": "Peking Garden",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:00; Su 16:00-22:00; PH closed",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 822 18 28",
+    "website": "https://peking-garden.ch",
+    "wheelchair": "no"
+  },
+  "id": 639362512
+}

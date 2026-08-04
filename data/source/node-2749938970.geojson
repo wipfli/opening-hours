@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5343733,
+      46.8479235
+    ]
+  },
+  "properties": {
+    "id": 2749938970,
+    "addr:housenumber": "1",
+    "addr:street": "Hof",
+    "amenity": "restaurant",
+    "email": "info@hofkellerei.ch",
+    "name": "Hofkellerei",
+    "opening_hours": "We 17:30-22:00; Th 11:30-14:30,18:00-22:00; Fr-Sa 11:30-14:30; Su 11:30-15:00",
+    "phone": "+41 81 252 32 30",
+    "website": "https://www.hofkellerei.ch/"
+  },
+  "id": 2749938970
+}

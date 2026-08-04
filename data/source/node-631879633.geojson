@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.606372,
+      46.8865652
+    ]
+  },
+  "properties": {
+    "id": 631879633,
+    "addr:city": "Seedorf UR",
+    "addr:housenumber": "50",
+    "addr:postcode": "6462",
+    "addr:street": "A Pro-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2023-05-21",
+    "cuisine": "regional",
+    "name": "A Pro Schlossrestaurant",
+    "opening_hours": "Mo-We off; Th 11:30-14:30, 18:00-23:00; Fr, Sa 11:30-14:30, 18:00-23:30; Su 11:30-16:00",
+    "phone": "+41 41 870 65 32",
+    "website": "https://www.schlossapro.ch/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 631879633
+}

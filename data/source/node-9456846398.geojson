@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7804854,
+      46.7458001
+    ]
+  },
+  "properties": {
+    "id": 9456846398,
+    "addr:city": "Davos Glaris",
+    "addr:housenumber": "49",
+    "addr:postcode": "7277",
+    "addr:street": "Landwasserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-09-04",
+    "name": "Blockhuus",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 417 00 35",
+    "website": "https://www.davosklostersmountains.ch/de/mountains/gastro-events/restaurants-bars/Restaurant-Blockhuus_g_550"
+  },
+  "id": 9456846398
+}

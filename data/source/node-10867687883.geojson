@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5753433,
+      47.3375838
+    ]
+  },
+  "properties": {
+    "id": 10867687883,
+    "addr:city": "Zollikon",
+    "addr:country": "CH",
+    "addr:housenumber": "94",
+    "addr:postcode": "8702",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Napul\u00e9",
+    "opening_hours": "Mo-Su 11:30-14:00,18:00-22:00",
+    "phone": "+41 44 391 26 27",
+    "website": "https://www.napule.ch/de/zollikon"
+  },
+  "id": 10867687883
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0010495,
+      46.177655
+    ]
+  },
+  "properties": {
+    "id": 3024343376,
+    "addr:city": "La Plaine",
+    "addr:housenumber": "115",
+    "addr:postcode": "1283",
+    "addr:street": "Route de La Plaine",
+    "amenity": "restaurant",
+    "cuisine": "pizza;pasta;meat",
+    "email": "info@restaurantdelaplaine.ch",
+    "name": "La Poste",
+    "opening_hours": "Mo-Fr 07:00-00:00; Sa-Su 08:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 754 01 01",
+    "website": "https://www.restaurantdelaplaine.ch/"
+  },
+  "id": 3024343376
+}

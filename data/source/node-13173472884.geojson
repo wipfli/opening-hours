@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4742076,
+      47.1877528
+    ]
+  },
+  "properties": {
+    "id": 13173472884,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "level": "1",
+    "name": "Yummy",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:30; Sa,Su,PH 11:00-22:30",
+    "phone": "+41417401888",
+    "takeaway": "yes",
+    "website": "https://yummyrestaurant.ch/"
+  },
+  "id": 13173472884
+}

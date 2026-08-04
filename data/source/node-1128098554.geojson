@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4335654,
+      47.1619879
+    ]
+  },
+  "properties": {
+    "id": 1128098554,
+    "addr:city": "H\u00fcnenberg",
+    "addr:country": "CH",
+    "addr:housenumber": "108",
+    "addr:postcode": "6331",
+    "addr:street": "B\u00f6sch",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Restaurant Angolo",
+    "opening_hours": "Mo-Fr 11:00-14:30",
+    "website": "http://www.angolopizza.ch"
+  },
+  "id": 1128098554
+}

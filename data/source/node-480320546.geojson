@@ -1,19 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/480320546",
-    "addr:city": "Z\u00fcrich",
-    "addr:country": "CH",
-    "addr:housenumber": "22",
-    "addr:postcode": "8045",
-    "addr:street": "Uetlibergstrasse",
-    "amenity": "restaurant",
-    "cuisine": "vietnamese",
-    "name": "Chez Nhan",
-    "old_name": "Hoi An",
-    "opening_hours": "Mo-Fr 10:00-14:30,17:30-23:00, Sa 17:00-23:00; Aug 1 off",
-    "website": "https://www.cheznhan.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -21,5 +7,25 @@
       47.3645425
     ]
   },
-  "id": "node-480320546"
+  "properties": {
+    "id": 480320546,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "8045",
+    "addr:street": "Uetlibergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "level": "0",
+    "name": "Bowl & Wok",
+    "old_name": "Chez Nhan",
+    "old_old_name": "Hoi An",
+    "opening_hours": "Mo-Fr 10:30-14:00,17:30-22:00, Sa 17:00-22:00; Su 11:00-20:00; PH closed",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://bowlandwok.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 480320546
 }

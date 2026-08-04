@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3130492,
+      47.043454
+    ]
+  },
+  "properties": {
+    "id": 506878642,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Do Re Mi",
+    "opening_hours": "Mo-Sa 11:00-23:00",
+    "phone": "+41 41 361 61 54",
+    "website": "https://doremi-thai-food.business.site/"
+  },
+  "id": 506878642
+}

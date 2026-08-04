@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7652519,
+      46.0304981
+    ]
+  },
+  "properties": {
+    "id": 482458955,
+    "amenity": "restaurant",
+    "email": "frauenf-fireweed@bluewin.ch",
+    "fixme": "Nov-Mar korrekt?",
+    "name": "Othmar\u2019s Skih\u00fctte",
+    "opening_hours": "Nov-Mar 10:00-18:00",
+    "phone": "+41 27 967 17 61",
+    "website": "https://www.othmars.ch/"
+  },
+  "id": 482458955
+}

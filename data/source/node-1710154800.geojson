@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8281724,
+      47.2748859
+    ]
+  },
+  "properties": {
+    "id": 1710154800,
+    "amenity": "restaurant",
+    "check_date": "2025-05-19",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "1",
+    "name": "Restaurant Garten-Center Meier",
+    "opening_hours": "Tu-Fr 11:30-13:30; Sa 11:30-14:00; PH closed",
+    "operator": "Garten-Center Meier",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 43 843 04 25",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.gartencenter-meier.ch/cms/gastronomie/",
+    "wheelchair": "yes"
+  },
+  "id": 1710154800
+}

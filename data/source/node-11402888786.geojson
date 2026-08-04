@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3692619,
+      47.4249291
+    ]
+  },
+  "properties": {
+    "id": 11402888786,
+    "alt_name": "Vapiano Spreitenbach",
+    "amenity": "restaurant",
+    "branch": "Spreitenbach",
+    "brand": "Vapiano",
+    "brand:wikidata": "Q506252",
+    "cuisine": "italian",
+    "name": "Vapiano",
+    "opening_hours": "11:00-23:00",
+    "operator": "Sodano Group",
+    "website": "https://vapiano.ch/"
+  },
+  "id": 11402888786
+}

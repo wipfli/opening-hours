@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5982556,
+      47.204293
+    ]
+  },
+  "properties": {
+    "id": 5478178521,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "B\u00e4sebeiz a d\u00e4 Sihl",
+    "opening_hours": "Th-Su 09:00-24:00",
+    "operator": "Familie Lagler",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 729 91 34",
+    "website": "https://www.baesebeizadesihl.ch/"
+  },
+  "id": 5478178521
+}

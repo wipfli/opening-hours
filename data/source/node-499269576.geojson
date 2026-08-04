@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1570911,
+      46.204745
+    ]
+  },
+  "properties": {
+    "id": 499269576,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "3",
+    "addr:postcode": "1207",
+    "addr:street": "Rue du Lac",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Da Paolo",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "phone": "+41 22 736 30 49",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://dapaolo.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 499269576
+}

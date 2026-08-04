@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5225397,
+      47.3773918
+    ]
+  },
   "properties": {
-    "@id": "node/848761371",
+    "id": 848761371,
     "addr:housenumber": "147",
     "addr:street": "Stauffacherstrasse",
     "amenity": "restaurant",
@@ -13,12 +20,5 @@
     "website": "https://www.zebra-bistro.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5225397,
-      47.3773918
-    ]
-  },
-  "id": "node-848761371"
+  "id": 848761371
 }

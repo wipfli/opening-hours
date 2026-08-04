@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2109849,
+      47.4375134
+    ]
+  },
+  "properties": {
+    "id": 1072930547,
+    "addr:housename": "Wydehof",
+    "addr:housenumber": "1",
+    "addr:place": "Wyde",
+    "addr:postcode": "5242",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "email": "wydehof@wydehof.ch",
+    "name": "Wydehof",
+    "opening_hours": "Mo-Fr 07:30-14:00",
+    "phone": "+41 56 464 65 65",
+    "website": "http://www.wydehof.ch/"
+  },
+  "id": 1072930547
+}

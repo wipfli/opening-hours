@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7267385,
+      47.340872
+    ]
+  },
+  "properties": {
+    "id": 320199169,
+    "addr:housenumber": "81",
+    "addr:street": "Burgstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@krone-nossikon.ch",
+    "name": "Krone Nossikon",
+    "opening_hours": "Tu-Fr 11:00-14:00, Su 11:00-22:00, Sa 17:00-23:00, Tu-Fr 17:00-23:00",
+    "phone": "+41 44 940 16 49",
+    "website": "https://www.krone-nossikon.ch/"
+  },
+  "id": 320199169
+}

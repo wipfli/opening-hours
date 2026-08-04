@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0519888,
+      47.1276396
+    ]
+  },
+  "properties": {
+    "id": 6732375585,
+    "addr:city": "Niederurnen",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:place": "Schl\u00f6ssli",
+    "addr:postcode": "8867",
+    "addr:street": "Schl\u00f6ssli",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@schloessli-niederurnen.ch",
+    "internet_access": "wlan",
+    "name": "Schl\u00f6ssli",
+    "opening_hours": "Th 14:00+; Fr 10:00+; Sa 10:00+; Su 10:00+",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 610 30 60",
+    "website": "https://www.schloessli-niederurnen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6732375585
+}

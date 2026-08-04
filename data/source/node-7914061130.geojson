@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8514747,
+      46.4579262
+    ]
+  },
+  "properties": {
+    "id": 7914061130,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "1800",
+    "addr:street": "Rue d'Italie",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2026-04-28",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "name": "TomSab Thai Restaurant",
+    "opening_hours": "Su-Fr 10:30-14:00,17:30-21:00; Sa 17:30-21:00",
+    "phone": "+41 21 922 42 42",
+    "takeaway": "yes",
+    "website": "https://www.tomsab.ch"
+  },
+  "id": 7914061130
+}

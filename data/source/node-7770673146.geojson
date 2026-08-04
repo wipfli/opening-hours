@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.50224,
+      47.0003474
+    ]
+  },
+  "properties": {
+    "id": 7770673146,
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "IGNIV",
+    "opening_hours": "We-Sa 18:30-22:00; Su 12:00-14:00,18:30-22:00",
+    "phone": "+41 81 303 30 35",
+    "website": "https://www.resortragaz.ch/de/restaurants-und-bars/igniv"
+  },
+  "id": 7770673146
+}

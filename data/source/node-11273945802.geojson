@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5887299,
+      47.5549284
+    ]
+  },
+  "properties": {
+    "id": 11273945802,
+    "addr:city": "Basel",
+    "addr:housenumber": "84",
+    "addr:postcode": "4001",
+    "addr:street": "Gerbergasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Stadthof",
+    "opening_hours": "Mo-Su 11:30-23:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 261 87 11",
+    "smoking": "outside",
+    "website": "https://www.stadthof.ch/restaurant.html"
+  },
+  "id": 11273945802
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7817782,
+      47.3674838
+    ]
+  },
+  "properties": {
+    "id": 8327175624,
+    "addr:housenumber": "10",
+    "addr:street": "Kempttalstrasse",
+    "amenity": "restaurant",
+    "name": "Cucina Piccante",
+    "opening_hours": "Mo-Fr 09:00-16:00; Sa 08:00-16:00",
+    "phone": "+41 79 690 69 65",
+    "website": "https://www.cucinapiccante.ch/"
+  },
+  "id": 8327175624
+}

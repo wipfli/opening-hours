@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9396529,
+      46.4517484
+    ]
+  },
+  "properties": {
+    "id": 8518949694,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Alp-Schauk\u00e4serei",
+    "opening_hours": "Jun-Sep:: 09:30-17:00",
+    "phone": "+41 818426273",
+    "website": "https://www.alp-schaukaeserei.ch"
+  },
+  "id": 8518949694
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4844491,
+      47.3800966
+    ]
+  },
+  "properties": {
+    "id": 9967390745,
+    "amenity": "restaurant",
+    "check_date": "2025-07-03",
+    "check_date:diet:vegetarian": "2025-07-03",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Farfalla",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.stadt-zuerich.ch/gesundheitszentren/de/quartier/restaurants/farfalla.html"
+  },
+  "id": 9967390745
+}

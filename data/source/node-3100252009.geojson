@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9583926,
+      46.223033
+    ]
+  },
+  "properties": {
+    "id": 3100252009,
+    "addr:city": "Les Giettes",
+    "addr:housenumber": "100",
+    "addr:postcode": "1871",
+    "addr:street": "Route des Cerniers",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant les Cerniers",
+    "opening_hours": "Mo-Su 10:30-14:30,18:00-22:00",
+    "website": "https://lescerniers.ch/"
+  },
+  "id": 3100252009
+}

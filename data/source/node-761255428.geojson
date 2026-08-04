@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.442554,
+      46.9499881
+    ]
+  },
+  "properties": {
+    "id": 761255428,
+    "alt_name": "Araber",
+    "amenity": "restaurant",
+    "contact:addr": "Aarbergergasse 40, 3011 Bern",
+    "contact:email": "aarbergerhof@bluewin.ch",
+    "contact:phone": "+41 31 3110870",
+    "cuisine": "international",
+    "name": "Aarbergerhof",
+    "opening_hours": "Mo-Th 08:00-23:30; Fr-Sa 08:00-00:30; Su 10:00-23:30",
+    "operator": "Caf\u00e9 Aarbergerhof, Bernoulli & Schaad (Kollektivgesellschaft)",
+    "smoking": "outside",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://www.aarbergerhof.ch",
+    "wheelchair": "yes"
+  },
+  "id": 761255428
+}

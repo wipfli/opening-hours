@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5116542,
+      47.3933799
+    ]
+  },
+  "properties": {
+    "id": 5590507839,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "161",
+    "addr:postcode": "8005",
+    "addr:street": "Hardturmstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-06",
+    "cuisine": "chinese",
+    "email": "hardturmstrasse@peking-garden.ch",
+    "name": "Peking Garden",
+    "opening_hours": "Mo-Tu 11:00-15:00; We-Sa 11:00-23:00; Su 16:00-23:00; PH off",
+    "phone": "+41 44 888 55 88",
+    "takeaway": "yes",
+    "website": "https://www.peking-garden.ch/zh-hardturm/",
+    "wheelchair": "no"
+  },
+  "id": 5590507839
+}

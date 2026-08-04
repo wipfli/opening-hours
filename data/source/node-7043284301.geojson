@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9085615,
+      47.2604377
+    ]
+  },
+  "properties": {
+    "id": 7043284301,
+    "addr:city": "Brittnau",
+    "addr:country": "CH",
+    "addr:housenumber": "399",
+    "addr:place": "Fennern",
+    "addr:postcode": "4805",
+    "amenity": "restaurant",
+    "name": "Restaurant Fennern",
+    "opening_hours": "Mo,Tu off; We,Th 16:00-22:00; Fr,Sa 10:00-22:00; Su 09:00-21:00",
+    "phone": "+41 62 557 60 00",
+    "website": "https://www.gasthof-zur-fennern.ch"
+  },
+  "id": 7043284301
+}

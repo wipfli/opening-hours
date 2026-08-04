@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6392532,
+      47.6957247
+    ]
+  },
+  "properties": {
+    "id": 1717939891,
+    "amenity": "restaurant",
+    "name": "Sch\u00e4fli",
+    "opening_hours": "Tu-Sa 11:00-14:30,17:00-22:30, Su-Mo off",
+    "website": "https://www.gastro-tipp.ch/tipps_profile_detail.php?profileIDX=2387"
+  },
+  "id": 1717939891
+}

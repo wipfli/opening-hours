@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5890491,
+      47.5551019
+    ]
+  },
+  "properties": {
+    "id": 9914824152,
+    "addr:city": "Basel",
+    "addr:housenumber": "87",
+    "addr:postcode": "4051",
+    "addr:street": "Gerbergasse",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "cuisine": "lebanese",
+    "description": "Oriental Soul Food",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "no",
+    "name": "ZaZaa",
+    "opening_hours": "Tu-Sa 11:30-20:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 501 85 44",
+    "smoking": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://zazaa.ch/"
+  },
+  "id": 9914824152
+}

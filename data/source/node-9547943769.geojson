@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7828167,
+      47.2024249
+    ]
+  },
+  "properties": {
+    "id": 9547943769,
+    "amenity": "restaurant",
+    "name": "Piazza",
+    "opening_hours": "Mo 06:30-23:00; Tu-Fr 06:00-23:00; Sa-Su 07:00-23:00",
+    "website": "https://www.hotelmeilenstein.ch/kulinarik/piazza"
+  },
+  "id": 9547943769
+}

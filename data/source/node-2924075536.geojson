@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4728269,
+      47.3403525
+    ]
+  },
+  "properties": {
+    "id": 2924075536,
+    "addr:city": "Wettswil am Albis",
+    "addr:housenumber": "2",
+    "addr:postcode": "8907",
+    "addr:street": "Hus\u00e4cherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Pizzeria Grazie",
+    "opening_hours": "Mo-Fr 10:00-14:00, 17:00-23:00; Sa 17:00-23:30; Su off",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 700 10 90",
+    "website": "https://www.pizzeria-grazie.ch/"
+  },
+  "id": 2924075536
+}

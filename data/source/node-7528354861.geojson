@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4259428,
+      46.8713894
+    ]
+  },
+  "properties": {
+    "id": 7528354861,
+    "addr:city": "Tschlin",
+    "addr:housenumber": "51",
+    "addr:postcode": "7559",
+    "addr:street": "Somvi",
+    "amenity": "restaurant",
+    "email": "info@girun.ch",
+    "name": "Alpenbrauerei Girun",
+    "opening_hours": "Tu-Th 13:30-17:30,Fr 15:00-23:00",
+    "phone": "+41 81 860 19 19",
+    "product": "beer",
+    "website": "https://www.girun.ch"
+  },
+  "id": 7528354861
+}

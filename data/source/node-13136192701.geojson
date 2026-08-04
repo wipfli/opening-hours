@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4805457,
+      47.4054601
+    ]
+  },
+  "properties": {
+    "id": 13136192701,
+    "addr:housenumber": "400",
+    "addr:postcode": "8049",
+    "addr:street": "Limmattalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;steak_house",
+    "email": "info@ilpantheon.ch",
+    "name": "Il Pantheon",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-23:00; Sa 17:00-23:00",
+    "website": "https://ilpantheon.ch/",
+    "website:menu": "https://ilpantheon.ch/uploads/menus/pdfs/menu-pdf-20260323115126-xppeufl4.pdf"
+  },
+  "id": 13136192701
+}

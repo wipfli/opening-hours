@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.492486,
+      46.5115333
+    ]
+  },
+  "properties": {
+    "id": 1695185680,
+    "addr:city": "Morges",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1110",
+    "addr:street": "Avenue du Moulin",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Le Moulin",
+    "opening_hours": "Mo-Sa 08:00-15:00,17:00-24:00, Su 08:00-15:00,17:00-23:00",
+    "phone": "+41 21 801 85 75",
+    "website": "https://www.restaurant-pizzeria-italien-le-moulin.ch"
+  },
+  "id": 1695185680
+}

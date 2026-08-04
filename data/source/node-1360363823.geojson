@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5379211,
+      47.2069204
+    ]
+  },
+  "properties": {
+    "id": 1360363823,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "12",
+    "addr:postcode": "4500",
+    "addr:street": "Theatergasse",
+    "amenity": "restaurant",
+    "branch": "Solothurn",
+    "check_date": "2026-05-10",
+    "check_date:opening_hours": "2026-05-10",
+    "cuisine": "palestinian",
+    "diet:vegan": "yes",
+    "level": "0",
+    "name": "Pittaria",
+    "opening_hours": "Mo-Fr 11:00-15:00, 17:00-22:30; Sa 11:30-22:30",
+    "operator": "Zuzana und Tarek Meri",
+    "phone": "+41 32 621 22 69",
+    "website": "https://pittaria.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1360363823
+}

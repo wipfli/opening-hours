@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5762887,
+      47.540103
+    ]
+  },
+  "properties": {
+    "id": 11263972632,
+    "addr:city": "Binningen",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "4102",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;regional",
+    "full_name": "Schiff Binningen",
+    "internet_access": "wlan",
+    "name": "Schiff",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00;Sa 16:00-23:00;Su 11:00-22:30",
+    "phone": "+41614214712",
+    "website": "https://schiffbinningen.ch/restaurant/"
+  },
+  "id": 11263972632
+}

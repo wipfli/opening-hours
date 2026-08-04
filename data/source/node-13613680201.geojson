@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6349499,
+      46.5561539
+    ]
+  },
+  "properties": {
+    "id": 13613680201,
+    "addr:housenumber": "14",
+    "addr:postcode": "1052",
+    "addr:street": "Route de Lausanne",
+    "amenity": "restaurant",
+    "email": "montbistro@gmail.com",
+    "name": "Mont Bistro",
+    "opening_hours": "Tu-Su 11:00-14:00, 17:30-22:30; Mo 11:00-14:00",
+    "phone": "+41 78 262 63 55",
+    "website": "https://montbistro.ch/",
+    "website:menu": "https://montbistro.ch/menu"
+  },
+  "id": 13613680201
+}

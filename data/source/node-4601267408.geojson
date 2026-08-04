@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5916791,
+      47.5602748
+    ]
+  },
+  "properties": {
+    "id": 4601267408,
+    "addr:city": "Basel",
+    "addr:housenumber": "10",
+    "addr:postcode": "4058",
+    "addr:street": "Rheingasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Zum Schmale Wurf",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "outdoor_seating": "sidewalk",
+    "phone": "+41 61 683 33 25",
+    "smoking": "outside",
+    "website": "https://schmalewurf.ch/"
+  },
+  "id": 4601267408
+}

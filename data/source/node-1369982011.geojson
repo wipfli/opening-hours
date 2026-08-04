@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1440523,
+      47.1491932
+    ]
+  },
+  "properties": {
+    "id": 1369982011,
+    "addr:city": "Amden",
+    "addr:housename": "Sonne",
+    "addr:housenumber": "36",
+    "addr:postcode": "8873",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;european",
+    "email": "info@sonne-amden.ch",
+    "name": "Sonne",
+    "opening_hours": "Tu-Sa 09:00-23:00; Su 09:00-21:00",
+    "phone": "+41 55 611 17 17",
+    "website": "https://www.sonne-amden.ch/"
+  },
+  "id": 1369982011
+}

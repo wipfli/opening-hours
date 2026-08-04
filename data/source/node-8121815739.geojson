@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3560215,
+      46.9678333
+    ]
+  },
+  "properties": {
+    "id": 8121815739,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Swisstasty",
+    "opening_hours": "Mo-Fr 11:00-13:30,17:30-22:00; Sa,Su 11:00-15:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.swisstasty.ch/"
+  },
+  "id": 8121815739
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9531497,
+      47.1744387
+    ]
+  },
+  "properties": {
+    "id": 11869662990,
+    "addr:housenumber": "7",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "mobile": "+41 79 222 81 62",
+    "name": "Alti Glasi 1936",
+    "opening_hours": "We 09:00-14:00; Th-Fr 17:00-21:00; PH off",
+    "payment:cash": "yes",
+    "website": "https://www.altiglasi1936.ch/"
+  },
+  "id": 11869662990
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8918943,
+      47.559121
+    ]
+  },
+  "properties": {
+    "id": 12229714344,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Zur alten Trotte",
+    "opening_hours": "Mo,We-Th 10:00-22:30; Fr 10:00-23:30; Sa 11:30-23:00; Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "website": "https://trottefrauenfeld.ch/"
+  },
+  "id": 12229714344
+}

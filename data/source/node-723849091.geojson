@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4137529,
+      46.9479929
+    ]
+  },
+  "properties": {
+    "id": 723849091,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "22",
+    "addr:postcode": "3008",
+    "addr:street": "Bahnstrasse",
+    "alt_name": "SBB Bistro Weyermannshaus",
+    "amenity": "restaurant",
+    "check_date": "2025-01-17",
+    "contact:email": "weyermannshaus@sv-group.ch",
+    "contact:fax": "+41 31 3816382",
+    "contact:phone": "+41 31 3816382",
+    "diet:vegetarian": "yes",
+    "name": "Weyermannshaus",
+    "opening_hours": "Mo-Fr 11:15-13:30 open \"Mittagsservice\" || Mo-Fr 06:30-15:00; Sa-Su off",
+    "operator": "SV (Schweiz) AG",
+    "source": "survey and website",
+    "website": "https://zfv.ch/de/microsites/sbb-restaurant-weyermannshaus/ueber-uns"
+  },
+  "id": 723849091
+}

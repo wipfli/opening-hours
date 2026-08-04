@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6156123,
+      47.0397396
+    ]
+  },
+  "properties": {
+    "id": 278824654,
+    "addr:city": "Oberburg",
+    "addr:housenumber": "1",
+    "addr:place": "Roth\u00f6he",
+    "addr:postcode": "3414",
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "name": "Roth\u00f6he",
+    "opening_hours": "We-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 411 48 48",
+    "website": "https://www.rothoehe.com/"
+  },
+  "id": 278824654
+}

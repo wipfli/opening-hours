@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3944859,
+      46.8107067
+    ]
+  },
+  "properties": {
+    "id": 3705064296,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bongert",
+    "opening_hours": "Tu-Su 09:00-22:00; We off",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 641 12 44",
+    "website": "https://www.shibu-gr.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3705064296
+}

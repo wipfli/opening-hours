@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5384389,
+      47.3689525
+    ]
+  },
   "properties": {
-    "@id": "node/648918654",
+    "id": 648918654,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "1a",
@@ -18,12 +25,5 @@
     "website": "https://www.restaurant-coco.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5384389,
-      47.3689525
-    ]
-  },
-  "id": "node-648918654"
+  "id": 648918654
 }

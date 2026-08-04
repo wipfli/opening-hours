@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6106768,
+      47.6833303
+    ]
+  },
+  "properties": {
+    "id": 13827694201,
+    "addr:housenumber": "14",
+    "addr:postcode": "8212",
+    "addr:street": "Zollstrasse",
+    "amenity": "restaurant",
+    "cuisine": "balkan;burger;greek;grill",
+    "internet_access": "wlan",
+    "name": "Rhyfall Grill",
+    "opening_hours": "Tu-Fr 09:00-22:00; Sa-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 77 262 51 06",
+    "website": "https://www.rhyfallgrill.ch/"
+  },
+  "id": 13827694201
+}

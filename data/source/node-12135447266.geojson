@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8737109,
+      46.29812
+    ]
+  },
+  "properties": {
+    "id": 12135447266,
+    "amenity": "restaurant",
+    "noname": "yes",
+    "opening_hours": "Apr 26-Sep 29: 09:00-21:00; Jul 1-Aug 11: 09:00-21:30; ",
+    "operator": "Camping & Schwimmbad M\u00fchleye",
+    "website": "https://camping-visp.ch/en/restaurant",
+    "website:menu": "https://camping-visp.ch/wp-content/uploads/2024/06/menukarte_en.pdf"
+  },
+  "id": 12135447266
+}

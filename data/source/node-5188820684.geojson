@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5979893,
+      47.2596526
+    ]
+  },
+  "properties": {
+    "id": 5188820684,
+    "addr:city": "Horgen",
+    "addr:housenumber": "12",
+    "addr:postcode": "8810",
+    "addr:street": "Zugerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Fontana Uno",
+    "opening_hours": "Mo-Sa 10:00-14:00, 17:00-23:00",
+    "phone": "+41 44 725 83 80",
+    "website": "https://www.lafontanauno.ch/"
+  },
+  "id": 5188820684
+}

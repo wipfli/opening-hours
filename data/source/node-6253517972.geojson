@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7252399,
+      47.1680386
+    ]
+  },
+  "properties": {
+    "id": 6253517972,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Moonshine",
+    "opening_hours": "Mo-Fr 08:00-24:00; Sa 18:00-24:00",
+    "website": "https://www.moonshine-stuebli.ch/"
+  },
+  "id": 6253517972
+}

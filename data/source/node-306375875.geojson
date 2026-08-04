@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8936483,
+      47.5611904
+    ]
+  },
+  "properties": {
+    "id": 306375875,
+    "addr:housenumber": "23",
+    "addr:postcode": "8500",
+    "addr:street": "Industriestrasse",
+    "amenity": "restaurant",
+    "email": "beiz@eisenwerk.ch",
+    "internet_access": "wlan",
+    "name": "Eisenbeiz",
+    "opening_hours": "Mo-Th 09:00-14:00, 17:00-23:00; Fr 09:00-14:00, 16:00-23:00; Sa 17:00-23:55",
+    "phone": "+41 52 728 89 89",
+    "website": "https://www.eisenwerk.ch/beiz/",
+    "wheelchair": "limited"
+  },
+  "id": 306375875
+}

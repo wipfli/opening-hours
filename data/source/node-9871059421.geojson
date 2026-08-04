@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2903604,
+      47.548588
+    ]
+  },
+  "properties": {
+    "id": 9871059421,
+    "addr:city": "Unterendingen",
+    "addr:housenumber": "33",
+    "addr:postcode": "5305",
+    "addr:street": "Alte Surbtalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "De Finibus Terrae",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:33-24:00; Sa 17:30-24:00; Su 10:00-22:00",
+    "phone": "+41 56 558 63 15",
+    "website": "https://www.definibusterrae.ch/"
+  },
+  "id": 9871059421
+}

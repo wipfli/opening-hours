@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8312241,
+      47.1036375
+    ]
+  },
+  "properties": {
+    "id": 12438419171,
+    "addr:housenumber": "6",
+    "addr:street": "Rue Neuve",
+    "amenity": "restaurant",
+    "name": "Cr\u00eaperie les 3 lanternes",
+    "opening_hours": "Tu-Sa 11:30-14:00, 17:30-22:00; Su 11:30-21:00",
+    "website": "https://www.crperieles3lanternes.ch"
+  },
+  "id": 12438419171
+}

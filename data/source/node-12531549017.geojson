@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9090735,
+      47.5516809
+    ]
+  },
+  "properties": {
+    "id": 12531549017,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bistro Brotegg",
+    "opening_hours": "Tu-Sa 11:00-14:30,17:30-22:00",
+    "opening_hours:kitchen": "Tu-Sa 11:30-14:00, 17:30-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.bistrobrotegg.ch/"
+  },
+  "id": 12531549017
+}

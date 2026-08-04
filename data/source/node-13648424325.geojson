@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9052054,
+      46.2977033
+    ]
+  },
+  "properties": {
+    "id": 13648424325,
+    "amenity": "restaurant",
+    "bar": "no",
+    "delivery": "no",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "Freshfood Station",
+    "opening_hours": "24/7",
+    "website": "https://www.freshfood-station.ch/",
+    "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:FreshCube,_Lalden,_Switzerland.jpg"
+  },
+  "id": 13648424325
+}

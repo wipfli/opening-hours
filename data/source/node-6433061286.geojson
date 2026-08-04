@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5406645,
+      46.7115301
+    ]
+  },
+  "properties": {
+    "id": 6433061286,
+    "addr:housenumber": "85",
+    "addr:postcode": "7078",
+    "addr:street": "Voa Sporz",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "hotel@guardaval.ch",
+    "internet_access": "wlan",
+    "name": "Guarda Val",
+    "opening_hours": "We-Su 18:30-21:30",
+    "phone": "+41813858585",
+    "website": "https://www.guardaval.ch/en/restaurants/guarda-val.html",
+    "wikidata": "Q90283834"
+  },
+  "id": 6433061286
+}

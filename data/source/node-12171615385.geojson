@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2575071,
+      47.1446845
+    ]
+  },
+  "properties": {
+    "id": 12171615385,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "37",
+    "addr:postcode": "2502",
+    "addr:street": "Rue de la Gurzelen / Gurzelenstrasse",
+    "amenity": "restaurant",
+    "branch": "Biel/Bienne",
+    "brand": "SOSUSHI",
+    "check_date": "2026-06-06",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "email": "bienne@sosushi.ch",
+    "name": "SOSUSHI",
+    "opening_hours": "11:30-13:30,17:30-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 32 341 21 21",
+    "takeaway": "yes",
+    "website": "https://www.sosushi.ch"
+  },
+  "id": 12171615385
+}

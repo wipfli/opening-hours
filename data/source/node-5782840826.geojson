@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1383922,
+      46.1909789
+    ]
+  },
+  "properties": {
+    "id": 5782840826,
+    "amenity": "restaurant",
+    "cuisine": "grill",
+    "name": "Olympico",
+    "opening_hours": "Tu-Sa 09:00-15:00,17:30-24:00; Su 09:00-15:00",
+    "opening_hours:kitchen": "Tu-Sa 12:00-14:00,19:00-22:00; Su 12:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 343 57 00",
+    "website": "https://www.olympico-churrascaria.ch/"
+  },
+  "id": 5782840826
+}

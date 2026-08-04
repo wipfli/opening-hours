@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0140738,
+      46.2500285
+    ]
+  },
+  "properties": {
+    "id": 9628876021,
+    "amenity": "restaurant",
+    "contact:facebook": "https://fr-fr.facebook.com/grotto04.ch/",
+    "cuisine": "italian;pasta;pizza",
+    "email": "grotto04-reservations@hotmail.com",
+    "level": "0",
+    "name": "Grotto 04",
+    "opening_hours": "Mo,We,Th 08:45-23:00; Fr 08:45-24:00; Sa 09:00-24:00; Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 463 33 34",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.grotto04-restaurant-bex.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9628876021
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.95182,
+      46.008592
+    ]
+  },
+  "properties": {
+    "id": 1181813203,
+    "addr:city": "Lugano",
+    "addr:housenumber": "2",
+    "addr:postcode": "6900",
+    "addr:street": "Via Dufour",
+    "amenity": "restaurant",
+    "check_date": "2026-07-19",
+    "check_date:currency:XBT": "2026-07-19",
+    "check_date:opening_hours": "2026-07-19",
+    "contact:facebook": "CavejaLugano",
+    "contact:instagram": "piadineria_lacaveja_lugano",
+    "contact:whatsapp": "+41 78 839 39 80",
+    "cuisine": "piadina",
+    "currency:XBT": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "lacavejalugano@bluewin.ch",
+    "food": "piadina",
+    "name": "La Caveja Piadineria",
+    "opening_hours": "Mo-We 10:30-18:30; Th-Fr 10:30-22:00; Sa 11:15-15:45",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+41 78 839 3980",
+    "website": "https://www.lacaveja-lugano.ch/"
+  },
+  "id": 1181813203
+}

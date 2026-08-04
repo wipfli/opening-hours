@@ -1,13 +1,20 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5167916,
+      47.3745738
+    ]
+  },
   "properties": {
-    "@id": "node/2080866145",
+    "id": 2080866145,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "45",
     "addr:postcode": "8003",
     "addr:street": "Sihlfeldstrasse",
     "amenity": "restaurant",
-    "check_date": "2024-03-09",
+    "check_date": "2026-03-29",
     "cuisine": "indian",
     "name": "Sher-E-Punjab",
     "opening_hours": "Mo-Sa 10:00-22:00",
@@ -17,12 +24,5 @@
     "website": "http://www.punjab.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5167916,
-      47.3745738
-    ]
-  },
-  "id": "node-2080866145"
+  "id": 2080866145
 }

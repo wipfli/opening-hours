@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5501478,
+      47.3604176
+    ]
+  },
   "properties": {
-    "@id": "node/4958366046",
+    "id": 4958366046,
     "amenity": "restaurant",
     "cuisine": "italian",
     "name": "Capri",
@@ -12,12 +19,5 @@
     "website": "https://capri.restaurant/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5501478,
-      47.3604176
-    ]
-  },
-  "id": "node-4958366046"
+  "id": 4958366046
 }

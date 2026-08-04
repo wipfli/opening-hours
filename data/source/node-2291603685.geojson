@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0701076,
+      46.9506026
+    ]
+  },
+  "properties": {
+    "id": 2291603685,
+    "addr:city": "Lugnorre",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1789",
+    "addr:street": "Route de Chenaux",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Auberge des Clefs",
+    "opening_hours": "Mo,Tu 08:30-23:30; Fr,Sa 08:30-00:00; Su,PH 08:30-17:00",
+    "opening_hours:kitchen": "Mo,Tu,Fr,Sa 12:00-13:45,18:30-21:30; Su,PH 12:00-16:00",
+    "operator": "Therese R\u00e4tz, Werner R\u00e4tz",
+    "outdoor_seating": "yes",
+    "phone": "+41 266 733 106",
+    "reservation": "recommended",
+    "website": "https://www.aubergedesclefs.ch/"
+  },
+  "id": 2291603685
+}

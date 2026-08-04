@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.524534,
+      47.3750304
+    ]
+  },
   "properties": {
-    "@id": "node/808458794",
+    "id": 808458794,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "13",
@@ -19,12 +26,5 @@
     "website": "https://www.peking-garden.ch/zh-langstrasse",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.524534,
-      47.3750304
-    ]
-  },
-  "id": "node-808458794"
+  "id": 808458794
 }

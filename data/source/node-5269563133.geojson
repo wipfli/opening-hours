@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5443658,
+      47.4115465
+    ]
+  },
+  "properties": {
+    "id": 5269563133,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "369",
+    "addr:postcode": "8050",
+    "addr:street": "Hofwiesenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-29",
+    "cuisine": "american;burger;steak_house",
+    "email": "oerlikon@starsandstripes.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Stars and Stripes",
+    "note": "\u00d6ffnungszeiten (m\u00fcndlich, Aushang, Webseite, SBB-Bahnhofseite) sind wiederspr\u00fcchlich. Daher Vorrang POI-Webseite.",
+    "opening_hours": "Mo-Sa 09:00-21:30+; Su 09:30-21:30+",
+    "operator": "Candrian Catering",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 575 75 00",
+    "website": "https://www.starsandstripes.ch/de/p/standorte/oerlikon-1115.html"
+  },
+  "id": 5269563133
+}

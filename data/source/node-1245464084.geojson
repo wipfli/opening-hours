@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3757594,
+      47.4228805
+    ]
+  },
+  "properties": {
+    "id": 1245464084,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "24",
+    "addr:postcode": "9000",
+    "addr:street": "Gallusstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Restaurant am Gallusplatz",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:00-22:00+",
+    "outdoor_seating": "yes",
+    "website": "http://amgallusplatz-sg.ch",
+    "wheelchair": "no"
+  },
+  "id": 1245464084
+}

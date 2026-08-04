@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5469906,
+      47.4109387
+    ]
+  },
+  "properties": {
+    "id": 310139088,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "117",
+    "addr:postcode": "8050",
+    "addr:street": "D\u00f6rflistrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-30",
+    "check_date:opening_hours": "2025-09-30",
+    "cuisine": "italian",
+    "email": "info@bellucci.ch",
+    "name": "Bellucci",
+    "old_name": "Pizza Blitz;Telepizza",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-23:30; Fr-Sa 17:00-23:30; Su off",
+    "phone": "+41 43 300 60 33",
+    "website": "https://bellucci.ch/"
+  },
+  "id": 310139088
+}

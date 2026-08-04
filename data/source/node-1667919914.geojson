@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9151919,
+      47.4602767
+    ]
+  },
+  "properties": {
+    "id": 1667919914,
+    "addr:city": "Rothenfluh",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "4467",
+    "addr:street": "R\u00f6ssligasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "name": "R\u00f6ssli-Historika",
+    "opening_hours": "Su 10:00-21:00; Tu 17:00-23:00; We-Fr 09:00-14:00, 17:00-23:00; Sa 10:00-23:00",
+    "phone": "+41 79 677 54 14",
+    "website": "https://www.roessli-historika.ch"
+  },
+  "id": 1667919914
+}

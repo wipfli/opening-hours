@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2225636,
+      46.389579
+    ]
+  },
+  "properties": {
+    "id": 5282331804,
+    "addr:city": "Nyon",
+    "addr:housenumber": "39",
+    "addr:postcode": "1260",
+    "addr:street": "Route de Signy",
+    "amenity": "restaurant",
+    "cuisine": "burger;brunch",
+    "delivery": "yes",
+    "email": "info@tartinesco.ch",
+    "name": "Tartines & Co",
+    "opening_hours": "Mo-We 08:00-16:00; Th-Su 08:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 361 18 67",
+    "takeaway": "yes",
+    "website": "https://tartinesco.ch/"
+  },
+  "id": 5282331804
+}

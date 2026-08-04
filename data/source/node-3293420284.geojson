@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.973977,
+      45.9049608
+    ]
+  },
+  "properties": {
+    "id": 3293420284,
+    "amenity": "restaurant",
+    "cuisine": "italian;brasserie",
+    "fax": "+41 91 6482393",
+    "name": "Osteria Unione",
+    "opening_hours": "Mo,Th,Fr,Sa,Su 09:00-24:00; Tu 09:00-14:00; We off",
+    "operator": "Daniel Morell",
+    "phone": "+41 91 6482353",
+    "source": "bing, survey",
+    "website": "https://www.osteriaunione.ch/"
+  },
+  "id": 3293420284
+}

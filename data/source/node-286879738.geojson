@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4473524,
+      46.9488891
+    ]
+  },
+  "properties": {
+    "id": 286879738,
+    "alt_name": "Pi\u00f9 Kornhaus",
+    "amenity": "restaurant",
+    "branch": "Bern Kornhaus",
+    "brand": "Pi\u00f9",
+    "check_date": "2025-07-16",
+    "contact:addr": "Kornhausplatz 18, 3011 Bern",
+    "contact:email": "kornhaus@piu-ristorante.ch",
+    "contact:fax": "+41 31 3277271",
+    "contact:phone": "+41 31 3277270",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Pi\u00f9",
+    "opening_hours": "Tu,We,Fr 10:00-19:00; Th 10:00-21:30; Sa 10:00-17:00; Su off",
+    "operator": "Bindella",
+    "start_date": "2020-06-08",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.piu-ristorante.ch/piu-kornhaus",
+    "wheelchair": "yes"
+  },
+  "id": 286879738
+}

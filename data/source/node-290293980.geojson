@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1460915,
+      46.7539231
+    ]
+  },
+  "properties": {
+    "id": 290293980,
+    "addr:housenumber": "16",
+    "addr:street": "Au Village",
+    "amenity": "restaurant",
+    "name": "Auberge du Ch\u00e2teau",
+    "opening_hours": "Th-Sa 09:00-13:30; Su 09:00-14:00",
+    "phone": "+41 26 413 28 34",
+    "website": "https://www.auberge-ependes.ch/"
+  },
+  "id": 290293980
+}

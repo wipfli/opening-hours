@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6354057,
+      47.6983639
+    ]
+  },
+  "properties": {
+    "id": 3395993049,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "38",
+    "addr:postcode": "8200",
+    "addr:street": "Webergasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Neu Sternen",
+    "opening_hours": "Tu-Sa 11:00-14:30, 17:30-23:00",
+    "toilets:wheelchair": "no",
+    "website": "http://neu-sternen.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3395993049
+}

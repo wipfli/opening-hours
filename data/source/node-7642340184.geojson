@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6351517,
+      46.6395645
+    ]
+  },
+  "properties": {
+    "id": 7642340184,
+    "addr:city": "Echallens",
+    "addr:housenumber": "11",
+    "addr:postcode": "1040",
+    "addr:street": "Route de Lausanne",
+    "amenity": "restaurant",
+    "name": "Auberge du Cheval Blanc",
+    "opening_hours": "Mo-Sa 09:00-14:30, 18:30-23:30; Su 09:00-14:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 881 12 96",
+    "website": "https://www.chevalblancechallens.ch"
+  },
+  "id": 7642340184
+}

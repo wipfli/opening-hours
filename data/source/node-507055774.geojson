@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3302197,
+      47.035338
+    ]
+  },
+  "properties": {
+    "id": 507055774,
+    "addr:city": "Luzern",
+    "addr:housenumber": "62",
+    "addr:postcode": "6005",
+    "addr:street": "Matthofring",
+    "amenity": "restaurant",
+    "check_date": "2026-05-19",
+    "cuisine": "vietnamese",
+    "name": "Mai",
+    "opening_hours": "Tu-Fr 11:30-14:30,17:30-22:30; PH,Sa,Su 11:30-14:30,17:30-22:30",
+    "website": "https://asien-restaurant-mai.ch/"
+  },
+  "id": 507055774
+}

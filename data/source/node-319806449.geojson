@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4330118,
+      47.1467712
+    ]
+  },
+  "properties": {
+    "id": 319806449,
+    "addr:city": "Rotkreuz",
+    "addr:housenumber": "47",
+    "addr:postcode": "6343",
+    "addr:street": "Birkenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian;swiss",
+    "diet:vegetarian": "yes",
+    "email": "info@esscube.ch",
+    "level": "0",
+    "lunch": "Mo-Fr 11:00-14:00",
+    "name": "BussinEss Cube",
+    "opening_hours": "Mo-Fr 07:30-14:00; Dec 25-31 off",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 790 88 77",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.esscube.ch/"
+  },
+  "id": 319806449
+}

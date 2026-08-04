@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7015797,
+      46.719651
+    ]
+  },
+  "properties": {
+    "id": 2174067640,
+    "addr:city": "Tschingel",
+    "addr:housename": "Hotel-Rest. Panorama",
+    "addr:postcode": "3656",
+    "addr:street": "Aeschlenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese;regional",
+    "name": "Panorama",
+    "note": "Asiatische + Regionalk\u00fcche / Aussicht auf See und Niesen",
+    "opening_hours": "Tu-Sa 08:30-23:00; Su,PH 08:30-22:00",
+    "operator": "Panorama-Tsang GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41332513131",
+    "website": "https://www.panora.ch/"
+  },
+  "id": 2174067640
+}

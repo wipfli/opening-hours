@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0982421,
+      46.1828331
+    ]
+  },
+  "properties": {
+    "id": 7594768030,
+    "addr:city": "Onex",
+    "addr:housenumber": "4",
+    "addr:postcode": "1213",
+    "addr:street": "Chemin de l'Auberge",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Courte Paille",
+    "opening_hours": "Mo-Fr 07:30-14:00,17:30-00:00; Sa 17:30-00:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41227927155",
+    "website": "https://www.lacourtepaille.ch",
+    "wheelchair": "yes"
+  },
+  "id": 7594768030
+}

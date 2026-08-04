@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3846725,
+      46.1809329
+    ]
+  },
+  "properties": {
+    "id": 2138309867,
+    "addr:city": "Les Collons",
+    "addr:housenumber": "34",
+    "addr:postcode": "1988",
+    "addr:street": "Rue de la Mura",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;pasta",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "La Luge",
+    "opening_hours": "Mo-Su 10:30-24:00",
+    "phone": "+41 27 281 17 98",
+    "smoking": "no",
+    "website": "https://laluge.ch/",
+    "website:menu": "https://laluge.ch/m_menuluge#6"
+  },
+  "id": 2138309867
+}

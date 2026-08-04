@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3059188,
+      47.4778444
+    ]
+  },
+  "properties": {
+    "id": 13914659410,
+    "addr:city": "Baden",
+    "addr:housenumber": "19",
+    "addr:postcode": "5400",
+    "addr:street": "Haselstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "SAMT Asia Kitchen",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-21:00; Sa 15:00-21:30",
+    "website": "https://www.samt-asiakitchen.ch/"
+  },
+  "id": 13914659410
+}

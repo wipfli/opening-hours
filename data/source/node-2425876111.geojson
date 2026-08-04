@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9985639,
+      47.4938005
+    ]
+  },
+  "properties": {
+    "id": 2425876111,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@gashaus-roessli.ch",
+    "fax": "+41 62 871 81 59",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Tu-Sa 08:00-24:00; Su 09:00-22:00",
+    "operator": "H\u00fcrzeler Robert",
+    "phone": "+41 62 871 13 01",
+    "website": "https://www.gasthaus-roessli.ch/"
+  },
+  "id": 2425876111
+}

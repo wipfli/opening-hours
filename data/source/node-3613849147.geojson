@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8158086,
+      47.4273038
+    ]
+  },
+  "properties": {
+    "id": 3613849147,
+    "amenity": "restaurant",
+    "email": "frohsinn.wildberg@bluewin.ch",
+    "name": "Frohsinn",
+    "opening_hours": "Tu-Fr 08:30-13:30,17:00-24:00; Sa 09:00-24:00",
+    "phone": "+41 52 385 13 78",
+    "website": "http://www.frohsinn-wildberg.ch/"
+  },
+  "id": 3613849147
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5418896,
+      46.777488
+    ]
+  },
+  "properties": {
+    "id": 5032995955,
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "level": "1",
+    "name": "Portal \u2013 Das Restaurant",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 356 2039",
+    "website": "https://www.pradaschier.ch/restaurant-portal/"
+  },
+  "id": 5032995955
+}

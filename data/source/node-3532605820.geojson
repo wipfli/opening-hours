@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3859289,
+      46.9430208
+    ]
+  },
+  "properties": {
+    "id": 3532605820,
+    "access": "private",
+    "addr:floor": "0",
+    "alt_name": "Restaurant daylis Kantonale Steuerverwaltung Bern",
+    "amenity": "restaurant",
+    "contact:addr": "Br\u00fcnnenstrasse 66, 3018 Bern",
+    "contact:phone": "+41 31 9942825",
+    "name": "daylis",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa-Su off; PH off",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://steuerverwaltung.sv-group.ch"
+  },
+  "id": 3532605820
+}

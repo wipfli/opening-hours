@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8532248,
+      46.8136273
+    ]
+  },
+  "properties": {
+    "id": 9455282215,
+    "addr:city": "Davos Dorf",
+    "addr:housenumber": "9",
+    "addr:postcode": "7260",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "japanese;peruvian",
+    "name": "La Mu\u00f1a",
+    "opening_hours": "Tu-Sa 18:00-23:30",
+    "phone": "+41 81 414 04 00",
+    "website": "https://alpengoldhotel.com/restaurant_bar/la-muna/"
+  },
+  "id": 9455282215
+}

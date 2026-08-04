@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5873265,
+      47.5570165
+    ]
+  },
+  "properties": {
+    "id": 6015038275,
+    "addr:city": "Basel",
+    "addr:housenumber": "16",
+    "addr:postcode": "4001",
+    "addr:street": "Gerbergasse",
+    "amenity": "restaurant",
+    "capacity": "15",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Green Bento",
+    "opening_hours": "Mo-Fr 11:30-14:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+41 78 865 20 90",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.greenbento.ch/"
+  },
+  "id": 6015038275
+}

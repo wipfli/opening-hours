@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6549426,
+      47.0209994
+    ]
+  },
+  "properties": {
+    "id": 9303710083,
+    "addr:city": "Schwyz",
+    "addr:housenumber": "12",
+    "addr:postcode": "6430",
+    "addr:street": "Reichsstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant MythenForum",
+    "opening_hours": "Mo-Sa 01:00-14:00, 17:00-23:00",
+    "phone": "+41 41 818 60 50",
+    "website": "https://mythenforum.ch/restaurant-mythenforum/"
+  },
+  "id": 9303710083
+}

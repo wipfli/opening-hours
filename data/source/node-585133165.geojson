@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.588516,
+      47.5759055
+    ]
+  },
+  "properties": {
+    "id": 585133165,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "241",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/lauchbasel/",
+    "contact:instagram": "https://www.instagram.com/lauch_basel/",
+    "cuisine": "local",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "info@lauch-basel.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Lauch",
+    "opening_hours": "We-Fr 12:00-14:00,18:00-24:00; Sa-Su 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 692 56 56",
+    "website": "https://lauch-basel.ch/"
+  },
+  "id": 585133165
+}

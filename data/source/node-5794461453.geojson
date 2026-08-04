@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6199848,
+      47.4871654
+    ]
+  },
+  "properties": {
+    "id": 5794461453,
+    "addr:housenumber": "7",
+    "addr:postcode": "8425",
+    "addr:street": "M\u00fchlestrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;local",
+    "email": "restaurant.muehle@gmx.ch",
+    "name": "Restaurant zur M\u00fchle",
+    "opening_hours": "Tu-Fr 09:00-23:59; Sa 16:00-23:59",
+    "operator": "Fam. Thomas Brunner",
+    "phone": "+41 44 865 20 26",
+    "website": "https://www.muehle-oberembrach.ch/"
+  },
+  "id": 5794461453
+}

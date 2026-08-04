@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7491379,
+      46.0208132
+    ]
+  },
+  "properties": {
+    "id": 5475862551,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "23",
+    "addr:postcode": "3920",
+    "addr:street": "Hofmattstrasse",
+    "amenity": "restaurant",
+    "name": "Le Mazot",
+    "opening_hours": "Tu-Sa 16:00-22:30",
+    "website": "https://www.mazot-zermatt.ch/"
+  },
+  "id": 5475862551
+}

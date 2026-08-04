@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2750032,
+      47.043969
+    ]
+  },
+  "properties": {
+    "id": 6363339270,
+    "amenity": "restaurant",
+    "contact:addr": "Stadtplatz 60, 3270 Aarberg",
+    "contact:phone": "+41 32 3921145",
+    "name": "Zur Br\u00fccke",
+    "opening_hours": "Mo-Fr 10:00-14:30,17:00-24:00",
+    "website": "https://derfliegendekoch.ch/zur-brucke/"
+  },
+  "id": 6363339270
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5891796,
+      47.5447591
+    ]
+  },
+  "properties": {
+    "id": 5130267821,
+    "addr:city": "Basel",
+    "addr:housenumber": "138",
+    "addr:postcode": "4053",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-22",
+    "check_date:opening_hours": "2026-03-22",
+    "cuisine": "pizza",
+    "email": "gundeli@vito.ch",
+    "name": "VITO",
+    "opening_hours": "Mo-We 11:00-22:00; Th 11:00-22:30; Fr 11:00-23:30; Sa 12:00-23:30; Su 12:00-22:00",
+    "phone": "+41 79 646 22 11",
+    "website": "https://www.vito.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5130267821
+}

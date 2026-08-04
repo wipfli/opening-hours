@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4374072,
+      46.947952
+    ]
+  },
+  "properties": {
+    "id": 3849596261,
+    "amenity": "restaurant",
+    "check_date": "2026-06-03",
+    "check_date:opening_hours": "2026-06-03",
+    "contact:addr": "Schanzenstrasse 4, 3008 Bern",
+    "contact:email": "mail@namamen.ch",
+    "cuisine": "japanese",
+    "name": "Namamen",
+    "opening_hours": "Mo-Fr 11:00-14:30, Mo-Fr 18:00-21:30, Sa 11:00-22:30, Su 12:00-21:30",
+    "outdoor_seating": "no",
+    "phone": "+41 31 311 83 03",
+    "reservation": "no",
+    "takeaway": "yes",
+    "website": "https://www.namamen.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3849596261
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5829597,
+      47.4502486
+    ]
+  },
+  "properties": {
+    "id": 4731439025,
+    "addr:housenumber": "1",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "diet:vegetarian": "yes",
+    "name": "Oishi",
+    "opening_hours": "Tu-Fr 11:30-13:45,17:30-21:15; Sa 17:45-21:15",
+    "website": "https://www.o-i-shi.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4731439025
+}

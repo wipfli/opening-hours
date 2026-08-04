@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.582023,
+      47.3175017
+    ]
+  },
+  "properties": {
+    "id": 5791885791,
+    "amenity": "restaurant",
+    "check_date": "2023-10-08",
+    "cuisine": "regional",
+    "email": "info@falken-kuesnacht.ch",
+    "facebook": "https://www.facebook.com/Restaurant-Falken-1006605609388223/?fref=ts",
+    "name": "Falken",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 910 66 88",
+    "smoking": "outside",
+    "website": "https://www.falken-kuesnacht.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5791885791
+}

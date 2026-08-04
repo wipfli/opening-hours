@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.597781,
+      47.560353
+    ]
+  },
+  "properties": {
+    "id": 3237678599,
+    "addr:city": "Basel",
+    "addr:housenumber": "15",
+    "addr:postcode": "4058",
+    "addr:street": "Hammerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Otto Pizza",
+    "opening_hours": "Tu-Sa 11:30-14:00,18:00-23:00",
+    "operator": "Vagabund AG",
+    "website": "https://ottopizza.ch/"
+  },
+  "id": 3237678599
+}

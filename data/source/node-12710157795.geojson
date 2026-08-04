@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2022461,
+      46.7901722
+    ]
+  },
+  "properties": {
+    "id": 12710157795,
+    "addr:city": "Ladir",
+    "addr:housenumber": "1",
+    "addr:postcode": "7155",
+    "addr:street": "Via Resgia",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Terrassa",
+    "opening_hours": "Th-Sa 11:00-22:00; Su 10:00-18:00",
+    "phone": "+41 81 925 17 51",
+    "website": "https://la-terrassa.ch"
+  },
+  "id": 12710157795
+}

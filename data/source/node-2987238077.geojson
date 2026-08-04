@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4321833,
+      46.9568941
+    ]
+  },
+  "properties": {
+    "id": 2987238077,
+    "alt_name": "Lamoon Thai Restaurant & Take Away",
+    "amenity": "restaurant",
+    "check_date": "2023-01-12",
+    "check_date:opening_hours": "2021-12-08",
+    "cuisine": "thai",
+    "email": "lamoon-thairestaurant@hotmail.com",
+    "name": "Lamoon",
+    "opening_hours": "Tu-Th 11:00-14:00,17:00-21:00; Fr 11:00-14:00,17:00-21:30; Sa 17:00-21:30; Su 17:00-21:00",
+    "phone": "+41 31 543 41 10",
+    "takeaway": "yes",
+    "website": "https://www.lamoonthairestaurant.ch/"
+  },
+  "id": 2987238077
+}

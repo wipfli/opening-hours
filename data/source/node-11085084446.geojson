@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.155017,
+      46.8043311
+    ]
+  },
+  "properties": {
+    "id": 11085084446,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "7",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de l'Abb\u00e9-Bovet",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "diet:non-vegetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "BekaaHouse",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-23:00; Sa 18:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 321 14 51",
+    "takeaway": "yes",
+    "website": "https://www.bekaahouse.ch"
+  },
+  "id": 11085084446
+}

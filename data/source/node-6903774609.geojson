@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1168956,
+      47.3057565
+    ]
+  },
+  "properties": {
+    "id": 6903774609,
+    "addr:city": "Oberkulm",
+    "addr:housenumber": "6",
+    "addr:postcode": "5727",
+    "addr:street": "Kreuzb\u00fcndtenstrasse",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Kafi B\u00fcndten",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su 10:00-17:00",
+    "smoking": "isolated",
+    "website": "https://www.az-oberkulm.ch/kafi-buendten.html"
+  },
+  "id": 6903774609
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0356729,
+      46.7541503
+    ]
+  },
+  "properties": {
+    "id": 5923946067,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Ristorante Brienzza",
+    "opening_hours": "Tu-Su 11:00-23:00; Mo off",
+    "opening_hours:source": "website",
+    "source": "survey",
+    "website": "https://pizzeria-brienzza.ch/"
+  },
+  "id": 5923946067
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1213927,
+      46.9296785
+    ]
+  },
+  "properties": {
+    "id": 10296799348,
+    "addr:postcode": "3280",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Masala",
+    "opening_hours": "Mo-Tu, Th-Fr 11:00-14:30, 17:00-22:30; Sa-Su 11:00-15:00, 17:00-22:30",
+    "phone": "+41 26 672 03 03",
+    "shop": "second_hand",
+    "website": "https://masalamurten.ch/"
+  },
+  "id": 10296799348
+}

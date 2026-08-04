@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9905858,
+      46.3154184
+    ]
+  },
+  "properties": {
+    "id": 2862222458,
+    "addr:city": "Brig",
+    "addr:housenumber": "26",
+    "addr:postcode": "3900",
+    "addr:street": "Alte Simplonstrasse",
+    "amenity": "restaurant",
+    "name": "Schlosskeller",
+    "opening_hours": "Tu-Fr 09:30-23:00; Fr-Sa 09:30-24:00",
+    "website": "https://schlosskeller-brig.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2862222458
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5340786,
+      47.3600645
+    ]
+  },
   "properties": {
-    "@id": "node/289669633",
+    "id": 289669633,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "11",
@@ -18,12 +25,5 @@
     "smoking": "outside",
     "website": "https://www.l-altro.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5340786,
-      47.3600645
-    ]
-  },
-  "id": "node-289669633"
+  "id": 289669633
 }

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.165317,
+      46.2005775
+    ]
+  },
+  "properties": {
+    "id": 7806715785,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "3",
+    "addr:postcode": "1207",
+    "addr:street": "Avenue de la Gare des Eaux-Vives",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "email": "info@lamicheline.ch",
+    "name": "La Micheline",
+    "opening_hours": "Tu-Sa 12:00-14:00,19:00-22:00",
+    "phone": "+41 22 840 03 38",
+    "website": "https://www.lamicheline.ch/"
+  },
+  "id": 7806715785
+}

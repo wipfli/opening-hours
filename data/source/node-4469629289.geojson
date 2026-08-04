@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2500974,
+      47.4159956
+    ]
+  },
+  "properties": {
+    "id": 4469629289,
+    "amenity": "restaurant",
+    "check_date": "2025-06-10",
+    "email": "info@toggi-gossau.ch",
+    "name": "\"S'Toggi\" / Restaurant Toggenburg",
+    "opening_hours": "Tu-Th 08:30-23:30; Fr 08:30-00:30; Sa 10:00-23:30",
+    "operator": "Nicole R\u00fcttimann",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 385 14 38",
+    "website": "http://www.toggi-gossau.ch/"
+  },
+  "id": 4469629289
+}

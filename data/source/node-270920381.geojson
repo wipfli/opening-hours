@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4013582,
+      47.1865701
+    ]
+  },
+  "properties": {
+    "id": 270920381,
+    "amenity": "restaurant",
+    "cuisine": "steak_house;swiss",
+    "name": "Zoll-Huus",
+    "opening_hours": "Mo-Tu 17:00-22:00, Fr-Sa 17:00-23:00, Su 09:00-22:00, We-Th off",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 780 11 09",
+    "website": "https://www.zoll-huus.ch/"
+  },
+  "id": 270920381
+}

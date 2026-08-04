@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5549403,
+      47.4137023
+    ]
+  },
+  "properties": {
+    "id": 13458442801,
+    "addr:housenumber": "56",
+    "addr:postcode": "8050",
+    "addr:street": "Hagenholzstrasse",
+    "amenity": "restaurant",
+    "cuisine": "cake;regional",
+    "diet:vegetarian": "yes",
+    "email": "info@beat-enzian.ch",
+    "name": "be/at",
+    "opening_hours": "Mo-Fr 07:00-15:00",
+    "phone": "+41443001314",
+    "website": "https://beat-enzian.ch/"
+  },
+  "id": 13458442801
+}

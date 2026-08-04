@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.436877,
+      47.4908012
+    ]
+  },
+  "properties": {
+    "id": 4424166786,
+    "addr:city": "S\u00fcnikon",
+    "addr:housenumber": "6",
+    "addr:postcode": "8162",
+    "addr:street": "Regensbergerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "email": "INFO@ZUMGWOELB.CH",
+    "name": "Wirtschaft zum Gw\u00f6lb",
+    "opening_hours": "Th-Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 853 13 13",
+    "takeaway": "no",
+    "website": "https://www.wirtschaftzumgwoelb.ch/"
+  },
+  "id": 4424166786
+}

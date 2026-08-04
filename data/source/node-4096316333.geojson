@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3780299,
+      47.4242803
+    ]
+  },
+  "properties": {
+    "id": 4096316333,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Zeughausgasse",
+    "amenity": "restaurant",
+    "email": "info@zeughaus-sg.ch",
+    "name": "Zeughaus",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-23:00; PH off",
+    "phone": "+41 71 222 85 45",
+    "website": "https://www.zeughaus-sg.ch/"
+  },
+  "id": 4096316333
+}

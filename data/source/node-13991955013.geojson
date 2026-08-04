@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0392658,
+      46.1428355
+    ]
+  },
+  "properties": {
+    "id": 13991955013,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chez Ma\u00eetre Ambroise",
+    "opening_hours": "We,Th 10:00-22:00; Fr,Sa 10:00-24:00; Su 10:00-20:00",
+    "phone": "+41 79 121 35 97",
+    "website": "https://chezmaitreambroise.ch/"
+  },
+  "id": 13991955013
+}

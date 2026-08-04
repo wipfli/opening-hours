@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445846,
+      47.3697813
+    ]
+  },
   "properties": {
-    "@id": "node/317774611",
+    "id": 317774611,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "14",
@@ -16,12 +23,5 @@
     "website": "https://www.stadt-zuerich.ch/karldergrosse",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5445846,
-      47.3697813
-    ]
-  },
-  "id": "node-317774611"
+  "id": 317774611
 }

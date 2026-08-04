@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0737377,
+      46.1015942
+    ]
+  },
+  "properties": {
+    "id": 2698692239,
+    "addr:city": "Martigny",
+    "addr:housenumber": "1",
+    "addr:postcode": "1920",
+    "addr:street": "Rue du Coll\u00e8ge",
+    "amenity": "restaurant",
+    "name": "Terre et Mer",
+    "opening_hours": "Mo-Fr 08:30-14:30,18:30-23:00",
+    "phone": "+41 27 723 19 81",
+    "website": "https://www.terreetmer.ch/"
+  },
+  "id": 2698692239
+}

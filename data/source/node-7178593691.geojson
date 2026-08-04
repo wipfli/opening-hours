@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5841585,
+      47.5563689
+    ]
+  },
+  "properties": {
+    "id": 7178593691,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "4051",
+    "addr:street": "Auf der Lyss",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@a-roma.ch",
+    "indoor_seating": "yes",
+    "name": "Aroma",
+    "opening_hours": "Tu-Sa 11:30-14:00,18:30-23:00",
+    "operator": "Stefano Giovannini",
+    "outdoor_seating": "yes",
+    "phone": "+41613331150",
+    "reservation": "recommended",
+    "smoking": "no",
+    "website": "https://www.a-roma.ch",
+    "website:menu": "https://www.a-roma.ch/menu-speisekarte"
+  },
+  "id": 7178593691
+}

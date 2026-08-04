@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5436611,
+      47.3719712
+    ]
+  },
   "properties": {
-    "@id": "node/4604158914",
+    "id": 4604158914,
     "amenity": "restaurant",
     "indoor_seating": "yes",
     "name": "IGNIV Z\u00fcrich by Andreas Caminada",
@@ -10,12 +17,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.marktgassehotel.ch/de/drink-dine"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5436611,
-      47.3719712
-    ]
-  },
-  "id": "node-4604158914"
+  "id": 4604158914
 }

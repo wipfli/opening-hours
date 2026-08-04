@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.510951,
+      46.9325046
+    ]
+  },
+  "properties": {
+    "id": 2151670060,
+    "addr:city": "G\u00fcmligen",
+    "addr:country": "CH",
+    "addr:housenumber": "262",
+    "addr:postcode": "3073",
+    "addr:street": "Worbstrasse",
+    "alt_name": "Restaurant GIARDINO, HACO AG",
+    "amenity": "restaurant",
+    "check_date": "2025-02-16",
+    "contact:email": "giardino@sv-group.ch",
+    "contact:fax": "+41 31 951 41 72",
+    "contact:phone": "+41 31 950 14 46",
+    "name": "Giardino",
+    "opening_hours": "Mo-Fr 06:30-10:15, 11:30-13:30; Sa-Su off",
+    "operator": "Andreas Bart",
+    "source": "survey and website",
+    "website": "http://giardino.sv-group.ch/de/menuplan.html"
+  },
+  "id": 2151670060
+}

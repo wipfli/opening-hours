@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5648943,
+      46.7669792
+    ]
+  },
+  "properties": {
+    "id": 4333553502,
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "La Croix F\u00e9d\u00e9rale",
+    "opening_hours": "Tu 11:00-14:30; We-Sa 11:00-14:30, 18:00-23:30",
+    "phone": "+4124 459 17 23",
+    "website": "https://www.croixfederalemathod.ch/"
+  },
+  "id": 4333553502
+}

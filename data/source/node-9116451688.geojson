@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3064465,
+      46.2406107
+    ]
+  },
+  "properties": {
+    "id": 9116451688,
+    "addr:city": "Sensine",
+    "addr:housenumber": "119",
+    "addr:postcode": "1975",
+    "addr:street": "Route de Savoie",
+    "amenity": "restaurant",
+    "name": "Les 3 suisses",
+    "opening_hours": "We,Th 09:00-23:00; Fr,Sa 09:00-00:00; Su 10:30-16:30",
+    "outdoor_seating": "yes",
+    "phone": "+4127 346 11 95",
+    "website": "http://www.les3suisses.net/"
+  },
+  "id": 9116451688
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9954197,
+      46.2474662
+    ]
+  },
+  "properties": {
+    "id": 5909124495,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-11",
+    "email": "info@vidaloca-cafe.ch",
+    "name": "Vida Loca Cafe",
+    "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+    "phone": "+41 24 463 35 66",
+    "website": "https://www.vidaloca-cafe.ch/"
+  },
+  "id": 5909124495
+}

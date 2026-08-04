@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.963601,
+      46.5961794
+    ]
+  },
+  "properties": {
+    "id": 5885320684,
+    "amenity": "restaurant",
+    "cuisine": "regional;pizza",
+    "name": "Restorant Sur En",
+    "opening_hours": "Mo-Su 11:30-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+41 81 854 24 98",
+    "smoking": "no",
+    "website": "https://veduta.ch/restaurant-sur-en/"
+  },
+  "id": 5885320684
+}

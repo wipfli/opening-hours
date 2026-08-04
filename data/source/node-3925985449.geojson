@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4995611,
+      47.5919094
+    ]
+  },
+  "properties": {
+    "id": 3925985449,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "linde.huentwangen@gmail.com",
+    "name": "Wirtschaft zur Linde",
+    "opening_hours": "12:00-14:00,17:00-23:00; Tu off",
+    "phone": "+41 44 869 06 56",
+    "website": "http://www.linde-huentwangen.ch/"
+  },
+  "id": 3925985449
+}

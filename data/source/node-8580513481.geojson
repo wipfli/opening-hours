@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4618621,
+      47.0008553
+    ]
+  },
+  "properties": {
+    "id": 8580513481,
+    "addr:city": "Zollikofen",
+    "addr:housenumber": "205",
+    "addr:postcode": "3052",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian;sushi;bubble_tea;buffet",
+    "delivery": "yes",
+    "name": "Big Bambus",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-21:30; Sa-Su 17:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 911 6888",
+    "website": "https://www.big-bambus.ch/"
+  },
+  "id": 8580513481
+}

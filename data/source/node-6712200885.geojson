@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0640966,
+      46.2238285
+    ]
+  },
+  "properties": {
+    "id": 6712200885,
+    "addr:housenumber": "1",
+    "addr:postcode": "1217",
+    "addr:street": "Rue Mo\u00efse-Marcinhes",
+    "amenity": "restaurant",
+    "name": "La Carte Gourmande",
+    "opening_hours": "Mo-Fr 07:00-16:00; Sa 10:00-16:00",
+    "phone": "+41 22 734 31 34",
+    "website": "https://www.lacarteblanche.ch/index.php/restaurant-1"
+  },
+  "id": 6712200885
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1516946,
+      46.7751478
+    ]
+  },
+  "properties": {
+    "id": 12842240843,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Kalasin - restaurant thai, caf\u00e9 de la piscine",
+    "opening_hours": "Tu-Sa 11:30-13:30,18:00-21:30; PH off",
+    "phone": "+41 26 565 30 40",
+    "website": "https://kalasin.ch/"
+  },
+  "id": 12842240843
+}

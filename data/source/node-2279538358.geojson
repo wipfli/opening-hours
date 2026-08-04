@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9954779,
+      46.297889
+    ]
+  },
+  "properties": {
+    "id": 2279538358,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-25",
+    "contact:whatsapp": "+41 79 582 82 88",
+    "cuisine": "italian",
+    "email": "info@union-ollon.ch",
+    "name": "Auberge de l'Union",
+    "opening_hours": "Tu-Sa 10:00-14:30,18:00-23:00",
+    "phone": "+41 24 499 11 33",
+    "website": "https://union-ollon.ch/"
+  },
+  "id": 2279538358
+}

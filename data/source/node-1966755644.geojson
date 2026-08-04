@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1065914,
+      46.8216345
+    ]
+  },
+  "properties": {
+    "id": 1966755644,
+    "addr:city": "Belfaux",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "1782",
+    "addr:street": "Route du Centre",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "fax": "+41 26 475 39 49",
+    "name": "Genghis Khan - XIII Cantons",
+    "opening_hours": "Mo off; Tu 18:30-23:30; We-Th 11:45-14:00,18:30-23:30; Fr-Sa 11:45-14:00,18:30-24:00; Su 11:45-14:00,18:00-23:00",
+    "operator": "asian",
+    "phone": "+41 26 475 36 14",
+    "smoking": "no",
+    "website": "https://www.genghis-khan.ch/"
+  },
+  "id": 1966755644
+}

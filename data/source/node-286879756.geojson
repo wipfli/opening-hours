@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4476207,
+      46.9476682
+    ]
+  },
+  "properties": {
+    "id": 286879756,
+    "alt_name": "Ristorante Lorenzini",
+    "amenity": "restaurant",
+    "contact:addr": "Hotelgasse 10, 3011 Bern",
+    "contact:email": "info@lorenzini.ch",
+    "contact:fax": "+41 31 3123038",
+    "contact:phone": "+41 31 3185067",
+    "cuisine": "italian",
+    "name": "Lorenzini",
+    "opening_hours": "Mo-Sa 07:00-00:30; Su 10:00-23:30",
+    "operator": "Bindella",
+    "source": "survey and website",
+    "website": "https://www.bindella.ch/de/lorenzini.html",
+    "wheelchair": "no"
+  },
+  "id": 286879756
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9829538,
+      46.5470481
+    ]
+  },
+  "properties": {
+    "id": 4500313453,
+    "addr:city": "Jungfraujoch",
+    "addr:postcode": "3823",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Restaurant Bollywood - Jungfraujoch",
+    "opening_hours": "Saisonal April bis Oktober t\u00e4glich ge\u00f6ffnet, November bis M\u00e4rz f\u00fcr Gruppen auf Vorreservation ge\u00f6ffnet",
+    "phone": "+41 33 828 78 88",
+    "website": "https://www.jungfrau.ch/de-ch/essen-trinken/"
+  },
+  "id": 4500313453
+}

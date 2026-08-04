@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5053246,
+      47.0206453
+    ]
+  },
+  "properties": {
+    "id": 6893394532,
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "level": "2",
+    "name": "Aliento",
+    "opening_hours": "Mo-Fr 07:00-15:00",
+    "operator": "GEWA",
+    "phone": "+41 319191381",
+    "website": "https://www.gewa-gastronomie.ch",
+    "wheelchair": "yes"
+  },
+  "id": 6893394532
+}

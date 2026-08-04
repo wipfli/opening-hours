@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4496465,
+      46.947586
+    ]
+  },
+  "properties": {
+    "id": 3045413150,
+    "alt_name": "Restaurant \u00abWein & Sein mit H\u00e4rzbluet\u00bb",
+    "amenity": "restaurant",
+    "contact:addr": "M\u00fcnstergasse 50, 3011 Bern",
+    "contact:email": "info@weinundsein.ch",
+    "contact:phone": "+41 31 3119844",
+    "name": "Wein & Sein",
+    "note": "Stammlokal AKV Burgundia Bernensis",
+    "opening_hours": "Mo off; Tu-Sa 11:30-23:30; Su off",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.weinundsein.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3045413150
+}

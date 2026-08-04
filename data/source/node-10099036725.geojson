@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7040302,
+      47.0425496
+    ]
+  },
+  "properties": {
+    "id": 10099036725,
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional;coffee_shop;italian",
+    "description": "Families First. Das gilt im Brunni auch in der Gastronomie. Vor allem in der Brunni-Lodge. Das moderne Familienrestaurant ist optimiert auf die Bed\u00fcrfnisse moderner Familien. Kindermen\u00fcs, Familienzeitschriften, Tischsets mit Malvorlage, Kinderst\u00fchle, Wic",
+    "name": "Restaurant Brunni Lodge",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+41 55 508 58 92",
+    "website": "https://www.skiliftbrunni.ch/Familienrestaurant"
+  },
+  "id": 10099036725
+}

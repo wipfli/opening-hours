@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7890916,
+      47.2110145
+    ]
+  },
+  "properties": {
+    "id": 4436638990,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "13",
+    "addr:postcode": "4900",
+    "addr:street": "Farbgasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "Pizza,Italian,Regional",
+    "delivery": "no",
+    "name": "Stadthof",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:30; Su 11:00-14:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 922 26 20",
+    "reservation": "recommended",
+    "website": "http://stadthof.gruene-ecke.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4436638990
+}

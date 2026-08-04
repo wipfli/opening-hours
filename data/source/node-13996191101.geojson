@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6041575,
+      47.4050039
+    ]
+  },
+  "properties": {
+    "id": 13996191101,
+    "addr:housenumber": "1",
+    "addr:postcode": "8304",
+    "addr:street": "Seidenplatz",
+    "amenity": "restaurant",
+    "cuisine": "japanese;sushi",
+    "email": "info@washokujapan.ch",
+    "name": "Eatpunk",
+    "opening_hours": "Mo-Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 233 89 66",
+    "website": "https://www.eatpunk.ch/"
+  },
+  "id": 13996191101
+}

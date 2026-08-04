@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7294585,
+      47.504091
+    ]
+  },
+  "properties": {
+    "id": 2172799512,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "27",
+    "addr:postcode": "8400",
+    "addr:street": "Lindstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "delivery": "Mo-Fr 11:00-13:30",
+    "level": "0",
+    "name": "Siam Chili",
+    "opening_hours": "Mo-Fr 09:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 202 94 44",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.siam-chili.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2172799512
+}

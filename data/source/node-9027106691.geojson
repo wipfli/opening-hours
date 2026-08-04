@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1402115,
+      46.2074276
+    ]
+  },
+  "properties": {
+    "id": 9027106691,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1201",
+    "addr:street": "Boulevard James-Fazy 10",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/tartaresandco",
+    "contact:instagram": "tartares_and_co",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Tartares & Co",
+    "opening_hours": "Mo-Fr 11:30-15:00, 18:00-24:00; Sa-Su 11:30-00:00",
+    "phone": "+41 22 732 09 09",
+    "takeaway": "yes",
+    "website": "https://www.tartaresandco.ch/"
+  },
+  "id": 9027106691
+}

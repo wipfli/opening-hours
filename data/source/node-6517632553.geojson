@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2269458,
+      47.5368535
+    ]
+  },
+  "properties": {
+    "id": 6517632553,
+    "addr:city": "Villigen PSI",
+    "addr:postcode": "5232",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "OASE",
+    "opening_hours": "Mo-Fr 08:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 310 20 33",
+    "toilets": "yes",
+    "website": "https://www.psi.ch/gastronomie",
+    "website:menu": "https://www.psi.ch/de/gastronomie/wochenmenue-oase"
+  },
+  "id": 6517632553
+}

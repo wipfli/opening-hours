@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5415539,
+      47.3138471
+    ]
+  },
+  "properties": {
+    "id": 13980132896,
+    "addr:city": "Kilchberg (ZH)",
+    "addr:housenumber": "30",
+    "addr:postcode": "8802",
+    "addr:street": "Nidelbadstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Matchball",
+    "opening_hours": "Apr-Oct Tu-Fr 10:00+; Sa 09:00+; Su 09:00-18:00; Mo off",
+    "operator": "G\u00e1bor Mizsik",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 715 54 81",
+    "website": "https://tckilchberg.ch/restaurant"
+  },
+  "id": 13980132896
+}

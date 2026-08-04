@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0440709,
+      47.3930124
+    ]
+  },
+  "properties": {
+    "id": 8114246254,
+    "amenity": "restaurant",
+    "cuisine": "burger;dinner;regional",
+    "name": "Krone",
+    "opening_hours": "Tu-We 11:00-14:00,17:00-23:00; Th 11:00-14:00,17:00-00:00; Fr 11:00-14:00,17:00-02:00; Sa 11:00-02:00; Su 13:00-21:00",
+    "smoking": "no",
+    "website": "https://www.krone-aarau.ch/"
+  },
+  "id": 8114246254
+}

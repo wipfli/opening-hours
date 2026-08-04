@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9230207,
+      47.0387285
+    ]
+  },
+  "properties": {
+    "id": 4331929359,
+    "addr:city": "Engollon",
+    "addr:housenumber": "4",
+    "addr:postcode": "2063",
+    "addr:street": "Rue de l\u2019Eglise",
+    "amenity": "restaurant",
+    "name": "Terre \u00d4 F\u00e9es",
+    "opening_hours": "Th-Sa 08:30-23:00; Su 08:30-17:00",
+    "phone": "+41 32 852 04 93",
+    "website": "https://terreofees.ch/"
+  },
+  "id": 4331929359
+}

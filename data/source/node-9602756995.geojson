@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3381408,
+      46.2226758
+    ]
+  },
+  "properties": {
+    "id": 9602756995,
+    "addr:city": "Sion",
+    "addr:postcode": "1950",
+    "addr:street": "Route de l'A\u00e9roport",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant de l'A\u00e9roport",
+    "opening_hours": "Su-We 09:30-17:30; Th-Sa 09:30-23:00",
+    "phone": "+41 27 322 00 71",
+    "website": "https://www.restaurant-aeroport.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9602756995
+}

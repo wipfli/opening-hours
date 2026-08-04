@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5731859,
+      46.5514349
+    ]
+  },
+  "properties": {
+    "id": 13659998501,
+    "addr:housenumber": "7B",
+    "addr:postcode": "1023",
+    "addr:street": "Chemin des Lentilli\u00e8res",
+    "amenity": "restaurant",
+    "check_date": "2026-03-18",
+    "check_date:opening_hours": "2026-03-18",
+    "cuisine": "portuguese",
+    "level": "0",
+    "name": "Chez Bepa",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "website": "https://www.chez-bepa.ch/",
+    "website:menu": "https://www.chez-bepa.ch/_files/ugd/253a13_15ca7fdbf97e4382a80f37b411d0bb94.pdf"
+  },
+  "id": 13659998501
+}

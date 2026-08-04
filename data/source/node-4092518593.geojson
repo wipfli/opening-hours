@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3755663,
+      47.4231633
+    ]
+  },
+  "properties": {
+    "id": 4092518593,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "14",
+    "addr:postcode": "9000",
+    "addr:street": "Bankgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-22",
+    "cuisine": "fish;french",
+    "name": "Artisans",
+    "opening_hours": "Tu-Sa 11:30-13:30,17:30-22:30",
+    "website": "https://www.restaurantartisans.ch/"
+  },
+  "id": 4092518593
+}

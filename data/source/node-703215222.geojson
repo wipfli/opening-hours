@@ -1,20 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/703215222",
-    "addr:housenumber": "40",
-    "addr:street": "Stampfenbachstrasse",
-    "alt_name": "Zentral Thai Restaurant",
-    "amenity": "restaurant",
-    "check_date": "2024-02-24",
-    "cuisine": "thai",
-    "delivery": "yes",
-    "name": "Zentral",
-    "opening_hours": "Mo-Fr 11:00-14:30, 17:30-22:00, Sa 12:00-22:00",
-    "phone": "+41 43 443 90 00",
-    "website": "https://www.zentralthairestaurant.ch/",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -22,5 +7,22 @@
       47.3799291
     ]
   },
-  "id": "node-703215222"
+  "properties": {
+    "id": 703215222,
+    "addr:housenumber": "40",
+    "addr:street": "Stampfenbachstrasse",
+    "alt_name": "Zentral Thai Restaurant",
+    "amenity": "restaurant",
+    "check_date": "2024-02-24",
+    "cuisine": "thai",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "name": "Zentral",
+    "opening_hours": "Mo-Fr 11:00-14:30, 17:30-22:00, Sa 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 443 90 00",
+    "website": "https://www.zentralthairestaurant.ch/",
+    "wheelchair": "no"
+  },
+  "id": 703215222
 }

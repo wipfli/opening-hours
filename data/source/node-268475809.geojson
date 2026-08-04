@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.554528,
+      47.3651703
+    ]
+  },
   "properties": {
-    "@id": "node/268475809",
+    "id": 268475809,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "5",
@@ -24,12 +31,5 @@
     "website": "https://www.nooba.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.554528,
-      47.3651703
-    ]
-  },
-  "id": "node-268475809"
+  "id": 268475809
 }

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0721865,
+      46.2321549
+    ]
+  },
+  "properties": {
+    "id": 7701641276,
+    "addr:city": "Meyrin",
+    "addr:housenumber": "21",
+    "addr:postcode": "1217",
+    "addr:street": "Esplanade des R\u00e9cr\u00e9ations",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "capacity": "45",
+    "cuisine": "regional",
+    "description": "Restaurant local et participatif.",
+    "level": "0",
+    "name": "Auberge des Vergers",
+    "opening_hours": "Tu-Fr 09:00-14:30, 18:00-22:00; Sa 12:00-14:30, 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 777 70 45",
+    "start_date": "2020-07-03",
+    "website": "https://aubergedesvergers.ch",
+    "wheelchair": "limited"
+  },
+  "id": 7701641276
+}

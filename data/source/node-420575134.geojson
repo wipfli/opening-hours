@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6550073,
+      47.0166617
+    ]
+  },
+  "properties": {
+    "id": 420575134,
+    "amenity": "restaurant",
+    "name": "Kalchofen",
+    "opening_hours": "Mo-Fr 08:30-23:30; Sa 17:00-23:30; Su off",
+    "website": "https://kalchofen-restaurant.ch/"
+  },
+  "id": 420575134
+}

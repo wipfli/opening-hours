@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444063,
+      47.3686275
+    ]
+  },
   "properties": {
-    "@id": "node/1097023259",
+    "id": 1097023259,
     "addr:housenumber": "5",
     "addr:postcode": "8001",
     "addr:street": "Schiffl\u00e4nde",
@@ -16,12 +23,5 @@
     "website": "https://libanesisch.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5444063,
-      47.3686275
-    ]
-  },
-  "id": "node-1097023259"
+  "id": 1097023259
 }

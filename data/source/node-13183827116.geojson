@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3837352,
+      47.4271092
+    ]
+  },
+  "properties": {
+    "id": 13183827116,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "50a",
+    "addr:postcode": "9000",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "China Town",
+    "opening_hours": "Tu-Su 11:30-14:00, 17:00-22:00",
+    "website": "https://chinatown-restaurant.ch/"
+  },
+  "id": 13183827116
+}

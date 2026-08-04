@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6285645,
+      46.7593056
+    ]
+  },
+  "properties": {
+    "id": 11967473489,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "info@krone-thun.ch",
+    "name": "Krone",
+    "opening_hours": "Tu-Sa 07:30-23:30",
+    "phone": "+41 33 2278888",
+    "takeaway": "yes",
+    "website": "https://www.krone-thun.ch/kulinarik"
+  },
+  "id": 11967473489
+}

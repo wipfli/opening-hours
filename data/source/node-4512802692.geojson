@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6422095,
+      47.6991203
+    ]
+  },
+  "properties": {
+    "id": 4512802692,
+    "amenity": "restaurant",
+    "name": "Rest. Alterszentrum Emmersberg",
+    "opening_hours": "Mo-Su 08:30-18:00",
+    "phone": "+41 52 630 46 08",
+    "website": "https://alterszentrum-emmersberg.ch/bei-uns-zu-gast/gastronomie/"
+  },
+  "id": 4512802692
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6283971,
+      46.5072597
+    ]
+  },
+  "properties": {
+    "id": 1433812390,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-04-18",
+    "contact:instagram": "laccademia_",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "L\u2019Accademia",
+    "opening_hours": "Mo-Su 12:00-14:00,19:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 613 39 74",
+    "source:opening_hours": "website",
+    "website": "https://www.angleterre-residence.ch/restaurants/laccademia/",
+    "wheelchair": "yes"
+  },
+  "id": 1433812390
+}

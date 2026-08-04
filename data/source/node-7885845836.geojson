@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5945809,
+      46.6329537
+    ]
+  },
+  "properties": {
+    "id": 7885845836,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-03-21",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Adler",
+    "opening_hours": "Tu-Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.adler-andermatt.ch/"
+  },
+  "id": 7885845836
+}

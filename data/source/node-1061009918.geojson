@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6360667,
+      46.5217863
+    ]
+  },
+  "properties": {
+    "id": 1061009918,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1005",
+    "addr:street": "Rue Louis-Auguste-Curtat",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "email": "info@leveche.ch",
+    "indoor_seating": "yes",
+    "name": "Le Caf\u00e9 de l'Ev\u00each\u00e9",
+    "opening_hours": "Mo-Fr 07:00-00:00; Sa 11:30-00:00; Su 12:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 323 93 23",
+    "website": "https://leveche.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1061009918
+}

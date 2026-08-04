@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.590881,
+      47.5658489
+    ]
+  },
+  "properties": {
+    "id": 4064658548,
+    "addr:city": "Basel",
+    "addr:housenumber": "35",
+    "addr:postcode": "4057",
+    "addr:street": "Kandererstrasse",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Valentino's Place",
+    "opening_hours": "Tu-Th 17:00-24:00; Fr 17:00-01:00; Su 11:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 692 11 55",
+    "smoking": "no",
+    "website": "http://www.valentinosplace.ch/"
+  },
+  "id": 4064658548
+}

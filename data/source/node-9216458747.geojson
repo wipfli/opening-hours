@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5550208,
+      47.4120998
+    ]
+  },
+  "properties": {
+    "id": 9216458747,
+    "amenity": "restaurant",
+    "email": "stadioenli@gmail.com",
+    "mobile": "+41 78 350 05 70",
+    "name": "Restaurant Stadi\u00f6nli",
+    "opening_hours": "Mo-Fr 09:00-16:00; Sa 12:00-19:00; Su 10:00-18:00",
+    "phone": "+41 43 333 49 14",
+    "website": "https://www.stadioenli.ch"
+  },
+  "id": 9216458747
+}

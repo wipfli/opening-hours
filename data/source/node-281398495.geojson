@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1704874,
+      46.4960698
+    ]
+  },
+  "properties": {
+    "id": 281398495,
+    "addr:city": "San Bernardino",
+    "addr:country": "CH",
+    "addr:housenumber": "46",
+    "addr:postcode": "6565",
+    "addr:street": "Passo del San Bernardino",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante Ospizio San Bernardino",
+    "opening_hours": "May-Oct: 09:00-19:00; Nov-Apr: off",
+    "outdoor_seating": "yes",
+    "phone": "+41918321116",
+    "website": "https://passo-sanbernardino.com/"
+  },
+  "id": 281398495
+}

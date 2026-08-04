@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4805958,
+      46.9560255
+    ]
+  },
+  "properties": {
+    "id": 10729477347,
+    "addr:city": "Ostermundigen",
+    "addr:housenumber": "25",
+    "addr:postcode": "3072",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-26",
+    "level": "0",
+    "name": "Osito",
+    "opening_hours": "Mo-Fr 09:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41315520153",
+    "website": "https://www.restaurant-osito.ch/"
+  },
+  "id": 10729477347
+}

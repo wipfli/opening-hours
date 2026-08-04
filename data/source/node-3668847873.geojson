@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1336793,
+      46.2087403
+    ]
+  },
+  "properties": {
+    "id": 3668847873,
+    "addr:housenumber": "42",
+    "addr:street": "Rue de Lyon",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Fujiyama Restaurant",
+    "opening_hours": "Mo-Fr 08:30-22:30; Sa 10:00-21:30",
+    "phone": "+41 22 732 77 27",
+    "website": "https://oparaiso.ch/"
+  },
+  "id": 3668847873
+}

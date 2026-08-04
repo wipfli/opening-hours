@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9515108,
+      46.0040121
+    ]
+  },
+  "properties": {
+    "id": 367036060,
+    "addr:city": "Lugano",
+    "addr:housenumber": "10",
+    "addr:postcode": "6900",
+    "addr:street": "Piazza della Riforma",
+    "amenity": "restaurant",
+    "check_date": "2026-01-14",
+    "check_date:currency:XBT": "2025-06-30",
+    "cuisine": "italian",
+    "currency:XBT": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "email@tango-ti.ch",
+    "fax": "+41 91 922 27 02",
+    "name": "Tango",
+    "opening_hours": "Mo-Su 09:00-01:00",
+    "payment:lightning": "yes",
+    "phone": "+41 91 922 27 01",
+    "website": "https://www.tango-ti.ch/"
+  },
+  "id": 367036060
+}

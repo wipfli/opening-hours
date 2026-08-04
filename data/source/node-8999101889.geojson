@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8229143,
+      47.0990083
+    ]
+  },
+  "properties": {
+    "id": 8999101889,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "76",
+    "addr:postcode": "2300",
+    "addr:street": "Avenue L\u00e9opold-Robert",
+    "amenity": "restaurant",
+    "cuisine": "kebab;pizza",
+    "delivery": "Mo-Sa 11:00-14:00, 17:00-24:00",
+    "name": "La T'Chaux",
+    "opening_hours": "Mo-Fr 00:00-01:00,11:00-24:00; Sa 00:00-02:00,11:00-24:00; Su 00:00-02:00,11:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 913 17 86",
+    "takeaway": "yes",
+    "website": "https://latchauxkebab.ch/"
+  },
+  "id": 8999101889
+}

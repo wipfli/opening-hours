@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9698473,
+      47.6582936
+    ]
+  },
+  "properties": {
+    "id": 3145800058,
+    "addr:city": "Steckborn",
+    "addr:country": "CH",
+    "addr:housenumber": "187",
+    "addr:postcode": "8266",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "email": "lido-steckborn@bluewin.ch",
+    "indoor_seating": "yes",
+    "name": "Lido",
+    "opening_hours": "We-Fr 10:30-14:00,17:00-22:00; Sa 10:30-22:00; Su 10:30-21:00; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "website": "https://www.lido-steckborn.ch/"
+  },
+  "id": 3145800058
+}

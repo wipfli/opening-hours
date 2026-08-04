@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5418466,
+      46.9662239
+    ]
+  },
+  "properties": {
+    "id": 264382942,
+    "amenity": "restaurant",
+    "name": "Zur Tanne",
+    "opening_hours": "Tu-Su",
+    "operator": "Familie Stefan Gadient",
+    "phone": "+41 81 322 16 22",
+    "tourism": "hotel",
+    "website": "https://www.gasthaus-tanne.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 264382942
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.499702,
+      47.3878932
+    ]
+  },
+  "properties": {
+    "id": 9352194479,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "430",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "email": "hello@9ni.ch",
+    "indoor_seating": "yes",
+    "name": "N\u00fcni",
+    "opening_hours": "Tu,We 11:00-22:00; Th,Fr 11:00-23:00; Sa 12:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 500 19 70",
+    "website": "https://www.xn--nni-hoa.ch/"
+  },
+  "id": 9352194479
+}

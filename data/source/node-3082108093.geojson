@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4324659,
+      46.946784
+    ]
+  },
+  "properties": {
+    "id": 3082108093,
+    "access": "private",
+    "amenity": "restaurant",
+    "contact:addr": "Schl\u00f6sslistrasse 5, 3008 Bern",
+    "contact:email": "info@hausderuniversitaet.ch",
+    "contact:phone": "+41 31 3818777",
+    "name": "Haus der Universit\u00e4t",
+    "note": "No public access. Upon request / reservation accessible for private persons as well",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su off",
+    "operator": "Genossenschaft ZFV-Unternehmungen",
+    "source": "survey and website",
+    "website": "https://hausderuniversitaet.ch/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 3082108093
+}

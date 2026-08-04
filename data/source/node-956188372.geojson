@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.013742,
+      46.2512062
+    ]
+  },
+  "properties": {
+    "id": 956188372,
+    "amenity": "restaurant",
+    "name": "H\u00f4tel de Ville",
+    "opening_hours": "Tu-Sa 11:00-15:00,17:00-23:00",
+    "phone": "+41 24 463 41 52",
+    "website": "https://bexhdv.ch/"
+  },
+  "id": 956188372
+}

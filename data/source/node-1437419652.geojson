@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.699972,
+      46.1784681
+    ]
+  },
+  "properties": {
+    "id": 1437419652,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Campanile",
+    "opening_hours": "We-Su,PH 16:00-18:00+",
+    "phone": "+41 917961897",
+    "website": "https://www.ristorantecampanile.com/"
+  },
+  "id": 1437419652
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7374943,
+      46.6963199
+    ]
+  },
+  "properties": {
+    "id": 6766535819,
+    "addr:city": "Merligen",
+    "addr:housenumber": "300",
+    "addr:postcode": "3658",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;french",
+    "internet_access": "yes",
+    "name": "Restaurant BelAir",
+    "opening_hours": "daily",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 252 81 81",
+    "reservation": "recommended",
+    "website": "https://www.beatus.ch/"
+  },
+  "id": 6766535819
+}

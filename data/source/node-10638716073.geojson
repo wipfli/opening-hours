@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.523149,
+      47.3724559
+    ]
+  },
   "properties": {
-    "@id": "node/10638716073",
+    "id": 10638716073,
     "addr:housenumber": "3",
     "addr:street": "Elisabethenstrasse",
     "amenity": "restaurant",
@@ -15,12 +22,5 @@
     "website": "https://www.butegar.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.523149,
-      47.3724559
-    ]
-  },
-  "id": "node-10638716073"
+  "id": 10638716073
 }

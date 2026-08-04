@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6356635,
+      47.6967112
+    ]
+  },
+  "properties": {
+    "id": 3300805727,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8200",
+    "addr:street": "Kirchhofplatz",
+    "amenity": "restaurant",
+    "contact:fax": "+41 52 635 75 65",
+    "contact:website": "http://www.kronenhof.ch",
+    "cuisine": "regional",
+    "name": "Kronenstube",
+    "opening_hours": "Mo-Th 08:00-22:30; Fr,Sa 08:00-23:00; Su 10:00-22:00",
+    "website": "https://www.kronenhof.ch/restaurants"
+  },
+  "id": 3300805727
+}

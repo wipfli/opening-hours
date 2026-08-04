@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3005298,
+      47.0586242
+    ]
+  },
+  "properties": {
+    "id": 4741566574,
+    "addr:city": "Luzern",
+    "addr:housenumber": "21",
+    "addr:place": "Luzern",
+    "addr:postcode": "6004",
+    "addr:street": "Spitalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza;mediterranean",
+    "email": "info@valledizerz.ch",
+    "level": "0",
+    "long_name": "Osteria Valle di Zerz",
+    "name": "Valle di Zerz",
+    "opening_hours": "Tu-Fr 11:30-23:30; Sa 15:00-23:30; Su-Mo,PH closed",
+    "outdoor_seating": "no",
+    "phone": "+41 76 222 24 44",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.valledizerz.ch/",
+    "website:menu": "https://www.valledizerz.ch/docs/valledizerz-speisekarte.pdf"
+  },
+  "id": 4741566574
+}

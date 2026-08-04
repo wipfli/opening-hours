@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8992239,
+      47.5410852
+    ]
+  },
+  "properties": {
+    "id": 7775393443,
+    "amenity": "restaurant",
+    "name": "Campingplatz-Beizli",
+    "opening_hours": "Mo-Th 09:30-12:30,15:30-19:00;Fr-Su 09:30-19:30",
+    "operator": "Campinplatz Aum\u00fchle",
+    "outdoor_seating": "yes",
+    "website": "https://www.cctg.ch/camping-aumuumlhle.html"
+  },
+  "id": 7775393443
+}

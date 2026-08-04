@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.368385,
+      47.4200411
+    ]
+  },
+  "properties": {
+    "id": 513061069,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "38",
+    "addr:postcode": "9000",
+    "addr:street": "Davidstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "name": "Daviz",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30+; Sa 17:30+",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.daviz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 513061069
+}

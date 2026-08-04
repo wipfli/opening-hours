@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1398197,
+      46.2031249
+    ]
+  },
+  "properties": {
+    "id": 4388745697,
+    "addr:housenumber": "12",
+    "addr:postcode": "1204",
+    "addr:street": "Boulevard Georges-Favon",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Kytaly",
+    "name:fr": "Kytaly",
+    "opening_hours": "Mo-Fr 12:00-22:30; Sa 18:00-22:30",
+    "phone": "+41 22 320 17 25",
+    "website": "https://www.kytaly-geneve.com/"
+  },
+  "id": 4388745697
+}

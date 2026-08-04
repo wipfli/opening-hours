@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.536259,
+      47.3983794
+    ]
+  },
+  "properties": {
+    "id": 2677704001,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "103",
+    "addr:postcode": "8057",
+    "addr:street": "Bucheggstrasse",
+    "amenity": "restaurant",
+    "email": "info@tramblu.ch",
+    "name": "Tramblu",
+    "opening_hours": "Mo 09:00-14:00; Tu-Fr 09:00-14:00, 17:30-23:00; Sa 17:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 364 50 13",
+    "website": "https://tramblu.ch/"
+  },
+  "id": 2677704001
+}

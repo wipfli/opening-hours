@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2913278,
+      47.5450621
+    ]
+  },
+  "properties": {
+    "id": 8934963059,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Jun Garden",
+    "opening_hours": "We-Fr,Su,Mo 11:30-14:00,18:00-23:30; Sa 17:30-23:30",
+    "website": "https://jungarden.ch/"
+  },
+  "id": 8934963059
+}

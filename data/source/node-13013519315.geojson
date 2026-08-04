@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.647964,
+      47.6256267
+    ]
+  },
+  "properties": {
+    "id": 13013519315,
+    "addr:city": "Marthalen",
+    "addr:housenumber": "15",
+    "addr:postcode": "8460",
+    "addr:street": "Underdorf",
+    "amenity": "restaurant",
+    "name": "Gasthaus zum Ochsen",
+    "opening_hours": "Mo, Th, Fr 11:00-13:30, 17:00-22:00; Tu-We 08:30-13:00, 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 319 31 38",
+    "website": "https://ochsen-marthalen.ch/"
+  },
+  "id": 13013519315
+}

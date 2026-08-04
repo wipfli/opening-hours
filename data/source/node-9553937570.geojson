@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1184284,
+      46.1761295
+    ]
+  },
+  "properties": {
+    "id": 9553937570,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "regional",
+    "name": "Restaurant Les Semailles",
+    "opening_hours": "Mo-Fr 07:00-00:00; Sa-Su 08:00-00:00",
+    "phone": "+41 22 794 87 77",
+    "website": "https://www.restaurant-semailles.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9553937570
+}

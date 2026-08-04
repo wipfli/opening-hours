@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5179538,
+      47.3606785
+    ]
+  },
   "properties": {
-    "@id": "node/480320548",
+    "id": 480320548,
     "amenity": "restaurant",
     "cuisine": "vietnamese",
     "email": "info@vietnamrestaurant.ch",
@@ -12,12 +19,5 @@
     "website": "https://restaurant-vietnam.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5179538,
-      47.3606785
-    ]
-  },
-  "id": "node-480320548"
+  "id": 480320548
 }

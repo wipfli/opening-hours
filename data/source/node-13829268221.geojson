@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4930679,
+      46.9578786
+    ]
+  },
+  "properties": {
+    "id": 13829268221,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Tantak",
+    "opening_hours": "Mo off; Tu-Su 11:30-13:30; 17:00-20:30",
+    "website": "https://www.sushitantank.com/"
+  },
+  "id": 13829268221
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2451792,
+      47.1408968
+    ]
+  },
+  "properties": {
+    "id": 6220945847,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "check_date": "2026-05-30",
+    "contact:facebook": "Bach-et-Buck-Bienne-871920752965377",
+    "cuisine": "crepe",
+    "email": "bachetbuck.bienne@gmail.com",
+    "indoor_seating": "yes",
+    "name": "Cr\u00eaperie Bach & Buck",
+    "opening_hours": "Mo-We,Su 11:30-21:00; Th 11:30-21:30; Fr-Sa 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 322 21 00",
+    "start_date": "1975",
+    "website": "https://www.bachetbuck.ch/bienne/cr%C3%AAperie-de-bienne-biel/",
+    "website:menu": "https://www.bachetbuck.ch/bienne/cartes-des-cr%C3%AApes-cr%C3%AApekarte/",
+    "wheelchair": "limited"
+  },
+  "id": 6220945847
+}

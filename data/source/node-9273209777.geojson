@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0499205,
+      47.4669195
+    ]
+  },
+  "properties": {
+    "id": 9273209777,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "33",
+    "addr:postcode": "9500",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "contact:email": "info@restaurant-five.ch",
+    "name": "Five",
+    "opening_hours": "Tu-Fr 11:30-22:00; Sa 16:00-23:00; Mo,Su closed",
+    "operator": "Roland Sprenger",
+    "phone": "+41 71 911 33 44",
+    "website": "https://www.restaurant-five.ch/"
+  },
+  "id": 9273209777
+}

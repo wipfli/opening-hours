@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8433624,
+      46.4587491
+    ]
+  },
+  "properties": {
+    "id": 7093130262,
+    "addr:city": "Vevey",
+    "addr:housenumber": "45",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Lac",
+    "amenity": "restaurant",
+    "capacity": "80",
+    "changing_table": "yes",
+    "changing_table:location": "female_toilet",
+    "cuisine": "belgian;tartare;boulets_\u00e0_la_li\u00e9geoise;carbonade_flamande;waterzooi;moules_frites;gaufres;waffle;fish;burger;salad",
+    "description": "La brasserie peut \u00eatre privatis\u00e9e pour des \u00e9v\u00e9nements tels que mariages et toutes autres c\u00e9l\u00e9brations.\n\nUne biblioth\u00e8que remplie entre autres de bandes dessin\u00e9es vous offre la possibilit\u00e9 de bouquiner de 3 \u00e0 99 ans.",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "reservation@lecarre-vevey.ch",
+    "level": "1",
+    "name": "La Brasserie du Carr\u00e9",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "phone": "+41 21 921 50 06",
+    "website": "https://lecarre-vevey.ch/"
+  },
+  "id": 7093130262
+}

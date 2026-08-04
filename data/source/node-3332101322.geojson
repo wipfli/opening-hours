@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0832049,
+      46.1746442
+    ]
+  },
+  "properties": {
+    "id": 3332101322,
+    "addr:postcode": "1232",
+    "addr:street": "Place de l'\u00c9glise",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "contact@place-gourmande.ch",
+    "name": "La place gourmande",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su 07:30-13:30",
+    "phone": "+41 22 757 60 38",
+    "post_office": "post_partner",
+    "post_office:brand": "Die Post",
+    "post_office:website": "https://places.post.ch/de/001PST_001114279/post-filiale-1232-confignon",
+    "website": "https://www.place-gourmande.ch/",
+    "website:menu": "https://www.place-gourmande.ch/pdf/FoodMenu.pdf"
+  },
+  "id": 3332101322
+}

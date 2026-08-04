@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4246859,
+      46.7015494
+    ]
+  },
+  "properties": {
+    "id": 12198854545,
+    "addr:city": "Masein",
+    "addr:housenumber": "9",
+    "addr:postcode": "7425",
+    "addr:street": "Oberdorf",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@bergmuehle-masein.ch",
+    "mobile": "+41 79 954 74 25",
+    "name": "Restaurant Bergm\u00fchle",
+    "opening_hours": "Tu 12:00-23:00; Fr-Sa 15:00-23:00; Su 10:00-20:00",
+    "phone": "+41 81 651 17 24",
+    "website": "http://www.bergmuehle-masein.ch"
+  },
+  "id": 12198854545
+}

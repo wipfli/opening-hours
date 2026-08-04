@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3119807,
+      47.0436915
+    ]
+  },
+  "properties": {
+    "id": 506655895,
+    "addr:city": "Luzern",
+    "addr:housenumber": "18",
+    "addr:postcode": "6005",
+    "addr:street": "Tribschenstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-12-07",
+    "cuisine": "italian",
+    "diet:vegan": "on_demand",
+    "diet:vegetarian": "yes",
+    "email": "info@prizzi.ch",
+    "handwashing:soap": "yes",
+    "name": "Prizzi",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:00-24:00; Sa 17:00-24:00; Su,Mo off",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:qr_code": "no",
+    "phone": "+41 41 362 01 00",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:disposal": "flush",
+    "toilets:fee": "no",
+    "toilets:gender_segregated": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "website": "https://prizzi.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 506655895
+}

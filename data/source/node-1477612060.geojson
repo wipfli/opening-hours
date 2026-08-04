@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0441487,
+      47.3930422
+    ]
+  },
+  "properties": {
+    "id": 1477612060,
+    "addr:housenumber": "7",
+    "addr:postcode": "5000",
+    "addr:street": "Kronengasse",
+    "amenity": "restaurant",
+    "name": "Max & Moriz",
+    "opening_hours": "Tu-We 11:30-23:00; Th 11:30-00:00; Fr 11:30-02:00; Sa 10:00-02:00; Su 10:00-15:00",
+    "opening_hours:url": "https://www.max-moriz.ch/kontakt",
+    "phone": "+41 62 823 40 90",
+    "website": "https://max-moriz.ch",
+    "wifi": "no"
+  },
+  "id": 1477612060
+}

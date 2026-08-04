@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6054999,
+      47.3286218
+    ]
+  },
+  "properties": {
+    "id": 9178479403,
+    "addr:city": "K\u00fcsnacht",
+    "addr:housenumber": "80",
+    "addr:postcode": "8700",
+    "addr:street": "Zumikerstrasse",
+    "alt_name": "Big Burger K\u00fcsnacht",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "burger;finger_food;fries;chicken;salad",
+    "delivery": "https://www.bigburgerkurier-kuesnacht.ch/",
+    "level": "0",
+    "name": "Big Burger",
+    "old_name": "Mamas Grill",
+    "opening_hours": "Mo 11:00-13:30,17:00-21:00; Tu-Fr 11:00-13:30,17:00-22:00; Sa 16:00-22:00; Su 16:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 611 06 01",
+    "takeaway": "yes",
+    "website": "https://bigburger.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9178479403
+}

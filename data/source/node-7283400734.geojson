@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.842656,
+      46.4640383
+    ]
+  },
+  "properties": {
+    "id": 7283400734,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "6A",
+    "addr:postcode": "1800",
+    "addr:street": "Rue des Deux-Gares",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/lesateliersvevey/",
+    "contact:instagram": "https://www.instagram.com/ateliers_vevey/",
+    "diet:vegetarian": "yes",
+    "email": "contact@lesateliersvevey.ch",
+    "name": "Les Ateliers",
+    "opening_hours": "Tu-Sa 11:30-15:00,18:30-24:00",
+    "phone": "+41 21 922 50 50",
+    "website": "https://lesateliersvevey.ch/"
+  },
+  "id": 7283400734
+}

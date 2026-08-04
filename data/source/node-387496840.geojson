@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5065553,
+      47.3786937
+    ]
+  },
+  "properties": {
+    "id": 387496840,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:floor": "0",
+    "addr:housenumber": "22",
+    "addr:postcode": "8003",
+    "addr:street": "Brahmsstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-19",
+    "diet:vegetarian": "yes",
+    "email": "paprika@aoz.ch",
+    "level": "0",
+    "name": "Paprika",
+    "old_name": "Restaurant Brahmshof",
+    "opening_hours": "Mo-Fr 09:00-13:30",
+    "operator": "AOZ",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 415 60 60",
+    "start_date": "2016-12-06",
+    "website": "https://www.aoz.ch/paprika",
+    "wheelchair": "yes"
+  },
+  "id": 387496840
+}

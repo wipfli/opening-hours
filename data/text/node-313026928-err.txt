@@ -1,3 +1,0 @@
-Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fivespices.biz/
-Call log:
-  - navigating to "https://www.fivespices.biz/", waiting until "networkidle"

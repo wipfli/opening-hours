@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545452,
+      47.3637686
+    ]
+  },
   "properties": {
-    "@id": "node/4958439555",
+    "id": 4958439555,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -18,12 +25,5 @@
     "smoking": "outside",
     "website": "https://giusis-ristorante-pizzeria-2.jimdosite.com/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5545452,
-      47.3637686
-    ]
-  },
-  "id": "node-4958439555"
+  "id": 4958439555
 }

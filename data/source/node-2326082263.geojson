@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8438189,
+      46.4602518
+    ]
+  },
+  "properties": {
+    "id": 2326082263,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Conseil",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Ichioshi",
+    "opening_hours": "Tu-Sa 11:00-14:00, 18:00-23:30",
+    "opening_hours:kitchen": "Tu-Sa 11:00-14:00, 18:00-21:30",
+    "phone": "+41 21 921 44 20",
+    "takeaway": "yes",
+    "website": "https://www.ichioshi-sushi-vevey.ch/"
+  },
+  "id": 2326082263
+}

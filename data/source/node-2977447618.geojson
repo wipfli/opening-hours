@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3571429,
+      46.2317601
+    ]
+  },
+  "properties": {
+    "id": 2977447618,
+    "addr:city": "Sion",
+    "addr:housenumber": "33",
+    "addr:postcode": "1950",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Sawasdee Thai",
+    "opening_hours": "Mo-Th 11:00-14:00,18:00-21:30; Tu 11:00-14:00; Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41273221771",
+    "takeaway": "yes",
+    "website": "https://www.thai-sion.ch/"
+  },
+  "id": 2977447618
+}

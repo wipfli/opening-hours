@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1452436,
+      46.2116102
+    ]
+  },
+  "properties": {
+    "id": 4614611589,
+    "addr:housenumber": "64",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de-Monthoux",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Jame's Pub",
+    "name:en": "Jame's Pub",
+    "opening_hours": "Mo-Th 12:00-02:00, Fr 12:00-04:00, Sa 18:00-04:00, Su 18:00-02:00",
+    "outdoor_seating": "no",
+    "website": "http://www.james-pub.com"
+  },
+  "id": 4614611589
+}

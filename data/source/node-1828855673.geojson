@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3926522,
+      47.3135523
+    ]
+  },
+  "properties": {
+    "id": 1828855673,
+    "addr:city": "Oberlunkhofen",
+    "addr:housename": "Restaurant Bauernhof",
+    "addr:housenumber": "23",
+    "addr:postcode": "8917",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Bauernhof",
+    "opening_hours": "Tu-Fr 08:30-10:00; Fr 14:00-02:00",
+    "opening_hours:covid19": "Tu-Fr 08:30-10:00, Fr-Sa 17:00+; Su 11:00-15:00",
+    "website": "https://www.zumbauernhof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1828855673
+}

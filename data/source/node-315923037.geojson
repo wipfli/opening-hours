@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6218135,
+      47.0600255
+    ]
+  },
+  "properties": {
+    "id": 315923037,
+    "addr:floor": "0",
+    "amenity": "restaurant",
+    "check_date": "2025-05-24",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Bernerhof",
+    "opening_hours": "Mo-Sa 10:00-24:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "http://bernerhof-burgdorf.ch",
+    "wheelchair": "yes"
+  },
+  "id": 315923037
+}

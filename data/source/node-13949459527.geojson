@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8481015,
+      46.7260898
+    ]
+  },
+  "properties": {
+    "id": 13949459527,
+    "addr:city": "Davos Clavadel",
+    "addr:housenumber": "39",
+    "addr:postcode": "7272",
+    "addr:street": "Sertigerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-24",
+    "name": "Bergf\u00fchrer",
+    "opening_hours": "Mo-Th 10:00-17:00; Fr-Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 81 413 53 55",
+    "website": "https://www.sertigtal.ch/restaurant-sertig/"
+  },
+  "id": 13949459527
+}

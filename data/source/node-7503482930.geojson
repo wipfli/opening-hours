@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3768876,
+      47.4273875
+    ]
+  },
+  "properties": {
+    "id": 7503482930,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "25",
+    "addr:postcode": "9000",
+    "addr:street": "Katharinengasse",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "Beirut",
+    "opening_hours": "Mo-Sa 11:00-21:00",
+    "website": "https://www.khalilbeiruttakeaway.ch/"
+  },
+  "id": 7503482930
+}

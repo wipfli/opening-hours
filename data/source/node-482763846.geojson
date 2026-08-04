@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5387892,
+      47.4135291
+    ]
+  },
+  "properties": {
+    "id": 482763846,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "104",
+    "addr:postcode": "8050",
+    "addr:street": "Binzm\u00fchlestrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-01",
+    "cuisine": "asian",
+    "diet:vegetarian": "yes",
+    "email": "oerlikon@hongkongfoodparadise.ch",
+    "indoor_seating": "yes",
+    "name": "Hong-Kong Food Paradise",
+    "opening_hours": "Mo-Fr 10:30-14:30,17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 310 48 88",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://hongkongfoodparadise.ch/store_locator/oerlikon-3/",
+    "wheelchair": "yes"
+  },
+  "id": 482763846
+}

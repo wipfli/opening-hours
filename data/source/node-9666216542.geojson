@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5196917,
+      47.3734505
+    ]
+  },
   "properties": {
-    "@id": "node/9666216542",
+    "id": 9666216542,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "33",
     "addr:postcode": "8003",
@@ -14,12 +21,5 @@
     "opening_hours": "Tu-Th 11:30-13:30,18:30-24:00; Fr,Sa 18:30-01:00",
     "website": "https://www.remy.restaurant/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5196917,
-      47.3734505
-    ]
-  },
-  "id": "node-9666216542"
+  "id": 9666216542
 }

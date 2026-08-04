@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6039812,
+      47.5659634
+    ]
+  },
+  "properties": {
+    "id": 13637537873,
+    "amenity": "restaurant",
+    "name": "Westhive Kitchen",
+    "opening_hours": "Mo-We 07:30-16:00; Th 07:30-18:00; Fr 07:30-16:00; PH off",
+    "website": "https://www.westhive.com/en/eat-drink/westhive-kitchen-basel-rosental/"
+  },
+  "id": 13637537873
+}

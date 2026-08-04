@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2656134,
+      46.2199988
+    ]
+  },
+  "properties": {
+    "id": 9118461951,
+    "addr:city": "V\u00e9troz",
+    "addr:housenumber": "186",
+    "addr:postcode": "1963",
+    "addr:street": "Route Cantonale",
+    "amenity": "restaurant",
+    "cuisine": "pizza;portuguese",
+    "name": "La Cambuse",
+    "opening_hours": "10:00-14:30,17:30-23:00; Tu off",
+    "phone": "+4127 346 13 21",
+    "website": "https://cambuse.ch/"
+  },
+  "id": 9118461951
+}

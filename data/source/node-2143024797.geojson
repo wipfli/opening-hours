@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5393504,
+      47.520894
+    ]
+  },
+  "properties": {
+    "id": 2143024797,
+    "amenity": "restaurant",
+    "check_date": "2025-05-12",
+    "cuisine": "chinese",
+    "name": "Imperial Garden",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa 17:00-22:00; Su 12:00-22:00",
+    "website": "https://www.imperialgarden.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2143024797
+}

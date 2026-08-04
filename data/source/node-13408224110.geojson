@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7685942,
+      47.2404151
+    ]
+  },
+  "properties": {
+    "id": 13408224110,
+    "amenity": "restaurant",
+    "name": "im Rank",
+    "opening_hours": "Mo-Tu 16:00-24:00; We 09:00-14:00,16:00-24:00; Th-Fr 09:00-24:00; Sa 16:00-24:00; Su off",
+    "website": "https://www.rankaarwangen.ch/"
+  },
+  "id": 13408224110
+}

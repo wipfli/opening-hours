@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8275643,
+      47.2416014
+    ]
+  },
+  "properties": {
+    "id": 371596685,
+    "amenity": "restaurant",
+    "name": "Gasthof Frohberg",
+    "opening_hours": "09:30-23:30",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.frohberg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 371596685
+}

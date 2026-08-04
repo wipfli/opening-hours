@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4579033,
+      46.9798774
+    ]
+  },
+  "properties": {
+    "id": 291586179,
+    "addr:city": "Ittigen",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "3048",
+    "addr:street": "Alte Tiefenaustrasse",
+    "addr:suburb": "Worblaufen",
+    "alt_name": "Gasthof Tiefenau",
+    "amenity": "restaurant",
+    "capacity": "140",
+    "contact:email": "info@gasthof-tiefenau.ch",
+    "contact:fax": "+41 31 9220733",
+    "contact:phone": "+41 31 9214700",
+    "cuisine": "italian",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Tiefenau",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa, Su off \"Hotel open\"",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "toilets": "yes",
+    "tourism": "guest_house",
+    "website": "https://www.gasthof-tiefenau.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 291586179
+}

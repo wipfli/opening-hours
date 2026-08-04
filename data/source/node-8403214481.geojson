@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6323849,
+      47.6959543
+    ]
+  },
+  "properties": {
+    "id": 8403214481,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "62",
+    "addr:postcode": "8200",
+    "addr:street": "Neustadt",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/wok.vietnam/",
+    "contact:instagram": "https://www.instagram.com/wokvietnam",
+    "cuisine": "vietnamese",
+    "delivery": "yes",
+    "email": "info@wokvietnam.ch",
+    "name": "Wok Vi\u1ec7t Nam",
+    "opening_hours": "Mo-Fr 11:00-22:00, Sa 17:30-22:00",
+    "phone": "+41 52 624 86 88",
+    "takeaway": "yes",
+    "website": "https://wokvietnam.ch/"
+  },
+  "id": 8403214481
+}

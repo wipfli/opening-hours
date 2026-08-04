@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9096071,
+      47.3470989
+    ]
+  },
+  "properties": {
+    "id": 2152052613,
+    "addr:city": "Olten",
+    "addr:housenumber": "10",
+    "addr:postcode": "4600",
+    "addr:street": "Riggenbachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-03",
+    "name": "Pure",
+    "opening_hours": "Mo-Th 06:00-23:30; Fr,Sa 06:00-00:30; Su 07:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 286 68 00",
+    "website": "https://www.konferenzhotel.ch/restaurant-in-olten"
+  },
+  "id": 2152052613
+}

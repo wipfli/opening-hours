@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3607926,
+      46.2339373
+    ]
+  },
+  "properties": {
+    "id": 912083675,
+    "addr:city": "Sion",
+    "addr:housenumber": "3",
+    "addr:postcode": "1950",
+    "addr:street": "Rue des Ch\u00e2teaux",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/cafedeschateaux/",
+    "contact:instagram": "https://www.instagram.com/cafedeschateaux_sion/",
+    "email": "cafedeschateaux@outlook.com",
+    "name": "Caf\u00e9 des Chateaux",
+    "opening_hours": "Th-Mo 09:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 322 13 96",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cafedeschateaux.ch/",
+    "wheelchair": "no"
+  },
+  "id": 912083675
+}

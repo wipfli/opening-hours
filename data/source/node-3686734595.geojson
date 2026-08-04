@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2671184,
+      47.4962757
+    ]
+  },
+  "properties": {
+    "id": 3686734595,
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Don Jose",
+    "opening_hours": "Tu-Th 11:30-14:00,17:30-23:00; Fr 11:30-14:00,17:30-24:00; Sa 17:30-24:00; Su-Mo off",
+    "operator": "Antonio Vasquez",
+    "phone": "+41 56 222 40 48",
+    "website": "https://www.donjose.ch/"
+  },
+  "id": 3686734595
+}

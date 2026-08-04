@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4312926,
+      46.9418223
+    ]
+  },
+  "properties": {
+    "id": 286879693,
+    "amenity": "restaurant",
+    "check_date": "2025-12-29",
+    "contact:addr": "Belpstrasse 69. 3007 Bern",
+    "cuisine": "thai",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Nari",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 372 25 25",
+    "source": "survey",
+    "takeaway": "yes",
+    "website": "https://nari.be/"
+  },
+  "id": 286879693
+}

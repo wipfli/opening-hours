@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8271825,
+      47.1009364
+    ]
+  },
+  "properties": {
+    "id": 930803424,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "41",
+    "addr:postcode": "2300",
+    "addr:street": "Av. L\u00e9opold-Robert",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "delivery": "yes",
+    "email": "Info@localcraftburgers.ch",
+    "name": "Local Craft Burguers",
+    "opening_hours": "Mo-Su 11:30-13:30,18:30-21:30",
+    "phone": "+41 32 555 44 06",
+    "takeaway": "yes",
+    "website": "https://www.localcraftburgers.ch/",
+    "wheelchair": "no"
+  },
+  "id": 930803424
+}

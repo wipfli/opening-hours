@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7826467,
+      46.6249685
+    ]
+  },
+  "properties": {
+    "id": 7087536680,
+    "addr:city": "Vucherens",
+    "addr:housenumber": "2",
+    "addr:postcode": "1509",
+    "addr:street": "Route de Moudon",
+    "amenity": "restaurant",
+    "name": "Les Trois Suisses",
+    "opening_hours": "Ma, me, je 11:00-14:30, 18:00-23:00 / ve-sa 11:00-14:30, 18:00-24:00",
+    "phone": "+41 21 903 10 24",
+    "website": "https://trois-suisses.ch/"
+  },
+  "id": 7087536680
+}

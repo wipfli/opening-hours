@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5550456,
+      47.3549625
+    ]
+  },
   "properties": {
-    "@id": "node/4935627377",
+    "id": 4935627377,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "161",
@@ -24,12 +31,5 @@
     "website": "https://enoteca-riviera.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5550456,
-      47.3549625
-    ]
-  },
-  "id": "node-4935627377"
+  "id": 4935627377
 }

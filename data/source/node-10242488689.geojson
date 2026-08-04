@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4039718,
+      46.9485901
+    ]
+  },
+  "properties": {
+    "id": 10242488689,
+    "alt_name": "Restaurant Weyermannshaus",
+    "amenity": "restaurant",
+    "contact:email": "info@bbbgmbh.ch",
+    "contact:facebook": "WeyerliBeizli",
+    "contact:instagram": "weyerlibeizli",
+    "diet:vegetarian": "yes",
+    "level": "1",
+    "name": "Weyerli Beizli",
+    "opening_hours": "Mo-We 08:30-20:00; Th-Su 11:00-20:00",
+    "opening_hours:kitchen": "Mo-Tu,Th-Fr 11:30-14:00; Mo-Tu 17:00-20:00; We 11:30-20:00; Th-Fr 17:00-21:00; Sa-Su 11:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 331 41 41",
+    "website": "https://www.weyerlibeizli.ch/"
+  },
+  "id": 10242488689
+}

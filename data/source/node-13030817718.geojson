@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9532853,
+      46.0047416
+    ]
+  },
+  "properties": {
+    "id": 13030817718,
+    "addr:city": "Lugano",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "6900",
+    "addr:street": "Via della Posta",
+    "amenity": "restaurant",
+    "name": "Convivio",
+    "opening_hours": "Tu-Sa 10:30-23:30; Mo 10:30-14:30",
+    "phone": "+41919213903",
+    "website": "https://convivio-lugano.ch/"
+  },
+  "id": 13030817718
+}

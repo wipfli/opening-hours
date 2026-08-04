@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7189477,
+      47.3497719
+    ]
+  },
+  "properties": {
+    "id": 7540802143,
+    "addr:city": "Uster",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Bankstrasse",
+    "amenity": "restaurant",
+    "branch": "Uster",
+    "check_date": "2025-10-30",
+    "cuisine": "asian",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "uster@nooch.ch",
+    "name": "Nooch Asian Kitchen",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "phone": "+41 44 940 33 44",
+    "website": "https://nooch.ch/uster-bankstrasse",
+    "wheelchair": "yes"
+  },
+  "id": 7540802143
+}

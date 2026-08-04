@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6003458,
+      47.5425801
+    ]
+  },
+  "properties": {
+    "id": 12867019283,
+    "alt_name": "Laufeneck",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Restaurant Laufeneck",
+    "opening_hours": "Mo-Fr 11:00-14:00; Mo-Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 331 17 86",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.laufeneck.ch/",
+    "website:menu": "https://www.laufeneck.ch/aktuelle-karte/"
+  },
+  "id": 12867019283
+}

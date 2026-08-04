@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5392118,
+      47.3693224
+    ]
+  },
   "properties": {
-    "@id": "node/4860115691",
+    "id": 4860115691,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "21",
@@ -21,12 +28,5 @@
     "wheelchair": "yes",
     "wheelchair:description": "Eingang mit Lift, Tiefenh\u00f6fe 12 / Klingeln"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5392118,
-      47.3693224
-    ]
-  },
-  "id": "node-4860115691"
+  "id": 4860115691
 }

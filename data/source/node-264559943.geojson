@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2833045,
+      47.1718143
+    ]
+  },
+  "properties": {
+    "id": 264559943,
+    "addr:city": "Biel/Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "123",
+    "addr:street": "B\u00f6zingenberg",
+    "alt_name": "Kurhaus B\u00f6zberg",
+    "amenity": "restaurant",
+    "check_date": "2026-05-25",
+    "email": "boezingenberg@stadthausag.ch",
+    "name": "B\u00f6zingenberg",
+    "name:fr": "Restauran de La Montagne De Boujean",
+    "opening_hours": "Mo-Tu off; We-Fr 11:00-23:00; Sa 10:00-23:00; Su 10:00-21:00",
+    "operator": "stadthausag.ch",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 32 341 17 70",
+    "website": "https://www.stadthausag.ch/"
+  },
+  "id": 264559943
+}

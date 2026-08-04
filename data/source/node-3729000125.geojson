@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.897946,
+      47.5561887
+    ]
+  },
+  "properties": {
+    "id": 3729000125,
+    "amenity": "restaurant",
+    "cuisine": "peruvian",
+    "level": "0.5",
+    "name": "Miski Takiy",
+    "opening_hours": "We-Fr 11:30-14:30,17:30-22:30; Sa 11:30-23:00; Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.miskitakiy.ch",
+    "wheelchair": "no"
+  },
+  "id": 3729000125
+}

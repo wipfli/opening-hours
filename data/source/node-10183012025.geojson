@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6295508,
+      47.055002
+    ]
+  },
+  "properties": {
+    "id": 10183012025,
+    "amenity": "restaurant",
+    "brewery": "burgdorfer",
+    "capacity": "60",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Restaurant Schloss Burgdorf",
+    "opening_hours": "Mo-Su 10:00-18:00 \"Self-service without reservation\", 18:00-22:00 \"Reservation possible\"",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://schloss-burgdorf.ch/de/restaurant/"
+  },
+  "id": 10183012025
+}

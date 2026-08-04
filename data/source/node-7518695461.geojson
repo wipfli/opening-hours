@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5356745,
+      47.221586
+    ]
+  },
+  "properties": {
+    "id": 7518695461,
+    "addr:city": "R\u00fcttenen",
+    "addr:housenumber": "3",
+    "addr:place": "Kreuzen",
+    "addr:postcode": "4522",
+    "amenity": "restaurant",
+    "email": "restaurant@kreuzen.ch",
+    "name": "Kreuzen",
+    "opening_hours": "Mo-Tu 09:00-23:30; We 09:00-14:00; Fr-Sa 09:00-00:30; Su 09:00-22:00",
+    "phone": "+41326227566",
+    "website": "https://www.kreuzen.ch/"
+  },
+  "id": 7518695461
+}

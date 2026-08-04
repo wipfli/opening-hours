@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.839447,
+      46.4988187
+    ]
+  },
+  "properties": {
+    "id": 4377801894,
+    "addr:housenumber": "3",
+    "addr:postcode": "7500",
+    "addr:street": "Plazza dal Mulin",
+    "amenity": "restaurant",
+    "name:en": "Pavarotti & Friends",
+    "opening_hours": "Mo-Su 16:00-01:00",
+    "website": "https://www.pavarottiwinebarstmoritz.ch/"
+  },
+  "id": 4377801894
+}

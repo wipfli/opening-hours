@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7528266,
+      47.2361351
+    ]
+  },
+  "properties": {
+    "id": 2641001204,
+    "addr:city": "Uerikon",
+    "addr:country": "CH",
+    "addr:postcode": "8713",
+    "addr:street": "Stationsstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gleis 1",
+    "opening_hours": "We-Fr 17:00-24:00; Sa 16:00-24:00; Su 16:00-22:00",
+    "phone": "+41 44 926 26 06",
+    "website": "http://www.gleiseis.ch/"
+  },
+  "id": 2641001204
+}

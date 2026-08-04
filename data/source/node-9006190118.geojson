@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.589663,
+      47.5534819
+    ]
+  },
+  "properties": {
+    "id": 9006190118,
+    "addr:city": "Basel",
+    "addr:housenumber": "10",
+    "addr:postcode": "4051",
+    "addr:street": "Theaterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "DIO/MIO",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr 11:30-14:00,17:30-24:00; Sa 12:00-24:00; Su 12:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 283 90 00",
+    "smoking": "outside",
+    "website": "https://www.diomio.ch"
+  },
+  "id": 9006190118
+}

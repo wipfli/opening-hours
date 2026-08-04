@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0126004,
+      47.2880009
+    ]
+  },
+  "properties": {
+    "id": 630500236,
+    "amenity": "restaurant",
+    "name": "Alpwirtschaft Altschwand",
+    "opening_hours": "Th-Sa 09:00-22:15; Su 09:00-20:00; Mo 09:00-22:15",
+    "website": "https://www.alp-altschwand.ch/"
+  },
+  "id": 630500236
+}

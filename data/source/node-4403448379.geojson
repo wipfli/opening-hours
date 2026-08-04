@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3093166,
+      47.0466662
+    ]
+  },
+  "properties": {
+    "id": 4403448379,
+    "addr:city": "Luzern",
+    "addr:housenumber": "18",
+    "addr:postcode": "6003",
+    "addr:street": "Waldst\u00e4tterstrasse",
+    "amenity": "restaurant",
+    "email": "geniessen@zurwerkstatt.ch",
+    "name": "Zur Werkstatt",
+    "opening_hours": "Mo-Fr 11:30-13:30,17:00-00:30, Sa 10:00-14:00,17:00-00:30; Su off",
+    "phone": "+41419790303",
+    "website": "https://www.zurwerkstatt.ch/"
+  },
+  "id": 4403448379
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5410746,
+      47.3672999
+    ]
+  },
+  "properties": {
+    "id": 13665204352,
+    "addr:housenumber": "1",
+    "addr:street": "B\u00fcrkliplatz",
+    "amenity": "restaurant",
+    "indoor_seating": "no",
+    "level": "1",
+    "name": "Arnold Kiosk",
+    "opening_hours": "Mo-Su open \"time not specified\"",
+    "outdoor_seating": "yes",
+    "start_date": "2026-01-04",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.arnold-kiosk.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 13665204352
+}

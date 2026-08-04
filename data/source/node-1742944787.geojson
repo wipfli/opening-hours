@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8512636,
+      47.2595753
+    ]
+  },
+  "properties": {
+    "id": 1742944787,
+    "addr:housenumber": "22",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "Restaurant L\u00f6wen",
+    "amenity": "restaurant",
+    "cuisine": "sushi; japanese; tibetan",
+    "name": "Shizuka Sushi",
+    "opening_hours": "Tu-Fr 11:00-14:00, 17:30-22:00; Sa, Su 17:30-22:00",
+    "phone": "+41 43 511 73 31",
+    "website": "https://www.shizukasushi.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1742944787
+}

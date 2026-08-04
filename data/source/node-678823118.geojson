@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5394998,
+      47.4148932
+    ]
+  },
+  "properties": {
+    "id": 678823118,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8050",
+    "addr:street": "Ellen-Widmann-Weg",
+    "amenity": "restaurant",
+    "check_date": "2024-01-21",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Namaste",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:30; Tu off; Sa-Su 17:00-22:30,11:30-13:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 310 18 01",
+    "website": "https://namaste-oerlikon.ch",
+    "wheelchair": "yes"
+  },
+  "id": 678823118
+}

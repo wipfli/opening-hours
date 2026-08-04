@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4338983,
+      46.9543233
+    ]
+  },
+  "properties": {
+    "id": 7278483007,
+    "amenity": "restaurant",
+    "catering": "yes",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "contact:addr:full": "Gesellschaftsstrasse 38, 3012 Bern",
+    "contact:email": "info@injera.ch",
+    "contact:phone": "+41 31 3013702",
+    "cuisine": "ethiopian",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "entrance": "yes",
+    "highchair": "yes",
+    "name": "Injera",
+    "note": "Nicht Rollstuhlg\u00e4ngig",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-23:00; Sa 17:00-23:30",
+    "operator": "Awraris Girma",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://injera-restaurant.ch/",
+    "wheelchair": "no"
+  },
+  "id": 7278483007
+}

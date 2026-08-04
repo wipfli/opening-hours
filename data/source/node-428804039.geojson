@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2376325,
+      46.3830283
+    ]
+  },
+  "properties": {
+    "id": 428804039,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Croix-Verte",
+    "opening_hours": "Mo-Th 09:30-15:00, 17:00-00:00; Fr, Sa 09:30-00:00; Su 09:30-23:00",
+    "website": "https://www.croixverte.ch/"
+  },
+  "id": 428804039
+}

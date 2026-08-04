@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2490405,
+      46.8967566
+    ]
+  },
+  "properties": {
+    "id": 5008490145,
+    "addr:city": "Sarnen",
+    "addr:housenumber": "5",
+    "addr:postcode": "6060",
+    "addr:street": "Nelkenstrasse",
+    "alt_name": "Migros Restaurant Sarnen",
+    "amenity": "restaurant",
+    "branch": "Sarnen Center",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-sarnen-sarnen-center"
+  },
+  "id": 5008490145
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4477691,
+      46.9473814
+    ]
+  },
+  "properties": {
+    "id": 8312830899,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Asino",
+    "opening_hours": "Tu-Fr 11:00-22:00; Sa 09:00-22:00",
+    "website": "https://asinoilbar.be/"
+  },
+  "id": 8312830899
+}

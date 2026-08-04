@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5356968,
+      47.3723494
+    ]
+  },
   "properties": {
-    "@id": "node/4519542090",
+    "id": 4519542090,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "31",
     "addr:postcode": "8001",
@@ -19,12 +26,5 @@
     "website": "https://www.libanesisch.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5356968,
-      47.3723494
-    ]
-  },
-  "id": "node-4519542090"
+  "id": 4519542090
 }

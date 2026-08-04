@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1369585,
+      46.7273266
+    ]
+  },
+  "properties": {
+    "id": 370171684,
+    "addr:city": "Treyvaux",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "1733",
+    "addr:street": "Route D'Arconciel",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Croix Blanche",
+    "opening_hours": "Tu-Th 08:00-23:30; Fr 08:00-24:00; Sa 09:00-24:00; Su 09:00-22:00",
+    "phone": "+41 26 413 11 53",
+    "source": "survey",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.restaurant-pizzeria-croix-blanche.ch",
+    "wheelchair": "yes"
+  },
+  "id": 370171684
+}

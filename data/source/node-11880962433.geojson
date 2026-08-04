@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8360047,
+      47.2628955
+    ]
+  },
+  "properties": {
+    "id": 11880962433,
+    "addr:city": "Bubikon",
+    "addr:housenumber": "10",
+    "addr:postcode": "8608",
+    "addr:street": "Bannholzstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "description": "Lieferservice nur Abends.",
+    "level": "2",
+    "name": "Al Solito Posto",
+    "opening_hours": "Tu-Th 10:00-13:30,17:30-22:30; Fr 10:00-13:30,17:30-23:00; Sa 17:30-23:00; Su 10:00-13:00,17:30-22:00",
+    "phone": "+41 55 243 10 45",
+    "website": "https://alsolitopostobubikon.wixsite.com/meinewebsite"
+  },
+  "id": 11880962433
+}

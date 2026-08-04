@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4494592,
+      46.9475768
+    ]
+  },
+  "properties": {
+    "id": 3217885285,
+    "addr:housenumber": "54",
+    "addr:street": "M\u00fcnstergasse",
+    "alt_name": "Restaurant Frohsinn",
+    "amenity": "restaurant",
+    "check_date": "2025-07-20",
+    "contact:addr": "M\u00fcnstergasse 54, 3011 Bern",
+    "contact:email": "contact@frohsinn-bern.ch",
+    "contact:fax": "+41 31 3113774",
+    "contact:instagram": "frohsinn_bern",
+    "contact:phone": "+41 78 235 79 68",
+    "contact:website": "http://www.froh-sinn.ch/de/das-anliegen",
+    "cuisine": "regional",
+    "name": "Frohsinn",
+    "opening_hours": "Mo-Fr 11:30-23:30",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.frohsinn-bern.ch/de",
+    "website:menu": "https://www.frohsinn-bern.ch/de/dishes",
+    "wheelchair": "yes"
+  },
+  "id": 3217885285
+}

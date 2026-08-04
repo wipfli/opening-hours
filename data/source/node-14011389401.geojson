@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.631478,
+      46.5156789
+    ]
+  },
+  "properties": {
+    "id": 14011389401,
+    "addr:housenumber": "6",
+    "addr:postcode": "1006",
+    "addr:street": "Rue du Simplon",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "email": "bitumeburger@gmail.com",
+    "name": "BITUME.",
+    "opening_hours": "Mo-Fr 11:30-14:30, 17:30-22:00; Sa-Su 11:30-22:00",
+    "phone": "+41 78 301 86 94",
+    "website": "https://www.bitume.ch/",
+    "website:menu": "https://www.bitume.ch/menu"
+  },
+  "id": 14011389401
+}

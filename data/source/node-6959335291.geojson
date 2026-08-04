@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3077797,
+      47.0725377
+    ]
+  },
+  "properties": {
+    "id": 6959335291,
+    "addr:city": "Lyss",
+    "addr:housenumber": "33",
+    "addr:postcode": "3250",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Lysser Pizza Kurier",
+    "opening_hours": "Mo-Th 11:00-22:50; Fr-Sa 11:00; Su 11:30-22:00",
+    "website": "https://www.lysser-pizza-kurier.ch/"
+  },
+  "id": 6959335291
+}

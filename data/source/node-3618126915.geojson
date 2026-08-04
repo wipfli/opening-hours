@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3078698,
+      47.049221
+    ]
+  },
+  "properties": {
+    "id": 3618126915,
+    "amenity": "restaurant",
+    "cuisine": "middle_eastern",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "name": "Baba oriental",
+    "opening_hours": "Mo-Th 10:00-22:30; Fr,Sa 10:00-23:00; Su 11:30-22:30",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.baba-luzern.ch/location/baba-luzern"
+  },
+  "id": 3618126915
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7450692,
+      47.1744348
+    ]
+  },
+  "properties": {
+    "id": 529597333,
+    "addr:city": "Feusisberg",
+    "addr:housenumber": "91",
+    "addr:postcode": "8835",
+    "addr:street": "Etzelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;persian",
+    "name": "Restaurant Zum Paradies",
+    "opening_hours": "Tu-Su",
+    "phone": "+41 44 784 37 94",
+    "website": "https://zumparadies.ch/"
+  },
+  "id": 529597333
+}

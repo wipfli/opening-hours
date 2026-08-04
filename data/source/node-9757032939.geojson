@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6008949,
+      46.523235
+    ]
+  },
+  "properties": {
+    "id": 9757032939,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "53",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue du Chablais",
+    "amenity": "restaurant",
+    "check_date": "2022-05-20",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "La Poesia",
+    "opening_hours": "Tu-Fr 11:30-14:30,19:00-22:00; Sa 18:30-22:00",
+    "website": "https://lapoesia-restaurant.ch/",
+    "wheelchair": "no"
+  },
+  "id": 9757032939
+}

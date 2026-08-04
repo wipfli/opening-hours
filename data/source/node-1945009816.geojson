@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5251854,
+      47.0847957
+    ]
+  },
+  "properties": {
+    "id": 1945009816,
+    "amenity": "restaurant",
+    "name": "L\u00f6ie Fraubrunnen",
+    "opening_hours": "Th,Fr 09:00-23:00; Sa 10:00-23:00; Su 11:00-20:00",
+    "phone": "+41 31 767 74 69",
+    "website": "https://loewen-fraubrunnen.ch/"
+  },
+  "id": 1945009816
+}

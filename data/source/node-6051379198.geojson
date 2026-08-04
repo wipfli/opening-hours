@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7514376,
+      47.5995366
+    ]
+  },
+  "properties": {
+    "id": 6051379198,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-10-14",
+    "internet_access": "no",
+    "name": "Buschenschenke",
+    "opening_hours": "Fr 16:00-23:00; Sa 11:00-23:00; Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://www.egloff-weine.ch/"
+  },
+  "id": 6051379198
+}

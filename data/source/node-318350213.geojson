@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6759618,
+      47.3655519
+    ]
+  },
+  "properties": {
+    "id": 318350213,
+    "addr:city": "Greifensee",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8606",
+    "addr:street": "Schlossstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-11-06",
+    "name": "Gasthof zur Krone",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su,PH 10:00-22:00",
+    "operator": "Familie Maria Luceri-Odermatt",
+    "phone": "+41 44 905 46 56",
+    "website": "https://www.zur-krone.ch/",
+    "wheelchair": "no"
+  },
+  "id": 318350213
+}

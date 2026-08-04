@@ -1,3 +1,0 @@
-The website states "Täglich geöffnet" (open daily) but does not provide specific opening and closing times. Without exact hours, I cannot construct a reliable OpenStreetMap `opening_hours` string.
-
-UNSURE

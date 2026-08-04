@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7188646,
+      47.286856
+    ]
+  },
+  "properties": {
+    "id": 13371633356,
+    "addr:city": "Oensingen",
+    "addr:housenumber": "15",
+    "addr:postcode": "7702",
+    "addr:street": "Staadackerstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/vebo_genusswerkstatt/",
+    "email": "genusswerkstatt.oensingen@vebo.ch",
+    "level": "0",
+    "name": "Genusswerkstatt",
+    "opening_hours": "Mo-Fr 07:00-17:00; PH closed",
+    "operator": "VEBO",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 388 22 41",
+    "self_service": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://vebo-genusswerkstatt.ch/restaurants/#restaurant",
+    "wheelchair": "limited"
+  },
+  "id": 13371633356
+}

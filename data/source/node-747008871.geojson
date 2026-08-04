@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9091456,
+      46.4307074
+    ]
+  },
+  "properties": {
+    "id": 747008871,
+    "addr:city": "Montreux",
+    "addr:housenumber": "6",
+    "addr:postcode": "1820",
+    "addr:street": "Quai Ernest Ansermet",
+    "amenity": "restaurant",
+    "cuisine": "arab;middle_eastern;persian;moroccan;lebanese",
+    "indoor_seating": "yes",
+    "name": "Le Palais Oriental",
+    "opening_hours": "Mo closed; Tu-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 219631271",
+    "website": "https://www.palaisoriental.ch"
+  },
+  "id": 747008871
+}

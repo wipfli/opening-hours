@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.822615,
+      47.1005802
+    ]
+  },
+  "properties": {
+    "id": 265445099,
+    "addr:postcode": "2300",
+    "amenity": "restaurant",
+    "check_date": "2026-03-28",
+    "cuisine": "greek",
+    "email": "lafeuilledevigne2300@gmail.com",
+    "name": "Restaurant La Feuille de Vigne",
+    "opening_hours": "Mo-Sa 00:00-24:00",
+    "phone": "+41 32 913 14 44",
+    "website": "https://www.lafeuilledevigne2300.com"
+  },
+  "id": 265445099
+}

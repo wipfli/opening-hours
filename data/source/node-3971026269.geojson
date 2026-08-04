@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2398921,
+      46.3819687
+    ]
+  },
+  "properties": {
+    "id": 3971026269,
+    "amenity": "restaurant",
+    "name": "Auberge du Ch\u00e2teau",
+    "opening_hours": "Tu-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "http://aubergeduchateau.ch/"
+  },
+  "id": 3971026269
+}

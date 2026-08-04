@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8303497,
+      47.1062073
+    ]
+  },
+  "properties": {
+    "id": 271182472,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "24",
+    "addr:postcode": "2300",
+    "addr:street": "Rue de la Charri\u00e8re",
+    "amenity": "restaurant",
+    "contact:facebook": "fratellinis.ch",
+    "contact:instagram": "fratellinis",
+    "cuisine": "italian;pizza",
+    "name": "Fratellini's",
+    "opening_hours": "Mo-Sa 11:30-13:45, 17:30-21:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 968 69 69",
+    "website": "https://www.fratellinis.ch"
+  },
+  "id": 271182472
+}

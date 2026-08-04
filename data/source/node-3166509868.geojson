@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3745737,
+      47.4268712
+    ]
+  },
+  "properties": {
+    "id": 3166509868,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "20",
+    "addr:postcode": "9000",
+    "addr:street": "Engelgasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "indoor_seating": "yes",
+    "name": "samosa",
+    "opening_hours": "Tu-Sa 11:30-14:00, 18:00-22:00",
+    "outdoor_seating": "no",
+    "website": "https://www.samosa.ch/"
+  },
+  "id": 3166509868
+}

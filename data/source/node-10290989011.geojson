@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5989185,
+      47.5634916
+    ]
+  },
+  "properties": {
+    "id": 10290989011,
+    "addr:city": "Basel",
+    "addr:housenumber": "65",
+    "addr:postcode": "4058",
+    "addr:street": "Riehenring",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Che Vuoi",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-23:00; Fr 11:30-14:00,17:30-24:00; Sa 17:30-24:00; Su 17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 333 18 00",
+    "smoking": "outside",
+    "website": "https://www.chevuoi.ch/"
+  },
+  "id": 10290989011
+}

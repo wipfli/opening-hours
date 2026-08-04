@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398019,
+      47.3756521
+    ]
+  },
   "properties": {
-    "@id": "node/4941865456",
+    "id": 4941865456,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "88",
@@ -23,12 +30,5 @@
     "wheelchair": "limited",
     "wheelchair:description": "Durch anruf: Hintereingang"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5398019,
-      47.3756521
-    ]
-  },
-  "id": "node-4941865456"
+  "id": 4941865456
 }

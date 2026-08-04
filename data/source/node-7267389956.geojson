@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3757445,
+      47.4623475
+    ]
+  },
+  "properties": {
+    "id": 7267389956,
+    "addr:city": "Wittenbach",
+    "addr:housenumber": "103",
+    "addr:postcode": "9300",
+    "addr:street": "Romanshornerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@restaurant-baeche.ch",
+    "name": "B\u00e4che",
+    "opening_hours": "Mo-Fr 06:00-22:30; Sa 06:30-14:00; Su 07:00-14:00",
+    "phone": "+41 71 298 27 72",
+    "website": "https://www.restaurant-baeche.ch/"
+  },
+  "id": 7267389956
+}

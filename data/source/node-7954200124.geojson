@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0036615,
+      46.2175388
+    ]
+  },
+  "properties": {
+    "id": 7954200124,
+    "amenity": "restaurant",
+    "check_date": "2023-11-25",
+    "check_date:opening_hours": "2025-06-15",
+    "contact:facebook": "https://www.facebook.com/lephilogillesmaury/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g1130015-d7078147-Reviews-Le_Philosophe-Saint_Maurice_Canton_of_Valais_Swiss_Alps.html",
+    "email": "sabrinici@gmail.com",
+    "name": "Le Philosophe",
+    "opening_hours": "09:00-23:00; Tu 09:00-15:00; We off; Fr,Sa 09:00-00:00",
+    "phone": "+41 24 485 22 03",
+    "source:opening_hours": "website",
+    "website": "http://www.lephilosophe.ch/"
+  },
+  "id": 7954200124
+}

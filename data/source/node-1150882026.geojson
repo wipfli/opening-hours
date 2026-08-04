@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.103164,
+      46.2882788
+    ]
+  },
+  "properties": {
+    "id": 1150882026,
+    "addr:city": "Gryon",
+    "addr:housenumber": "40",
+    "addr:postcode": "1882",
+    "addr:street": "Route de l'Alpe des Chaux",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Refuge de Frience",
+    "opening_hours": "11:30-23:00 24/7",
+    "phone": "+41 24 498 1426",
+    "website": "https://refuge-de-frience.ch/"
+  },
+  "id": 1150882026
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4504174,
+      46.9432228
+    ]
+  },
+  "properties": {
+    "id": 101292381,
+    "addr:city": "Bern",
+    "addr:housenumber": "2",
+    "addr:postcode": "3005",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek;local",
+    "name": "Ambassador",
+    "opening_hours": "Mo-Fr 09:00-14:00,18:00-23:30; Sa 18:00-23:30",
+    "phone": "+41 31 525 70 74",
+    "website": "https://www.restaurantambassador.ch"
+  },
+  "id": 101292381
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5321082,
+      47.3654301
+    ]
+  },
   "properties": {
-    "@id": "node/1491966834",
+    "id": 1491966834,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "3",
@@ -21,12 +28,5 @@
     "website": "https://restaurant-le-rendez-vous.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5321082,
-      47.3654301
-    ]
-  },
-  "id": "node-1491966834"
+  "id": 1491966834
 }

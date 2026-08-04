@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4598442,
+      47.4435507
+    ]
+  },
+  "properties": {
+    "id": 13633692102,
+    "addr:housenumber": "80",
+    "addr:postcode": "8105",
+    "addr:street": "Bahnstrasse",
+    "amenity": "restaurant",
+    "name": "Memet Usta",
+    "opening_hours": "Mo-Th 09:00-23:30; Fr 09:00-00:00; Sa 09:30-00:00; Su 09:30-23:30",
+    "phone": "+41 76 455 10 12",
+    "website": "https://www.memet-steakgrill.ch/",
+    "website:menu": "https://www.memet-steakgrill.ch/#fleisch"
+  },
+  "id": 13633692102
+}

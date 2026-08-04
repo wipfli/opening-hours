@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8363838,
+      47.2297773
+    ]
+  },
+  "properties": {
+    "id": 1780175315,
+    "addr:city": "Jona",
+    "addr:housenumber": "30",
+    "addr:postcode": "8645",
+    "addr:street": "St. Gallerstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "LO! im Kreuz",
+    "opening_hours": "Mo-Th 11:00-13:30, 17:00-21:30; Fr 11:00-13:30, 17:00-22:00; Sa 11:00-14:00, 17:00-22:00; Su 12:00-14:00, 17:00-21:30",
+    "outdoor_seating": "yes",
+    "tourism": "hotel",
+    "website": "https://www.loasia.ch/"
+  },
+  "id": 1780175315
+}

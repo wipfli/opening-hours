@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7876351,
+      46.1684359
+    ]
+  },
+  "properties": {
+    "id": 13689146823,
+    "addr:city": "Locarno",
+    "addr:housenumber": "5",
+    "addr:postcode": "6600",
+    "addr:street": "Via Alberto Franzoni",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:pescetarian": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Da Larissa",
+    "opening_hours": "Mo-Su 11:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 756 0575",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://ristorantedalarissa.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13689146823
+}

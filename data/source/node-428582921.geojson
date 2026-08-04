@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8231231,
+      47.1024673
+    ]
+  },
+  "properties": {
+    "id": 428582921,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "63",
+    "addr:postcode": "2300",
+    "addr:street": "Rue du Progr\u00e8s",
+    "amenity": "restaurant",
+    "email": "es@les-enfantsterribles.ch",
+    "name": "Les Enfants Terribles",
+    "opening_hours": "Mo-Sa 09:30-14:00, 18:00-00:00",
+    "phone": "+41 32 913 39 90",
+    "website": "https://les-enfantsterribles.ch"
+  },
+  "id": 428582921
+}

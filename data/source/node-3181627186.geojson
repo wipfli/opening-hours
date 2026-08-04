@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9014114,
+      47.5595888
+    ]
+  },
+  "properties": {
+    "id": 3181627186,
+    "amenity": "restaurant",
+    "cuisine": "pizza;burger",
+    "delivery": "yes",
+    "level": "0",
+    "name": "Bonny's Kitchen",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa-Su 17:00-23:00",
+    "website": "https://bonnyskitchen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3181627186
+}

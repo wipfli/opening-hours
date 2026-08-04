@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7444891,
+      46.1864826
+    ]
+  },
+  "properties": {
+    "id": 1811435535,
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Ristorante Alla Cantina",
+    "opening_hours": "We-Su 09:00-14:00, Tu-Su 17:00-23:00",
+    "opening_hours:kitchen": "Tu-Su 12:00-14:00, 18:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.ristoranteallacantina.com/"
+  },
+  "id": 1811435535
+}

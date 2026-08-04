@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441423,
+      47.3741387
+    ]
+  },
   "properties": {
-    "@id": "node/12704813185",
+    "id": 12704813185,
     "addr:housenumber": "14",
     "addr:street": "M\u00fchlegasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://thesouthindian.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5441423,
-      47.3741387
-    ]
-  },
-  "id": "node-12704813185"
+  "id": 12704813185
 }

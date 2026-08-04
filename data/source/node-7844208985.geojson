@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1105259,
+      46.25199
+    ]
+  },
+  "properties": {
+    "id": 7844208985,
+    "addr:city": "Les Plans-sur-Bex",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1880",
+    "addr:street": "Route du Pont-de-Nant",
+    "amenity": "restaurant",
+    "capacity:persons": "31",
+    "capacity:rooms": "6",
+    "check_date": "2024-02-10",
+    "ele": "1253",
+    "email": "info@pontdenant.ch",
+    "name": "Auberge et Restaurant du Pont de Nant",
+    "old_name": "Auberge Communale du Pont de Nant",
+    "opening_hours": "May 10-31 We-Su 09:00-22:00; Jun 01-Sep 21 09:00-22:00; Sep 22-Nov 02 Th-Su 09:00-22:00; Dec 27-Mar 08 We-Fr off",
+    "phone": "+41 24 498 14 95",
+    "power_supply": "yes",
+    "ref:refuges.info": "3608",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "https://www.pontdenant.ch/"
+  },
+  "id": 7844208985
+}

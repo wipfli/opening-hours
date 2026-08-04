@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2466028,
+      47.0519483
+    ]
+  },
+  "properties": {
+    "id": 5353403298,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Hammer",
+    "opening_hours": "Mo-Fr 07:00-23:30; Sa 09:00-23:30; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.hammer-highway-grill.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5353403298
+}

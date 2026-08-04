@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5586356,
+      47.3569676
+    ]
+  },
   "properties": {
-    "@id": "node/5888416187",
+    "id": 5888416187,
     "amenity": "restaurant",
     "check_date": "2025-11-06",
     "check_date:diet:vegan": "2025-11-06",
@@ -19,12 +26,5 @@
     "smoking": "no",
     "website": "https://www.hammambasar.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5586356,
-      47.3569676
-    ]
-  },
-  "id": "node-5888416187"
+  "id": 5888416187
 }

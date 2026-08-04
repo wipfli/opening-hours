@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5477206,
+      47.3725629
+    ]
+  },
   "properties": {
-    "@id": "node/8085179543",
+    "id": 8085179543,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "36",
     "addr:postcode": "8001",
@@ -13,12 +20,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.restaurant-chiffon.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5477206,
-      47.3725629
-    ]
-  },
-  "id": "node-8085179543"
+  "id": 8085179543
 }

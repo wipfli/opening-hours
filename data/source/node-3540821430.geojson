@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5758549,
+      47.3380887
+    ]
+  },
+  "properties": {
+    "id": 3540821430,
+    "addr:city": "Zollikon",
+    "addr:housenumber": "96",
+    "addr:postcode": "8702",
+    "addr:street": "Rotfluhstrasse",
+    "amenity": "restaurant",
+    "name": "Zolliker Stube",
+    "opening_hours": "Mo-Fr 08:30-22:00; Sa 08:30-18:00",
+    "phone": "+41 44 391 29 69",
+    "website": "https://www.zollikerstube.ch/"
+  },
+  "id": 3540821430
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2076793,
+      47.4824946
+    ]
+  },
+  "properties": {
+    "id": 942676131,
+    "addr:city": "Brugg AG",
+    "addr:housenumber": "5",
+    "addr:postcode": "5200",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@lulivo-brugg.ch",
+    "contact:phone": "+41 56 442 13 72",
+    "contact:website": "http://www.lulivo-brugg.ch",
+    "cuisine": "italian",
+    "delivery": "no",
+    "name": "L'Ulivo",
+    "opening_hours": "Mo-Sa 10:00-23:30; Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://www.lulivo-brugg.ch",
+    "wheelchair": "yes"
+  },
+  "id": 942676131
+}

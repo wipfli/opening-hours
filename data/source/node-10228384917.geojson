@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8777238,
+      46.9396378
+    ]
+  },
+  "properties": {
+    "id": 10228384917,
+    "addr:postcode": "3556",
+    "amenity": "restaurant",
+    "email": "info@sternentrub.ch",
+    "name": "Landgasthof Sternen",
+    "opening_hours": "We-Fr 11:00-23:00; Sa 14:00-23:00; Su 11:00-17:00",
+    "phone": "+41 34 491 22 33",
+    "website": "https://www.sternentrub.ch/"
+  },
+  "id": 10228384917
+}

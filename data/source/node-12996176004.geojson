@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3987586,
+      47.4054542
+    ]
+  },
+  "properties": {
+    "id": 12996176004,
+    "addr:housenumber": "7",
+    "addr:street": "Badenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-12",
+    "cuisine": "pizza",
+    "email": "dietikon@napule.ch",
+    "level": "0",
+    "name": "Napul\u00e9",
+    "opening_hours": "Mo-Th 11:00-14:00,18:00-22:00; Fr 11:30-14:00,18:00-22:30; Sa 11:30-14:30,18:00-22:30; Su 11:30-14:30,18:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 915 05 15",
+    "reservation": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.napule.ch/de/dietikon",
+    "wheelchair": "yes"
+  },
+  "id": 12996176004
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7261381,
+      46.4208464
+    ]
+  },
+  "properties": {
+    "id": 345328400,
+    "amenity": "restaurant",
+    "contact:email": "info@murtarol.ch",
+    "cuisine": "fish",
+    "name": "Murtar\u00f6l",
+    "opening_hours": "Mo-Su 11:45-21:30",
+    "phone": "+41 81 826 53 50",
+    "website": "https://murtarol.ch/"
+  },
+  "id": 345328400
+}

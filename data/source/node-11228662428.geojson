@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6021348,
+      47.2592528
+    ]
+  },
+  "properties": {
+    "id": 11228662428,
+    "addr:city": "Horgen",
+    "addr:housenumber": "200",
+    "addr:postcode": "8810",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Khan\u2019s - flavours of asia",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:30; Sa-Su 17:00-22:30",
+    "phone": "+41 44 554 72 74",
+    "website": "https://www.khanasia.ch/"
+  },
+  "id": 11228662428
+}

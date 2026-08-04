@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4484841,
+      46.9467627
+    ]
+  },
+  "properties": {
+    "id": 2572061811,
+    "alt_name": "Casino Restaurants Bern",
+    "amenity": "restaurant",
+    "contact:addr": "Casinoplatz 1, 3011 Bern",
+    "contact:email": "info@casinobern.ch",
+    "contact:fax": "+41 31 3280333",
+    "contact:phone": "+41 31 3280200",
+    "name": "Casino",
+    "name:ja": "\u30ab\u30b8\u30ce",
+    "note": "Seit Sp\u00e4tsommer 2019 nach Umbau wiederer\u00f6ffnet",
+    "opening_hours": "closed",
+    "operator": "Casino Restaurants Bern AG",
+    "outdoor_seating": "no",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.casinobern.ch/kulinarik",
+    "wheelchair": "yes"
+  },
+  "id": 2572061811
+}

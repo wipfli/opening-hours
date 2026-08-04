@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6003423,
+      46.9952009
+    ]
+  },
+  "properties": {
+    "id": 9050846771,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Viktoria",
+    "opening_hours": "Mo-Su 10:00-14:00,17:00-23:00",
+    "phone": "+41 41 820 35 35",
+    "website": "https://restaurant-viktoria.ch/"
+  },
+  "id": 9050846771
+}

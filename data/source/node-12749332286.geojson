@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3649683,
+      47.42172
+    ]
+  },
+  "properties": {
+    "id": 12749332286,
+    "amenity": "restaurant",
+    "check_date": "2026-06-11",
+    "cuisine": "japanese",
+    "name": "Izakaya Ekimae",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "website": "https://www.ekimae.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12749332286
+}

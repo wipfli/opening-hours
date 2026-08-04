@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9191612,
+      47.3349466
+    ]
+  },
+  "properties": {
+    "id": 5991384143,
+    "addr:city": "Olten",
+    "addr:postcode": "4601",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "S\u00e4lischl\u00f6ssli",
+    "opening_hours": "We-Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 295 71 71",
+    "website": "https://www.saelischloessli.ch/"
+  },
+  "id": 5991384143
+}

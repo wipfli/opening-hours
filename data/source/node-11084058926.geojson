@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7494099,
+      46.0205204
+    ]
+  },
+  "properties": {
+    "id": 11084058926,
+    "addr:city": "Zermatt",
+    "addr:housenumber": "1",
+    "addr:postcode": "3920",
+    "addr:street": "Uferweg",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Zermatt Kitchen",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "phone": "+41766414644",
+    "website": "https://www.zermattkitchen.ch"
+  },
+  "id": 11084058926
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6266335,
+      47.057306
+    ]
+  },
+  "properties": {
+    "id": 481168412,
+    "amenity": "restaurant",
+    "contact:addr": "Metzgergasse 12, 3400 Burgdorf",
+    "contact:email": "info@gedult.ch",
+    "contact:facebook": "https://www.facebook.com/zurgedult",
+    "contact:instagram": "https://www.instagram.com/zurgedult",
+    "contact:phone": "+41 34 5300272",
+    "contact:website": "https://www.gedult.ch/kontakt/",
+    "cuisine": "french",
+    "name": "Zur Gedult",
+    "opening_hours": "Su-Mo off; Tu-Sa 18:00-23:00; PH off",
+    "website": "https://www.gedult.ch",
+    "wikidata": "Q90259450"
+  },
+  "id": 481168412
+}

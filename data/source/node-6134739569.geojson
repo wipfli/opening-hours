@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6297599,
+      47.6839237
+    ]
+  },
+  "properties": {
+    "id": 6134739569,
+    "addr:city": "Flurlingen",
+    "addr:housenumber": "40",
+    "addr:postcode": "8247",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gasthof Frohsinn",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "website": "https://gasthof-frohsinn.ch/"
+  },
+  "id": 6134739569
+}

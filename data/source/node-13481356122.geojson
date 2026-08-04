@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3804351,
+      47.4246736
+    ]
+  },
+  "properties": {
+    "id": 13481356122,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "9",
+    "addr:postcode": "9000",
+    "addr:street": "L\u00e4mmlisbrunnenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Rimini",
+    "opening_hours": "Mo 08:00-14:00; Tu,We 08:00-16:00; Th,Fr 08:00-20:00",
+    "website": "https://www.rimini-sg.ch"
+  },
+  "id": 13481356122
+}

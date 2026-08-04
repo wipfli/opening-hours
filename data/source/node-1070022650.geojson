@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.767681,
+      47.2522851
+    ]
+  },
+  "properties": {
+    "id": 1070022650,
+    "amenity": "restaurant",
+    "name": "Chez Gaspi 23",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-13:30, 18:00-23:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://chezgaspi23.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1070022650
+}

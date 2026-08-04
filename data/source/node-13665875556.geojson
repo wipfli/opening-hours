@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5271465,
+      46.9914472
+    ]
+  },
+  "properties": {
+    "id": 13665875556,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "regional;fish",
+    "name": "Adler",
+    "opening_hours": "Mo, Th, Fr 09:00-14:00,17:00-22:30; Sa, Su 09:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 828 20 28",
+    "website": "https://www.adler-gersau.ch/home"
+  },
+  "id": 13665875556
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6271334,
+      46.5071714
+    ]
+  },
+  "properties": {
+    "id": 497304844,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "kids_area": "indoor",
+    "name": "Boccalino",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-22:00; Sa 11:30-22:00; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 616 35 39",
+    "website": "https://www.boccalino.ch/",
+    "wheelchair": "no"
+  },
+  "id": 497304844
+}

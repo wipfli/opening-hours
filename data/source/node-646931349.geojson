@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3136757,
+      47.4633152
+    ]
+  },
+  "properties": {
+    "id": 646931349,
+    "addr:housenumber": "71",
+    "addr:street": "Seminarstrasse",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "Restaurant Station Skarab\u00e4us",
+    "opening_hours": "Mo-Fr 08:00-14:00,16:00-23:00; Sa 16:00-24:00",
+    "takeaway": "yes",
+    "website": "https://www.stadion-skarabaeus.ch"
+  },
+  "id": 646931349
+}

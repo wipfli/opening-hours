@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.156822,
+      46.7845299
+    ]
+  },
+  "properties": {
+    "id": 5961410223,
+    "amenity": "restaurant",
+    "capacity": "30",
+    "name": "Clubhaus TC Lungern",
+    "opening_hours": "\"sporadisch ge\u00f6ffnet\"",
+    "website": "https://tclungern.ch/"
+  },
+  "id": 5961410223
+}

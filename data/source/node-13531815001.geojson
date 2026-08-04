@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1665568,
+      46.2005424
+    ]
+  },
+  "properties": {
+    "id": 13531815001,
+    "addr:housenumber": "8",
+    "addr:postcode": "1207",
+    "addr:street": "Avenue de la Gare-des-Eaux-Vives",
+    "amenity": "restaurant",
+    "name": "Caracol",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 22 840 25 25",
+    "website": "https://www.caracol-restaurant.ch/"
+  },
+  "id": 13531815001
+}

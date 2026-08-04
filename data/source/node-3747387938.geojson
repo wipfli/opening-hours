@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1261601,
+      46.2242591
+    ]
+  },
+  "properties": {
+    "id": 3747387938,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "2",
+    "addr:postcode": "1209",
+    "addr:street": "Chemin de la Tourelle",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "pizza",
+    "delivery": "no",
+    "name": "Luigia",
+    "opening_hours": "Mo-Fr 12:00-14:30, 18:00-22:30; Sa, Su 11:30-22:30",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 788 77 70",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.luigia.ch",
+    "wheelchair": "no"
+  },
+  "id": 3747387938
+}

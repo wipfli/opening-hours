@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5572165,
+      47.3662005
+    ]
+  },
   "properties": {
-    "@id": "node/3641579080",
+    "id": 3641579080,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "57",
@@ -19,12 +26,5 @@
     "takeaway": "yes",
     "website": "https://restaurant-lemongrass.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5572165,
-      47.3662005
-    ]
-  },
-  "id": "node-3641579080"
+  "id": 3641579080
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1938777,
+      46.3171132
+    ]
+  },
+  "properties": {
+    "id": 11658187969,
+    "addr:housenumber": "20",
+    "addr:postcode": "1296",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "contact:instagram": "simunyegroup",
+    "cuisine": "spanish",
+    "email": "coppet@simunye.com",
+    "name": "Simounye Tapas Restaurant",
+    "opening_hours": "Tu-Sa 17:30-22:30",
+    "phone": "+41 22 776 02 55",
+    "website": "https://simunye.com/",
+    "website:menu": "https://simunye.com/weekly-menu/"
+  },
+  "id": 11658187969
+}

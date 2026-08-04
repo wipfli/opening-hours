@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2964716,
+      46.2240014
+    ]
+  },
+  "properties": {
+    "id": 9104176627,
+    "addr:city": "Conthey",
+    "addr:housenumber": "2",
+    "addr:postcode": "1964",
+    "addr:street": "Rue de la Madeleine",
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "brand:wikipedia": "de:Coop (Schweiz)",
+    "cuisine": "german",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 07:30-17:00",
+    "phone": "+41273247919",
+    "website": "https://www.coop-restaurant.ch/fr.html"
+  },
+  "id": 9104176627
+}

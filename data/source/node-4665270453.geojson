@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.603928,
+      46.8178326
+    ]
+  },
+  "properties": {
+    "id": 4665270453,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Nur im Winter ge\u00f6ffnet",
+    "name": "Eisbahnh\u00fcttli",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "seasonal": "winter",
+    "website": "https://www.bbtschiertschen.ch/"
+  },
+  "id": 4665270453
+}

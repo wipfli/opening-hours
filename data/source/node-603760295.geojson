@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4335432,
+      46.9454979
+    ]
+  },
+  "properties": {
+    "id": 603760295,
+    "addr:postcode": "3007",
+    "amenity": "restaurant",
+    "contact:addr": "Belpstrasse 11, 3007 Bern",
+    "contact:email": "info@india4u.ch",
+    "contact:phone": "+41 31 3813919",
+    "cuisine": "indian",
+    "diet:halal": "yes",
+    "diet:vegetarian": "yes",
+    "name": "India4u",
+    "opening_hours": "Mo-Fr 10:30-14:00, 17:00-22:00; Sa-Su 17:00-22:00",
+    "outdoor_seating": "no",
+    "source": "Visiting",
+    "takeaway": "yes",
+    "website": "https://www.india4u.ch"
+  },
+  "id": 603760295
+}

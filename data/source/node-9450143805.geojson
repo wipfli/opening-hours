@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3603102,
+      46.234087
+    ]
+  },
+  "properties": {
+    "id": 9450143805,
+    "addr:city": "Sion",
+    "addr:housenumber": "13",
+    "addr:postcode": "1950",
+    "addr:street": "Rue du Grand-Pont",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "La Croix F\u00e9d\u00e9rale",
+    "opening_hours": "Tu-Sa 10:00-23:00; Fr 09:00-23:00; Su 10:00-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 322 16 95",
+    "website": "https://croix-federale.business.site/"
+  },
+  "id": 9450143805
+}

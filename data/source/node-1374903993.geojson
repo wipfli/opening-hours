@@ -1,19 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/1374903993",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "6",
-    "addr:postcode": "8005",
-    "addr:street": "Konradstrasse",
-    "amenity": "restaurant",
-    "cuisine": "lebanese",
-    "name": "Sham",
-    "opening_hours": "Tu-Fr 11:30-14:00,17:30-23:00; Sa-Su 12:00-22:00",
-    "phone": "+41 44 440 09 09",
-    "website": "https://www.restaurant-sham.ch/",
-    "wheelchair": "limited"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -21,5 +7,21 @@
       47.3800785
     ]
   },
-  "id": "node-1374903993"
+  "properties": {
+    "id": 1374903993,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "6",
+    "addr:postcode": "8005",
+    "addr:street": "Konradstrasse",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "indoor_seating": "yes",
+    "name": "Sham",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-23:00; Sa-Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 440 09 09",
+    "website": "https://www.restaurant-sham.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1374903993
 }

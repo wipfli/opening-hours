@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1242329,
+      46.1857362
+    ]
+  },
+  "properties": {
+    "id": 9081744917,
+    "addr:city": "Grand-Lancy",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1212",
+    "addr:street": "Chemin des M\u00e9rinos",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;pasta",
+    "email": "ciao@nocinopizzeria.com",
+    "name": "Nocino",
+    "opening_hours": "Mo 12:00-14:00; Tu-We 12:00-14:00, 19:00-21:30; Th 12:00-14:00, 17:30-22:00; Fr 12:00-14:00, 18:30-22:00",
+    "phone": "+41 22 743 02 18",
+    "takeaway": "yes",
+    "website": "https://www.nocinopizzeria.com/menu",
+    "wheelchair": "yes"
+  },
+  "id": 9081744917
+}

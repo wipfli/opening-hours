@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.375986,
+      47.4249178
+    ]
+  },
+  "properties": {
+    "id": 555053407,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "4",
+    "addr:postcode": "9000",
+    "addr:street": "Hinterlauben",
+    "amenity": "restaurant",
+    "email": "info@papagei-sg.ch",
+    "fax": "+41 71 220 16 57",
+    "name": "Papagei",
+    "opening_hours": "Mo,Tu 17:30-22:30; We-Fr 11:30-14:00,17:30-22:30; Sa 11:30-23:00; Su 12:00-22:00",
+    "phone": "+41 71 2222 466",
+    "website": "https://www.papagei-sg.ch",
+    "wheelchair": "limited"
+  },
+  "id": 555053407
+}

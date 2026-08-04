@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.527878,
+      47.376328
+    ]
+  },
   "properties": {
-    "@id": "node/656646048",
+    "id": 656646048,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "113",
@@ -17,12 +24,5 @@
     "website": "https://www.brasseriedeparis.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.527878,
-      47.376328
-    ]
-  },
-  "id": "node-656646048"
+  "id": 656646048
 }

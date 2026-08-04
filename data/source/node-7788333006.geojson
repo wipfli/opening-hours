@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2948466,
+      47.0673702
+    ]
+  },
+  "properties": {
+    "id": 7788333006,
+    "addr:city": "Lyss",
+    "addr:housenumber": "71",
+    "addr:postcode": "3250",
+    "addr:street": "Werkstrasse",
+    "amenity": "restaurant",
+    "cuisine": "burger;pizza;wings;fries",
+    "name": "Leo's American Diner",
+    "opening_hours": "Tu-Th 11:30-14:00, 17:00-22:00; Fr 11:30-14:00, 17:00-22:30; Sa 11:30-22:30; Su 11:30-22:00",
+    "phone": "+41 32 384 68 68",
+    "website": "https://www.leonardos.ch",
+    "wheelchair": "no"
+  },
+  "id": 7788333006
+}

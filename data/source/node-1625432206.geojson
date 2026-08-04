@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4967746,
+      47.404036
+    ]
+  },
+  "properties": {
+    "id": 1625432206,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "8049",
+    "addr:street": "Regensdorferstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-03-23",
+    "email": "weinbeiz@zweifel1898.ch",
+    "name": "Zweifels Weinbeiz",
+    "opening_hours": "Mo,Su,PH off; Tu-Fr 11:30-14:00,18:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 44 344 23 42",
+    "website": "https://www.zweifel1898.ch/de/weinbeiz-hoengg.html",
+    "wheelchair": "no"
+  },
+  "id": 1625432206
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455328,
+      47.3724275
+    ]
+  },
   "properties": {
-    "@id": "node/343364120",
+    "id": 343364120,
     "addr:housenumber": "2",
     "addr:street": "Neumarkt",
     "amenity": "restaurant",
@@ -16,12 +23,5 @@
     "website": "https://restaurantkantorei.ch",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5455328,
-      47.3724275
-    ]
-  },
-  "id": "node-343364120"
+  "id": 343364120
 }

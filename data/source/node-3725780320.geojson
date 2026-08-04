@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5421859,
+      47.3359056
+    ]
+  },
+  "properties": {
+    "id": 3725780320,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "557",
+    "addr:postcode": "8038",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "email": "beiz@fischers-fritz.ch",
+    "name": "Fischer's Fritz",
+    "opening_hours": "Mo-Su 11:30-14:00, 18:00-22:00",
+    "operator": "Pumpstation Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 480 13 40",
+    "website": "https://www.fischers-fritz.ch/"
+  },
+  "id": 3725780320
+}

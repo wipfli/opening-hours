@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1444435,
+      46.2041615
+    ]
+  },
+  "properties": {
+    "id": 12236040140,
+    "addr:housenumber": "4",
+    "addr:postcode": "1204",
+    "addr:street": "Rue du Rh\u00f4ne",
+    "amenity": "restaurant",
+    "cuisine": "breakfast",
+    "email": "hello@white-rabbit.ch",
+    "name": "White Rabbit 2 Brunch & Co",
+    "opening_hours": "Mo-Fr 09:00-15:00; Sa-Su 09:00-16:00",
+    "phone": "+41 22 900 14 14",
+    "website": "https://white-rabbit.ch/"
+  },
+  "id": 12236040140
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5873603,
+      47.560758
+    ]
+  },
+  "properties": {
+    "id": 5744306322,
+    "addr:housenumber": "12",
+    "addr:postcode": "4051",
+    "addr:street": "Blumenrain",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Ristorante Fiorentina",
+    "opening_hours": "Mo-Su 10:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41613811212",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.fiorentinabasel.ch"
+  },
+  "id": 5744306322
+}

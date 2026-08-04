@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6547289,
+      46.5934312
+    ]
+  },
+  "properties": {
+    "id": 8781069464,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant BEMATO",
+    "opening_hours": "Mo-Th 07:00-22:00; Fr-Sa 07:00-23:00; Su 07:00-17:00",
+    "outdoor_seating": "yes",
+    "self_service": "only",
+    "website": "https://www.frutigresort.ch/restaurant"
+  },
+  "id": 8781069464
+}

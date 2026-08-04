@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.623203,
+      46.7400315
+    ]
+  },
+  "properties": {
+    "id": 12723063163,
+    "addr:city": "Thun",
+    "addr:housenumber": "25",
+    "addr:postcode": "3604",
+    "addr:street": "Schulstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "BEO Pizzeria",
+    "opening_hours": "Mo-Sa 10:30-13:30,17:00-21:45; Su 15:00-21:45",
+    "phone": "+41 33 335 12 12",
+    "website": "https://www.beo-pizza.ch/"
+  },
+  "id": 12723063163
+}

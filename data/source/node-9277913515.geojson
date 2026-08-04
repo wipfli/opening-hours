@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6286781,
+      47.7276123
+    ]
+  },
+  "properties": {
+    "id": 9277913515,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8200",
+    "addr:street": "L\u00e4ngenbergstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@gasthofziegelhuette.ch",
+    "highchair": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "yes",
+    "name": "Gasthof Ziegelh\u00fctte",
+    "opening_hours": "Mo-Sa 09:00-23:00; Su 09:00-21:00",
+    "operator": "Hallauer Gastro GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 533 10 20",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "website": "https://gasthofziegelhuette.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9277913515
+}

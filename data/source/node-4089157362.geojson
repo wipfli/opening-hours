@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6221371,
+      47.6816237
+    ]
+  },
+  "properties": {
+    "id": 4089157362,
+    "amenity": "restaurant",
+    "name": "Edelweiss",
+    "opening_hours": "Mo-Fr 14:00-23:30, Sa 12:00-00:30, Su 12:00-17:00",
+    "phone": "+41 52 670 10 63",
+    "website": "https://www.hotel-edelweiss-nh.ch/"
+  },
+  "id": 4089157362
+}

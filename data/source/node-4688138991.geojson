@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4284577,
+      46.9491209
+    ]
+  },
+  "properties": {
+    "id": 4688138991,
+    "addr:housenumber": "5",
+    "addr:postcode": "3012",
+    "addr:street": "B\u00fchlstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza;italian",
+    "diet:vegetarian": "yes",
+    "email": "info@ambiente-bern.ch",
+    "name": "Ambiente",
+    "name:de": "Ambiente",
+    "opening_hours": "Mo-Sa 09:00-22:30",
+    "phone": "+41319944646",
+    "website": "https://www.ambiente-bern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4688138991
+}

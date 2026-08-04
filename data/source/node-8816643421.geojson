@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1345913,
+      46.209457
+    ]
+  },
+  "properties": {
+    "id": 8816643421,
+    "addr:housenumber": "4",
+    "addr:street": "Rue Liotard",
+    "amenity": "restaurant",
+    "name": "Spinella",
+    "opening_hours": "Mo-We 10:00-15:00,17:00-24:00, Th,Fr 10:00-15:00,17:00-02:00, Sa 17:00-02:00",
+    "phone": "+41225034186",
+    "website": "https://www.spinella.ch/"
+  },
+  "id": 8816643421
+}

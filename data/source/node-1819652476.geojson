@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5324508,
+      47.3629747
+    ]
+  },
   "properties": {
-    "@id": "node/1819652476",
+    "id": 1819652476,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "33",
@@ -25,12 +32,5 @@
     "website": "https://florentin.rest/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5324508,
-      47.3629747
-    ]
-  },
-  "id": "node-1819652476"
+  "id": 1819652476
 }

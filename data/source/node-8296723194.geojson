@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6448206,
+      46.8567127
+    ]
+  },
+  "properties": {
+    "id": 8296723194,
+    "amenity": "restaurant",
+    "contact:email": "info@54-hochgenuss.ch",
+    "contact:phone": "+41 41 875 64 54",
+    "cuisine": "international;regional",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "8",
+    "name": "54 Hochgenuss",
+    "opening_hours": "Mo-Fr 08:30-15:00, Th-Fr 17:30-23:00, Sa 18:00-23:00",
+    "operator": "Fabian Lombris",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://54-hochgenuss.ch",
+    "wheelchair": "yes"
+  },
+  "id": 8296723194
+}

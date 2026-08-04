@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7649323,
+      47.4957497
+    ]
+  },
+  "properties": {
+    "id": 9708663946,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "10",
+    "addr:postcode": "8404",
+    "addr:street": "Fr\u00f6schenweidstrasse",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Viet Long",
+    "opening_hours": "Mo-Fr 11:00-13:30",
+    "website": "https://www.vietlong.ch/"
+  },
+  "id": 9708663946
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.302531,
+      47.4704305
+    ]
+  },
+  "properties": {
+    "id": 264073054,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "52",
+    "addr:postcode": "5400",
+    "addr:street": "Mellingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Telpizza Baden",
+    "opening_hours": "Su-Th 11:00-24:00, Fr,Sa 11:00-04:00",
+    "takeaway": "yes",
+    "website": "https://baden.telpizza.ch/kontakt/",
+    "wheelchair": "no"
+  },
+  "id": 264073054
+}

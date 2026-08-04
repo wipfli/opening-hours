@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5803722,
+      46.5393429
+    ]
+  },
+  "properties": {
+    "id": 12043920842,
+    "addr:housenumber": "3",
+    "addr:street": "Avenue du 14-Avril",
+    "amenity": "restaurant",
+    "cuisine": "vietnamese",
+    "name": "Ha My",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00",
+    "phone": "+41 21 634 32 47;+41 78 690 37 44",
+    "website": "https://hamy-s.ch"
+  },
+  "id": 12043920842
+}

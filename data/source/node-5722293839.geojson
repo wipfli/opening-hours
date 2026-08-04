@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1282235,
+      47.1209886
+    ]
+  },
+  "properties": {
+    "id": 5722293839,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kerenzerberg",
+    "opening_hours": "Mo-Su",
+    "opening_hours:kitchen": "Tu-Sa 08:00-23:00; Su 08:00-18:00",
+    "phone": "+41 55 614 66 66",
+    "tourism": "hotel",
+    "website": "https://www.szk.ch/hotel-restaurant/"
+  },
+  "id": 5722293839
+}

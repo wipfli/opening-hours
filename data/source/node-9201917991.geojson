@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5383568,
+      47.3663842
+    ]
+  },
   "properties": {
-    "@id": "node/9201917991",
+    "id": 9201917991,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "14",
     "addr:postcode": "8002",
@@ -19,12 +26,5 @@
     "website": "https://1komma7.ch",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5383568,
-      47.3663842
-    ]
-  },
-  "id": "node-9201917991"
+  "id": 9201917991
 }

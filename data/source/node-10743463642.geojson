@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.50473,
+      47.4190835
+    ]
+  },
+  "properties": {
+    "id": 10743463642,
+    "addr:city": "Wald AR",
+    "addr:country": "CH",
+    "addr:housenumber": "123",
+    "addr:place": "B\u00fcel",
+    "addr:postcode": "9044",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hirschen Wald",
+    "opening_hours": "Th-Su 09:00-21:00; Mo 09:00-16:00",
+    "phone": "+41 71 877 11 46",
+    "website": "https://www.hirschenwald.ch"
+  },
+  "id": 10743463642
+}

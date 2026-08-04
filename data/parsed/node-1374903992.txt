@@ -1,3 +1,0 @@
-The website says "Täglich geöffnet" (open daily) and shows "Heute 10:00–00:00" (today 10:00–00:00). However, the site appears to use JavaScript to show only the hours for the current day ("Heute" means "Today"), and it's unclear whether these hours apply every day of the week.
-
-UNSURE

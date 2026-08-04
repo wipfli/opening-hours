@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8112764,
+      46.1753917
+    ]
+  },
+  "properties": {
+    "id": 13291949993,
+    "addr:housenumber": "56",
+    "addr:street": "Via San Gottardo",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/people/Ristorante-Pizzeria-Borenco/100064139315179/",
+    "cuisine": "pizza",
+    "name": "Ristorante Borenco",
+    "opening_hours": "Mo-Sa 08:30-19:00",
+    "phone": "+41917434467",
+    "website": "https://www.ristoranteborenco.ch/"
+  },
+  "id": 13291949993
+}

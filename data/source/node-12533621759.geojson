@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6198951,
+      47.4135633
+    ]
+  },
+  "properties": {
+    "id": 12533621759,
+    "addr:city": "Dietlikon",
+    "addr:floor": "EG",
+    "addr:housenumber": "24",
+    "addr:postcode": "8305",
+    "addr:street": "Industriestrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2026-05-07",
+    "cuisine": "asian",
+    "email": "info@tararestaurant.ch",
+    "level": "0",
+    "name": "Tara",
+    "opening_hours": "Mo-Fr 10:30-14:30,17:30-22:00; Sa 11:00-22:00; Su off",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 592 03 79",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://tararestaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12533621759
+}

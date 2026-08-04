@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3093834,
+      47.4721426
+    ]
+  },
+  "properties": {
+    "id": 1759991165,
+    "addr:housename": "Rebstock",
+    "addr:housenumber": "21",
+    "addr:postcode": "5400",
+    "addr:street": "Untere Halde",
+    "amenity": "restaurant",
+    "check_date": "2025-11-02",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Rebstock",
+    "opening_hours": "Tu-Sa 17:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.rebstockbaden.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1759991165
+}

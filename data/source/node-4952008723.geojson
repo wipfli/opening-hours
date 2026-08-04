@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7146463,
+      47.5054212
+    ]
+  },
+  "properties": {
+    "id": 4952008723,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "31",
+    "addr:postcode": "8400",
+    "addr:street": "B\u00fcrglistrasse",
+    "amenity": "restaurant",
+    "cuisine": "balkan",
+    "name": "Emporium",
+    "opening_hours": "Mo, We, Th 10:00-21:00; Fr, Sa 10:00-22:00; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 223 18 00",
+    "website": "https://restaurant-emporium.digitalone.site/"
+  },
+  "id": 4952008723
+}

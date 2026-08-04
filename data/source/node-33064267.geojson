@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4327178,
+      46.95452
+    ]
+  },
+  "properties": {
+    "id": 33064267,
+    "amenity": "restaurant",
+    "check_date": "2022-09-27",
+    "contact:addr": "Seidenweg 9b, 3012 Bern",
+    "contact:phone": "+41 31 3023233",
+    "name": "Zum blauen Engel",
+    "opening_hours": "Tu-Sa 17:00-23:00",
+    "opening_hours:covid19": "off",
+    "operator": "Charlotte von Gunten",
+    "source": "survey and website",
+    "website": "http://www.zumblauenengel.ch"
+  },
+  "id": 33064267
+}

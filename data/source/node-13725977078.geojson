@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6300457,
+      47.7030064
+    ]
+  },
+  "properties": {
+    "id": 13725977078,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8200",
+    "addr:street": "Zur Stahlgiesserei",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;pasta",
+    "email": "info@gustokitchenschaffhausen.com",
+    "name": "Gusto Kitchen",
+    "opening_hours": "Tu-Su 10:00-14:00,17:00-23:00",
+    "website": "https://gusto-kitchen.ch/"
+  },
+  "id": 13725977078
+}

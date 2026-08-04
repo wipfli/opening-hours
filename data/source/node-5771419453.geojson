@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1340354,
+      46.6091104
+    ]
+  },
+  "properties": {
+    "id": 5771419453,
+    "addr:city": "Broc",
+    "addr:postcode": "1636",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "email": "info@Boudji.ch",
+    "name": "Chez Boudji",
+    "opening_hours": "Mo-Su 10:00-16:00, 17:00-23:00",
+    "phone": "+41 26 921 90 50",
+    "website": "http://www.boudji.ch"
+  },
+  "id": 5771419453
+}

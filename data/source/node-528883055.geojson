@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1808245,
+      47.4625075
+    ]
+  },
+  "properties": {
+    "id": 528883055,
+    "addr:city": "Habsburg",
+    "addr:country": "CH",
+    "addr:floor": "0;1;2",
+    "addr:housenumber": "30",
+    "addr:postcode": "5245",
+    "addr:street": "Schlossgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-17",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@schlossrestaurant-habsburg.ch",
+    "name": "Schlossrestaurant Habsburg",
+    "opening_hours": "Mo-Tu off; We 11:00-14:00, 18:00-22:30; Sa 11:00-22:30 \"Nachmittag kleine Karte\"; Su 11:00-21:00 \"K\u00fcche bis 20:00\"",
+    "opening_hours:url": "https://schlossrestaurant-habsburg.ch/kontakt/",
+    "phone": "+41 56 441 16 73",
+    "website": "https://www.schlossrestaurant-habsburg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 528883055
+}

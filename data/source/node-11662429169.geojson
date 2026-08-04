@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3302135,
+      46.6635611
+    ]
+  },
+  "properties": {
+    "id": 11662429169,
+    "addr:city": "Le Pont",
+    "addr:housenumber": "3",
+    "addr:postcode": "1342",
+    "addr:street": "Rue du Lac",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Brasserie des Combi\u00e8res",
+    "opening_hours": "We-Fr 10:00-14:00,17:00-23:00; Sa 10:00-23:30; Su 10:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://lescombieres.ch/"
+  },
+  "id": 11662429169
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1404131,
+      46.2029196
+    ]
+  },
+  "properties": {
+    "id": 5609307313,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "1",
+    "addr:postcode": "1204",
+    "addr:street": "Place de la Synagogue",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "description": "Chez Katr\u00e9pices, pour un lunch, un after work au bar \u00e0 vins, un \u00e9v\u00e8nement priv\u00e9 ou le brunch du dimanche, il y a du nouveau chaque jour !",
+    "level": "0",
+    "name": "Katr\u00e9pices",
+    "opening_hours": "Mo-Fr 10:00-24:00; Su 11:00-15:30",
+    "phone": "+41 22 311 44 11",
+    "website": "https://katrepices.com/"
+  },
+  "id": 5609307313
+}

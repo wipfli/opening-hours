@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5466247,
+      46.839577
+    ]
+  },
+  "properties": {
+    "id": 2927938429,
+    "addr:city": "Gerzensee",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "3115",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "Gasthof B\u00e4ren Gerzensee",
+    "amenity": "restaurant",
+    "contact:email": "info@baeren-gerzensee.ch",
+    "contact:phone": "+41 31 7811421",
+    "cuisine": "regional",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Tu 09:00-23:30; We-Th off; Fr-Sa 09:00-23:30; Su 10:00-22:00",
+    "source": "survey and website",
+    "website": "https://www.baeren-gerzensee.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2927938429
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4173533,
+      46.9331945
+    ]
+  },
+  "properties": {
+    "id": 5208963596,
+    "amenity": "restaurant",
+    "contact:mobile": "+41 78 765 48 89",
+    "contact:phone": "+41 31 971 41 41",
+    "description": "Buffet mit indischer und sri-lankanischer K\u00fcche. Takeaway ab 11.-",
+    "level": "1",
+    "name": "Bollyfood Restaurant & Takeaway",
+    "opening_hours": "Mo-Fr 11:00-14:30, 18:00-22:30",
+    "website": "http://www.bollyfood-liebefeld.ch"
+  },
+  "id": 5208963596
+}

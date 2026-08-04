@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7217586,
+      47.351962
+    ]
+  },
+  "properties": {
+    "id": 354534791,
+    "addr:floor": "0",
+    "amenity": "restaurant",
+    "check_date": "2025-04-28",
+    "name": "Brunnentor",
+    "opening_hours": "Tu-Fr 11:00-14:00, 17:30-23:30; Sa 17:30-23:30",
+    "website": "https://brunnentor-uster.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 354534791
+}

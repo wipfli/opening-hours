@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5068778,
+      46.9561396
+    ]
+  },
+  "properties": {
+    "id": 1029622808,
+    "addr:city": "Ostermundigen",
+    "addr:country": "CH",
+    "addr:housenumber": "98a",
+    "addr:postcode": "3072",
+    "addr:street": "R\u00fctiweg",
+    "alt_name": "Restaurant R\u00fcti",
+    "amenity": "restaurant",
+    "contact:email": "rest_rueti@hotmail.com",
+    "contact:fax": "+41 31 5341638",
+    "contact:phone": "+41 31 9315070",
+    "name": "R\u00fcti",
+    "opening_hours": "Mo,Tu off; We,Th 17:00-22:30; Fr 17:00-23:00; Sa 11:00-23:00; Su 11:00-21:00",
+    "source": "survey and website",
+    "website": "https://www.rueti-ostermundigen.com/",
+    "wheelchair": "limited"
+  },
+  "id": 1029622808
+}

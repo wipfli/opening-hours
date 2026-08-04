@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6336608,
+      46.5185804
+    ]
+  },
+  "properties": {
+    "id": 2507678574,
+    "amenity": "restaurant",
+    "level": "3",
+    "name": "Caf\u00e9 Mozart",
+    "opening_hours": "Mo 08:30-17:30; Tu-Fr 08:30-23:00; Sa 09:00-18:00",
+    "phone": "+41 21 323 10 30",
+    "website": "https://www.mozartcafe.ch/"
+  },
+  "id": 2507678574
+}

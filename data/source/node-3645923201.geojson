@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5391331,
+      47.3766199
+    ]
+  },
   "properties": {
-    "@id": "node/3645923201",
+    "id": 3645923201,
     "amenity": "restaurant",
     "cuisine": "regional",
     "indoor_seating": "yes",
@@ -11,12 +18,5 @@
     "website": "https://www.simplonbar.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5391331,
-      47.3766199
-    ]
-  },
-  "id": "node-3645923201"
+  "id": 3645923201
 }

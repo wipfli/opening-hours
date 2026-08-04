@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9651106,
+      46.3173648
+    ]
+  },
+  "properties": {
+    "id": 12534679502,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Kirin Sushi",
+    "opening_hours": "Mo 11:00-14:30,17:30-22:30; Tu 18:00-22:00; We 11:00-14:30,17:30-22:30; Th 11:00-22:30,17:30-22:30; Fr-Su 11:00-14:30,17:30-22:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://kirin-restaurant.com/fr/"
+  },
+  "id": 12534679502
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.374593,
+      47.4231214
+    ]
+  },
+  "properties": {
+    "id": 445476944,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "27",
+    "addr:postcode": "9000",
+    "addr:street": "Oberer Graben",
+    "amenity": "restaurant",
+    "name": "Stars and Stripes",
+    "opening_hours": "Mo-Sa 10:00+; Su 10:00+",
+    "phone": "+41 71 222 80 18",
+    "website": "https://www.starsandstripes.ch/de/p/standorte/st-gallen-1090.html",
+    "wheelchair": "no"
+  },
+  "id": 445476944
+}

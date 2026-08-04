@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8120092,
+      46.1756785
+    ]
+  },
+  "properties": {
+    "id": 10605010705,
+    "addr:city": "Minusio",
+    "addr:country": "CH",
+    "addr:housenumber": "58",
+    "addr:postcode": "6648",
+    "addr:street": "Via San Gottardo",
+    "amenity": "restaurant",
+    "check_date": "2026-06-01",
+    "check_date:opening_hours": "2026-06-01",
+    "cuisine": "pizza",
+    "name": "Ristorante Pizzeria Centrale",
+    "opening_hours": "Mo-Su 08:00-23:30",
+    "phone": "+41 91 743 06 86",
+    "website": "https://www.centraleminusio.ch/"
+  },
+  "id": 10605010705
+}

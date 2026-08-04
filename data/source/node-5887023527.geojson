@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8992461,
+      47.3214241
+    ]
+  },
+  "properties": {
+    "id": 5887023527,
+    "addr:city": "Aarburg",
+    "addr:housenumber": "16",
+    "addr:postcode": "4663",
+    "addr:street": "St\u00e4dtchen",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "its1world Management",
+    "outdoor_seating": "yes",
+    "website": "https://www.baerenaarburg.ch/"
+  },
+  "id": 5887023527
+}

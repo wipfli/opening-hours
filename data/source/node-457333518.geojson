@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5928628,
+      47.543543
+    ]
+  },
+  "properties": {
+    "id": 457333518,
+    "addr:city": "Basel",
+    "addr:housenumber": "183",
+    "addr:postcode": "4053",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@ristorante-valentino.ch",
+    "indoor_seating": "yes",
+    "name": "Ristorante Valentino",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 506 85 22",
+    "smoking": "outside",
+    "website": "https://www.ristorante-valentino.ch/",
+    "wheelchair": "no"
+  },
+  "id": 457333518
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7587691,
+      47.3851019
+    ]
+  },
+  "properties": {
+    "id": 3725772882,
+    "addr:city": "Fehraltorf",
+    "addr:housenumber": "12",
+    "addr:postcode": "8320",
+    "addr:street": "Russikerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-26",
+    "email": "info@zepp.ch",
+    "name": "ZEPP Restaurant Bar Lounge",
+    "opening_hours": "Mo-Fr 11:00-14:00,16:30-24:00; Sa 16:00-24:00",
+    "phone": "+41 44 954 17 44",
+    "website": "https://zepp.ch/"
+  },
+  "id": 3725772882
+}

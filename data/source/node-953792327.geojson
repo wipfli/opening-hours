@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9519848,
+      47.2734333
+    ]
+  },
+  "properties": {
+    "id": 953792327,
+    "addr:city": "Goldingen",
+    "addr:housenumber": "16",
+    "addr:postcode": "8638",
+    "addr:street": "Bannholzstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bannholz",
+    "opening_hours": "We-Sa 09:00-23:00; Su 09:00-21:00",
+    "website": "https://www.bannholz.net/"
+  },
+  "id": 953792327
+}

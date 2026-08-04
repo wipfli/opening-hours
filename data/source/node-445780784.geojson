@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3752399,
+      47.427074
+    ]
+  },
+  "properties": {
+    "id": 445780784,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "22",
+    "addr:postcode": "9000",
+    "addr:street": "Metzgergasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@focacceria.ch",
+    "name": "Focacceria",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su off",
+    "operator": "Focacceria AG",
+    "phone": "+41 71 220 16 15",
+    "website": "https://focacceria.ch/focacceria-sg/",
+    "wheelchair": "no"
+  },
+  "id": 445780784
+}

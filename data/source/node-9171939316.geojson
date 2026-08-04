@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7957034,
+      47.2692562
+    ]
+  },
+  "properties": {
+    "id": 9171939316,
+    "addr:city": "Wolfwil",
+    "addr:housenumber": "35",
+    "addr:postcode": "4628",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "email": "info@zuraltenpostwolfwil.ch",
+    "name": "zur alten Post",
+    "opening_hours": "Mo-Fr 08:30-23:30; We off; Sa 09:30-23:30; Su 09:30-22:00",
+    "phone": "+41 62 926 01 00",
+    "website": "https://www.zuraltenpostwolfwil.ch/"
+  },
+  "id": 9171939316
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8543649,
+      46.705475
+    ]
+  },
+  "properties": {
+    "id": 3366586962,
+    "addr:city": "Disentis/Must\u00e9r",
+    "addr:country": "CH",
+    "addr:postcode": "7180",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Surselva",
+    "opening_hours": "Mo-Su 16:00-18:00+",
+    "outdoor_seating": "yes",
+    "website": "https://www.pizzeriasurselva.ch/"
+  },
+  "id": 3366586962
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7677911,
+      47.5027754
+    ]
+  },
+  "properties": {
+    "id": 13288739869,
+    "addr:housename": "Sulzerallee 86",
+    "addr:street": "Sulzerallee",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Da Cristina",
+    "opening_hours": "Tu-Sa 09:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "website": "https://www.dacristina.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13288739869
+}

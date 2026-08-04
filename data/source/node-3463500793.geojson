@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2401649,
+      47.1258903
+    ]
+  },
+  "properties": {
+    "id": 3463500793,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "microbrewery": "no",
+    "name": "Nidaux",
+    "opening_hours": "Mo-Th 07:00-23:30, Fr 07:00-00:30, Sa 08:00-00:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.nidaux.com/"
+  },
+  "id": 3463500793
+}

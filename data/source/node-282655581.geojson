@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.727701,
+      47.498689
+    ]
+  },
+  "properties": {
+    "id": 282655581,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8400",
+    "addr:street": "Metzggasse",
+    "amenity": "restaurant",
+    "capacity": "45",
+    "cuisine": "italian",
+    "delivery": "no",
+    "level": "0",
+    "name": "Pulcinella",
+    "opening_hours": "Mo-Th 11:30-24:00, Fr 11:00-02:00, Sa 14:00-02:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 212 98 62",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://pulcinella-winterthur.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 282655581
+}

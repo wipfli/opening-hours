@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.756607,
+      47.276489
+    ]
+  },
+  "properties": {
+    "id": 59624426,
+    "addr:city": "Gr\u00fcningen",
+    "addr:housenumber": "80",
+    "addr:postcode": "8627",
+    "addr:street": "Binzikerstrasse",
+    "amenity": "restaurant",
+    "description": "Hotel Restaurant Adler Gr\u00fcnigen, Landgasthof. Nicht verwechseln mit Landgasthof Adler in Riedlingen (DE).",
+    "drive_in": "yes",
+    "internet_access:fee": "no",
+    "microbrewery": "no",
+    "name": "Landgasthof Adler",
+    "opening_hours": "07:00-00:15",
+    "opening_hours:bar": "Su-Th 17:00-00:15; Fr,Sa 17:00-02:00",
+    "opening_hours:kitchen": "Mo-Sa 11:30-21:45; Su,PH 11:30-20:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 935 11 54",
+    "reservation": "yes",
+    "smoking": "separated",
+    "website": "https://www.adler-grueningen.ch",
+    "wheelchair": "limited"
+  },
+  "id": 59624426
+}

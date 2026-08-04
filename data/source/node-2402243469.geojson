@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5975654,
+      47.2259743
+    ]
+  },
+  "properties": {
+    "id": 2402243469,
+    "addr:city": "Hirzel",
+    "addr:housenumber": "1",
+    "addr:postcode": "8816",
+    "addr:street": "H\u00f6chi",
+    "amenity": "restaurant",
+    "email": "info@restauranthoechi.ch",
+    "name": "H\u00f6chi",
+    "opening_hours": "We-Th 17:00-23:00; Fr 11:00-14:00,18:00-23:30; Sa 10:00-23:00; Su 10:00-18:00",
+    "phone": "+41 44 729 91 54",
+    "website": "https://www.restauranthoechi.ch"
+  },
+  "id": 2402243469
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1431443,
+      46.1989011
+    ]
+  },
+  "properties": {
+    "id": 11359222932,
+    "amenity": "restaurant",
+    "cuisine": "japanese;sushi",
+    "name": "Sanuki",
+    "opening_hours": "Mo-Su 11:30-14:30,18:30-22:30",
+    "phone": "+41 22 320 08 18",
+    "website": "https://sanukigeneve.ch/"
+  },
+  "id": 11359222932
+}

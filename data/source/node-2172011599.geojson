@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5336274,
+      47.4136106
+    ]
+  },
+  "properties": {
+    "id": 2172011599,
+    "addr:housename": "N\u0153rd Gewerbehaus der Kreativen",
+    "addr:housenumber": "170",
+    "addr:postcode": "8050",
+    "addr:street": "Binzm\u00fchlestrasse",
+    "amenity": "restaurant",
+    "description": "Telefonisch nur erreichbar bis 14:30 Uhr.",
+    "name": "N\u0153rd Kantine",
+    "opening_hours": "Mo-Fr 11:30-13:00",
+    "phone": "+41 44 310 30 90",
+    "website": "https://www.noerdkantine.ch/"
+  },
+  "id": 2172011599
+}

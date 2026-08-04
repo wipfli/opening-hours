@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1489395,
+      46.1998642
+    ]
+  },
+  "properties": {
+    "id": 2906256594,
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "MangoDeck",
+    "opening_hours": "Mo-Fr 08:00-18:30",
+    "phone": "+41223102532",
+    "smoking": "separated",
+    "website": "http://www.mangodeck.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2906256594
+}

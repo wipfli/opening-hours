@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7270725,
+      47.5006088
+    ]
+  },
+  "properties": {
+    "id": 2466736061,
+    "amenity": "restaurant",
+    "check_date": "2023-06-29",
+    "cuisine": "mexican",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Tres Amigos",
+    "opening_hours": "Mo-Th 10:00-24:00, Fr-Sa 10:00-02:00, Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.tresamigos.ch/winterthur/",
+    "wheelchair": "no"
+  },
+  "id": 2466736061
+}

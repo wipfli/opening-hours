@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8041905,
+      47.0666708
+    ]
+  },
+  "properties": {
+    "id": 2879972993,
+    "addr:city": "D\u00fcrrenroth",
+    "addr:housenumber": "72",
+    "addr:postcode": "3465",
+    "addr:street": "Oberwaldstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@hirschen-oberwald.ch",
+    "name": "Restaurant Hirschen Oberwald",
+    "opening_hours": "Su-Th 09:00-23:30, Fr-Sa 09:00-00:00",
+    "phone": "+41 62 966 15 19",
+    "website": "https://www.hirschen-oberwald.ch/"
+  },
+  "id": 2879972993
+}

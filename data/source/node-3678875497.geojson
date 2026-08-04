@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4600362,
+      47.6976701
+    ]
+  },
+  "properties": {
+    "id": 3678875497,
+    "addr:city": "Hallau",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "8215",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "Rathauskeller",
+    "opening_hours": "Mo-Fr 08:30-20:00",
+    "website": "https://www.rathauskeller-hallau.ch/"
+  },
+  "id": 3678875497
+}

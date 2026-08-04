@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3796879,
+      47.3906399
+    ]
+  },
+  "properties": {
+    "id": 12878423937,
+    "addr:city": "Teufen (AR)",
+    "addr:housenumber": "25",
+    "addr:postcode": "9053",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "european",
+    "name": "Hirschen",
+    "opening_hours": "Tu-Sa 10:30-14:00, 17:30-23:00",
+    "phone": "+41713332444",
+    "website": "https://hirschen-teufen.ch/"
+  },
+  "id": 12878423937
+}

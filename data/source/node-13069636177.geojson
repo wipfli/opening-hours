@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5872153,
+      47.5580854
+    ]
+  },
+  "properties": {
+    "id": 13069636177,
+    "addr:city": "Basel",
+    "addr:housenumber": "3",
+    "addr:postcode": "4051",
+    "addr:street": "Sattelgasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-30",
+    "check_date:smoking": "2026-03-30",
+    "cuisine": "italian",
+    "email": "trattoria@antichi-sapori.ch",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Trattoria Antichi Sapori",
+    "opening_hours": "Mo-Tu 18:00-23:00; We-Fr 12:00-14:00,18:00-23:00; Sa 18:30-23:00; Su off; PH off",
+    "outdoor_seating": "no",
+    "phone": "+41 61 261 32 61",
+    "smoking": "no",
+    "website": "https://www.antichi-sapori.ch"
+  },
+  "id": 13069636177
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3986564,
+      46.8123946
+    ]
+  },
+  "properties": {
+    "id": 830513816,
+    "addr:city": "Bonaduz",
+    "addr:housenumber": "20",
+    "addr:postcode": "7402",
+    "addr:street": "Versamerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "diet:vegetarian": "yes",
+    "name": "Caruso",
+    "opening_hours": "Tu-Su,PH 11:30-13:30,17:00-22:00",
+    "website": "https://www.caruso-bonaduz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 830513816
+}

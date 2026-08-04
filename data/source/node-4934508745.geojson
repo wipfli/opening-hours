@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5209454,
+      47.3715304
+    ]
+  },
   "properties": {
-    "@id": "node/4934508745",
+    "id": 4934508745,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "114",
     "addr:postcode": "8003",
@@ -14,12 +21,5 @@
     "website": "https://restaurantkle.com/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5209454,
-      47.3715304
-    ]
-  },
-  "id": "node-4934508745"
+  "id": 4934508745
 }

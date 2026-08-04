@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2489494,
+      47.134404
+    ]
+  },
+  "properties": {
+    "id": 8653291065,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "66",
+    "addr:postcode": "2503",
+    "addr:street": "Rue Centrale / Zentralstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Restaurant-Olympia-448451362020119/",
+    "email": "olympiabiel@gmail.com",
+    "name": "Restaurant Olympia",
+    "opening_hours": "Mo-Fr 08:00-22:30; Sa 08:30-23:30",
+    "phone": "+41 32 322 07 52",
+    "website": "https://www.pizzaolympia.ch"
+  },
+  "id": 8653291065
+}

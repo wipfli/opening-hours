@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5188777,
+      47.3885177
+    ]
+  },
+  "properties": {
+    "id": 14070541953,
+    "amenity": "restaurant",
+    "cuisine": "argentinian",
+    "name": "Capucho",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "website": "https://www.eltruckdecapucho.ch/"
+  },
+  "id": 14070541953
+}

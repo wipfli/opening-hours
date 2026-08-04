@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9502949,
+      46.0025706
+    ]
+  },
+  "properties": {
+    "id": 1181205792,
+    "addr:city": "Lugano",
+    "addr:housenumber": "7",
+    "addr:postcode": "6900",
+    "addr:street": "Piazza Riziero Rezzonico",
+    "amenity": "restaurant",
+    "check_date": "2026-06-22",
+    "cuisine": "italian",
+    "email": "events@spaghetti-store.com",
+    "name": "Spaghetti Store",
+    "opening_hours": "Mo-Su 09:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 922 20 60",
+    "website": "https://spaghettistore.ch/"
+  },
+  "id": 1181205792
+}

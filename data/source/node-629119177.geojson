@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6358505,
+      46.5167265
+    ]
+  },
+  "properties": {
+    "id": 629119177,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-04-18",
+    "cuisine": "lebanese",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Oh! Liban",
+    "opening_hours": "Mo-We 11:30-14:00; Th-Fr 11:30-14:00,18:30-22:00; Sa 18:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 311 57 56",
+    "start_date": "2009-08-17",
+    "website": "https://ohliban.ch/"
+  },
+  "id": 629119177
+}

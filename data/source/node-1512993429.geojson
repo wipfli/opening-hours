@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3653589,
+      46.9577635
+    ]
+  },
+  "properties": {
+    "id": 1512993429,
+    "addr:housenumber": "3",
+    "addr:postcode": "6370",
+    "addr:street": "Alter Postplatz",
+    "amenity": "restaurant",
+    "check_date": "2023-09-19",
+    "cuisine": "local;fine_dining",
+    "email": "info@rosenburg-Stans.ch",
+    "name": "zur Rosenburg H\u00f6fli",
+    "opening_hours": "We-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00",
+    "phone": "+41416102461",
+    "website": "https://www.rosenburg-stans.ch/"
+  },
+  "id": 1512993429
+}

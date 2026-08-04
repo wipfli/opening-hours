@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6323857,
+      46.5241663
+    ]
+  },
+  "properties": {
+    "id": 8880782377,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "1",
+    "addr:postcode": "1005",
+    "addr:street": "Rue du Tunnel",
+    "amenity": "restaurant",
+    "check_date": "2023-11-28",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Un Po' Di Pi\u00f9",
+    "opening_hours": "Tu-Th 12:00-23:00; Fr-Sa 12:00-00:00",
+    "opening_hours:kitchen": "Tu-Sa 12:00-14:00, 19:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 320 06 06",
+    "website": "https://www.unpodipiu.ch/"
+  },
+  "id": 8880782377
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3345435,
+      47.1414163
+    ]
+  },
+  "properties": {
+    "id": 2196602960,
+    "addr:city": "Meienried",
+    "addr:housenumber": "1",
+    "addr:postcode": "3294",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "pintli.hamori@bluewin.ch",
+    "name": "Meienried Pintli",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa-Su 09:00-22:00",
+    "phone": "+41 323 512 121",
+    "website": "https://pintlihamori.ch"
+  },
+  "id": 2196602960
+}

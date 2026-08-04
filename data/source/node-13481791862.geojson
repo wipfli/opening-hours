@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3732278,
+      47.4218077
+    ]
+  },
+  "properties": {
+    "id": 13481791862,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "4",
+    "addr:postcode": "9000",
+    "addr:street": "Raiffeisenplatz",
+    "amenity": "restaurant",
+    "name": "Roter Platz",
+    "opening_hours": "Mo-Fr 08:30-17:00",
+    "operator:wikidata": "Q1294350",
+    "website": "https://restaurant-roterplatz.ch"
+  },
+  "id": 13481791862
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5322408,
+      47.3361381
+    ]
+  },
+  "properties": {
+    "id": 75025846,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "64",
+    "addr:postcode": "8038",
+    "addr:street": "Widmerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-26",
+    "cuisine": "italian;pizza",
+    "name": "Il Grappolo",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-22:00; Sa 17:00-22:00; Su 11:00-14:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 481 70 60",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-ilgrappolo.ch/"
+  },
+  "id": 75025846
+}

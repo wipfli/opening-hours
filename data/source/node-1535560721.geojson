@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5266838,
+      47.3611874
+    ]
+  },
   "properties": {
-    "@id": "node/1535560721",
+    "id": 1535560721,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -15,12 +22,5 @@
     "takeaway": "yes",
     "website": "https://donleone.ch/waffenplatz/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5266838,
-      47.3611874
-    ]
-  },
-  "id": "node-1535560721"
+  "id": 1535560721
 }

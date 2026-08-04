@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5422215,
+      47.3815179
+    ]
+  },
+  "properties": {
+    "id": 2888172595,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "68",
+    "addr:postcode": "8006",
+    "addr:street": "Stampfenbachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-22",
+    "cuisine": "italian;pizza",
+    "delivery": "yes",
+    "indoor_seating": "yes",
+    "name": "Alba",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa off; Su 17:30-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "no",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.alba.pizza/alba-locations/alba-stampfenbach",
+    "wheelchair": "no"
+  },
+  "id": 2888172595
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5591926,
+      47.3526098
+    ]
+  },
   "properties": {
-    "@id": "node/3558236013",
+    "id": 3558236013,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -20,12 +27,5 @@
     "website": "https://brasserieseefeld.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5591926,
-      47.3526098
-    ]
-  },
-  "id": "node-3558236013"
+  "id": 3558236013
 }

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4036321,
+      47.4041958
+    ]
+  },
+  "properties": {
+    "id": 7826453437,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "delivery": "Mo-Sa 11:30-22:00; Su 14:00-22:00",
+    "level": "0",
+    "name": "Okinii",
+    "opening_hours": "Mo-Su 11:30-14:30,17:30-22:30",
+    "takeaway": "yes",
+    "website": "https://okinii.ch/",
+    "wheelchair": "no"
+  },
+  "id": 7826453437
+}

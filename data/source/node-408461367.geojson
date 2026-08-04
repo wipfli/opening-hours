@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6300411,
+      47.0580979
+    ]
+  },
+  "properties": {
+    "id": 408461367,
+    "addr:housenumber": "90",
+    "addr:postcode": "3401",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Sch\u00fctzenhaus",
+    "opening_hours": "Tu-Th 11:00-23:30,11:00-00:30, Sa 10:00-00:30, PH,Su 10:00-18:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "website": "https://www.berchtold-group.ch/con/cms/front_content.php?idart=16&idcat=6",
+    "wheelchair": "yes"
+  },
+  "id": 408461367
+}

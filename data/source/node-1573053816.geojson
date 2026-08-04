@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3065751,
+      47.0521207
+    ]
+  },
+  "properties": {
+    "id": 1573053816,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Hotel zum Weisses Kreuz",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "+41 41 418 82 20",
+    "tourism": "hotel",
+    "website": "https://www.altstadthotelluzern.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1573053816
+}

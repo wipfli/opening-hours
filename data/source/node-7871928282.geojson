@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5928917,
+      47.5549187
+    ]
+  },
+  "properties": {
+    "id": 7871928282,
+    "addr:city": "Basel",
+    "addr:housenumber": "1",
+    "addr:postcode": "4051",
+    "addr:street": "Luftg\u00e4sslein",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Rubino",
+    "opening_hours": "Tu-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 333 77 70",
+    "smoking": "outside",
+    "website": "https://www.rubino-basel.ch/en/"
+  },
+  "id": 7871928282
+}

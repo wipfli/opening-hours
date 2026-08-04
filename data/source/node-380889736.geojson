@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7350788,
+      47.0131387
+    ]
+  },
+  "properties": {
+    "id": 380889736,
+    "addr:city": "Les Ponts-de-Martel",
+    "addr:country": "CH",
+    "addr:postcode": "2316",
+    "amenity": "restaurant",
+    "email": "info@petite-joux.ch",
+    "name": "Pinte de la Petite-Joux",
+    "opening_hours": "Mo 09:00-14:30; Tu-Su 09:00-23:00",
+    "operator": "Ariane et Olivier Maurer",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 937 17 75",
+    "website": "https://www.petite-joux.ch/"
+  },
+  "id": 380889736
+}

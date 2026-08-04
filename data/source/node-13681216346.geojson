@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3029161,
+      47.0492992
+    ]
+  },
+  "properties": {
+    "id": 13681216346,
+    "addr:city": "Luzern",
+    "addr:housenumber": "4",
+    "addr:postcode": "6003",
+    "addr:street": "Franziskanerplatz",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "eat@haruharu.ch",
+    "name": "Haru",
+    "opening_hours": "Mo-Su 07:00-16:00",
+    "phone": "+41 41 210 99 99",
+    "start_date": "2026-04-01",
+    "website": "https://haruharu.ch/"
+  },
+  "id": 13681216346
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1415255,
+      46.2200555
+    ]
+  },
+  "properties": {
+    "id": 4069953542,
+    "addr:housenumber": "86",
+    "addr:postcode": "1202",
+    "addr:street": "Rue de Montbrillant",
+    "amenity": "restaurant",
+    "contact:facebook": "pages/Sagano/154272867938797",
+    "cuisine": "japanese",
+    "email": "info@sagano.ch",
+    "level": "0",
+    "name": "Sagano",
+    "opening_hours": "Mo-Fr 12:00-14:30, 19:00-22:30; Sa 19:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 733 11 50",
+    "website": "https://sagano.ch"
+  },
+  "id": 4069953542
+}

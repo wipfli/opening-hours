@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3686741,
+      47.4238399
+    ]
+  },
+  "properties": {
+    "id": 5033110623,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "48",
+    "addr:postcode": "9000",
+    "addr:street": "Rosenbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Perron Nord",
+    "name:fr": "Perron Nord",
+    "opening_hours": "Mo-Sa 11:00-00:00",
+    "phone": "+41 71 220 11 30",
+    "website": "https://www.perronnord.ch/"
+  },
+  "id": 5033110623
+}

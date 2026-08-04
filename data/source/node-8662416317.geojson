@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0374049,
+      46.6233068
+    ]
+  },
+  "properties": {
+    "id": 8662416317,
+    "addr:city": "Grindelwald",
+    "addr:housenumber": "130",
+    "addr:postcode": "3818",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "branch": "Grindelwald",
+    "cuisine": "swiss",
+    "diet:vegetarian": "only",
+    "email": "grindelwald@bebbis.com",
+    "name": "Bebbis",
+    "opening_hours": "11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 525 0825",
+    "website": "https://www.bebbis.com/"
+  },
+  "id": 8662416317
+}

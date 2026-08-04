@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5613526,
+      47.2991179
+    ]
+  },
+  "properties": {
+    "id": 568706322,
+    "addr:city": "Thalwil",
+    "addr:housenumber": "41",
+    "addr:postcode": "8800",
+    "addr:street": "Ludretikonerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "email": "info@ginger-india.ch",
+    "indoor_seating": "yes",
+    "name": "ginger indian",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa-Su 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 599 76 56",
+    "takeaway": "yes",
+    "website": "https://www.ginger-india.ch"
+  },
+  "id": 568706322
+}

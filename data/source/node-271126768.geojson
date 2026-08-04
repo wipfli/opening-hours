@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8320898,
+      47.1041167
+    ]
+  },
+  "properties": {
+    "id": 271126768,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:housenumber": "8",
+    "addr:postcode": "2300",
+    "addr:street": "Rue de la Balance",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "name": "Casa Rossa",
+    "opening_hours": "Mo-Sa 09:00-14:15,18:00-24:00",
+    "phone": "+41 32 968 32 18",
+    "website": "https://casarossa.ch"
+  },
+  "id": 271126768
+}

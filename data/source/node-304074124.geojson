@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5289385,
+      47.2926109
+    ]
+  },
+  "properties": {
+    "id": 304074124,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-09-26",
+    "name": "Restaurant Langenberg (J\u00e4ger- und Ofenst\u00fcbli)",
+    "opening_hours": "Mar-Oct Mo-Fr 09:00-17:00; Mar-Oct Sa-Su,PH 09:00-19:00; Nov-Feb 09:00-15:00; Nov-Feb Sa-Su,PH 09:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 713 31 83",
+    "website": "https://www.wildnispark.ch/de/parkbesuch/verpflegung/restaurant-langenberg-"
+  },
+  "id": 304074124
+}

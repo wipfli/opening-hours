@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5630787,
+      47.4389361
+    ]
+  },
+  "properties": {
+    "id": 9282711257,
+    "amenity": "restaurant",
+    "check_date": "2023-06-24",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "La Piazza",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-23:00; Sa 18:00-23:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41448106161",
+    "website": "https://www.restaurantlapiazza.ch/"
+  },
+  "id": 9282711257
+}

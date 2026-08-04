@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1671867,
+      46.1596386
+    ]
+  },
+  "properties": {
+    "id": 9202400148,
+    "addr:city": "Saillon",
+    "addr:housenumber": "102",
+    "addr:postcode": "1913",
+    "addr:street": "Route de Fully",
+    "amenity": "restaurant",
+    "name": "Relais de la Sarvaz",
+    "opening_hours": "We-Su 08:00-22:00",
+    "phone": "+41 27 744 13 89",
+    "website": "https://sarvaz.ch/"
+  },
+  "id": 9202400148
+}

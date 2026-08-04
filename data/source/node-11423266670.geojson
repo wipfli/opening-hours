@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.932135,
+      46.9914287
+    ]
+  },
+  "properties": {
+    "id": 11423266670,
+    "addr:housenumber": "10",
+    "addr:postcode": "2000",
+    "addr:street": "Faubourg du Lac",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Bambou Sushi bar",
+    "opening_hours": "Tu-Sa 10:30-14:30, 17:30-23:30; Su-Mo 17:30-23:30",
+    "phone": "+41 32 721 35 35",
+    "website": "https://bambousushibar.ch/n/"
+  },
+  "id": 11423266670
+}

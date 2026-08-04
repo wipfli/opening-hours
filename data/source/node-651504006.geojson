@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5172402,
+      47.3902919
+    ]
+  },
+  "properties": {
+    "id": 651504006,
+    "amenity": "restaurant",
+    "check_date": "2026-01-17",
+    "check_date:opening_hours": "2026-01-17",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Angkor",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:30; Sa 18:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 205 28 88",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-angkor.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 651504006
+}

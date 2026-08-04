@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5398232,
+      47.3777733
+    ]
+  },
   "properties": {
-    "@id": "node/4424600893",
+    "id": 4424600893,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:place": "Hauptbahnhof, S\u00fcdtrakt",
@@ -17,12 +24,5 @@
     "website": "https://sangennarozurigo.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5398232,
-      47.3777733
-    ]
-  },
-  "id": "node-4424600893"
+  "id": 4424600893
 }

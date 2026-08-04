@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6678947,
+      47.105785
+    ]
+  },
+  "properties": {
+    "id": 5810529005,
+    "addr:city": "Wynigen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "3472",
+    "addr:street": "Luegstrasse",
+    "amenity": "restaurant",
+    "email": "mail@landgasthof-linde.ch",
+    "indoor_seating": "yes",
+    "name": "Linde",
+    "name:de": "Landgasthof Linde",
+    "opening_hours": "We-Su 08:30-23:30",
+    "operator": "Stefan und Susanne Gygax - M\u00fcller",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 415 12 80",
+    "website": "https://www.landgasthof-linde.ch/"
+  },
+  "id": 5810529005
+}

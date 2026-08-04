@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5327533,
+      47.3729919
+    ]
+  },
   "properties": {
-    "@id": "node/469984901",
+    "id": 469984901,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "97",
     "addr:postcode": "8001",
@@ -15,12 +22,5 @@
     "website": "https://www.saigon.ch/web/saigon/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5327533,
-      47.3729919
-    ]
-  },
-  "id": "node-469984901"
+  "id": 469984901
 }

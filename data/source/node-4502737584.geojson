@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4244627,
+      47.0314611
+    ]
+  },
+  "properties": {
+    "id": 4502737584,
+    "addr:city": "Weggis",
+    "addr:housenumber": "60",
+    "addr:postcode": "6353",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2026-04-23",
+    "diet:fish": "yes",
+    "diet:gluten_free": "yes",
+    "diet:meat": "yes",
+    "diet:organic": "yes",
+    "diet:seafood": "yes",
+    "diet:vegetarian": "yes",
+    "email": "eat@hyg.restaurant",
+    "level": "0",
+    "name": "Hyg",
+    "opening_hours": "Mo-Tu 17:00-23:00; Fr 17:00-23:00; Sa-Su 12:00-23:00",
+    "phone": "+41 41 392 11 00",
+    "smoking": "no",
+    "toilets": "yes",
+    "website": "https://hyg.restaurant/"
+  },
+  "id": 4502737584
+}

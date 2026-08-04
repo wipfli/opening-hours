@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5088534,
+      47.0509431
+    ]
+  },
+  "properties": {
+    "id": 9366102264,
+    "alt_name": "Thai Bistro Somtam",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-12-25",
+    "cuisine": "thai",
+    "delivery": "no",
+    "email": "info@somtam.ch",
+    "name": "Thai Bistro",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:30; Sa,Su,PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 761 28 18",
+    "takeaway": "yes",
+    "website": "https://www.somtam.ch/"
+  },
+  "id": 9366102264
+}

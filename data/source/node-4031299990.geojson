@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0360327,
+      47.182234
+    ]
+  },
+  "properties": {
+    "id": 4031299990,
+    "addr:city": "Mont-Crosin",
+    "addr:housenumber": "65",
+    "addr:postcode": "2610",
+    "addr:street": "Place de Devant",
+    "amenity": "restaurant",
+    "name": "Chalet Mont Crosin",
+    "opening_hours": "Mo 08:00-18:00; Th-Su 07:45-23:00",
+    "operator": "Felix Gerber",
+    "phone": "+41 32 944 15 64",
+    "tourism": "hotel",
+    "website": "https://chalet-montcrosin.ch/"
+  },
+  "id": 4031299990
+}

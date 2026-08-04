@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9069245,
+      47.5623332
+    ]
+  },
+  "properties": {
+    "id": 3181627185,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Rai Palace",
+    "opening_hours": "Tu-Fr 11:30-13:30,17:00-21:30; Sa-Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://www.raipalace.ch/"
+  },
+  "id": 3181627185
+}

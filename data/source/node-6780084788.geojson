@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5887743,
+      47.5547778
+    ]
+  },
+  "properties": {
+    "id": 6780084788,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:gluten_free": "yes",
+    "indoor_seating": "yes",
+    "name": "Cardamon",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.restaurant-cardamom.ch"
+  },
+  "id": 6780084788
+}

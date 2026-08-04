@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9221824,
+      45.9892515
+    ]
+  },
+  "properties": {
+    "id": 6173322869,
+    "addr:city": "Montagnola",
+    "addr:postcode": "6926",
+    "addr:street": "Via ai Canvetti",
+    "amenity": "restaurant",
+    "name": "Circolo sociale di Montagnola",
+    "opening_hours": "Mo-Tu 9:00 - 24:00, Th-Su 9:00-24:00, Kitchen 11.30-14.30,18.30-22.30",
+    "phone": "+41919946919",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.grottocircolosociale.ch"
+  },
+  "id": 6173322869
+}

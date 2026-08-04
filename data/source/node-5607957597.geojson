@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3855915,
+      46.9969203
+    ]
+  },
+  "properties": {
+    "id": 5607957597,
+    "addr:city": "Obb\u00fcrgen",
+    "addr:housenumber": "30b",
+    "addr:place": "B\u00fcrgenstock",
+    "addr:postcode": "6363",
+    "addr:street": "B\u00fcrgenstock",
+    "amenity": "restaurant",
+    "contact:phone": "+41 41 612 64 10",
+    "name": "Verbena",
+    "opening_hours": "Mo-Su 12:00-17:30,18:00-22:00",
+    "website": "https://www.buergenstock.ch/eat/verbena"
+  },
+  "id": 5607957597
+}

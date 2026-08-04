@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6229405,
+      47.3999644
+    ]
+  },
+  "properties": {
+    "id": 4041513842,
+    "amenity": "restaurant",
+    "cuisine": "italian;regional",
+    "indoor_seating": "yes",
+    "name": "La Stazione",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41448204848",
+    "toilets:wheelchair": "no",
+    "website": "https://www.saal.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4041513842
+}

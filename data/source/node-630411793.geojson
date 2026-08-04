@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4482564,
+      47.3960411
+    ]
+  },
+  "properties": {
+    "id": 630411793,
+    "addr:housenumber": "17",
+    "addr:street": "Uitikonerstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Salmen",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 730 60 71",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://salmen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 630411793
+}

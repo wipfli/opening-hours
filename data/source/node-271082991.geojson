@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8294306,
+      47.1094844
+    ]
+  },
+  "properties": {
+    "id": 271082991,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:housenumber": "1",
+    "addr:postcode": "2300",
+    "addr:street": "Rue Alexis-Marie-Piaget",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "delivery": "yes",
+    "level": "0",
+    "name": "Pizza Rapido",
+    "opening_hours": "Mo-Sa 10:00-14:00,16:30-23:30; We 10:00-14:00; Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 968 84 84",
+    "source": "local knowledge;http://www.pizzarapido.ch",
+    "takeaway": "yes",
+    "website": "https://www.pizzarapido.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 271082991
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5311821,
+      47.3638611
+    ]
+  },
   "properties": {
-    "@id": "node/268963180",
+    "id": 268963180,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "12",
@@ -22,12 +29,5 @@
     "website": "https://houseofren.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5311821,
-      47.3638611
-    ]
-  },
-  "id": "node-268963180"
+  "id": 268963180
 }

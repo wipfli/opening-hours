@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2591631,
+      47.4173641
+    ]
+  },
+  "properties": {
+    "id": 2608589187,
+    "addr:city": "Gossau",
+    "addr:housename": "Restaurant Egli",
+    "addr:housenumber": "137",
+    "addr:postcode": "9200",
+    "addr:street": "St. Gallerstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Egli",
+    "opening_hours": "We-Sa 07:00-23:30; Su 08:00-18:00; Mo 07:00-18:00; Tu off",
+    "phone": "+41 71 385 90 30",
+    "source": "http://www.stadtgossau.ch/de/gewerbe/firmenverzeichnis/welcome.php?action=showunternehmen&unternehmen_id=32414",
+    "website": "https://www.restaurant-egli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2608589187
+}

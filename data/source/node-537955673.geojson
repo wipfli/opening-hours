@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4721923,
+      46.945555
+    ]
+  },
+  "properties": {
+    "id": 537955673,
+    "addr:city": "Bern",
+    "addr:housenumber": "15",
+    "addr:postcode": "3006",
+    "addr:street": "Giacomettistrasse",
+    "amenity": "restaurant",
+    "branch": "Bern Freudenberg",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH off",
+    "operator:wikidata": "Q680727",
+    "phone": "+41 58 567 40 90",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-bern-freudenberg",
+    "wheelchair": "yes"
+  },
+  "id": 537955673
+}

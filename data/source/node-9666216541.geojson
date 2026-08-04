@@ -1,22 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/9666216541",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "72",
-    "addr:postcode": "8003",
-    "addr:street": "Zentralstrasse",
-    "amenity": "restaurant",
-    "cuisine": "pizza",
-    "diet:gluten_free": "yes",
-    "diet:vegan": "yes",
-    "name": "Pizzeria Felice",
-    "old_name": "Avanti Pizza",
-    "opening_hours": "Mo-Su 11:00-24:00",
-    "outdoor_seating": "yes",
-    "takeaway": "yes",
-    "website": "https://www.pizzeria-felice.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -24,5 +7,25 @@
       47.3730227
     ]
   },
-  "id": "node-9666216541"
+  "properties": {
+    "id": 9666216541,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "72",
+    "addr:postcode": "8003",
+    "addr:street": "Zentralstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "limited",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Pizzeria Felice",
+    "old_name": "Avanti Pizza",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.pizzeria-felice.ch/"
+  },
+  "id": 9666216541
 }

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6716169,
+      46.5064876
+    ]
+  },
+  "properties": {
+    "id": 265064184,
+    "addr:city": "Paudex",
+    "addr:housenumber": "8",
+    "addr:postcode": "1094",
+    "addr:street": "Chemin de la Charrettaz",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Ristorante La Piazza",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-22:00; Sa,Su 11:00-14:00,19:00-22:00",
+    "phone": "+41 21 791 57 27",
+    "website": "https://restolapiazza.ch/"
+  },
+  "id": 265064184
+}

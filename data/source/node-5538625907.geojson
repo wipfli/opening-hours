@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.626545,
+      46.5422393
+    ]
+  },
+  "properties": {
+    "id": 5538625907,
+    "access:covid19": "yes",
+    "addr:city": "Le Mont-sur-Lausanne",
+    "addr:housenumber": "145",
+    "addr:postcode": "1052",
+    "addr:street": "Chemin de Maillefer",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-12-13",
+    "cuisine": "french",
+    "delivery": "no",
+    "delivery:covid19": "no",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegetarian": "no",
+    "drive_through:covid19": "yes",
+    "email": "contact@cheztof.ch",
+    "indoor_seating": "yes",
+    "name": "Chez Tof",
+    "opening_hours": "Mo 09:00-16:00, Tu-Fr 09:00-24:00, Sa 10:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 625 01 45",
+    "smoking": "no",
+    "takeaway:covid19": "yes",
+    "website": "https://www.cheztof.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5538625907
+}

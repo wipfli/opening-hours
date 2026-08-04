@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6871285,
+      47.2194197
+    ]
+  },
+  "properties": {
+    "id": 8465453495,
+    "addr:city": "W\u00e4denswil",
+    "addr:housenumber": "33",
+    "addr:postcode": "8820",
+    "addr:street": "Einsiedlerstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Fabrikbeiz",
+    "opening_hours": "Th 08:00-23:00; Mo-We,Fr 08:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+4144 780 41 57",
+    "website": "https://www.gmtparty.ch/gastronomie/fabrikbeiz.html",
+    "wheelchair": "yes"
+  },
+  "id": 8465453495
+}

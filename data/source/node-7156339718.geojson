@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8591902,
+      46.5122366
+    ]
+  },
+  "properties": {
+    "id": 7156339718,
+    "addr:city": "Celerina/Schlarigna",
+    "addr:housenumber": "80",
+    "addr:postcode": "7505",
+    "addr:street": "Via Maistra",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "cuisine": "mediterranean;tea;diner;cake;fish;asian;thai;international;coffee_shop;local;arab",
+    "diet:vegan": "yes",
+    "email": "restaurant@bos-co.ch",
+    "highchair": "yes",
+    "internet_access": "wlan",
+    "name": "Bo's Co",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "operator": "PappaLo\u00f9",
+    "outdoor_seating": "yes",
+    "phone": "+41818323139",
+    "toilets": "yes",
+    "website": "https://www.bos-co.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7156339718
+}

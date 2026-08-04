@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6300991,
+      46.5184434
+    ]
+  },
+  "properties": {
+    "id": 4111161679,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "34",
+    "addr:postcode": "1003",
+    "addr:street": "Rue du Petit-Ch\u00eane",
+    "amenity": "restaurant",
+    "cuisine": "brasserie",
+    "indoor_seating": "yes",
+    "name": "La Mamma Osteria",
+    "opening_hours": "Mo-Su 06:30-23:30",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "phone": "+41215555999",
+    "website": "https://www.lamammarestaurant.ch"
+  },
+  "id": 4111161679
+}

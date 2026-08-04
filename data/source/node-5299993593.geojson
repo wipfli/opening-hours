@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6399934,
+      47.5916558
+    ]
+  },
+  "properties": {
+    "id": 5299993593,
+    "addr:city": "Weil am Rhein",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "79576",
+    "addr:street": "M\u00fchlenrain",
+    "amenity": "restaurant",
+    "cuisine": "burger;grill",
+    "delivery": "yes",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@flame-weilamrhein.de",
+    "name": "Flame Burger Grill",
+    "opening_hours": "Th-Sa 16:00-00:00",
+    "opening_hours:covid19": "restricted",
+    "operator": "Corbinian K\u00f6hler",
+    "phone": "+49 7621 5104001",
+    "website": "https://www.flame-weilamrhein.de/"
+  },
+  "id": 5299993593
+}

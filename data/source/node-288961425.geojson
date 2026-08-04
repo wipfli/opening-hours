@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.450613,
+      46.9906303
+    ]
+  },
+  "properties": {
+    "id": 288961425,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Schloss Reichenbach",
+    "opening_hours": "We-Su 09:00-23:00",
+    "opening_hours:kitchen": "We-Su 11:30-13:45,18:00-21:45",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 911 10 14",
+    "website": "https://www.restaurantschlossreichenbach.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 288961425
+}

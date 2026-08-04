@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.505399,
+      47.3677807
+    ]
+  },
   "properties": {
-    "@id": "node/6214525777",
+    "id": 6214525777,
     "amenity": "restaurant",
     "cuisine": "swiss;regional",
     "diet:vegetarian": "yes",
@@ -13,12 +20,5 @@
     "regional": "yes",
     "website": "https://www.vrenelis.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.505399,
-      47.3677807
-    ]
-  },
-  "id": "node-6214525777"
+  "id": 6214525777
 }

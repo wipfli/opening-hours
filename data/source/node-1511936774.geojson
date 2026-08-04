@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1114881,
+      47.1711921
+    ]
+  },
+  "properties": {
+    "id": 1511936774,
+    "addr:city": "Sursee",
+    "addr:housenumber": "2",
+    "addr:postcode": "6210",
+    "addr:street": "Luzernstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Schweizerheim",
+    "opening_hours": "closed",
+    "toilets:wheelchair": "no",
+    "website": "https://pizzeria-schweizerheim.ch",
+    "wheelchair": "no"
+  },
+  "id": 1511936774
+}

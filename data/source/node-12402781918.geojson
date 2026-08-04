@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0392266,
+      47.4562347
+    ]
+  },
+  "properties": {
+    "id": 12402781918,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "7",
+    "addr:postcode": "9500",
+    "addr:street": "Nelkenstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://de-de.facebook.com/people/Umm-Sushi/100064710500837/",
+    "cuisine": "sushi",
+    "name": "Umm Sushi",
+    "opening_hours": "Tu-Th 11:30-14:00,17:00-20:00; Fr 11:30-14:00,17:00-21:00; Sa 12:00-15:00,16:00-21:00",
+    "phone": "+41 78 210 22 55",
+    "takeaway": "only",
+    "website": "https://ummsushi.ch/",
+    "website:menu": "https://ummsushi.ch/menu/"
+  },
+  "id": 12402781918
+}

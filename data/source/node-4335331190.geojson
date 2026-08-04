@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.076609,
+      47.0569174
+    ]
+  },
+  "properties": {
+    "id": 4335331190,
+    "addr:city": "Ennenda",
+    "addr:housenumber": "2",
+    "addr:postcode": "8755",
+    "addr:street": "Untere Ennetbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "Alpenblick",
+    "opening_hours": "\"Offen je nach Anlass.\"",
+    "phone": "+41556403081",
+    "website": "https://www.alpenblick-ennetberge.ch/"
+  },
+  "id": 4335331190
+}

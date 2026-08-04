@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6285627,
+      46.5313961
+    ]
+  },
+  "properties": {
+    "id": 7740463253,
+    "addr:street": "Avenue du Mont-Blanc",
+    "amenity": "restaurant",
+    "cuisine": "chinese;thai",
+    "indoor_seating": "yes",
+    "name": "Hong Yan",
+    "opening_hours": "Mo,Tu,Fr,Sa 11:00-14:30, Mo-Sa 17:00-22:30, Su 11:00-22:30",
+    "outdoor_seating": "no",
+    "phone": "+41 21 683 00 22",
+    "website": "https://hong2017.ch/fr/"
+  },
+  "id": 7740463253
+}

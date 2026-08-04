@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2922665,
+      46.2257275
+    ]
+  },
+  "properties": {
+    "id": 9113588782,
+    "addr:housenumber": "10",
+    "addr:street": "Route cantonale",
+    "amenity": "restaurant",
+    "description": "Cuisine marocaine",
+    "name": "Kidam",
+    "opening_hours": "Tu-Th 10:00-23:00; Fr, Sa 10:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41273462020",
+    "website": "https://lekidam.ch/"
+  },
+  "id": 9113588782
+}

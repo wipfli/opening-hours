@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5843925,
+      47.5571999
+    ]
+  },
+  "properties": {
+    "id": 4823742529,
+    "addr:city": "Basel",
+    "addr:housenumber": "71",
+    "addr:postcode": "4051",
+    "addr:street": "Petersgraben",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Restauration zur Harmonie",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:30; Sa 11:30-22:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.harmoniebasel.ch/",
+    "website:menu": "https://de.cdn-website.com/1f0d5081a0e94e2db3de7e69a99d4dee/files/uploaded/Speisekarte.pdf",
+    "wheelchair": "no"
+  },
+  "id": 4823742529
+}

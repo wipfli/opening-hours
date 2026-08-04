@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4703084,
+      46.3086287
+    ]
+  },
+  "properties": {
+    "id": 9342794177,
+    "addr:city": "Crans-Montana",
+    "addr:housenumber": "10",
+    "addr:postcode": "3963",
+    "addr:street": "Route du Rawyl",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "regional",
+    "name": "Ala\u00efa Lodge Bar & Restaurant",
+    "opening_hours": "Mo-Su 16:00-00:00",
+    "phone": "+41 27 564 10 80",
+    "takeaway": "yes",
+    "website": "https://alaialodge.ch/bar",
+    "wheelchair": "yes"
+  },
+  "id": 9342794177
+}

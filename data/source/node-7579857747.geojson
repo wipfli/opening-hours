@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343157,
+      47.3678059
+    ]
+  },
   "properties": {
-    "@id": "node/7579857747",
+    "id": 7579857747,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "50",
@@ -16,12 +23,5 @@
     "website": "https://www.wild-bowls.com/locations/bleicherweg/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5343157,
-      47.3678059
-    ]
-  },
-  "id": "node-7579857747"
+  "id": 7579857747
 }

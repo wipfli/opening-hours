@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5865808,
+      47.5460436
+    ]
+  },
+  "properties": {
+    "id": 8060373608,
+    "addr:city": "Basel",
+    "addr:housenumber": "1",
+    "addr:postcode": "4053",
+    "addr:street": "Meret Oppenheim-Platz",
+    "amenity": "restaurant",
+    "check_date": "2026-07-30",
+    "description": "Burger Restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "moh@uniondiner.ch",
+    "indoor_seating": "yes",
+    "name": "Union Diner | Meret Oppenheim",
+    "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41612710266",
+    "website": "https://uniondiner.ch/"
+  },
+  "id": 8060373608
+}

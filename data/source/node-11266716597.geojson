@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9011159,
+      47.5647044
+    ]
+  },
+  "properties": {
+    "id": 11266716597,
+    "addr:city": "Frauenfeld",
+    "addr:housenumber": "2c",
+    "addr:postcode": "8500",
+    "addr:street": "Breitenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-16",
+    "cuisine": "coffee_shop;regional;pasta;international;salad",
+    "image": "https://wetterbaum.ch/wp-content/uploads/2022/10/Screenshot_Video_Gastro-1-1200x850.jpg",
+    "indoor_seating": "yes",
+    "name": "Restaurant Caf\u00e9 Wetterbaum",
+    "opening_hours": "Mo-Fr 09:00-16:30",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:00",
+    "operator": "Stiftung Wetterbaum",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "https://wetterbaum.ch/angebot/gastro/"
+  },
+  "id": 11266716597
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5945591,
+      47.4648806
+    ]
+  },
+  "properties": {
+    "id": 1835235404,
+    "addr:city": "Gai\u00dfau",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "6974",
+    "addr:street": "Rheinstra\u00dfe",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gsiberger Cafe & Restaurant",
+    "opening_hours": "Mo-Tu 09:00-14:00, We-Su 09:00-22:00",
+    "phone": "+43 6764411411",
+    "website": "http://www.gasthaus-gsiberger.at"
+  },
+  "id": 1835235404
+}

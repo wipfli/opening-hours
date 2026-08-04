@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8205717,
+      47.2272981
+    ]
+  },
+  "properties": {
+    "id": 4855447078,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Zhi Wei",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:00",
+    "takeaway": "yes",
+    "website": "http://www.restaurant-zhiwei.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4855447078
+}

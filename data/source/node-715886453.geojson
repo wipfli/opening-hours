@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0142065,
+      45.8913734
+    ]
+  },
+  "properties": {
+    "id": 715886453,
+    "amenity": "restaurant",
+    "beds": "6",
+    "cuisine": "regional",
+    "description": "Specialit\u00e0 del ristorante: maialino e capretto nostrano al forno",
+    "name": "Agriturismo Alpe La grassa",
+    "opening_hours": "Jan-Dec; Mo closed",
+    "phone": "+41 91 6492602",
+    "rooms": "2",
+    "tourism": "guest_house",
+    "website": "https://www.agriturismoalpegrassa.ch/"
+  },
+  "id": 715886453
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5554832,
+      47.5142659
+    ]
+  },
+  "properties": {
+    "id": 12800662001,
+    "addr:housenumber": "30",
+    "addr:postcode": "4104",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "email": "info@roessli-oberwil.ch",
+    "name": "Restaurant R\u00f6ssli",
+    "opening_hours": "Su-Fr 11:30-14:30; Sa 18:00-23:00; Su-Fr 18:00-23:00",
+    "phone": "+41 61 401 18 81",
+    "self_service": "no",
+    "website": "https://roessli-oberwil.ch/",
+    "website:menu": "http://roessli-oberwil.ch/menu"
+  },
+  "id": 12800662001
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2244334,
+      46.1035411
+    ]
+  },
+  "properties": {
+    "id": 10560068317,
+    "addr:city": "Verbier",
+    "addr:housenumber": "91",
+    "addr:postcode": "1936",
+    "addr:street": "Route des Creux",
+    "amenity": "restaurant",
+    "cuisine": "italian;suisse",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Le Grenier",
+    "opening_hours": "Mo-Su 12:00-21:30",
+    "phone": "+41 27 771 62 00",
+    "website": "https://chalet-adrien.com/"
+  },
+  "id": 10560068317
+}

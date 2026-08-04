@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5530944,
+      47.319388
+    ]
+  },
+  "properties": {
+    "id": 2628241308,
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "195b",
+    "addr:postcode": "8802",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "email": "mail@chezfritz.ch",
+    "location": "lakeside",
+    "name": "Chez Fritz",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "phone": "+41 44 715 25 15",
+    "toilets:wheelchair": "no",
+    "website": "https://chezfritz.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2628241308
+}

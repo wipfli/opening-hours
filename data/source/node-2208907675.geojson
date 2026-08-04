@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4423183,
+      46.9474877
+    ]
+  },
+  "properties": {
+    "id": 2208907675,
+    "alt_name": "Delli",
+    "amenity": "restaurant",
+    "contact:addr": "Schauplatzgasse 16, 3011 Bern",
+    "contact:email": "della.casa@bluewin.ch",
+    "contact:fax": "+41 31 3117873",
+    "contact:phone": "+41 31 3112142",
+    "cuisine": "regional",
+    "levels": "1",
+    "name": "Della Casa",
+    "opening_hours": "Mo-Sa 10:30-23:30; Su off; PH off",
+    "source": "Survey and website",
+    "toilets:wheelchair": "no",
+    "website": "https://www.della-casa.ch",
+    "wheelchair": "limited"
+  },
+  "id": 2208907675
+}

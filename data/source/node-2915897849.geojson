@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4423484,
+      46.9484343
+    ]
+  },
+  "properties": {
+    "id": 2915897849,
+    "addr:city": "Bern",
+    "addr:floor": "1",
+    "addr:housenumber": "26",
+    "addr:postcode": "3011",
+    "addr:street": "Spitalgasse",
+    "alt_name": "Mexican Restaurant & Bar El Mexicano",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "email": "bern@elmexicano.ch",
+    "internet_access": "wlan",
+    "name": "El Mexicano",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-00:30; Su 17:00-00:30",
+    "phone": "+41 31 311 32 20",
+    "smoking": "separated",
+    "website": "https://bern.elmexicano.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2915897849
+}

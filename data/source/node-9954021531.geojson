@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8446421,
+      46.952683
+    ]
+  },
+  "properties": {
+    "id": 9954021531,
+    "addr:housenumber": "2",
+    "addr:postcode": "2017",
+    "addr:street": "Route du Vignoble",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Du Pervou",
+    "opening_hours": "Tu-Sa 10:00-23:00",
+    "website": "https://restaurantdupervou.wordpress.com/"
+  },
+  "id": 9954021531
+}

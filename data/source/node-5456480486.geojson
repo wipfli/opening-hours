@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8514353,
+      46.6839764
+    ]
+  },
+  "properties": {
+    "id": 5456480486,
+    "addr:city": "Interlaken",
+    "addr:housenumber": "22",
+    "addr:postcode": "3800",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-03",
+    "cuisine": "indian",
+    "name": "Welcome India King",
+    "opening_hours": "Mo-Su 15:00-21:00",
+    "phone": "+41 33 822 52 04",
+    "website": "https://www.welcomeindiaking.ch/"
+  },
+  "id": 5456480486
+}

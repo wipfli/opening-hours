@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7275381,
+      46.8061677
+    ]
+  },
+  "properties": {
+    "id": 747697701,
+    "addr:city": "Yvonand",
+    "addr:housenumber": "34",
+    "addr:postcode": "1462",
+    "addr:street": "Avenue des Pins",
+    "amenity": "restaurant",
+    "check_date": "2026-05-15",
+    "cuisine": "regional",
+    "email": "contact@lecolvert.ch",
+    "name": "Le Colvert",
+    "opening_hours": "Tu-Sa 08:30-14:00,18:00-24:00; Su 08:30-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 430 19 65",
+    "website": "https://lecolvert.ch/",
+    "website:menu": "https://lecolvert.ch/carte/",
+    "wheelchair": "yes"
+  },
+  "id": 747697701
+}

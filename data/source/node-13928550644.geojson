@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8178243,
+      46.8042582
+    ]
+  },
+  "properties": {
+    "id": 13928550644,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Strela Alp Bergrestaurant",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "phone": "+41 81 413 56 83",
+    "website": "https://www.strelaalp.com/",
+    "wheelchair": "no"
+  },
+  "id": 13928550644
+}

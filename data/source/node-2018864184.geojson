@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0061949,
+      47.5003101
+    ]
+  },
+  "properties": {
+    "id": 2018864184,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "fax": "+41 62 871 18 77",
+    "name": "Restaurant Hirschen",
+    "opening_hours": "We-Mo 10:00-24:00",
+    "phone": "+41 62 871 18 70",
+    "smoking": "no",
+    "website": "http://www.hirschen-oberfrick.ch"
+  },
+  "id": 2018864184
+}

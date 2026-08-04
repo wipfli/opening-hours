@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7063103,
+      47.208746
+    ]
+  },
+  "properties": {
+    "id": 9063937841,
+    "addr:city": "Richterswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8805",
+    "addr:street": "Ch\u00fcngengass",
+    "amenity": "restaurant",
+    "cuisine": "indonesian;malaysian;thai",
+    "name": "Dapura Mia",
+    "opening_hours": "Mo off; Tu-Th 11:30-14:00,17:30-22:30; Fr 11:30-14:00,17:30-23:30; Sa 17:30-23:30; Su 17:30-22:30",
+    "phone": "+41 44 578 48 58",
+    "website": "https://www.dapuramia.ch/"
+  },
+  "id": 9063937841
+}

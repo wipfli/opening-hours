@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8440141,
+      46.4592447
+    ]
+  },
+  "properties": {
+    "id": 7104582824,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Conseil",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/Restaurant-Palais-Indien-1597660267132672/",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "email": "palaisindienvevey@gmail.com",
+    "name": "Palais Indien",
+    "opening_hours": "Mo-Su 11:30-14:00, 18:30-22:30",
+    "phone": "+41 21 921 99 90",
+    "website": "https://www.palaisindien.net/"
+  },
+  "id": 7104582824
+}

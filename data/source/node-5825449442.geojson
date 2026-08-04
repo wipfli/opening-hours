@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.694453,
+      47.313546
+    ]
+  },
+  "properties": {
+    "id": 5825449442,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@hotel-bahnhof-balsthal.ch",
+    "internet_access": "wlan",
+    "name": "Bahnhof Balsthal",
+    "opening_hours": "Tu-Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41625303825",
+    "tourism": "hotel",
+    "website": "http://hotel-bahnhof-balsthal.ch"
+  },
+  "id": 5825449442
+}

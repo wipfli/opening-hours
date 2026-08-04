@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8163672,
+      47.2256486
+    ]
+  },
+  "properties": {
+    "id": 6019760513,
+    "addr:city": "Rapperswil-Jona",
+    "addr:housenumber": "4",
+    "addr:postcode": "8640",
+    "addr:street": "Fischmarktstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-09-06",
+    "cuisine": "italian",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Marco's Pasta Bar",
+    "opening_hours": "Tu-Su 11:30-14:00,17:30-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 55 211 14 14",
+    "takeaway": "yes",
+    "website": "https://www.marcospastabar.com/"
+  },
+  "id": 6019760513
+}

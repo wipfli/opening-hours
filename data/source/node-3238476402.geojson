@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7944114,
+      46.1687116
+    ]
+  },
+  "properties": {
+    "id": 3238476402,
+    "amenity": "restaurant",
+    "name": "Ristorante Dell'Angelo",
+    "opening_hours": "Mo-Su 11:30-14:30,17:00-23:00",
+    "operator": "Hotel Dell'Angelo",
+    "website": "https://www.dellangelo.ch/restaurant-bar/restaurant-pizzeria"
+  },
+  "id": 3238476402
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4154074,
+      47.0432795
+    ]
+  },
+  "properties": {
+    "id": 12399584303,
+    "amenity": "restaurant",
+    "email": "info@kraftwerk-mels.ch",
+    "name": "Kraftwerk Mels",
+    "opening_hours": "Tu-Fr 09:00-14:00,17:00-23:00; Sa 17:00-24:00; Su 11:00-17:00",
+    "phone": "+41 77 521 02 57",
+    "website": "https://kraftwerk-mels.ch"
+  },
+  "id": 12399584303
+}

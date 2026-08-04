@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1404446,
+      46.2076247
+    ]
+  },
+  "properties": {
+    "id": 1678656798,
+    "addr:housenumber": "10 bis",
+    "addr:postcode": "1201",
+    "addr:street": "Boulevard James-Fazy",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-01-15",
+    "cuisine": "breakfast;french",
+    "email": "hello@sawerdo.ch",
+    "indoor_seating": "yes",
+    "name": "Sawerd\u014d",
+    "opening_hours": "Mo-Fr 07:00-18:30; Th 07:00-22:00; Sa,Su 07:30-17:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 558 01 74",
+    "website": "https://www.sawerdo.ch",
+    "wheelchair": "no"
+  },
+  "id": 1678656798
+}

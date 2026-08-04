@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2924532,
+      47.0732314
+    ]
+  },
+  "properties": {
+    "id": 7714350946,
+    "addr:city": "Emmenbr\u00fccke",
+    "addr:housenumber": "50",
+    "addr:postcode": "6020",
+    "addr:street": "Seetalstrasse",
+    "alt_name": "Migros Restaurant Emmen",
+    "amenity": "restaurant",
+    "branch": "Emmen Wohncenter",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 09:00-17:00, Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-emmen-wohncenter"
+  },
+  "id": 7714350946
+}

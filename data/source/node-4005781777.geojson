@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6325611,
+      47.4387055
+    ]
+  },
+  "properties": {
+    "id": 4005781777,
+    "addr:city": "Au (SG)",
+    "addr:country": "CH",
+    "addr:housenumber": "100",
+    "addr:postcode": "9434",
+    "addr:street": "Walzenhauserstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Burg",
+    "opening_hours": "We-Fr 11:30-14:30,18:00-23:00; Sa 18:00-23:00; Su 11:30-22:00; Mo,Tu off",
+    "takeaway": "no",
+    "website": "https://burg-au.ch/"
+  },
+  "id": 4005781777
+}

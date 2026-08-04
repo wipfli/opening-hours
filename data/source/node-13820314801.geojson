@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0553996,
+      46.6184619
+    ]
+  },
+  "properties": {
+    "id": 13820314801,
+    "addr:housenumber": "1",
+    "addr:street": "Rue de la L\u00e9cheretta",
+    "amenity": "restaurant",
+    "check_date": "2026-05-12",
+    "check_date:opening_hours": "2026-05-12",
+    "cuisine": "crepe",
+    "name": "Gare \u00e0 toi",
+    "opening_hours": "Mo-Fr 09:00-16:30; Sa 09:00-15:00; Su 10:00-15:00",
+    "phone": "+41 26 564 21 21",
+    "website": "https://www.gareatoi.ch"
+  },
+  "id": 13820314801
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5309594,
+      47.381234
+    ]
+  },
   "properties": {
-    "@id": "node/8816562122",
+    "id": 8816562122,
     "addr:housenumber": "111",
     "addr:postcode": "8005",
     "addr:street": "Zollstrasse",
@@ -18,12 +25,5 @@
     "website": "https://lasantasete.restaurant",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5309594,
-      47.381234
-    ]
-  },
-  "id": "node-8816562122"
+  "id": 8816562122
 }

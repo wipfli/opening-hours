@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6020421,
+      46.5244072
+    ]
+  },
+  "properties": {
+    "id": 8497551219,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue du Chablais",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Kitsun\u00e9",
+    "name:de": "Kitsun\u00e9",
+    "name:en": "Kitsun\u00e9",
+    "name:fr": "Kitsun\u00e9",
+    "opening_hours": "Mo-Su 09:00-14:30, 17:00-22:30",
+    "phone": "+41 21 661 11 50;+41 21 624 84 32",
+    "website": "https://www.ramenkitsune.ch/"
+  },
+  "id": 8497551219
+}

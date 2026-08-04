@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3576933,
+      46.6438274
+    ]
+  },
+  "properties": {
+    "id": 915323212,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chalet du Mollendruz",
+    "opening_hours": "Nov-Mar: Tu-Su 10:00-23:00; Apr-Oct: off",
+    "phone": "+41 21 864 30 27",
+    "website": "https://chaletmollendruz.wixsite.com/buvettehivernale"
+  },
+  "id": 915323212
+}

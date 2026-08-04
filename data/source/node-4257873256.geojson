@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9768069,
+      46.1070396
+    ]
+  },
+  "properties": {
+    "id": 4257873256,
+    "addr:country": "CH",
+    "addr:place": "Alpe Zalto",
+    "addr:postcode": "6950",
+    "amenity": "restaurant",
+    "beds": "23",
+    "cuisine": "regional",
+    "description": "Ristorazione, vendita diretta (formaggi, formaggini), alloggio (in dormitorio o sulla paglia).",
+    "name": "Agriturismo Alpe Zalto",
+    "opening_hours": "\"Periodo di apertura: Da met\u00e0 maggio a fine agosto. Settembre e ottobre su riservazione.\"",
+    "operator": "Patriziato di Campestro",
+    "phone": "+41 76 5634809",
+    "phone_1": "+41 76 6839553",
+    "shop": "farm",
+    "tourism": "guest_house",
+    "website": "https://www.agriturismo.ch/agriturismo/alpe_zalto"
+  },
+  "id": 4257873256
+}

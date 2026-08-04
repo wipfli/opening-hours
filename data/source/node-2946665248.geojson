@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8189008,
+      47.2681217
+    ]
+  },
+  "properties": {
+    "id": 2946665248,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "Tu-Sa 17:00-22:00",
+    "email": "info@blume-bubikon.ch",
+    "name": "Gasthaus Blume",
+    "opening_hours": "Tu-Sa 08:30-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 243 48 45",
+    "reservation": "yes",
+    "smoking": "outside",
+    "website": "https://schnellaberguet.ch/Blume/"
+  },
+  "id": 2946665248
+}

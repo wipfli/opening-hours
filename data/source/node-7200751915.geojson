@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7924767,
+      46.1695885
+    ]
+  },
+  "properties": {
+    "id": 7200751915,
+    "addr:city": "Locarno",
+    "addr:housenumber": "10",
+    "addr:postcode": "6600",
+    "addr:street": "Via Sant'Antonio",
+    "amenity": "restaurant",
+    "name": "Ristorante Fiorentina",
+    "opening_hours": "Mo-Su 11:30-14:30,18:00-23:00",
+    "phone": "+41 91 751 50 50",
+    "website": "https://ristorantefiorentina.ch"
+  },
+  "id": 7200751915
+}

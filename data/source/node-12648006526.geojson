@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1289544,
+      46.898257
+    ]
+  },
+  "properties": {
+    "id": 12648006526,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bergrestaurant Schwendi-Kaltbad",
+    "opening_hours": "We-Su 09:00-21:00",
+    "phone": "+41 41 675 21 41",
+    "website": "https://www.kaltbad.ch/"
+  },
+  "id": 12648006526
+}

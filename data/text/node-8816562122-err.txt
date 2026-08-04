@@ -1,3 +1,0 @@
-Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lasantasete.restaurant/
-Call log:
-  - navigating to "https://lasantasete.restaurant/", waiting until "networkidle"

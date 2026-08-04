@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5516525,
+      47.3608124
+    ]
+  },
   "properties": {
-    "@id": "node/12663326764",
+    "id": 12663326764,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "82",
     "addr:postcode": "8008",
@@ -20,12 +27,5 @@
     "website": "https://razzia-zuerich.ch/restaurant/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5516525,
-      47.3608124
-    ]
-  },
-  "id": "node-12663326764"
+  "id": 12663326764
 }

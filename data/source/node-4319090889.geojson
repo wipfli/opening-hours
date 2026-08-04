@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0134546,
+      46.1881987
+    ]
+  },
+  "properties": {
+    "id": 4319090889,
+    "addr:city": "Russin",
+    "addr:housenumber": "332",
+    "addr:postcode": "1281",
+    "addr:street": "Route du Mandement",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "email": "info@vignobledore.com",
+    "name": "Le vignoble dor\u00e9",
+    "opening_hours": "We-Su 11:00-15:00, 18:00-23:30",
+    "phone": "+41 22 754 11 13",
+    "website": "https://www.vignobledore.com/"
+  },
+  "id": 4319090889
+}

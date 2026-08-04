@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9373815,
+      46.9935146
+    ]
+  },
+  "properties": {
+    "id": 601453281,
+    "addr:housenumber": "22",
+    "addr:postcode": "2000",
+    "addr:street": "Avenue du Premier-Mars",
+    "amenity": "restaurant",
+    "cuisine": "pancake",
+    "name": "Cr\u00eaperie Bach et Buck",
+    "name:fr": "Bach & Buck Cr\u00eaperie",
+    "opening_hours": "Mo-We 09:00-22:00; Th-Sa 11:00-22:30; Su 11:00-21:30",
+    "phone": "+41327256353",
+    "website": "https://www.bachetbuck.ch",
+    "wheelchair": "limited"
+  },
+  "id": 601453281
+}

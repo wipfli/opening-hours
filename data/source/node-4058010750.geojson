@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5893591,
+      47.5555484
+    ]
+  },
+  "properties": {
+    "id": 4058010750,
+    "addr:city": "Basel",
+    "addr:housenumber": "31",
+    "addr:postcode": "4001",
+    "addr:street": "Falknerstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "check_date": "2026-06-04",
+    "cuisine": "italian",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Latini",
+    "opening_hours": "11:00-01:00",
+    "opening_hours:covid19": "Mo-Sa 11:30-14:30, 17:30-22:00",
+    "operator": "Bindella",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 261 34 43",
+    "smoking": "outside",
+    "website": "https://www.bindella.ch/de/latini.html",
+    "wheelchair": "yes"
+  },
+  "id": 4058010750
+}

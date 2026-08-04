@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1479678,
+      46.798124
+    ]
+  },
+  "properties": {
+    "id": 6486480344,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "1",
+    "addr:postcode": "1700",
+    "addr:street": "Passage du Cardinal",
+    "amenity": "restaurant",
+    "cuisine": "regional;saison",
+    "email": "info@lesmenteurs.ch",
+    "internet_access": "yes",
+    "name": "Les Menteurs",
+    "opening_hours": "Mo-We 08:00-23:00; Th-Fr 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 422 22 17",
+    "website": "https://www.lesmenteurs.ch/"
+  },
+  "id": 6486480344
+}

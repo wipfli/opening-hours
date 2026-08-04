@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.375003,
+      47.4229767
+    ]
+  },
+  "properties": {
+    "id": 4092716690,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "16",
+    "addr:postcode": "9000",
+    "addr:street": "Webergasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese;asian",
+    "name": "PinChu",
+    "opening_hours": "Mo 11:30-14:00; Tu-Th 11:30-14:00,17:30-22:00; Fr,Sa 11:30-14:00,17:30-22:00",
+    "phone": "+41712320806",
+    "website": "https://pinchu.ch/"
+  },
+  "id": 4092716690
+}

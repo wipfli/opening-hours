@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6259368,
+      46.5229422
+    ]
+  },
+  "properties": {
+    "id": 907186181,
+    "addr:housenumber": "5",
+    "addr:postcode": "1003",
+    "addr:street": "Place Chauderon",
+    "amenity": "restaurant",
+    "check_date": "2026-01-30",
+    "cuisine": "mexican",
+    "email": "info@pocoloco-movida.ch",
+    "name": "PocoLoco",
+    "opening_hours": "Mo-We 11:30-14:00, 18:00-00:00; Th 09:00-14:00, 18:00-01:00; Fr 11:30-14:00, 18:00-02:00; Sa 18:00-02:00",
+    "phone": "+41 21 329 11 11",
+    "website": "https://pocoloco-movida.ch/",
+    "website:menu": "https://pocoloco-movida.ch/carte-des-mets/",
+    "wheelchair": "yes"
+  },
+  "id": 907186181
+}

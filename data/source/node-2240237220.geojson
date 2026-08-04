@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1400863,
+      46.1934497
+    ]
+  },
+  "properties": {
+    "id": 2240237220,
+    "addr:city": "Gen\u00e8ve",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ponte Vecchio",
+    "opening_hours": "Tu-Fr,Su 11:30-14:00, Tu-Fr 18:30-23:00, Sa 18:30-23:00, Su 18:30-22:00",
+    "website": "https://lepontevecchio.ch/"
+  },
+  "id": 2240237220
+}

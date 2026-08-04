@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4867095,
+      47.3943706
+    ]
+  },
+  "properties": {
+    "id": 10126613538,
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten",
+    "cuisine": "balkan",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Jack's Cevap House",
+    "opening_hours": "Tu-Fr 11:00-14:00, Tu-Th 17:30-22:00, Fr 17:30-23:00, Sa 11:00-23:00, Su 11:00-22:00",
+    "outdoor_seating": "no",
+    "website": "https://cevap.ch/"
+  },
+  "id": 10126613538
+}

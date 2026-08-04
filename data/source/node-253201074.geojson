@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4575151,
+      46.948331
+    ]
+  },
+  "properties": {
+    "id": 253201074,
+    "addr:postcode": "3011",
+    "alt_name": "Zum M\u00fchlirad",
+    "amenity": "restaurant",
+    "contact:addr": "Gerberngasse 4, 3011 Bern",
+    "contact:email": "info@muehlirad-bern.ch",
+    "contact:fax": "+41 31 3119933",
+    "contact:phone": "+41 31 3112109",
+    "cuisine": "regional",
+    "name": "M\u00fchlirad",
+    "opening_hours": "Tu-Fr 11:30-23:00; Sa 17:00-23:00",
+    "source": "survey and website",
+    "website": "https://www.muehlirad-bern.ch"
+  },
+  "id": 253201074
+}

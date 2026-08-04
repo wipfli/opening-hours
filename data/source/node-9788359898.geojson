@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5657188,
+      47.4500419
+    ]
+  },
+  "properties": {
+    "id": 9788359898,
+    "amenity": "restaurant",
+    "check_date": "2026-01-05",
+    "check_date:diet:vegetarian": "2026-01-05",
+    "diet:vegetarian": "yes",
+    "email": "babelzurich@hyatt.com",
+    "level": "2",
+    "name": "Babel Restaurant",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 12:00-14:30,18:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 592 49 00",
+    "reservation": "https://www.hyattrestaurants.com/de/dining/switzerland/zurich/middle-eastern-restaurant-in-the-circle-babel?bnfr=true",
+    "website": "https://www.hyattrestaurants.com/en/dining/switzerland/zurich/middle-eastern-restaurant-in-the-circle-babel",
+    "wheelchair": "yes"
+  },
+  "id": 9788359898
+}

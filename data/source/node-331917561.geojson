@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6048588,
+      46.5842009
+    ]
+  },
+  "properties": {
+    "id": 331917561,
+    "amenity": "restaurant",
+    "email": "info@galion.ch",
+    "name": "Galion\u00b4s Pub",
+    "opening_hours": "Mo-Th 06:30-24:00, Fr 06:30-01:00, Sa 15:30-01:00, Su 15:30-24:00",
+    "phone": "+41 21 703 17 17",
+    "toilets:wheelchair": "yes",
+    "website": "https://galion.ch",
+    "wheelchair": "yes"
+  },
+  "id": 331917561
+}

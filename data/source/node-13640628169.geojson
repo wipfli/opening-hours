@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3055885,
+      46.779124
+    ]
+  },
+  "properties": {
+    "id": 13640628169,
+    "addr:city": "Valendas",
+    "addr:housenumber": "21",
+    "addr:place": "Br\u00fcn",
+    "addr:postcode": "7122",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "D\u00fcra Ast",
+    "opening_hours": "Fr-Su 11:00-20:00",
+    "phone": "+41 79 447 31 70",
+    "website": "https://www.dueraast.ch/"
+  },
+  "id": 13640628169
+}

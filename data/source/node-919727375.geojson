@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2312498,
+      46.8017265
+    ]
+  },
+  "properties": {
+    "id": 919727375,
+    "addr:city": "Falera",
+    "addr:housenumber": "1",
+    "addr:postcode": "7153",
+    "addr:street": "Via Stonas",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ustria Aurora",
+    "opening_hours": "Fr-Tu 09:00-23:00",
+    "phone": "+41 81 921 49 49",
+    "website": "https://aurora-falera.ch/"
+  },
+  "id": 919727375
+}

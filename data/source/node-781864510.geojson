@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7956786,
+      47.2093645
+    ]
+  },
+  "properties": {
+    "id": 781864510,
+    "addr:city": "Freienbach",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8640",
+    "addr:street": "Seedammstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-08-31",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Gasthof Seefeld",
+    "opening_hours": "Mo-Th 17:00-24:00; Fr 17:00-02:00; Sa 16:00-02:00; Su 16:00-23:00",
+    "website": "https://www.gasthofseefeld.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 781864510
+}

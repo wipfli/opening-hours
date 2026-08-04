@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1065684,
+      47.1715232
+    ]
+  },
+  "properties": {
+    "id": 9464281670,
+    "addr:city": "Sursee",
+    "addr:housenumber": "9",
+    "addr:postcode": "6210",
+    "addr:street": "Centralstrasse",
+    "amenity": "restaurant",
+    "email": "info@theos-gastropub.ch",
+    "name": "Theo's Gastropub",
+    "opening_hours": "Tu 11:30-14:00; We, Th 11:30-14:00,17:00-23:00; Fr 11:30-14:00,16:30-00:30; Sa 17:00-00:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 921 20 22",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.theos-gastropub.ch/"
+  },
+  "id": 9464281670
+}

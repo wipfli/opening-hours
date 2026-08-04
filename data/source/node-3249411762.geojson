@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0057188,
+      45.8434545
+    ]
+  },
+  "properties": {
+    "id": 3249411762,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ristorante Pizzeria Borgovecchio",
+    "opening_hours": "Mo-Fr 06:45-14:30,17:30-23:00, Sa-Su 17:30-23:00",
+    "phone": "+41 91 682 81 81",
+    "source": "website and survey",
+    "website": "http://www.ristoranteborgovecchio.ch"
+  },
+  "id": 3249411762
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2829323,
+      47.033903
+    ]
+  },
+  "properties": {
+    "id": 7714322381,
+    "addr:city": "Kriens",
+    "addr:housenumber": "30",
+    "addr:postcode": "6010",
+    "addr:street": "Luzernerstrasse",
+    "alt_name": "Migros Restaurant Kriens",
+    "amenity": "restaurant",
+    "branch": "Kriens Hofmatt",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-kriens-hofmatt"
+  },
+  "id": 7714322381
+}

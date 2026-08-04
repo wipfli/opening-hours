@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.123428,
+      46.2127312
+    ]
+  },
+  "properties": {
+    "id": 2723376922,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "12-14",
+    "addr:postcode": "1203",
+    "addr:street": "Rue Soubeyran",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Auberge F\u00e9d\u00e9rale",
+    "opening_hours": "Mo-Sa 06:30-23:45",
+    "website": "https://aubergefederale.ch/"
+  },
+  "id": 2723376922
+}

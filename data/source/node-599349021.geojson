@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7234216,
+      46.3278497
+    ]
+  },
+  "properties": {
+    "id": 599349021,
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "internet_access": "wlan",
+    "name": "Restaurant Park",
+    "opening_hours": "08:30-22:00; Tu,We off",
+    "opening_hours:kitchen": "12:00-14:00,18:00-20:00; Tu,We off",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 932 36 16",
+    "website": "https://park.jeizinen.ch/",
+    "website:menu": "https://park.jeizinen.ch/restaurant-or-karte.html"
+  },
+  "id": 599349021
+}

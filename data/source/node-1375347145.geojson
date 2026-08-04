@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5307697,
+      47.3828582
+    ]
+  },
   "properties": {
-    "@id": "node/1375347145",
+    "id": 1375347145,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "29",
     "addr:postcode": "8005",
@@ -18,12 +25,5 @@
     "website": "https://www.dontworry-eatcurry.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5307697,
-      47.3828582
-    ]
-  },
-  "id": "node-1375347145"
+  "id": 1375347145
 }

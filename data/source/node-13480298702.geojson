@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6853478,
+      47.222494
+    ]
+  },
+  "properties": {
+    "id": 13480298702,
+    "addr:housenumber": "21",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;local;steak_house",
+    "internet_access": "wlan",
+    "name": "Giessen",
+    "opening_hours": "We-Su 17:30-22:00",
+    "self_service": "no",
+    "website": "https://www.giessen-waedenswil.ch/"
+  },
+  "id": 13480298702
+}

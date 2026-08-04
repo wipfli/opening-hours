@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1450471,
+      46.2106798
+    ]
+  },
+  "properties": {
+    "id": 4757672060,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "5",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Fribourg",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "El Faro",
+    "opening_hours": "Mo-Sa 12:00-14:30,19:00-22:30",
+    "phone": "+41 22 732 21 98",
+    "website": "https://www.elfaro.ch/"
+  },
+  "id": 4757672060
+}

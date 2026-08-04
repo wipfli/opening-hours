@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9661903,
+      46.0060331
+    ]
+  },
+  "properties": {
+    "id": 4760805623,
+    "addr:housenumber": "21",
+    "addr:postcode": "6900",
+    "addr:street": "Viale Castagnola",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "currency:XBT": "yes",
+    "internet_access": "wlan",
+    "name": "Breva",
+    "opening_hours": "Tu-Su 09:00-00:00",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "yes",
+    "phone": "+41 91 976 07 07",
+    "survey:date": "2024-10-24",
+    "website": "https://pizzeriabreva.ch/",
+    "website:menu": "http://www.brevalugano.ch/menu.htm"
+  },
+  "id": 4760805623
+}

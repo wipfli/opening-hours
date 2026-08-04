@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.524892,
+      47.371639
+    ]
+  },
   "properties": {
-    "@id": "node/1817263466",
+    "id": 1817263466,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "58",
     "addr:postcode": "8004",
@@ -14,12 +21,5 @@
     "website": "https://www.hermanseck.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.524892,
-      47.371639
-    ]
-  },
-  "id": "node-1817263466"
+  "id": 1817263466
 }

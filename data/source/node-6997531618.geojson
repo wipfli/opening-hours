@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.049136,
+      47.4436537
+    ]
+  },
+  "properties": {
+    "id": 6997531618,
+    "addr:city": "Asp",
+    "addr:country": "CH",
+    "addr:housenumber": "26",
+    "addr:postcode": "5025",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@jura-asp.ch",
+    "name": "Jura",
+    "opening_hours": "Th, Fr 11:00-23:00; Sa 16:30-23:00; Su 11:00-18:00; Mo 11:00-14:00, 16:30-23:00",
+    "phone": "+41 62 534 73 81",
+    "website": "https://jura-asp.ch/"
+  },
+  "id": 6997531618
+}

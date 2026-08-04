@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6437436,
+      46.8813988
+    ]
+  },
+  "properties": {
+    "id": 13101003143,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "4",
+    "addr:postcode": "6460",
+    "addr:street": "Schmiedgasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Pandaki",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Sep-May We off; PH off",
+    "phone": "+41 41 872 06 06",
+    "takeaway": "only",
+    "website": "https://pandaki-shop.ch/"
+  },
+  "id": 13101003143
+}

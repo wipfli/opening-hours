@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5983231,
+      47.3974737
+    ]
+  },
+  "properties": {
+    "id": 4891858482,
+    "access": "yes",
+    "addr:city": "D\u00fcbendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "130",
+    "addr:postcode": "8600",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "capacity": "240",
+    "email": "allegra@zfv.ch",
+    "name": "Helsana Allegra",
+    "opening_hours": "Mo-Fr 06:00-18:00",
+    "opening_hours:kitchen": "Mo-Fr 11:00-13:30",
+    "operator": "ZFV-Unternehmungen",
+    "phone": "+41 43 819 14 75",
+    "self_service": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/helsana-allegra-oase",
+    "wheelchair": "yes"
+  },
+  "id": 4891858482
+}

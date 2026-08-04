@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3869469,
+      47.4306945
+    ]
+  },
+  "properties": {
+    "id": 2324192844,
+    "amenity": "restaurant",
+    "name": "Vitamin",
+    "opening_hours": "Mo-Fr 07:30-14:00,17:00-19:30; Sa-Su 11:00-19:30; PH 11:00-19:30",
+    "website": "https://www.h-och.ch/aufenthalt/gastronomie-services/restaurants-cafes/",
+    "wheelchair": "yes"
+  },
+  "id": 2324192844
+}

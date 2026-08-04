@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5394674,
+      47.3743748
+    ]
+  },
   "properties": {
-    "@id": "node/271411935",
+    "id": 271411935,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "9",
@@ -17,12 +24,5 @@
     "website": "https://www.brasserie-lipp.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5394674,
-      47.3743748
-    ]
-  },
-  "id": "node-271411935"
+  "id": 271411935
 }

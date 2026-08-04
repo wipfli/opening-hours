@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455086,
+      47.3688249
+    ]
+  },
   "properties": {
-    "@id": "node/270800540",
+    "id": 270800540,
     "amenity": "restaurant",
     "diet:vegetarian": "yes",
     "level": "0",
@@ -11,12 +18,5 @@
     "website": "https://weisserwind.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5455086,
-      47.3688249
-    ]
-  },
-  "id": "node-270800540"
+  "id": 270800540
 }

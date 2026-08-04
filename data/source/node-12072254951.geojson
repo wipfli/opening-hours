@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5830154,
+      47.4503777
+    ]
+  },
+  "properties": {
+    "id": 12072254951,
+    "addr:housenumber": "1",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Bottega da Pina",
+    "opening_hours": "Mo 09:00-18:30; Tu-Sa 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 540 40 50",
+    "takeaway": "yes",
+    "website": "https://www.labottegadapina.ch/"
+  },
+  "id": 12072254951
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4406589,
+      46.9406597
+    ]
+  },
+  "properties": {
+    "id": 6253769629,
+    "alt_name": "Restaurant daylis",
+    "amenity": "restaurant",
+    "contact:addr": "Sulgeneckstrasse 70, 3005 Bern",
+    "contact:email": "bkd.bern@sv-group.ch",
+    "contact:phone": "+41 31 6338533",
+    "contact:website": "https://bkd.sv-restaurant.ch/kontakt/?L=0",
+    "level": "1",
+    "name": "daylis",
+    "opening_hours": "Mo-Th 07:45-16:00, Fr 07:45-15:30; PH off",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "website": "https://bkd.sv-restaurant.ch"
+  },
+  "id": 6253769629
+}

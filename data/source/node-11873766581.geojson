@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7039244,
+      47.4505076
+    ]
+  },
+  "properties": {
+    "id": 11873766581,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "email": "info@miyabi-sushi.ch",
+    "layer": "1",
+    "name": "Miyabi",
+    "opening_hours": "Mo 18:00-22:15; Tu-Fr 11:45-14:00,18:00-22:15; Sa 18:00-22:15; Su,PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 345 16 16",
+    "website": "https://miyabi-sushi.ch/"
+  },
+  "id": 11873766581
+}

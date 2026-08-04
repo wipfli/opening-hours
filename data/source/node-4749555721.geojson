@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5948728,
+      47.5677168
+    ]
+  },
+  "properties": {
+    "id": 4749555721,
+    "addr:city": "Basel",
+    "addr:housenumber": "141",
+    "addr:postcode": "4057",
+    "addr:street": "Hammerstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Avant-Gouz",
+    "name:de": "Avant-Gouz",
+    "opening_hours": "Mo-Su 09:00-15:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.avant-gouz.com/",
+    "wheelchair": "no"
+  },
+  "id": 4749555721
+}

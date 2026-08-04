@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6648368,
+      47.5714563
+    ]
+  },
+  "properties": {
+    "id": 344752222,
+    "addr:housenumber": "6",
+    "addr:street": "Brohegasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "email": "info@baslerhof-bettingen.ch",
+    "name": "Baslerhof",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "phone": "+41 61 6032425",
+    "website": "https://www.baslerhof-bettingen.ch"
+  },
+  "id": 344752222
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4423948,
+      46.9472616
+    ]
+  },
+  "properties": {
+    "id": 2603741618,
+    "amenity": "restaurant",
+    "contact:addr": "Schauplatzgasse 23, 3011 Bern",
+    "contact:email": "papajoes.bern@gastrag.ch",
+    "contact:fax": "+41 31 3101159",
+    "contact:phone": "+41 31 3101155",
+    "cuisine": "american",
+    "name": "Papa Joe's",
+    "opening_hours": "Mo-Th 11:30-24:00; Fr-Sa 11:30-01:30; Su 11:30-24:00",
+    "operator": "Gastrag AG",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.papajoes.ch/bern/deutsch",
+    "wheelchair": "yes"
+  },
+  "id": 2603741618
+}

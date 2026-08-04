@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0432072,
+      47.46438
+    ]
+  },
+  "properties": {
+    "id": 4153502770,
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Swan21",
+    "opening_hours": "Mo-Su 11:30-14:30,18:00-22:30",
+    "opening_hours:kitchen": "11:30-13:30; 18:00-21:00",
+    "operator": "Hotel Schwanen AG Wil",
+    "outdoor_seating": "no",
+    "website": "https://www.hotel-schwanen.ch/"
+  },
+  "id": 4153502770
+}

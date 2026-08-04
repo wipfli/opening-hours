@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0800099,
+      47.0324573
+    ]
+  },
+  "properties": {
+    "id": 8439332317,
+    "addr:city": "Ennenda",
+    "addr:housenumber": "10",
+    "addr:postcode": "8755",
+    "addr:street": "Neue Wiese",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:local": "yes",
+    "name": "Restaurant Central",
+    "opening_hours": "Th-Mo 11:00-22:00; Tu,We off",
+    "phone": "+41 55 640 25 55",
+    "website": "https://central-ennenda.ch/"
+  },
+  "id": 8439332317
+}

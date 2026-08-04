@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5696215,
+      47.4440812
+    ]
+  },
+  "properties": {
+    "id": 5807150669,
+    "alt_name": "Eurest",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "taubenried@eurest.ch",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Restaurant Taubenried",
+    "opening_hours": "Mo-Fr 10:00-14:00",
+    "operator": "Restorama AG",
+    "outdoor_seating": "no",
+    "phone": "+41 79 961 12 13",
+    "website": "https://clients.eurest.ch/en/taubenried/flughafen/outlet",
+    "wheelchair": "no"
+  },
+  "id": 5807150669
+}

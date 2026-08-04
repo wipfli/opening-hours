@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4318855,
+      46.9419805
+    ]
+  },
+  "properties": {
+    "id": 663576545,
+    "amenity": "restaurant",
+    "check_date": "2026-04-09",
+    "check_date:diet:vegan": "2026-04-09",
+    "contact:addr": "M\u00fchlemattstrasse 62, 3007 Bern",
+    "cuisine": "lebanese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@mezzedebeirut.com",
+    "indoor_seating": "yes",
+    "name": "Mezze de Beirut",
+    "opening_hours": "Mo,Fr-Sa 17:30-23:00; Tu-Th 11:00-14:00,17:30-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 31 506 00 91",
+    "website": "https://mezzedebeirut.com",
+    "wheelchair": "no"
+  },
+  "id": 663576545
+}

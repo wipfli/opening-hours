@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5565889,
+      47.4180995
+    ]
+  },
+  "properties": {
+    "id": 1964869590,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "71",
+    "addr:postcode": "8050",
+    "addr:street": "Leutschenbachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Tasty Haus",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 443 94 84",
+    "takeaway": "yes",
+    "website": "https://tastyhaus.ch/"
+  },
+  "id": 1964869590
+}

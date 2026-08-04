@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.417329,
+      46.9255801
+    ]
+  },
+  "properties": {
+    "id": 1621590595,
+    "addr:city": "K\u00f6niz",
+    "addr:housenumber": "229",
+    "addr:postcode": "3098",
+    "addr:street": "Schwarzenburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-11",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Indian Kitchen",
+    "opening_hours": "Mo-Fr 11:30-13:30,17:00-22:00; Sa-Su 12:00-22:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 536 19 09",
+    "takeaway": "yes",
+    "website": "https://www.indiankitchenkoeniz.ch/"
+  },
+  "id": 1621590595
+}

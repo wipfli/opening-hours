@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3912995,
+      46.9469027
+    ]
+  },
+  "properties": {
+    "id": 6541836826,
+    "amenity": "restaurant",
+    "contact:addr": "Fellerstrasse 11, 3027 Bern",
+    "contact:phone": "+41 31 991 00 15",
+    "name": "Buffet Nord",
+    "opening_hours": "Mo-Fr 08:30 - 17:00",
+    "website": "https://www.buffetnord.ch"
+  },
+  "id": 6541836826
+}

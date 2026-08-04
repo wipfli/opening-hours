@@ -1,17 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/10795377101",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "22",
-    "addr:postcode": "8004",
-    "addr:street": "Europaallee",
-    "amenity": "restaurant",
-    "cuisine": "japanese",
-    "name": "Tokyo Express",
-    "opening_hours": "Mo-Fr 11:30-14:00,17:30-21:30; Sa 11:30-21:30",
-    "website": "https://www.tokyoexpress.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -19,5 +7,26 @@
       47.3787745
     ]
   },
-  "id": "node-10795377101"
+  "properties": {
+    "id": 10795377101,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "22",
+    "addr:postcode": "8004",
+    "addr:street": "Europaallee",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "description": "menu: https://menu.tablesnappr.com/bridgezurich/#/",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Tokyo Express @ bridge",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-21:30; Sa 11:30-21:30",
+    "operator": "Tokyo Express",
+    "operator:website": "https://www.tokyoexpress.ch/",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.bridgezurich.ch/de/startseite/",
+    "wheelchair": "yes"
+  },
+  "id": 10795377101
 }

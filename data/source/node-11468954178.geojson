@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8475511,
+      47.1057703
+    ]
+  },
+  "properties": {
+    "id": 11468954178,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:housenumber": "6",
+    "addr:postcode": "2300",
+    "addr:street": "Les Petites-Crosettes",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ferme des Brandt",
+    "opening_hours": "Tu 11:00-15:00, 18:30-24:00; Th-Sa 11:00-15:00, 18:30-24:00; Su 11:00-17:00",
+    "opening_hours:url": "http://www.fermedesbrandt.ch/site_brandt/information.html",
+    "phone": "+41 32 968 59 89",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.fermedesbrandt.ch/"
+  },
+  "id": 11468954178
+}

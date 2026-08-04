@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7206897,
+      47.5015424
+    ]
+  },
+  "properties": {
+    "id": 9454867847,
+    "amenity": "restaurant",
+    "contact:email": "hello@7030.ch",
+    "level": "0",
+    "name": "70/30",
+    "opening_hours": "Mo-Sa 11:00-21:00",
+    "operator": "70/30 Gastro AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 233 70 30",
+    "self_service": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://7030.ch/"
+  },
+  "id": 9454867847
+}

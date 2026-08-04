@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4323361,
+      46.9540375
+    ]
+  },
+  "properties": {
+    "id": 886143734,
+    "amenity": "restaurant",
+    "check_date": "2022-09-27",
+    "contact:facebook": "https://www.facebook.com/chlynehecht",
+    "contact:mobile": "+41 79 3301093",
+    "contact:youtube": "https://www.youtube.com/channel/UCrO9Df-R6u2a4XF48jZM0Gg",
+    "email": "chlynehecht@bluewin.ch",
+    "name": "chlyne Hecht",
+    "opening_hours": "Tu-Sa 11:00-23:30",
+    "operator": "Aeschlimann und N\u00f6thiger GmbH",
+    "phone": "+41 31 301 57 67",
+    "website": "https://chlynehecht.ch/"
+  },
+  "id": 886143734
+}

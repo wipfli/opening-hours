@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6366744,
+      46.7761658
+    ]
+  },
+  "properties": {
+    "id": 5804319742,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:housenumber": "12",
+    "addr:postcode": "1400",
+    "addr:street": "Rue du Midi",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "email": "contact@tamnanthai.ch",
+    "name": "Tamnanthai",
+    "opening_hours": "Mo-Fr 11:00-14:30,17:00-19:00; Sa 11:00-14:30,16:00-18:00",
+    "opening_hours:delivery": "Mo-Fr 11:00.14:30,17:00-21:00; Sa 11:00-14:30,17:00-21:00",
+    "phone": "+41 24 426 11 75",
+    "takeaway": "yes",
+    "website": "https://tamnanthai.ch/"
+  },
+  "id": 5804319742
+}

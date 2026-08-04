@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4531969,
+      46.9576355
+    ]
+  },
+  "properties": {
+    "id": 2577907280,
+    "alt_name": "Restaurant Mont Liban",
+    "amenity": "restaurant",
+    "contact:addr": "Moserstrasse 27, 3014 Bern",
+    "contact:email": "info@montliban-bern.ch",
+    "contact:phone": "+41 31 3330777",
+    "cuisine": "lebanese",
+    "name": "Mont Liban",
+    "opening_hours": "Mo-Fr 11:00-23:00; Sa 18:00-23:30; Su off",
+    "source": "survey and website",
+    "website": "https://www.montliban-bern.ch/"
+  },
+  "id": 2577907280
+}

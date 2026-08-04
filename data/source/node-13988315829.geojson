@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2433292,
+      47.3433731
+    ]
+  },
+  "properties": {
+    "id": 13988315829,
+    "amenity": "restaurant",
+    "name": "Restaurant Rose",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "website": "https://www.oberemuehle-villmergen.ch/de/gastronomie/restaurant-rose.php"
+  },
+  "id": 13988315829
+}

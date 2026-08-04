@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9966381,
+      47.4616495
+    ]
+  },
+  "properties": {
+    "id": 1014231758,
+    "addr:city": "Sirnach",
+    "addr:housenumber": "2",
+    "addr:postcode": "8370",
+    "addr:street": "Fischingerstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-29",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Gasthaus Engel",
+    "opening_hours": "We-Sa 09:00-23:00; Su 10:00-16:00",
+    "outdoor_seating": "no",
+    "phone": "+41 71 966 31 31",
+    "website": "https://engel-sirnach.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1014231758
+}

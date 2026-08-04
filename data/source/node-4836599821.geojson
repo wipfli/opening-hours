@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5405108,
+      47.3966207
+    ]
+  },
+  "properties": {
+    "id": 4836599821,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "127",
+    "addr:postcode": "8057",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-24",
+    "cuisine": "vietnamese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "banhmi@hangs.ch",
+    "name": "Hang's Banh Mi",
+    "note": "ex Divini Sapori",
+    "opening_hours": "Mo-Fr 11:00-21:00; Sa-Su 12:00-22:00",
+    "phone": "+41 44 370 26 10;+41 76 288 28 28",
+    "website": "https://hangs-banhmi.ch/",
+    "website:menu": "https://drive.google.com/file/d/1qIVGAJAgmuIGjvHJ4z3XKBeQMHzGmSQA/view",
+    "wheelchair": "no"
+  },
+  "id": 4836599821
+}

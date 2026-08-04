@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5322752,
+      46.2931931
+    ]
+  },
+  "properties": {
+    "id": 1909075908,
+    "amenity": "restaurant",
+    "name": "Didier de Courten",
+    "opening_hours": "Tu-Fr 08:30-23:00; Sa 10:00-00:00",
+    "website": "https://www.hotel-terminus.ch",
+    "wikidata": "Q89499045"
+  },
+  "id": 1909075908
+}

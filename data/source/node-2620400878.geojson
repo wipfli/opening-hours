@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2182076,
+      47.3865472
+    ]
+  },
+  "properties": {
+    "id": 2620400878,
+    "addr:city": "Hendschiken",
+    "addr:housenumber": "12",
+    "addr:postcode": "5604",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant J\u00e4gerst\u00fcbli",
+    "opening_hours": "Tu-Sa 08:00-00:00",
+    "phone": "+41 62 891 21 85",
+    "website": "https://www.jaegerstuebli-hendschiken.ch"
+  },
+  "id": 2620400878
+}

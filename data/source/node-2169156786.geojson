@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1407773,
+      46.2009447
+    ]
+  },
+  "properties": {
+    "id": 2169156786,
+    "addr:city": "Gen\u00e8ve",
+    "addr:city:en": "Geneva",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "1204",
+    "addr:street": "Boulevard Georges-Favon",
+    "amenity": "restaurant",
+    "check_date": "2024-10-06",
+    "name": "La Cave Valaisanne",
+    "opening_hours": "\"ferm\u00e9 (incendie)\"",
+    "website": "https://cavevalaisanne.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2169156786
+}

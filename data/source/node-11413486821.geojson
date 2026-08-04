@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5877111,
+      47.5604879
+    ]
+  },
+  "properties": {
+    "id": 11413486821,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Brasserie",
+    "opening_hours": "Mo-Sa 12:00-14:00,18:00-23:00; Su 18:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.lestroisrois.com/de/restaurants/brasserie"
+  },
+  "id": 11413486821
+}

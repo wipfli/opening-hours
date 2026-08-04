@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2993821,
+      47.0535676
+    ]
+  },
+  "properties": {
+    "id": 1142783785,
+    "addr:city": "Luzern",
+    "addr:housenumber": "19",
+    "addr:postcode": "6004",
+    "addr:street": "Br\u00fcggligasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Reussbad",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-23:00; Sa 11:00-14:00,17:00-23:00; Su-Mo off",
+    "phone": "+41 41 240 54 23",
+    "website": "https://www.reussbad-luzern.ch/"
+  },
+  "id": 1142783785
+}

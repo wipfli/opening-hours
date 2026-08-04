@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.359861,
+      46.2333776
+    ]
+  },
+  "properties": {
+    "id": 5506753422,
+    "addr:city": "Sion",
+    "addr:housenumber": "10",
+    "addr:postcode": "1950",
+    "addr:street": "Rue de Conthey",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "Pinte Contheysanne",
+    "opening_hours": "Tu-Th 10:00-23:00; Fr 09:00-24:00; Sa 10:00-24:00",
+    "phone": "+41 27 322 08 08",
+    "website": "https://www.pintecontheysanne.ch/"
+  },
+  "id": 5506753422
+}

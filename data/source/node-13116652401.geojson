@@ -1,17 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/13116652401",
-    "addr:housenumber": "5",
-    "addr:postcode": "8001",
-    "addr:street": "Neumarkt",
-    "amenity": "restaurant",
-    "cuisine": "italian;japanese",
-    "name": "Cucina itameshi",
-    "opening_hours": "Mo-Sa 12:00-14:00, 18:00-23:00",
-    "phone": "+41442440290",
-    "website": "https://www.cucina-itameshi.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -19,5 +7,17 @@
       47.3728285
     ]
   },
-  "id": "node-13116652401"
+  "properties": {
+    "id": 13116652401,
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Neumarkt",
+    "amenity": "restaurant",
+    "cuisine": "italian;japanese",
+    "name": "Trattoria Neumarkt",
+    "opening_hours": "Tu-Fr 12:00-14:00, 18:00-23:00; Sa 12:00-15:00, 18:00-23:00; Su 12:00-21:00",
+    "phone": "+41442440290",
+    "website": "https://www.neumarkt-zuerich.ch/"
+  },
+  "id": 13116652401
 }

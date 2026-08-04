@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7896961,
+      47.2114625
+    ]
+  },
+  "properties": {
+    "id": 9543780251,
+    "addr:city": "Langenthal",
+    "addr:housenumber": "13",
+    "addr:postcode": "4900",
+    "addr:street": "Spitalgasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "G\u00e4ssli",
+    "opening_hours": "Mo-Su 08:00-23:30; Su off",
+    "phone": "+41 62 922 15 69",
+    "website": "https://restaurant-gaessli.ch/"
+  },
+  "id": 9543780251
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5469255,
+      47.3797201
+    ]
+  },
   "properties": {
-    "@id": "node/252407019",
+    "id": 252407019,
     "amenity": "restaurant",
     "check_date": "2025-07-29",
     "cuisine": "italian",
@@ -13,12 +20,5 @@
     "website": "https://www.instagram.com/la_fontana_zurich/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5469255,
-      47.3797201
-    ]
-  },
-  "id": "node-252407019"
+  "id": 252407019
 }

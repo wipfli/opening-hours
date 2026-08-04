@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3067964,
+      47.0500866
+    ]
+  },
+  "properties": {
+    "id": 1423740034,
+    "addr:city": "Luzern",
+    "addr:housenumber": "7",
+    "addr:postcode": "6003",
+    "addr:street": "Theaterstrasse",
+    "amenity": "restaurant",
+    "contact:email": "ristorante@labaracca-luzern.ch",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "La Baracca",
+    "opening_hours": "Mo-Sa 11:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 310 12 12",
+    "website": "https://www.labaracca-luzern.ch"
+  },
+  "id": 1423740034
+}

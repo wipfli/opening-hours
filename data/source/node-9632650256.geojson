@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5707702,
+      46.5138873
+    ]
+  },
+  "properties": {
+    "id": 9632650256,
+    "amenity": "restaurant",
+    "cuisine": "italian;local;pizza",
+    "email": "info@abordage-restaurant.ch",
+    "name": "L'Abordage",
+    "opening_hours": "Tu-Fr 10:30-15:00, 18:00-23:00; Sa-Su 10:30-23:00",
+    "phone": "+41216919393",
+    "self_service": "no",
+    "website": "https://abordage-restaurant.ch/"
+  },
+  "id": 9632650256
+}

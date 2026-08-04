@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6465837,
+      46.8771769
+    ]
+  },
+  "properties": {
+    "id": 9376809170,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "34",
+    "addr:postcode": "6460",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Lazika Pizzakurier",
+    "opening_hours": "Mo off; Tu-Th 17:00-21:30, Fr 11:00-13:00, 17:00-22:00; Sa 11:00-14:00, 17:00-22:00; Su 11:00-14:00, 17:00-21:30",
+    "phone": "+41 41 870 00 61",
+    "takeaway": "yes",
+    "website": "https://lazika.ch/"
+  },
+  "id": 9376809170
+}

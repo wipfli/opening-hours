@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6385418,
+      46.7794031
+    ]
+  },
+  "properties": {
+    "id": 828159641,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1400",
+    "addr:street": "Rue du Pr\u00e9",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Don Camillo",
+    "opening_hours": "Mo 10:00-23:00; Tu-Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 425 42 82",
+    "website": "https://don-camillo.ch/",
+    "wheelchair": "no"
+  },
+  "id": 828159641
+}

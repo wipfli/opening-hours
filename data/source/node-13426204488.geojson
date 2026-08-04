@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.379021,
+      47.0410118
+    ]
+  },
+  "properties": {
+    "id": 13426204488,
+    "amenity": "restaurant",
+    "name": "Marcs Tschibis",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off",
+    "website": "https://marcstschibi.ch/"
+  },
+  "id": 13426204488
+}

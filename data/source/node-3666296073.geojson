@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4079638,
+      47.5004438
+    ]
+  },
+  "properties": {
+    "id": 3666296073,
+    "addr:housenumber": "20",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Apinya Kanomthai",
+    "opening_hours": "10:00-19:00",
+    "phone": "+41 79 656 15 02",
+    "website": "https://www.facebook.com/ApinyaKanomthai"
+  },
+  "id": 3666296073
+}

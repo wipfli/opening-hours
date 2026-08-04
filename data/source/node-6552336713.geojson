@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4356642,
+      46.9439157
+    ]
+  },
+  "properties": {
+    "id": 6552336713,
+    "amenity": "restaurant",
+    "check_date": "2025-06-12",
+    "contact:addr": "Monbijoustrasse 28, 3011 Bern",
+    "contact:email": "info@fabrique28.ch",
+    "contact:facebook": "https://www.facebook.com/Fabrique28-108897220970827/",
+    "contact:instagram": "https://www.instagram.com/fabrique28.restaurant/",
+    "contact:mobile": "+41 77 5226120",
+    "indoor_seating": "yes",
+    "name": "Fabrique28",
+    "opening_hours": "Mo-Fr 09:30-16:30",
+    "outdoor_seating": "yes",
+    "website": "https://fabrique28.ch",
+    "wheelchair": "no"
+  },
+  "id": 6552336713
+}

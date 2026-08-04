@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3756729,
+      47.424012
+    ]
+  },
+  "properties": {
+    "id": 3359524271,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "9000",
+    "addr:street": "Schmiedgasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Indian Palace",
+    "opening_hours": "Mo-Sa 11:30-13:45,17:30-22:00",
+    "phone": "+41 71 222 06 96",
+    "website": "http://www.indianpalace.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3359524271
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5277335,
+      46.9915697
+    ]
+  },
+  "properties": {
+    "id": 1575815256,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gasthaus T\u00fcbli",
+    "opening_hours": "Oct-Apr: We-Su 11:00-23:00; May-Sep: We-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 828 12 34",
+    "website": "https://www.gasthaus-tuebli-gersau.ch/",
+    "website:menu": "https://www.gasthaus-tuebli-gersau.ch/speisekarte-weinkarte"
+  },
+  "id": 1575815256
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.535733,
+      47.374608
+    ]
+  },
   "properties": {
-    "@id": "node/3085757833",
+    "id": 3085757833,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "29",
     "addr:postcode": "8001",
@@ -16,12 +23,5 @@
     "phone": "+41438102929",
     "website": "https://www.kappo-seam.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.535733,
-      47.374608
-    ]
-  },
-  "id": "node-3085757833"
+  "id": 3085757833
 }

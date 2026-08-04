@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7257511,
+      47.507148
+    ]
+  },
+  "properties": {
+    "id": 498891528,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "35",
+    "addr:postcode": "8400",
+    "addr:street": "Brunngasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;persian",
+    "name": "San Remo",
+    "opening_hours": "Mo-Su 11:30-14:30,17:30-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.san-remo.ch"
+  },
+  "id": 498891528
+}

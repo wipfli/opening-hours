@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6553076,
+      47.2357281
+    ]
+  },
+  "properties": {
+    "id": 10199006336,
+    "addr:city": "Wangen an der Aare",
+    "addr:country": "CH",
+    "addr:housenumber": "12a",
+    "addr:postcode": "3380",
+    "addr:street": "St\u00e4dtli",
+    "alt_name": "Stagi",
+    "amenity": "restaurant",
+    "name": "Stadtgarten",
+    "opening_hours": "Tu-We 11:00-14:00, 17:30-22:00; Fr 11:30-14:00, 16:30-22:30; Sa 16:00-22:30",
+    "website": "https://www.stadtgarten-wangen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 10199006336
+}

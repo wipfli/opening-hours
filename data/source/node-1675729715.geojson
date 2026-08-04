@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0440611,
+      47.3935858
+    ]
+  },
+  "properties": {
+    "id": 1675729715,
+    "addr:city": "Aarau",
+    "addr:housenumber": "8",
+    "addr:postcode": "5000",
+    "addr:street": "Metzgergasse",
+    "alt_name": "Spaghetti Factory Salmen",
+    "amenity": "restaurant",
+    "branch": "Aarau Salmen",
+    "brand": "Spaghetti Factory",
+    "check_date": "2024-05-11",
+    "cuisine": "italian",
+    "name": "Spagi",
+    "old_name": "Marcello's Spaghetti Factory",
+    "opening_hours": "Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-21:00",
+    "operator": "Bindella",
+    "phone": "+4162 822 23 12",
+    "toilets:wheelchair": "yes",
+    "website": "https://spagi.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1675729715
+}

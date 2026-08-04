@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.09818,
+      47.1676714
+    ]
+  },
+  "properties": {
+    "id": 3284340632,
+    "addr:city": "Sursee",
+    "addr:housenumber": "1b",
+    "addr:postcode": "6210",
+    "addr:street": "Allee",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "bison@braendi.ch",
+    "name": "Restaurant Bison",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "phone": "+41 58 226 06 85",
+    "website": "https://www.braendi.ch/ueber-uns/standorte/restaurant-bison-92",
+    "wheelchair": "yes"
+  },
+  "id": 3284340632
+}

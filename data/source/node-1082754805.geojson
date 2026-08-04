@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6139455,
+      46.6012245
+    ]
+  },
+  "properties": {
+    "id": 1082754805,
+    "addr:city": "Etagni\u00e8res",
+    "addr:housenumber": "10",
+    "addr:postcode": "1037",
+    "addr:street": "Route d'Echallens",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "no",
+    "name": "L'Instant",
+    "opening_hours": "Tu-Sa 12:00-13:45, 18:15-21:45",
+    "phone": "+41 21 732 26 46",
+    "website": "https://restaurant-linstant.ch/"
+  },
+  "id": 1082754805
+}

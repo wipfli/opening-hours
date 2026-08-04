@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8218802,
+      47.5209088
+    ]
+  },
+  "properties": {
+    "id": 5581425580,
+    "addr:city": "Wiesendangen",
+    "addr:housenumber": "2",
+    "addr:street": "Fulauerstrasse",
+    "amenity": "restaurant",
+    "name": "Hirschen",
+    "opening_hours": "Mo-Tu 08:30-24:00; We-Th off; Fr 08:30-24:00; Sa 08:30-19:00; Su 09:00-19:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.hirschen-wiesendangen.ch"
+  },
+  "id": 5581425580
+}

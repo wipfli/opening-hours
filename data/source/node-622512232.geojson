@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4544525,
+      46.9663233
+    ]
+  },
+  "properties": {
+    "id": 622512232,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "65",
+    "addr:postcode": "3014",
+    "addr:street": "Stauffacherstrasse",
+    "alt_name": "RUAG al parco",
+    "amenity": "restaurant",
+    "contact:email": "alparco@sv-group.ch",
+    "contact:fax": "+41 31 3327743",
+    "contact:phone": "+41 31 3485775",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "al parco",
+    "note": "addr:housenumber is 61 according to Parzellenplan Bern",
+    "opening_hours": "Mo-Fr 08:30-13:30; Sa,Su off",
+    "operator": "SV (Schweiz) AG",
+    "outdoor_seating": "yes",
+    "source": "website",
+    "website": "http://alparco.sv-group.ch"
+  },
+  "id": 622512232
+}

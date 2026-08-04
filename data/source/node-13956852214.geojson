@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7849228,
+      46.7418628
+    ]
+  },
+  "properties": {
+    "id": 13956852214,
+    "addr:city": "Davos Glaris",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "7277",
+    "addr:street": "Spinerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1587",
+    "email": "willkommen@restaurant-spina.ch",
+    "name": "Restaurant Spina",
+    "opening_hours": "10:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 420 31 01",
+    "website": "https://www.restaurant-spina.ch"
+  },
+  "id": 13956852214
+}

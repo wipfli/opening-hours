@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6341535,
+      46.7832809
+    ]
+  },
+  "properties": {
+    "id": 4904779116,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "43",
+    "addr:postcode": "1400",
+    "addr:street": "Rue de Neuch\u00e2tel",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "delivery": "no",
+    "name": "Mian Fan",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 24 426 00 56",
+    "takeaway": "yes",
+    "website": "https://www.mianfan.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4904779116
+}

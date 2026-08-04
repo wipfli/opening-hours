@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7476667,
+      47.0297303
+    ]
+  },
+  "properties": {
+    "id": 6772804935,
+    "addr:city": "Sumiswald",
+    "addr:housenumber": "16",
+    "addr:postcode": "3454",
+    "addr:street": "Spitalstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-08-10",
+    "cuisine": "regional",
+    "email": "gastro@dlz-sumiswald.ch",
+    "level": "4",
+    "name": "DLZ Dachrestaurant",
+    "opening_hours": "Mo-Th 08:30-16:30; Fr 08:30-14:00; PH off",
+    "phone": "+41 34 432 55 21",
+    "website": "https://www.dlz-sumiswald.ch/gastro/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 6772804935
+}

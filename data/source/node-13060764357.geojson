@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4310275,
+      47.3973322
+    ]
+  },
+  "properties": {
+    "id": 13060764357,
+    "amenity": "restaurant",
+    "check_date": "2025-09-14",
+    "contact:phone": "+41445451206",
+    "cuisine": "vietnamese",
+    "description": "Vietnamese Restaurant",
+    "name": "Hien's Kitchen",
+    "opening_hours": "Tu-Fr 11:00-15:00,17:30-22:00; Sa 11:00-22:00; Su 11:00-17:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://hiens-kitchen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13060764357
+}

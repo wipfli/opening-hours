@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7084093,
+      47.5076476
+    ]
+  },
+  "properties": {
+    "id": 4095987433,
+    "addr:housenumber": "9",
+    "addr:street": "Fl\u00fcelistrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Bocciodromo Pizzeria",
+    "opening_hours": "Tu-Fr 14:00-23:00; Sa-Su 11:00-23:00",
+    "phone": "+41 52 222 55 53",
+    "website": "https://bocciodromo.ch/"
+  },
+  "id": 4095987433
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0091476,
+      46.0321999
+    ]
+  },
+  "properties": {
+    "id": 13003474637,
+    "amenity": "restaurant",
+    "contact:tripadvisor": "https://www.tripadvisor.fr/Restaurant_Review-g1118341-d10509068-Reviews-Buvette_du_Glacier_du_Trient-Trient_Canton_of_Valais_Swiss_Alps.html",
+    "email": "info@buvetteduglaciertrient.ch",
+    "name": "La Buvette du Glacier",
+    "opening_hours": "Jun 01-Sep 30 Mo-Fr 09:00-17:00; Jun 01-Sep 30 Sa 08:00-18:00; Jun 01-Sep 30 Su 08:00-17:00; May Sa,Su 09:00-17:00; Oct Sa,Su 08:00-17:00",
+    "phone": "+41 79 635 96 44",
+    "source:opening_hours": "website",
+    "website": "https://buvetteduglaciertrient.ch/"
+  },
+  "id": 13003474637
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8509346,
+      47.2584114
+    ]
+  },
+  "properties": {
+    "id": 5334026203,
+    "addr:city": "R\u00fcti ZH",
+    "addr:housenumber": "2c",
+    "addr:postcode": "8630",
+    "addr:street": "Werkstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Amici miei",
+    "opening_hours": "Tu-Fr 09:00-14:00,17:00-23:00; Sa 09:00-23:00; Su,Mo off",
+    "phone": "+41 55 244 60 60",
+    "website": "https://www.amici-miei.ch/"
+  },
+  "id": 5334026203
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1605523,
+      46.77479
+    ]
+  },
+  "properties": {
+    "id": 14024484295,
+    "alt_name": "Castel Thai Restaurant FR",
+    "alt_name:fr": "Sukho Thai, Cuisine tha\u00eflandaise",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Sukhotha\u00ef/Acacia",
+    "opening_hours": "Tu,We,Th,Su, 11:00-14:00,17:30-22:00; Fr,Sa 11:00-14:00,17:30-23:00",
+    "website": "https://www.hotel-acacia.ch/en/restaurant/restaurant-sukhothai"
+  },
+  "id": 14024484295
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0762532,
+      46.7544242
+    ]
+  },
+  "properties": {
+    "id": 5764247455,
+    "addr:city": "\u00c9cuvillens",
+    "addr:housenumber": "20",
+    "addr:postcode": "1730",
+    "addr:street": "Route de l\u2019a\u00e9rodrome",
+    "amenity": "restaurant",
+    "cuisine": "pizza;portuguese;international",
+    "delivery": "no",
+    "email": "info@restaurantlaerodromeecuvillens.ch",
+    "internet_access": "wlan",
+    "name": "L\u2019a\u00e9rodrome d\u2019\u00c9cuvillens - Chez Seraphim",
+    "opening_hours": "Mo-Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 411 12 20",
+    "takeaway": "yes",
+    "website": "http://www.restaurantlaerodromeecuvillens.ch"
+  },
+  "id": 5764247455
+}

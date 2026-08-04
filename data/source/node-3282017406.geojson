@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3514537,
+      46.7131989
+    ]
+  },
+  "properties": {
+    "id": 3282017406,
+    "addr:city": "Guggisberg",
+    "addr:country": "CH",
+    "addr:housenumber": "493a",
+    "addr:postcode": "1738",
+    "addr:street": "Dorf",
+    "alt_name": "Gasthof Hirschen Sangernboden",
+    "amenity": "restaurant",
+    "beds": "17",
+    "cuisine": "regional",
+    "email": "info@hirschen-sangernboden.ch",
+    "name": "Gasthof Hirschen",
+    "opening_hours": "Mo-Tu off; We-Th 09:00-23:30; Fr-Sa 09:00-00:30; Su 09:00-17:00",
+    "operator": "Corina & Nuno Cardoso",
+    "phone": "+41 26 419 11 58",
+    "rooms": "10",
+    "source": "personal contact",
+    "website": "https://www.hirschen-sangernboden.ch"
+  },
+  "id": 3282017406
+}

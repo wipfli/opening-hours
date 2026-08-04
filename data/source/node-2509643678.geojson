@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.455453,
+      46.9487969
+    ]
+  },
+  "properties": {
+    "id": 2509643678,
+    "alt_name": "Restaurant fugu-Nydegg",
+    "amenity": "restaurant",
+    "contact:addr": "Gerechtigkeitsgasse 16, 3011 Bern",
+    "contact:email": "info@fugu-nydegg.ch",
+    "contact:fax": "+41 31 3115118",
+    "contact:phone": "+41 31 3115125",
+    "delivery": "yes",
+    "man_made": "surveillance",
+    "name": "fugu",
+    "opening_hours": "Mo-We 11:30-14:00,17:00-23:00; Th-Fr 11:30-14:00,17:00-24:00; Sa 11:00-24:00; Su 11:00-22:00",
+    "operator": "OSSOBUKKO AG",
+    "surveillance": "public",
+    "website": "https://www.fugu-nydegg.ch/"
+  },
+  "id": 2509643678
+}

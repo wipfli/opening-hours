@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5451811,
+      47.3681833
+    ]
+  },
   "properties": {
-    "@id": "node/270799836",
+    "id": 270799836,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "2",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "website": "https://restaurant-blockhus.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5451811,
-      47.3681833
-    ]
-  },
-  "id": "node-270799836"
+  "id": 270799836
 }

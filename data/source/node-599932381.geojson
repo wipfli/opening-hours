@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8669314,
+      46.6897734
+    ]
+  },
+  "properties": {
+    "id": 599932381,
+    "addr:city": "Interlaken",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "3800",
+    "addr:street": "Untere B\u00f6nigstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Bamboo",
+    "opening_hours": "11:00-14:30,17:00-23:00",
+    "phone": "+41 33 821 19 61",
+    "website": "http://www.bamboo-interlaken.com/"
+  },
+  "id": 599932381
+}

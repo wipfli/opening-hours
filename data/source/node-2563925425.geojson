@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4167769,
+      47.4099799
+    ]
+  },
+  "properties": {
+    "id": 2563925425,
+    "addr:housenumber": "194",
+    "addr:street": "Brunaustrasse",
+    "amenity": "restaurant",
+    "level": "0",
+    "name": "F\u00f6hrew\u00e4ldli",
+    "opening_hours": "Mo-We off; Th-Sa 17:00-24:00; Su 10:00-22:00; PH off",
+    "website": "http://www.rest-fw.ch/"
+  },
+  "id": 2563925425
+}

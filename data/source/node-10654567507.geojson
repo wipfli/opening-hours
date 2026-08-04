@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2668445,
+      47.0610349
+    ]
+  },
+  "properties": {
+    "id": 10654567507,
+    "addr:city": "Kappelen",
+    "addr:country": "CH",
+    "addr:housenumber": "62",
+    "addr:postcode": "3273",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kreuz",
+    "opening_hours": "Tu-Th 16:00-23:30; Fr 00:00-00:30,16:00-24:00; Sa 09:00-24:00; Su 00:00-00:30",
+    "phone": "+41 32 392 15 40",
+    "website": "https://kreuz-kappelen.ch/"
+  },
+  "id": 10654567507
+}

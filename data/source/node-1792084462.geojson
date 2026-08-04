@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3085736,
+      46.2237236
+    ]
+  },
+  "properties": {
+    "id": 1792084462,
+    "addr:housenumber": "31",
+    "addr:postcode": "1964",
+    "addr:street": "Route des Rottes",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Bowling des Rottes",
+    "opening_hours": "Su-Th 11:30-14:00,18:00-22:30; Fr,Sa 11:30-14:30,18:00-23:30",
+    "phone": "+41 27 346 58 16",
+    "website": "https://www.bowlingdesrottes.ch/pizzeria-des-rottes-conthey",
+    "wheelchair": "yes"
+  },
+  "id": 1792084462
+}

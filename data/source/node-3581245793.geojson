@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5780685,
+      46.5364503
+    ]
+  },
+  "properties": {
+    "id": 3581245793,
+    "addr:city": "Renens VD",
+    "addr:housenumber": "1",
+    "addr:postcode": "1020",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/people/Les-D%C3%A9lices-du-Siam/61561275179977/",
+    "cuisine": "thai",
+    "delivery": "no",
+    "name": "Les D\u00e9lices du Siam",
+    "opening_hours": "Mo-Sa 11:15-14:15,18:00-23:00",
+    "phone": "+41 21 635 81 77",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://les-delices-du-siam.odoo.com/"
+  },
+  "id": 3581245793
+}

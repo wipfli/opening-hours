@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3627861,
+      47.4195491
+    ]
+  },
+  "properties": {
+    "id": 461832152,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "26",
+    "addr:postcode": "9000",
+    "addr:street": "Burgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-20",
+    "check_date:opening_hours": "2026-02-20",
+    "cuisine": "italian",
+    "name": "Il Castello",
+    "opening_hours": "Mo-Th 11:00-14:00,17:00-23:00; Fr,Sa 11:00-14:00,17:00-23:30; Su 17:00-23:00",
+    "website": "https://pizzeriailcastello.ch/"
+  },
+  "id": 461832152
+}

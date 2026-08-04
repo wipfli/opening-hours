@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.141775,
+      46.2204684
+    ]
+  },
+  "properties": {
+    "id": 5244188907,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "90",
+    "addr:postcode": "1202",
+    "addr:street": "Rue de Montbrillant",
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "brand:wikipedia": "de:Coop (Schweiz)",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-We 07:30-19:00; Th 07:30-20:00; Fr 07:30-19:30; Sa 07:30-18:00",
+    "opening_hours:covid19": "closed",
+    "phone": "+41227301366",
+    "website": "https://www.coop-restaurant.ch/content/restaurant/fr/menueseite.vst2114.restaurant.html",
+    "wheelchair": "yes"
+  },
+  "id": 5244188907
+}

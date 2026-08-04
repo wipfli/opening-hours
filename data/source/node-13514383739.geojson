@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3773506,
+      47.4254248
+    ]
+  },
+  "properties": {
+    "id": 13514383739,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "6",
+    "addr:postcode": "9000",
+    "addr:street": "Kugelgasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Agostino",
+    "opening_hours": "Mo-Th 08:30-22:00; Fr 08:30-23:00; Sa 09:00-23:00; Su 09:00-21:00",
+    "website": "https://agostino-sg.ch"
+  },
+  "id": 13514383739
+}

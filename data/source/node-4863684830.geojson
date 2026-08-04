@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6340913,
+      47.4058758
+    ]
+  },
+  "properties": {
+    "id": 4863684830,
+    "addr:city": "Widnau",
+    "addr:housenumber": "26",
+    "addr:postcode": "9443",
+    "addr:street": "Bahnhofstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "thai",
+    "diet:non-vegetarian": "yes",
+    "diet:seafood": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "reservation@sky-thai.ch",
+    "indoor_seating": "yes",
+    "level": "7",
+    "mobile": "+41 79 790 37 33",
+    "name": "Sky Thai",
+    "name:de": "Sky Thai Dachrestaurant",
+    "opening_hours": "Tu-Fr 11:00-14:00; Tu-Sa 17:00-23:00",
+    "outdoor_seating": "terrace",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 71 558 19 91",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "http://www.sky-thai.ch/",
+    "website:menu": "http://www.sky-thai.ch/speisekarte.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 4863684830
+}

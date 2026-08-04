@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1769947,
+      47.4028786
+    ]
+  },
+  "properties": {
+    "id": 5018277127,
+    "addr:city": "Niederlenz",
+    "addr:housenumber": "11",
+    "addr:postcode": "5702",
+    "addr:street": "Hungeligrabenstrasse",
+    "amenity": "restaurant",
+    "delivery": "no",
+    "email": "info@hungeligraben.ch",
+    "name": "Restaurant \u00abJurablick-St\u00fcbli\u00bb",
+    "opening_hours": "Mo-Su 10:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 886 35 35",
+    "website": "https://www.hungeligraben.ch/restaurant/jurablick/"
+  },
+  "id": 5018277127
+}

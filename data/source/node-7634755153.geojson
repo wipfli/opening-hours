@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7046787,
+      47.451008
+    ]
+  },
+  "properties": {
+    "id": 7634755153,
+    "addr:city": "Kemptthal",
+    "addr:housenumber": "11",
+    "addr:postcode": "8310",
+    "addr:street": "Kemptpark",
+    "amenity": "restaurant",
+    "name": "The Valley",
+    "opening_hours": "Mo-Fr 07:30-14:00",
+    "phone": "+41 58 712 01 40",
+    "website": "https://www.migros.ch/de/genossenschaften/migros-ostschweiz/gastronomie/the-valley-restaurant.html"
+  },
+  "id": 7634755153
+}

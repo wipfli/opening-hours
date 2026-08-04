@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1297112,
+      46.4734293
+    ]
+  },
+  "properties": {
+    "id": 11580259824,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Au Relais",
+    "opening_hours": "Tu-Sa 10:00-14:00, 17:30-23:00",
+    "phone": "+41 26 924 72 52",
+    "website": "https://aurelais1660.business.site/"
+  },
+  "id": 11580259824
+}

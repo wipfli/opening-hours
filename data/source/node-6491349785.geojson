@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0352972,
+      47.4791017
+    ]
+  },
+  "properties": {
+    "id": 6491349785,
+    "addr:city": "Bronschhofen",
+    "addr:housenumber": "38",
+    "addr:postcode": "9552",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian;thai",
+    "diet:vegan": "yes",
+    "email": "info@thaiorchidee.ch",
+    "internet_access": "wlan",
+    "name": "Thai Orchidee",
+    "name:th": "\u0e44\u0e17\u0e22\u0e2d\u0e2d\u0e04\u0e34\u0e40\u0e14\u0e22\u0e4c",
+    "opening_hours": "Mo 11:30-14:00; We-Fr 11:30-14:00,18:00-23:00; Sa-Su 18:00-22:00",
+    "operator": "Phakpring Mesmer",
+    "phone": "+41 71 911 14 74",
+    "website": "https://www.thaiorchidee.ch/"
+  },
+  "id": 6491349785
+}

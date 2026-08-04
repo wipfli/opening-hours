@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5438598,
+      47.3730001
+    ]
+  },
   "properties": {
-    "@id": "node/370840367",
+    "id": 370840367,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -18,12 +25,5 @@
     "website": "https://brasserie-louis.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5438598,
-      47.3730001
-    ]
-  },
-  "id": "node-370840367"
+  "id": 370840367
 }

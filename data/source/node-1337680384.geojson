@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4524508,
+      46.9479084
+    ]
+  },
+  "properties": {
+    "id": 1337680384,
+    "alt_name": "Restaurant Ratskeller",
+    "amenity": "restaurant",
+    "contact:addr": "Gerechtigkeitsgasse 81, 3011 Bern",
+    "contact:email": "info@ratskellerbern.ch",
+    "contact:fax": "+41 31 3110762",
+    "contact:phone": "+41 31 3111771",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Ratskeller",
+    "opening_hours": "Tu-Sa 11:00-14:30,17:30-23:00; Su,Mo off",
+    "operator": "Platin Gastro GmbH",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "source": "survey and website",
+    "website": "http://www.ratskellerbern.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1337680384
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8735036,
+      47.3041496
+    ]
+  },
+  "properties": {
+    "id": 9064075620,
+    "addr:city": "Rothrist",
+    "addr:country": "CH",
+    "addr:housenumber": "217",
+    "addr:postcode": "4852",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "email": "oasisbaanthai@gmail.com",
+    "name": "Oasis Baan Thai",
+    "opening_hours": "Tu-Su 13:30-14:00, 17:00-23:00",
+    "phone": "+41 62 2139393",
+    "website": "https://www.oasis-baanthai.ch/"
+  },
+  "id": 9064075620
+}

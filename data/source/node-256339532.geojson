@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4888858,
+      47.3910962
+    ]
+  },
+  "properties": {
+    "id": 256339532,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "560",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-01-31",
+    "cuisine": "chinese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "altstetten@peking-garden.ch",
+    "indoor_seating": "yes",
+    "name": "Peking Garden",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "pedestrian_zone",
+    "phone": "+41 44 433 28 28",
+    "takeaway": "yes",
+    "website": "https://www.peking-garden.ch/pg_restaurant/zuerich-altstetten/"
+  },
+  "id": 256339532
+}

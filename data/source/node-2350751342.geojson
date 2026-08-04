@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.637723,
+      46.5201097
+    ]
+  },
+  "properties": {
+    "id": 2350751342,
+    "amenity": "restaurant",
+    "check_date": "2025-01-25",
+    "name": "Bleu Lezard",
+    "opening_hours": "Mo, We, Th 07:30-00:00, 09:00-18:00; Tu, Fr 07:30-01:00; Sa 08:00-01:00; Su 09:30-00:00",
+    "website": "https://bleu-lezard.ch/"
+  },
+  "id": 2350751342
+}

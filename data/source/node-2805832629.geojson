@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7320625,
+      47.0649633
+    ]
+  },
+  "properties": {
+    "id": 2805832629,
+    "addr:city": "Affoltern im Emmental",
+    "addr:housenumber": "7",
+    "addr:postcode": "3416",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "name": "L\u00f6ie Bistro",
+    "opening_hours": "We-Th 17:00-23:30; Fr 17:00-00:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 34 445 65 68",
+    "website": "https://www.kreativtraining.ch/gastro/"
+  },
+  "id": 2805832629
+}

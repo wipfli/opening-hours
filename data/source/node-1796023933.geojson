@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5901434,
+      47.5499012
+    ]
+  },
+  "properties": {
+    "id": 1796023933,
+    "addr:city": "Basel",
+    "addr:housename": "Zum Kuss",
+    "addr:housenumber": "59",
+    "addr:postcode": "4051",
+    "addr:street": "Elisabethenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Zum Kuss",
+    "opening_hours": "Mo-Sa 10:00-22:00, Sa 10:00-18:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.zumkuss.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1796023933
+}

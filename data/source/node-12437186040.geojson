@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6195756,
+      47.3639956
+    ]
+  },
+  "properties": {
+    "id": 12437186040,
+    "addr:housenumber": "82b",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional,swiss,fondue",
+    "email": "info@restaurant-feldhof.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Feldhof",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 533 81 87",
+    "self_service": "no",
+    "website": "https://im-feldhof.ch/et"
+  },
+  "id": 12437186040
+}

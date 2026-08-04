@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6055188,
+      46.5128382
+    ]
+  },
+  "properties": {
+    "id": 13555636801,
+    "addr:housenumber": "6",
+    "addr:street": "All\u00e9e du Bornan",
+    "amenity": "restaurant",
+    "check_date": "2026-02-13",
+    "check_date:opening_hours": "2026-02-13",
+    "cuisine": "regional",
+    "name": "Le Bornan",
+    "opening_hours": "24/7",
+    "phone": "+41 79 719 54 85",
+    "self_service": "no",
+    "website": "http://www.lebornan.ch/",
+    "website:menu": "http://www.lebornan.ch/Menu_Bornan_2025.pdf"
+  },
+  "id": 13555636801
+}

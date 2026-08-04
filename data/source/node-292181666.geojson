@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4959019,
+      46.5087138
+    ]
+  },
+  "properties": {
+    "id": 292181666,
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "diet:vegetarian": "yes",
+    "name": "KikuZen",
+    "opening_hours": "Mo-Sa 10:00-14:30,17:00-22:00",
+    "phone": "+41 21 801 18 98",
+    "website": "http://www.restaurant-kikuzen.ch",
+    "wheelchair": "yes"
+  },
+  "id": 292181666
+}

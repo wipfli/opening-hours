@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.30381,
+      47.0434572
+    ]
+  },
+  "properties": {
+    "id": 6205585186,
+    "addr:city": "Luzern",
+    "addr:housenumber": "73",
+    "addr:postcode": "6003",
+    "addr:street": "Obergrundstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-11-19",
+    "cuisine": "indian",
+    "name": "Indian Restaurant Luzern",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "opening_hours:signed": "no",
+    "phone": "+41 41 220 22 48",
+    "website": "https://indianrestaurantluzern.com"
+  },
+  "id": 6205585186
+}

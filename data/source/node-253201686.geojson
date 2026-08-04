@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4456326,
+      46.9548055
+    ]
+  },
+  "properties": {
+    "id": 253201686,
+    "alt_name": "Caf\u00e9 du Nord",
+    "amenity": "restaurant",
+    "contact:addr": "Lorrainestrasse 2, 3013 Bern",
+    "contact:email": "geniessen@du-nord.ch",
+    "contact:phone": "+41 31 3329090",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Du Nord",
+    "opening_hours": "Mo-Th 11:30-23:30, Fr 11:30-00:30, Sa 10:30-00:30, Su 10:30-23:30",
+    "operator": "KG Gastrokultur GmbH",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.du-nord.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 253201686
+}

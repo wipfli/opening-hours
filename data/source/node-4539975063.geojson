@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9116442,
+      45.9704793
+    ]
+  },
+  "properties": {
+    "id": 4539975063,
+    "addr:city": "Agra",
+    "addr:housenumber": "9",
+    "addr:postcode": "6927",
+    "addr:street": "Via Posmonte",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "grottoposmonte@hotmail.com",
+    "name": "Grotto Posmonte",
+    "opening_hours": "We-Fr 18:00-23:00, Sa-Su 11:30-23:00",
+    "phone": "+41 91 994 11 11",
+    "website": "https://www.grottoposmonte.ch/"
+  },
+  "id": 4539975063
+}

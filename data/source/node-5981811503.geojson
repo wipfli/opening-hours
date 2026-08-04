@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.324416,
+      46.553339
+    ]
+  },
+  "properties": {
+    "id": 5981811503,
+    "addr:city": "Spl\u00fcgen",
+    "addr:housenumber": "15",
+    "addr:postcode": "7435",
+    "addr:street": "Italienische Strasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "diet:vegetarian": "yes",
+    "name": "Altes Zollhaus",
+    "opening_hours": "Mo off",
+    "outdoor_seating": "no",
+    "phone": "+41 81 558 81 50",
+    "website": "https://hai-fame.ch/"
+  },
+  "id": 5981811503
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7726291,
+      47.5028801
+    ]
+  },
+  "properties": {
+    "id": 13350703025,
+    "amenity": "restaurant",
+    "name": "elPadel",
+    "opening_hours": "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00",
+    "website": "https://elpadel.ch/cafe/angebot"
+  },
+  "id": 13350703025
+}

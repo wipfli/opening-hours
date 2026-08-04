@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8452273,
+      47.6463348
+    ]
+  },
+  "properties": {
+    "id": 298915781,
+    "addr:postcode": "8259",
+    "amenity": "restaurant",
+    "cuisine": "local;thai",
+    "email": "info@rest-chaemihuette.ch",
+    "name": "Ch\u00e4mih\u00fctte",
+    "opening_hours": "We-Su 08:30-22:00",
+    "phone": "+41527414300",
+    "website": "https://www.rest-chaemihuette.ch"
+  },
+  "id": 298915781
+}

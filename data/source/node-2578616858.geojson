@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9978158,
+      47.4613081
+    ]
+  },
+  "properties": {
+    "id": 2578616858,
+    "amenity": "restaurant",
+    "email": "info@ochsen-woelflinswil.ch",
+    "name": "Landgasthof Ochsen",
+    "opening_hours": "Mo,Tu-Su 08:45-24:00; Sa 10:00-24:00; Su 08:45-22:00",
+    "operator": "Familie Judith und J\u00f6rg Lenzin-Munari",
+    "phone": "+41 62 877 11 06",
+    "smoking": "separated",
+    "stars": "3",
+    "website": "https://www.ochsen-woelflinswil.ch/"
+  },
+  "id": 2578616858
+}

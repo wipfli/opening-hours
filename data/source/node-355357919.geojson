@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.081082,
+      46.5832781
+    ]
+  },
+  "properties": {
+    "id": 355357919,
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "reception@hotel-fleurdelys.ch",
+    "name": "Hotel de la Fleur de Lys",
+    "opening_hours": "Mo-Su 11:30-14:00,18:15-20:30",
+    "phone": "+41 26 921 82 82",
+    "tourism": "hotel",
+    "website": "https://hotel-fleurdelys.ch/"
+  },
+  "id": 355357919
+}

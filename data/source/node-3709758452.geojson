@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1354808,
+      47.6262485
+    ]
+  },
+  "properties": {
+    "id": 3709758452,
+    "amenity": "restaurant",
+    "name": "Sch\u00fctzenst\u00fcbli",
+    "opening_hours": "Th 09:00-20:00; Fr 15:00-24:00; Sa 15:00-19:00; Su 09:00-12:00",
+    "website": "https://www.baeaerenmos.ch/home/sch%C3%BCtzenst%C3%BCbli/"
+  },
+  "id": 3709758452
+}

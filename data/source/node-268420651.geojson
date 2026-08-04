@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5506873,
+      47.3618394
+    ]
+  },
   "properties": {
-    "@id": "node/268420651",
+    "id": 268420651,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "62",
     "addr:postcode": "8008",
@@ -23,12 +30,5 @@
     "website": "https://ginger-restaurant.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5506873,
-      47.3618394
-    ]
-  },
-  "id": "node-268420651"
+  "id": 268420651
 }

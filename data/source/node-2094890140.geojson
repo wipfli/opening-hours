@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5354793,
+      47.4442596
+    ]
+  },
+  "properties": {
+    "id": 2094890140,
+    "addr:city": "Heiden",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "9410",
+    "addr:street": "Poststrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-12-21",
+    "cuisine": "lebanese",
+    "description": "Bei 1001 Teller finden Sie libanesische K\u00fcche mit einer grossen und spannenden Vielfalt. Ob zum Mittagessen, zum z\u00fcgigen Mitnehmen, zu einem brillanten Abendessen mit einzigartigen, Getr\u00e4nken oder f\u00fcr ein feierliches Catering sind unsere hausgemachte Ange",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@1001teller.ch",
+    "name": "1001 Teller",
+    "name:de": "1001 Teller",
+    "name:en": "1001 Plates",
+    "name:fr": "1001 Assiettes",
+    "opening_hours": "We-Fr 12:00-14:00; Tu-Sa 18:00-22:00",
+    "phone": "+41 71 556 49 53",
+    "website": "https://www.1001teller.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2094890140
+}

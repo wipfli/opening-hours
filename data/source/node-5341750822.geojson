@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2225939,
+      47.5573953
+    ]
+  },
+  "properties": {
+    "id": 5341750822,
+    "addr:city": "B\u00f6ttstein",
+    "addr:housenumber": "32",
+    "addr:postcode": "5315",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Burest\u00fcbli",
+    "opening_hours": "Mo-Sa 09:00-23:30; We off; Th 18:00-23:30; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 245 02 51",
+    "website": "https://www.burestuebli-boettstein.ch/"
+  },
+  "id": 5341750822
+}

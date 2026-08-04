@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6143739,
+      46.5160911
+    ]
+  },
+  "properties": {
+    "id": 975898621,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "email": "info@auxfleursdelaterre.ch",
+    "internet_access": "wlan",
+    "name": "Rani",
+    "opening_hours": "Mo-Fr 11:00-14:30,18:00-23:30; Sa,Su 18:00-23:30",
+    "phone": "+41 21 617 85 25",
+    "smoking": "no",
+    "website": "https://www.rani-indian.ch/"
+  },
+  "id": 975898621
+}

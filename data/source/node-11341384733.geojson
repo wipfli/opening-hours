@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9250498,
+      46.3970365
+    ]
+  },
+  "properties": {
+    "id": 11341384733,
+    "amenity": "restaurant",
+    "check_date": "2023-11-11",
+    "contact:instagram": "https://instagram.com/lepressoirbyzantin",
+    "cuisine": "burger;international;pizza",
+    "email": "info@lepressoirbyzantin.ch",
+    "internet_access": "wlan",
+    "name": "Le Pressoir Byzantin",
+    "opening_hours": "Mo-Th 10:00-23:30; Fr-Su 10:00-22:30",
+    "phone": "+41796594152",
+    "source:opening_hours": "website",
+    "website": "https://lepressoirbyzantin.ch/"
+  },
+  "id": 11341384733
+}

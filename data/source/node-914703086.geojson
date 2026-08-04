@@ -1,11 +1,19 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5286575,
+      47.375334
+    ]
+  },
   "properties": {
-    "@id": "node/914703086",
+    "id": 914703086,
     "addr:housenumber": "48",
     "addr:street": "Rotwandstrasse",
     "amenity": "restaurant",
-    "check_date": "2024-08-19",
+    "check_date": "2026-05-25",
+    "check_date:opening_hours": "2026-05-25",
     "cuisine": "italian",
     "indoor_seating": "yes",
     "name": "Accademia del Gusto",
@@ -14,12 +22,5 @@
     "website": "https://www.accademiadelgusto.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5286575,
-      47.375334
-    ]
-  },
-  "id": "node-914703086"
+  "id": 914703086
 }

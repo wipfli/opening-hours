@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5545618,
+      47.3627304
+    ]
+  },
   "properties": {
-    "@id": "node/268602010",
+    "id": 268602010,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "87",
     "addr:postcode": "8008",
@@ -14,12 +21,5 @@
     "website": "https://www.laendlizueri.ch/gastronomie/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5545618,
-      47.3627304
-    ]
-  },
-  "id": "node-268602010"
+  "id": 268602010
 }

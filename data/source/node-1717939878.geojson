@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6334402,
+      47.695745
+    ]
+  },
+  "properties": {
+    "id": 1717939878,
+    "amenity": "restaurant",
+    "name": "Theaterrestaurant",
+    "opening_hours": "Mo-Sa 09:00-23:00; Su 10:00-23:00; We off",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 625 05 58",
+    "website": "https://www.theaterrestaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1717939878
+}

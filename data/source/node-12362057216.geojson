@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6410029,
+      47.512555
+    ]
+  },
+  "properties": {
+    "id": 12362057216,
+    "amenity": "restaurant",
+    "name": "Restaurant L\u00f6wen",
+    "opening_hours": "Tu-Su 07:30-22:30",
+    "phone": "+41 52 538 01 06",
+    "website": "https://www.restaurant-loewen-pfungen.ch"
+  },
+  "id": 12362057216
+}

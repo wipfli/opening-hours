@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0810021,
+      47.3708943
+    ]
+  },
+  "properties": {
+    "id": 11396716264,
+    "addr:city": "Suhr",
+    "addr:housenumber": "3",
+    "addr:postcode": "5034",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Il Gallo",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa 17:00-22:30; Su 12:00-18:00",
+    "website": "https://www.ilgallo-suhr.ch/"
+  },
+  "id": 11396716264
+}

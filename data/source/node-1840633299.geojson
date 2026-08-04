@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445738,
+      47.4124987
+    ]
+  },
+  "properties": {
+    "id": 1840633299,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8050",
+    "addr:street": "Affolternstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-07",
+    "check_date:opening_hours": "2025-04-29",
+    "cuisine": "burger;pasta;pizza;kebab",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@puzzles-zuerich.com",
+    "indoor_seating": "yes",
+    "name": "Puzzles",
+    "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 11:00-02:00",
+    "outdoor_seating": "no",
+    "phone": "+41 44 221 44 44",
+    "smoking": "separated",
+    "website": "https://www.puzzles-zuerich.ch",
+    "website:menu": "https://www.puzzles-zuerich.ch/men%C3%BC",
+    "wheelchair": "yes"
+  },
+  "id": 1840633299
+}

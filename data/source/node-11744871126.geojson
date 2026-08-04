@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478294,
+      47.3639582
+    ]
+  },
   "properties": {
-    "@id": "node/11744871126",
+    "id": 11744871126,
     "addr:housenumber": "23",
     "addr:street": "Dufourstrasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "phone": "+41 43 333 02 09",
     "website": "https://kaisin.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5478294,
-      47.3639582
-    ]
-  },
-  "id": "node-11744871126"
+  "id": 11744871126
 }

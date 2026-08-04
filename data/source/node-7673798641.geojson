@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5953368,
+      47.5796059
+    ]
+  },
+  "properties": {
+    "id": 7673798641,
+    "addr:city": "Basel",
+    "addr:housenumber": "70",
+    "addr:postcode": "4057",
+    "addr:street": "Hochbergerstrasse",
+    "alt_name": "Migros Restaurant St\u00fccki",
+    "amenity": "restaurant",
+    "branch": "Basel St\u00fccki",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "description": "Genuss pur mit einer frischen Vielfalt an einfallsreichen und kreativ zubereiteten Gerichten und Buffets.",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 09:00-16:00; PH off",
+    "operator": "Genossenschaft Migros Basel",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-basel-stuecki"
+  },
+  "id": 7673798641
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6724217,
+      47.3816921
+    ]
+  },
+  "properties": {
+    "id": 12037082848,
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Costa Viola",
+    "not:brand:wikidata": "Q608845",
+    "opening_hours": "Mo-Sa 09:00-21:30",
+    "website": "https://www.costaviolagastro.com/"
+  },
+  "id": 12037082848
+}

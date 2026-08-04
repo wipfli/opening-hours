@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9304437,
+      47.0897555
+    ]
+  },
+  "properties": {
+    "id": 1277567020,
+    "addr:city": "Innerthal",
+    "addr:housenumber": "2",
+    "addr:postcode": "8858",
+    "addr:street": "Oberhof",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Oberhof",
+    "opening_hours": "We-Su 11:00-24:00",
+    "phone": "+41 55 446 11 55",
+    "smoking": "outside",
+    "website": "https://www.oberhofinnerthal.ch",
+    "wheelchair": "limited"
+  },
+  "id": 1277567020
+}

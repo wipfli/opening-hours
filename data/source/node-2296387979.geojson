@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9891261,
+      47.1203879
+    ]
+  },
+  "properties": {
+    "id": 2296387979,
+    "amenity": "restaurant",
+    "email": "ba@sternenagwillisau.ch",
+    "name": "Sternen",
+    "opening_hours": "Tu-Sa 08:30-00:30",
+    "phone": "+41 41 970 12 86",
+    "website": "https://sternen-restaurant-catering.ch"
+  },
+  "id": 2296387979
+}

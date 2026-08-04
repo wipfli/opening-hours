@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9781399,
+      45.8634957
+    ]
+  },
+  "properties": {
+    "id": 3049274742,
+    "addr:city": "Mendrisio",
+    "addr:country": "CH",
+    "addr:housenumber": "37",
+    "addr:postcode": "6850",
+    "addr:street": "Via Agostino Maspoli",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ristorante Animo Mediterraneo",
+    "opening_hours": "PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 602 85 60",
+    "smoking": "outside",
+    "source": "website and survey",
+    "website": "https://animomediterraneo.ch/"
+  },
+  "id": 3049274742
+}

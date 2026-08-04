@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0027697,
+      46.2470244
+    ]
+  },
+  "properties": {
+    "id": 9852340546,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/brasserie.lamine.bex/",
+    "contact:instagram": "https://www.instagram.com/lamine.restaurant/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g198798-d25104792-Reviews-Brasserie_La_Mine-Bex_Canton_of_Vaud.html",
+    "craft": "brewery",
+    "email": "restaurant@bieredelamine.ch",
+    "microbrewery": "yes",
+    "name": "Brasserie La Mine",
+    "opening_hours": "Tu-Sa 10:00-23:00",
+    "phone": "+41 24 463 99 99",
+    "website": "https://bieredelamine.ch/le-restaurant/"
+  },
+  "id": 9852340546
+}

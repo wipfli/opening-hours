@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2035458,
+      46.7727006
+    ]
+  },
+  "properties": {
+    "id": 5041528191,
+    "addr:city": "Ilanz",
+    "addr:housenumber": "25",
+    "addr:postcode": "7130",
+    "addr:street": "St\u00e4dtlistrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-16",
+    "name": "OberTor",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:00-21:00+",
+    "phone": "+41 81 925 35 90",
+    "website": "https://www.restaurant-obertor.ch/"
+  },
+  "id": 5041528191
+}

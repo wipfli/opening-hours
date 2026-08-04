@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7318516,
+      47.5112012
+    ]
+  },
+  "properties": {
+    "id": 13818083078,
+    "amenity": "restaurant",
+    "name": "Reineke",
+    "opening_hours": "We-Sa 18:30+",
+    "website": "https://restaurant-reineke.ch"
+  },
+  "id": 13818083078
+}

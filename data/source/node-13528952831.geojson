@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4591529,
+      46.4798739
+    ]
+  },
+  "properties": {
+    "id": 13528952831,
+    "amenity": "restaurant",
+    "name": "Bas\u016bges",
+    "opening_hours": "We-Fr 12:00-14:00; We-Su 18:45-23:00",
+    "reservation": "recommended",
+    "takeaway": "no",
+    "website": "https://www.basuges.ch/"
+  },
+  "id": 13528952831
+}

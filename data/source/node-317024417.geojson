@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531828,
+      47.3702232
+    ]
+  },
   "properties": {
-    "@id": "node/317024417",
+    "id": 317024417,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "5",
@@ -10,17 +17,10 @@
     "amenity": "restaurant",
     "cuisine": "italian",
     "name": "Antica Roma",
-    "opening_hours": "Mo-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30; Su off",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:30; Su off",
     "phone": "+41 44 280 26 20",
     "website": "https://www.antica-roma.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.531828,
-      47.3702232
-    ]
-  },
-  "id": "node-317024417"
+  "id": 317024417
 }

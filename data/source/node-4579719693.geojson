@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4886583,
+      47.3818695
+    ]
+  },
+  "properties": {
+    "id": 4579719693,
+    "amenity": "restaurant",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant Rauti",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "operator": "Stiftung RgZ",
+    "outdoor_seating": "yes",
+    "website": "https://www.restaurant-rauti.ch/"
+  },
+  "id": 4579719693
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3137524,
+      47.4787946
+    ]
+  },
+  "properties": {
+    "id": 3405168320,
+    "addr:city": "Ennetbaden",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "5408",
+    "addr:street": "Sonnenbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Tajmahal",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Su 17:00-22:00",
+    "phone": "+41 56 221 01 30",
+    "takeaway": "yes",
+    "website": "https://tajmahalbaden.ch/"
+  },
+  "id": 3405168320
+}

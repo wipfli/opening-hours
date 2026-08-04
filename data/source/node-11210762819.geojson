@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5299104,
+      46.848931
+    ]
+  },
+  "properties": {
+    "id": 11210762819,
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Pizza Express",
+    "opening_hours": "Su-Th 10:00-22:00; Fr 10:00-23:45; Sa off",
+    "website": "https://www.pizza-express-chur.ch"
+  },
+  "id": 11210762819
+}

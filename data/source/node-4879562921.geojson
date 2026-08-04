@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6415842,
+      47.1059112
+    ]
+  },
+  "properties": {
+    "id": 4879562921,
+    "addr:housenumber": "131",
+    "addr:postcode": "6315",
+    "addr:street": "Hauptseestrasse",
+    "amenity": "restaurant",
+    "cuisine": "fish",
+    "email": "info@buechwaeldli.ch",
+    "name": "Restaurant Buechw\u00e4ldli",
+    "name:de": "Restaurant Buechw\u00e4ldli",
+    "opening_hours": "We-Su 09:00-00:00",
+    "phone": "+41 41 750 12 94",
+    "website": "https://www.buechwaeldli.ch/"
+  },
+  "id": 4879562921
+}

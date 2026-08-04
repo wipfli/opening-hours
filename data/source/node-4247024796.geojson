@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3064354,
+      47.0530753
+    ]
+  },
+  "properties": {
+    "id": 4247024796,
+    "addr:city": "Luzern",
+    "addr:housenumber": "5",
+    "addr:postcode": "6004",
+    "addr:street": "Weggisgasse",
+    "amenity": "restaurant",
+    "branch": "Luzern",
+    "brand": "Manora",
+    "internet_access": "wlan",
+    "level": "3",
+    "name": "Manora",
+    "opening_hours": "Mo-Sa 09:00-17:00",
+    "operator": "Restaurants Manora",
+    "phone": "+41 41 419 76 80",
+    "website": "https://www.tripadvisor.com/Restaurant_Review-g188064-d2518455-Reviews-Manor_Restaurant_Manora-Lucerne.html"
+  },
+  "id": 4247024796
+}

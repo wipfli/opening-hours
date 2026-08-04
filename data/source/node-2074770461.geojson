@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5868725,
+      47.5579782
+    ]
+  },
+  "properties": {
+    "id": 2074770461,
+    "addr:housenumber": "21",
+    "addr:postcode": "4051",
+    "addr:street": "Schneidergasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Beschle",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:30; Su 08:00-16:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://beschle.ch/"
+  },
+  "id": 2074770461
+}

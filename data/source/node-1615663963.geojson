@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5325301,
+      46.8494754
+    ]
+  },
+  "properties": {
+    "id": 1615663963,
+    "addr:city": "Chur",
+    "addr:housenumber": "3",
+    "addr:postcode": "7000",
+    "addr:street": "M\u00fchleplatz",
+    "amenity": "restaurant",
+    "cuisine": "burger;regional",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Capricorn",
+    "opening_hours": "Mo-Sa 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 521 75 04",
+    "website": "https://capricorn.restaurant/"
+  },
+  "id": 1615663963
+}

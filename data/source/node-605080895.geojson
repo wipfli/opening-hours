@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4654187,
+      47.4079437
+    ]
+  },
+  "properties": {
+    "id": 605080895,
+    "addr:city": "Trogen",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "9043",
+    "addr:street": "Landsgemeindeplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-10-31",
+    "description": "Bistro mit \u00fcbernachtungsm\u00f6glichkeit",
+    "email": "hallo@krone-trogen.ch",
+    "name": "Krone",
+    "opening_hours": "We-Fr 14:00-21:00; Sa 11:00-21:00; Su 11:00-18:00",
+    "phone": "+41 71 508 17 27",
+    "tourism": "hotel",
+    "website": "https://www.krone-trogen.ch/"
+  },
+  "id": 605080895
+}

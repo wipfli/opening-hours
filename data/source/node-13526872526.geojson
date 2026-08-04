@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3913098,
+      47.4305742
+    ]
+  },
+  "properties": {
+    "id": 13526872526,
+    "amenity": "restaurant",
+    "check_date": "2026-03-08",
+    "check_date:opening_hours": "2026-03-08",
+    "name": "Restaurant zum Hirschen",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:00; Sa 17:00-23:00",
+    "website": "https://www.hirschen.sg/"
+  },
+  "id": 13526872526
+}

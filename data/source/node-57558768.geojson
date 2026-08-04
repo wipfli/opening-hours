@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9890883,
+      46.9382318
+    ]
+  },
+  "properties": {
+    "id": 57558768,
+    "amenity": "restaurant",
+    "email": "info@uhubraunwald.ch",
+    "name": "Uhu",
+    "opening_hours": "We-Sa 10:00-20:00; Su 10:00-16:00; Dec-Feb We-Su 09:00-17:00",
+    "phone": "+41 55 643 1736",
+    "website": "https://www.uhubraunwald.ch"
+  },
+  "id": 57558768
+}

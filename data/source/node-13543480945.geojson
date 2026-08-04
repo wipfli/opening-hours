@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5936244,
+      47.5607483
+    ]
+  },
+  "properties": {
+    "id": 13543480945,
+    "amenity": "restaurant",
+    "contact:email": "info@zumgoldigelamm.ch",
+    "contact:phone": "+41 61 690 21 25",
+    "name": "Zum goldige Lamm",
+    "opening_hours": "Mo-Fr,Su 08:00-18:30",
+    "website": "https://www.zumgoldigelamm.ch/"
+  },
+  "id": 13543480945
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5568172,
+      47.3554751
+    ]
+  },
   "properties": {
-    "@id": "node/4935627392",
+    "id": 4935627392,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "167",
@@ -28,12 +35,5 @@
     "website": "https://www.griechische-taverne-l-p.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5568172,
-      47.3554751
-    ]
-  },
-  "id": "node-4935627392"
+  "id": 4935627392
 }

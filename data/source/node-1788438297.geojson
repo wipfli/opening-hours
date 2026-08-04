@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7870005,
+      47.295429
+    ]
+  },
+  "properties": {
+    "id": 1788438297,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "Mo-Fr 11:30-13:30",
+    "email": "kontakt@traube-ottikon.ch",
+    "name": "Traube",
+    "opening_hours": "Mo-Tu,Th-Fr 11:00-14:00, 17:00-24:00; Sa 17:00-24:00; Su 11:00-24:00; We off",
+    "opening_hours:covid19": "off",
+    "phone": "+41 44 935 17 80",
+    "takeaway": "yes",
+    "website": "https://www.traube-ottikon.ch/"
+  },
+  "id": 1788438297
+}

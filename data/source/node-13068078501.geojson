@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4668441,
+      46.3072192
+    ]
+  },
+  "properties": {
+    "id": 13068078501,
+    "addr:housenumber": "5",
+    "addr:postcode": "3963",
+    "addr:street": "Rue du Pas de l'Ours",
+    "amenity": "restaurant",
+    "email": "beeo@beeo.swiss",
+    "name": "BeeO",
+    "opening_hours": "Tu-Sa 08:00-14:00, 15:30-18:00",
+    "website": "http://beeo.swiss"
+  },
+  "id": 13068078501
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.551033,
+      47.3618934
+    ]
+  },
   "properties": {
-    "@id": "node/268421310",
+    "id": 268421310,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "61",
     "addr:postcode": "8008",
@@ -18,15 +25,8 @@
     "phone": "+41 44 382 18 88",
     "smoking": "outside",
     "takeaway": "yes",
-    "website": "http://www.tiffins.ch/",
+    "website": "https://www.tiffins.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.551033,
-      47.3618934
-    ]
-  },
-  "id": "node-268421310"
+  "id": 268421310
 }

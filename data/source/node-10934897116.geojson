@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.148784,
+      46.802075
+    ]
+  },
+  "properties": {
+    "id": 10934897116,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "email": "info@hostindia.ch",
+    "name": "Host India",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa 09:00-17:00",
+    "phone": "+41 26 466 77 77",
+    "takeaway": "yes",
+    "website": "https://hostindia.ch"
+  },
+  "id": 10934897116
+}

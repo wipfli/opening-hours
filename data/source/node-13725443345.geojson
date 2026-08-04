@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.620975,
+      46.5383676
+    ]
+  },
+  "properties": {
+    "id": 13725443345,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "7",
+    "addr:postcode": "1018",
+    "addr:street": "Rue Elisa-Serment",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "Mounira par Man'ouchy",
+    "opening_hours": "Su-We 11:30-14:00,18:00-22:00; Th 11:30-14:00,18:00-22:30; Fr,Sa 11:30-14:30,18:00-23:00",
+    "phone": "+41 21 647 04 07",
+    "website": "https:\\\\www.mounira.ch"
+  },
+  "id": 13725443345
+}

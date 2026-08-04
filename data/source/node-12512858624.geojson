@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5797164,
+      47.0351389
+    ]
+  },
+  "properties": {
+    "id": 12512858624,
+    "addr:housenumber": "10",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "name": "Landgasthaus Bauernhof",
+    "opening_hours": "Mo-Fr 07:00-24:00; Sa-Su 07:30-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.bauernhof-lauerz.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12512858624
+}

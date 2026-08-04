@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9170622,
+      47.3168549
+    ]
+  },
+  "properties": {
+    "id": 12434205158,
+    "amenity": "restaurant",
+    "level": "0",
+    "name": "Lindenhof",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "phone": "+41 62 788 08 08",
+    "website": "https://www.lindenhof-oftringen.ch/restaurant"
+  },
+  "id": 12434205158
+}

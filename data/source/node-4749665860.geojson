@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6870126,
+      46.6887101
+    ]
+  },
+  "properties": {
+    "id": 4749665860,
+    "amenity": "restaurant",
+    "check_date": "2025-06-04",
+    "cuisine": "regional",
+    "email": "info@seegarten-marina.ch",
+    "fax": "+41 33 655 67 65",
+    "internet_access": "wlan",
+    "name": "Seegarten Marina",
+    "opening_hours": "Mo-Su 07:00-23:30",
+    "phone": "+41 33 655 67 67",
+    "smoking": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.seegarten-marina.ch",
+    "wheelchair": "yes"
+  },
+  "id": 4749665860
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4163705,
+      46.6475271
+    ]
+  },
+  "properties": {
+    "id": 12122339930,
+    "amenity": "restaurant",
+    "cuisine": "grill",
+    "name": "Schlittelbar am Schamserberg",
+    "opening_hours": "Nur im Winter ge\u00f6ffnet.",
+    "operator": "Viamala Tourismus",
+    "phone": "+41 79 277 39 00",
+    "website": "https://viamala.ch/schlittelbar"
+  },
+  "id": 12122339930
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3799856,
+      47.3683617
+    ]
+  },
+  "properties": {
+    "id": 2320552226,
+    "addr:housenumber": "8",
+    "addr:postcode": "8964",
+    "addr:street": "Alte Bremgartenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "sweet moon",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-24:00;PH closed",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://www.sweet-moon.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2320552226
+}

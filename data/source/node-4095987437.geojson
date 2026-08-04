@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6763834,
+      47.4967438
+    ]
+  },
+  "properties": {
+    "id": 4095987437,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "63",
+    "addr:postcode": "8408",
+    "addr:street": "Neuburgstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;barbecue;fine_dining;fondue",
+    "delivery": "yes",
+    "name": "Neuburg",
+    "opening_hours": "We-Sa 11:00-14:00,17:30-23:00; Su 11:00-22:00; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://neuburg.ch/"
+  },
+  "id": 4095987437
+}

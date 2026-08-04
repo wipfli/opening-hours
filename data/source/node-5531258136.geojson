@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4180726,
+      46.9328873
+    ]
+  },
+  "properties": {
+    "id": 5531258136,
+    "addr:city": "Liebefeld",
+    "addr:housenumber": "51",
+    "addr:postcode": "3097",
+    "addr:street": "Waldeggstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "ZFV Restaurant Parkside",
+    "opening_hours": "Mo-Th 07:30-16:00; Fr 07:30-15:00",
+    "website": "https://www.zfv.ch/de/essen-gehen/restaurant-parkside"
+  },
+  "id": 5531258136
+}

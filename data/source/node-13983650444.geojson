@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.96685,
+      47.4396882
+    ]
+  },
+  "properties": {
+    "id": 13983650444,
+    "addr:housenumber": "7",
+    "addr:street": "Schwalbenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-02",
+    "name": "KORN.HAUS Restaurant",
+    "opening_hours": "Mo-Fr 08:30-16:30",
+    "phone": "+41 71 995 55 93",
+    "website": "https://korn.haus/restaurant/"
+  },
+  "id": 13983650444
+}

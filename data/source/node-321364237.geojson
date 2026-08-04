@@ -1,12 +1,20 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5465369,
+      47.3763026
+    ]
+  },
   "properties": {
-    "@id": "node/321364237",
+    "id": 321364237,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "34",
     "addr:postcode": "8092",
     "addr:street": "Leonhardstrasse",
     "amenity": "restaurant",
+    "check_date:opening_hours": "2026-04-22",
     "delivery": "no",
     "diet:vegetarian": "yes",
     "indoor": "yes",
@@ -22,12 +30,5 @@
     "website": "https://www.ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/zentrum/mensa-polyterrasse.html",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5465369,
-      47.3763026
-    ]
-  },
-  "id": "node-321364237"
+  "id": 321364237
 }

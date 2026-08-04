@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0394991,
+      46.6235635
+    ]
+  },
+  "properties": {
+    "id": 12613517376,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Pinte",
+    "opening_hours": "We-Su 12:00-22:00",
+    "operator": "Hotel Printe",
+    "reservation": "yes",
+    "website": "https://bellevue-pinte.ch"
+  },
+  "id": 12613517376
+}

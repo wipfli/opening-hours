@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0011647,
+      47.3756002
+    ]
+  },
+  "properties": {
+    "id": 2404830407,
+    "addr:city": "Sch\u00f6nenwerd",
+    "addr:country": "CH",
+    "addr:floor": "G",
+    "addr:housenumber": "45",
+    "addr:postcode": "5012",
+    "addr:street": "Baumstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "various",
+    "check_date": "2023-08-01",
+    "cuisine": "steak_house;american",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "Fat'n Happy",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa-Su 09:30-23:00",
+    "outdoor_seating": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 62 849 13 85",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://fatnhappy.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2404830407
+}

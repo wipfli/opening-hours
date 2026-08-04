@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5459625,
+      47.4109887
+    ]
+  },
+  "properties": {
+    "id": 1052078790,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "8050",
+    "addr:street": "Nansenstrasse",
+    "alt_name": "Burgermeister Oerlikon",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon",
+    "check_date": "2026-07-03",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Burgermeister",
+    "old_name": "b.good Oerlikon",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-23:30; Su 12:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.burger-meister.ch"
+  },
+  "id": 1052078790
+}

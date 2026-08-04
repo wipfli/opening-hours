@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0930239,
+      47.114372
+    ]
+  },
+  "properties": {
+    "id": 690564541,
+    "addr:city": "Buttisholz",
+    "addr:housenumber": "6",
+    "addr:postcode": "6018",
+    "addr:street": "Dorf",
+    "amenity": "restaurant",
+    "email": "info@kreuzbuttisholz.ch",
+    "name": "Kreuz",
+    "opening_hours": "Mo-Fr 08:30-14:00,17:00-00:30; Sa 17:00-00:30",
+    "phone": "+41 41 928 12 16",
+    "website": "https://kreuzbuttisholz.ch/",
+    "wheelchair": "no"
+  },
+  "id": 690564541
+}

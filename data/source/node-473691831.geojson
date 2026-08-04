@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8234748,
+      46.204624
+    ]
+  },
+  "properties": {
+    "id": 473691831,
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss;alp;cheese;r\u00f6stis",
+    "name": "Restaurant Tovassi\u00e8re",
+    "opening_hours": "Jun-Oct 10:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "phone": "+41 24 477 46 57",
+    "reservation": "recommended",
+    "website": "https://www.tovassiere.com/"
+  },
+  "id": 473691831
+}

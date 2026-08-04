@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.054722,
+      46.231116
+    ]
+  },
+  "properties": {
+    "id": 1807261263,
+    "amenity": "restaurant",
+    "check_date": "2024-11-22",
+    "check_date:diet:vegan": "2024-09-29",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "Restaurant I",
+    "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.mynovae.ch/en/restaurant/13-restaurant-r1/",
+    "wheelchair": "yes"
+  },
+  "id": 1807261263
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5681705,
+      47.4534282
+    ]
+  },
+  "properties": {
+    "id": 4616270090,
+    "alt_name": "Fracht Kantine",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "yes",
+    "description": "Personalrestaurant",
+    "email": "stopover@sv-group.ch",
+    "level": "0",
+    "name": "Flughafen Restaurant Stopover",
+    "opening_hours": "Mo-Fr 08:30-14:00",
+    "opening_hours:kitchen": "Mo-Fr 11:00-13:30",
+    "operator": "svrestaurant",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 691 85 04",
+    "reservation": "yes",
+    "short_name": "Stopover",
+    "takeaway": "yes",
+    "website": "https://stopover.sv-restaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4616270090
+}

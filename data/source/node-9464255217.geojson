@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4493627,
+      46.9473507
+    ]
+  },
+  "properties": {
+    "id": 9464255217,
+    "addr:housenumber": "55",
+    "addr:postcode": "3011",
+    "addr:street": "M\u00fcnstergasse",
+    "amenity": "restaurant",
+    "check_date": "2022-09-22",
+    "cuisine": "thai",
+    "name": "Surang",
+    "opening_hours": "Mo-Sa 11:30-22:00",
+    "payment:american_express": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 311 67 01",
+    "website": "https://www.surang.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9464255217
+}

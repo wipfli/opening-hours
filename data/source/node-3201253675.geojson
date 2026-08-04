@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8012998,
+      47.6320089
+    ]
+  },
+  "properties": {
+    "id": 3201253675,
+    "addr:city": "Oberstammheim",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "8477",
+    "addr:street": "Steigstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-01-10",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Gasthof zum Hirschen",
+    "opening_hours": "Mo,We-Sa 09:00-23:00; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 745 11 24",
+    "smoking": "outside",
+    "website": "https://www.hirschenstammheim.ch"
+  },
+  "id": 3201253675
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.859657,
+      47.6607026
+    ]
+  },
+  "properties": {
+    "id": 247697242,
+    "addr:city": "Stein am Rhein",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8260",
+    "addr:street": "Fronhof",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "gutenbergsteinamrhein@gmx.ch",
+    "name": "Gutenberg",
+    "opening_hours": "Mo-Su 08:45-23:30",
+    "phone": "+41 52 741 10 12",
+    "website": "http://www.flammeria-steinamrhein.ch",
+    "wheelchair": "limited"
+  },
+  "id": 247697242
+}

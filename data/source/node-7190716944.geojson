@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.065441,
+      46.0918129
+    ]
+  },
+  "properties": {
+    "id": 7190716944,
+    "amenity": "restaurant",
+    "name": "Maison Chomel",
+    "opening_hours": "10:30-15:30, 18:00-00:00",
+    "phone": "+41 27 722 95 98",
+    "website": "https://www.maison-chomel.ch/"
+  },
+  "id": 7190716944
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6395698,
+      47.6958656
+    ]
+  },
+  "properties": {
+    "id": 1717939885,
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "18/20",
+    "addr:postcode": "8200",
+    "addr:street": "Unterstadt",
+    "amenity": "restaurant",
+    "capacity": "80",
+    "check_date": "2023-06-28",
+    "cuisine": "italian",
+    "name": "Romana",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "+41 52 624 44 89",
+    "takeaway": "yes",
+    "website": "http://romana-schaffhausen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1717939885
+}

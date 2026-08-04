@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.232412,
+      46.2476583
+    ]
+  },
+  "properties": {
+    "id": 9960916719,
+    "addr:city": "Meinier",
+    "addr:housenumber": "86",
+    "addr:postcode": "1252",
+    "addr:street": "Route de la Repentance",
+    "amenity": "restaurant",
+    "name": "Le Tilleul",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-15:00,18:00-23:00; Su 10:00-15:00",
+    "phone": "+41 22 752 66 70",
+    "website": "https://www.letilleul.ch"
+  },
+  "id": 9960916719
+}

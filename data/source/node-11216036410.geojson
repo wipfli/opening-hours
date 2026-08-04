@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9801378,
+      47.1187434
+    ]
+  },
+  "properties": {
+    "id": 11216036410,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "zopfmatt@azw-willisau.ch",
+    "name": "Zopfmatt",
+    "opening_hours": "09:00-18:00",
+    "phone": "+41 41 972 52 71",
+    "website": "https://www.zopfmatt.ch/gastronomie-raumangebot/gastronomie/restaurant-zopfmatt/"
+  },
+  "id": 11216036410
+}

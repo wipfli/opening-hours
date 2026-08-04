@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3918328,
+      46.4955711
+    ]
+  },
+  "properties": {
+    "id": 8830191335,
+    "addr:housenumber": "3",
+    "addr:street": "Rue des Marchands",
+    "amenity": "restaurant",
+    "description": "Restaurant indien",
+    "name": "Sulochna",
+    "opening_hours": "Tu-Sa 11:30-14:00, 18:00-22:00",
+    "phone": "+41 21 808 58 58",
+    "website": "https://sulochna.ch/"
+  },
+  "id": 8830191335
+}

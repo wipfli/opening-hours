@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0788992,
+      47.3747911
+    ]
+  },
+  "properties": {
+    "id": 590955911,
+    "addr:city": "Suhr",
+    "addr:housenumber": "23",
+    "addr:postcode": "5034",
+    "addr:street": "Tramstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "email": "info@restaurant-creta.ch",
+    "name": "Restaurant Creta",
+    "opening_hours": "Mo 08:00-14:00; Tu-Th 08:00-14:00, 17:00-22:00; Fr, Sa 08:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 842 44 41",
+    "start_date": "2025-11-01",
+    "website": "https://restaurant-creta.ch"
+  },
+  "id": 590955911
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5274138,
+      46.2914846
+    ]
+  },
+  "properties": {
+    "id": 1122053057,
+    "addr:housenumber": "5",
+    "addr:postcode": "3960",
+    "addr:street": "Route de Sion",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Capri",
+    "opening_hours": "Mo-Su 11:30-14:00, 18:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 455 74 12",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.lecapri.ch/"
+  },
+  "id": 1122053057
+}

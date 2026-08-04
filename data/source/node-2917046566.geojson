@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.540819,
+      47.3724638
+    ]
+  },
   "properties": {
-    "@id": "node/2917046566",
+    "id": 2917046566,
     "addr:housenumber": "4",
     "addr:street": "Pfalzgasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://www.lindenhofkeller.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.540819,
-      47.3724638
-    ]
-  },
-  "id": "node-2917046566"
+  "id": 2917046566
 }

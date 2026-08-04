@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9474652,
+      46.2515272
+    ]
+  },
+  "properties": {
+    "id": 4907309622,
+    "addr:housenumber": "7",
+    "addr:postcode": "1870",
+    "addr:street": "Place Centrale",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Nonna",
+    "name:fr": "La Nonna",
+    "opening_hours": "Mo-Su 08:30-23:30",
+    "phone": "+41 24 471 79 49",
+    "self_service": "no",
+    "website": "http://www.la-nonna.ch/",
+    "website:menu": "http://la-nonna.ch/index.php?action=saison"
+  },
+  "id": 4907309622
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0169886,
+      47.1850743
+    ]
+  },
+  "properties": {
+    "id": 11246853468,
+    "amenity": "restaurant",
+    "name": "Gustino Imbiss",
+    "opening_hours": "Mo-Fr 11:00-13:00; PH off",
+    "takeaway": "only",
+    "website": "https://meyer-partyservice.ch/de/standorte/gustino-wauwil"
+  },
+  "id": 11246853468
+}

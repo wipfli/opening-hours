@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9820519,
+      46.54717
+    ]
+  },
+  "properties": {
+    "id": 4487092641,
+    "addr:city": "Jungfraujoch",
+    "addr:postcode": "3823",
+    "amenity": "restaurant",
+    "cuisine": "regional,_international",
+    "name": "Restaurant Crystal - Jungfraujoch",
+    "name:de": "Restaurant Crystal - Jungfraujoch",
+    "name:ja": "\u30ec\u30b9\u30c8\u30e9\u30f3\u30fb\u30af\u30ea\u30b9\u30bf\u30eb - \u30e6\u30f3\u30b0\u30d5\u30e9\u30a6\u30e8\u30c3\u30db",
+    "opening_hours": "Mo-Su 11:00-15:00",
+    "phone": "+41 33 828 78 88",
+    "website": "https://www.jungfrau.ch/de-ch/essen-trinken/"
+  },
+  "id": 4487092641
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5177829,
+      47.3891509
+    ]
+  },
+  "properties": {
+    "id": 2069791719,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "10",
+    "addr:postcode": "8005",
+    "addr:street": "Schiffbaustrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "cuisine": "steak_house",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "highchair": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "internet_access:ssid": "Aubrey Guest",
+    "level": "0",
+    "name": "Aubrey",
+    "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-04:00, Sa 18:00-04:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.aubrey.ch/"
+  },
+  "id": 2069791719
+}

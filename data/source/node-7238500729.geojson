@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8116972,
+      46.4850806
+    ]
+  },
+  "properties": {
+    "id": 7238500729,
+    "addr:city": "St. Moritz",
+    "addr:housenumber": "2",
+    "addr:postcode": "7500",
+    "addr:street": "Via Curtins",
+    "amenity": "restaurant",
+    "cuisine": "Schweiz, Mediterran",
+    "email": "willkommen@randolins.ch",
+    "name": "Restaurant St\u00fcvetta",
+    "opening_hours": "7:30-10:00, 11:30-17:00, 17:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 830 83 83",
+    "website": "https://www.stuevetta.ch",
+    "wheelchair": "limited"
+  },
+  "id": 7238500729
+}

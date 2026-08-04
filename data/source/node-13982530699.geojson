@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9660239,
+      46.0057698
+    ]
+  },
+  "properties": {
+    "id": 13982530699,
+    "amenity": "restaurant",
+    "name": "La Lanchetta",
+    "opening_hours": "08:30-01:00",
+    "website": "https://www.lanchettalounge.ch/"
+  },
+  "id": 13982530699
+}

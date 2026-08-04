@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5149643,
+      46.8457184
+    ]
+  },
+  "properties": {
+    "id": 1268063977,
+    "amenity": "restaurant",
+    "name": "Mont de la Maya",
+    "opening_hours": "May-Oct: 07:00-19:00",
+    "website": "https://mayaz.my.canva.site/"
+  },
+  "id": 1268063977
+}

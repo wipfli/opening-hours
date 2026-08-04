@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3069359,
+      47.0490347
+    ]
+  },
+  "properties": {
+    "id": 6010337887,
+    "addr:city": "Luzern",
+    "addr:housenumber": "15",
+    "addr:street": "Pilatusstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-06-20",
+    "cuisine": "mexican",
+    "indoor_seating": "yes",
+    "name": "Pacifico",
+    "opening_hours": "Mo-Th 11:30-00:30; Fr-Sa 11:30-02:30; Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.pacifico-luzern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6010337887
+}

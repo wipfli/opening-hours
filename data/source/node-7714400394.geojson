@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3096874,
+      47.0548526
+    ]
+  },
+  "properties": {
+    "id": 7714400394,
+    "addr:city": "Luzern",
+    "addr:housenumber": "9",
+    "addr:postcode": "6004",
+    "addr:street": "Hertensteinstrasse",
+    "alt_name": "Migros Take-Away Schweizerhof",
+    "amenity": "restaurant",
+    "branch": "Luzern Schweizerhof",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "indoor_seating": "no",
+    "name": "Migros Take Away / Daily",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "outdoor_seating": "no",
+    "takeaway": "only",
+    "website": "https://filialen.migros.ch/de/migros-supermarkt-luzern-schweizerhof"
+  },
+  "id": 7714400394
+}

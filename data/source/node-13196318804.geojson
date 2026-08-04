@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6341768,
+      46.5085291
+    ]
+  },
+  "properties": {
+    "id": 13196318804,
+    "amenity": "restaurant",
+    "description": "Visitors can relax in the Restaurant after visiting the museum or enter directly there via the north entrance. Brunch Sat and Sun from 10:30\na.m. to 2:30 p.m.",
+    "name": "Restaurant du Mus\u00e9e Olympique (TOM Caf\u00e9)",
+    "opening_hours": "Tu-Su 09:00-18:00",
+    "website": "https://www.olympics.com/museum/visit/restaurant"
+  },
+  "id": 13196318804
+}

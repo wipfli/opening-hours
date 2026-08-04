@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7073426,
+      47.1889373
+    ]
+  },
+  "properties": {
+    "id": 13160118660,
+    "addr:housenumber": "14",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "cuisine": "local;burger;cordonbleu",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "national.herzogenbuchsee@gmail.com",
+    "name": "National",
+    "opening_hours": "Tu-Th 16:30-23:30; Fr-Sa 16:00-00:30; Su 16:00-22:00; PH off",
+    "phone": "+41 62 961 49 49",
+    "website": "https://www.national-buchsi.rest"
+  },
+  "id": 13160118660
+}

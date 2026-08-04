@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3261969,
+      47.5027386
+    ]
+  },
+  "properties": {
+    "id": 7644461082,
+    "addr:city": "Freienwil",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "5423",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "check_date": "2025-10-19",
+    "check_date:opening_hours": "2025-10-19",
+    "cuisine": "swiss",
+    "description": "Ehrlichkeit, offen und Bodenst\u00e4ndig, dass ist es was der Weisse Wind ausmacht. Unser oberstes Ziel ist es das jeder Gast unser Haus mit einem L\u00e4cheln verl\u00e4sst.",
+    "email": "info@restaurantweisserwind.ch",
+    "name": "Weisser Wind",
+    "opening_hours": "Mo,Tu off; We 17:30-22:30; Th,Fr 11:30-14:00,17:30-22:30; Sa 17:30-22:30; Su 11:30-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 209 14 14",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.restaurantweisserwind.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7644461082
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7291301,
+      47.4981673
+    ]
+  },
+  "properties": {
+    "id": 561524250,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "8400",
+    "addr:street": "Steinberggasse",
+    "amenity": "restaurant",
+    "check_date": "2025-12-24",
+    "cuisine": "regional;mediterranean",
+    "level": "0",
+    "name": "Winti-Kanne",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00+; Sa 18:00+; Mo,Su open \"Auf Anfrage\"; PH closed",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.wintikanne.ch/"
+  },
+  "id": 561524250
+}

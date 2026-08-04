@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4565203,
+      47.2309283
+    ]
+  },
+  "properties": {
+    "id": 6023799495,
+    "addr:city": "Sax",
+    "addr:housenumber": "1",
+    "addr:postcode": "9468",
+    "addr:street": "Gaditsch",
+    "amenity": "restaurant",
+    "name": "Schl\u00f6ssli Sax",
+    "opening_hours": "We-Sa 11:00-14:00,17:00-23:00; Su 11:00-20:00",
+    "website": "https://www.schloesslisax.com/"
+  },
+  "id": 6023799495
+}

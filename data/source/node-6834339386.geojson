@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0695808,
+      46.3049911
+    ]
+  },
+  "properties": {
+    "id": 6834339386,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Auberge Col de Soud",
+    "note": "cuisine 12:00 -16.00, petite carte 16:00-17:30",
+    "opening_hours": "Dec 15-Apr 18: Mo-Su 12:00-17:30",
+    "operator": "Karin et Christoph Fahner",
+    "phone": "+41 24 495 26 40",
+    "website": "https://www.restaurant-auberge-col-de-soud.com/"
+  },
+  "id": 6834339386
+}

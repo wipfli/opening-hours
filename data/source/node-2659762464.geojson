@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6281226,
+      46.5171856
+    ]
+  },
+  "properties": {
+    "id": 2659762464,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "11",
+    "addr:postcode": "1003",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/tibitsLausanne/",
+    "contact:instagram": "https://www.instagram.com/tibits_lausanne/",
+    "contact:twitter": "https://twitter.com/@tibitsCH",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "drinking_water": "yes",
+    "email": "info@tibits.ch",
+    "indoor_seating": "yes",
+    "name": "Tibits",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 06:30-22:30; Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 32 531 38 88",
+    "website": "https://www.tibits.ch/fr/",
+    "wheelchair": "yes"
+  },
+  "id": 2659762464
+}

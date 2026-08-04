@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5912083,
+      47.3055995
+    ]
+  },
+  "properties": {
+    "id": 11247758797,
+    "amenity": "restaurant",
+    "check_date": "2023-10-08",
+    "name": "Sinfonia",
+    "opening_hours": "Mo,Su off; Tu-Sa 11:30-14:00,18:30-24:00",
+    "phone": "+41 44 910 04 02",
+    "website": "https://restaurantainfonia.ch",
+    "wheelchair": "no"
+  },
+  "id": 11247758797
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4578368,
+      46.9668431
+    ]
+  },
+  "properties": {
+    "id": 8390801947,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "73",
+    "addr:postcode": "3014",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "ASIA Take Away & Partyservice",
+    "opening_hours": "Mo-Sa 11:00-13:30; Th,Fr 11:00-13:30,17:30-21:00; Su 11:00-20:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 599 88 66",
+    "takeaway": "yes",
+    "website": "https://www.asiatakeawaybern.ch"
+  },
+  "id": 8390801947
+}

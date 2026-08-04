@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6136262,
+      47.4838698
+    ]
+  },
+  "properties": {
+    "id": 4792500425,
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "email": "hoteljura@hoteljura.ch",
+    "name": "Akropolis",
+    "name:de": "Akropolis",
+    "opening_hours": "Mo-Fr 08:30-11:00, 17:30-23:30; Sa 17:30-00:00",
+    "phone": "+41617069800",
+    "website": "http://hoteljura.ch"
+  },
+  "id": 4792500425
+}

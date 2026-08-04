@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1779335,
+      46.8110804
+    ]
+  },
+  "properties": {
+    "id": 1311795604,
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "1700",
+    "addr:street": "Route de Tavel",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Da Vinci",
+    "opening_hours": "Mo-Fr 07:30-23:30;Sa-Su 08:30-23:30",
+    "phone": "+41 26 481 33 66",
+    "website": "https://pizzeriadavinci.ch"
+  },
+  "id": 1311795604
+}

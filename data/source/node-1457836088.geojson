@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1614799,
+      46.1938574
+    ]
+  },
+  "properties": {
+    "id": 1457836088,
+    "addr:housenumber": "55",
+    "addr:postcode": "1206",
+    "addr:street": "Route de Florissant",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;pasta",
+    "delivery": "yes",
+    "internet_access": "wlan",
+    "name": "Indigo",
+    "name:de": "Indigo",
+    "name:en": "Indigo",
+    "name:fr": "Indigo",
+    "opening_hours": "Mo-Su 11:30-00:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 22 347 31 79",
+    "takeaway": "yes",
+    "website": "https://restaurant-indigo.ch",
+    "wheelchair": "limited",
+    "wheelchair:description": "1 marche de 15cm \u00e0 l'entr\u00e9e;porte d'entr\u00e9e de 72cm;WC non adapt\u00e9s, WC femme \u00e0 l'\u00e9tage"
+  },
+  "id": 1457836088
+}

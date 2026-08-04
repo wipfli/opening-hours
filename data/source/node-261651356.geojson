@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.553472,
+      47.3734628
+    ]
+  },
   "properties": {
-    "@id": "node/261651356",
+    "id": 261651356,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "24",
@@ -16,12 +23,5 @@
     "website": "https://www.restaurant-oberhof.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.553472,
-      47.3734628
-    ]
-  },
-  "id": "node-261651356"
+  "id": 261651356
 }

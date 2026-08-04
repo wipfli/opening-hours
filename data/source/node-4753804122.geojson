@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3342083,
+      47.4076288
+    ]
+  },
+  "properties": {
+    "id": 4753804122,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9014",
+    "addr:street": "Walserstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Restaurant Ricken",
+    "opening_hours": "Mo-Tu 17:00-00:00; We off; Th-Su 17:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 277 61 75",
+    "website": "http://restaurantrickenasia-stgallen.ch"
+  },
+  "id": 4753804122
+}

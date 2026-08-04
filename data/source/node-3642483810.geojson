@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4416135,
+      47.001473
+    ]
+  },
+  "properties": {
+    "id": 3642483810,
+    "amenity": "restaurant",
+    "capacity": "ca. 150",
+    "cuisine": "international",
+    "delivery": "no",
+    "name": "Esperanza",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "operator": "GEWA",
+    "smoking": "isolated",
+    "website": "https://www.gewa-gastronomie.ch/"
+  },
+  "id": 3642483810
+}

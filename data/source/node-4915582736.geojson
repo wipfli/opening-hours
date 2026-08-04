@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5234939,
+      47.3580937
+    ]
+  },
   "properties": {
-    "@id": "node/4915582736",
+    "id": 4915582736,
     "amenity": "restaurant",
     "cuisine": "american;burger",
     "indoor_seating": "yes",
@@ -13,12 +20,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.public-burger.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5234939,
-      47.3580937
-    ]
-  },
-  "id": "node-4915582736"
+  "id": 4915582736
 }

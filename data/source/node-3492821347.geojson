@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3694574,
+      47.1962331
+    ]
+  },
+  "properties": {
+    "id": 3492821347,
+    "addr:city": "Grenchen",
+    "addr:country": "CH",
+    "addr:housenumber": "218",
+    "addr:postcode": "2540",
+    "addr:street": "Allerheiligenstrasse",
+    "alt_name": "Wirtschaft Chappeli Grenchen",
+    "amenity": "restaurant",
+    "contact:email": "info@chappeli-grenchen.ch",
+    "contact:facebook": "https://www.facebook.com/pages/Chappeli/696563447075828",
+    "contact:phone": "+41 32 6534040",
+    "name": "Chappeli",
+    "opening_hours": "Mo 09:30+ off; Tu-We off; Th-Su 09:30+",
+    "operator": "Janine Hausmann & Christoph K\u00f6hli",
+    "source": "survey and website",
+    "website": "https://www.chappeli-grenchen.ch/"
+  },
+  "id": 3492821347
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.439591,
+      47.3972017
+    ]
+  },
+  "properties": {
+    "id": 3629392855,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "1",
+    "addr:postcode": "8952",
+    "addr:street": "Herrenwiesenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "Sabor",
+    "opening_hours": "Mo 10:00-14:30, 17:30-24:00; Tu-Su 10:00-24:00",
+    "phone": "+41 44 730 41 80",
+    "website": "https://www.sabor-restaurant.ch/"
+  },
+  "id": 3629392855
+}

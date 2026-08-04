@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7673584,
+      47.5023567
+    ]
+  },
+  "properties": {
+    "id": 12536140731,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "80",
+    "addr:postcode": "8409",
+    "addr:street": "Sulzerallee",
+    "amenity": "restaurant",
+    "cuisine": "poke;sushi",
+    "name": "MyPok\u00e9",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-20:00; Sa-Su 17:00-20:00",
+    "website": "https://mypoke.ch/"
+  },
+  "id": 12536140731
+}

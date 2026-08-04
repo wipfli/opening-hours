@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5513745,
+      47.4227513
+    ]
+  },
+  "properties": {
+    "id": 8262559375,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "520",
+    "addr:postcode": "8052",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizzeria Venice",
+    "opening_hours": "Mo-Su 10:00-00:00",
+    "takeaway": "yes",
+    "website": "https://venice-pizza.ch"
+  },
+  "id": 8262559375
+}

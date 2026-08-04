@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4722982,
+      46.9439815
+    ]
+  },
+  "properties": {
+    "id": 507607982,
+    "amenity": "restaurant",
+    "contact:addr": "Sonnenhofweg 12, 3006 Bern",
+    "cuisine": "sri_lankan;pizza;pasta",
+    "delivery": "yes",
+    "name": "Amma Masala",
+    "opening_hours": "Mo 16:30-21:30; Tu 17:30-21:30; We 11:30-13:30,17:00-22:30; Th-Su 11:30-22:30",
+    "operator": "Vincenzo Mantarro",
+    "source": "survey",
+    "takeaway": "yes",
+    "website": "https://amma-masala.ch/"
+  },
+  "id": 507607982
+}

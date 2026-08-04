@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5472178,
+      47.2134338
+    ]
+  },
+  "properties": {
+    "id": 830585900,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "68",
+    "addr:postcode": "4500",
+    "addr:street": "Baselstrasse",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "delivery": "Tu-Sa 11:00-13:30,17:00-23:30; Su 16:30-22:30",
+    "name": "Muro\u2019s Pizza Kebab",
+    "opening_hours": "Tu-Sa 11:00-13:30,17:00-23:30; Su 16:30-22:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "phone": "+4132 621 21 22",
+    "website": "https://murospizza.ch"
+  },
+  "id": 830585900
+}

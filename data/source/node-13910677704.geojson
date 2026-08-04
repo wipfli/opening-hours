@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3684198,
+      47.4121409
+    ]
+  },
+  "properties": {
+    "id": 13910677704,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "115",
+    "addr:postcode": "9012",
+    "addr:street": "Demutstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "thomas.riedener@gbssg.ch",
+    "indoor_seating": "yes",
+    "name": "Mampf",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41582282633",
+    "website": "https://www.gbssg.ch/gbs/mampf.html",
+    "website:menu": "https://api.gbssg.ch/fileadmin/user_upload/dokumente/pdf/GBS_allgemein/menuplan.pdf"
+  },
+  "id": 13910677704
+}

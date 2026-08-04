@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.548421,
+      47.4105086
+    ]
+  },
+  "properties": {
+    "id": 1864751576,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "internet_access": "wlan",
+    "name": "Malabar",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-24:00; Sa,Su 17:30-24:00",
+    "phone": "+41 44 311 31 17",
+    "website": "https://www.malabar-restaurant.ch/"
+  },
+  "id": 1864751576
+}

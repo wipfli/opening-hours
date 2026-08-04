@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6407967,
+      46.3112018
+    ]
+  },
+  "properties": {
+    "id": 11148876030,
+    "addr:city": "Susten",
+    "addr:housenumber": "10",
+    "addr:postcode": "3952",
+    "addr:street": "Sustenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Tea-Room Mathieu",
+    "opening_hours": "Mo-Fr 05:30-19:00; Sa-Su 05:30-18:00",
+    "operator": "Mathieu",
+    "phone": "+41 27 473 13 59",
+    "website": "https://baeckerei-mathieu.ch/tea-room-restaurant/tea-room-susten/"
+  },
+  "id": 11148876030
+}

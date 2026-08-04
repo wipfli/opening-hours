@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8573669,
+      47.194303
+    ]
+  },
+  "properties": {
+    "id": 7031777061,
+    "addr:city": "Lachen SZ",
+    "addr:housenumber": "52",
+    "addr:postcode": "8853",
+    "addr:street": "St. Gallerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kapelle Restaurant & Steakhouse",
+    "opening_hours": "Tu-Su 10:00-23:00",
+    "phone": "+41 55 442 88 53",
+    "website": "https://kapelle-steakhouse.ch"
+  },
+  "id": 7031777061
+}

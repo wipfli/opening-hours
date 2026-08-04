@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8270533,
+      47.3947682
+    ]
+  },
+  "properties": {
+    "id": 354073292,
+    "addr:city": "Hermatswil",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "8330",
+    "addr:street": "Hermatswilerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Eintracht",
+    "opening_hours": "Th-Fr 16:00-24:00, Sa 10:00-24:00, Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 950 14 18",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.eintracht-hermatswil.ch/"
+  },
+  "id": 354073292
+}

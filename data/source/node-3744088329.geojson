@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4482015,
+      47.3971822
+    ]
+  },
+  "properties": {
+    "id": 3744088329,
+    "addr:city": "Schlieren",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8952",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-08",
+    "cuisine": "steak_house",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Rolli's Steakhouse",
+    "opening_hours": "Mo-Sa 08:30-23:30",
+    "outdoor_seating": "yes",
+    "website": "https://rollis-steakhouse.ch/"
+  },
+  "id": 3744088329
+}

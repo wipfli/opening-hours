@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5893759,
+      47.5527239
+    ]
+  },
+  "properties": {
+    "id": 593639027,
+    "addr:city": "Basel",
+    "addr:housenumber": "7",
+    "addr:postcode": "4051",
+    "addr:street": "St\u00e4nzlergasse",
+    "amenity": "restaurant",
+    "branch": "Basel Steinen",
+    "capacity": "45",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "name": "Negishi Sushi Bar",
+    "opening_hours": "11:00-23:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 271 64 46",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.negishi.ch/basel-steinen",
+    "wheelchair": "yes"
+  },
+  "id": 593639027
+}

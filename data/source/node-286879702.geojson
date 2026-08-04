@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4319485,
+      46.9429002
+    ]
+  },
+  "properties": {
+    "id": 286879702,
+    "addr:postcode": "3007",
+    "amenity": "restaurant",
+    "check_date": "2025-09-12",
+    "contact:addr": "Belpstrasse 45, 3007 Bern",
+    "contact:facebook": "yaadeinindianrestaurant.chch",
+    "cuisine": "indian",
+    "email": "reservations@indian-yaadein.ch",
+    "indoor_seating": "yes",
+    "name": "Yaadein",
+    "opening_hours": "Mo-Fr 11:00-14:00; Mo-Fr 17:00-22:00; Sa-Su 12:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 31 382 51 50",
+    "website": "https://www.indian-yaadein.ch/"
+  },
+  "id": 286879702
+}

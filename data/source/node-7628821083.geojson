@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5799829,
+      47.3155127
+    ]
+  },
+  "properties": {
+    "id": 7628821083,
+    "addr:city": "K\u00fcsnacht ZH",
+    "addr:housenumber": "160",
+    "addr:postcode": "8700",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "name": "Rico's",
+    "opening_hours": "Tu-Sa 12:00-14:00,19:00-22:00",
+    "website": "https://www.ricozandonella.ch",
+    "wikidata": "Q89504014"
+  },
+  "id": 7628821083
+}

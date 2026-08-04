@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5525374,
+      47.4023349
+    ]
+  },
+  "properties": {
+    "id": 12026879416,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "281",
+    "addr:postcode": "8057",
+    "addr:street": "Winterthurerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "La Regina",
+    "opening_hours": "Mo-Su 16:30-22:00",
+    "website": "https://www.pizza-la-regina-zurich.ch/"
+  },
+  "id": 12026879416
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7142025,
+      46.4939496
+    ]
+  },
+  "properties": {
+    "id": 8714549564,
+    "addr:city": "Grandvaux",
+    "addr:housenumber": "9",
+    "addr:postcode": "1091",
+    "addr:street": "Chemin de la Creuse",
+    "amenity": "restaurant",
+    "cuisine": "brunch",
+    "name": "Domaine de la Crausaz",
+    "note": "Petite cuisine non-stop de mars \u00e0 septembre",
+    "opening_hours": "Fr-Su 10:30-19:00",
+    "phone": "+41 21 357 90 18",
+    "website": "https://www.lacrausaz.ch"
+  },
+  "id": 8714549564
+}

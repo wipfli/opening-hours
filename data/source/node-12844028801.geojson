@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5923059,
+      47.5520208
+    ]
+  },
+  "properties": {
+    "id": 12844028801,
+    "addr:housenumber": "12",
+    "addr:street": "Henric Petri-Strasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Noohn",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://noohn.ch/",
+    "website:menu": "https://admin.finetodine.ch/api/v2/entry/2552/document/en/render"
+  },
+  "id": 12844028801
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7176288,
+      47.3481296
+    ]
+  },
+  "properties": {
+    "id": 6063930628,
+    "addr:city": "Uster",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "level": "1",
+    "name": "Stella del Centro Uschter77",
+    "opening_hours": "Mo-We 08:30-18:30; Th 08:30-20:00; Fr 08:30-18:30; Sa 08:30-17:00",
+    "website": "https://www.stelladelcentrouster.ch/"
+  },
+  "id": 6063930628
+}

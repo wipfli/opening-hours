@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5465038,
+      47.4116904
+    ]
+  },
+  "properties": {
+    "id": 4159355983,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "373",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "name": "Ustaria",
+    "opening_hours": "Tu-Sa 16:30-23:00",
+    "phone": "+41 43 543 22 38",
+    "website": "https://www.ustaria.ch/"
+  },
+  "id": 4159355983
+}

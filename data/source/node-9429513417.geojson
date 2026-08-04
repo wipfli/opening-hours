@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5319145,
+      46.2930611
+    ]
+  },
+  "properties": {
+    "id": 9429513417,
+    "addr:housenumber": "9b",
+    "addr:street": "Avenue du Rothorn",
+    "amenity": "restaurant",
+    "description": "Geletaria Snack-Bar Epicerie",
+    "name": "Au Bec Gourmand",
+    "opening_hours": "Mo-Fr 09:00-18:30",
+    "phone": "+41275650630",
+    "website": "http://www.aubecgourmand.ch"
+  },
+  "id": 9429513417
+}

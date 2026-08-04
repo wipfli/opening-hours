@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5039179,
+      47.000046
+    ]
+  },
+  "properties": {
+    "id": 7770673149,
+    "amenity": "restaurant",
+    "name": "Memories",
+    "opening_hours": "Th-Sa 19:00-21:30",
+    "phone": "+41 81 303 30 36",
+    "website": "https://www.resortragaz.ch/de/restaurants-und-bars/memories",
+    "wikidata": "Q89690286"
+  },
+  "id": 7770673149
+}

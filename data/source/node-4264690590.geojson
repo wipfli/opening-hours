@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.143358,
+      46.2087384
+    ]
+  },
+  "properties": {
+    "id": 4264690590,
+    "addr:postcode": "1201",
+    "addr:street": "Square de Chantepoulet",
+    "amenity": "restaurant",
+    "name": "Boreal x El Salad",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 11:00-18:00",
+    "website": "https://www.borealcoffee.ch/"
+  },
+  "id": 4264690590
+}

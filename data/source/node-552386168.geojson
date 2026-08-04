@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2423198,
+      47.4797298
+    ]
+  },
+  "properties": {
+    "id": 552386168,
+    "addr:city": "Gebenstorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "5412",
+    "addr:street": "Hinterhof",
+    "amenity": "restaurant",
+    "cuisine": "regional;pizza",
+    "name": "Caf\u00e9 Restaurant Frohsinn",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa 10:00-23:00; Su off",
+    "phone": "+41 56 223 10 93",
+    "website": "http://www.caferestaurant-frohsinn.ch"
+  },
+  "id": 552386168
+}

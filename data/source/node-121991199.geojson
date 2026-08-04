@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5863854,
+      47.5458414
+    ]
+  },
+  "properties": {
+    "id": 121991199,
+    "addr:housenumber": "100",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "amanis.afghan.cuisine",
+    "cuisine": "afghan",
+    "indoor_seating": "yes",
+    "name": "amani\u2018s",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-22:00; Sa 17:30-22:00",
+    "phone": "+41 61 506 01 86",
+    "website": "https://amanis.ch/cuisine"
+  },
+  "id": 121991199
+}

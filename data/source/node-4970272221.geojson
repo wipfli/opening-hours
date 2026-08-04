@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365098,
+      47.5112688
+    ]
+  },
+  "properties": {
+    "id": 4970272221,
+    "addr:postcode": "8180",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza;italian",
+    "email": "info@vecchiacantina.ch",
+    "internet_access": "wlan",
+    "name": "Ristorante Pizzeria La Vecchia Cantina",
+    "name:de": "Ristorante Pizzeria La Vecchia Cantina",
+    "opening_hours": "Tu-Th 11:30-14:00, 17:30-22:00; Fr 11:30-14:00, 17:30-23:00; Sa 17:30-23:00; Su 17:30-22:00",
+    "phone": "+41 44 860 11 40",
+    "website": "https://www.vecchiacantina.ch/"
+  },
+  "id": 4970272221
+}

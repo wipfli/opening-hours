@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0444516,
+      47.3923196
+    ]
+  },
+  "properties": {
+    "id": 382382206,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "31",
+    "addr:postcode": "5000",
+    "addr:street": "Pelzgasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Ninni",
+    "opening_hours": "Mo-Th 11:00-14:00,17:00-22:00; Fr 11:00-14:00,17:00-23:00; Sa 11:00-23:00; Su 12:00-21:00",
+    "phone": "+41 62 559 00 37",
+    "website": "https://www.ninni.ch/"
+  },
+  "id": 382382206
+}

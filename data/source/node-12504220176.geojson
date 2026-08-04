@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8309424,
+      47.2290351
+    ]
+  },
+  "properties": {
+    "id": 12504220176,
+    "addr:housenumber": "104",
+    "addr:street": "Alte Jonastrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:count": "1",
+    "changing_table:fee": "no",
+    "changing_table:location": "female_toilet",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Nino Pizza",
+    "opening_hours": "Mo, We, Th 11:00-13:30, 17:00-22:00; Fr, Sa 11:00-13:30, 17:00-22:30",
+    "phone": "+41 55 214 11 11",
+    "website": "https://www.ninopizza.ch/"
+  },
+  "id": 12504220176
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5444267,
+      47.0496815
+    ]
+  },
+  "properties": {
+    "id": 11215293143,
+    "addr:housenumber": "18",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-04-24",
+    "museum": "history",
+    "name": "Kimmelstiftung f\u00fcr Postgeschichte Museum Bauernhof",
+    "opening_hours": "Mo,Su off; Tu,Sa 10:00-16:00; We-Fr 14:00-16:00",
+    "phone": "+41 41 530 46 99",
+    "source": "survey",
+    "tourism": "museum",
+    "website": "https://kimmelstiftung.ch",
+    "wheelchair": "no"
+  },
+  "id": 11215293143
+}

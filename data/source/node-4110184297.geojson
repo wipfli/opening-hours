@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5909316,
+      47.5571901
+    ]
+  },
+  "properties": {
+    "id": 4110184297,
+    "addr:city": "Basel",
+    "addr:housenumber": "20",
+    "addr:postcode": "4051",
+    "addr:street": "M\u00fcnsterplatz",
+    "amenity": "restaurant",
+    "contact:email": "museumsbistro@mkb.ch",
+    "indoor_seating": "yes",
+    "name": "Museumsbistro Rollerhof",
+    "opening_hours": "Mo-We 10:00-18:00; Th-Sa 10:00-22:00; Su 10:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 261 74 44",
+    "smoking": "outside",
+    "website": "https://www.mkb.ch/en/ihr-besuch/museumsbistro-rollerhof.html"
+  },
+  "id": 4110184297
+}

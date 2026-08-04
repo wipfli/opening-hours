@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5154904,
+      47.3790326
+    ]
+  },
   "properties": {
-    "@id": "node/4968281140",
+    "id": 4968281140,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "94",
@@ -19,12 +26,5 @@
     "website": "https://www.anchayzurich.com/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5154904,
-      47.3790326
-    ]
-  },
-  "id": "node-4968281140"
+  "id": 4968281140
 }

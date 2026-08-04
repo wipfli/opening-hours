@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9540676,
+      46.0050028
+    ]
+  },
+  "properties": {
+    "id": 13108857204,
+    "addr:postcode": "6900",
+    "addr:street": "Quartiere Maghetti",
+    "amenity": "restaurant",
+    "cuisine": "fish",
+    "internet_access": "wlan",
+    "name": "Pesce Pazzo pescheria con cucina",
+    "opening_hours": "Mo-Sa 11:00-15:00,18:30-01:00",
+    "phone": "+41 91 921 26 03",
+    "website": "https://www.pescepazzolugano.ch/",
+    "website:menu": "https://menu.spaghettigastrogroup.com/pesce-pazzo/menu/"
+  },
+  "id": 13108857204
+}

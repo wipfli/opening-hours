@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6095633,
+      46.5117641
+    ]
+  },
+  "properties": {
+    "id": 1078573246,
+    "addr:housenumber": "9",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Emile-Henri-Jaques-Dalcroze",
+    "amenity": "restaurant",
+    "email": "info@il-lido.ch",
+    "name": "Ristorante il Lido",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "phone": "+41 21 601 11 61",
+    "website": "https://www.il-lido.ch/",
+    "website:menu": "https://www.il-lido.ch/wp-content/uploads/2023/02/CARTA%20lido%20saison%202025-1.pdf"
+  },
+  "id": 1078573246
+}

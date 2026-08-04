@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0470734,
+      47.4665577
+    ]
+  },
+  "properties": {
+    "id": 296237935,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "10",
+    "addr:postcode": "9500",
+    "addr:street": "Weierstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@laghetto.ch",
+    "name": "Laghetto",
+    "opening_hours": "Tu-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 910 19 19",
+    "reservation": "yes",
+    "website": "https://laghetto.ch",
+    "website:menu": "https://laghetto.ch/speisen/",
+    "wheelchair": "yes"
+  },
+  "id": 296237935
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2102623,
+      47.3981511
+    ]
+  },
+  "properties": {
+    "id": 7896693320,
+    "addr:city": "Othmarsingen",
+    "addr:housenumber": "29",
+    "addr:postcode": "5504",
+    "addr:street": "Lenzburgerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;international",
+    "email": "info@rubyscafe.ch",
+    "name": "Ruby's Caf\u00e9",
+    "opening_hours": "Tu-Fr 11:00-13:30,17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41796341407",
+    "website": "https://rubyscafe.ch/"
+  },
+  "id": 7896693320
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3762588,
+      47.4241353
+    ]
+  },
+  "properties": {
+    "id": 4092527005,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "11",
+    "addr:postcode": "9000",
+    "addr:street": "Schmiedgasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Alpegl\u00f6ggli",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa 11:00-23:00",
+    "website": "https://www.alpegloeggli.ch/"
+  },
+  "id": 4092527005
+}

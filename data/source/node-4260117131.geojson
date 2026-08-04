@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5295685,
+      47.3776729
+    ]
+  },
   "properties": {
-    "@id": "node/4260117131",
+    "id": 4260117131,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "19",
     "addr:street": "Kanonengasse",
@@ -20,12 +27,5 @@
     "website": "https://cimacurry.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5295685,
-      47.3776729
-    ]
-  },
-  "id": "node-4260117131"
+  "id": 4260117131
 }

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2851945,
+      46.2038451
+    ]
+  },
+  "properties": {
+    "id": 9121741472,
+    "amenity": "restaurant",
+    "name": "Valtraiteur",
+    "opening_hours": "Mo-Fr 11:45-13:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 346 46 56",
+    "website": "https://www.valtraiteur.ch"
+  },
+  "id": 9121741472
+}

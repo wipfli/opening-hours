@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7200889,
+      47.5181922
+    ]
+  },
+  "properties": {
+    "id": 8199027204,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "152",
+    "addr:postcode": "8400",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "brand": "Hans im Gl\u00fcck",
+    "brand:wikidata": "Q22569868",
+    "brand:wikipedia": "de:Hans im Gl\u00fcck (Restaurantkette)",
+    "check_date": "2024-06-05",
+    "cuisine": "burger",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41525112980",
+    "takeaway": "yes",
+    "website": "https://hansimglueck-burgergrill.de/standort/winterthur-rosenberg"
+  },
+  "id": 8199027204
+}

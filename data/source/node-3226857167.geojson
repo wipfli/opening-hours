@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9213081,
+      47.0639217
+    ]
+  },
+  "properties": {
+    "id": 3226857167,
+    "addr:city": "Ch\u00e9zard-Saint-Martin",
+    "addr:housenumber": "34",
+    "addr:postcode": "2054",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "email": "contact@lacroix-dor.ch",
+    "name": "La Croix d'Or",
+    "opening_hours": "Tu-Th 08:00-23:59; Fr-Sa 09:00-24:00; Su 09:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 853 20 88",
+    "reservation": "recommended",
+    "website": "http://lacroix-dor.ch/"
+  },
+  "id": 3226857167
+}

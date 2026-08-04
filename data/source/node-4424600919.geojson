@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.53946,
+      47.3775929
+    ]
+  },
   "properties": {
-    "@id": "node/4424600919",
+    "id": 4424600919,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:place": "Hauptbahnhof, S\u00fcdtrakt",
@@ -19,12 +26,5 @@
     "outdoor_seating": "yes",
     "website": "https://website.sora-sushi.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.53946,
-      47.3775929
-    ]
-  },
-  "id": "node-4424600919"
+  "id": 4424600919
 }

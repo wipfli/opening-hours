@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4536239,
+      47.3987543
+    ]
+  },
+  "properties": {
+    "id": 10992872553,
+    "addr:city": "Schlieren",
+    "addr:housenumber": "39",
+    "addr:postcode": "8952",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "name": "Eve's Kitchen",
+    "opening_hours": "Mo-Fr 09:00-18:00; We 09:00-20:00; PH off",
+    "phone": "+41 44 730 22 00",
+    "website": "https://eves-kitchen.ch/"
+  },
+  "id": 10992872553
+}

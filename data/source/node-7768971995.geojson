@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6605617,
+      46.5097184
+    ]
+  },
+  "properties": {
+    "id": 7768971995,
+    "addr:city": "Pully",
+    "addr:housenumber": "16",
+    "addr:postcode": "1009",
+    "addr:street": "Rue du Centre",
+    "amenity": "restaurant",
+    "email": "info@cafeducentrepully.ch",
+    "name": "Caf\u00e9 du Centre",
+    "opening_hours": "Mo-Fr 08:00-15:00, 18:00-23:30; Sa 18:00-23:30",
+    "phone": "+41 21 546 21 12",
+    "website": "https://cafeducentrepully.ch/"
+  },
+  "id": 7768971995
+}

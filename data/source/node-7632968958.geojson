@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9408342,
+      46.4510267
+    ]
+  },
+  "properties": {
+    "id": 7632968958,
+    "amenity": "restaurant",
+    "check_date": "2025-12-19",
+    "email": "mail@morteratsch.ch",
+    "internet_access": "wlan",
+    "name": "Morteratsch",
+    "opening_hours": "08:00-21:30 \"w\u00e4hrend der Saison, Sommersaison: 13.06. - 26.10.2025, Wintersaison: 05.12.2025-26.04.2026\"",
+    "phone": "+41 81 842 63 13",
+    "tourism": "hotel",
+    "website": "https://www.morteratsch.ch/"
+  },
+  "id": 7632968958
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0714238,
+      46.0697404
+    ]
+  },
+  "properties": {
+    "id": 1742793288,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "name": "Caf\u00e9-Restaurant Les Gorges du Durnand",
+    "opening_hours": "09:00-18:00; Tu,Th-Sa 09:00-23:00",
+    "website": "https://gorgesdudurnand.ch/en/the-restaurant/"
+  },
+  "id": 1742793288
+}

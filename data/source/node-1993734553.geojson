@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.737973,
+      47.1999481
+    ]
+  },
+  "properties": {
+    "id": 1993734553,
+    "addr:housename": "Speiserestaurant Forst",
+    "addr:housenumber": "101",
+    "addr:postcode": "4922",
+    "addr:street": "Forst",
+    "amenity": "restaurant",
+    "name": "Speiserestaurant Forst",
+    "opening_hours": "Mo, Th-Sa 10:00-23:30; Su 10:00-22:00; Tu-We off",
+    "website": "https://www.restaurantforst.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1993734553
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1511821,
+      46.803188
+    ]
+  },
+  "properties": {
+    "id": 8396690418,
+    "amenity": "restaurant",
+    "check_date": "2025-11-19",
+    "check_date:opening_hours": "2024-11-06",
+    "check_date:smoking": "2025-11-19",
+    "indoor_seating": "yes",
+    "name": "L\u2019unique tartare",
+    "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-22:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.lunique-tartare.ch/"
+  },
+  "id": 8396690418
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5684319,
+      47.2151768
+    ]
+  },
+  "properties": {
+    "id": 10860473379,
+    "amenity": "restaurant",
+    "cuisine": "steak_house;burger",
+    "level": "0",
+    "name": "Grill-Bill",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-22:00; Fr-Sa 11:30-14:00,17:30-22:30; PH closed",
+    "opening_hours:kitchen": "Mo-Th 11:30-13:30,17:30-21:30; Fr-Sa 11:30-13:30,17:30-22:00; PH closed",
+    "operator": "Fleisch Discount",
+    "phone": "+41 41 760 95 00",
+    "takeaway": "no",
+    "website": "https://www.grillbill.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10860473379
+}

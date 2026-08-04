@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4278455,
+      46.9538448
+    ]
+  },
+  "properties": {
+    "id": 559767084,
+    "alt_name": "Restaurant Warteck",
+    "amenity": "restaurant",
+    "contact:addr": "Hohgantweg 5, 3012 Bern",
+    "contact:phone": "+41 31 3018055",
+    "cuisine": "italian",
+    "description": "Kegelbahn",
+    "fumoir": "yes",
+    "name": "Warteck",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa-Su 10:00-23:30",
+    "operator": "Ramanathan and Rathi Mohan",
+    "sport": "9pin",
+    "website": "https://restaurant-warteck.ch",
+    "wheelchair": "limited"
+  },
+  "id": 559767084
+}

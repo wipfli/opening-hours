@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9089643,
+      47.5476597
+    ]
+  },
+  "properties": {
+    "id": 8012877728,
+    "alt_name": "Il Frutteto",
+    "amenity": "restaurant",
+    "cuisine": "italian;regional;pizza",
+    "name": "Wirtschaft zum Obstgarten",
+    "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "start_date": "2023-04-14",
+    "website": "https://ilfrutteto.ch/"
+  },
+  "id": 8012877728
+}

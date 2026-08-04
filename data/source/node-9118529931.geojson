@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2971728,
+      46.2213763
+    ]
+  },
+  "properties": {
+    "id": 9118529931,
+    "addr:city": "Conthey",
+    "addr:housenumber": "6",
+    "addr:postcode": "1964",
+    "addr:street": "Route des Rottes",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "name": "CN Restaurant",
+    "opening_hours": "Mo,Tu 07:00-20:00; We,Th 07:00-00:00; Fr 07:00-01:00; Sa 08:00-01:00; Su 08:00-23:00",
+    "phone": "+4127 346 19 98",
+    "website": "https://www.cn-restaurant.ch/"
+  },
+  "id": 9118529931
+}

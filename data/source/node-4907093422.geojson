@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3603195,
+      46.2345964
+    ]
+  },
+  "properties": {
+    "id": 4907093422,
+    "addr:city": "Sion",
+    "addr:housenumber": "21",
+    "addr:postcode": "1950",
+    "addr:street": "Rue du Grand-Pont",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Le Grotto de la Fontaine",
+    "name:fr": "Le Grotto de la Fontaine",
+    "opening_hours": "Mo-Sa 11:30-15:00,18:30-24:00; Tu,We off; Th 18:30-24:00; Su 11:30-15:00,18:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 323 83 77",
+    "website": "https://grotto-fontaine.ch/"
+  },
+  "id": 4907093422
+}

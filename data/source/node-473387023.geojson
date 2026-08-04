@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8782322,
+      47.3685211
+    ]
+  },
+  "properties": {
+    "id": 473387023,
+    "addr:city": "Bauma",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8494",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-24",
+    "name": "Bahnhof",
+    "opening_hours": "Mo-Sa 08:00-24:00; Th off; Fr 16:00-24:00; Su 08:00-17:00",
+    "phone": "+41 52 386 19 31",
+    "website": "https://restaurant-bahnhof-bauma.ch/",
+    "wheelchair": "no"
+  },
+  "id": 473387023
+}

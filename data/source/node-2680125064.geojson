@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.441414,
+      46.9514658
+    ]
+  },
+  "properties": {
+    "id": 2680125064,
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "check_date": "2026-08-03",
+    "check_date:diet:vegan": "2026-08-03",
+    "check_date:diet:vegetarian": "2026-08-03",
+    "contact:addr": "Bollwerk 35, 3011 Bern",
+    "contact:email": "obolles@bluewin.ch",
+    "contact:fax": "+41 31 3183546",
+    "contact:phone": "+41 31 3183545",
+    "contact:website": "http://www.obolles.ch/index.php?id=5",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "O bolles",
+    "opening_hours": "Mo-We 10:00-23:30; Th-Fr 10:00-00:30; Sa 17:00-00:30",
+    "source": "Survey and website",
+    "website": "https://www.obolles.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2680125064
+}

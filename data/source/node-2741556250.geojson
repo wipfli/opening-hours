@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4908221,
+      47.4384837
+    ]
+  },
+  "properties": {
+    "id": 2741556250,
+    "addr:city": "Dittingen",
+    "addr:postcode": "4243",
+    "addr:street": "Auf dem Felde",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "capacity": "50",
+    "cuisine": "regional",
+    "ele": "526",
+    "internet_access": "yes",
+    "name": "Flugplatzbeiz Dittingen",
+    "opening_hours": "Sa-Su 09:00-19:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "phone": "+41 61 761 68 06",
+    "website": "https://sg-dittingen.ch"
+  },
+  "id": 2741556250
+}

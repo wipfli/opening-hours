@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6335973,
+      46.5164356
+    ]
+  },
+  "properties": {
+    "id": 652559287,
+    "amenity": "restaurant",
+    "check_date": "2025-07-03",
+    "check_date:diet:vegetarian": "2025-07-03",
+    "contact:facebook": "https://www.facebook.com/pastaesfizithetastelab",
+    "contact:instagram": "pastaesfizi_ouchy3",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Pasta e Sfizi",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:30-23:00; Sa 18:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 323 23 50",
+    "website": "https://pastaesfizi.ch/"
+  },
+  "id": 652559287
+}

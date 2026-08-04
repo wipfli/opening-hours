@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5460335,
+      47.4097353
+    ]
+  },
+  "properties": {
+    "id": 2591914496,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "353",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon",
+    "check_date": "2025-08-22",
+    "check_date:opening_hours": "2025-08-22",
+    "cuisine": "pasta",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Puci\u2018s",
+    "opening_hours": "Mo-Fr 07:30-17:00; Sa 08:30-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 311 32 07",
+    "website": "https://www.pucis.ch",
+    "wheelchair": "yes"
+  },
+  "id": 2591914496
+}

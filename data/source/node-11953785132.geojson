@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7976695,
+      47.6316402
+    ]
+  },
+  "properties": {
+    "id": 11953785132,
+    "addr:city": "Oberstammheim",
+    "addr:housenumber": "15",
+    "addr:postcode": "8477",
+    "addr:street": "Bachstrasse",
+    "amenity": "restaurant",
+    "name": "Gartentropfen",
+    "opening_hours": "Sa 09:00-13:00",
+    "phone": "+41527453394",
+    "website": "https://www.gartentropfen.ch/"
+  },
+  "id": 11953785132
+}

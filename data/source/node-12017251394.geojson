@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5831382,
+      47.5669332
+    ]
+  },
+  "properties": {
+    "id": 12017251394,
+    "addr:street": "St. Johanns-Rheinweg",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2024-08-28",
+    "contact:email": "bonjour@saintlouis-buvette.ch",
+    "description": "April - Oktober",
+    "indoor_seating": "no",
+    "internet_access": "no",
+    "microbrewery": "no",
+    "name": "Saint Louis Buvette",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "yes",
+    "source": "survey",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.saintlouis-buvette.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12017251394
+}

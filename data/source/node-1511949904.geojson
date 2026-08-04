@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1027257,
+      47.1727494
+    ]
+  },
+  "properties": {
+    "id": 1511949904,
+    "addr:city": "Sursee",
+    "addr:housenumber": "28",
+    "addr:postcode": "6210",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Migros Restaurant Surseepark",
+    "amenity": "restaurant",
+    "branch": "Sursee Surseepark",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-surseepark",
+    "wheelchair": "yes"
+  },
+  "id": 1511949904
+}

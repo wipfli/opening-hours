@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.437385,
+      47.301439
+    ]
+  },
+  "properties": {
+    "id": 2501689499,
+    "addr:city": "Weissbad",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:place": "Schwende",
+    "addr:postcode": "9057",
+    "addr:state": "AI",
+    "addr:street": "K\u00fcchenrain",
+    "amenity": "restaurant",
+    "check_date": "2025-09-11",
+    "cuisine": "regional",
+    "email": "hotel@froheaussicht.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Gasthof Frohe Aussicht, Schwende (AI)",
+    "opening_hours": "Jun-Oct: We-Th off; Jun-Oct: Mo, Tu, Th, Sa 08:00-23:00; Jun-Oct: Su 08:00-22:00; Nov-May: Mo-Tu 10:00-14:00,17:00-21:30; Nov-May: Fr 10:00-14:00,17:00-22:30; Nov-May: Sa 08:00-22:30; Nov-May: Su 08:00-21:00; Nov-May: We-Th off",
+    "phone": "+41 71 799 11 74",
+    "smoking": "no",
+    "website": "https://www.froheaussicht.ch/"
+  },
+  "id": 2501689499
+}

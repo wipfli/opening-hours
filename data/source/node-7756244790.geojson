@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6113205,
+      47.1338175
+    ]
+  },
+  "properties": {
+    "id": 7756244790,
+    "addr:city": "Ober\u00e4geri",
+    "addr:housenumber": "1",
+    "addr:postcode": "6315",
+    "addr:street": "Strandweg",
+    "amenity": "restaurant",
+    "check_date": "2025-07-12",
+    "diet:vegetarian": "yes",
+    "name": "Lago",
+    "opening_hours": "Mo-Su,PH 09:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 754 75 00",
+    "takeaway": "yes",
+    "website": "https://www.aegeribad.ch/geniessen.html"
+  },
+  "id": 7756244790
+}

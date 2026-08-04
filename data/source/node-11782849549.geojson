@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4003817,
+      46.947558
+    ]
+  },
+  "properties": {
+    "id": 11782849549,
+    "amenity": "restaurant",
+    "contact:addr": "Untermattweg 22, 3027 Bern",
+    "contact:phone": "+41 31 9914567",
+    "cuisine": "japanese",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Umai Bern",
+    "opening_hours": "Mo off; Tu-Su 11:00-15:00, 17:00-22:30",
+    "reservation": "yes",
+    "toilets": "yes",
+    "website": "https://www.umai-bern.ch"
+  },
+  "id": 11782849549
+}

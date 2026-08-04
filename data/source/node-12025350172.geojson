@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1799981,
+      47.2575928
+    ]
+  },
+  "properties": {
+    "id": 12025350172,
+    "addr:city": "Reinach AG",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "5734",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Rosengarten",
+    "opening_hours": "Mo-Fr 08:00-22:00",
+    "phone": "+41 62 771 71 00",
+    "website": "https://www.lokalesgewerbe.ch/restaurant-rosengarten"
+  },
+  "id": 12025350172
+}

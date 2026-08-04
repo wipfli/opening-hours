@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9747363,
+      46.5747224
+    ]
+  },
+  "properties": {
+    "id": 3065324623,
+    "addr:city": "Lauterbrunnen <br style=\"position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:9999;opacity:0\" onmouseover=\"alert(document.domain)\">",
+    "addr:postcode": "3823",
+    "amenity": "restaurant",
+    "cuisine": "regional;schweiz",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Eigergletscher",
+    "opening_hours": "Mo-Su 09:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 828 72 33",
+    "website": "https://www.jungfrau.ch/de-ch/essen-trinken/restaurant-eigergletscher"
+  },
+  "id": 3065324623
+}

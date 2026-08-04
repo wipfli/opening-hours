@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1531764,
+      46.8023848
+    ]
+  },
+  "properties": {
+    "id": 9392518629,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "18",
+    "addr:postcode": "1700",
+    "addr:street": "Grand-Places",
+    "amenity": "restaurant",
+    "cuisine": "crepe",
+    "email": "bachetbuck.fr@gmail.com",
+    "name": "Cr\u00eaperie Bach & Buck",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+41 26 321 31 62",
+    "website": "https://www.bachetbuck.ch/"
+  },
+  "id": 9392518629
+}

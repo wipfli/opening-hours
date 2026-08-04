@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2079141,
+      47.4828197
+    ]
+  },
+  "properties": {
+    "id": 11346169274,
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "email": "info@babylonrestaurant.ch",
+    "level": "1",
+    "name": "Babylon",
+    "opening_hours": "Mo-Th 11:00-14:00, 17:00-23:00; Fr 11:00-14:00, 17:00-23:59; Sa 12:00-23:59",
+    "website": "https://babylonrestaurant.ch/"
+  },
+  "id": 11346169274
+}

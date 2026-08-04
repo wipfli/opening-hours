@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6701255,
+      47.2288259
+    ]
+  },
+  "properties": {
+    "id": 307670012,
+    "addr:housenumber": "16",
+    "addr:postcode": "8820",
+    "addr:street": "T\u00fcrgass",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@laleonessa-waedi.ch",
+    "name": "Ristorante La Leonessa",
+    "opening_hours": "Mo 17:30-22:00; Tu-Fr 11:00-14:00,17:00-22:30; Sa 17:00-22:30",
+    "phone": "+41 44 501 87 98",
+    "website": "https://www.laleonessa-waedi.ch/"
+  },
+  "id": 307670012
+}

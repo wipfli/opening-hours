@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6115013,
+      47.2889928
+    ]
+  },
+  "properties": {
+    "id": 2379814616,
+    "access:covid19": "yes",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "R\u00f6ssli zur Vogtei",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 915 14 95",
+    "takeaway:covid19": "yes",
+    "website": "https://www.rest-breiti.ch/"
+  },
+  "id": 2379814616
+}

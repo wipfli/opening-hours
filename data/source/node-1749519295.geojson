@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7424416,
+      47.1848164
+    ]
+  },
+  "properties": {
+    "id": 1749519295,
+    "addr:city": "Feusisberg",
+    "addr:housenumber": "5",
+    "addr:postcode": "8835",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Feld",
+    "opening_hours": "Mo-Fr 08:30-23:30; Su,PH 09:30-21:30; We off",
+    "phone": "+41 44 784 00 36",
+    "website": "https://www.feld-feusisberg.ch/"
+  },
+  "id": 1749519295
+}

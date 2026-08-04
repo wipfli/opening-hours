@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7293139,
+      47.3596225
+    ]
+  },
+  "properties": {
+    "id": 269423285,
+    "amenity": "restaurant",
+    "name": "Buchholz",
+    "opening_hours": "Tu-Fr 10:30-14:00,17:30-24:00; Sa 11:00-24:00; Su 11:00-21:00",
+    "phone": "+41 44 941 00 00",
+    "toilets:wheelchair": "yes",
+    "website": "http://ristorante-buchholz.ch",
+    "wheelchair": "yes"
+  },
+  "id": 269423285
+}

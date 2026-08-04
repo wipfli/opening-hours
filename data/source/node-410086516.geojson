@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.460555,
+      46.950927
+    ]
+  },
+  "properties": {
+    "id": 410086516,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "31b",
+    "addr:postcode": "3006",
+    "addr:street": "Alter Aargauerstalden",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "contact:email": "info@rosengarten.be",
+    "contact:facebook": "https://www.facebook.com/rosengartenbern",
+    "contact:fax": "+41 31 3313212",
+    "contact:phone": "+41 31 3313206",
+    "indoor_seating": "yes",
+    "name": "Restaurant Rosengarten",
+    "opening_hours": "Mo-Su 09:00-23:30",
+    "outdoor_seating": "yes",
+    "source": "Survey and website",
+    "toilets": "yes",
+    "toilets:wheelchair": "designated",
+    "website": "https://www.rosengarten.be",
+    "wheelchair": "yes"
+  },
+  "id": 410086516
+}

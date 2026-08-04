@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4986268,
+      47.4035729
+    ]
+  },
+  "properties": {
+    "id": 3931770303,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "9",
+    "addr:postcode": "8049",
+    "addr:street": "Kappenb\u00fchlweg",
+    "amenity": "restaurant",
+    "check_date": "2024-02-23",
+    "delivery": "no",
+    "name": "Restaurant am Br\u00fchlbach",
+    "opening_hours": "Mo-Sa 08:30-22:00; Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 344 43 36",
+    "smoking": "outside",
+    "website": "https://ambruehlbach.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3931770303
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4095314,
+      46.974415
+    ]
+  },
+  "properties": {
+    "id": 3603623373,
+    "amenity": "restaurant",
+    "cuisine": "pinsa",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@pinseriaoro.ch",
+    "name": "Pinseria Oro",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa-Su 09:00-17:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30,18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 307 33 38",
+    "website": "https://pinseria-oro.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3603623373
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1421653,
+      46.1973877
+    ]
+  },
+  "properties": {
+    "id": 11605683002,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1205",
+    "addr:street": "Avenue Henri-Dunant",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "delivery": "yes",
+    "email": "info@zemgeneve.ch",
+    "name": "Zem",
+    "opening_hours": "Mo-Sa 10:30-23:00",
+    "phone": "+41 22 781 66 56",
+    "takeaway": "yes",
+    "website": "https://zemgeneve.ch/"
+  },
+  "id": 11605683002
+}

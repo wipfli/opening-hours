@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5424482,
+      47.4096572
+    ]
+  },
+  "properties": {
+    "id": 11848111558,
+    "addr:housenumber": "46",
+    "addr:postcode": "8050",
+    "addr:street": "Baumackerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Han Kitchen",
+    "opening_hours": "Mo, Sa 17:00-22:00; Tu-Fr 11:30-14:00, 17:00-22:00; Su 14:00-22:00",
+    "phone": "+41772682080",
+    "website": "https://hankitchen.ch"
+  },
+  "id": 11848111558
+}

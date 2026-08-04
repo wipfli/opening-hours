@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5203297,
+      47.388899
+    ]
+  },
+  "properties": {
+    "id": 7578000581,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "261",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "alt_name": "Kai Sushi Schiffbau",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Schiffbau",
+    "check_date": "2024-06-04",
+    "cuisine": "sushi",
+    "indoor_seating": "yes",
+    "name": "Kai Sushi",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-23:00; Sa-Su 17:30-23:00",
+    "operator": "Urban Food Culture",
+    "outdoor_seating": "yes",
+    "website": "https://kaisushi.ch/de/standorte/schiffbau/",
+    "wheelchair": "yes"
+  },
+  "id": 7578000581
+}

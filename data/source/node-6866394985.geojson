@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0697961,
+      47.0385215
+    ]
+  },
+  "properties": {
+    "id": 6866394985,
+    "addr:housenumber": "5",
+    "addr:postcode": "8750",
+    "addr:street": "Allmeindstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@kubli.gl",
+    "name": "Restaurant Kubli",
+    "opening_hours": "We-Fr 09:00-14:00, 17:30-23:00; Sa 11:00-14:00, 17:30-23:00; Su 11:00-21:00",
+    "phone": "+41 55 640 27 17",
+    "website": "https://www.kubli.gl/"
+  },
+  "id": 6866394985
+}

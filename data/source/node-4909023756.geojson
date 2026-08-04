@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5357379,
+      47.3706147
+    ]
+  },
   "properties": {
-    "@id": "node/4909023756",
+    "id": 4909023756,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "62",
     "addr:postcode": "8001",
@@ -18,12 +25,5 @@
     "website": "https://www.edomae.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5357379,
-      47.3706147
-    ]
-  },
-  "id": "node-4909023756"
+  "id": 4909023756
 }

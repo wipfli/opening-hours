@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9238682,
+      46.3974317
+    ]
+  },
+  "properties": {
+    "id": 414665980,
+    "addr:city": "Villeneuve",
+    "addr:postcode": "1844",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/restaurantoasis.ch/",
+    "cuisine": "local",
+    "email": "info@restaurantoasis.ch",
+    "name": "L'Oasis",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 965 60 20",
+    "website": "https://www.restaurantoasis.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 414665980
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2760871,
+      46.8404102
+    ]
+  },
+  "properties": {
+    "id": 3782309121,
+    "addr:city": "Heitenried",
+    "addr:country": "CH",
+    "addr:housenumber": "105",
+    "addr:postcode": "1714",
+    "addr:street": "Niedermuhren",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Sonne",
+    "opening_hours": "Mo-Sa 08:00-24:00; Tu off; Su 08:00-18:00",
+    "operator": "Familie Schmied",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 495 12 32",
+    "website": "https://www.sonnemuhre.ch/"
+  },
+  "id": 3782309121
+}

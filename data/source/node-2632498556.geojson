@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7826505,
+      47.3246835
+    ]
+  },
+  "properties": {
+    "id": 2632498556,
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8620",
+    "addr:street": "Neugrundstrasse",
+    "amenity": "restaurant",
+    "capacity": "200",
+    "cuisine": "regional;seasonal",
+    "email": "restaurant@iwaz.ch",
+    "name": "Restaurant IWAZ",
+    "note": "Official postal adress is Neugrundstrasse 4, 8620 Wetzikon, but the restaurant itself is located in the building Neugrundstrasse 1, 8620 Wetzikon",
+    "opening_hours": "Mo off; Tu-Sa 09:00-23:30, Su 09:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 933 23 66",
+    "smoking": "outside",
+    "website": "https://iwaz.ch/restaurant_iwaz_de.cfm",
+    "wheelchair": "yes"
+  },
+  "id": 2632498556
+}

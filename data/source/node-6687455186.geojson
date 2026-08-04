@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2765767,
+      46.4165276
+    ]
+  },
+  "properties": {
+    "id": 6687455186,
+    "addr:city": "Gland",
+    "addr:housenumber": "16",
+    "addr:postcode": "1196",
+    "addr:street": "Rue de Malagny",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "delivery:covid19": "yes",
+    "name": "Mamma Mia",
+    "opening_hours": "Tu-Su 10:00-14:00,18:00-22:00",
+    "phone": "+41223600808",
+    "source": "local knowledge;website",
+    "website": "https://www.mammamia-pizza.ch/"
+  },
+  "id": 6687455186
+}

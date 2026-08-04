@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7874966,
+      47.3302422
+    ]
+  },
+  "properties": {
+    "id": 13107797525,
+    "addr:housenumber": "4",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "name": "Thai Country",
+    "opening_hours": "Tu-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 76 578 79 08",
+    "website": "thai-country.ch"
+  },
+  "id": 13107797525
+}

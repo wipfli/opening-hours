@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3936585,
+      47.1945407
+    ]
+  },
+  "properties": {
+    "id": 13306230301,
+    "addr:housenumber": "50",
+    "addr:postcode": "2540",
+    "addr:street": "Kirchstrasse",
+    "amenity": "restaurant",
+    "email": "info@restaurant-mazzini.ch",
+    "name": "Mazzini",
+    "opening_hours": "Mo 10:00-14:00; Tu-Sa 10:00-14:00, 17:00-23:00; Su 10:00-14:00, 17:00-21:00",
+    "phone": "+41 79 227 72 82",
+    "website": "https://www.restaurant-mazzini.ch/"
+  },
+  "id": 13306230301
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0448385,
+      47.3925202
+    ]
+  },
+  "properties": {
+    "id": 596124727,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "5000",
+    "addr:street": "Pelzgasse",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "El Camino",
+    "opening_hours": "Mo-We 11:30-14:00,17:00-22:00; Th-Fr 11:30-14:00,17:00-23:00; Sa 10:30-23:00; Su off",
+    "phone": "+41 62 822 36 77",
+    "website": "https://elcamino-aarau.ch/"
+  },
+  "id": 596124727
+}

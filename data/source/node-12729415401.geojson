@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6306552,
+      46.5195874
+    ]
+  },
+  "properties": {
+    "id": 12729415401,
+    "addr:housenumber": "7-9",
+    "addr:postcode": "1003",
+    "addr:street": "Rue du Grand-Ch\u00eane",
+    "amenity": "restaurant",
+    "contact:facebook": "lausannepalace",
+    "contact:instagram": "lausannepalace",
+    "cuisine": "japanese;peruvian",
+    "email": "restauration@lausanne-palace.ch",
+    "name": "Le Matcha Picchu",
+    "opening_hours": "Tu-Sa 12:00-14:00, 19:00-22:00",
+    "phone": "+41 21 331 39 88",
+    "website": "https://www.lausanne-palace.ch/restaurants-bars/matcha-picchu/",
+    "website:menu": "https://www.lausanne-palace.ch/fileadmin/documents/lausanne-palace.ch/pdf/Restaurants/Cartes/MENU_MATCHA_PICCHU.pdf"
+  },
+  "id": 12729415401
+}

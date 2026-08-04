@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4650872,
+      46.9412365
+    ]
+  },
+  "properties": {
+    "id": 11703444045,
+    "addr:city": "Bern",
+    "addr:housenumber": "108",
+    "addr:postcode": "3006",
+    "addr:street": "Thunstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Muna",
+    "opening_hours": "Mo-Fr 10:00-22:00, Sa 17:00-23:00",
+    "phone": "+41 31 368 08 08",
+    "website": "https://ristorante-muna.ch"
+  },
+  "id": 11703444045
+}

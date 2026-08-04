@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9440214,
+      47.303363
+    ]
+  },
+  "properties": {
+    "id": 551457208,
+    "amenity": "restaurant",
+    "name": "Alp Scheidegg",
+    "opening_hours": "Mo-Tu off; We-Sa 10:00-23:00; Su 11:00-21:00",
+    "opening_hours:kitchen": "We-Fr 11:30-14:00,17:30-21:00; Sa 11:30-15:00,17:00-21:00; Su 11:30-15:00,17:00-20:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.alpscheidegg.ch/"
+  },
+  "id": 551457208
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6527064,
+      46.5251013
+    ]
+  },
+  "properties": {
+    "id": 6066686747,
+    "amenity": "restaurant",
+    "check_date": "2024-05-30",
+    "cuisine": "sushi",
+    "indoor_seating": "no",
+    "name": "Hokaido",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 653 03 36",
+    "takeaway": "only",
+    "website": "https://www.hokaidolausanne.ch/"
+  },
+  "id": 6066686747
+}

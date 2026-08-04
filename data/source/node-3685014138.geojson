@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222008,
+      47.3900195
+    ]
+  },
+  "properties": {
+    "id": 3685014138,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "316",
+    "addr:postcode": "8005",
+    "addr:street": "Hardstrasse",
+    "alt_name": "Brooklyn Burgermeister Escher-Wyss",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Industrie",
+    "check_date": "2025-08-07",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Brooklyn Burgermeister",
+    "opening_hours": "Mo-Sa 11:00-23:00",
+    "opening_hours:covid19": "Mo-Sa 12:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.brooklyn-burgermeister.ch/escherwyss/",
+    "wheelchair": "no"
+  },
+  "id": 3685014138
+}

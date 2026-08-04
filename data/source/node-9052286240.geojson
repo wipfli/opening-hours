@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2491843,
+      47.1413402
+    ]
+  },
+  "properties": {
+    "id": 9052286240,
+    "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
+    "addr:housenumber": "11",
+    "addr:postcode": "2502",
+    "addr:street": "Rue du Milieu / Mittelstrasse",
+    "addr:street:de": "Mittelstrasse",
+    "addr:street:fr": "Rue du Milieu",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizza Italia",
+    "opening_hours": "Mo-Th 11:00-22:30; Fr,Sa 11:00-23:30; Su,PH 17:00-22:00",
+    "phone": "+41 32 341 14 14",
+    "website": "http://www.pizzaitalia.ch"
+  },
+  "id": 9052286240
+}

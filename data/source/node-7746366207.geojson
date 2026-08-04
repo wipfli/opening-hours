@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7978352,
+      47.5551575
+    ]
+  },
+  "properties": {
+    "id": 7746366207,
+    "addr:city": "Rheinfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "4310",
+    "addr:street": "Lindenstrasse",
+    "alt_name": "Migros Restaurant Rheinfelden",
+    "amenity": "restaurant",
+    "branch": "Rheinfelden",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-rheinfelden"
+  },
+  "id": 7746366207
+}

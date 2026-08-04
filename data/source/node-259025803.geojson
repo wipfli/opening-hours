@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4437685,
+      46.9434176
+    ]
+  },
+  "properties": {
+    "id": 259025803,
+    "addr:city": "Bern",
+    "addr:housenumber": "25",
+    "addr:postcode": "3005",
+    "addr:street": "Marzilistrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-09",
+    "contact:instagram": "https://www.instagram.com/pappelapappbern",
+    "diet:vegan": "only",
+    "diet:vegetarian": "yes",
+    "email": "info@pappelapapp.ch",
+    "indoor_seating": "yes",
+    "name": "Pappelapapp",
+    "opening_hours": "Tu-Th 11:30-22:00; Fr 16:00-23:00; Sa 14:00-23:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 31 317 54 77",
+    "website": "https://pappelapapp.ch",
+    "website:menu": "https://drive.google.com/file/d/1bsdKY4rMW_0HJvlhtpp0-1UNlNHPvJtK/view",
+    "wheelchair": "no"
+  },
+  "id": 259025803
+}

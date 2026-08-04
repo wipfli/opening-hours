@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4854595,
+      47.387399
+    ]
+  },
+  "properties": {
+    "id": 613703877,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8048",
+    "addr:street": "Lindenplatz",
+    "amenity": "restaurant",
+    "check_date": "2024-08-20",
+    "cuisine": "regional",
+    "email": "brasserie@spirgarten.ch",
+    "indoor_seating": "yes",
+    "name": "Brasserie Spirgarten",
+    "opening_hours": "Mo-Sa 07:00-23:00; Su 07:30-11:30",
+    "operator": "Best Western",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 438 15 55",
+    "toilets": "yes",
+    "website": "http://www.brasserie-spirgarten.ch/en/",
+    "wheelchair": "yes"
+  },
+  "id": 613703877
+}

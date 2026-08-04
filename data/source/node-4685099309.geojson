@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5180983,
+      47.178342
+    ]
+  },
+  "properties": {
+    "id": 4685099309,
+    "addr:city": "Zug",
+    "addr:housenumber": "97",
+    "addr:postcode": "6300",
+    "addr:street": "Baarerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;pasta;italian",
+    "name": "Lokal97",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:30, Sa 17:00-22:30, Mo-Fr 07:00-10:00 open \"breakfast\", Sa,Su 08:00-11:00 open \"breakfast\"",
+    "operator": "ConSol - Berufliche Perspektiven",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 729 38 88",
+    "website": "https://lokal97.ch"
+  },
+  "id": 4685099309
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439299,
+      47.3723807
+    ]
+  },
   "properties": {
-    "@id": "node/370841402",
+    "id": 370841402,
     "amenity": "restaurant",
     "check_date": "2025-08-04",
     "check_date:opening_hours": "2025-08-04",
@@ -13,12 +20,5 @@
     "website": "https://www.raclette-factory.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5439299,
-      47.3723807
-    ]
-  },
-  "id": "node-370841402"
+  "id": 370841402
 }

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4482025,
+      47.0555426
+    ]
+  },
+  "properties": {
+    "id": 10875486077,
+    "addr:city": "Bangerten",
+    "addr:housenumber": "1",
+    "addr:postcode": "3256",
+    "addr:street": "Deisswilstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wirtschaft zum L\u00f6wen",
+    "opening_hours": "We-Sa 17:30-23:30; Su 10:00-17:00",
+    "opening_hours:url": "https://www.loewen-bangerten.ch/open",
+    "phone": "+41 31 869 02 30",
+    "website": "https://www.loewen-bangerten.ch/"
+  },
+  "id": 10875486077
+}

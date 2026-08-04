@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0539763,
+      47.3913588
+    ]
+  },
+  "properties": {
+    "id": 3662674261,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "68",
+    "addr:postcode": "5000",
+    "addr:street": "Hintere Bahnhofstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-24",
+    "cuisine": "mexican",
+    "email": "info@frohsinn-aarau.ch",
+    "name": "Restaurant Frohsinn",
+    "opening_hours": "Mo-Th 08:30-14:00,17:00-23:30; Fr 08:30-14:00,17:00-24:00; Sa 17:00-24:00",
+    "opening_hours:url": "https://frohsinn-aarau.ch/kontakt/",
+    "phone": "+41 62 823 77 88",
+    "website": "https://frohsinn-aarau.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3662674261
+}

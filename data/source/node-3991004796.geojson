@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5304753,
+      46.8483329
+    ]
+  },
+  "properties": {
+    "id": 3991004796,
+    "addr:city": "Chur",
+    "addr:housenumber": "11",
+    "addr:postcode": "7000",
+    "addr:street": "Kupfergasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Meridiana",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:30-23:00; Su 17:30-23:00",
+    "phone": "+41 81 253 13 07",
+    "website": "https://www.meridianachur.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3991004796
+}

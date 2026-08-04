@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.280693,
+      47.0696494
+    ]
+  },
+  "properties": {
+    "id": 12811521206,
+    "addr:city": "Emmen",
+    "addr:housenumber": "13a",
+    "addr:postcode": "6020",
+    "addr:street": "Gerliswilstrasse",
+    "amenity": "restaurant",
+    "brand": "Hans im Gl\u00fcck",
+    "brand:wikidata": "Q22569868",
+    "cuisine": "burger",
+    "name": "Hans im Gl\u00fcck",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "phone": "+41415111144",
+    "website": "https://hansimglueck-burgergrill.ch/burger-restaurant/emmen-4viertel/"
+  },
+  "id": 12811521206
+}

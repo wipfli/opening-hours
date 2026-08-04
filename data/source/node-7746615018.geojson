@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4903926,
+      47.0157687
+    ]
+  },
+  "properties": {
+    "id": 7746615018,
+    "addr:city": "Moosseedorf",
+    "addr:housenumber": "11",
+    "addr:postcode": "3302",
+    "addr:street": "Gewerbestrasse",
+    "alt_name": "Migros Restaurant Moosb\u00fchl",
+    "amenity": "restaurant",
+    "branch": "Sch\u00f6nb\u00fchl Moosb\u00fchl",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 09:00-18:00, Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-schoenbuehl-moosbuehl"
+  },
+  "id": 7746615018
+}

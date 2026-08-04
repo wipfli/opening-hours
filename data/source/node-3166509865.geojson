@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.374873,
+      47.427274
+    ]
+  },
+  "properties": {
+    "id": 3166509865,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "28",
+    "addr:postcode": "9000",
+    "addr:street": "Metzgergasse",
+    "amenity": "restaurant",
+    "name": "Krug",
+    "opening_hours": "Tu-Th 11:00-23:00, Fr 11:00-01:00, Sa 16:00-01:00",
+    "website": "https://www.krugstgallen.ch/"
+  },
+  "id": 3166509865
+}

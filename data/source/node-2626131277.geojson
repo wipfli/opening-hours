@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5446422,
+      47.3326814
+    ]
+  },
+  "properties": {
+    "id": 2626131277,
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "30",
+    "addr:postcode": "8802",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-24",
+    "check_date:opening_hours": "2025-09-24",
+    "email": "info@moenchhof-am-see.ch",
+    "indoor_seating": "yes",
+    "location": "lakeside",
+    "name": "M\u00f6nchhof am See",
+    "opening_hours": "Mar-Sep 11:30-24:00",
+    "operator": "Pumpstation Gastro",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 715 50 09",
+    "website": "https://www.moenchhof-am-see.ch/",
+    "website:menu": "https://www.moenchhof-am-see.ch/media/moenchhof_speisekarte-de.pdf"
+  },
+  "id": 2626131277
+}

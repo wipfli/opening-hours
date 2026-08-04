@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8053968,
+      46.3939552
+    ]
+  },
+  "properties": {
+    "id": 2398768793,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-14",
+    "contact:facebook": "https://www.facebook.com/restaurantbellevuevalais/",
+    "contact:instagram": "https://www.instagram.com/bellevue_valais/",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g1878272-d21220335-Reviews-Bellevue_Restaurant-Saint_Gingolph_Canton_of_Valais_Swiss_Alps.html",
+    "email": "info@bellevue-restaurant.ch",
+    "name": "Bellevue",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "phone": "+41 24 481 62 72",
+    "website": "info@bellevue-restaurant.ch"
+  },
+  "id": 2398768793
+}

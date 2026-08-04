@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7172595,
+      47.5052041
+    ]
+  },
+  "properties": {
+    "id": 359695274,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "23",
+    "addr:postcode": "8400",
+    "addr:street": "Walkestrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-07-07",
+    "cuisine": "pizza;kebab",
+    "delivery": "yes",
+    "name": "Piazza",
+    "old_name": "Blumenthal",
+    "opening_hours": "Mo-Th 17:00-22:30, Fr 17:00-23:00, Sa 12:00-23:00, Su 12:00-22:00",
+    "phone": "+41522260202",
+    "takeaway": "yes",
+    "website": "https://www.piazzapizza.ch/"
+  },
+  "id": 359695274
+}

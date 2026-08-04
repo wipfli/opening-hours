@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0676231,
+      46.2304478
+    ]
+  },
+  "properties": {
+    "id": 12468587001,
+    "addr:housenumber": "1",
+    "addr:postcode": "1217",
+    "addr:street": "Place de la Diversit\u00e9",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 Hortus",
+    "opening_hours": "Mo-Fr 11:00-23:30",
+    "phone": "+41 22 782 05 05",
+    "website": "https://cafehortus.ch/"
+  },
+  "id": 12468587001
+}

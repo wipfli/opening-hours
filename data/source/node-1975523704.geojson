@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5054134,
+      47.4262082
+    ]
+  },
+  "properties": {
+    "id": 1975523704,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "15",
+    "addr:postcode": "8046",
+    "addr:street": "Katzenseestrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-16",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Wirtschaft Unterdorf",
+    "opening_hours": "Mo off; Tu-Sa 09:00-23:00; Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 371 63 11",
+    "website": "https://wirtschaft-unterdorf.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1975523704
+}

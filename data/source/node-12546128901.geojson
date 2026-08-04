@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1386164,
+      46.1966095
+    ]
+  },
+  "properties": {
+    "id": 12546128901,
+    "addr:housenumber": "79",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "email": "contact@entrecote-stjean.ch",
+    "name": "L'entrec\u00f4te Saint-Jean",
+    "opening_hours": "Tu-Fr 12:00-14:00,19:30-22:00; Sa 19:30-22:00",
+    "phone": "+41 22 321 99 41",
+    "website": "https://www.entrecote-saintjean.ch/"
+  },
+  "id": 12546128901
+}

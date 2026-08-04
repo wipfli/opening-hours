@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5297093,
+      47.1573969
+    ]
+  },
+  "properties": {
+    "id": 2046816568,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@blasenberg.ch",
+    "name": "Blasenberg",
+    "opening_hours": "Tu-We off; Su 10:00-21:00; Th-Fr 10:00-24:00; Mo 10:00-24:00",
+    "phone": "+41 41 711 05 44",
+    "website": "https://www.blasenberg.ch/"
+  },
+  "id": 2046816568
+}

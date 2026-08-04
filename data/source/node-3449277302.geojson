@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5766312,
+      46.8440263
+    ]
+  },
+  "properties": {
+    "id": 3449277302,
+    "addr:city": "Wichtrach",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "3114",
+    "addr:street": "Schulhausstrasse",
+    "alt_name": "Hotel Restaurant Kreuz",
+    "amenity": "restaurant",
+    "contact:fax": "+41 31 7811197",
+    "contact:phone": "+41 31 7810215",
+    "name": "Kreuz",
+    "opening_hours": "Mo 17:00-23:30; Tu-Su 08:30-23:30",
+    "source": "survey and website",
+    "website": "https://www.kreuzwichtrach.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3449277302
+}

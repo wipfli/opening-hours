@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4894957,
+      47.3796628
+    ]
+  },
+  "properties": {
+    "id": 4443781227,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "53",
+    "addr:postcode": "8047",
+    "addr:street": "Freilagerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-02-04",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "La Trattoria Freilager",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa 17:00-23:00; Su,Mo,PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 492 09 09",
+    "website": "https://restaurant-freilager.ch/"
+  },
+  "id": 4443781227
+}

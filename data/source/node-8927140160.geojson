@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9332673,
+      46.3182653
+    ]
+  },
+  "properties": {
+    "id": 8927140160,
+    "addr:city": "Aigle",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "1860",
+    "addr:street": "All\u00e9e Ferdi K\u00fcbler",
+    "amenity": "restaurant",
+    "capacity": "120",
+    "check_date:opening_hours": "2025-06-12",
+    "name": "Le V\u00e9lodrome",
+    "opening_hours": "May 01-Oct 30 Mo-Fr 08:00-17:30; May 01-Oct 30 Sa,Su 09:00-18:00; Nov 01-Apr 30 Sa,Su 10:00-16:00",
+    "operator": "Union Cycliste Internationale",
+    "phone": "+41 24 468 59 21",
+    "website": "https://www.cmc-aigle.ch/velodrome",
+    "wikidata": "Q125331620"
+  },
+  "id": 8927140160
+}

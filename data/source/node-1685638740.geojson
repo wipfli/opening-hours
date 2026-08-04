@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6393375,
+      46.7157197
+    ]
+  },
+  "properties": {
+    "id": 1685638740,
+    "addr:city": "Essertines-sur-Yverdon",
+    "addr:housenumber": "1",
+    "addr:postcode": "1417",
+    "addr:street": "Route d'Yverdon",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Balance",
+    "opening_hours": "Mo-Tu 07:00-14:00; We-Th 07:00-23:00; Fr 07:00-00:00; Sa 10:00-14:45, 18:00-23:30",
+    "phone": "+4124 435 18 50",
+    "website": "https://www.restaurant-la-balance.ch/"
+  },
+  "id": 1685638740
+}

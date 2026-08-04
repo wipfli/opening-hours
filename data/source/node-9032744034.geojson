@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.348248,
+      46.2298474
+    ]
+  },
+  "properties": {
+    "id": 9032744034,
+    "addr:housenumber": "81",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Jo Pizza",
+    "opening_hours": "Mo-Th 09:45-14:00, 17:30-22:00; Fr, Sa 09:45-14:00, 17:30-23:00",
+    "phone": "+41273227000",
+    "takeaway": "yes",
+    "website": "https://jopizza.ch/"
+  },
+  "id": 9032744034
+}

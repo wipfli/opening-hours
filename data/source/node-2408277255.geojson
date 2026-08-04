@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5603796,
+      47.4510018
+    ]
+  },
+  "properties": {
+    "id": 2408277255,
+    "amenity": "restaurant",
+    "cuisine": "asian;chinese;international;italian;pizza;sausage",
+    "delivery": "no",
+    "email": "flughafen.air@autogrill.net",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "2",
+    "name": "Air Restaurant",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa,Su 07:00-20:00",
+    "opening_hours:kitchen": "Mo-Su 10:00-18:00",
+    "operator": "Autogrill Schweiz AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 552 81 28",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://air-zrh.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2408277255
+}

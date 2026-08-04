@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4561593,
+      47.4823769
+    ]
+  },
+  "properties": {
+    "id": 6899009598,
+    "amenity": "restaurant",
+    "check_date": "2024-06-23",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "email": "info@dielipizza.ch",
+    "facebook": "https://de-de.facebook.com/pages/category/Restaurant/Central-Caf%C3%A9-Dielsdorf-245003369398142/",
+    "internet_access": "wlan",
+    "name": "Dieli",
+    "opening_hours": "10:00-23:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41446662525",
+    "website": "https://dielipizza.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 6899009598
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5849614,
+      47.3239743
+    ]
+  },
+  "properties": {
+    "id": 5827666868,
+    "addr:housenumber": "68",
+    "addr:street": "G\u00fcggel",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bergwirtschaft G\u00fcggel",
+    "opening_hours": "Tu-Su 08:00-18:00",
+    "phone": "+41 62 394 11 73",
+    "website": "https://www.bergwirtschaft-gueggel.ch/"
+  },
+  "id": 5827666868
+}

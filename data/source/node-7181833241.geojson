@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0038355,
+      46.6004106
+    ]
+  },
+  "properties": {
+    "id": 7181833241,
+    "addr:city": "Grindelwald",
+    "addr:postcode": "3818",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Berghaus Alpiglen",
+    "opening_hours": "Mo-Su 07:00-20:30",
+    "phone": "+41 33 853 11 30",
+    "website": "https://alpiglen.ch/"
+  },
+  "id": 7181833241
+}

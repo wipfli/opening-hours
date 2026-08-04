@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.015933,
+      47.508043
+    ]
+  },
+  "properties": {
+    "id": 1428169489,
+    "amenity": "restaurant",
+    "capacity": "30",
+    "cuisine": "indian",
+    "internet_access": "no",
+    "name": "Kaschmir",
+    "opening_hours": "Su-Tu 10:00-14:00,17:00-23:00; Sa 17:00-23:00",
+    "operator": "Gulzar und Dina Butt",
+    "phone": "+41 62 871 12 76",
+    "smoking": "no",
+    "website": "https://www.kaschmir-frick.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1428169489
+}

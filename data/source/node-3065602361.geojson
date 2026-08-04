@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1377475,
+      46.2040278
+    ]
+  },
+  "properties": {
+    "id": 3065602361,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "23",
+    "addr:postcode": "1204",
+    "addr:street": "Rue de la Coulouvreni\u00e8re",
+    "amenity": "restaurant",
+    "name": "Le 23",
+    "opening_hours": "Tu,We 12:00-14:00,17:30-24:00, Th,Fr 12:00-14:00,17:30-01:00, Sa 18:30-01:00",
+    "website": "https://www.le23.ch/"
+  },
+  "id": 3065602361
+}

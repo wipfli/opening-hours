@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1268693,
+      46.9122518
+    ]
+  },
+  "properties": {
+    "id": 7647615837,
+    "addr:city": "M\u00fcnchenwiler",
+    "addr:postcode": "1797",
+    "amenity": "restaurant",
+    "email": "info@schloss-muenchenwiler.ch",
+    "name": "Schloss M\u00fcnchenwiler",
+    "opening_hours": "Mo-Sa 09:00-23:00; Su 09:00-17:00",
+    "phone": "+41 26 672 81 81",
+    "website": "https://www.schloss-muenchenwiler.ch/restaurant/"
+  },
+  "id": 7647615837
+}

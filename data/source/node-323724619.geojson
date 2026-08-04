@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.395011,
+      47.2798801
+    ]
+  },
+  "properties": {
+    "id": 323724619,
+    "addr:city": "Ottenbach",
+    "addr:housenumber": "32",
+    "addr:postcode": "8913",
+    "addr:street": "Muristrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Reussbr\u00fccke",
+    "opening_hours": "Tu-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 760 11 61",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.reussbruecke.ch",
+    "wheelchair": "yes"
+  },
+  "id": 323724619
+}

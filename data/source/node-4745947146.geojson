@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9890736,
+      46.2422685
+    ]
+  },
+  "properties": {
+    "id": 4745947146,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Lau's Kitchen",
+    "opening_hours": "Tu-Su 12:00-14:30,18:30-23:00; Fr,Sa 12:00-14:30,18:30-00:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 24 471 56 78",
+    "website": "https://www.restaurant-laus-kitchen.ch/"
+  },
+  "id": 4745947146
+}

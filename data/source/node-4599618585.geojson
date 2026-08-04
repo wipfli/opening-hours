@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5567442,
+      46.7292437
+    ]
+  },
+  "properties": {
+    "id": 4599618585,
+    "addr:city": "Lenzerheide",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "7078",
+    "addr:street": "Voa Sporz",
+    "amenity": "restaurant",
+    "check_date": "2025-03-07",
+    "check_date:opening_hours": "2025-03-07",
+    "name": "Bergcaf\u00e9 Aurora",
+    "opening_hours": "Mo-Su 06:30-18:30",
+    "phone": "+41 81 384 13 32",
+    "website": "https://www.cafeaurora.ch/"
+  },
+  "id": 4599618585
+}

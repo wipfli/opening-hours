@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314061,
+      47.3439691
+    ]
+  },
+  "properties": {
+    "id": 10050498068,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "29",
+    "addr:postcode": "8038",
+    "addr:street": "Albisstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-19",
+    "cuisine": "thai",
+    "name": "Winit's TakeAway",
+    "opening_hours": "Mo-Fr 11:30-19:30",
+    "website": "https://www.winits.ch/winitstakeaway/"
+  },
+  "id": 10050498068
+}

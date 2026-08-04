@@ -1,0 +1,52 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5374793,
+      47.409767
+    ]
+  },
+  "properties": {
+    "id": 105443906,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "186",
+    "addr:postcode": "8050",
+    "addr:street": "Regensbergstrasse",
+    "air_conditioning": "no",
+    "alt_name": "Gabbiano Pizza & Pasta",
+    "amenity": "restaurant",
+    "bar": "no",
+    "check_date": "2025-05-04",
+    "check_date:opening_hours": "2025-05-04",
+    "cuisine": "pizza;italian;burger",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Gabbiano",
+    "opening_hours": "Tu-Fr 10:30-14:00, Tu-Sa 17:00-22:00; Mo off, Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:apple_pay": "yes",
+    "payment:contactless": "yes",
+    "payment:google_pay": "yes",
+    "payment:lunch_check": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:nfc": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:twint": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "phone": "+41 43 321 23 93",
+    "reservation": "yes",
+    "smoking": "outside",
+    "source": "survey",
+    "takeaway": "yes",
+    "website": "https://www.gabbiano-exp.ch/",
+    "wheelchair": "no"
+  },
+  "id": 105443906
+}

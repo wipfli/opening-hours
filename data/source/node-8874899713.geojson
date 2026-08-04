@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7209909,
+      47.5012179
+    ]
+  },
+  "properties": {
+    "id": 8874899713,
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Tayyeb Burger",
+    "opening_hours": "Tu-Th 11:00-14:00,17:00-21:00; Fr 15:00-21:00; Sa,Su 12:00-21:00",
+    "takeaway": "yes",
+    "website": "https://www.tayyebburger.ch/"
+  },
+  "id": 8874899713
+}

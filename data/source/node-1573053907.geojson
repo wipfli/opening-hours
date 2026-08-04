@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3085235,
+      47.0532125
+    ]
+  },
+  "properties": {
+    "id": 1573053907,
+    "amenity": "restaurant",
+    "attraction:ref": "12",
+    "check_date": "2026-02-06",
+    "ele": "440",
+    "indoor_seating": "yes",
+    "name": "Restaurant Caf\u00e9 De Ville",
+    "opening_hours": "Mo-Fr 07:00-19:30; Sa 07:00-18:30; Su 09:00-18:00; PH 09:00-18:00",
+    "outdoor_seating": "no",
+    "sightseeingtour:attraction": "yes",
+    "website": "https://www.cafedeville.ch/"
+  },
+  "id": 1573053907
+}

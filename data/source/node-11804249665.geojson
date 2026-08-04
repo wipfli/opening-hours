@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3069697,
+      47.049848
+    ]
+  },
+  "properties": {
+    "id": 11804249665,
+    "addr:housenumber": "13",
+    "addr:street": "Theaterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-26",
+    "check_date:opening_hours": "2026-06-26",
+    "cuisine": "kebab",
+    "diet:halal": "yes",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "name": "Abi's Luzern Kebab",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "source": "survey",
+    "website": "https://abis-luzern.ch/"
+  },
+  "id": 11804249665
+}

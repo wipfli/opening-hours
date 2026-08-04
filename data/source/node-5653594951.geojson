@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5360057,
+      47.3678271
+    ]
+  },
   "properties": {
-    "@id": "node/5653594951",
+    "id": 5653594951,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "19",
     "addr:postcode": "8002",
@@ -17,12 +24,5 @@
     "website": "https://onapoke.com/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5360057,
-      47.3678271
-    ]
-  },
-  "id": "node-5653594951"
+  "id": 5653594951
 }

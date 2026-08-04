@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5263104,
+      47.3933515
+    ]
+  },
+  "properties": {
+    "id": 1358238518,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "28",
+    "addr:postcode": "8037",
+    "addr:street": "Kyburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-03-30",
+    "cuisine": "syrian",
+    "email": "info@restaurantdamas.ch",
+    "indoor_seating": "yes",
+    "name": "Damas",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-23:30; Sa-Su 12:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 818 29 12",
+    "website": "https://restaurantdamas.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1358238518
+}

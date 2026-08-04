@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6496899,
+      46.8754215
+    ]
+  },
+  "properties": {
+    "id": 9652356994,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "54",
+    "addr:postcode": "6460",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Akaziengarten",
+    "opening_hours": "Mo,We-Fr 08:00-24:00, Sa-Su 09:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "http://akaziengarten.ch"
+  },
+  "id": 9652356994
+}

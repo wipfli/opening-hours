@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7210708,
+      46.0300393
+    ]
+  },
+  "properties": {
+    "id": 294171060,
+    "amenity": "restaurant",
+    "breakfast": "yes",
+    "capacity": "48",
+    "contact:person": "Biner Hugo",
+    "dinner": "yes",
+    "dog": "on_request",
+    "drinking_water": "yes",
+    "ele": "2337",
+    "food": "yes",
+    "name": "Berggasthaus Trift",
+    "opening_hours": "Jun-Sep",
+    "operator": "Familie Hugo und Fabienne Biner",
+    "owner": "Hugo Biner",
+    "phone": "+41 79 408 70 20",
+    "place": "isolated_dwelling",
+    "rooms": "separable_group",
+    "rooms:family": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.zermatt.ch/trift"
+  },
+  "id": 294171060
+}

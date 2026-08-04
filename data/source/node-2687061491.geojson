@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.44202,
+      46.947
+    ]
+  },
+  "properties": {
+    "id": 2687061491,
+    "addr:city": "Bern",
+    "addr:housenumber": "3",
+    "addr:postcode": "3011",
+    "addr:street": "Gurtengasse",
+    "alt_name": "Tibits Bern Gurtengasse",
+    "amenity": "restaurant",
+    "branch": "Bern Gurtengasse",
+    "brand": "tibits",
+    "changing_table": "yes",
+    "contact:addr": "Gurtengasse 3, 3011 Bern",
+    "contact:email": "reservation.gurtengasse@tibits.ch",
+    "contact:facebook": "https://www.facebook.com/tibitsBernGurtengasse",
+    "contact:fax": "+41 31 313 02 23",
+    "contact:phone": "+41 31 313 02 22",
+    "delivery": "no",
+    "diet:halal": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "man_made": "surveillance",
+    "name": "Tibits",
+    "opening_hours": "Mo-We 07:00-23:00; Th-Fr 07:00-23:30; Sa 08:00-23:30; Su 09:00-22:00",
+    "operator": "Tibits",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "source": "website and survey",
+    "surveillance": "public",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.tibits.ch/de/restaurants/standorte#tibits-bern",
+    "wheelchair": "yes"
+  },
+  "id": 2687061491
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1475347,
+      47.4367814
+    ]
+  },
+  "properties": {
+    "id": 7726910000,
+    "addr:city": "Veltheim AG",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "5106",
+    "addr:street": "Oberdorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;ice_cream;pizza;burger;german",
+    "email": "office@baeren-veltheim.ch",
+    "name": "B\u00e4ren Veltheim",
+    "opening_hours": "Tu-Fr 09:00-14:00,17:30-22:30; Sa 17:30-22:30; Su,Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 443 08 00",
+    "website": "https://baeren-veltheim.ch/"
+  },
+  "id": 7726910000
+}

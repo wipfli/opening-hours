@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.09056,
+      46.9137608
+    ]
+  },
+  "properties": {
+    "id": 3348431383,
+    "addr:city": "Greng",
+    "addr:housenumber": "19",
+    "addr:postcode": "3280",
+    "addr:street": "De Castella-Platz",
+    "amenity": "restaurant",
+    "name": "La Tavola Pronta",
+    "opening_hours": "Tu-Sa 11:45-14:30,18:00-23:30",
+    "phone": "+41 31 382 66 33",
+    "website": "http://www.schloss-taverne-greng.ch"
+  },
+  "id": 3348431383
+}

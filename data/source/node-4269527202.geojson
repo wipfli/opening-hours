@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8791106,
+      45.982159
+    ]
+  },
+  "properties": {
+    "id": 4269527202,
+    "addr:housenumber": "66",
+    "addr:postcode": "6983",
+    "addr:street": "Via Cantonale",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "email": "postmaster@darenato.ch",
+    "inscription": "Ristorante - Pizzeria Da Renato; sala fumatori; Pizza da asporto",
+    "name": "Da Renato",
+    "opening_hours": "We-Mo 10:30-14:00, 17:00-24:00",
+    "phone": "+4191 606 76 78",
+    "smoking": "separated",
+    "takeaway": "yes",
+    "website": "https://www.darenato.ch/"
+  },
+  "id": 4269527202
+}

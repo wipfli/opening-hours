@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7709101,
+      47.3695625
+    ]
+  },
+  "properties": {
+    "id": 1532664503,
+    "addr:city": "Pf\u00e4ffikon ZH",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8330",
+    "addr:street": "Speerstrasse",
+    "amenity": "restaurant",
+    "name": "Schneiders Quer",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "website": "https://www.schneidersquer.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1532664503
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6397655,
+      47.6956995
+    ]
+  },
+  "properties": {
+    "id": 1717939880,
+    "amenity": "restaurant",
+    "check_date": "2026-02-23",
+    "cuisine": "italian",
+    "name": "Casanova",
+    "opening_hours": "11:00-22:30, Oct-Apr: Tu-Fr 14:00-17:00 off, Oct-Apr: Mo off",
+    "website": "https://www.casanova-sh.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1717939880
+}

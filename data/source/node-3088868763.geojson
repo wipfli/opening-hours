@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9021962,
+      47.5608486
+    ]
+  },
+  "properties": {
+    "id": 3088868763,
+    "addr:housenumber": "98",
+    "addr:postcode": "8500",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Pizzeria La Pergola",
+    "opening_hours": "Tu-Sa 11:00-14:00,18:00-23:00; Su 17:00-22:00",
+    "website": "https://www.pizza-pergola.ch/"
+  },
+  "id": 3088868763
+}

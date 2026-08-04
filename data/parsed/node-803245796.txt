@@ -1,7 +1,0 @@
-The website shows:
-- Wednesday (Mittwoch): 18:00–24:00
-- Thursday to Saturday (Donnerstag bis Samstag): 18:00–24:00
-
-So the restaurant is open Wednesday through Saturday, 18:00–24:00.
-
-We-Sa 18:00-24:00

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4492694,
+      46.9483356
+    ]
+  },
+  "properties": {
+    "id": 6195333578,
+    "addr:housenumber": "57",
+    "addr:street": "Rathausgasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-19",
+    "contact:addr": "Rathausgasse 57, 3011 Bern",
+    "cuisine": "vietnamese",
+    "email": "hungry@eatcantin.ch",
+    "name": "c\u0103ntin eatery",
+    "opening_hours": "Mo-Fr 12:00-14:00, 18:00-21:00",
+    "phone": "+41 76 505 68 86",
+    "website": "https://www.eatcantin.ch/"
+  },
+  "id": 6195333578
+}

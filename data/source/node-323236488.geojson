@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3420476,
+      47.4947604
+    ]
+  },
+  "properties": {
+    "id": 323236488,
+    "addr:city": "Ehrendingen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "5420",
+    "addr:street": "Schmiedhofstrasse",
+    "amenity": "restaurant",
+    "email": "rolf.k41@bluewin.ch",
+    "name": "Restaurant Amp\u00e8re",
+    "opening_hours": "Mo-Th 08:30-00:15, Fr-Sa 08:30-02:00",
+    "phone": "+41 56 222 93 73",
+    "website": "https://www.restaurant-ampere.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 323236488
+}

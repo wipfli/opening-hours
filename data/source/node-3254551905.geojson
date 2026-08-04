@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6299721,
+      46.7597949
+    ]
+  },
+  "properties": {
+    "id": 3254551905,
+    "addr:city": "Thun",
+    "addr:housenumber": "2",
+    "addr:postcode": "3600",
+    "addr:street": "Schlossberg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Schlossberg Thun Restaurant",
+    "opening_hours": "Tu-Sa 09:30-23:30; Su 09:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 227 75 00",
+    "website": "https://www.schlosshotelthun.ch/restaurant.html"
+  },
+  "id": 3254551905
+}

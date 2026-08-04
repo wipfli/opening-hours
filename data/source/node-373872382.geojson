@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6057433,
+      47.0006798
+    ]
+  },
+  "properties": {
+    "id": 373872382,
+    "addr:city": "Brunnen",
+    "addr:housenumber": "23",
+    "addr:postcode": "6440",
+    "addr:street": "Rosengartenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;saisonal",
+    "email": "info@pluspunkt.ch",
+    "highchair": "yes",
+    "internet_access": "wlan",
+    "name": "Pluspunkt",
+    "opening_hours": "Mo off; Tu,We,Su 09:00-16:30; Th,Fr 09:00-22:00; Sa 09:00-23:00",
+    "phone": "+41 41 825 11 80",
+    "reservation": "recommended",
+    "website": "https://www.pluspunkt.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 373872382
+}

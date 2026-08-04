@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6264268,
+      47.3968243
+    ]
+  },
+  "properties": {
+    "id": 5162609952,
+    "addr:housenumber": "1",
+    "addr:postcode": "8600",
+    "addr:street": "Oskar-Bider-Strasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-27",
+    "cuisine": "thai",
+    "name": "Suweena",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00; Su off",
+    "outdoor_seating": "yes",
+    "self_service": "no",
+    "takeaway": "yes",
+    "website": "https://www.suweena.ch/"
+  },
+  "id": 5162609952
+}

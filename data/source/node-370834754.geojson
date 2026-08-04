@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441177,
+      47.3756656
+    ]
+  },
   "properties": {
-    "@id": "node/370834754",
+    "id": 370834754,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "68",
@@ -17,12 +24,5 @@
     "website": "https://www.n68.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5441177,
-      47.3756656
-    ]
-  },
-  "id": "node-370834754"
+  "id": 370834754
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5964143,
+      47.5630636
+    ]
+  },
+  "properties": {
+    "id": 9832402717,
+    "addr:housenumber": "69",
+    "addr:postcode": "4057",
+    "addr:street": "Hammerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Restaurant Thai Family",
+    "opening_hours": "Tu-Fr 11:30-14:30,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41616814045",
+    "smoking": "no",
+    "website": "https://www.thaifamily.ch/"
+  },
+  "id": 9832402717
+}

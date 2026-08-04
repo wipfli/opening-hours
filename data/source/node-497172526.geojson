@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0399222,
+      47.4118258
+    ]
+  },
+  "properties": {
+    "id": 497172526,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@roessli-kirchberg.ch",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Mo-Fr 11:00-14:00,18:00-23:00; Tu off; We off; Sa 17:00-24:00; Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 931 31 31",
+    "website": "https://roessli-kirchberg.ch"
+  },
+  "id": 497172526
+}

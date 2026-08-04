@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1677699,
+      47.6538635
+    ]
+  },
+  "properties": {
+    "id": 13119175376,
+    "amenity": "restaurant",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "email": "storecafe@swiss-biohealth.com",
+    "name": "soulfood",
+    "opening_hours": "Mo 11:30-16:00; Tu-Fr 09:00-16:00; PH closed",
+    "phone": "+41 71 556 36 85",
+    "takeaway": "yes",
+    "website": "https://soul-food.cafe/"
+  },
+  "id": 13119175376
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4925808,
+      47.3837393
+    ]
+  },
+  "properties": {
+    "id": 5067121881,
+    "amenity": "restaurant",
+    "email": "info@buckhuser.ch",
+    "name": "Restaurant Buckhuser",
+    "opening_hours": "Mo-Su 06:30-24:00",
+    "phone": "+41 58 204 87 87",
+    "website": "https://www.buckhuser.ch/de",
+    "wheelchair": "yes"
+  },
+  "id": 5067121881
+}

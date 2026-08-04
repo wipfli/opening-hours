@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6418872,
+      46.5412548
+    ]
+  },
+  "properties": {
+    "id": 1722755832,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "77",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin de Boissinnet",
+    "amenity": "restaurant",
+    "cuisine": "cambodian;japanese",
+    "description": "Restaurant Cambodgien",
+    "name": "Bel'Asia",
+    "opening_hours": "We-Su 11:30-22:00",
+    "phone": "+41216518047",
+    "website": "https://belasia.ch"
+  },
+  "id": 1722755832
+}

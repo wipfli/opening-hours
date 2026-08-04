@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7108669,
+      47.507301
+    ]
+  },
+  "properties": {
+    "id": 412728346,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "81",
+    "addr:postcode": "8400",
+    "addr:street": "W\u00fclflingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "(Blumenau) Li-Beirut",
+    "opening_hours": "Mo-Th 11:30-14:00, 18:00-22:00; Fr-Sa 18:00-22:00",
+    "takeaway": "yes",
+    "website": "http://Li-beirut.ch"
+  },
+  "id": 412728346
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4407181,
+      46.9442625
+    ]
+  },
+  "properties": {
+    "id": 2608380080,
+    "access": "private",
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "3000",
+    "addr:street": "Taubenstrasse",
+    "alt_name": "Cafeteria Taubenhalde A",
+    "amenity": "restaurant",
+    "contact:email": "taubenhalde@zfv.ch",
+    "contact:fax": "+41 31 3186571",
+    "contact:phone": "+41 31 3228555",
+    "name": "Taubenhalde A",
+    "old_name": "Kantine Taubenhalde",
+    "opening_hours": "Mo-Fr 08:30-16:30; Sa-Su off",
+    "operator": "Genossenschaft ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "source": "website and survey",
+    "website": "https://zfv.ch/de/microsites/cafeteria-taubenhalde-a"
+  },
+  "id": 2608380080
+}

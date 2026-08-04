@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4466301,
+      46.9491473
+    ]
+  },
+  "properties": {
+    "id": 6089176318,
+    "amenity": "restaurant",
+    "check_date": "2025-08-05",
+    "contact:addr": "N\u00e4geligasse 1a, 3011 Bern",
+    "contact:email": "willkommen@viertewand.ch",
+    "contact:facebook": "https://www.facebook.com/Vierte-Wand-840509899672426",
+    "contact:phone": "+41 31 3295200",
+    "name": "Vierte Wand",
+    "opening_hours": "Mo-Su 11:30-23:30",
+    "source": "Survey and website",
+    "website": "https://www.viertewand.ch"
+  },
+  "id": 6089176318
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3769306,
+      47.4222236
+    ]
+  },
+  "properties": {
+    "id": 1235885020,
+    "addr:city": "St. Gallen",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "9000",
+    "addr:street": "St.Georgen-Strasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Spl\u00fcgen",
+    "opening_hours": "Tu-Sa 17:00-22:00+",
+    "website": "https://www.restaurantspl\u00fcgen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1235885020
+}

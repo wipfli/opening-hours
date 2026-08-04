@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0483332,
+      47.4579267
+    ]
+  },
+  "properties": {
+    "id": 1369207020,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante & Pizzeria La Primavera",
+    "opening_hours": "Mo, We-Sa 11:00-14:00, 17:00-23:00; Su 11:00-14:00, 17:00-22:00",
+    "phone": "+41 71 571 08 38",
+    "toilets": "yes",
+    "website": "https://laprimavera.ch"
+  },
+  "id": 1369207020
+}

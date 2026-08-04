@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4378004,
+      47.4600784
+    ]
+  },
+  "properties": {
+    "id": 4000751771,
+    "addr:city": "Buchs ZH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8107",
+    "addr:street": "Weinbergstrasse",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "spanish",
+    "name": "Weinberg",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:30",
+    "phone": "+41 44 554 74 75",
+    "start_date": "1881",
+    "website": "https://www.weinberg-buchs.ch/index.html",
+    "wheelchair": "no"
+  },
+  "id": 4000751771
+}

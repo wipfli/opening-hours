@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8351731,
+      47.1039815
+    ]
+  },
+  "properties": {
+    "id": 8793069763,
+    "addr:postcode": "2300",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "restaurant@brasseriedeletoile.ch",
+    "name": "Brasserie de l'Etoile",
+    "opening_hours": "Mo 07:30-19:00; Tu-Fr 07:30-23:00; Sa 08:00-00:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 968 29 54",
+    "website": "https://brasseriedeletoile.ch"
+  },
+  "id": 8793069763
+}

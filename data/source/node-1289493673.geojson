@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.413888,
+      46.9208526
+    ]
+  },
+  "properties": {
+    "id": 1289493673,
+    "addr:city": "K\u00f6niz",
+    "addr:housename": "Haberhuus",
+    "addr:housenumber": "9",
+    "addr:postcode": "3098",
+    "addr:street": "Muhlernstrasse",
+    "alt_name": "Restaurant zum Schloss",
+    "amenity": "restaurant",
+    "check_date": "2025-10-15",
+    "cuisine": "regional",
+    "email": "restaurant@zum-schloss.ch",
+    "name": "Zum Schloss",
+    "old_name": "Schloss",
+    "opening_hours": "Tu 10:00-17:00; We-Fr 11:00-23:00; Sa 15:00-23:00",
+    "opening_hours:kitchen": "Tu-Sa 11:30-14:00,18:00-21:00",
+    "phone": "+41 31 533 07 58",
+    "website": "https://www.zum-schloss.ch/"
+  },
+  "id": 1289493673
+}

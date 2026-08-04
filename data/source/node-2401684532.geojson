@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3420435,
+      46.7515952
+    ]
+  },
+  "properties": {
+    "id": 2401684532,
+    "addr:city": "Tenna",
+    "addr:housenumber": "29",
+    "addr:postcode": "7106",
+    "addr:street": "Ausserberg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Pistenbeizli",
+    "opening_hours": "Mo-Su 09:30-16:30",
+    "phone": "+41 76 778 68 97",
+    "website": "https://pistenbeizli.ch/"
+  },
+  "id": 2401684532
+}

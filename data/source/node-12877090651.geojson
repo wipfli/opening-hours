@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8140625,
+      47.2261233
+    ]
+  },
+  "properties": {
+    "id": 12877090651,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8640",
+    "addr:street": "Quaistrasse",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Cou Cou",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-22:00",
+    "phone": "+41 55 556 33 47",
+    "website": "https://www.coucou-restaurant.ch/"
+  },
+  "id": 12877090651
+}

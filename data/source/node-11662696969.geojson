@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4771642,
+      47.1667919
+    ]
+  },
+  "properties": {
+    "id": 11662696969,
+    "addr:city": "Buchs SG",
+    "addr:housenumber": "7",
+    "addr:postcode": "9470",
+    "addr:street": "Bahnhofstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "coffee_shop",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "image": "https://images.squarespace-cdn.com/content/v1/6351686f0808371fb042e2e7/2ad406b8-e6d1-4207-87e6-49474212dd2a/AS6_7574.jpg?format=750w",
+    "indoor_seating": "yes",
+    "name": "La Vida",
+    "name:gsw": "La Vida",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr,Sa 08:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 756 51 10",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.lavidabuchs.ch/",
+    "website:menu": "https://www.lavidabuchs.ch/s/la_vida_karte.pdf",
+    "wheelchair": "yes"
+  },
+  "id": 11662696969
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5527434,
+      47.3713446
+    ]
+  },
   "properties": {
-    "@id": "node/4889986281",
+    "id": 4889986281,
     "access": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -22,12 +29,5 @@
     "takeaway": "yes",
     "website": "https://www.zfv.ch/de/essen-gehen/mensa-kantonsschule-raemibuehl"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5527434,
-      47.3713446
-    ]
-  },
-  "id": "node-4889986281"
+  "id": 4889986281
 }

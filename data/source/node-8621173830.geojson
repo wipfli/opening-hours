@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5612005,
+      47.4530605
+    ]
+  },
+  "properties": {
+    "id": 8621173830,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-18",
+    "cuisine": "japanese",
+    "email": "gate-a@yoojis.ch",
+    "level": "1",
+    "name": "Yooji's",
+    "opening_hours": "Mo-Su,PH 06:00-21:00",
+    "phone": "+41 79 855 46 40",
+    "takeaway": "only",
+    "website": "https://www.yoojis.com/",
+    "wheelchair": "yes"
+  },
+  "id": 8621173830
+}

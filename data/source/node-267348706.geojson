@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1165904,
+      47.5667078
+    ]
+  },
+  "properties": {
+    "id": 267348706,
+    "addr:housenumber": "50",
+    "addr:postcode": "8570",
+    "addr:street": "Amriswilerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza",
+    "name": "Toni's Ristorante Piz",
+    "opening_hours": "Tu-Fr 10:00-14:00, 17:00-23:00; Sa 17:00-23:00; Su 17:00-22:00",
+    "phone": "+41716226422",
+    "website": "https://www.tonis-pizzeria.ch/"
+  },
+  "id": 267348706
+}

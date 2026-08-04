@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0396919,
+      46.9322413
+    ]
+  },
+  "properties": {
+    "id": 4461505623,
+    "addr:city": "Vallamand-Dessus",
+    "addr:housenumber": "1",
+    "addr:postcode": "1586",
+    "addr:street": "Route du Grand Pr\u00e9",
+    "amenity": "restaurant",
+    "craft": "winery",
+    "name": "Cave du Tonnelier",
+    "network": "Vully AOC",
+    "opening_hours": "We 14:00-17:30; Fr 09:00-12:00,14:00-17:30; Sa 09:00-12:00",
+    "operator": "Pascal Matthey",
+    "phone": "+41 26 677 12 68",
+    "website": "https://www.cavedutonnelier.ch/"
+  },
+  "id": 4461505623
+}

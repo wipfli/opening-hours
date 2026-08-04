@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5264236,
+      46.8615477
+    ]
+  },
+  "properties": {
+    "id": 506466367,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;pasta",
+    "name": "Ristorante Lacuna",
+    "opening_hours": "Mo 10:00-14:00; Tu-Fr 10:00-14:00,17:30-23:30; Sa 11:00-14:00,17:30-23:30",
+    "phone": "+41 81 284 64 55",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurant-lacuna.ch",
+    "wheelchair": "limited"
+  },
+  "id": 506466367
+}

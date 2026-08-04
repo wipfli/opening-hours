@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5884605,
+      47.5524694
+    ]
+  },
+  "properties": {
+    "id": 6372498635,
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "K\u00fcchlin",
+    "opening_hours": "Mo 11:00-23:00; Tu-Fr 11:00-24:00; Sa 00:00-02:00,11:00-24:00; Su 00:00-02:00,14:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.kuechlin.ch/",
+    "wikidata": "Q17038112"
+  },
+  "id": 6372498635
+}

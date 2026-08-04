@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4403364,
+      46.9486696
+    ]
+  },
+  "properties": {
+    "id": 6855277335,
+    "addr:city": "Bern",
+    "addr:housenumber": "10",
+    "addr:postcode": "3011",
+    "addr:street": "Bahnhofplatz",
+    "air_conditioning": "yes",
+    "alt_name": "Tibits Bern Bahnhof",
+    "amenity": "restaurant",
+    "branch": "Bern Bahnhof",
+    "brand": "tibits",
+    "check_date": "2026-02-06",
+    "cuisine": "international",
+    "diet:halal": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "indoor_seating": "yes",
+    "level": "0;1",
+    "name": "Tibits",
+    "opening_hours": "Mo-Fr 06:30-22:30; Sa-Su,PH 07:30-22:30",
+    "operator": "Tibits",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 31 312 91 11",
+    "website": "https://www.tibits.ch/de/restaurants#tibits-bern",
+    "wheelchair": "yes"
+  },
+  "id": 6855277335
+}

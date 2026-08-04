@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4156853,
+      46.947595
+    ]
+  },
+  "properties": {
+    "id": 9547726418,
+    "addr:city": "Bern",
+    "addr:housenumber": "8",
+    "addr:postcode": "3008",
+    "addr:street": "Holligerhof",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "level": "-1",
+    "name": "DOCK8",
+    "opening_hours": "Mo-We 09:00-17:00; Th,Fr 09:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "phone": "+41 31 312 55 44",
+    "reservation": "yes",
+    "start_date": "2022-02-01",
+    "website": "https://www.dock8.ch/"
+  },
+  "id": 9547726418
+}

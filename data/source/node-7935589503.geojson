@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8452485,
+      46.4595138
+    ]
+  },
+  "properties": {
+    "id": 7935589503,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Le Central Nocente",
+    "opening_hours": "Tu-Sa 11:00-15:00,18:30-24:00",
+    "phone": "+41 21 921 38 51",
+    "website": "https://www.central-nocente.ch/"
+  },
+  "id": 7935589503
+}

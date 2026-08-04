@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3778384,
+      47.4280396
+    ]
+  },
+  "properties": {
+    "id": 2814861501,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "20",
+    "addr:postcode": "9000",
+    "addr:street": "Torstrasse",
+    "amenity": "restaurant",
+    "branch": "St. Gallen",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "Dieci",
+    "opening_hours": "Mo-Th 10:30-13:30,17:00-22:00; Fr-Sa 10:30-13:30,17:00-23:00; Su 11:00-22:00",
+    "phone": "+41 71 243 08 08",
+    "source": "knowledge",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/de/pizzakurier-stgallen"
+  },
+  "id": 2814861501
+}

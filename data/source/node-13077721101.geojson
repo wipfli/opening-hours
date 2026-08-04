@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5103177,
+      46.5866105
+    ]
+  },
+  "properties": {
+    "id": 13077721101,
+    "addr:housenumber": "2",
+    "addr:postcode": "1124",
+    "addr:street": "Place de la D\u00eeme",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "Les 2 fr\u00e8res",
+    "opening_hours": "Tu-Fr 08:00-14:30, 17:00-23:30; Sa 10:00-15:00, 17:00-23:30",
+    "phone": "+41 21 861 36 41",
+    "website": "https://restaurant-les-deux-freres.ch"
+  },
+  "id": 13077721101
+}

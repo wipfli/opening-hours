@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5953339,
+      46.1503802
+    ]
+  },
+  "properties": {
+    "id": 12385370696,
+    "addr:city": "Zinal",
+    "addr:housenumber": "17",
+    "addr:postcode": "3961",
+    "addr:street": "Route de Sorebois",
+    "amenity": "restaurant",
+    "name": "Espace Weisshorn",
+    "opening_hours": "Mo-Su 09:00-16:00",
+    "website": "https://espaceweisshorn.ch/"
+  },
+  "id": 12385370696
+}

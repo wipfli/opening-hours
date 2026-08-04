@@ -1,5 +1,0 @@
-Looking at the website content, this page is specifically showing hours for "Suan Long Oerlikon" at Hofwiesenstrasse 350. However, the OpenStreetMap tags indicate the venue is on **Seefeldstrasse** (i.e., "Suan Long Seefeldstrasse"), which is a different location.
-
-The hours displayed are for the Oerlikon location, not the Seefeldstrasse location. There are no opening hours shown for Suan Long Seefeldstrasse on this page.
-
-UNSURE

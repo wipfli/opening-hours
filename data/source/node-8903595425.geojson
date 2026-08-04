@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8197385,
+      47.2261444
+    ]
+  },
+  "properties": {
+    "id": 8903595425,
+    "addr:city": "Rapperswil SG",
+    "addr:housenumber": "7",
+    "addr:postcode": "8640",
+    "addr:street": "Tiefenaustrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "international",
+    "delivery": "yes",
+    "email": "hello@lennox-restaurant.ch",
+    "name": "Lennox",
+    "opening_hours": "Mo-Th 11:30-22:00; Fr 11:30-24:00; Sa 10:00-24:00; Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "https://lennox-restaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 8903595425
+}

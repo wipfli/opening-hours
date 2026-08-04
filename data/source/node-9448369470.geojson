@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8670716,
+      47.414391
+    ]
+  },
+  "properties": {
+    "id": 9448369470,
+    "addr:city": "H\u00e4felfingen",
+    "addr:housenumber": "19a",
+    "addr:postcode": "4445",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "Alte Lat\u00e4rne",
+    "opening_hours": "Th 16:00-23:00",
+    "website": "https://www.alte-lataerne.ch/"
+  },
+  "id": 9448369470
+}

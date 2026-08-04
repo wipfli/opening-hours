@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4331378,
+      46.9561684
+    ]
+  },
+  "properties": {
+    "id": 447293342,
+    "alt_name": "Restaurant Seidenhof",
+    "amenity": "restaurant",
+    "check_date": "2024-11-20",
+    "contact:addr": "Z\u00e4hringerstrasse 44, 3012 Bern",
+    "contact:email": "info@seidenhof-bern.ch",
+    "contact:phone": "+41 31 3014102",
+    "cuisine": "italian",
+    "name": "Seidenhof",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 16:00-23:00",
+    "operator": "Silvana Di Camillo",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:postcard": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.seidenhof-bern.ch/",
+    "wheelchair": "no"
+  },
+  "id": 447293342
+}

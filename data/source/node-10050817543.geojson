@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9353655,
+      46.9925984
+    ]
+  },
+  "properties": {
+    "id": 10050817543,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "1",
+    "addr:postcode": "2000",
+    "addr:street": "Rue Jean-Jacques-Lallemand",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "indoor_seating": "yes",
+    "name": "Cactus",
+    "opening_hours": "Tu-Sa 11:30-14:00; Tu-Th 18:30-22:30; Fr-Sa 18:30-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 710 08 68",
+    "website": "http://www.cactus-resto.ch/"
+  },
+  "id": 10050817543
+}

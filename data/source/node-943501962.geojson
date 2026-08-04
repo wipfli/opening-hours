@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1805298,
+      47.2562742
+    ]
+  },
+  "properties": {
+    "id": 943501962,
+    "addr:city": "Reinach AG",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "5734",
+    "addr:street": "Pfistergasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Z\u00fcribeck",
+    "opening_hours": "Mo-Tu 11:00-14:00,17:00-23:00; Th-Sa 11:00-14:00,17:00-23:00",
+    "phone": "+41 79 292 92 18",
+    "website": "http://zueribeck-reinach.ch/"
+  },
+  "id": 943501962
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6336577,
+      46.5219686
+    ]
+  },
+  "properties": {
+    "id": 1642174194,
+    "addr:housenumber": "5",
+    "addr:postcode": "1001",
+    "addr:street": "Escaliers du March\u00e9",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Laxmi",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:30-23:00; Su 18:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 323 03 13",
+    "website": "https://www.laxmi.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1642174194
+}

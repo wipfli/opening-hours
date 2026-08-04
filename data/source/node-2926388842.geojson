@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3071763,
+      47.4738944
+    ]
+  },
+  "properties": {
+    "id": 2926388842,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "5400",
+    "addr:street": "Schlossbergplatz",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "email": "hello@manito.ch",
+    "facebook": "https://www.facebook.com/manitobaden/",
+    "name": "Manito",
+    "opening_hours": "Tu-Th 10:00-20:30; Fr,Sa 10:00-22:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 209 04 04",
+    "website": "https://manito.ch/"
+  },
+  "id": 2926388842
+}

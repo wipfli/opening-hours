@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5720938,
+      46.6639878
+    ]
+  },
+  "properties": {
+    "id": 6466201643,
+    "addr:housenumber": "7",
+    "addr:street": "Stradung",
+    "amenity": "restaurant",
+    "email": "sonia.weber76@bluewin.ch",
+    "name": "Sonia's Express Buffet",
+    "old_name": "Expressbuffet",
+    "opening_hours": "Mo-Tu, Th-Fr 07:00-18:00; Sa 08:00-18:00; Su 08:00-13:00",
+    "phone": "+41 81 681 24 25",
+    "website": "https://soniasbuffet.ch",
+    "website:menu": "https://soniasbuffet.ch/menu-page/"
+  },
+  "id": 6466201643
+}

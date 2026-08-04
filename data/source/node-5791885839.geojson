@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.582358,
+      47.3190625
+    ]
+  },
+  "properties": {
+    "id": 5791885839,
+    "addr:city": "K\u00fcsnacht ZH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8700",
+    "addr:street": "Florastrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-10-08",
+    "cuisine": "sushi;pizza;japanese",
+    "delivery": "yes",
+    "name": "Ichiban 178",
+    "opening_hours": "Mo off; Tu-Fr 11:00-14:00,17:30-22:00; Sa-Su 17:30-22:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://ichiban178.ch/kuesnacht/",
+    "wheelchair": "yes"
+  },
+  "id": 5791885839
+}

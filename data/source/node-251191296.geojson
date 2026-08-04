@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3797562,
+      47.5074513
+    ]
+  },
+  "properties": {
+    "id": 251191296,
+    "addr:city": "Niederweningen",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8166",
+    "addr:street": "Alte Stationsstrasse",
+    "amenity": "restaurant",
+    "email": "info@loewen-niederweningen.ch",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo-Fr 07:00-24:00",
+    "phone": "+41 44 856 01 29",
+    "source": "Bing",
+    "website": "http://www.loewen-niederweningen.ch/"
+  },
+  "id": 251191296
+}

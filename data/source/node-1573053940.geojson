@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3142232,
+      47.054706
+    ]
+  },
+  "properties": {
+    "id": 1573053940,
+    "addr:city": "Luzern",
+    "addr:housenumber": "4",
+    "addr:postcode": "6006",
+    "addr:street": "Haldenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "ele": "450",
+    "name": "Jialu",
+    "opening_hours": "Th-Mo 11:00-14:00,18:00-23:00; We 11:00-14:00,18:00-23:00",
+    "phone": "+41 41 410 80 38",
+    "website": "https://www.jialu.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1573053940
+}

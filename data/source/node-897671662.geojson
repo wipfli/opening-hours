@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9369722,
+      46.0108381
+    ]
+  },
+  "properties": {
+    "id": 897671662,
+    "amenity": "restaurant",
+    "check_date": "2025-06-26",
+    "name": "Il golosone",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 10:00-23:00; Su off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 91 966 13 66",
+    "website": "https://www.golosonelugano.ch"
+  },
+  "id": 897671662
+}

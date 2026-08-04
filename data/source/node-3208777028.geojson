@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5956113,
+      47.5658332
+    ]
+  },
+  "properties": {
+    "id": 3208777028,
+    "addr:city": "Basel",
+    "addr:housenumber": "112",
+    "addr:postcode": "4057",
+    "addr:street": "Hammerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Urban Greek",
+    "opening_hours": "Tu-Su 17:30-22:30",
+    "phone": "+41 78 215 73 35",
+    "website": "https://linktr.ee/urbangreek.ch"
+  },
+  "id": 3208777028
+}

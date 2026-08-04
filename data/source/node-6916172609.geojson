@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6234641,
+      46.5247497
+    ]
+  },
+  "properties": {
+    "id": 6916172609,
+    "amenity": "restaurant",
+    "brewery": "Birra Moretti",
+    "contact:facebook": "100085580976009",
+    "contact:instagram": "iris_lausanne",
+    "indoor_seating": "yes",
+    "name": "Iris",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "no",
+    "website": "https://www.iris-restaurant.ch/"
+  },
+  "id": 6916172609
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1436955,
+      46.1964751
+    ]
+  },
+  "properties": {
+    "id": 4533925192,
+    "addr:postcode": "1205",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "internet_access": "wlan",
+    "name": "The Hamburger Foundation",
+    "name:de": "The Hamburger Foundation",
+    "name:en": "The Hamburger Foundation",
+    "name:fr": "The Hamburger Foundation",
+    "opening_hours": "Mo-Su 11:30-22:30",
+    "phone": "+41 22 436 88 70",
+    "website": "https://www.thehamburgerfoundation.ch/en/restaurant-plainpalais.html"
+  },
+  "id": 4533925192
+}

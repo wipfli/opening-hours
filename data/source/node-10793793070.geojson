@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5264887,
+      47.3889195
+    ]
+  },
+  "properties": {
+    "id": 10793793070,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:seafood": "yes",
+    "name": "Elmira",
+    "opening_hours": "We-Sa 18:45-23:00",
+    "website": "https://www.elmira.zuerich"
+  },
+  "id": 10793793070
+}

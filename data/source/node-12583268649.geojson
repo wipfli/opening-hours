@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7597043,
+      47.4842096
+    ]
+  },
+  "properties": {
+    "id": 12583268649,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "244",
+    "addr:postcode": "8405",
+    "addr:street": "T\u00f6sstalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Ginger Haus",
+    "opening_hours": "Mo, We, Sa, Su 17:00-22:00; Tu, Th, Fr 11:30-13:30, 17:00-22:00",
+    "website": "https://www.gingerhaus.ch/"
+  },
+  "id": 12583268649
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3075272,
+      47.4743947
+    ]
+  },
+  "properties": {
+    "id": 2258190403,
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "5400",
+    "addr:street": "Badstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;asian;sushi",
+    "name": "Hirschli",
+    "opening_hours": "Mo-Sa 11:00-00:00",
+    "phone": "+41562100955",
+    "website": "https://www.hirschli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2258190403
+}

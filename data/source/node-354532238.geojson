@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7153952,
+      47.3491276
+    ]
+  },
+  "properties": {
+    "id": 354532238,
+    "addr:city": "Uster",
+    "addr:floor": "0",
+    "addr:housenumber": "7",
+    "addr:postcode": "8610",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-25",
+    "cuisine": "japanese",
+    "name": "Manga Sushi",
+    "opening_hours": "Mo-Fr 11:30-22:00; 14:00-17:00 off; Sa-Su 17:00-22:00; PH \"please call\"",
+    "phone": "+41 44 527 18 88",
+    "website": "https://mangasushi.clay.ch/"
+  },
+  "id": 354532238
+}

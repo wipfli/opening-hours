@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5039291,
+      47.2297365
+    ]
+  },
+  "properties": {
+    "id": 13021716010,
+    "addr:city": "Oberdorf SO",
+    "addr:housenumber": "82",
+    "addr:postcode": "4515",
+    "addr:street": "Weissensteinstrasse",
+    "amenity": "restaurant",
+    "name": "Kreuz Oberdorf",
+    "opening_hours": "Mo-Fr 08:30-14:00; 17:00-23:30",
+    "website": "https://www.kreuz-oberdorf.ch/"
+  },
+  "id": 13021716010
+}

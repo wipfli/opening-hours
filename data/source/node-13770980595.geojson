@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2256919,
+      47.2839313
+    ]
+  },
+  "properties": {
+    "id": 13770980595,
+    "addr:city": "Meisterschwanden",
+    "addr:housenumber": "1",
+    "addr:postcode": "5616",
+    "addr:street": "Seerosenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Samui-Thai",
+    "opening_hours": "Mo-Su 18:00+",
+    "phone": "+41 56 676 68 68",
+    "website": "https://www.seerose.ch/de/restaurant-uebersichtsseite/restaurant-samui-thai"
+  },
+  "id": 13770980595
+}

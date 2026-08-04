@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0896418,
+      46.102815
+    ]
+  },
+  "properties": {
+    "id": 7803901537,
+    "addr:city": "Martigny",
+    "addr:housenumber": "145",
+    "addr:postcode": "1920",
+    "addr:street": "Rue du Levant",
+    "amenity": "restaurant",
+    "email": "caferandonnee@gmail.com",
+    "name": "Caf\u00e9 de la Randonn\u00e9e",
+    "opening_hours": "Mo-Th 06:00-19:30; Fr 06:00-20:00; Sa 07:00-17:00",
+    "phone": "+41 75 423 62 08",
+    "website": "https://www.pellissiersport.ch/contact"
+  },
+  "id": 7803901537
+}

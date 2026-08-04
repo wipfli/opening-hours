@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.327201,
+      47.4493249
+    ]
+  },
+  "properties": {
+    "id": 1050033308,
+    "addr:housenumber": "128A",
+    "addr:postcode": "5432",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-11-01",
+    "cuisine": "italian;local",
+    "email": "info@restaurantlandhaus.ch",
+    "name": "Landhaus",
+    "opening_hours": "Mo-Sa 08:30-00:00",
+    "phone": "+41 56 406 29 37",
+    "website": "https://restaurantlandhaus.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1050033308
+}

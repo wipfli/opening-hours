@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7452328,
+      47.4983999
+    ]
+  },
+  "properties": {
+    "id": 12841576257,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "53",
+    "addr:postcode": "8400",
+    "addr:street": "Geiselweidstrasse",
+    "amenity": "restaurant",
+    "name": "Shalom Gassenk\u00fcche",
+    "opening_hours": "Mo-Fr 11:45-13:00",
+    "website": "https://www.associazione-shalom.ch"
+  },
+  "id": 12841576257
+}

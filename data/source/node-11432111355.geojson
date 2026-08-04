@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6214397,
+      46.526068
+    ]
+  },
+  "properties": {
+    "id": 11432111355,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "38",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue de France",
+    "amenity": "restaurant",
+    "contact:facebook": "61562394714083",
+    "contact:instagram": "ban_restaurant",
+    "cuisine": "vietnamese",
+    "email": "hello@ban-lausanne.com",
+    "name": "B\u1ea1n",
+    "opening_hours": "Tu-Sa 11:30-14:00,18:30-23:30",
+    "phone": "+41 21 320 45 55",
+    "website": "https://ban-lausanne.ch/"
+  },
+  "id": 11432111355
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5884257,
+      47.5528226
+    ]
+  },
+  "properties": {
+    "id": 593094711,
+    "addr:city": "Basel",
+    "addr:housenumber": "32",
+    "addr:postcode": "4051",
+    "addr:street": "Steinenvorstadt",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "VIP",
+    "opening_hours": "Mo 10:00-24:00; Tu-Fr 00:00-01:00,10:00-24:00; Sa 00:00-03:00,10:00-24:00; Su 00:00-03:00,12:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.viprestaurantbar.ch/"
+  },
+  "id": 593094711
+}

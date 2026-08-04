@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4533673,
+      46.9483137
+    ]
+  },
+  "properties": {
+    "id": 3045013204,
+    "alt_name": "Kl\u00f6tzli-Keller",
+    "amenity": "restaurant",
+    "contact:addr": "Gerechtigkeitsgasse 62, 3011 Bern",
+    "contact:email": "andrea.kurth@kloetzlikeller.ch",
+    "contact:phone": "+41 31 3117456",
+    "contact:website": "https://www.kloetzlikeller.ch/kontakt",
+    "name": "Kl\u00f6tzlikeller",
+    "opening_hours": "Tu-Fr 11:30-14:30,18:00-23:30; Sa 18:00-23:30;Nov-Dec Mo-Fr 11:30-14:30,18:00-23:30",
+    "operator": "Aarestadt Gastro GmbH",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.kloetzlikeller.ch",
+    "wheelchair": "limited"
+  },
+  "id": 3045013204
+}

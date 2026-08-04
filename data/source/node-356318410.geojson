@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6390634,
+      47.3704299
+    ]
+  },
+  "properties": {
+    "id": 356318410,
+    "amenity": "restaurant",
+    "name": "Sternen",
+    "opening_hours": "Mo-Fr 09:00-23:00",
+    "phone": "+41 44 510 81 17",
+    "website": "https://www.faellanden-sternen.ch/"
+  },
+  "id": 356318410
+}

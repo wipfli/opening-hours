@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.49933,
+      46.8942538
+    ]
+  },
+  "properties": {
+    "id": 1161624464,
+    "addr:city": "Belp",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "3123",
+    "addr:street": "Schl\u00f6ssliweg",
+    "alt_name": "kiora Restaurant & Bar",
+    "amenity": "restaurant",
+    "check_date": "2025-08-17",
+    "contact:email": "info@kiora.ch",
+    "contact:facebook": "https://www.facebook.com/pages/Kiora/290977443362",
+    "contact:phone": "+41 31 8191704",
+    "name": "Kiora",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa 09:00-23:30",
+    "source": "survey and website",
+    "website": "https://www.kiora.ch",
+    "wheelchair": "no"
+  },
+  "id": 1161624464
+}

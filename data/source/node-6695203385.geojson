@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7920759,
+      47.6361909
+    ]
+  },
+  "properties": {
+    "id": 6695203385,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-01-10",
+    "cuisine": "local",
+    "name": "Besebeiz",
+    "opening_hours": "closed",
+    "website": "http://www.besebeiz.ch",
+    "wheelchair": "yes"
+  },
+  "id": 6695203385
+}

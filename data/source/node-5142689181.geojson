@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3679524,
+      46.9561219
+    ]
+  },
+  "properties": {
+    "id": 5142689181,
+    "addr:city": "Stans",
+    "addr:housenumber": "14",
+    "addr:postcode": "6370",
+    "addr:street": "Schmiedgasse",
+    "amenity": "restaurant",
+    "catering": "yes",
+    "check_date": "2025-09-27",
+    "cuisine": "regional;italian",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@pastarazzi.ch",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/a8/82/62/tresen.jpg",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Pastarazzi",
+    "opening_hours": "Mo-Fr 10:00-13:30",
+    "opening_hours:covid19": "Mo-Fr 11:00-13:00",
+    "organic": "yes",
+    "phone": "+41 41 660 06 69",
+    "takeaway": "yes",
+    "website": "https://www.pastarazzi.ch",
+    "wheelchair": "limited"
+  },
+  "id": 5142689181
+}

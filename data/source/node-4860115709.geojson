@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5455633,
+      47.3672776
+    ]
+  },
   "properties": {
-    "@id": "node/4860115709",
+    "id": 4860115709,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "22",
@@ -21,12 +28,5 @@
     "website": "https://www.sternengrill.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5455633,
-      47.3672776
-    ]
-  },
-  "id": "node-4860115709"
+  "id": 4860115709
 }

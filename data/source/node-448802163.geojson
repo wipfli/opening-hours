@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7268482,
+      46.8700658
+    ]
+  },
+  "properties": {
+    "id": 448802163,
+    "addr:city": "R\u00f6thenbach im Emmental",
+    "addr:housenumber": "254",
+    "addr:postcode": "3538",
+    "addr:street": "Chuderh\u00fcsi",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chuderh\u00fcsi",
+    "opening_hours": "We-Su 10:30-18:00",
+    "phone": "+41 34 491 14 22",
+    "website": "http://www.elrafa.ch/"
+  },
+  "id": 448802163
+}

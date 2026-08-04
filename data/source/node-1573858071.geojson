@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3929748,
+      47.3025452
+    ]
+  },
+  "properties": {
+    "id": 1573858071,
+    "addr:housenumber": "1",
+    "addr:postcode": "8916",
+    "addr:street": "Chriesiweg",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante La Rotonda",
+    "opening_hours": "Mo-Fr 08:00-14:00,17:00+; Sa 17:00+",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30,18:00-21:00; Sa 18:00-21:00",
+    "website": "https://www.ristorante-larotonda.ch/"
+  },
+  "id": 1573858071
+}

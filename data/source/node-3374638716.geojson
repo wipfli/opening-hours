@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2448365,
+      47.1365515
+    ]
+  },
+  "properties": {
+    "id": 3374638716,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "37",
+    "addr:postcode": "2502",
+    "addr:street": "Quai du Bas / Unterer Quai",
+    "addr:street:de": "Unterer Quai",
+    "addr:street:fr": "Quai du Bas",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "royal.bienne@gmail.com",
+    "name": "Royal",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+41 32 323 86 66",
+    "source": "http://www.restaurant-royal.ch/",
+    "website": "https://restaurant-royal.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3374638716
+}

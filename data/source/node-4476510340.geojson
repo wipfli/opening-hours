@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1393903,
+      46.1760774
+    ]
+  },
+  "properties": {
+    "id": 4476510340,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housename": "Battelle B\u00e2timent B",
+    "addr:housenumber": "17",
+    "addr:postcode": "1227",
+    "addr:street": "Rue de La-Tambourine",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 Battelle",
+    "opening_hours": "Mo-Fr 07:30-16:00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.hesge.ch/heg/campus/cafe-battelle"
+  },
+  "id": 4476510340
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6128807,
+      46.5262089
+    ]
+  },
+  "properties": {
+    "id": 3233153499,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "141",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue de Morges",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "Caf\u00e9 de Pr\u00e9laz",
+    "opening_hours": "Mo 08:00-16:00; Tu-Th 08:00-23:00; Fr 08:00-00:00; Sa 09:00-00:00; Su 09:00-16:00",
+    "phone": "+41 21 558 40 90",
+    "smoking": "no",
+    "website": "https://cafedeprelaz.ch/#section-2077",
+    "website:menu": "https://cafedeprelaz.ch/"
+  },
+  "id": 3233153499
+}

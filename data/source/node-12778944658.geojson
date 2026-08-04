@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3081254,
+      46.5085982
+    ]
+  },
+  "properties": {
+    "id": 12778944658,
+    "addr:housenumber": "1",
+    "addr:street": "Rue Baudin",
+    "amenity": "restaurant",
+    "cuisine": "local;grill",
+    "name": "Caf\u00e9 de la Poste",
+    "opening_hours": "Mo, Th, Fr 08:30-14:00, 17:00-22:00; Sa 09:00-14:00, 17:30-22:30; Su 09:00-16:00",
+    "phone": "+41 21 565 70 18",
+    "website": "https://www.cafe-de-la-poste.ch/"
+  },
+  "id": 12778944658
+}

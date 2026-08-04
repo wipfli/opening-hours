@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3064941,
+      47.4758709
+    ]
+  },
+  "properties": {
+    "id": 13914659401,
+    "addr:city": "Baden",
+    "addr:housenumber": "1",
+    "addr:postcode": "5400",
+    "addr:street": "Langhaus",
+    "amenity": "restaurant",
+    "name": "Restaurant Langhaus",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:00; Sa 17:00-23:00",
+    "website": "https://www.baden-langhaus.ch/"
+  },
+  "id": 13914659401
+}

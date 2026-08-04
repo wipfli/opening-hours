@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.818985,
+      47.2283301
+    ]
+  },
+  "properties": {
+    "id": 5451426114,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Thai Orchid",
+    "opening_hours": "Tu-Fr 11:30-15:00,17:30-23:30; Sa-Su 17:30-23:30",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.thaiorchid.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5451426114
+}

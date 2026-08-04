@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5388421,
+      47.3722279
+    ]
+  },
   "properties": {
-    "@id": "node/4833061581",
+    "id": 4833061581,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "25",
@@ -18,12 +25,5 @@
     "phone": "+41 44 211 72 10",
     "website": "https://www.bindella.ch/de/cantinetta-antinori.html"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5388421,
-      47.3722279
-    ]
-  },
-  "id": "node-4833061581"
+  "id": 4833061581
 }

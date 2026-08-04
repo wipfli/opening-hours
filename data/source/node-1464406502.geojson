@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8518278,
+      47.2599583
+    ]
+  },
+  "properties": {
+    "id": 1464406502,
+    "addr:housenumber": "34",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "contact:email": "foodoo.rueti@gmail.com",
+    "contact:instagram": "foodoo_rueti",
+    "contact:mobile": "+41786031228",
+    "cuisine": "japanese; sushi; chinese; thai; asian",
+    "diet:vegetarian": "yes",
+    "name": "Foodoo - Asian Kitchen",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00; Su 12:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41555566996",
+    "website": "https://www.foodoo-asia.ch/"
+  },
+  "id": 1464406502
+}

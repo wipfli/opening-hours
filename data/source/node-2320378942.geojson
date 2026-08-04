@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0534521,
+      47.3402724
+    ]
+  },
+  "properties": {
+    "id": 2320378942,
+    "addr:city": "Muhen",
+    "addr:housenumber": "26",
+    "addr:postcode": "5037",
+    "addr:street": "Hauptstrasse",
+    "alt_name": "Restaurant Bahnhof \"Schn\u00e4gg\"",
+    "amenity": "restaurant",
+    "check_date": "2026-03-14",
+    "check_date:opening_hours": "2026-03-12",
+    "contact:facebook": "https://www.facebook.com/people/Punto-a-Capo-GmbH/61557864814871/",
+    "email": "rest@bahnhof-muhen.ch",
+    "name": "Restaurant Bahnhof",
+    "note": "Janet's Kitchen ist seid 25.02.2026 geschlossen!\nWiederer\u00f6ffnung\u2013 Restaurant Bahnhof Muhen am 16. M\u00e4rz 2026.",
+    "opening_hours": "Mo-Fr 09:00-23:30; Sa 14:00-23:30",
+    "phone": "+41 62 555 22 01",
+    "start_date": "2026-03-16",
+    "website": "https://bahnhof-muhen.ch/",
+    "website:menu": "https://bahnhof-muhen.ch/menus/"
+  },
+  "id": 2320378942
+}

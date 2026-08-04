@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7479413,
+      47.4965966
+    ]
+  },
+  "properties": {
+    "id": 4009059218,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "1",
+    "addr:postcode": "8404",
+    "addr:street": "Industriestrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-10-30",
+    "contact:email": "info@bistrosein.ch",
+    "contact:phone": "+41 52 235 11 05",
+    "name": "Bistro SEIN",
+    "note": "Im Zentrum Gr\u00fcze",
+    "opening_hours": "Tu-Fr 09:00-18:00",
+    "operator": "Verein Mehrwert",
+    "website": "https://www.bistrosein.ch/"
+  },
+  "id": 4009059218
+}

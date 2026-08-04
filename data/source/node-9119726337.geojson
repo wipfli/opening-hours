@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.303619,
+      46.2180368
+    ]
+  },
+  "properties": {
+    "id": 9119726337,
+    "addr:city": "Conthey",
+    "addr:housenumber": "18",
+    "addr:postcode": "1964",
+    "addr:street": "Rue des Foug\u00e8res",
+    "amenity": "restaurant",
+    "name": "Zenh\u00e4usern",
+    "opening_hours": "Mo-Su 06:00-18:30",
+    "phone": "+41275525238",
+    "website": "https://www.chezzen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9119726337
+}

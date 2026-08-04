@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9913226,
+      46.8124204
+    ]
+  },
+  "properties": {
+    "id": 12990024565,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Caf\u00e9-Restaurant des Arbognes",
+    "opening_hours": "Tu-Th 11:00-14:30,17:30-22:30; Fr-Sa 11:00-14:30,17:30-23:30; Su 11:00-17:30",
+    "phone": "+41 26 660 83 19",
+    "website": "https://www.cafe-restaurant-arbognes.ch/"
+  },
+  "id": 12990024565
+}

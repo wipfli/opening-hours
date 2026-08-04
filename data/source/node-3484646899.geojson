@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1540819,
+      46.2102518
+    ]
+  },
+  "properties": {
+    "id": 3484646899,
+    "addr:housenumber": "30",
+    "addr:postcode": "1201",
+    "addr:street": "Quai du Mont-Blanc",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "no",
+    "name": "La Buvette des Bains",
+    "name:fr": "La Buvette des Bains",
+    "opening_hours": "Mo-Su 08:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 738 16 16",
+    "website": "https://buvettedesbains.com/",
+    "wheelchair": "no"
+  },
+  "id": 3484646899
+}

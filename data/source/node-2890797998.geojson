@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6516714,
+      46.8666448
+    ]
+  },
+  "properties": {
+    "id": 2890797998,
+    "addr:city": "Niederh\u00fcnigen",
+    "addr:housenumber": "11",
+    "addr:postcode": "3504",
+    "addr:street": "Haziendaweg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hazienda",
+    "opening_hours": "Th-Sa 17:00-18:00+",
+    "website": "https://www.hazienda-emmental.ch/"
+  },
+  "id": 2890797998
+}

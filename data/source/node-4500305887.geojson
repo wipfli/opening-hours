@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9825005,
+      46.5471118
+    ]
+  },
+  "properties": {
+    "id": 4500305887,
+    "addr:city": "Jungfraujoch",
+    "addr:postcode": "3823",
+    "amenity": "restaurant",
+    "cuisine": "international;regional",
+    "name": "Restaurant Aletsch - Jungfraujoch",
+    "opening_hours": "Mo-Su 09:00-16:30",
+    "phone": "+41 33 828 78 88",
+    "website": "https://www.jungfrau.ch/de-ch/essen-trinken/"
+  },
+  "id": 4500305887
+}

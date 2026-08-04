@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2698734,
+      47.1551243
+    ]
+  },
+  "properties": {
+    "id": 3466020360,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "35",
+    "addr:postcode": "2504",
+    "addr:street": "Route de Soleure / Solothurnstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Rebstock",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa 10:00-23:00",
+    "phone": "+41 32 342 55 82",
+    "website": "https://www.rebstock-restaurant.ch/fr/"
+  },
+  "id": 3466020360
+}

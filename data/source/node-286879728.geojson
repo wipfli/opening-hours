@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.44401,
+      46.9486
+    ]
+  },
+  "properties": {
+    "id": 286879728,
+    "addr:floor": "1",
+    "alt_name": "Molino Thurm",
+    "amenity": "restaurant",
+    "branch": "Bern",
+    "brand": "Molino",
+    "contact:addr": "Waisenhausplatz 13, 3011 Bern",
+    "contact:fax": "+41 31 3116343",
+    "contact:phone": "+41 31 3112171",
+    "cuisine": "italian",
+    "name": "Molino",
+    "old_name": "Thurm",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 10:00-23:00",
+    "operator": "Ospena Group",
+    "source": "survey",
+    "website": "https://molino.ch/de/pizzeria-ristorante-molino-thurm",
+    "wheelchair": "limited"
+  },
+  "id": 286879728
+}

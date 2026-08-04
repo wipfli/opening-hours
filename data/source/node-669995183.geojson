@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3364899,
+      46.8173286
+    ]
+  },
+  "properties": {
+    "id": 669995183,
+    "addr:housenumber": "135",
+    "addr:street": "Sot Prad\u00e8",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "1",
+    "name": "Restorant Fontana",
+    "opening_hours": "Mo-Fr 09:00-23:30; Sa, Su 09:00-00:00",
+    "website": "https://restaurantfontanasentch.webnode.com"
+  },
+  "id": 669995183
+}

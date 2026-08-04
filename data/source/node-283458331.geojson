@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5384828,
+      47.3760268
+    ]
+  },
   "properties": {
-    "@id": "node/283458331",
+    "id": 283458331,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "6",
@@ -21,12 +28,5 @@
     "website": "https://www.samspizza.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5384828,
-      47.3760268
-    ]
-  },
-  "id": "node-283458331"
+  "id": 283458331
 }

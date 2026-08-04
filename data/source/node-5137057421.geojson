@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5909616,
+      47.5440716
+    ]
+  },
+  "properties": {
+    "id": 5137057421,
+    "addr:city": "Basel",
+    "addr:housenumber": "166",
+    "addr:postcode": "4053",
+    "addr:street": "G\u00fcterstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-30",
+    "check_date:opening_hours": "2026-03-22",
+    "contact:facebook": "https://www.facebook.com/sparkwineandcoffeebar/",
+    "contact:instagram": "https://www.instagram.com/sparkrestaurantwineandtapas/",
+    "cuisine": "portuguese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@sparklingventure.com",
+    "indoor_seating": "yes",
+    "name": "Spark - Wine & Coffee Bar",
+    "opening_hours": "Mo-Sa 09:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 78 228 44 94",
+    "smoking": "no",
+    "website": "https://www.sparklingventure.com/"
+  },
+  "id": 5137057421
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.029772,
+      46.157249
+    ]
+  },
+  "properties": {
+    "id": 1108147492,
+    "addr:city": "Evionnaz",
+    "addr:country": "CH",
+    "addr:housenumber": "25",
+    "addr:postcode": "1902",
+    "addr:street": "Rue des Echelles",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-22",
+    "contact:facebook": "https://fr-fr.facebook.com/people/Restaurant-Le-Napol%C3%A9on/100063661175132/",
+    "contact:tripadvisor": "https://www.tripadvisor.fr/Restaurant_Review-g1949594-d6016757-Reviews-Restaurant_le_Napoleon-Evionnaz_Canton_of_Valais_Swiss_Alps.html",
+    "cuisine": "regional",
+    "email": "info@lenapoleon.ch",
+    "name": "Le Napol\u00e9on",
+    "opening_hours": "We-Fr 11:00-14:00,18:00-23:00; Sa 18:00-23:00; Su 11:00-19:30",
+    "phone": "+41277671354",
+    "website": "http://www.lenapoleon.ch"
+  },
+  "id": 1108147492
+}

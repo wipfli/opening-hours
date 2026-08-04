@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6419998,
+      46.5277895
+    ]
+  },
+  "properties": {
+    "id": 5756893723,
+    "amenity": "restaurant",
+    "name": "La Cr\u00eaperie Bretonne",
+    "opening_hours": "Mo-Fr 11:00-14:00, 18:30-21:30",
+    "website": "https://www.lacreperiebretonne.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5756893723
+}

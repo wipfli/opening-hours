@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3728533,
+      46.2278341
+    ]
+  },
+  "properties": {
+    "id": 9192288798,
+    "addr:city": "Sion",
+    "addr:housenumber": "12",
+    "addr:postcode": "1950",
+    "addr:street": "Rue des Casernes",
+    "amenity": "restaurant",
+    "name": "Pavillon des sports",
+    "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-01:00; Sa 08:30-01:00; Su 08:30-23:00",
+    "phone": "+41 27 203 69 69",
+    "website": "https://www.pavillondessports.ch/"
+  },
+  "id": 9192288798
+}

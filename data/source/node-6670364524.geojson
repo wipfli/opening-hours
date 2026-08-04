@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6051436,
+      47.4047808
+    ]
+  },
+  "properties": {
+    "id": 6670364524,
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "5",
+    "addr:place": "Seidenplatz",
+    "addr:postcode": "8304",
+    "amenity": "restaurant",
+    "cuisine": "spanish;steak_house;tapas",
+    "email": "info@simplesteakhouse.ch",
+    "indoor_seating": "yes",
+    "name": "Simple Steakhouse & Tapas Bar",
+    "opening_hours": "Mo,Su,PH off; Tu-Fr 11:30-13:45, 18:00-21:30; Sa 18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 830 03 03",
+    "reservation": "yes",
+    "website": "https://www.simple-steakhouse.ch",
+    "website:booking": "https://reserve.foratable.com/?restaurantHash=031652f047179ecd82680b3eefd92f2f#!/table",
+    "website:menu": "https://www.simple-steakhouse.ch/menue-steaks-tapas-pasta-wallisellen",
+    "wheelchair": "yes"
+  },
+  "id": 6670364524
+}

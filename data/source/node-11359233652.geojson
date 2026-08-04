@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1065658,
+      46.2249978
+    ]
+  },
+  "properties": {
+    "id": 11359233652,
+    "amenity": "restaurant",
+    "capacity": "75",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Seventy5",
+    "opening_hours": "Mo-Fr 12:00-14:00, 19:00-22:00; Su 19:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 710 32 71",
+    "website": "https://geneva.crowneplaza.com/seventy-5/"
+  },
+  "id": 11359233652
+}

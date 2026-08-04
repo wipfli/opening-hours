@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5946389,
+      47.5431685
+    ]
+  },
+  "properties": {
+    "id": 457333463,
+    "addr:city": "Basel",
+    "addr:housenumber": "49",
+    "addr:postcode": "4053",
+    "addr:street": "Bruderholzstrasse",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "indoor_seating": "yes",
+    "name": "Plato",
+    "opening_hours": "Mo-We 11:30-14:00,17:30-23:00; Th-Fr 11:30-14:00,17:30-24:00; Sa 17:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 363 19 76",
+    "smoking": "outside",
+    "website": "https://www.platokitchenbar.ch/"
+  },
+  "id": 457333463
+}

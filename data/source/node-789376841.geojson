@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.198768,
+      46.8558125
+    ]
+  },
+  "properties": {
+    "id": 789376841,
+    "addr:housenumber": "52",
+    "addr:postcode": "3186",
+    "addr:street": "Riedlistrasse",
+    "amenity": "restaurant",
+    "cuisine": "barbecue;italian;coffee_shop;local;regional",
+    "name": "Restaurant Tennishalle D\u00fcdingen",
+    "opening_hours": "Mo-Th 07:30-23:30; Fr 07:30-24:00; Sa 08:00-24:00; Su 08:00-22:00",
+    "phone": "+41 26 493 27 71",
+    "smoking": "no",
+    "website": "http://www.restaurant-tennishalle.ch",
+    "wheelchair": "yes"
+  },
+  "id": 789376841
+}

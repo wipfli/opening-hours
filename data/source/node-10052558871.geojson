@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2774725,
+      47.3872898
+    ]
+  },
+  "properties": {
+    "id": 10052558871,
+    "amenity": "restaurant",
+    "name": "iL Pomodoro",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:30-23:00; Sa-Su 17:30-22:00",
+    "phone": "+41 71 351 13 33",
+    "website": "http://www.ilpomodoro.ch/"
+  },
+  "id": 10052558871
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5864316,
+      47.5505631
+    ]
+  },
+  "properties": {
+    "id": 5948052298,
+    "addr:housenumber": "9",
+    "addr:postcode": "4051",
+    "addr:street": "Binningerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Osteria Little Italy",
+    "opening_hours": "Mo-Fr 18:00-24:00,18:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.osterialittleitaly.ch/"
+  },
+  "id": 5948052298
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5320042,
+      47.3735366
+    ]
+  },
   "properties": {
-    "@id": "node/4857867456",
+    "id": 4857867456,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "2",
@@ -22,12 +29,5 @@
     "wheelchair": "yes",
     "wheelchair:description": "Rollstuhl-WC \u00fcber Treppenlift erreichbar. Treppenlift kann mit Eurokey bedient werden."
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5320042,
-      47.3735366
-    ]
-  },
-  "id": "node-4857867456"
+  "id": 4857867456
 }

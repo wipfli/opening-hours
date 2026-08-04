@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4840378,
+      47.6566621
+    ]
+  },
+  "properties": {
+    "id": 3802817951,
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "Bad Osterfingen",
+    "opening_hours": "We-Su 10:00-23:00",
+    "phone": "+41 52 681 21 21",
+    "restaurant": "single_dish",
+    "website": "https://www.badosterfingen.ch/"
+  },
+  "id": 3802817951
+}

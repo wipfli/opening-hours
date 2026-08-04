@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0237708,
+      46.3406772
+    ]
+  },
+  "properties": {
+    "id": 4909450134,
+    "addr:city": "Bitsch",
+    "addr:housenumber": "184",
+    "addr:postcode": "3982",
+    "addr:street": "Furkastrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Z Matt",
+    "opening_hours": "Tu-Su 09:00-23:00",
+    "phone": "+41793262918",
+    "website": "https://restaurant-zmatt.ch/"
+  },
+  "id": 4909450134
+}

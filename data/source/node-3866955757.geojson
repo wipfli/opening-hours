@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5169598,
+      47.3757826
+    ]
+  },
   "properties": {
-    "@id": "node/3866955757",
+    "id": 3866955757,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "230",
@@ -19,12 +26,5 @@
     "website": "https://www.lochergut.net/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5169598,
-      47.3757826
-    ]
-  },
-  "id": "node-3866955757"
+  "id": 3866955757
 }

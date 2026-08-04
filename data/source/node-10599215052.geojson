@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.128621,
+      46.2284043
+    ]
+  },
+  "properties": {
+    "id": 10599215052,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "140",
+    "addr:postcode": "1211",
+    "addr:street": "Route de Ferney",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Tukul",
+    "opening_hours": "Mo-Fr 08:00-15:00",
+    "website": "https://clients.eurest.ch/msf/fr/Restaurant%20Tukul"
+  },
+  "id": 10599215052
+}

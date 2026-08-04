@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5771542,
+      47.5684242
+    ]
+  },
+  "properties": {
+    "id": 4447974700,
+    "addr:city": "Basel",
+    "addr:housenumber": "63",
+    "addr:postcode": "4056",
+    "addr:street": "Lothringerstrasse",
+    "amenity": "restaurant",
+    "description": "Quartiertreffpunkt St. Johann",
+    "indoor_seating": "yes",
+    "name": "LoLa",
+    "opening_hours": "Mo 11:30-13:30; Tu-Fr 09:30-17:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 321 48 28",
+    "smoking": "outside",
+    "website": "http://www.quartiertreffpunktebasel.ch/quartier-treffpunkte-basel/quartiertreffpunkt-lola/",
+    "wheelchair": "yes"
+  },
+  "id": 4447974700
+}

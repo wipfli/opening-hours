@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6997079,
+      47.4487484
+    ]
+  },
+  "properties": {
+    "id": 96531280,
+    "addr:city": "Kemptthal",
+    "addr:postcode": "8310",
+    "amenity": "restaurant",
+    "branch": "A1 Kemptthal",
+    "brand": "March\u00e9",
+    "check_date:opening_hours": "2023-10-02",
+    "name": "March\u00e9 Kemptthal",
+    "opening_hours": "PH,Mo-Su 06:00-22:00",
+    "operator": "March\u00e9 Restaurants Schweiz",
+    "website": "https://www.marche.ch/de/marche_kemptthal.html",
+    "wheelchair": "yes"
+  },
+  "id": 96531280
+}

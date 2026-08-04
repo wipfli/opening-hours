@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3170617,
+      47.4701447
+    ]
+  },
+  "properties": {
+    "id": 837820800,
+    "addr:city": "Wettingen",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "5430",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "name": "Grenzstein",
+    "opening_hours": "Fr 11:30-14:00,17:30-21:30; Sa 17:30-21:30",
+    "website": "https://restaurant-grenzstein.business.site",
+    "wheelchair": "no"
+  },
+  "id": 837820800
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1031598,
+      46.2955404
+    ]
+  },
+  "properties": {
+    "id": 338856931,
+    "addr:housenumber": "39",
+    "addr:postcode": "1882",
+    "addr:street": "Route des Chaux",
+    "amenity": "restaurant",
+    "name": "Chez Gipsy",
+    "opening_hours": "Mo-Su 09:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 498 11 87",
+    "self_service": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.chezgipsy.ch"
+  },
+  "id": 338856931
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0742488,
+      46.1001968
+    ]
+  },
+  "properties": {
+    "id": 2712805860,
+    "addr:city": "Martigny",
+    "addr:housenumber": "4",
+    "addr:postcode": "1920",
+    "addr:street": "Place du Midi",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-26",
+    "cuisine": "coffee_shop",
+    "name": "Cr\u00eaperie la Romaine",
+    "opening_hours": "Tu-Th 09:00-22:00, Fr 09:00-23:00, Sa 10:00-23:00",
+    "phone": "+41 27 565 35 00",
+    "website": "https://creperielaromaine.ch/",
+    "website:menu": "https://creperielaromaine.ch/#notre-carte"
+  },
+  "id": 2712805860
+}

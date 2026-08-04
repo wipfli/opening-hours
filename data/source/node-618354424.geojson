@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9123252,
+      47.4234516
+    ]
+  },
+  "properties": {
+    "id": 618354424,
+    "access:covid19": "yes",
+    "addr:city": "Schmidr\u00fcti",
+    "addr:housenumber": "5",
+    "addr:postcode": "8495",
+    "addr:street": "Ober-Hamberg",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "regional;sandwich;ice_cream;thai;coffee_shop;seafood;german",
+    "delivery": "yes",
+    "delivery:covid19": "yes",
+    "diet:diabetes": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "drive_through:covid19": "no",
+    "ele": "870",
+    "internet_access": "wlan",
+    "name": "Sternen Sitzberg",
+    "opening_hours": "Mo-Su; We off",
+    "opening_hours:covid19": "Mo,Tu,Th-Su,PH 09:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 385 13 42",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "takeaway:covid19": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://sternen-sitzberg.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 618354424
+}

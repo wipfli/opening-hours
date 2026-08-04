@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7660573,
+      47.5048344
+    ]
+  },
+  "properties": {
+    "id": 13850636027,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "71",
+    "addr:postcode": "8404",
+    "addr:street": "Ida-Str\u00e4uli-Strasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "cuisine": "italian;Swiss;pasta;salad",
+    "email": "willkommen@osteria-a-tavola.ch",
+    "name": "Osteria a tavola",
+    "opening_hours": "We 11:45-14:00;Th 11:45-14:00,18:00-23:00;Fr 11:45-14:00,18:00-24:00;Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 844 62 98",
+    "reservation": "yes",
+    "website": "https://osteria-a-tavola.ch"
+  },
+  "id": 13850636027
+}

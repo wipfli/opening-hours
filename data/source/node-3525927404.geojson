@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8445239,
+      46.4590472
+    ]
+  },
+  "properties": {
+    "id": 3525927404,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "1800",
+    "addr:street": "Place de l'Ancien-Port",
+    "amenity": "restaurant",
+    "cuisine": "crepes",
+    "name": "Cr\u00eaperie de l'Ancien Port",
+    "old_name": "Restaurant 3121",
+    "opening_hours": "Mo-Su 12:00-21:00",
+    "phone": "+41 21 922 10 24",
+    "website": "https://www.creperiedelancienport.ch"
+  },
+  "id": 3525927404
+}

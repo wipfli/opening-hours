@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6404379,
+      46.7650914
+    ]
+  },
+  "properties": {
+    "id": 12059826067,
+    "addr:street": "Avenue des Trois-Lacs",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "mediterranean;pizza;seafood;steak_house",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "highchair": "yes",
+    "internet_access": "yes",
+    "name": "Le Forum Restaurant-Pizzeria",
+    "opening_hours": "Lundi au vendredi 07H00-23H00",
+    "outdoor_seating": "yes",
+    "phone": "+41244255815",
+    "smoking": "outside",
+    "website": "https://leforum-yverdon.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12059826067
+}

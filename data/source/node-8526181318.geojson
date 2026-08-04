@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5322092,
+      46.8494227
+    ]
+  },
+  "properties": {
+    "id": 8526181318,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Mekong",
+    "opening_hours": "Tu-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 81 250 54 00",
+    "takeaway": "yes",
+    "website": "https://www.mekong-chur.ch/"
+  },
+  "id": 8526181318
+}

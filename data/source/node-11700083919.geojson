@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6345589,
+      46.5204048
+    ]
+  },
+  "properties": {
+    "id": 11700083919,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "1003",
+    "addr:street": "Rue de Bourg",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/lecho.lausanne",
+    "contact:instagram": "lecho.restaurant",
+    "description": "Entr\u00e9e par la Rue de Bourg 11",
+    "diet:vegetarian": "only",
+    "name": "L'Echo",
+    "opening_hours": "Mo-Sa 08:00-15:00",
+    "phone": "+41 21 312 08 08",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-lecho.com/"
+  },
+  "id": 11700083919
+}

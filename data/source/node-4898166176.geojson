@@ -1,20 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/4898166176",
-    "addr:housenumber": "150",
-    "addr:street": "Langstrasse",
-    "amenity": "restaurant",
-    "check_date": "2024-01-20",
-    "cuisine": "mediterranean",
-    "diet:vegetarian": "yes",
-    "indoor_seating": "yes",
-    "name": "Neni",
-    "opening_hours": "Mo-Fr 06:30-23:00; Sa-Su 07:30-23:00",
-    "outdoor_seating": "yes",
-    "website": "https://www.neni.ch",
-    "wheelchair": "yes"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -22,5 +7,23 @@
       47.3803007
     ]
   },
-  "id": "node-4898166176"
+  "properties": {
+    "id": 4898166176,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "150",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-21",
+    "cuisine": "mediterranean",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Neni",
+    "opening_hours": "Mo-Fr 12:00-23:00; Sa-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 576 50 05",
+    "website": "https://nenifood.com/restaurants/zurich",
+    "wheelchair": "yes"
+  },
+  "id": 4898166176
 }

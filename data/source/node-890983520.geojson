@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274539,
+      47.3737975
+    ]
+  },
   "properties": {
-    "@id": "node/890983520",
+    "id": 890983520,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "15",
     "addr:street": "Kanzleistrasse",
@@ -13,12 +20,5 @@
     "website": "https://www.ichizen-japan-restaurant.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5274539,
-      47.3737975
-    ]
-  },
-  "id": "node-890983520"
+  "id": 890983520
 }

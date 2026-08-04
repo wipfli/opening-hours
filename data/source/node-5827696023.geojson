@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4529269,
+      47.4834675
+    ]
+  },
+  "properties": {
+    "id": 5827696023,
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;pasta",
+    "delivery": "yes",
+    "description": "Pizzeria",
+    "email": "info@pizzerialatorre.ch",
+    "name": "La Torre",
+    "opening_hours": "Mo-Th 11:00-13:45,17:30-22:00; Fr,Sa 11:00-13:45,17:30-22:30; Su off",
+    "phone": "+41 43 422 01 40",
+    "takeaway": "yes",
+    "website": "https://www.pizzerialatorre.ch/"
+  },
+  "id": 5827696023
+}

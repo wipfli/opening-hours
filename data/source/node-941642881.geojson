@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5498029,
+      47.4073905
+    ]
+  },
+  "properties": {
+    "id": 941642881,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "37",
+    "addr:postcode": "8050",
+    "addr:street": "Schwamendingenstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "check_date": "2025-08-22",
+    "contact:phone": "+41 44 312 05 88",
+    "name": "Restaurant Dorflinde",
+    "opening_hours": "Mo-Fr 06:00-19:00; Sa 07:00-17:00",
+    "operator": "Oelemezler Gastrobetriebe",
+    "outdoor_seating": "yes",
+    "website": "https://oelemezler-gastrobetriebe.ch/restaurant-dorflinde/"
+  },
+  "id": 941642881
+}

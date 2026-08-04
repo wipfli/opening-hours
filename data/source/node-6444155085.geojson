@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3592668,
+      46.2330696
+    ]
+  },
+  "properties": {
+    "id": 6444155085,
+    "addr:city": "Sion",
+    "addr:housenumber": "13",
+    "addr:postcode": "1950",
+    "addr:street": "Rue de Conthey",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "name": "Alex",
+    "opening_hours": "Tu-Th 11:00-14:30,17:30-23:00; Fr-Sa 11:00-14:30,17:30-24:00",
+    "website": "https://www.alexrestaurant.ch/"
+  },
+  "id": 6444155085
+}

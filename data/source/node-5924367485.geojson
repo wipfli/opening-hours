@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5285146,
+      47.3737799
+    ]
+  },
   "properties": {
-    "@id": "node/5924367485",
+    "id": 5924367485,
     "addr:housenumber": "35",
     "addr:street": "Stauffacherstrasse",
     "alt_name": "Mythos Z\u00fcrich",
@@ -17,12 +24,5 @@
     "website": "https://mymythos.ch/de/zuerich/home",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5285146,
-      47.3737799
-    ]
-  },
-  "id": "node-5924367485"
+  "id": 5924367485
 }

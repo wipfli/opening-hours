@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.448942,
+      46.9483726
+    ]
+  },
+  "properties": {
+    "id": 12347717156,
+    "addr:city": "Bern",
+    "addr:housenumber": "61",
+    "addr:postcode": "3011",
+    "addr:street": "Rathausgasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2026-06-16",
+    "check_date:currency:XBT": "2026-06-16",
+    "check_date:opening_hours": "2026-06-16",
+    "contact:facebook": "capitolbern",
+    "contact:instagram": "capitol_bern",
+    "cuisine": "international;burger;local;brunch",
+    "currency:XBT": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@capitolbern.ch",
+    "name": "Capitol Restaurant & Bar",
+    "opening_hours": "Mo 16:00-23:30; Tu-We 11:30-23:30; Th-Fr 11:30-00:30; Sa 11:00-00:30",
+    "outdoor_seating": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "yes",
+    "phone": "+41 31 312 16 75",
+    "website": "https://capitolbern.ch/",
+    "website:menu": "https://capitolbern.ch/menu-lunch/"
+  },
+  "id": 12347717156
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.562839,
+      47.296773
+    ]
+  },
+  "properties": {
+    "id": 3844761197,
+    "addr:city": "Thalwil",
+    "addr:housenumber": "40",
+    "addr:postcode": "8800",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "info@donleone-delivery.ch",
+    "name": "Don Leone Delivery",
+    "opening_hours": "Mo-Sa 10:00-14:00, 17:00-22:00; Su 17:00-22:00",
+    "phone": "+41 44 722 25 25",
+    "website": "https://donleone-delivery.ch",
+    "website:menu": "https://donleone-delivery.ch/collections/"
+  },
+  "id": 3844761197
+}

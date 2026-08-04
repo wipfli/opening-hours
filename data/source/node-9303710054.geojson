@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6563429,
+      47.0203399
+    ]
+  },
+  "properties": {
+    "id": 9303710054,
+    "addr:city": "Schwyz",
+    "addr:housenumber": "11",
+    "addr:postcode": "6430",
+    "addr:street": "Sonnenpl\u00e4tzli",
+    "amenity": "restaurant",
+    "cuisine": "senegalese",
+    "name": "Teranga chez Maina",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 76 805 83 80",
+    "website": "https://www.terangachezmaina.ch/"
+  },
+  "id": 9303710054
+}

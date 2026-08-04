@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9922055,
+      46.6162255
+    ]
+  },
+  "properties": {
+    "id": 7181832092,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Serlas Pizzeria",
+    "opening_hours": "Mo-Su 12:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 659 00 01",
+    "website": "https://www.serlas.ch/pizzeria/"
+  },
+  "id": 7181832092
+}

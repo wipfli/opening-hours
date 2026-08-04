@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.238849,
+      46.3818435
+    ]
+  },
+  "properties": {
+    "id": 3662931828,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "delivery:covid19": "yes",
+    "internet_access": "wlan",
+    "name": "Sushi Haiku",
+    "opening_hours": "Mo-Su 10:30-14:00, 17:30-21:30",
+    "takeaway": "yes",
+    "website": "http://www.haiku-lausanne.ch/"
+  },
+  "id": 3662931828
+}

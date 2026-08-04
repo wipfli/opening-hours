@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.120049,
+      46.2283206
+    ]
+  },
+  "properties": {
+    "id": 460448894,
+    "addr:housenumber": "17bis",
+    "addr:postcode": "1218",
+    "addr:street": "Rue Sonnex",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@restaurant-cheznina.ch",
+    "name": "Chez Nina",
+    "opening_hours": "Mo-Fr 11:30-15:00,18:00-24:00",
+    "phone": "+41227884278",
+    "website": "https://restaurant-cheznina.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 460448894
+}

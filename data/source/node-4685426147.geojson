@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4578843,
+      47.3991258
+    ]
+  },
+  "properties": {
+    "id": 4685426147,
+    "access": "yes",
+    "addr:city": "Schlieren",
+    "addr:housenumber": "12",
+    "addr:postcode": "8952",
+    "addr:street": "Wagistrasse",
+    "amenity": "restaurant",
+    "amenity_1": "event location",
+    "brand": "ZFV;Z\u00fcrcher Frauen Verein",
+    "capacity": "200",
+    "cuisine": "international;canteen;lunch",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@wagi-s.ch",
+    "internet_access": "wlan",
+    "name": "Wagi S Restaurant, Events, Catering",
+    "opening_hours": "Mo-Fr 11:00-13:30",
+    "opening_hours:kitchen": "Mo-Fr 11:00-13:30",
+    "operator": "ZFV-Unternehmungen",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:lunch_check": "yes",
+    "payment:lunch_pass": "yes",
+    "phone": "+41 43 433 84 77",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.wagi-s.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4685426147
+}

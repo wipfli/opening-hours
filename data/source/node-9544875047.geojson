@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.790814,
+      47.2117022
+    ]
+  },
+  "properties": {
+    "id": 9544875047,
+    "amenity": "restaurant",
+    "check_date": "2024-05-20",
+    "cuisine": "regional",
+    "name": "Zum Rebstock",
+    "opening_hours": "Mo-Sa 09:00-23:30; Su off; PH off",
+    "phone": "+41 62 922 11 69",
+    "website": "https://speisekarte.menu/restaurants/langenthal/rebstock-14"
+  },
+  "id": 9544875047
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8414263,
+      46.4600929
+    ]
+  },
+  "properties": {
+    "id": 7484489789,
+    "addr:city": "Vevey",
+    "addr:housenumber": "9",
+    "addr:postcode": "1800",
+    "addr:street": "Grande Place",
+    "amenity": "restaurant",
+    "contact:email": "mezze.vevey@gmail.com",
+    "contact:instagram": "mezze_vevey",
+    "cuisine": "lebanese;mezze;sandwich;ayran;jellab;rose_syrup;shawarma;kafta;chiche_tawouk;falafel;mouhalabieh;baklawa",
+    "diet:homemade": "yes",
+    "diet:vegetarian": "yes",
+    "instagram": "mezze_vevey",
+    "level": "0",
+    "name": "Mezz\u00e9 & Co",
+    "opening_hours": "Mo-Tu 11:00-17:00; We-Th 11:00-17:00; Su 11:00-17:00; Fr 18:00-22:00; Sa 11:00-22:00",
+    "phone": "+41 21 931 12 34",
+    "takeaway": "yes",
+    "website": "https://mezzeand.co/",
+    "website:menu": "https://mezzeand.co/la-carte-des-mets"
+  },
+  "id": 7484489789
+}

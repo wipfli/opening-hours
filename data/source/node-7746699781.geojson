@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3833017,
+      46.9475682
+    ]
+  },
+  "properties": {
+    "id": 7746699781,
+    "amenity": "restaurant",
+    "branch": "Bern Betlehem",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "check_date:opening_hours": "2021-09-09",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH closed",
+    "operator": "Genossenschaft Migros Aare",
+    "phone": "+41 58 567 60 50",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-bern-bethlehem"
+  },
+  "id": 7746699781
+}

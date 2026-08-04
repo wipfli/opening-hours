@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445743,
+      47.3687595
+    ]
+  },
   "properties": {
-    "@id": "node/270800743",
+    "id": 270800743,
     "amenity": "restaurant",
     "check_date": "2025-07-14",
     "cuisine": "american",
@@ -13,12 +20,5 @@
     "website": "https://www.papajoes.ch/de/Restaurants/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5445743,
-      47.3687595
-    ]
-  },
-  "id": "node-270800743"
+  "id": 270800743
 }

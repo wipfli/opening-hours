@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6351623,
+      46.6408941
+    ]
+  },
+  "properties": {
+    "id": 927277949,
+    "addr:city": "Echallens",
+    "addr:housenumber": "2",
+    "addr:postcode": "1040",
+    "addr:street": "Rue de l'Ancienne Poste",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Il Sarbin",
+    "opening_hours": "Mardi-Samedi : 11:00-15:00 17:00-23.00",
+    "phone": "+41 21 881 17 31",
+    "takeaway": "yes",
+    "website": "https://ilsarbin.ch"
+  },
+  "id": 927277949
+}

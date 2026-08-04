@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4265394,
+      46.9541574
+    ]
+  },
+  "properties": {
+    "id": 550305631,
+    "alt_name": "Restaurant Waldheim",
+    "amenity": "restaurant",
+    "contact:addr": "Waldheimstrasse 40, 3012 Bern",
+    "contact:email": "info@waldheim-bern.ch",
+    "contact:phone": "+41 31 3052424",
+    "cuisine": "french",
+    "indoor_seating": "yes",
+    "name": "Waldheim",
+    "opening_hours": "Tu-Fr 11:00-14:30,18:00-23:30; Sa 18:00-23:30",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.waldheim-bern.ch/"
+  },
+  "id": 550305631
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4362245,
+      47.3007275
+    ]
+  },
+  "properties": {
+    "id": 13775174096,
+    "addr:city": "Schwende",
+    "addr:housenumber": "5",
+    "addr:postcode": "9057",
+    "addr:street": "K\u00fcchenrain",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "cuisine": "regional",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:non-vegetarian": "yes",
+    "diet:vegetarian": "yes",
+    "email": "hotel@alpenblick-appenzell.ch",
+    "highchair": "yes",
+    "name": "Restaurant Alpenblick",
+    "opening_hours": "We-Su",
+    "phone": "+41 71 799 11 73",
+    "website": "https://alpenblick-appenzell.ch/"
+  },
+  "id": 13775174096
+}

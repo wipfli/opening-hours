@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5151409,
+      47.3901151
+    ]
+  },
+  "properties": {
+    "id": 3284823890,
+    "addr:housenumber": "1",
+    "addr:street": "Technoparkstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-13",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "Deli1993",
+    "opening_hours": "Mo-Fr 07:00-15:00; Sa,Su,PH off",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:30",
+    "operator": "ZFV Unternehmungen",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 445 15 47",
+    "takeaway": "yes",
+    "toilets:access": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/gastronomie-im-technopark-zuerich",
+    "website:menu": "https://zfv.ch/de/microsites/gastronomie-im-technopark-zuerich/menueplan",
+    "wheelchair": "yes"
+  },
+  "id": 3284823890
+}

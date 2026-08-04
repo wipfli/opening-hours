@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.911635,
+      47.5650168
+    ]
+  },
+  "properties": {
+    "id": 5092045223,
+    "amenity": "restaurant",
+    "cuisine": "chinese;vietnamese",
+    "level": "0",
+    "name": "Long Long",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-22:30; Sa 17:30-23:00",
+    "takeaway": "yes",
+    "website": "http://long-long.ch/"
+  },
+  "id": 5092045223
+}

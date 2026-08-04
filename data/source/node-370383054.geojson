@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8413267,
+      46.4610845
+    ]
+  },
+  "properties": {
+    "id": 370383054,
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "indoor_seating": "yes",
+    "name": "China House",
+    "opening_hours": "Mo, We-Su 18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 922 48 08",
+    "takeaway": "yes",
+    "website": "https://www.chinahousevevey.ch"
+  },
+  "id": 370383054
+}

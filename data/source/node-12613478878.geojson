@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.314796,
+      47.0550286
+    ]
+  },
+  "properties": {
+    "id": 12613478878,
+    "addr:city": "Luzern",
+    "addr:housenumber": "19",
+    "addr:postcode": "6006",
+    "addr:street": "Haldenstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "contact:instagram": "caaa_lucerne",
+    "cuisine": "regional;italian;french;breakfast;fine_dining;dineology;modern;gourmet",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "caaa@pietrocatalano.ch",
+    "name": "CAAA by Pietro Catalano",
+    "opening_hours": "We-Sa 11:00-23:00",
+    "organic": "yes",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 7679983",
+    "reservation": "recommended",
+    "website": "https://www.pietrocatalano.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12613478878
+}

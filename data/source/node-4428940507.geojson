@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2419327,
+      47.1340026
+    ]
+  },
+  "properties": {
+    "id": 4428940507,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "1",
+    "addr:postcode": "2504",
+    "addr:street": "Place de la Gare / Bahnhofplatz",
+    "addr:street:de": "Bahnhofplatz",
+    "addr:street:fr": "Place de la Gare",
+    "amenity": "restaurant",
+    "check_date": "2026-05-29",
+    "name": "le Time",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:30; Su off",
+    "phone": "+41 32 392 88 88",
+    "website": "http://letime-restaurant-bar.ch/"
+  },
+  "id": 4428940507
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4047537,
+      46.8178472
+    ]
+  },
+  "properties": {
+    "id": 3757906008,
+    "addr:city": "Engelberg",
+    "addr:housenumber": "11",
+    "addr:postcode": "6390",
+    "addr:street": "Engelbergerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional;pasta",
+    "email": "restaurant@sportingpark.ch",
+    "name": "Sporting-Park",
+    "opening_hours": "Mo-Fr 11:30-13:30,17:30-21:00; Sa,Su 11:30-21:00",
+    "phone": "+41 41 639 60 06",
+    "website": "https://sportingpark.ch/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 3757906008
+}

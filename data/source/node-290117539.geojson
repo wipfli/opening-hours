@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4679511,
+      46.9799339
+    ]
+  },
+  "properties": {
+    "id": 290117539,
+    "amenity": "restaurant",
+    "email": "restaurant@tivolicenter.ch",
+    "name": "Tivoli",
+    "opening_hours": "Mo-Fr 09:00-22:30; Sa,Su 09:00-21:00",
+    "phone": "+41 31 921 43 11",
+    "website": "https://restaurant-tivoli.ch"
+  },
+  "id": 290117539
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8023966,
+      47.0843739
+    ]
+  },
+  "properties": {
+    "id": 11398256269,
+    "amenity": "restaurant",
+    "name": "XL Bowling",
+    "opening_hours": "Su, Tu-We 14:00-23:00; Th 14:00-00:00; Fr-Sa 14:00-02:00",
+    "website": "https://xlbowling.ch/"
+  },
+  "id": 11398256269
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6719045,
+      47.2289978
+    ]
+  },
+  "properties": {
+    "id": 2282422912,
+    "addr:housenumber": "5",
+    "addr:postcode": "8820",
+    "addr:street": "Sch\u00f6nenbergstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Triibhuus Waedi",
+    "opening_hours": "Tu-Sa 08:30-20:00",
+    "outdoor_seating": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://triibhuus-waedi.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2282422912
+}

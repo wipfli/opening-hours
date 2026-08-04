@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4380231,
+      46.9479916
+    ]
+  },
+  "properties": {
+    "id": 6483996052,
+    "amenity": "restaurant",
+    "check_date": "2026-02-21",
+    "cuisine": "sushi",
+    "name": "Negishi",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "opening_hours:kitchen": "Mo-Su 11:00-22:00; Su 12:00-21:30",
+    "website": "https://www.negishi.ch/de/bern"
+  },
+  "id": 6483996052
+}

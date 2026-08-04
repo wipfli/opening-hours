@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5050445,
+      47.0443579
+    ]
+  },
+  "properties": {
+    "id": 5582634922,
+    "addr:city": "Jegenstorf",
+    "addr:housenumber": "41",
+    "addr:postcode": "3303",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:mediterranean": "yes",
+    "name": "Apulia",
+    "opening_hours": "We-Mo 11:00-14:00",
+    "phone": "+41 31 503 55 77",
+    "website": "https://apulia-jegenstorf.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5582634922
+}

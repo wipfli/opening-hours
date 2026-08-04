@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4502651,
+      47.0234564
+    ]
+  },
+  "properties": {
+    "id": 7578701920,
+    "amenity": "restaurant",
+    "name": "ILGE",
+    "opening_hours": "Th-Sa 10:00-22:00; Su 10:00-15:00; Mo,Tu,We off",
+    "phone": "+41 81 723 11 82",
+    "website": "https://www.ilge-vilters.ch/"
+  },
+  "id": 7578701920
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3047265,
+      46.2349889
+    ]
+  },
+  "properties": {
+    "id": 9118443085,
+    "addr:city": "St-S\u00e9verin",
+    "addr:housenumber": "11",
+    "addr:postcode": "1975",
+    "addr:street": "Route des Rangs",
+    "amenity": "restaurant",
+    "name": "Les Rangs",
+    "opening_hours": "Mo-We 08:00-14:00,17:00-23:00; Th,Fr 08:00-14:00,17:00-00:00; Sa 08:00-00:00",
+    "phone": "+41275656021",
+    "website": "https://www.lesrangs.ch/"
+  },
+  "id": 9118443085
+}

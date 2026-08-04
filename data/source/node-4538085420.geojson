@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8193902,
+      46.7904818
+    ]
+  },
+  "properties": {
+    "id": 4538085420,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "7270",
+    "addr:street": "Talstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Carretta",
+    "opening_hours": "Mo-Su 11:00-22:30",
+    "website": "https://www.la-carretta.ch/"
+  },
+  "id": 4538085420
+}

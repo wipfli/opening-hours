@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9037791,
+      47.1759919
+    ]
+  },
+  "properties": {
+    "id": 9757922923,
+    "addr:city": "Siebnen",
+    "addr:housenumber": "59",
+    "addr:postcode": "8854",
+    "addr:street": "Glarnerstrasse",
+    "amenity": "restaurant",
+    "name": "Sch\u00e4fli",
+    "opening_hours": "Mo-Th 06:00-23:00; We 06:00-11:00; Fr,Sa 06:00-00:00; Su 07:00-23:00",
+    "phone": "+41554408436",
+    "website": "https://www.hotel-schaefli.ch/de/gastronomie"
+  },
+  "id": 9757922923
+}

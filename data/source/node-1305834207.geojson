@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4392823,
+      47.4580728
+    ]
+  },
+  "properties": {
+    "id": 1305834207,
+    "addr:city": "Buchs ZH",
+    "addr:housenumber": "14",
+    "addr:postcode": "8107",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Frohsinn",
+    "opening_hours": "Mo-Fr 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 931 05 60",
+    "smoking": "isolated",
+    "toilets": "yes",
+    "website": "https://frohsinn-buchs.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1305834207
+}

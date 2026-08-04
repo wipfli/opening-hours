@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5339196,
+      46.8483191
+    ]
+  },
+  "properties": {
+    "id": 506052302,
+    "addr:city": "Chur",
+    "addr:housenumber": "25",
+    "addr:postcode": "7000",
+    "addr:street": "S\u00fcsswinkelgasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "rest.marsoel@bluewin.ch",
+    "name": "Restaurant Mars\u00f6l",
+    "opening_hours": "Mo-Su 10:00-14:00,18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 250 59 60",
+    "website": "https://www.restaurant-marsoel.ch/",
+    "wheelchair": "no"
+  },
+  "id": 506052302
+}

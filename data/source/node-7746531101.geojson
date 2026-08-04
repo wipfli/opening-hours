@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5648426,
+      46.9264795
+    ]
+  },
+  "properties": {
+    "id": 7746531101,
+    "addr:city": "Worb",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3076",
+    "addr:street": "Richigenstrasse",
+    "alt_name": "Migros Restaurant Worb",
+    "amenity": "restaurant",
+    "branch": "Worb",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-worb"
+  },
+  "id": 7746531101
+}

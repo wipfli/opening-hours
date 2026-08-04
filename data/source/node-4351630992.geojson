@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8270048,
+      47.5863561
+    ]
+  },
+  "properties": {
+    "id": 4351630992,
+    "addr:postcode": "8524",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-06-27",
+    "name": "Aussicht",
+    "opening_hours": "Fr-Tu 11:00-23:00",
+    "phone": "+41 52 746 10 90",
+    "website": "https://www.aussicht-iselisberg.ch/"
+  },
+  "id": 4351630992
+}

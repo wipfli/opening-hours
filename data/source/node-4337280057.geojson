@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.937021,
+      46.9969585
+    ]
+  },
+  "properties": {
+    "id": 4337280057,
+    "amenity": "restaurant",
+    "check_date": "2025-08-02",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "SushiZen",
+    "opening_hours": "Mo-Fr 11:00-14:30,16:00-20:00; Sa-Su 11:00-14:30,15:00-20:00",
+    "website": "http://www.ekai.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4337280057
+}

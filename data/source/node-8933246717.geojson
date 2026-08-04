@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8517261,
+      46.3864327
+    ]
+  },
+  "properties": {
+    "id": 8933246717,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-09",
+    "email": "info@la-bateliere.ch",
+    "name": "La Bateli\u00e8re",
+    "opening_hours": "Mo-Sa 07:30-23:00; Su 07:30-22:00",
+    "phone": "+41 24 481 23 71",
+    "website": "https://la-bateliere.ch/"
+  },
+  "id": 8933246717
+}

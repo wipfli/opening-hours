@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3695964,
+      47.4228913
+    ]
+  },
+  "properties": {
+    "id": 7529117611,
+    "addr:city": "Spreitenbach",
+    "addr:postcode": "8957",
+    "alt_name": "SPIGA Tivoli",
+    "amenity": "restaurant",
+    "branch": "Spreitenbach Tivoli",
+    "brand": "SPIGA",
+    "cuisine": "italian",
+    "level": "3",
+    "name": "Spiga Pizza&Pasta",
+    "note": "Teil des Foodcourt",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "operator": "SV (Schweiz)",
+    "website": "https://www.spiga-ristorante.ch/"
+  },
+  "id": 7529117611
+}

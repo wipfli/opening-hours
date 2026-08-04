@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3127688,
+      47.1215577
+    ]
+  },
+  "properties": {
+    "id": 9582698173,
+    "addr:city": "Walenstadt",
+    "addr:housenumber": "34",
+    "addr:postcode": "8880",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizza-Kurier Walensee",
+    "opening_hours": "Mo-Fr 11:00-13:00,16:30-22:30; Sa 11:00-14:00,17:00-00:00; Su 11:00-14:00,16:30-22:00",
+    "phone": "+41 81 710 21 10",
+    "website": "https://pizzakurierwalensee.ch/"
+  },
+  "id": 9582698173
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5083628,
+      46.6548026
+    ]
+  },
+  "properties": {
+    "id": 2142689747,
+    "addr:city": "La Sarraz",
+    "addr:housenumber": "14",
+    "addr:postcode": "1315",
+    "addr:street": "Route de la Foule",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegetarian": "yes",
+    "name": "Moli",
+    "opening_hours": "Tu-Su 11:00-14:30, 17:30-22:00",
+    "phone": "+41 21 866 68 88",
+    "website": "https://www.thefork.ch/restaurant/hotel-restaurant-moli-r721361"
+  },
+  "id": 2142689747
+}

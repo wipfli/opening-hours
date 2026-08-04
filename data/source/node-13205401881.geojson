@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5842588,
+      47.4482153
+    ]
+  },
+  "properties": {
+    "id": 13205401881,
+    "addr:city": "Kloten",
+    "addr:housenumber": "5",
+    "addr:postcode": "8302",
+    "addr:street": "Hamelirainstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "fixme": "approximate location",
+    "name": "Tschadun",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-22:00",
+    "phone": "+41 44 804 44 45",
+    "source": "website",
+    "website": "https://tschadun.ch/"
+  },
+  "id": 13205401881
+}

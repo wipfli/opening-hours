@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2803732,
+      47.0685316
+    ]
+  },
+  "properties": {
+    "id": 12813556523,
+    "addr:city": "Emmenbr\u00fccke",
+    "addr:housenumber": "1e",
+    "addr:postcode": "6020",
+    "addr:street": "Seetalplatz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "oriental",
+    "email": "welcome@jardinoriental.ch",
+    "image": "https://image.zentralplus.ch/unsafe/1200x0/filters:quality(75):focal(50x50:51x51)/www.zentralplus.ch/wp-content/uploads/2023/12/Jardin-Oriental_Emmenbruecke.jpg",
+    "level": "0",
+    "name": "Jardin Oriental",
+    "opening_hours": "Mo-Su 10:30-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41415534344",
+    "takeaway": "yes",
+    "website": "https://jardinoriental.ch",
+    "website:menu": "https://jardinoriental.ch/menue/",
+    "wheelchair": "yes"
+  },
+  "id": 12813556523
+}

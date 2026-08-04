@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6551903,
+      46.529779
+    ]
+  },
+  "properties": {
+    "id": 13955271799,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "23",
+    "addr:postcode": "1012",
+    "addr:street": "Chemin de Rov\u00e9r\u00e9az",
+    "amenity": "restaurant",
+    "capacity": "35",
+    "email": "lesescapadesgourmandes@rozavere.ch",
+    "indoor_seating": "yes",
+    "name": "Les Escapades Gourmandes",
+    "opening_hours": "Su-Fr 12:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 58 211 70 50",
+    "website": "https://lesescapadesgourmandes.ch"
+  },
+  "id": 13955271799
+}

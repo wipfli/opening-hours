@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3196417,
+      46.8333082
+    ]
+  },
+  "properties": {
+    "id": 3068836680,
+    "addr:city": "Flims Dorf",
+    "addr:postcode": "7017",
+    "addr:street": "Crestasee",
+    "amenity": "restaurant",
+    "name": "Gasthaus Crestasee",
+    "opening_hours": "Mo-Su,PH 11:00-21:00+; Mo off",
+    "website": "https://www.crestasee.com/"
+  },
+  "id": 3068836680
+}

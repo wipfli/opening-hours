@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.13953,
+      46.1841888
+    ]
+  },
+  "properties": {
+    "id": 11091336305,
+    "addr:housenumber": "20",
+    "addr:street": "Place du March\u00e9",
+    "amenity": "restaurant",
+    "cuisine": "cr\u00eape",
+    "internet_access": "wlan",
+    "name": "Cr\u00eaperie du Vieux-Carouge",
+    "opening_hours": "Mo-Su 19:00-22:00",
+    "website": "http://www.viaroma-ristieante.ch"
+  },
+  "id": 11091336305
+}

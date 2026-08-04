@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8312141,
+      47.1046948
+    ]
+  },
+  "properties": {
+    "id": 7638645055,
+    "addr:housenumber": "15",
+    "addr:street": "Rue de la Balance",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegetarian": "yes",
+    "name": "Maharaja",
+    "opening_hours": "Mo-Sa 11:00-14:00, 18:00-24:00",
+    "phone": "+41 32 968 03 40",
+    "website": "https://maharajah.ch"
+  },
+  "id": 7638645055
+}

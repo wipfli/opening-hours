@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9573375,
+      46.0194909
+    ]
+  },
+  "properties": {
+    "id": 8892208217,
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "email": "info@ristorantelaveranda.ch",
+    "name": "Ristorante La Veranda",
+    "opening_hours": "Mo-Su,PH 08:00-24:00",
+    "phone": "+41919703964",
+    "website": "https://www.ristorantelaveranda.ch/"
+  },
+  "id": 8892208217
+}

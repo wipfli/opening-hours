@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8725363,
+      47.396638
+    ]
+  },
+  "properties": {
+    "id": 13897696912,
+    "addr:housenumber": "51",
+    "addr:street": "Hupp",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Hupp Lodge",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "phone": "+41622054565",
+    "website": "https://hupplodge.ch"
+  },
+  "id": 13897696912
+}

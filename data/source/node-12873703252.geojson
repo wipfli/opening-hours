@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0954706,
+      46.7002573
+    ]
+  },
+  "properties": {
+    "id": 12873703252,
+    "amenity": "restaurant",
+    "check_date": "2026-04-09",
+    "check_date:opening_hours": "2026-04-09",
+    "email": "info@hotel-spoel.ch",
+    "name": "Hotel Restaurant Sp\u00f6l",
+    "opening_hours": "Mo-Su,PH 07:00-23:00",
+    "phone": "+41 81 856 12 79",
+    "tourism": "hotel",
+    "website": "https://www.hotel-spoel.ch/",
+    "wheelchair": "no"
+  },
+  "id": 12873703252
+}

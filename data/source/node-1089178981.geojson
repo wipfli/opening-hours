@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6370427,
+      46.7812441
+    ]
+  },
+  "properties": {
+    "id": 1089178981,
+    "amenity": "restaurant",
+    "name": "Le Tempo",
+    "opening_hours": "Mo-Fr 08:30-24:00, Sa 10:00-24:00",
+    "phone": "+41 24 425 14 06",
+    "toilets:wheelchair": "yes",
+    "website": "https://le-tempo.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "[acc\u00e8s depuis rue de Neuch\u00e2tel] rampe d'acc\u00e8s (raide), [acc\u00e8s depuis Quai de la Thi\u00e8le] Escaliers (7 marches) \u00e0 l'entr\u00e9e, mais monte-personne disponible sur sollicitation d'une serveuse, WC accessibles depuis le Quai de la Thi\u00e8le, escaliers sinon"
+  },
+  "id": 1089178981
+}

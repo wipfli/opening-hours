@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5669037,
+      47.3823685
+    ]
+  },
   "properties": {
-    "@id": "node/4889986287",
+    "id": 4889986287,
     "access": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -17,12 +24,5 @@
     "phone": "+41 44 268 35 35",
     "website": "https://www.zuerichberg.ch/restaurant"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5669037,
-      47.3823685
-    ]
-  },
-  "id": "node-4889986287"
+  "id": 4889986287
 }

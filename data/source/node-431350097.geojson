@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5506837,
+      46.7384578
+    ]
+  },
+  "properties": {
+    "id": 431350097,
+    "addr:city": "Lenzerheide",
+    "addr:housenumber": "61",
+    "addr:postcode": "7078",
+    "addr:street": "Voa Principala",
+    "amenity": "restaurant",
+    "name": "Roti Forelle",
+    "opening_hours": "We-Su 11:30-21:00; Fr,Sa 11:30-21:30",
+    "phone": "+41 81 384 11 41",
+    "website": "https://www.rotiforelle.ch/"
+  },
+  "id": 431350097
+}

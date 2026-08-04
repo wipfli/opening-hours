@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1171692,
+      46.9302936
+    ]
+  },
+  "properties": {
+    "id": 498878914,
+    "addr:city": "Murten",
+    "addr:housenumber": "53",
+    "addr:postcode": "3280",
+    "addr:street": "Ryf",
+    "amenity": "restaurant",
+    "email": "info@hotel-schiff.ch",
+    "name": "Schiff am See",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+41 26 672 36 66",
+    "website": "https://www.hotel-schiff.ch/de_restaurant.php"
+  },
+  "id": 498878914
+}

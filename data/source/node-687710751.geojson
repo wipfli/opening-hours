@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.365919,
+      47.5103938
+    ]
+  },
+  "properties": {
+    "id": 687710751,
+    "addr:city": "Niederweningen",
+    "addr:country": "CH",
+    "addr:housenumber": "74",
+    "addr:postcode": "8166",
+    "addr:street": "Murzlenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@muehlipub.ch",
+    "name": "Pizzeria i de M\u00fchli",
+    "opening_hours": "Tu-Fr 11:30-13:30,17:00-23:00; Sa 17:00-23:00",
+    "phone": "+41 44 885 74 74",
+    "source": "Bing",
+    "website": "http://www.muehlipub.ch"
+  },
+  "id": 687710751
+}

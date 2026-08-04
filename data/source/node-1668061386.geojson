@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6051009,
+      46.53414
+    ]
+  },
+  "properties": {
+    "id": 1668061386,
+    "amenity": "restaurant",
+    "name": "Shambala",
+    "opening_hours": "Mo-Su 11:30-14:00,18:30-22:30",
+    "website": "https://shambala.restaurant/"
+  },
+  "id": 1668061386
+}

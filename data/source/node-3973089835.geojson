@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3672609,
+      47.5639491
+    ]
+  },
+  "properties": {
+    "id": 3973089835,
+    "addr:city": "Romanshorn",
+    "addr:housenumber": "54a",
+    "addr:postcode": "8590",
+    "addr:street": "Bahnhofstrasse",
+    "alt_name": "Migros Restaurant Romanshorn",
+    "amenity": "restaurant",
+    "branch": "Romanshorn Hubzelg",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "capacity": "50",
+    "cuisine": "international",
+    "delivery": "no",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "self_service": "yes",
+    "smoking": "no",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-romanshorn-hubzelg",
+    "wheelchair": "yes"
+  },
+  "id": 3973089835
+}

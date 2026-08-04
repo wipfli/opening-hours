@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9077767,
+      47.3528808
+    ]
+  },
+  "properties": {
+    "id": 4360047312,
+    "alt_name": "Pendolino",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-27",
+    "contact:email": "pendolino@sv-group.ch",
+    "contact:fax": "+41 62 296 59 41",
+    "contact:phone": "+41 62 296 59 40",
+    "contact:website": "http://pendolino.sv-group.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "SBB-FREE",
+    "level": "0",
+    "name": "Chez SBB",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "outdoor_seating": "no",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.zfv.ch/de/essen-gehen/sbb-restaurant-pendolino",
+    "wheelchair": "yes"
+  },
+  "id": 4360047312
+}

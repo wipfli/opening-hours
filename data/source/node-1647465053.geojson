@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8197236,
+      47.2285723
+    ]
+  },
+  "properties": {
+    "id": 1647465053,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8640",
+    "addr:street": "Stadthofplatz",
+    "alt_name": "Steiner Beck Rapperswil SG",
+    "amenity": "restaurant",
+    "branch": "Rapperswil SG",
+    "brand": "Steiner",
+    "brand:wikidata": "Q111728988",
+    "check_date:opening_hours": "2025-11-27",
+    "contact:phone": "+41 55 214 10 60",
+    "cuisine": "regional",
+    "name": "Steiner",
+    "opening_hours": "Mo-Su 07:00-18:30",
+    "operator": "Steiner-Beck AG",
+    "shop": "bakery",
+    "website": "https://www.steiner-beck.ch/filialen/rapperswil/",
+    "wheelchair": "no"
+  },
+  "id": 1647465053
+}

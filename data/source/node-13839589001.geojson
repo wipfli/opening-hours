@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.626573,
+      46.5212852
+    ]
+  },
+  "properties": {
+    "id": 13839589001,
+    "addr:housenumber": "22",
+    "addr:postcode": "1003",
+    "addr:street": "Rue des C\u00f4tes-de-Montbenon",
+    "amenity": "restaurant",
+    "contact:facebook": "mexicanagrilllausanne",
+    "contact:instagram": "mexicanagrill_lausanne",
+    "cuisine": "mexican",
+    "email": "mexicanalausanne@gmail.com",
+    "name": "Mexicana Grill",
+    "opening_hours": "Mo-Th 18:00-23:00; Fr-Sa 18:00-01:00; Su 17:30-22:30",
+    "phone": "+41 21 552 10 33",
+    "website": "https://www.mexicana-grill.ch",
+    "website:menu": "https://www.mexicana-grill.ch/_files/ugd/8794d4_ea4327f0e661428f88d806bd611df3b1.pdf"
+  },
+  "id": 13839589001
+}

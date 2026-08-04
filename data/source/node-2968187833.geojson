@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.50099,
+      46.5138962
+    ]
+  },
+  "properties": {
+    "id": 2968187833,
+    "addr:city": "Morges",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1110",
+    "addr:street": "Rue Saint-Domingue",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante InVivo",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-00:00; Sa 18:00-00:00",
+    "phone": "+41 21 803 06 17",
+    "website": "http://www.ristorante-invivo.ch"
+  },
+  "id": 2968187833
+}

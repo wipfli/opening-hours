@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1709952,
+      47.3899321
+    ]
+  },
+  "properties": {
+    "id": 3177349361,
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "brand:wikipedia": "de:Coop (Schweiz)",
+    "cuisine": "german",
+    "name": "Coop Restaurant",
+    "opening_hours": "Su off; Mo-Fr 11:00-14:00; Sa 07:30-17:00",
+    "operator": "Coop Genossenschaft",
+    "website": "http://www.coop.ch/pb/site/vstinfo/node/76518709/Lde/index.htm#0&id=2037",
+    "wheelchair": "yes"
+  },
+  "id": 3177349361
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6270249,
+      46.5213018
+    ]
+  },
+  "properties": {
+    "id": 6640587809,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "20",
+    "addr:postcode": "1003",
+    "addr:street": "Rue des C\u00f4tes-de-Montbenon",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "email": "eat@istanbul-grill.ch",
+    "indoor_seating": "yes",
+    "name": "Istanbul",
+    "opening_hours": "Mo-We 08:00-00:00; Th 08:00-01:00; Fr,Sa 08:00-02:00; Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 311 14 93",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.istanbul-grill.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 6640587809
+}

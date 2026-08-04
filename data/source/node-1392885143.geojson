@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0931361,
+      46.4411743
+    ]
+  },
+  "properties": {
+    "id": 1392885143,
+    "addr:housenumber": "19",
+    "addr:street": "Route des Cuvaloups",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chalet Restaurant de Cuvaloup de Crans",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-17:00",
+    "phone": "+41 22 360 12 84",
+    "website": "https://www.cuvaloup-de-crans.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Une rampe est disponible pour franchir la marche de l'entr\u00e9e. Toilette handicap\u00e9s"
+  },
+  "id": 1392885143
+}

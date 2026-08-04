@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8801087,
+      46.4710153
+    ]
+  },
+  "properties": {
+    "id": 12860408153,
+    "addr:city": "Saint-L\u00e9gier-La Chi\u00e9saz",
+    "addr:housenumber": "46E",
+    "addr:postcode": "1806",
+    "addr:street": "Route des Deux Villages",
+    "amenity": "restaurant",
+    "cuisine": "eggs_benedict;smoked_salmon;bacon;burger;caesar_salad;pancake;croissant;coffee_shop;tea;sandwich;fruit_juice;charcuterie;breakfast;brunch;crepe",
+    "name": "La Brique",
+    "opening_hours": "Mo 08:00-15:00; Tu-Fr 08:00-22:00; Sa 09:00-22:00; Su 11:00-15:00",
+    "phone": "+41 21 943 35 40",
+    "website": "https://www.restolabrique.ch/"
+  },
+  "id": 12860408153
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4573262,
+      47.4816005
+    ]
+  },
+  "properties": {
+    "id": 388072791,
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8157",
+    "addr:street": "Buckweg",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pinocchio Pizza",
+    "opening_hours": "Mo-Fr 10:30-13:30, 16:00-22:00; Sa 16:00-22:30; Su 16:00-22:00",
+    "phone": "+41 44 854 06 14",
+    "website": "http://www.pinocchio-pizza.ch",
+    "wheelchair": "yes"
+  },
+  "id": 388072791
+}

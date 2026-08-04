@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0346051,
+      46.3810073
+    ]
+  },
+  "properties": {
+    "id": 9534798904,
+    "addr:city": "Riederalp",
+    "addr:housenumber": "22",
+    "addr:postcode": "3987",
+    "addr:street": "Liftweg",
+    "amenity": "restaurant",
+    "check_date": "2024-02-23",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "email": "info@restaurant-matterhorn.ch",
+    "name": "Matterhorn",
+    "opening_hours": "Mo-Sa 10:00-22:30; Su 10:00-17:00",
+    "opening_hours:kitchen": "11:30-14:00,18:00-20:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 27 543 27 15",
+    "website": "https://restaurant-matterhorn.ch"
+  },
+  "id": 9534798904
+}

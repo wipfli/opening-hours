@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5909948,
+      47.5536712
+    ]
+  },
+  "properties": {
+    "id": 2215970143,
+    "addr:city": "Basel",
+    "addr:housenumber": "7",
+    "addr:postcode": "4001",
+    "addr:street": "Steinenberg",
+    "alt_name": "GARTEN RESTAURANT KUNSTHALLE",
+    "amenity": "restaurant",
+    "contact:phone": "+41 61 2724233",
+    "indoor_seating": "yes",
+    "name": "Kunsthalle",
+    "opening_hours": "Mo-Sa 11:30-23:00",
+    "operator": "Candrian Catering",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.restaurant-kunsthalle.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2215970143
+}

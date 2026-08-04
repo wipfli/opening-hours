@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8456742,
+      46.4595596
+    ]
+  },
+  "properties": {
+    "id": 7095359510,
+    "addr:housenumber": "7",
+    "addr:street": "Rue du Simplon",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "name": "Swagat",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:30-23:00; Sa, Su 11:30-14:30, 18:30-23:00",
+    "phone": "+41 21 921 29 54",
+    "takeaway": "yes",
+    "website": "https://www.swagat.ch/"
+  },
+  "id": 7095359510
+}

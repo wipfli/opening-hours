@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6362795,
+      46.519869
+    ]
+  },
+  "properties": {
+    "id": 4141751989,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "28",
+    "addr:postcode": "1003",
+    "addr:street": "Rue de Bourg",
+    "amenity": "restaurant",
+    "cuisine": "italian;italian_pizza",
+    "email": "info@chezmario.ch",
+    "name": "Chez Mario",
+    "opening_hours": "Su-Th 11:30-14:00, 18:30-22:00; Fr-Sa 11:30-14:00, 18:30-22:30",
+    "phone": "+41 21 323 74 04",
+    "website": "https://www.chezmario.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4141751989
+}

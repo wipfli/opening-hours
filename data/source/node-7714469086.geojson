@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1816119,
+      47.257594
+    ]
+  },
+  "properties": {
+    "id": 7714469086,
+    "addr:city": "Reinach AG",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "5734",
+    "addr:street": "Sandgasse",
+    "alt_name": "Migros Restaurant Reinach AG",
+    "amenity": "restaurant",
+    "branch": "Reinach AG",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-reinach-ag"
+  },
+  "id": 7714469086
+}

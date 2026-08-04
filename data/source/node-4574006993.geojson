@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.586852,
+      47.5581578
+    ]
+  },
+  "properties": {
+    "id": 4574006993,
+    "addr:city": "Basel",
+    "addr:housenumber": "11",
+    "addr:postcode": "4051",
+    "addr:street": "Schneidergasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-04",
+    "contact:facebook": "https://www.facebook.com/gifthuettli",
+    "cuisine": "swiss;meat",
+    "email": "hallo@gifthuettli.ch",
+    "indoor_seating": "yes",
+    "name": "Gifth\u00fcttli",
+    "opening_hours": "Mo-Su 09:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 261 16 56",
+    "smoking": "outside",
+    "website": "https://gifthuettli.ch/"
+  },
+  "id": 4574006993
+}

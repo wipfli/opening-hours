@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.137466,
+      46.2031739
+    ]
+  },
+  "properties": {
+    "id": 3032344938,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "36",
+    "addr:postcode": "1204",
+    "addr:street": "Rue du Stand",
+    "amenity": "restaurant",
+    "cuisine": "brasserie",
+    "name": "Les Sales Gosses",
+    "opening_hours": "Su-Fr 11:30-23:00; Sa 18:30-23:00",
+    "source": "personal review",
+    "website": "https://bblsg.ch/"
+  },
+  "id": 3032344938
+}

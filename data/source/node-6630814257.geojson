@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3582459,
+      46.2321729
+    ]
+  },
+  "properties": {
+    "id": 6630814257,
+    "addr:city": "Sion",
+    "addr:housenumber": "27",
+    "addr:postcode": "1950",
+    "addr:street": "Rue de Lausanne",
+    "amenity": "restaurant",
+    "cuisine": "brasserie",
+    "name": "Les Brasseurs Sion",
+    "opening_hours": "Mo-Th 11:00-00:00; Fr,Sa 11:00-01:00; Su 11:00-24:00",
+    "phone": "+41 27 328 60 60",
+    "smoking": "outside",
+    "website": "http://www.les-brasseurs.ch"
+  },
+  "id": 6630814257
+}

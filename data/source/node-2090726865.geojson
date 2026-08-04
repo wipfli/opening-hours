@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5145116,
+      47.1693301
+    ]
+  },
+  "properties": {
+    "id": 2090726865,
+    "amenity": "restaurant",
+    "check_date": "2025-05-16",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "email": "office@puccini.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "0",
+    "name": "Puccini",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-23:30; Sa 18:00-23:30; Su 11:30-23:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 720 04 04",
+    "website": "https://puccini.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2090726865
+}

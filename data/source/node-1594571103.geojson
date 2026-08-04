@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3057585,
+      47.4743532
+    ]
+  },
+  "properties": {
+    "id": 1594571103,
+    "addr:housenumber": "3",
+    "addr:postcode": "5400",
+    "addr:street": "R\u00fctistrasse",
+    "amenity": "restaurant",
+    "cuisine": "steak_house",
+    "email": "info@torre-baden.ch",
+    "internet_access": "wlan",
+    "name": "Torre Grill-Sicht-Bar",
+    "opening_hours": "Tu-Sa 17:00-24:00",
+    "phone": "+41 56 221 24 14",
+    "website": "https://www.torre-baden.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1594571103
+}

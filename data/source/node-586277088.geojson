@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5962178,
+      47.5633753
+    ]
+  },
+  "properties": {
+    "id": 586277088,
+    "addr:city": "Basel",
+    "addr:housenumber": "32",
+    "addr:postcode": "4057",
+    "addr:street": "Drahtzugstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Punta Cana",
+    "opening_hours": "Tu-Su 11:30-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 681 67 82",
+    "smoking": "outside",
+    "website": "https://www.punta-cana-restaurant.ch/"
+  },
+  "id": 586277088
+}

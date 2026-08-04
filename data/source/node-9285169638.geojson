@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5736798,
+      47.554266
+    ]
+  },
+  "properties": {
+    "id": 9285169638,
+    "addr:city": "Basel",
+    "addr:housenumber": "2",
+    "addr:postcode": "4054",
+    "addr:street": "Belchenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-29",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "Yu-Lin Qin",
+    "opening_hours": "Mo-Su 11:30-14:30,17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41613037548",
+    "smoking": "outside",
+    "website": "https://yulinqin18.wixsite.com/restaurant/menu"
+  },
+  "id": 9285169638
+}

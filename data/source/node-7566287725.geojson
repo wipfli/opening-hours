@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1662181,
+      46.2010699
+    ]
+  },
+  "properties": {
+    "id": 7566287725,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "11",
+    "addr:postcode": "1207",
+    "addr:street": "Avenue de la Gare des Eaux-Vives",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2020-08-17",
+    "cuisine": "italian;pizza;brunch;bar",
+    "email": "info@gigicucinabar.ch",
+    "name": "Gigi Cucina & Bar",
+    "opening_hours": "Tu-Sa 12:00-14:00; Tu-We 19:00-22:00; Th-Sa 17:30-22:00; Su 11:30-14:00,19:00-22:00",
+    "phone": "+41228400341",
+    "website": "https://www.gigicucinabar.ch/"
+  },
+  "id": 7566287725
+}

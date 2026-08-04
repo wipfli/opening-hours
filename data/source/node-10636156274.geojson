@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1366695,
+      46.2275847
+    ]
+  },
+  "properties": {
+    "id": 10636156274,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "SV Restaurant",
+    "opening_hours": "Mo-Fr 07:30-16:30; Sa,Su,PH off",
+    "website": "https://cicr-geneve.sv-restaurant.ch/en/"
+  },
+  "id": 10636156274
+}

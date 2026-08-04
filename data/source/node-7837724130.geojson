@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4591813,
+      47.3981483
+    ]
+  },
+  "properties": {
+    "id": 7837724130,
+    "addr:housenumber": "91",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "persian",
+    "name": "Karun",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 44 731 92 37",
+    "website": "https://restaurant-karun.ch/"
+  },
+  "id": 7837724130
+}

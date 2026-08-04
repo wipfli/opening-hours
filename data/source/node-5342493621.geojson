@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4727646,
+      46.9588387
+    ]
+  },
+  "properties": {
+    "id": 5342493621,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "1a",
+    "addr:postcode": "3006",
+    "addr:street": "Zentweg",
+    "alt_name": "Zent",
+    "amenity": "restaurant",
+    "contact:email": "zent@bimano.ch",
+    "contact:facebook": "https://www.facebook.com/restaurantzent/",
+    "contact:instagram": "https://www.instagram.com/bimanozentweg/",
+    "contact:phone": "+41 31 9340360",
+    "level": "2",
+    "name": "bimano zent",
+    "opening_hours": "Mo-Th 09:00-23:00; Fr 09:00-00:30; Sa 10:00-00:30; Su 10:00-18:00",
+    "operator": "bimano GmbH",
+    "source": "survey and website",
+    "website": "https://bimano.ch/zent/"
+  },
+  "id": 5342493621
+}

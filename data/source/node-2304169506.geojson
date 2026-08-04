@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3127422,
+      47.0564162
+    ]
+  },
+  "properties": {
+    "id": 2304169506,
+    "addr:housenumber": "12",
+    "addr:postcode": "6006",
+    "addr:street": "Weystrasse",
+    "amenity": "restaurant",
+    "cuisine": "local;portuguese",
+    "email": "info@restaurant-wey.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Wey",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 41 412 29 83",
+    "website": "https://www.restaurant-wey.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2304169506
+}

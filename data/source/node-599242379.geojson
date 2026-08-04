@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9647246,
+      46.3183097
+    ]
+  },
+  "properties": {
+    "id": 599242379,
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "italian",
+    "name": "La Nonna",
+    "opening_hours": "Mo-Su 06:00-23:30",
+    "website": "http://www.la-nonna.ch/",
+    "website:menu": "http://la-nonna.ch/index.php?action=saison"
+  },
+  "id": 599242379
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4974183,
+      46.5059071
+    ]
+  },
+  "properties": {
+    "id": 1555726142,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Club Nautique",
+    "opening_hours": "Su-Th 09:00-23:00; Fr-Sa 09:00-00:00",
+    "phone": "+41 21 801 51 51",
+    "website": "https://www.restaurant-cnm.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1555726142
+}

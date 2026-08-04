@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1927978,
+      47.2351609
+    ]
+  },
+  "properties": {
+    "id": 12120003941,
+    "addr:city": "Menziken",
+    "addr:housenumber": "74",
+    "addr:postcode": "5737",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Huus 74",
+    "opening_hours": "We-Fr 08:00-23:00; Sa[-1] 17:00+",
+    "phone": "+41 62 530 44 47",
+    "tourism": "hotel",
+    "website": "https://www.huus74.ch/"
+  },
+  "id": 12120003941
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3716691,
+      47.4215563
+    ]
+  },
+  "properties": {
+    "id": 3303851167,
+    "addr:housenumber": "35",
+    "addr:postcode": "9000",
+    "addr:street": "St.Leonhard-Strasse",
+    "alt_name": "Migros Restaurant Neumarkt",
+    "amenity": "restaurant",
+    "branch": "St. Gallen Neumarkt",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date": "2026-05-20",
+    "cuisine": "international",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 07:30-17:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "self_service": "only",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-st-gallen-neumarkt"
+  },
+  "id": 3303851167
+}

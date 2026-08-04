@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6289856,
+      46.5210945
+    ]
+  },
+  "properties": {
+    "id": 10860828846,
+    "addr:housenumber": "6",
+    "addr:street": "Voie du Chariot",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Le Leonardo",
+    "opening_hours": "Mo-Th 09:30-23:30; Fr 09:30-00:00; Sa 10:30-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41213114970",
+    "toilets:wheelchair": "no",
+    "website": "https://leonardo-barandfood.com/",
+    "wheelchair": "limited"
+  },
+  "id": 10860828846
+}

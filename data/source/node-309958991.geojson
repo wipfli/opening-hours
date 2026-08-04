@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6075372,
+      46.6349433
+    ]
+  },
+  "properties": {
+    "id": 309958991,
+    "addr:city": "Saint-Bart\u00e9l\u00e9my",
+    "addr:country": "CH",
+    "addr:housenumber": "80",
+    "addr:postcode": "1040",
+    "addr:street": "Route du Village",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Auberge du Talent",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "phone": "+41 21 881 28 53",
+    "website": "https://www.auberge-du-talent.ch",
+    "wheelchair": "yes"
+  },
+  "id": 309958991
+}

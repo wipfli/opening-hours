@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9852342,
+      47.6690414
+    ]
+  },
+  "properties": {
+    "id": 3663404426,
+    "addr:city": "Steckborn",
+    "addr:country": "CH",
+    "addr:housenumber": "62",
+    "addr:postcode": "8266",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "fish;regional;local",
+    "email": "info@frohsinn-steckborn.ch",
+    "name": "Frohsinn",
+    "opening_hours": "Fr-Tu 08:00-23:00",
+    "phone": "+41 52 761 11 61",
+    "website": "https://www.frohsinn-steckborn.ch/"
+  },
+  "id": 3663404426
+}

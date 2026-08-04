@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7688065,
+      47.2521288
+    ]
+  },
+  "properties": {
+    "id": 2351840415,
+    "addr:city": "Hombrechtikon",
+    "addr:housenumber": "4",
+    "addr:postcode": "8634",
+    "addr:street": "Im Zentrum",
+    "amenity": "restaurant",
+    "contact:phone": "+41552442324",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "delivery:covid19": "yes",
+    "name": "Punto Rosso",
+    "opening_hours": "Tu-Th 11:00-13:30,17:30-21:30; Fr 11:00-13:30,17:30-22:30; Sa 17:00-22:30; Su 17:00-21:30",
+    "opening_hours:covid19": "Tu-Fr 11:00-23:00; Sa,Su 14:00-23:00",
+    "takeaway": "yes",
+    "website": "https://www.pizza-puntorosso.ch/"
+  },
+  "id": 2351840415
+}

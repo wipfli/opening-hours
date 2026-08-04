@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5074531,
+      47.2526364
+    ]
+  },
+  "properties": {
+    "id": 473687730,
+    "addr:city": "Oberdorf",
+    "addr:housenumber": "1",
+    "addr:place": "Vorderer Weissenstein",
+    "amenity": "restaurant",
+    "contact:email": "restaurant@sennhaus-weissenstein.ch",
+    "contact:phone": "+41 32 622 16 78",
+    "name": "Sennhaus",
+    "opening_hours": "Tu-Sa 08:00-23:00; Su 08:00-17:00",
+    "website": "https://www.sennhaus.ch/"
+  },
+  "id": 473687730
+}

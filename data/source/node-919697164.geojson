@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6275916,
+      46.5235794
+    ]
+  },
+  "properties": {
+    "id": 919697164,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "43",
+    "addr:postcode": "1003",
+    "addr:street": "Rue de l'Ale",
+    "amenity": "restaurant",
+    "cuisine": "mussels",
+    "facebook": "@brasseriedechauderon",
+    "instagram": "@brasseriedechauderon",
+    "name": "Brasserie de Chaudron",
+    "opening_hours": "Mo-Sa 09:00-23:00",
+    "phone": "+41 21 543 62 05",
+    "website": "http://chauderon.ch/"
+  },
+  "id": 919697164
+}

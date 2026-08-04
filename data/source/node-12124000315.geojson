@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9043138,
+      47.350274
+    ]
+  },
+  "properties": {
+    "id": 12124000315,
+    "amenity": "restaurant",
+    "email": "roger.lang@rathskeller.ch",
+    "loc_name": "Ch\u00f6bu",
+    "name": "Rathskeller",
+    "opening_hours": "Tu-Th 11:00-23:30; Fr 11:00-24:00; Sa 00:00-00:30,11:00-24:00; Su 00:00-00:30",
+    "operator": "Rathskeller Olten AG",
+    "phone": "+41 62 212 21 60",
+    "smoking": "isolated",
+    "website": "https://www.rathskeller.ch/",
+    "wheelchair": "no"
+  },
+  "id": 12124000315
+}

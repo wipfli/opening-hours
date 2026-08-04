@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1434649,
+      46.2065932
+    ]
+  },
+  "properties": {
+    "id": 5316719901,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "4",
+    "addr:postcode": "1201",
+    "addr:street": "Place De-Grenus",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "delivery": "no",
+    "diet:non-vegetarian": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Together",
+    "opening_hours": "Mo-Fr 12:00-14:00,19:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41227319303",
+    "takeaway": "yes",
+    "website": "https://www.restauranttogether.ch"
+  },
+  "id": 5316719901
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.523694,
+      47.1979745
+    ]
+  },
+  "properties": {
+    "id": 5521871056,
+    "addr:city": "Solothurn",
+    "addr:housenumber": "3",
+    "addr:postcode": "4500",
+    "addr:street": "Glutzenhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Pier 11",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "phone": "+41 32 621 89 36",
+    "website": "http://pier11.ch"
+  },
+  "id": 5521871056
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5032859,
+      47.2777601
+    ]
+  },
+  "properties": {
+    "id": 6075639059,
+    "amenity": "restaurant",
+    "contact:phone": "+41 44 776 22 77",
+    "name": "Pegasus Small World",
+    "opening_hours": "We-Su 11:00-17:00",
+    "website": "https://www.spielzeug-museum.ch/"
+  },
+  "id": 6075639059
+}

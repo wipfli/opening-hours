@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0477613,
+      47.1347846
+    ]
+  },
+  "properties": {
+    "id": 378743268,
+    "addr:housenumber": "5",
+    "addr:postcode": "6022",
+    "addr:street": "M\u00fchlestrasse",
+    "amenity": "restaurant",
+    "name": "Gasthaus zum Ochsen",
+    "opening_hours": "Mo-Sa 09:00-24:00; We off; Su 09:00-22:00",
+    "phone": "+41 41 980 63 10",
+    "tourism": "hotel",
+    "website": "https://www.ochsen-grosswangen.ch/",
+    "wikidata": "Q112013354"
+  },
+  "id": 378743268
+}

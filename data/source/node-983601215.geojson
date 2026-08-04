@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5400686,
+      47.3762153
+    ]
+  },
   "properties": {
-    "@id": "node/983601215",
+    "id": 983601215,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "7",
@@ -16,12 +23,5 @@
     "website": "https://palette-z\u00fcrich.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5400686,
-      47.3762153
-    ]
-  },
-  "id": "node-983601215"
+  "id": 983601215
 }

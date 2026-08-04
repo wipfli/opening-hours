@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0277052,
+      45.8345498
+    ]
+  },
+  "properties": {
+    "id": 3022936458,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Emporio Arcadia",
+    "opening_hours": "Mo 08:00-15:30;Tu-Fr 08:00-15:30,17:00-23:30;Sa 16:30-23:30;Su 08:00-15:30,17:00-23:30",
+    "phone": "+41 91 682 32 32",
+    "source": "website and survey",
+    "website": "http://emporioarcadia.ch"
+  },
+  "id": 3022936458
+}

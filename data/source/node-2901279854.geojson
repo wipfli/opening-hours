@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6122362,
+      47.5551145
+    ]
+  },
+  "properties": {
+    "id": 2901279854,
+    "amenity": "restaurant",
+    "cuisine": "pizza;kebab",
+    "indoor_seating": "yes",
+    "name": "Multi Grill",
+    "opening_hours": "PH,Mo-Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.froburg-basel.ch/"
+  },
+  "id": 2901279854
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7469936,
+      46.0221885
+    ]
+  },
+  "properties": {
+    "id": 11076535105,
+    "addr:housenumber": "28",
+    "addr:postcode": "3920",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Vegistube",
+    "opening_hours": "Th-Sa 18:00-22:00",
+    "phone": "+41279664000",
+    "website": "https://www.hotelpollux.ch/de/gastronomie/vegistube"
+  },
+  "id": 11076535105
+}

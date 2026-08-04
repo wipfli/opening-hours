@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4240407,
+      47.1735048
+    ]
+  },
+  "properties": {
+    "id": 427275697,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Fischerhaus",
+    "opening_hours": "Tu-Fr 11:00-21:00, Sa-Su 10:00-21:00",
+    "phone": "+41 32 652 91 86",
+    "website": "https://fischerhuus.ch/"
+  },
+  "id": 427275697
+}

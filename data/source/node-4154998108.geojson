@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4963026,
+      46.5083584
+    ]
+  },
+  "properties": {
+    "id": 4154998108,
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "diet:vegetarian": "yes",
+    "name": "Takumi Ramen",
+    "old_name": "Lian Xiang Lou",
+    "opening_hours": "Mo-Su 11:00-14:30, 18:00-22:30",
+    "phone": "+41 21 802 05 93",
+    "website": "https://www.takumi-ramen.ch"
+  },
+  "id": 4154998108
+}

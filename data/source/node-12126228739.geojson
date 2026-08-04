@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4403594,
+      46.692621
+    ]
+  },
+  "properties": {
+    "id": 12126228739,
+    "addr:city": "Thusis",
+    "addr:housenumber": "5",
+    "addr:postcode": "7430",
+    "addr:street": "Unterer Rosenb\u00fchl",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "description": "Vom Fr\u00fchst\u00fccksbuffet \u00fcber den Info-Desk bis zur Szenen-Bar. Matcha Latte vor dem Kamin oder Sarti Spritz auf der Terrasse.",
+    "image": "https://story-thusis.ch/wp-content/uploads/20240608-201820.jpg",
+    "internet_access": "yes",
+    "name": "Lounge STORY Thusis",
+    "opening_hours": "Th-Sa 07:00-23:00; Su,Mo 07:00-17:00; Tu,We 07:00-19:00",
+    "operator": "Story Thusis",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 81 552 00 07",
+    "toilets": "yes",
+    "website": "https://story-thusis.ch/lounge/",
+    "website:menu": "https://story-thusis.ch/lounge/verpflegung/",
+    "wheelchair": "yes"
+  },
+  "id": 12126228739
+}

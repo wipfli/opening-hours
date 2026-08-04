@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6186006,
+      47.4127602
+    ]
+  },
+  "properties": {
+    "id": 4449610683,
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "28",
+    "addr:postcode": "8305",
+    "addr:street": "Industriestrasse",
+    "alt_name": "Coop Restaurant Dietlikon",
+    "amenity": "restaurant",
+    "branch": "Dietlikon Center",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 07:30-20:00; PH off",
+    "operator": "Coop Genossenschaft",
+    "website": "https://www.coop-restaurant.ch/"
+  },
+  "id": 4449610683
+}

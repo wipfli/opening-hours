@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3968063,
+      47.4506121
+    ]
+  },
+  "properties": {
+    "id": 268321131,
+    "amenity": "restaurant",
+    "contact:email": "Info@segreto.ch",
+    "contact:phone": "+41 71 290 11 11",
+    "cuisine": "mediterranean",
+    "name": "Segreto",
+    "opening_hours": "Tu-Fr 12:00-14:00, 18:30-22:00; Sa 18:30-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.segreto.ch/",
+    "wheelchair": "no",
+    "wikidata": "Q90404018"
+  },
+  "id": 268321131
+}

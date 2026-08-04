@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5398346,
+      46.7869329
+    ]
+  },
+  "properties": {
+    "id": 5870849750,
+    "addr:city": "Seftigen",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "3662",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "email": "info@bijoutime.ch",
+    "name": "Bijou",
+    "opening_hours": "We,Th 08:00-19:00; Sa,Su 09:00-19:00; Fr 08:00-22:00",
+    "phone": "+41 33 345 27 27",
+    "website": "https://www.bijoutime.ch/"
+  },
+  "id": 5870849750
+}

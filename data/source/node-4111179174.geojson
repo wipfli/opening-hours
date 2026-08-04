@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6413035,
+      46.5223975
+    ]
+  },
+  "properties": {
+    "id": 4111179174,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "13",
+    "addr:street": "Rue Mathurin-Cordier",
+    "amenity": "restaurant",
+    "check_date": "2026-06-07",
+    "check_date:opening_hours": "2026-06-07",
+    "cuisine": "japanese;thai",
+    "name": "Thai Duo Sushi",
+    "opening_hours": "Mo-Fr 11:00-14:00, 18:00-22:00; Sa-Su 18:00-22:00",
+    "website": "https://le-duo.ch/"
+  },
+  "id": 4111179174
+}

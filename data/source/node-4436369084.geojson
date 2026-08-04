@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.002097,
+      47.3700012
+    ]
+  },
+  "properties": {
+    "id": 4436369084,
+    "addr:city": "Sch\u00f6nenwerd",
+    "addr:country": "CH",
+    "addr:housenumber": "29",
+    "addr:postcode": "5012",
+    "addr:street": "Oltnerstrasse",
+    "alt_name": "SHIRAZ Grillhouse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-04",
+    "check_date:opening_hours": "2025-09-04",
+    "contact:email": "info@Shiraz-Restaurant.ch",
+    "contact:instagram": "https://www.instagram.com/shiraz_restaurant_schweiz/",
+    "contact:mobile": "+41 79 503 59 90",
+    "cuisine": "persian",
+    "delivery": "Mo-Su 11:00-21:00",
+    "name": "Shiraz",
+    "opening_hours": "Tu-Th 08:00-22:00; Fr, Sa 08:00-23:00; Su 08:00-18:00; Mo off",
+    "reservation": "yes",
+    "reservation:website": "https://www.shiraz-restaurant.ch/reservations",
+    "takeaway": "Mo-Su 11:00-21:00",
+    "website": "https://www.shiraz-restaurant.ch/",
+    "website:menu": "https://www.shiraz-restaurant.ch/menu"
+  },
+  "id": 4436369084
+}

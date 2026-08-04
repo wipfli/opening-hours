@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3028514,
+      47.1276252
+    ]
+  },
+  "properties": {
+    "id": 5813462555,
+    "addr:city": "Walenstadt",
+    "addr:housenumber": "106",
+    "addr:postcode": "8880",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "diet:vegetarian": "yes",
+    "name": "Amami",
+    "opening_hours": "We-Fr 17:00-21:00; Sa 12:00-14:00,17:00-21:00; PH off",
+    "phone": "+41 81 525 91 15",
+    "reservation": "required",
+    "website": "https://www.amamisushi.ch/"
+  },
+  "id": 5813462555
+}

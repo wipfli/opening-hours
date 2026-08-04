@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3754035,
+      47.4233322
+    ]
+  },
+  "properties": {
+    "id": 1245464096,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "6",
+    "addr:postcode": "9000",
+    "addr:street": "Bankgasse",
+    "amenity": "restaurant",
+    "name": "Genuss Manufaktur Neubad",
+    "opening_hours": "Tu-Sa 11:30-14:00,17:30-23:00",
+    "website": "https://www.restaurantneubad.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1245464096
+}

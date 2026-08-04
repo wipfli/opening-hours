@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1262279,
+      46.2081871
+    ]
+  },
+  "properties": {
+    "id": 9522586377,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "75",
+    "addr:postcode": "1203",
+    "addr:street": "Rue de Lyon",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "italian",
+    "email": "calia@dariosgroup.ch",
+    "name": "Calia",
+    "opening_hours": "Mo-Su 11:30-14:30,17:30-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 340 14 52",
+    "reservation": "yes",
+    "website": "https://www.calia-restaurant.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9522586377
+}

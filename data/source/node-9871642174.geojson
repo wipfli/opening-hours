@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6484208,
+      46.8825607
+    ]
+  },
+  "properties": {
+    "id": 9871642174,
+    "addr:city": "Altdorf UR",
+    "addr:place": "Nussb\u00e4umli",
+    "addr:postcode": "6460",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "internet_access": "no",
+    "name": "Nussb\u00e4umli",
+    "opening_hours": "Tu-We,Su 09:00-17:00, Th-Sa 11:00-23:00,18:00-24:00,09:00-18:00",
+    "operator": "Adrian und Priska Boss",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 398 92 84",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "toilets:access": "customers",
+    "website": "https://www.nussbaeumli.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9871642174
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7047391,
+      47.4905043
+    ]
+  },
+  "properties": {
+    "id": 5109346567,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "162",
+    "addr:postcode": "8406",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "name": "Su Ru Yi",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:30-22:00; Sa 11:30-14:00,17:30-22:00; Su 17:30-21:00",
+    "outdoor_seating": "no",
+    "website": "https://su-ru-yi.com"
+  },
+  "id": 5109346567
+}

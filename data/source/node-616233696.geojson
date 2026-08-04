@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3922067,
+      47.436039
+    ]
+  },
+  "properties": {
+    "id": 616233696,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "27",
+    "addr:postcode": "9008",
+    "addr:street": "Heimatstrasse",
+    "amenity": "restaurant",
+    "name": "Schweizerbund",
+    "opening_hours": "Tu-Fr 08:30-14:00,17:30+; Sa 10:30-14:00,17:30+",
+    "phone": "+41 71 244 91 51",
+    "website": "http://www.schweizerbund.com"
+  },
+  "id": 616233696
+}

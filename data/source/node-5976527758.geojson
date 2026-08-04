@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6325272,
+      46.9257485
+    ]
+  },
+  "properties": {
+    "id": 5976527758,
+    "addr:city": "Couvet",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "2108",
+    "addr:street": "Grand-Rue",
+    "amenity": "restaurant",
+    "name": "Restaurant de l'Aigle",
+    "opening_hours": "May 15-Oct 31: Mo-Fr 06:00-23:00; Sa,Su 06:30-23:00; Nov 1-May 15:Mo-Su 11:00-14:00; Sa 06:30-23:00; Su 06:30-17:00",
+    "phone": "+41 32 864 90 50",
+    "website": "https://www.hotel-aigle.ch/"
+  },
+  "id": 5976527758
+}

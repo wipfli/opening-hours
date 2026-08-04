@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4391283,
+      47.1449255
+    ]
+  },
+  "properties": {
+    "id": 13175738285,
+    "addr:city": "Rotkreuz",
+    "addr:housenumber": "22",
+    "addr:postcode": "6343",
+    "addr:street": "Suurstoffi",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Hello World",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "phone": "+41 41 790 37 22",
+    "reservation": "yes",
+    "website": "https://helloworldsuurstoffi.ch/"
+  },
+  "id": 13175738285
+}

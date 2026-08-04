@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3258526,
+      47.0212435
+    ]
+  },
+  "properties": {
+    "id": 3689049656,
+    "addr:city": "Horw",
+    "addr:housenumber": "91",
+    "addr:postcode": "6048",
+    "addr:street": "Kastanienbaumstrasse",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "regional",
+    "delivery": "no",
+    "email": "hotel@felmis.ch",
+    "name": "Felmis",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 349 1919",
+    "takeaway": "no",
+    "website": "https://www.felmis.ch/"
+  },
+  "id": 3689049656
+}

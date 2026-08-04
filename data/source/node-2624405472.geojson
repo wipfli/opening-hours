@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5949117,
+      47.5446816
+    ]
+  },
+  "properties": {
+    "id": 2624405472,
+    "addr:city": "Basel",
+    "addr:housenumber": "51",
+    "addr:postcode": "4053",
+    "addr:street": "Hochstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-03-14",
+    "cuisine": "chinese",
+    "name": "Restaurant FuTo",
+    "opening_hours": "Mo-Fr 10:00-14:30, Mo-Sa 17:00-22:00+",
+    "website": "https://www.restaurant-futo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2624405472
+}

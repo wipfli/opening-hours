@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8786905,
+      46.9753513
+    ]
+  },
+  "properties": {
+    "id": 3577398775,
+    "addr:city": "Auvernier",
+    "addr:housenumber": "1",
+    "addr:postcode": "2012",
+    "addr:street": "Rue des Epancheurs",
+    "amenity": "restaurant",
+    "name": "Brasserie du Poisson",
+    "opening_hours": "Mo off; Tu-Sa 10:00-23:30; Su off",
+    "phone": "+41327316231",
+    "website": "https://www.lepoisson-auvernier.ch/"
+  },
+  "id": 3577398775
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1147554,
+      46.8116505
+    ]
+  },
+  "properties": {
+    "id": 13995531497,
+    "addr:city": "Corminboeuf",
+    "addr:housenumber": "45",
+    "addr:postcode": "1720",
+    "addr:street": "Route Andr\u00e9-Piller",
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "name": "La D\u00e9tente",
+    "opening_hours": "Mo 08:00-14:00; Tu-Th 08:00-14:00,17:00-23:30; Fr 08:00-14:00,16:00-24:00; Sa 17:00-24:00; PH off",
+    "website": "https://www.ladetente.ch/"
+  },
+  "id": 13995531497
+}

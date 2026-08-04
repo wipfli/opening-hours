@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0963166,
+      47.1739263
+    ]
+  },
+  "properties": {
+    "id": 10108703235,
+    "addr:housenumber": "3",
+    "addr:street": "Industriestrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-10",
+    "check_date:opening_hours": "2026-07-10",
+    "contact:facebook": "BaanthaiSursee",
+    "contact:instagram": "baanthaisursee",
+    "cuisine": "thai",
+    "email": "baanthai-sursee@hotmail.com",
+    "level": "0",
+    "name": "Baan Thai",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-22:30; Sa 17:00-23:30, Su 17:00-22:00",
+    "phone": "+41 41 921 88 89",
+    "takeaway": "yes",
+    "website": "https://www.baanthai-sursee.ch/imfocushotel"
+  },
+  "id": 10108703235
+}

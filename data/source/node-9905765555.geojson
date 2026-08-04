@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5959884,
+      47.5593233
+    ]
+  },
+  "properties": {
+    "id": 9905765555,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Riehentorhalle",
+    "opening_hours": "Mo-Sa 10:00-24:00; Su off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.riehentorhalle.ch/"
+  },
+  "id": 9905765555
+}

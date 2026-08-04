@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5056903,
+      47.3695561
+    ]
+  },
   "properties": {
-    "@id": "node/4370386489",
+    "id": 4370386489,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "364",
@@ -16,12 +23,5 @@
     "outdoor_seating": "yes",
     "website": "https://www.meskerem-restaurant.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5056903,
-      47.3695561
-    ]
-  },
-  "id": "node-4370386489"
+  "id": 4370386489
 }

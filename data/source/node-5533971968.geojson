@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287193,
+      47.3936238
+    ]
+  },
+  "properties": {
+    "id": 5533971968,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "223",
+    "addr:postcode": "8037",
+    "addr:street": "Nordstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-09-09",
+    "cuisine": "fast_food",
+    "delivery": "yes",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "name": "Vegan Troja",
+    "opening_hours": "Tu-Th 09:00-14:00, 17:00-22:30; Fr-Sa 09:00-14:00, 17:00-23:30; Su 15:00-22:30",
+    "phone": "+41 44 577 52 10",
+    "takeaway": "yes",
+    "website": "http://www.restaurant-troja.ch/",
+    "wheelchair": "no"
+  },
+  "id": 5533971968
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3476213,
+      47.3515379
+    ]
+  },
+  "properties": {
+    "id": 401573863,
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "level": "0",
+    "name": "Pizzaway",
+    "opening_hours": "Mo-Sa 09:00-22:00; Su 11:00-22:00",
+    "takeaway": "yes",
+    "website": "https://pizzaway.ch",
+    "wheelchair": "limited"
+  },
+  "id": 401573863
+}

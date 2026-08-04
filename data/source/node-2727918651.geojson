@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1490594,
+      46.2109952
+    ]
+  },
+  "properties": {
+    "id": 2727918651,
+    "addr:housenumber": "20",
+    "addr:street": "Rue des P\u00e2quis",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-10-07",
+    "delivery": "no",
+    "internet_access": "yes",
+    "name": "Auberge de Saviese",
+    "opening_hours": "Mo-Su 12:00-23:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+41 22 732 83 30",
+    "takeaway": "no",
+    "website": "https://www.aubergedesaviese.com/",
+    "wheelchair": "limited"
+  },
+  "id": 2727918651
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6212215,
+      47.4141468
+    ]
+  },
+  "properties": {
+    "id": 1370921174,
+    "addr:city": "Dietlikon",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "8305",
+    "addr:street": "Alte D\u00fcbendorferstrasse",
+    "amenity": "restaurant",
+    "branch": "Dietlikon",
+    "brand": "dieci",
+    "cuisine": "pizza;pasta",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "name": "Dieci Restaurant",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:00; Sa 11:00-22:00",
+    "operator": "Dieci",
+    "phone": "+41 44 833 83 40",
+    "website": "https://dieci.ch/de/restaurant-dietlikon",
+    "wheelchair": "yes"
+  },
+  "id": 1370921174
+}

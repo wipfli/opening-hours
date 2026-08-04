@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7121952,
+      47.2983398
+    ]
+  },
+  "properties": {
+    "id": 12949206417,
+    "addr:housenumber": "5",
+    "addr:place": "Ellenwis",
+    "amenity": "restaurant",
+    "check_date": "2025-06-24",
+    "email": "ikowa@bluewin.ch",
+    "name": "Jambo",
+    "opening_hours": "Th,Fr 18:00-22:00; Sa,Su 10:00-22:00",
+    "phone": "+41 79 563 77 01",
+    "website": "https://ikowa.ch"
+  },
+  "id": 12949206417
+}

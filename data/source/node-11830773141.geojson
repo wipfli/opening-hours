@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6299586,
+      46.5203892
+    ]
+  },
+  "properties": {
+    "id": 11830773141,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "7",
+    "addr:postcode": "1003",
+    "addr:street": "Place de l'Europe",
+    "amenity": "restaurant",
+    "check_date": "2025-09-11",
+    "check_date:currency:XBT": "2025-09-11",
+    "cuisine": "burger;western;mediterranean;brunch",
+    "currency:XBT": "yes",
+    "email": "hello@blackluna.ch",
+    "indoor_seating": "yes",
+    "name": "Black Luna",
+    "opening_hours": "Fr-Sa 11:00-02:00; Su-We 11:00-24:00; Th 11:00-01:00",
+    "outdoor_seating": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "no",
+    "phone": "+41 21 311 44 27",
+    "website": "https://blackluna.ch/"
+  },
+  "id": 11830773141
+}

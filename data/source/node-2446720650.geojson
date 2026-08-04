@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6311846,
+      46.5215882
+    ]
+  },
+  "properties": {
+    "id": 2446720650,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "18",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Grand-Saint-Jean",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/aux.trois.tonneaux",
+    "cuisine": "brasserie;regional",
+    "email": "zuzanna@aux-trois-tonneaux.ch",
+    "name": "Aux Trois Tonneaux",
+    "opening_hours": "Mo 11:30-14:30; Tu-Fr 11:30-14:30, 18:30-23:45; Sa 19:00-23:45",
+    "phone": "+41 21 312 02 66",
+    "website": "https://www.aux-trois-tonneaux.ch"
+  },
+  "id": 2446720650
+}

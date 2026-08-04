@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5063523,
+      47.413555
+    ]
+  },
+  "properties": {
+    "id": 12573777346,
+    "addr:city": "Laufen",
+    "addr:housenumber": "81",
+    "addr:postcode": "4242",
+    "addr:street": "Wahlenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Le Cocon",
+    "opening_hours": "Mo-Fr 08:00-14:00",
+    "phone": "+41 61 765 20 00",
+    "website": "https://www.lapetitechenille.ch/general-8"
+  },
+  "id": 12573777346
+}

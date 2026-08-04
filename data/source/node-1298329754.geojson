@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7979933,
+      46.9195662
+    ]
+  },
+  "properties": {
+    "id": 1298329754,
+    "addr:housenumber": "4",
+    "addr:street": "Route du Plan-Jacot",
+    "amenity": "restaurant",
+    "check_date": "2026-02-16",
+    "check_date:opening_hours": "2026-02-16",
+    "cuisine": "local",
+    "name": "Auberge du Plan Jacot",
+    "opening_hours": "We-Fr 10:00-15:00, 18:30-23:00; Sa 10:00-23:00; Su 10:00-17:00",
+    "phone": "+4132 846 32 70",
+    "website": "https://www.planjacot.ch",
+    "website:menu": "https://www.planjacot.ch/Mobile/carte.htm"
+  },
+  "id": 1298329754
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5925019,
+      47.5618305
+    ]
+  },
+  "properties": {
+    "id": 7673740691,
+    "addr:city": "Basel",
+    "addr:housenumber": "11",
+    "addr:postcode": "4058",
+    "addr:street": "Untere Rebgasse",
+    "alt_name": "Migros Restaurant Claramarkt",
+    "amenity": "restaurant",
+    "branch": "Basel Claramarkt",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "indoor_seating": "yes",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Basel",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-basel-claramarkt"
+  },
+  "id": 7673740691
+}

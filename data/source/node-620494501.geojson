@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4377355,
+      46.9358231
+    ]
+  },
+  "properties": {
+    "id": 620494501,
+    "access": "yes",
+    "amenity": "restaurant",
+    "contact:addr": "Friedheimweg 18, 3007 Bern",
+    "contact:email": "willkommen@serini-kantine.ch",
+    "contact:phone": "+41 31 3711592",
+    "name": "Serini Kantine",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa-Su off; PH off",
+    "operator": "CHEF-CHEF GmbH",
+    "website": "https://www.serini-kantine.ch"
+  },
+  "id": 620494501
+}

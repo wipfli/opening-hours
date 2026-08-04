@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5197963,
+      47.3716984
+    ]
+  },
   "properties": {
-    "@id": "node/11497255969",
+    "id": 11497255969,
     "addr:postcode": "8003",
     "amenity": "restaurant",
     "check_date": "2024-06-24",
@@ -17,12 +24,5 @@
     "website": "https://www.ameo-restaurant.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5197963,
-      47.3716984
-    ]
-  },
-  "id": "node-11497255969"
+  "id": 11497255969
 }

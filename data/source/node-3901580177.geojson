@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0543213,
+      46.0866763
+    ]
+  },
+  "properties": {
+    "id": 3901580177,
+    "addr:housenumber": "28",
+    "addr:street": "Route du Grand-St-Bernard",
+    "amenity": "restaurant",
+    "check_date": "2025-11-29",
+    "cuisine": "cheese",
+    "diet:local": "yes",
+    "internet_access": "wlan",
+    "name": "La Fromath\u00e8que",
+    "opening_hours": "09:00-21:00",
+    "phone": "+41 27 565 86 86",
+    "shop": "cheese",
+    "website": "https://lafromatheque.ch"
+  },
+  "id": 3901580177
+}

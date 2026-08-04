@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6265167,
+      46.7614558
+    ]
+  },
+  "properties": {
+    "id": 3267356269,
+    "alt_name": "Eurasia Thai Restaurant & Takeaway",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Eurasia",
+    "opening_hours": "10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 222 28 38",
+    "website": "https://www.eurasiathun.ch/"
+  },
+  "id": 3267356269
+}

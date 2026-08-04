@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1887213,
+      46.8490801
+    ]
+  },
+  "properties": {
+    "id": 613403047,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@desalpes.org",
+    "fax": "+41 26 493 32 86",
+    "name": "Des Alpes",
+    "opening_hours": "Mo off; Tu-Th 07:30-23:30;Fr-Sa 07:30-24:00; Su 07:30-22:00",
+    "phone": "+41 26 493 32 40",
+    "smoking": "no",
+    "tourism": "hotel",
+    "website": "https://www.desalpes.org/",
+    "wheelchair": "yes"
+  },
+  "id": 613403047
+}

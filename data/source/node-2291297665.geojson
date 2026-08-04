@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0801165,
+      47.3457943
+    ]
+  },
+  "properties": {
+    "id": 2291297665,
+    "addr:city": "Dietfurt",
+    "addr:housenumber": "20",
+    "addr:postcode": "9615",
+    "addr:street": "Landstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "no",
+    "brewery": "yes",
+    "capacity": "200",
+    "check_date": "2023-02-07",
+    "cuisine": "local",
+    "highchair": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "microbrewery": "no",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Mo,Tu 08:30-14:00,17:00-20:30; We 08:30-13:30; Th off; Fr 08:30-14:00,17:00-22:00; Sa 10:00-14:00,17:00-22:00; Su 10:00-20:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "phone": "+41 71 983 15 91",
+    "reservation": "yes",
+    "smoking": "outside",
+    "website": "https://roessli.business.site/",
+    "wheelchair": "yes"
+  },
+  "id": 2291297665
+}

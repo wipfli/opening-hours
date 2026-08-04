@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5490837,
+      47.3659313
+    ]
+  },
   "properties": {
-    "@id": "node/268469567",
+    "id": 268469567,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "2",
@@ -16,12 +23,5 @@
     "website": "https://www.commercio.ch/commercio/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5490837,
-      47.3659313
-    ]
-  },
-  "id": "node-268469567"
+  "id": 268469567
 }

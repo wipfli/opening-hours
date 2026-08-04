@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6179925,
+      46.5138523
+    ]
+  },
+  "properties": {
+    "id": 4717198400,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4c",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue des Bains",
+    "amenity": "restaurant",
+    "contact:facebook": "vertigobyanna",
+    "diet:vegan": "only",
+    "name": "Vertigo by Anna",
+    "opening_hours": "Mo-Fr 08:00-15:00",
+    "phone": "+41 21 543 64 22",
+    "takeaway": "yes",
+    "website": "https://vertigobyanna.ch"
+  },
+  "id": 4717198400
+}

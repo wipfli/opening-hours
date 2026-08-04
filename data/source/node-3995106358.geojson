@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1401184,
+      47.5188481
+    ]
+  },
+  "properties": {
+    "id": 3995106358,
+    "addr:city": "M\u00f6nthal",
+    "addr:country": "CH",
+    "addr:full": "Hauptstrasse 156, 5237 M\u00f6nthal",
+    "addr:housenumber": "156",
+    "addr:postcode": "5237",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-05",
+    "check_date:opening_hours": "2026-07-05",
+    "contact:instagram": "romanamoenthal",
+    "email": "ristoranteromana@bluewin.ch",
+    "name": "Ristorante Pizzeria Romana",
+    "opening_hours": "Mo-Tu, Th-Sa 10:00-13:30, 17:00-23:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 284 1393",
+    "self_service": "no",
+    "website": "https://ristoranteromana.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3995106358
+}

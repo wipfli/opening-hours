@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1669634,
+      46.6214933
+    ]
+  },
+  "properties": {
+    "id": 480396365,
+    "amenity": "restaurant",
+    "name": "H\u00e4ngela",
+    "opening_hours": "May 11:00-18:00; Jun-Aug 11:00-22:00; Oct 11:00-18:00",
+    "source": "survey",
+    "website": "https://www.haengela.ch"
+  },
+  "id": 480396365
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5242895,
+      47.4123897
+    ]
+  },
+  "properties": {
+    "id": 3729613506,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "310",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-06-02",
+    "diet:vegetarian": "yes",
+    "email": "info@tibetaner.ch",
+    "name": "Tibetaner",
+    "opening_hours": "Mo-Fr 10:30-22:00; Sa-Su 16:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 76 584 11 78",
+    "website": "https://www.tibetaner.ch/"
+  },
+  "id": 3729613506
+}

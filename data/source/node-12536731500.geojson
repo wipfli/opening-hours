@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5760513,
+      47.5605496
+    ]
+  },
+  "properties": {
+    "id": 12536731500,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Bistro Wohnwerk",
+    "opening_hours": "Mo-Fr 09:00-14:00",
+    "operator": "Stiftung WohnWerk",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://wohnwerk-bs.ch/"
+  },
+  "id": 12536731500
+}

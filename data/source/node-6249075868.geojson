@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3696469,
+      47.4233218
+    ]
+  },
+  "properties": {
+    "id": 6249075868,
+    "addr:city": "Spreitenbach",
+    "addr:postcode": "8957",
+    "alt_name": "Migros Restaurant Tivoli",
+    "amenity": "restaurant",
+    "branch": "Spreitenbach Tivoli",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "level": "3",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:15-20:00, Sa 08:00-20:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-spreitenbach-tivoli"
+  },
+  "id": 6249075868
+}

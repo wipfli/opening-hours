@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3744319,
+      46.9446702
+    ]
+  },
+  "properties": {
+    "id": 7671137613,
+    "addr:city": "Bern",
+    "addr:housenumber": "4",
+    "addr:place": "Gilberte-de-Courgenay-Platz",
+    "addr:postcode": "3027",
+    "amenity": "restaurant",
+    "branch": "Bern Westside",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "westside@nooch.ch",
+    "level": "1",
+    "level:ref": "0",
+    "name": "Nooch",
+    "opening_hours": "Mo-Sa 10:00-23:00; Su 10:00-22:00",
+    "opening_hours:kitchen": "Mo-Sa 10:00-22:00; Su 10:00-21:30",
+    "phone": "+41 31 331 15 11",
+    "website": "https://nooch.ch/bern-westside/"
+  },
+  "id": 7671137613
+}

@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0799016,
+      47.4207051
+    ]
+  },
+  "properties": {
+    "id": 5370206223,
+    "amenity": "restaurant",
+    "name": "Buffet de la gare",
+    "opening_hours": "Mo-Su 06:00-24:00",
+    "website": "https://www.juragourmand.ch/buffetdelagare"
+  },
+  "id": 5370206223
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533983,
+      47.3788678
+    ]
+  },
+  "properties": {
+    "id": 13839573098,
+    "amenity": "restaurant",
+    "description": "menu: https://menu.tablesnappr.com/bridgezurich/#/",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "basic @ bridge",
+    "opening_hours": "Mo-Sa 11:30-21:30",
+    "operator": "bridge",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "website": "https://www.bridgezurich.ch/de/startseite/",
+    "wheelchair": "yes"
+  },
+  "id": 13839573098
+}

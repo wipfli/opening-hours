@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7399559,
+      47.4943016
+    ]
+  },
+  "properties": {
+    "id": 2570468652,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "70",
+    "addr:postcode": "8400",
+    "addr:street": "T\u00f6sstalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;french;spanish",
+    "diet:vegetarian": "yes",
+    "email": "info@algiardino.ch",
+    "name": "Al Giardino",
+    "opening_hours": "Tu-Th 11:30-14:00,17:30-23:30; Fr 11:30-14:00,17:30-24:00; Sa 17:30-24:00; Su,Mo off",
+    "website": "https://algiardino.ch/"
+  },
+  "id": 2570468652
+}

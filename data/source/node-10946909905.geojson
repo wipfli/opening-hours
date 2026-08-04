@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6928083,
+      47.4714763
+    ]
+  },
+  "properties": {
+    "id": 10946909905,
+    "addr:city": "Nuglar",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "4412",
+    "addr:street": "Dorfplatz",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "name": "Schwarzbueb",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00-22:30",
+    "phone": "+41 61 913 07 07",
+    "website": "https://www.restaurant-schwarzbueb.ch/"
+  },
+  "id": 10946909905
+}

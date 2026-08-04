@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6337653,
+      47.6978358
+    ]
+  },
+  "properties": {
+    "id": 803015308,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8200",
+    "addr:street": "Vorstadt",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Bambus",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.bambus.sh/",
+    "wheelchair": "no"
+  },
+  "id": 803015308
+}

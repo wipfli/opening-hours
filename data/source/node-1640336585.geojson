@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6307171,
+      46.5216295
+    ]
+  },
+  "properties": {
+    "id": 1640336585,
+    "addr:housenumber": "18",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Adrien-Pichard",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-12-10",
+    "contact:facebook": "CoccinelleCafe",
+    "contact:instagram": "coccinellecafelausanne",
+    "cuisine": "french",
+    "email": "info@coccinelle-cafe.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "La Coccinelle",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 312 08 90",
+    "smoking": "outside",
+    "website": "https://www.coccinelle-cafe.ch",
+    "wheelchair": "no"
+  },
+  "id": 1640336585
+}

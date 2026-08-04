@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1619801,
+      46.1934918
+    ]
+  },
+  "properties": {
+    "id": 1457848341,
+    "addr:housenumber": "57",
+    "addr:postcode": "1206",
+    "addr:street": "Route de Florissant",
+    "amenity": "restaurant",
+    "contact:facebook": "people/La-Maison-du-G%C3%A2teau/100093731252595",
+    "contact:instagram": "la_maison_du_gateau_geneve",
+    "cuisine": "breakfast;cake;coffee_shop;sandwich;tea",
+    "email": "serviceclients@lamaisondugateau.ch",
+    "name": "La Maison du G\u00e2teau",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "phone": "+41227890800",
+    "website": "https://lamaisondugateau.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "pente \u00e0 l'entr\u00e9e de 5% avec porte automatique; WC adapt\u00e9s"
+  },
+  "id": 1457848341
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5397124,
+      47.3751744
+    ]
+  },
   "properties": {
-    "@id": "node/271411936",
+    "id": 271411936,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "3",
@@ -16,12 +23,5 @@
     "website": "https://www.lotti-lokal.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5397124,
-      47.3751744
-    ]
-  },
-  "id": "node-271411936"
+  "id": 271411936
 }

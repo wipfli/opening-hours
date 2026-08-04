@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5909251,
+      47.5670229
+    ]
+  },
+  "properties": {
+    "id": 7809972322,
+    "addr:city": "Basel",
+    "addr:housenumber": "86",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "indoor_seating": "yes",
+    "name": "Boo",
+    "opening_hours": "Mo-Fr 11:30-14:00, 18:00-22:00; Sa-Su 18:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 681 41 08",
+    "smoking": "outside",
+    "website": "https://www.boobasel.com/klybeck"
+  },
+  "id": 7809972322
+}

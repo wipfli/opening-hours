@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9636868,
+      46.0118061
+    ]
+  },
+  "properties": {
+    "id": 4401116389,
+    "addr:housenumber": "1",
+    "addr:postcode": "6962",
+    "addr:street": "Via Luigi Taddei",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;breakfast;italian;italian_pizza;local;ice_cream;pasta;fish;pizza;cake;tea",
+    "name": "Cafe Vergnano 1882",
+    "name:de": "Cafe Vergnano 1882",
+    "name:fr": "Caf\u00e9 Vergnano 1882",
+    "name:it": "Caff\u00e8 Vergnano 1882",
+    "opening_hours": "Mo-Sa 05:00-00:00",
+    "website": "https://www.caffevergnano.com/"
+  },
+  "id": 4401116389
+}

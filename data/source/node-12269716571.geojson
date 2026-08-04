@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4985369,
+      46.8379062
+    ]
+  },
+  "properties": {
+    "id": 12269716571,
+    "amenity": "restaurant",
+    "check_date": "2026-07-21",
+    "check_date:opening_hours": "2026-07-21",
+    "cuisine": "local;spanish",
+    "email": "speiserestaurant.linde@bluewin.ch",
+    "name": "Linde",
+    "opening_hours": "We-Sa 10:00-14:00, 17:00-23:30; Su 11:00-14:30, 17:00-22:00",
+    "phone": "+41 31 802 04 64",
+    "website": "https://www.lindekaufdorf.ch/",
+    "website:menu": "https://www.lindekaufdorf.ch/Speisekarte/"
+  },
+  "id": 12269716571
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4032375,
+      47.3034871
+    ]
+  },
+  "properties": {
+    "id": 1726215137,
+    "addr:city": "Jonen",
+    "addr:housenumber": "7",
+    "addr:place": "Litzi",
+    "addr:postcode": "8916",
+    "amenity": "restaurant",
+    "name": "Restaurant Litzi",
+    "opening_hours": "We-Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "website": "https://litzi.ch/"
+  },
+  "id": 1726215137
+}

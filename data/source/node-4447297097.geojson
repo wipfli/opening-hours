@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5188077,
+      47.3721676
+    ]
+  },
   "properties": {
-    "@id": "node/4447297097",
+    "id": 4447297097,
     "addr:housenumber": "53",
     "addr:postcode": "8003",
     "addr:street": "Zentralstrasse",
@@ -20,12 +27,5 @@
     "website:menu": "https://ooki.tokyo/data/files/ENG_Ooki_MenueInhalt_20241017.pdf",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5188077,
-      47.3721676
-    ]
-  },
-  "id": "node-4447297097"
+  "id": 4447297097
 }

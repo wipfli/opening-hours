@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3099192,
+      47.472532
+    ]
+  },
+  "properties": {
+    "id": 1759992890,
+    "addr:housenumber": "2",
+    "addr:street": "Untere Halde",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "check_date": "2025-11-02",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Grosser Alexander",
+    "opening_hours": "Tu-Sa 11:45-13:30,18:00-22:00; Su 12:00-15:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "takeaway": "no",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.bigalex.ch",
+    "wheelchair": "no"
+  },
+  "id": 1759992890
+}

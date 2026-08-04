@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4553492,
+      46.7379344
+    ]
+  },
+  "properties": {
+    "id": 6416517758,
+    "addr:city": "Almens",
+    "addr:housenumber": "12",
+    "addr:postcode": "7416",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "name": "Landhus Almens",
+    "opening_hours": "Su 09:00-18:30; We-Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://landhus-almens.ch/athome.html"
+  },
+  "id": 6416517758
+}

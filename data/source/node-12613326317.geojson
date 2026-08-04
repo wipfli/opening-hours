@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1388678,
+      46.1915613
+    ]
+  },
+  "properties": {
+    "id": 12613326317,
+    "addr:city": "Les Acacias",
+    "addr:housenumber": "11",
+    "addr:postcode": "1227",
+    "addr:street": "Rue Caroline",
+    "amenity": "restaurant",
+    "name": "L'Agape",
+    "opening_hours": "Tu-Sa 12:00-15:00, Tu-Sa 19:00-24:00",
+    "website": "https://www.lagape.ch/"
+  },
+  "id": 12613326317
+}

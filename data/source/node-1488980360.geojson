@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.712539,
+      47.4907705
+    ]
+  },
+  "properties": {
+    "id": 1488980360,
+    "amenity": "restaurant",
+    "check_date": "2024-07-26",
+    "cuisine": "regional",
+    "name": "Zum gr\u00fcnen Hund",
+    "opening_hours": "\"temporarily closed\"",
+    "phone": "+41 52 212 13 36",
+    "website": "http://gruenerhund.ch"
+  },
+  "id": 1488980360
+}

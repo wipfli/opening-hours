@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2118883,
+      47.4618042
+    ]
+  },
+  "properties": {
+    "id": 1975430135,
+    "addr:city": "Hausen AG",
+    "addr:housenumber": "33",
+    "addr:postcode": "5212",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-18",
+    "cuisine": "regional",
+    "name": "Max und Moritz",
+    "opening_hours": "Mo off; Tu-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 441 33 11",
+    "website": "https://maxundmoritz-hausen.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1975430135
+}

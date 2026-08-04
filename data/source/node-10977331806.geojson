@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.989451,
+      47.1204617
+    ]
+  },
+  "properties": {
+    "id": 10977331806,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@dafusco.ch",
+    "name": "da Fusco",
+    "opening_hours": "Tu-Sa 10:00-14:00,17:00-23:00",
+    "phone": "+41 41 970 01 00",
+    "website": "https://www.dafusco.ch"
+  },
+  "id": 10977331806
+}

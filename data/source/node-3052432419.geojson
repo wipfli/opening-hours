@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3510465,
+      46.9336215
+    ]
+  },
+  "properties": {
+    "id": 3052432419,
+    "addr:city": "Bern",
+    "addr:housenumber": "35",
+    "addr:postcode": "3019",
+    "addr:street": "Matzenriedstrasse",
+    "alt_name": "Hotel & Restaurant B\u00e4ren Oberbottigen",
+    "amenity": "restaurant",
+    "email": "hotel@baeren-oberbottigen.ch",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo off; Tu-Sa 09:00-23:30; Su off",
+    "operator": "Familie Mettler-Sch\u00e4r",
+    "phone": "+41 31 926 14 24",
+    "website": "https://www.baeren-oberbottigen.ch/restaurant"
+  },
+  "id": 3052432419
+}

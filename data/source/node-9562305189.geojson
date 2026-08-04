@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6267679,
+      47.5478024
+    ]
+  },
+  "properties": {
+    "id": 9562305189,
+    "addr:city": "Birsfelden",
+    "addr:housenumber": "2",
+    "addr:postcode": "4127",
+    "addr:street": "Florastrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@mangiaebevi.ch",
+    "indoor_seating": "yes",
+    "name": "cafe flora mangia e bevi",
+    "opening_hours": "Tu-Fr 12:00-13:30,17:30-21:30; Sa 17:30-21:30; Su,Mo off",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 944 29 45",
+    "website": "https://www.mangiaebevi.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 9562305189
+}

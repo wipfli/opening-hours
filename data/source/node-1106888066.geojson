@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1366212,
+      46.2885987
+    ]
+  },
+  "properties": {
+    "id": 1106888066,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-11",
+    "email": "info@refuge-solalex.ch",
+    "name": "Caf\u00e9 Restaurant de Solalex",
+    "name:fr": "Le Refuge de Solalex",
+    "opening_hours": "Jan 04-Mar 31,May 01-Nov 10 11:00-22:00; Dec 21-22 11:00-22:00; Dec 24 11:00-22:00",
+    "phone": "+41 24 498 27 09",
+    "website": "https://refuge-solalex.ch/"
+  },
+  "id": 1106888066
+}

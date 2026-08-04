@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478868,
+      47.3649526
+    ]
+  },
   "properties": {
-    "@id": "node/4880906379",
+    "id": 4880906379,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "2",
@@ -11,7 +18,7 @@
     "amenity": "restaurant",
     "branch": "Z\u00fcrich Seefeld",
     "brand": "tibits",
-    "check_date": "2024-02-06",
+    "check_date": "2026-03-28",
     "diet:vegan": "yes",
     "diet:vegetarian": "only",
     "indoor_seating": "yes",
@@ -25,12 +32,5 @@
     "website": "https://www.tibits.ch/de/restaurants#tibits-zuerich",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5478868,
-      47.3649526
-    ]
-  },
-  "id": "node-4880906379"
+  "id": 4880906379
 }

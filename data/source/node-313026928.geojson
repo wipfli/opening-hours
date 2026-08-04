@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5164278,
+      47.3758295
+    ]
+  },
   "properties": {
-    "@id": "node/313026928",
+    "id": 313026928,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "81",
@@ -23,12 +30,5 @@
     "website": "https://www.fivespices.biz/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5164278,
-      47.3758295
-    ]
-  },
-  "id": "node-313026928"
+  "id": 313026928
 }

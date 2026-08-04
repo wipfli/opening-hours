@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5296036,
+      47.3825398
+    ]
+  },
   "properties": {
-    "@id": "node/312580271",
+    "id": 312580271,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "197",
@@ -20,12 +27,5 @@
     "website": "https://lilys.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5296036,
-      47.3825398
-    ]
-  },
-  "id": "node-312580271"
+  "id": 312580271
 }

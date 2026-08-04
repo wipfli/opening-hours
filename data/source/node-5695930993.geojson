@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4999827,
+      47.2349678
+    ]
+  },
+  "properties": {
+    "id": 5695930993,
+    "addr:city": "Salez",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "9465",
+    "addr:street": "Sennwalderstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gasthaus L\u00f6wen",
+    "opening_hours": "Tu-Fr 08:30-14:00, 17:00-23:00; Sa 10:00-14:00, 17:00-23:00; Su 11:00-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 599 19 19",
+    "website": "https://loewen-salez.ch/"
+  },
+  "id": 5695930993
+}

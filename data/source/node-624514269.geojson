@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0301756,
+      47.3771339
+    ]
+  },
+  "properties": {
+    "id": 624514269,
+    "addr:city": "Aarau",
+    "addr:postcode": "5000",
+    "addr:street": "Roggenhausenweg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@restaurant-roggenhausen.ch",
+    "name": "Roggenhausen",
+    "opening_hours": "Mo-We 10:00-18:00; Th-Sa 10:00-22:00; Su 10:00-18:00",
+    "phone": "+41 62 559 76 00",
+    "website": "https://www.restaurant-roggenhausen.ch/"
+  },
+  "id": 624514269
+}

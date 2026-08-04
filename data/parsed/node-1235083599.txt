@@ -1,8 +1,0 @@
-Looking at the opening hours from the website:
-
-- Di–Mi (Tuesday–Wednesday): 17:00–24:00
-- Do–Sa (Thursday–Saturday): 17:00–02:00
-
-Converting to OpenStreetMap format:
-
-Tu-We 17:00-24:00; Th-Sa 17:00-02:00

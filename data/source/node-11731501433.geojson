@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5259118,
+      47.3133167
+    ]
+  },
+  "properties": {
+    "id": 11731501433,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-01-14",
+    "email": "info@sussundsalzig.ch",
+    "name": "Lo-Mo",
+    "opening_hours": "Mo-Tu 09:00-14:30,16:30-21:00; We-Th 09:00-14:30,16:30-22:00; Fr 09:00-22:00; Sa 11:30-22:00; Su 11:30-21:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "phone": "+41 78 658 58 28",
+    "website": "https://www.lomorestaurant.ch/",
+    "website:menu": "https://lomorestaurant.ch/_files/ugd/04db56_4df783513b544957a7296af0a1c5915b.pdf"
+  },
+  "id": 11731501433
+}

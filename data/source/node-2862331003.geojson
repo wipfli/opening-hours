@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9879557,
+      46.3168815
+    ]
+  },
+  "properties": {
+    "id": 2862331003,
+    "amenity": "restaurant",
+    "check_date": "2026-07-04",
+    "cuisine": "regional;italian",
+    "email": "info.couronnebrig@gmail.com",
+    "name": "Couronne",
+    "opening_hours": "08:30-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 27 924 24 64",
+    "website": "https://couronne-restaurant.com/",
+    "wheelchair": "limited"
+  },
+  "id": 2862331003
+}

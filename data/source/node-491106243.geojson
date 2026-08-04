@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5953513,
+      47.4085621
+    ]
+  },
+  "properties": {
+    "id": 491106243,
+    "addr:city": "Wallisellen",
+    "addr:housenumber": "99",
+    "addr:postcode": "8301",
+    "addr:street": "Neue Winterthurerstrasse",
+    "alt_name": "SPIGA Glattzentrum",
+    "amenity": "restaurant",
+    "branch": "Wallisellen Glattzentrum",
+    "brand": "SPIGA",
+    "cuisine": "italian",
+    "level": "2",
+    "name": "Spiga",
+    "opening_hours": "Mo-Sa 08:00-21:00",
+    "operator": "SV (Schweiz)",
+    "website": "https://www.spiga-ristorante.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 491106243
+}

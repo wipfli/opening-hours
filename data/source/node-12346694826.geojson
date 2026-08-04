@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7800644,
+      47.246719
+    ]
+  },
+  "properties": {
+    "id": 12346694826,
+    "addr:housenumber": "8",
+    "addr:street": "Garstligweg",
+    "amenity": "restaurant",
+    "level": "2",
+    "name": "Arcade Catering",
+    "opening_hours": "Mo-Fr 09:00-13:00; Sa-Su,PH off",
+    "phone": "+41 55 244 13 13",
+    "website": "https://www.arcade-catering.ch/"
+  },
+  "id": 12346694826
+}

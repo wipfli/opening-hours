@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.279715,
+      46.4476072
+    ]
+  },
+  "properties": {
+    "id": 5664696403,
+    "addr:city": "Vinzel",
+    "addr:housenumber": "12",
+    "addr:postcode": "1184",
+    "addr:street": "Route du Vignoble",
+    "amenity": "restaurant",
+    "cuisine": "regional;malakoff",
+    "name": "Au Coeur de la C\u00f4te Malakoff",
+    "opening_hours": "We-Su 09:00-23:00",
+    "phone": "+41 21 824 11 41",
+    "website": "https://www.malakoffvinzel.ch/"
+  },
+  "id": 5664696403
+}

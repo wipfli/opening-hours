@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8491761,
+      46.4579609
+    ]
+  },
+  "properties": {
+    "id": 7501688641,
+    "amenity": "restaurant",
+    "contact:facebook": "filume.vevey",
+    "contact:instagram": "filume_vevey",
+    "cuisine": "italian",
+    "diet:pescetarian": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@filume.ch",
+    "name": "Filum\u00e9",
+    "old_name": "La Marina",
+    "opening_hours": "Mo 11:30-15:00; We-Su 11:30-15:00, 18:00-22:00",
+    "phone": "+41 21 921 66 10",
+    "website": "https://filume.ch",
+    "website:menu": "https://filume.ch/#starter"
+  },
+  "id": 7501688641
+}

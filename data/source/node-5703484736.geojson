@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4600046,
+      46.9673476
+    ]
+  },
+  "properties": {
+    "id": 5703484736,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "82",
+    "addr:postcode": "3014",
+    "addr:street": "Stauffacherstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@freibank.ch",
+    "contact:facebook": "https://www.facebook.com/FreibankBern",
+    "contact:instagram": "https://www.instagram.com/freibankbern",
+    "contact:phone": "+41 31 3331440",
+    "contact:twitter": "https://twitter.com/freibankbern",
+    "contact:website": "https://www.freibank.ch",
+    "indoor_seating": "yes",
+    "name": "Freibank",
+    "opening_hours": "Mo-Fr 11:00-21:00; Sa-Su off; PH off",
+    "operator": "Eggstern & Partner GmbH",
+    "smoking": "outside",
+    "source": "Survey and Orthofotos Stadt Bern",
+    "website": "https://www.freibank.ch"
+  },
+  "id": 5703484736
+}

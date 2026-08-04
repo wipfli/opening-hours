@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5885365,
+      47.5552593
+    ]
+  },
+  "properties": {
+    "id": 6556102796,
+    "amenity": "restaurant",
+    "contact:phone": "+41 61 271 11 19",
+    "indoor_seating": "yes",
+    "name": "Anatolia",
+    "opening_hours": "Tu-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.restaurant-anatolia.ch/"
+  },
+  "id": 6556102796
+}

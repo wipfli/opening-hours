@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6363424,
+      46.5201863
+    ]
+  },
+  "properties": {
+    "id": 2167334876,
+    "addr:housenumber": "17",
+    "addr:street": "Rue Cheneau-de-Bourg",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Holy Cow",
+    "opening_hours": "Mo-We, Su 11:00-22:00; Th-Sa 11:00-23:00",
+    "website": "https://www.holycow.ch/",
+    "wheelchair": "no"
+  },
+  "id": 2167334876
+}

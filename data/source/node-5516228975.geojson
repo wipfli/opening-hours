@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6266575,
+      46.5214175
+    ]
+  },
+  "properties": {
+    "id": 5516228975,
+    "addr:housenumber": "22",
+    "addr:postcode": "1003",
+    "addr:street": "Rue des C\u00f4tes-de-Montbenon",
+    "amenity": "restaurant",
+    "check_date": "2022-09-23",
+    "contact:facebook": "100064741033954",
+    "contact:instagram": "tokyorestaurantflon",
+    "cuisine": "japanese",
+    "diet:vegetarian": "yes",
+    "email": "tokyo6-15@hotmail.com",
+    "indoor_seating": "yes",
+    "name": "Tokyo",
+    "opening_hours": "Mo, Tu 11:00-14:30, 17:30-23:00; We-Su 11:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 331 00 13",
+    "website": "https://www.le-tokyo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5516228975
+}

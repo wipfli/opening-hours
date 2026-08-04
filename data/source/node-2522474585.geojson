@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2897876,
+      47.1668412
+    ]
+  },
+  "properties": {
+    "id": 2522474585,
+    "addr:city": "Hochdorf",
+    "addr:housenumber": "32",
+    "addr:postcode": "6280",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Survarnaphum - Thai Restaurant",
+    "opening_hours": "Mo-Sa 11:00-13:30; Tu-Sa 17:00-21:00",
+    "opening_hours:delivery": "Tu-Sa 17:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 910 63 20",
+    "takeaway": "yes",
+    "website": "https://thai-essen.ch/"
+  },
+  "id": 2522474585
+}

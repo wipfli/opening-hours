@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2829851,
+      46.6294705
+    ]
+  },
+  "properties": {
+    "id": 11871970778,
+    "amenity": "restaurant",
+    "cuisine": "traditionnelle",
+    "name": "Ritzlli Alp",
+    "opening_hours": "mai/juin : ferm\u00e9 le lundi; juillet \u00e0 mi-septembre: 7/7",
+    "phone": "+41 26 929 81 24",
+    "website": "https://www.ritzlialp.ch/"
+  },
+  "id": 11871970778
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5932539,
+      47.5592231
+    ]
+  },
+  "properties": {
+    "id": 9350766919,
+    "addr:city": "Basel",
+    "addr:housenumber": "47",
+    "addr:postcode": "4058",
+    "addr:street": "Rheingasse",
+    "amenity": "restaurant",
+    "cuisine": "pasta",
+    "name": "Gabri's Pasta",
+    "opening_hours": "Mo-We 11:30-14:00; Th-Fr 11:30-14:00,17:30-22:00",
+    "phone": "+41 61 544 52 80",
+    "website": "https://www.gabrispasta.ch"
+  },
+  "id": 9350766919
+}

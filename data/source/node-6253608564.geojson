@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1299617,
+      46.2008374
+    ]
+  },
+  "properties": {
+    "id": 6253608564,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "1205",
+    "addr:street": "Rue des Deux-Ponts",
+    "amenity": "restaurant",
+    "capacity": "30",
+    "cuisine": "thai",
+    "name": "Maliwan Tha\u00ef Cuisine / Maliwan Thai Kitchen / \u0e21\u0e30\u0e25\u0e34\u0e27\u0e31\u0e25\u0e22\u0e4c\u0e04\u0e23\u0e31\u0e27\u0e44\u0e17\u0e22",
+    "opening_hours": "Mo-Sa 11:30-19:00",
+    "outdoor_seating": "no",
+    "phone": "+41 22 329 29 46",
+    "takeaway": "yes",
+    "website": "http://www.facebook.com/MaliwanThaiCuisine/"
+  },
+  "id": 6253608564
+}

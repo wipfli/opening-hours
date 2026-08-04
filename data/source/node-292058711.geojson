@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5774585,
+      47.5537008
+    ]
+  },
+  "properties": {
+    "id": 292058711,
+    "addr:city": "Basel",
+    "addr:housenumber": "56",
+    "addr:postcode": "4055",
+    "addr:street": "Sch\u00fctzenmattstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-06-08",
+    "diet:vegetarian": "yes",
+    "email": "restaurant@schuetzenhaus-basel.ch",
+    "indoor_seating": "yes",
+    "name": "Sch\u00fctzenhaus",
+    "opening_hours": "Mo-Sa 10:30-23:00; Su 10:30-22:00",
+    "opening_hours:kitchen": "Mo-Sa 11:30-14:00,18:00-22:00; Su 11:30-14:00,18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41612726760",
+    "smoking": "outside",
+    "website": "https://schuetzenhaus-basel.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 292058711
+}

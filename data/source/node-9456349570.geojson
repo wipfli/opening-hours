@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9029054,
+      46.4924993
+    ]
+  },
+  "properties": {
+    "id": 9456349570,
+    "amenity": "restaurant",
+    "check_date": "2024-08-05",
+    "cuisine": "Grill",
+    "diet:vegetarian": "no",
+    "email": "info@gianottis.ch",
+    "name": "Gianottis Wilderei",
+    "opening_hours": "PH,Th-Tu 09:00-24:00; We off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 81 842 70 90",
+    "website": "https://www.gianottis.ch",
+    "wheelchair": "yes"
+  },
+  "id": 9456349570
+}

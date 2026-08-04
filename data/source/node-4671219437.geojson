@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4873184,
+      46.5541371
+    ]
+  },
+  "properties": {
+    "id": 4671219437,
+    "amenity": "restaurant",
+    "description": "\u00d6ffnungszeiten: jedes Wochenende, sowie unter der Woche auf Anfrage",
+    "name": "Bergrestaurant zum Oberen Stierenberg",
+    "opening_hours": "summer; weekends",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 759 11 72",
+    "website": "https://grimmialp.ch/index.php/menu-gastronomie-2/bergrestaurant-zum-oberen-stierenberg"
+  },
+  "id": 4671219437
+}

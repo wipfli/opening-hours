@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5751844,
+      47.3843967
+    ]
+  },
+  "properties": {
+    "id": 271151271,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "231",
+    "addr:postcode": "8044",
+    "addr:street": "Z\u00fcrichbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "name": "Zoo Caff\u00e8 & Ristorante",
+    "opening_hours": "08:00-21:00",
+    "operator": "Zoo Z\u00fcrich",
+    "outdoor_seating": "yes",
+    "website": "https://www.zoo.ch/de/essen-trinken/zoo-caffe-ristorante"
+  },
+  "id": 271151271
+}

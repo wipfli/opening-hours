@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9359383,
+      46.9961741
+    ]
+  },
+  "properties": {
+    "id": 577373476,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:housenumber": "2",
+    "addr:postcode": "2000",
+    "addr:street": "Place de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Mei-Jing",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-22:00; Sa 17:30-22:00; Su 11:30-14:00,17:30-22:00",
+    "website": "http://www.restomeijing.com/",
+    "wheelchair": "no"
+  },
+  "id": 577373476
+}

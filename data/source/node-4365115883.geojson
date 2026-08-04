@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1486286,
+      46.2108145
+    ]
+  },
+  "properties": {
+    "id": 4365115883,
+    "addr:housenumber": "19",
+    "addr:street": "Rue des P\u00e2quis",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "La Grappe D'or",
+    "opening_hours": "Tu-Su 12:00-23:30",
+    "self_service": "no",
+    "website": "http://grappedor.ch",
+    "website:menu": "http://grappedor.ch",
+    "wheelchair": "limited"
+  },
+  "id": 4365115883
+}

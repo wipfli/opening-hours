@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3111039,
+      47.4077341
+    ]
+  },
+  "properties": {
+    "id": 538046453,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "9",
+    "addr:postcode": "9015",
+    "addr:street": "Breitfeldstrasse",
+    "amenity": "restaurant",
+    "email": "info@newstar-hotel.ch",
+    "name": "Restaurant New Star",
+    "opening_hours": "Mo-Sa 07:00-23:00",
+    "phone": "+41 71 230 20 20",
+    "website": "https://newstar.ch/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 538046453
+}

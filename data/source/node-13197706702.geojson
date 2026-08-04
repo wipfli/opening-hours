@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.534853,
+      46.8516094
+    ]
+  },
+  "properties": {
+    "id": 13197706702,
+    "addr:housenumber": "1",
+    "addr:postcode": "7000",
+    "addr:street": "Hofgraben",
+    "amenity": "restaurant",
+    "cuisine": "international;regional",
+    "email": "info@bytes-chur.ch",
+    "level": "0",
+    "name": "bytes",
+    "opening_hours": "Mo-Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41812530101",
+    "self_service": "no",
+    "website": "https://bytes-chur.ch/"
+  },
+  "id": 13197706702
+}

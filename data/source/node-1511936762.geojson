@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1076505,
+      47.1742075
+    ]
+  },
+  "properties": {
+    "id": 1511936762,
+    "addr:city": "Sursee",
+    "addr:housenumber": "3",
+    "addr:postcode": "6210",
+    "addr:street": "Sankt-Urban-Strasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Bahnh\u00f6fli",
+    "opening_hours": "Tu-Fr 11:00-14:00, Mo-Fr 17:00-24:00, Sa 17:00-24:00; Su,Mo off",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "http://www.bahnhoefli-sursee.ch",
+    "wheelchair": "yes",
+    "wheelchair:description": "nur Terasse m\u00f6glich"
+  },
+  "id": 1511936762
+}

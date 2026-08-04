@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5131189,
+      47.4157652
+    ]
+  },
+  "properties": {
+    "id": 3726058310,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "444",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-11",
+    "cuisine": "peruvian",
+    "email": "kontakt@khipuzurich.ch",
+    "name": "Khipu",
+    "old_name": "Frieden",
+    "opening_hours": "Tu-Th 11:30-14:30,18:00-23:00; Fr-Sa 10:00-14:30,18:00-23:00; Su 10:00-14:30,18:00-21:00",
+    "website": "https://www.khipuzurich.ch/"
+  },
+  "id": 3726058310
+}

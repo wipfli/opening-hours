@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.484946,
+      47.1809131
+    ]
+  },
+  "properties": {
+    "id": 4970198223,
+    "addr:city": "Zug",
+    "addr:housenumber": "169",
+    "addr:postcode": "6300",
+    "addr:street": "Chamerstrasse",
+    "amenity": "restaurant",
+    "name": "Centro Espa\u00f1ol Zug",
+    "opening_hours": "We,Th 11:00-14:00,17:00-22:00, Fr 11:00-14:00,17:00-24:00, Sa 11:00-24:00, Su 10:00-21:00",
+    "phone": "+41 76 421 83 20",
+    "source": "website",
+    "website": "https://www.centro-espanol-zug.ch/"
+  },
+  "id": 4970198223
+}

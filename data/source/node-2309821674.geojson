@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5038001,
+      46.933151
+    ]
+  },
+  "properties": {
+    "id": 2309821674,
+    "addr:city": "G\u00fcmligen",
+    "addr:country": "CH",
+    "addr:housename": "Zentrum Moos",
+    "addr:housenumber": "1",
+    "addr:postcode": "3073",
+    "addr:street": "Turbenweg",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-04-29",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 303 51 40",
+    "website": "http://www.coop.ch/pb/site/vstinfo/node/76518709/Lde/index.htm?#id=3316",
+    "wheelchair": "yes"
+  },
+  "id": 2309821674
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8342857,
+      46.8014345
+    ]
+  },
+  "properties": {
+    "id": 6168829127,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "100",
+    "addr:postcode": "7270",
+    "addr:street": "Promenade",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Piazza",
+    "opening_hours": "Mo-Su 12:00-23:00",
+    "phone": "+41 81 534 58 78",
+    "website": "https://lapiazzadavos.com/"
+  },
+  "id": 6168829127
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5366815,
+      47.4132592
+    ]
+  },
+  "properties": {
+    "id": 9510493016,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "130",
+    "addr:postcode": "8050",
+    "addr:street": "Binzm\u00fchlestrasse",
+    "amenity": "restaurant",
+    "name": "Octavo",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 633 72 23",
+    "smoking": "no",
+    "website": "https://ethz.ch/en/campus/getting-to-know/cafes-restaurants-shops/gastronomy/restaurants-and-cafeterias/oerlikon/octavo.html",
+    "wheelchair": "yes"
+  },
+  "id": 9510493016
+}

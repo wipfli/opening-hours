@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5262009,
+      47.3808758
+    ]
+  },
   "properties": {
-    "@id": "node/1235083599",
+    "id": 1235083599,
     "amenity": "restaurant",
     "check_date": "2023-12-13",
     "name": "Restaurant Schnupf / Rangierbahnhof",
@@ -10,12 +17,5 @@
     "website": "https://www.schnupf.bar/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5262009,
-      47.3808758
-    ]
-  },
-  "id": "node-1235083599"
+  "id": 1235083599
 }

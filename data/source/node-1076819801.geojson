@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7167292,
+      46.4931994
+    ]
+  },
+  "properties": {
+    "id": 1076819801,
+    "addr:postcode": "1091",
+    "amenity": "restaurant",
+    "contact:facebook": "toutunmondelavaux",
+    "contact:instagram": "toutunmondelavaux",
+    "cuisine": "regional",
+    "email": "info@toutunmonde.ch",
+    "name": "Tout un Monde",
+    "opening_hours": "Nov-Mar: Tu-Fr 11:30-15:00,18:30-23:00, Sa 11:30-23:00; Apr-Oct: Tu-Sa 11:30-23:00",
+    "phone": "+41 21 799 14 14",
+    "website": "https://toutunmonde.ch/"
+  },
+  "id": 1076819801
+}

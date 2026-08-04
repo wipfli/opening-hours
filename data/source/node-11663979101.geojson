@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.449291,
+      47.2017522
+    ]
+  },
+  "properties": {
+    "id": 11663979101,
+    "addr:city": "Selzach",
+    "addr:country": "CH",
+    "addr:housenumber": "20",
+    "addr:postcode": "2545",
+    "addr:street": "Bielstrasse",
+    "amenity": "restaurant",
+    "cuisine": "german;international;regional",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "wirtshaus@grabachern.ch",
+    "image": "https://grabachern.ch/wp-content/uploads/2020/09/img_9970-scaled.jpg ; https://grabachern.ch/wp-content/uploads/2020/09/img_9963-scaled.jpg",
+    "microbrewery": "yes",
+    "name": "Wirtshaus zur Grabachern",
+    "opening_hours": "Mo,Tu off; We-Th 09:00-14:00,17:00-22:00; Fr 09:00-14:00,17:00-23:30; Sa 09:00-23:30; Su,PH 10:00-21:00",
+    "opening_hours:kitchen": "Mo,Tu off; We-Th 11:30-13:30,18:00-21:00; Fr 11:30-13:30,18:00-21:30; Sa 11:30-21:30; Su,PH 11:30-20:00",
+    "operator": "Familie Schwarzentrub",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:visa_debit": "yes",
+    "phone": "+41 32 641 30 00",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://grabachern.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 11663979101
+}

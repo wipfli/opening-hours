@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5298506,
+      47.4526469
+    ]
+  },
+  "properties": {
+    "id": 944701045,
+    "addr:city": "R\u00fcmlang",
+    "addr:housenumber": "1",
+    "addr:postcode": "8153",
+    "addr:street": "Oberdorfstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-07-13",
+    "cuisine": "italian",
+    "email": "info@ristorante-romantica.ch",
+    "name": "Romantica",
+    "opening_hours": "Mo-Fr 10:00-14:30, 17:00-23:30; Sa 10:00-23:30; Su 10:00-22:00",
+    "phone": "+41 43 810 62 46",
+    "smoking": "outside",
+    "website": "https://ristorante-romantica.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 944701045
+}

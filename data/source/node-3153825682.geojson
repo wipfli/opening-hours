@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3763556,
+      47.4258771
+    ]
+  },
+  "properties": {
+    "id": 3153825682,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "5",
+    "addr:postcode": "9000",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "schiffchuchi",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://schiffchuchi.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3153825682
+}

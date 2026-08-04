@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6313943,
+      46.7714941
+    ]
+  },
+  "properties": {
+    "id": 13919388103,
+    "amenity": "restaurant",
+    "name": "Ziegelei Pizza Kebab",
+    "opening_hours": "Tu-Th 10:30-14:00,16:30-22:00; Fr 10:30-14:00,16:30-22:30; Sa 10:30-23:00; Su 10:30-22:00",
+    "phone": "+41 33 437 60 60",
+    "website": "https://www.pizza-ziegelei.ch/"
+  },
+  "id": 13919388103
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4024562,
+      46.2300931
+    ]
+  },
+  "properties": {
+    "id": 9045438789,
+    "addr:housenumber": "7",
+    "addr:street": "Rue du Vieux-Village",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "La Sangria",
+    "opening_hours": "Mo-Fr 08:00-00:00; Sa, Su 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 203 29 80",
+    "toilets": "yes",
+    "website": "https://www.cafe-restaurant-sangria.ch"
+  },
+  "id": 9045438789
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4903233,
+      47.4158884
+    ]
+  },
+  "properties": {
+    "id": 1761368955,
+    "addr:housenumber": "30",
+    "addr:street": "Dorf",
+    "amenity": "restaurant",
+    "check_date": "2025-11-08",
+    "email": "info@schaefli-wald.ch",
+    "name": "Sch\u00e4fli",
+    "opening_hours": "Mo-Fr 08:30-24:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 79 750 86 33",
+    "website": "https://www.schaefli-wald.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1761368955
+}

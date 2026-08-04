@@ -1,16 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/1498899249",
-    "amenity": "restaurant",
-    "cuisine": "regional",
-    "name": "\u00d6pfelchammer",
-    "opening_hours": "Mo,Su off; Tu-We 11:45-13:30; Th-Sa 11:45-13:30,16:00-24:00",
-    "phone": "+41 44 251 23 36",
-    "uzh_landmark": "true",
-    "website": "https://www.oepfelchammer.ch/",
-    "wheelchair": "no"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -18,5 +7,16 @@
       47.3723465
     ]
   },
-  "id": "node-1498899249"
+  "properties": {
+    "id": 1498899249,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "\u00d6pfelchammer",
+    "opening_hours": "Mo,Su off; Tu-Fr 11:30-14:00,18:00-21:30; Sa 11:30-20:00",
+    "phone": "+41 44 251 23 36",
+    "uzh_landmark": "true",
+    "website": "https://www.oepfelchammer.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1498899249
 }

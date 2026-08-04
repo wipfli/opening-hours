@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1081304,
+      46.2246579
+    ]
+  },
+  "properties": {
+    "id": 11162504885,
+    "addr:housenumber": "34",
+    "addr:street": "De-Joinville",
+    "amenity": "restaurant",
+    "name": "Scalo 34",
+    "opening_hours": "Mo-Su 11:00-14:00, 18:30-22:30",
+    "phone": "+41 22 760 85 27",
+    "website": "https://restaurantscalo34.ch/"
+  },
+  "id": 11162504885
+}

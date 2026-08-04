@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5867653,
+      47.5567862
+    ]
+  },
+  "properties": {
+    "id": 4554501146,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4051",
+    "addr:street": "Trilleng\u00e4sslein",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@restaurant-schnabel.ch",
+    "indoor_seating": "yes",
+    "mobile": "+41 76 5646067",
+    "name": "Restaurant Schnabel",
+    "opening_hours": "Mo 11:00-14:00,17:00-22:00; Tu,We 11:00-14:00,17:00-23:00; Th,Fr 11:00-14:00,17:00-24:00; Sa 11:00-24:00",
+    "operator": "Gambrinus Basel AG",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 261 21 21",
+    "smoking": "outside",
+    "website": "https://www.restaurant-schnabel.ch/"
+  },
+  "id": 4554501146
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4311571,
+      46.9415952
+    ]
+  },
+  "properties": {
+    "id": 286879692,
+    "alt_name": "Eiger Brasserie",
+    "amenity": "restaurant",
+    "brand": "FONDATION gad STIFTUNG",
+    "check_date": "2025-12-06",
+    "contact:addr": "Belpstrasse 73, 3007 Bern",
+    "contact:email": "geniessen@eigerbern.ch",
+    "contact:facebook": "https://www.facebook.com/eigerbern",
+    "contact:phone": "+41 31 3711365",
+    "contact:website": "http://eigerbrasserie.ch/kontakt-lageplan",
+    "indoor_seating": "yes",
+    "name": "Eiger",
+    "note": "name operator according to zefix.ch",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa 18:00-23:30; Su,PH off",
+    "operator": "gad Stiftung",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "toilets:wheelchair": "no",
+    "website": "http://www.eigerbrasserie.ch",
+    "wheelchair": "limited"
+  },
+  "id": 286879692
+}

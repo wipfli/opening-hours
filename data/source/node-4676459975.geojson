@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5577891,
+      47.4323139
+    ]
+  },
+  "properties": {
+    "id": 4676459975,
+    "amenity": "restaurant",
+    "name": "twenty nine",
+    "opening_hours": "08:00-14:00",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-twentynine.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4676459975
+}

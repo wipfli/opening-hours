@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8249393,
+      47.2288081
+    ]
+  },
+  "properties": {
+    "id": 3124088099,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kreuzli",
+    "opening_hours": "Mo-Fr 11:00-14:00, 18:00-23:30",
+    "website": "https://restaurant-kreuzli.ch/"
+  },
+  "id": 3124088099
+}

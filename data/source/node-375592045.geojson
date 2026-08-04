@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3869973,
+      47.4462741
+    ]
+  },
+  "properties": {
+    "id": 375592045,
+    "addr:city": "H\u00fcttikon",
+    "addr:housenumber": "21",
+    "addr:postcode": "8115",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant alte Post",
+    "opening_hours": "Mo, Th, Fr, Sa 11:00-14:00, 17:00-22:00; Su 11:00-14:00, 17:00-20:30; Tu, We off; 2026 Jul 16-2026 Aug 08 off",
+    "phone": "+41 78 793 72 95",
+    "website": "https://www.alteposthuettikon.ch/"
+  },
+  "id": 375592045
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5940073,
+      47.5431296
+    ]
+  },
+  "properties": {
+    "id": 9800319929,
+    "addr:city": "Basel",
+    "addr:housenumber": "1",
+    "addr:postcode": "4053",
+    "addr:street": "Tellplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-07-30",
+    "contact:facebook": "https://www.facebook.com/lesquinabasel/",
+    "contact:instagram": "https://www.instagram.com/lesquinatapas/",
+    "cuisine": "tapas;spanish",
+    "description": "Tapas \u22c5 Bar \u22c5 Caf\u00e9",
+    "email": "info@lesquina.ch",
+    "indoor_seating": "yes",
+    "name": "L\u2018esquina",
+    "opening_hours": "Mo-We 10:00-23:00; Th-Fr 10:00-24:00; Sa 14:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 361 20 00",
+    "smoking": "outside",
+    "website": "https://lesquina.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 9800319929
+}

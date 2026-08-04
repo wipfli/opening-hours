@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5450259,
+      47.3216011
+    ]
+  },
+  "properties": {
+    "id": 445817753,
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "140",
+    "addr:postcode": "8802",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-24",
+    "check_date:opening_hours": "2025-09-24",
+    "contact:facebook": "https://www.facebook.com/pages/Ristorante-Pizzeria-Dal-Buongustaio/463093720157?fref=ts",
+    "cuisine": "pizza",
+    "name": "Dal Boungustaio",
+    "opening_hours": "Mo off; Tu-Fr 11:30-14:00,18:00-22:00; Sa-Su 18:00-22:00",
+    "phone": "+41 44 715 45 75",
+    "website": "https://www.dal-buongustaio.ch",
+    "website:menu": "https://www.dal-buongustaio.ch/karten"
+  },
+  "id": 445817753
+}

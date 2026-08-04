@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5830023,
+      47.5571975
+    ]
+  },
+  "properties": {
+    "id": 5677223491,
+    "addr:city": "Basel",
+    "addr:housenumber": "1",
+    "addr:postcode": "4051",
+    "addr:street": "Sch\u00fctzenmattstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-29",
+    "cuisine": "vietnamese",
+    "indoor_seating": "yes",
+    "name": "N\u00f3n L\u00e1",
+    "opening_hours": "Mo-Fr 11:30-14:00; Mo-Th 18:00-22:00; Fr 18:00-22:30; Sa 12:00-22:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.nonla.ch/"
+  },
+  "id": 5677223491
+}

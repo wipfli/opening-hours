@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6352191,
+      47.6988503
+    ]
+  },
+  "properties": {
+    "id": 1639345945,
+    "addr:city": "Schaffhausen",
+    "addr:country": "CH",
+    "addr:housenumber": "27",
+    "addr:postcode": "8200",
+    "addr:street": "Sch\u00fctzengraben",
+    "amenity": "restaurant",
+    "check_date": "2026-03-28",
+    "name": "Sch\u00fctzenstube",
+    "opening_hours": "Mo-Fr 09:30-23:00; Sa \"f\u00fcr Gesellschaften\"",
+    "phone": "+41 52 6254249",
+    "website": "https://www.schuetzenstube.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1639345945
+}

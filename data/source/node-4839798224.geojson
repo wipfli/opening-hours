@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8443169,
+      46.4667603
+    ]
+  },
+  "properties": {
+    "id": 4839798224,
+    "amenity": "restaurant",
+    "cuisine": "regional;pizza",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant du Commerce",
+    "opening_hours": "Mo-Sa 10:30-14:00, 17:30-22:15",
+    "phone": "+41 21 921 15 11",
+    "website": "https://www.restaurant-du-commerce.ch/"
+  },
+  "id": 4839798224
+}

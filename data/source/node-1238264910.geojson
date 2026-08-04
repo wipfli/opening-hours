@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9969437,
+      47.2081126
+    ]
+  },
+  "properties": {
+    "id": 1238264910,
+    "addr:city": "Les Breuleux",
+    "addr:housenumber": "9",
+    "addr:postcode": "2345",
+    "addr:street": "Rue des Vacheries",
+    "amenity": "restaurant",
+    "email": "info@hotelbalance.ch",
+    "internet_access": "wlan",
+    "name": "de la Balance",
+    "opening_hours": "Mo 07:30-14:00,17:00-21:00; Tu 07:30-10:00; We-Su 07:30-14:00; Fr,Sa 07:30+",
+    "phone": "+41329541413",
+    "stars": "2",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "https://hotelbalance.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1238264910
+}

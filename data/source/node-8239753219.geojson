@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5607761,
+      47.424501
+    ]
+  },
+  "properties": {
+    "id": 8239753219,
+    "addr:housenumber": "134",
+    "addr:postcode": "8152",
+    "addr:street": "Thurgauerstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "cuisine": "chinese",
+    "name": "Hongxi Glattpark",
+    "opening_hours": "Tu-Su 11:30-19:00",
+    "website": "https://www.hongxi-restaurants.ch/"
+  },
+  "id": 8239753219
+}

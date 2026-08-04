@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4019687,
+      47.435573
+    ]
+  },
+  "properties": {
+    "id": 4348311837,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "27",
+    "addr:postcode": "9000",
+    "addr:street": "Brauerstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "bar": "no",
+    "check_date": "2025-12-19",
+    "check_date:opening_hours": "2025-12-19",
+    "cuisine": "european",
+    "internet_access": "no",
+    "name": "Restaurant Blume",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-23:00; Sa 17:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 71 245 19 10",
+    "website": "https://restaurant-blume-sg.ch",
+    "wheelchair": "no"
+  },
+  "id": 4348311837
+}

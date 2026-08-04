@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4725758,
+      47.1665457
+    ]
+  },
+  "properties": {
+    "id": 5517279322,
+    "addr:city": "Buchs SG",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "9470",
+    "addr:street": "Unterst\u00fcdtlistrasse",
+    "amenity": "restaurant",
+    "email": "oepfelbom@gmail.com",
+    "indoor_seating": "yes",
+    "name": "\u00d6pfelbom",
+    "opening_hours": "Tu-Fr 10:00-23:30, Sa 09:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 740 58 18",
+    "website": "https://www.\u00f6pfelbom.ch/"
+  },
+  "id": 5517279322
+}

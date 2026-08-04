@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9441218,
+      45.9864293
+    ]
+  },
+  "properties": {
+    "id": 8946804641,
+    "addr:city": "Paradiso",
+    "addr:housenumber": "41",
+    "addr:postcode": "6900",
+    "addr:street": "Via Carona",
+    "amenity": "restaurant",
+    "cuisine": "local",
+    "internet_access": "wlan",
+    "name": "Locanda dal Bigatt",
+    "opening_hours": "We-Mo,12:00-14:30, 18:00-23:00",
+    "phone": "+41 91 985 28 82",
+    "start_date": "2020-05-29",
+    "website": "https://hotelbigatt.com/it",
+    "website:menu": "https://hotelbigatt.com/media/5545/ing_cartamenu_pdf_sito.pdf"
+  },
+  "id": 8946804641
+}

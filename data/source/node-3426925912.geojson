@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5836364,
+      46.5392073
+    ]
+  },
+  "properties": {
+    "id": 3426925912,
+    "amenity": "restaurant",
+    "cuisine": "brazilian;italian;italian_pizza",
+    "email": "info@restauranto22.ch",
+    "name": "Restaurant Pizzeria \u00d422",
+    "opening_hours": "Tu-Su 10:00-14:30, 18:00-00:00",
+    "phone": "+41 21 551 14 01",
+    "website": "https://restauranto22.ch"
+  },
+  "id": 3426925912
+}

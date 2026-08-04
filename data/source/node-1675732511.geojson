@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0447147,
+      47.392026
+    ]
+  },
+  "properties": {
+    "id": 1675732511,
+    "addr:housenumber": "36",
+    "addr:street": "Graben",
+    "amenity": "restaurant",
+    "capacity": "35",
+    "check_date": "2026-02-20",
+    "cuisine": "thai",
+    "level": "1",
+    "name": "Thep Thai",
+    "opening_hours": "Mo-Fr 11:00-14:00, Mo-Th 17:30-22:00; Fr 17:30-23:00; Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 380 91 07",
+    "toilets:wheelchair": "no",
+    "website": "https://www.thepthai.ch",
+    "wheelchair": "no"
+  },
+  "id": 1675732511
+}

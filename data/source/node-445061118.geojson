@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4199477,
+      47.4493206
+    ]
+  },
+  "properties": {
+    "id": 445061118,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "310",
+    "addr:postcode": "9016",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "restaurant",
+    "name": "Vorstadtbeiz",
+    "opening_hours": "Mo-Tu 08:30-14:00; We-Fr 08:30-14:00, 17:00-21:00",
+    "phone": "+41 71 288 14 55",
+    "website": "https://vorstadtbeiz.ch/"
+  },
+  "id": 445061118
+}

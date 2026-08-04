@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2916327,
+      47.1471835
+    ]
+  },
+  "properties": {
+    "id": 308690154,
+    "addr:city": "Orpund",
+    "addr:housenumber": "20",
+    "addr:note": "Adresse ist offiziell Wylerbergweg 2c. Da diese Adresse zur Gemeinde Biel geh\u00f6rt, aber gleichzeitig auf dem Gebiet von Orpund ist, gibt es unter Umst\u00e4ndne Probleme bei der Suche. Deswegen ist die Adresse Holzmatt 20 Orpund kreirt worden.",
+    "addr:postcode": "2552",
+    "addr:street": "Holzmatt",
+    "amenity": "restaurant",
+    "email": "info@ranch-holzmatt.ch",
+    "name": "Ranch",
+    "opening_hours": "Mo,Tu off; We 08:30-13:30; Th 08:30-13:30,17:00-22:00; Fr 08:30-13:30,17:00-23:00; Sa 10:00-23:30; Su 10:00-17:00; PH off",
+    "phone": "+41 32 341 62 62",
+    "website": "https://www.ranch-holzmatt.ch/"
+  },
+  "id": 308690154
+}

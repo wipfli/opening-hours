@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8391689,
+      47.2286405
+    ]
+  },
+  "properties": {
+    "id": 10180533872,
+    "addr:city": "Jona",
+    "addr:housenumber": "8a",
+    "addr:postcode": "8645",
+    "addr:street": "Porthofstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Porthof",
+    "opening_hours": "Su-Fr 09:00-17:00",
+    "phone": "+41 55 224 33 77",
+    "website": "https://www.restaurant-porthof.ch"
+  },
+  "id": 10180533872
+}

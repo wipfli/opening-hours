@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2857669,
+      47.4146735
+    ]
+  },
+  "properties": {
+    "id": 6020811356,
+    "addr:city": "Gossau SG",
+    "addr:housenumber": "193",
+    "addr:place": "Oberberg",
+    "addr:postcode": "9200",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@schloss-oberberg.ch",
+    "name": "Schloss Oberberg",
+    "opening_hours": "We-Fr 14:00-23:00; Sa 11:00-23:00; Su 11:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 385 23 18",
+    "website": "https://www.schlossoberberg.ch/"
+  },
+  "id": 6020811356
+}

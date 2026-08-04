@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8287257,
+      47.1030409
+    ]
+  },
+  "properties": {
+    "id": 9372980819,
+    "addr:housenumber": "21",
+    "addr:street": "rue de la Serre",
+    "amenity": "restaurant",
+    "name": "Hall des Sens",
+    "opening_hours": "Tu,We 09:00-14:45; Th,Fr 09:00-14:45,17:30-23:00; Sa 07:00-16:15",
+    "phone": "+41 32 914 07 14",
+    "website": "https://cinq-sens.ch/la-halle-des-sens/#restaurant"
+  },
+  "id": 9372980819
+}

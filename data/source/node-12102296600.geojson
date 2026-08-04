@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5842294,
+      47.5239011
+    ]
+  },
+  "properties": {
+    "id": 12102296600,
+    "addr:city": "Embrach",
+    "addr:housenumber": "51",
+    "addr:postcode": "8424",
+    "addr:street": "R\u00f6merweg",
+    "amenity": "restaurant",
+    "name": "Restaurant Hard",
+    "opening_hours": "Mo-Su 08:45-17:00",
+    "website": "https://kzu.swiss/angebot/gastronomie/restaurant-hard-embrach.html"
+  },
+  "id": 12102296600
+}

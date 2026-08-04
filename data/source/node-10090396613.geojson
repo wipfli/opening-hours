@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9749082,
+      46.2793391
+    ]
+  },
+  "properties": {
+    "id": 10090396613,
+    "addr:city": "St-Triphon",
+    "addr:housenumber": "5",
+    "addr:postcode": "1867",
+    "addr:street": "Chemin Vers la Gare",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Carrefour des Saveurs",
+    "opening_hours": "Tu-Sa 09:00-23:00",
+    "phone": "+41 24 463 24 08",
+    "website": "http://www.carrefourdessaveurs.ch/"
+  },
+  "id": 10090396613
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6534394,
+      47.0204269
+    ]
+  },
+  "properties": {
+    "id": 9657145022,
+    "addr:housenumber": "6",
+    "addr:street": "Archivgasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;pasta",
+    "name": "La Piazzetta",
+    "opening_hours": "Tu-Fr 10:30-14:00, 17:30-23:00; Sa 17:30-23:00; Mo 10:30-14:00",
+    "website": "https://piazzetta-schwyz.ch"
+  },
+  "id": 9657145022
+}

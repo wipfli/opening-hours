@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2445499,
+      47.1345322
+    ]
+  },
+  "properties": {
+    "id": 4448611036,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "14",
+    "addr:postcode": "2502",
+    "addr:street": "Rue de la Gare / Bahnhofstrasse",
+    "addr:street:de": "Bahnhofstrasse",
+    "addr:street:fr": "Rue de la Gare",
+    "amenity": "restaurant",
+    "brand": "L'Osteria",
+    "brand:wikidata": "Q17323478",
+    "changing_table": "yes",
+    "changing_table:location": "unisex_toilet",
+    "contact:email": "biel-bienne@losteria.ch",
+    "contact:fax": "+41 58 567 02 01",
+    "contact:phone": "+41 58 567 02 00",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "L'Osteria",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:postfinance_card": "yes",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "http://losteria.ch/restaurant/biel-bienne/",
+    "wheelchair": "no"
+  },
+  "id": 4448611036
+}

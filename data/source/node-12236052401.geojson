@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8235463,
+      47.0996777
+    ]
+  },
+  "properties": {
+    "id": 12236052401,
+    "amenity": "restaurant",
+    "cuisine": "asian;indian",
+    "email": "neerthi01@hotmail.com",
+    "name": "Krishna",
+    "opening_hours": "Mo-Sa 10:00-14:30, 17:00-22:00",
+    "phone": "+41 32 913 37 36;+41 78 698 98 28",
+    "website": "http://krishnatakeaway.ch/index.html"
+  },
+  "id": 12236052401
+}

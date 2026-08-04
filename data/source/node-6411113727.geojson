@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2059428,
+      46.3808551
+    ]
+  },
+  "properties": {
+    "id": 6411113727,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "L'Ecusson Vaudois",
+    "opening_hours": "Tu-Fr 08:00-23:00; Sa 10:00-00:00",
+    "phone": "+41 22 361 19 54",
+    "website": "https://www.malakoff-eysins.ch/"
+  },
+  "id": 6411113727
+}

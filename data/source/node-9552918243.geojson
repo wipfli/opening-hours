@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7188001,
+      47.1921117
+    ]
+  },
+  "properties": {
+    "id": 9552918243,
+    "amenity": "restaurant",
+    "name": "Dahlia Restaurant",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "website": "https://www.dahlia.ch/de/dahlia_restaurants_menueplaene"
+  },
+  "id": 9552918243
+}

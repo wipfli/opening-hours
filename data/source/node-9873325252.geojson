@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1090011,
+      46.1656188
+    ]
+  },
+  "properties": {
+    "id": 9873325252,
+    "addr:city": "Plan-les-Ouates",
+    "addr:housenumber": "15",
+    "addr:postcode": "1228",
+    "addr:street": "Chemin du Pr\u00e9 Fleuri",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "The Greek Project \u2122",
+    "opening_hours": "Mo-Su 11:00-21:45",
+    "phone": "+41791739803",
+    "website": "https://www.thegreekproject.ch/"
+  },
+  "id": 9873325252
+}

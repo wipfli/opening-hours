@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7621826,
+      46.1632834
+    ]
+  },
+  "properties": {
+    "id": 806388080,
+    "addr:city": "Losone",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "6616",
+    "addr:street": "Vicolo Contrattempi",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Grotto Contrattempi",
+    "opening_hours": "9:00-24:00",
+    "phone": "+41 91 745 20 11",
+    "website": "http://contrattempi.ch/"
+  },
+  "id": 806388080
+}

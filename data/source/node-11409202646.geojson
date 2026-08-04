@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6364727,
+      46.5199442
+    ]
+  },
+  "properties": {
+    "id": 11409202646,
+    "amenity": "restaurant",
+    "capacity": "150",
+    "cuisine": "argentinian",
+    "indoor_seating": "yes",
+    "name": "Churrasco",
+    "opening_hours": "Mo-Su 11:00-00:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-00:00",
+    "outdoor_seating": "pedestrian_zone",
+    "phone": "+41 21 323 14 23",
+    "start_date": "1979-06-01",
+    "website": "https://www.restaurant-churrasco-lausanne.ch"
+  },
+  "id": 11409202646
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.929637,
+      46.2785009
+    ]
+  },
+  "properties": {
+    "id": 9099042035,
+    "addr:housenumber": "7",
+    "addr:street": "Route des Br\u00eaches",
+    "amenity": "restaurant",
+    "description": "Restaurant-Sp\u00e9cialit\u00e9s italiennes",
+    "name": "Auberge La Grange au Soleil",
+    "opening_hours": "Tu-Su 10:30-14:00, 17:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41244711512",
+    "takeaway": "yes",
+    "website": "https://m.facebook.com/LaGrangeauSoleil/"
+  },
+  "id": 9099042035
+}

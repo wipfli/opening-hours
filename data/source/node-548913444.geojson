@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6848455,
+      47.512034
+    ]
+  },
+  "properties": {
+    "id": 548913444,
+    "amenity": "restaurant",
+    "check_date": "2025-06-02",
+    "name": "El Turpial",
+    "opening_hours": "Tu-Su 09:00-19:00; Mo 10:00-19:00",
+    "website": "https://elturpial.ch/"
+  },
+  "id": 548913444
+}

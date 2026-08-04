@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7410593,
+      46.5100155
+    ]
+  },
+  "properties": {
+    "id": 410724036,
+    "addr:housenumber": "26",
+    "addr:street": "Route de la Tour de Gourze",
+    "amenity": "restaurant",
+    "contact:instagram": "tourdegourze",
+    "diet:vegetarian": "yes",
+    "name": "Tour de Gourze",
+    "opening_hours": "Tu-Sa 10:00-23:00; Su 10:00-19:00",
+    "phone": "+41 21 781 14 74",
+    "website": "https://www.gourze.ch/le-restaurant/"
+  },
+  "id": 410724036
+}

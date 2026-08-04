@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5078578,
+      47.4077482
+    ]
+  },
+  "properties": {
+    "id": 418745368,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Fusion meal & coffee",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "outdoor_seating": "yes",
+    "website": "https://ethz.ch/de/campus/erleben/gastronomie-und-einkaufen/gastronomie/restaurants-und-cafeterias/hoenggerberg/fusion-meal.html"
+  },
+  "id": 418745368
+}

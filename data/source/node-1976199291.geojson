@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9895724,
+      46.3254989
+    ]
+  },
+  "properties": {
+    "id": 1976199291,
+    "addr:city": "Naters",
+    "addr:housenumber": "1",
+    "addr:postcode": "3904",
+    "addr:street": "Landstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "cuisine": "burger;pizza;regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Belalp",
+    "opening_hours": "Mo-Sa 09:00-23:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 27 510 22 44",
+    "website": "https://www.loetschberg-naters.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1976199291
+}

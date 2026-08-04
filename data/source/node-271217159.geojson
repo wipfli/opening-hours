@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5631953,
+      47.3490341
+    ]
+  },
   "properties": {
-    "@id": "node/271217159",
+    "id": 271217159,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "269",
@@ -21,12 +28,5 @@
     "smoking": "outside",
     "website": "https://trattoria-blumenau.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5631953,
-      47.3490341
-    ]
-  },
-  "id": "node-271217159"
+  "id": 271217159
 }

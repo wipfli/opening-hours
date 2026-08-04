@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3064254,
+      47.0494411
+    ]
+  },
+  "properties": {
+    "id": 1939957748,
+    "addr:city": "Luzern",
+    "addr:housenumber": "14",
+    "addr:postcode": "6003",
+    "addr:street": "Pilatusstrasse",
+    "alt_name": "M\u00f6venpick Restaurant Luzern",
+    "amenity": "restaurant",
+    "branch": "Luzern",
+    "check_date": "2026-01-26",
+    "name": "M\u00f6venpick Restaurant",
+    "opening_hours": "Mo-Th 08:30-22:00; Fr,Sa 08:30-23:00; Su 11:30-22:00",
+    "operator": "March\u00e9 International",
+    "phone": "+41 41 210 62 50",
+    "website": "https://www.moevenpick-restaurants.com/luzern",
+    "wheelchair": "yes"
+  },
+  "id": 1939957748
+}

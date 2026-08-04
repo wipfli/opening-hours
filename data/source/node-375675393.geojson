@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5733302,
+      46.1758547
+    ]
+  },
+  "properties": {
+    "id": 375675393,
+    "addr:city": "Grimentz",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "3961",
+    "addr:street": "Rue du T\u00e9l\u00e9cabine",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Da Claudio",
+    "opening_hours": "Mo-Su 12:00-14:30, 18:30-23:00",
+    "phone": "+41 79 338 70 89",
+    "website": "https://daclaudio.ch/"
+  },
+  "id": 375675393
+}

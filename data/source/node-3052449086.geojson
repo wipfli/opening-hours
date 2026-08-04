@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8516765,
+      47.1936133
+    ]
+  },
+  "properties": {
+    "id": 3052449086,
+    "addr:city": "Lachen",
+    "addr:housenumber": "4",
+    "addr:postcode": "8853",
+    "addr:street": "Hafenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "Grill",
+    "name": "The Steakhouse",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-24:00; Sa 18:00-24:00; Su 11:30-23:00",
+    "phone": "+41 55 451 73 73",
+    "website": "https://www.marinalachen.ch/de/gastronomie/steakhouse",
+    "wheelchair": "yes"
+  },
+  "id": 3052449086
+}

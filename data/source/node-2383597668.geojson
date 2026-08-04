@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5323442,
+      47.3972168
+    ]
+  },
+  "properties": {
+    "id": 2383597668,
+    "amenity": "restaurant",
+    "check_date": "2025-05-19",
+    "cuisine": "chinese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Meister GAO",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:30; Sa-Su 17:30-22:30",
+    "phone": "+41 44 211 68 68",
+    "website": "http://meistergao.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2383597668
+}

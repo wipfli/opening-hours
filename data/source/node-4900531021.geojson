@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6396421,
+      46.5213278
+    ]
+  },
+  "properties": {
+    "id": 4900531021,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "25",
+    "addr:postcode": "1005",
+    "addr:street": "Rue Marterey",
+    "amenity": "restaurant",
+    "cuisine": "japanese;sushi",
+    "name": "Aki",
+    "opening_hours": "Mo-Sa 11:00-14:00,18:00-23:00",
+    "phone": "+41 21 558 58 66;+41 21 553 03 51",
+    "website": "https://aki-restaurant.com/"
+  },
+  "id": 4900531021
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1361508,
+      46.1980032
+    ]
+  },
+  "properties": {
+    "id": 5556230122,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "63",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "bar": "no",
+    "cuisine": "ramen;japanese",
+    "email": "hello@umamido.ch",
+    "name": "Umamido",
+    "opening_hours": "Mo-We 11:30-21:30; Th-Sa 11:30-22:00; Su 11:30-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 808 00 77",
+    "reservation": "no",
+    "takeaway": "yes",
+    "website": "https://www.umamido.ch"
+  },
+  "id": 5556230122
+}

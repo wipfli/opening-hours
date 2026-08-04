@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5021828,
+      46.8540622
+    ]
+  },
+  "properties": {
+    "id": 9822736921,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@schuetzenhaus-chur.ch",
+    "name": "Sch\u00fctzenhaus",
+    "opening_hours": "Mo-Fr 7:30-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 250 28 25",
+    "website": "https://www.schuetzenhaus-chur.ch/"
+  },
+  "id": 9822736921
+}

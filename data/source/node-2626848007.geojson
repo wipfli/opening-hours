@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7783281,
+      46.4016749
+    ]
+  },
+  "properties": {
+    "id": 2626848007,
+    "addr:city": "Wiler (L\u00f6tschen)",
+    "addr:housenumber": "89",
+    "addr:postcode": "3918",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "description": "Pizzeria",
+    "name": "Sporting",
+    "opening_hours": "Mo-Su 07:30-22:00",
+    "phone": "+41 27 939 13 77",
+    "website": "https://www.sportingii.com/",
+    "wheelchair": "yes"
+  },
+  "id": 2626848007
+}

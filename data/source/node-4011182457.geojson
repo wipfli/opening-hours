@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.049111,
+      47.4656458
+    ]
+  },
+  "properties": {
+    "id": 4011182457,
+    "addr:city": "Wil SG",
+    "addr:housenumber": "22",
+    "addr:postcode": "9500",
+    "addr:street": "Tonhallestrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-30",
+    "cuisine": "regional",
+    "email": "info@linde-pub.ch",
+    "name": "Linde-Pub",
+    "opening_hours": "Mo-Th 16:00-23:30; Fr,Sa 16:00-01:00, Su 16:00-22:00",
+    "phone": "+41 79 721 34 17",
+    "website": "https://linde-pub.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4011182457
+}

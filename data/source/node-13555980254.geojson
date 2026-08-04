@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.335828,
+      47.4125181
+    ]
+  },
+  "properties": {
+    "id": 13555980254,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "204",
+    "addr:postcode": "9014",
+    "addr:street": "Z\u00fcrcher Strasse",
+    "amenity": "restaurant",
+    "name": "Cucina",
+    "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-17:00",
+    "website": "https://www.restaurant-cucina.ch/"
+  },
+  "id": 13555980254
+}

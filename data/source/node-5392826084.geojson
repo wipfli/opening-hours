@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4054533,
+      47.4096531
+    ]
+  },
+  "properties": {
+    "id": 5392826084,
+    "addr:city": "Dietikon",
+    "addr:housenumber": "10",
+    "addr:postcode": "8953",
+    "addr:street": "Heimstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "via-vai",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00",
+    "takeaway": "yes",
+    "website": "https://www.via-vai.ch/"
+  },
+  "id": 5392826084
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5054408,
+      47.3954067
+    ]
+  },
+  "properties": {
+    "id": 2274216672,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Turbinenhaus",
+    "opening_hours": "Mo-Fr 11:30-23:30; Sa 14:00-23:30; Su 10:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41433115800",
+    "website": "https://www.restaurant-turbinenhaus.ch"
+  },
+  "id": 2274216672
+}

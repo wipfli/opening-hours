@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8443389,
+      47.5566209
+    ]
+  },
+  "properties": {
+    "id": 11602249695,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Eat at Thai",
+    "opening_hours": "Tu-Th 11:30-13:30,17:00-22:00; Fr 11:30-13:30,17:00-23:00; Sa 17:00-23:00; Su 17:00-22:00",
+    "website": "https://www.eatatthai.ch/"
+  },
+  "id": 11602249695
+}

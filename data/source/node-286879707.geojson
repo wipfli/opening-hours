@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4361178,
+      46.9432488
+    ]
+  },
+  "properties": {
+    "id": 286879707,
+    "amenity": "restaurant",
+    "check_date": "2025-06-12",
+    "contact:addr:full": "Monbijoustrasse 37, 3011 Bern",
+    "contact:phone": "+41 31 3814804",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Piccola Napoli",
+    "opening_hours": "Mo-Fr 10:00-14:00,16:30-22:00; Sa 11:30-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.piccolanapoli.ch/",
+    "wheelchair": "no"
+  },
+  "id": 286879707
+}

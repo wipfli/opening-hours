@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0989447,
+      46.7089543
+    ]
+  },
+  "properties": {
+    "id": 12563553757,
+    "amenity": "restaurant",
+    "check_date": "2025-02-06",
+    "cuisine": "regional",
+    "internet_access": "no",
+    "name": "Gipfelrestaurant Sezner",
+    "opening_hours": "09:00-16:30 (Ski season only)",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "website": "https://www.surselva.info/Media/Gastronomie/Bergrestaurant-Obersaxen-Gipfelrestaurant-Sezner",
+    "wheelchair": "yes"
+  },
+  "id": 12563553757
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.939776,
+      47.5781166
+    ]
+  },
+  "properties": {
+    "id": 1647881797,
+    "addr:city": "Felben-Wellhausen",
+    "addr:housenumber": "27",
+    "addr:postcode": "8552",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "microbrewery": "no",
+    "name": "Frohsinn",
+    "opening_hours": "Tu-Sa 09:00-22:00+",
+    "phone": "+41 52 765 33 66",
+    "smoking": "no",
+    "website": "https://pferdemetzgerei-michel.ch/Restaurant-Frohsinn.php",
+    "wheelchair": "no"
+  },
+  "id": 1647881797
+}

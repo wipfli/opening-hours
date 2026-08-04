@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5271252,
+      47.3755766
+    ]
+  },
   "properties": {
-    "@id": "node/656516103",
+    "id": 656516103,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "60",
@@ -15,12 +22,5 @@
     "website": "https://www.restaurantvolkshaus.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5271252,
-      47.3755766
-    ]
-  },
-  "id": "node-656516103"
+  "id": 656516103
 }

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.837633,
+      46.9858618
+    ]
+  },
+  "properties": {
+    "id": 2060695833,
+    "addr:city": "Montmollin",
+    "addr:housenumber": "5",
+    "addr:postcode": "2037",
+    "addr:street": "Les Murailles",
+    "amenity": "restaurant",
+    "designation": "EcoHotel ***",
+    "email": "CONTACT@AUBIER.CH",
+    "name": "L'Aubier",
+    "opening_hours": "7:30-23:00",
+    "phone": "+41 32 7322211",
+    "rooms": "25",
+    "tourism": "hotel",
+    "website": "https://www.aubier.ch"
+  },
+  "id": 2060695833
+}

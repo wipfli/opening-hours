@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6314961,
+      46.7397391
+    ]
+  },
+  "properties": {
+    "id": 1346658181,
+    "amenity": "restaurant",
+    "check_date": "2026-07-23",
+    "email": "info@strandbadthun.ch",
+    "fax": "+41 33 335 51 93",
+    "name": "Strandbad Thun",
+    "opening_hours": "May-Sep: 07:00-20:00",
+    "phone": "+41 33 335 25 80",
+    "website": "https://www.strandbadthun.ch/"
+  },
+  "id": 1346658181
+}

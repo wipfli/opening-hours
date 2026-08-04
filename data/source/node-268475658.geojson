@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5548938,
+      47.364789
+    ]
+  },
   "properties": {
-    "@id": "node/268475658",
+    "id": 268475658,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "2",
@@ -21,12 +28,5 @@
     "website": "https://www.bohemia.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5548938,
-      47.364789
-    ]
-  },
-  "id": "node-268475658"
+  "id": 268475658
 }

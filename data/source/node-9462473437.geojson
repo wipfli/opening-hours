@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5325911,
+      46.2945165
+    ]
+  },
+  "properties": {
+    "id": 9462473437,
+    "addr:city": "Sierre",
+    "addr:housenumber": "2",
+    "addr:postcode": "3960",
+    "addr:street": "Chemin de l'Ancien Cimeti\u00e8re",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "name": "Carbonia",
+    "opening_hours": "Mo-Fr 09:00-22:00; Tu,We off; Sa,Su 09:30-22:00",
+    "phone": "+41 27 455 00 15",
+    "website": "https://www.restaurant-carbonia.ch/"
+  },
+  "id": 9462473437
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9001702,
+      46.3115414
+    ]
+  },
+  "properties": {
+    "id": 5018637061,
+    "amenity": "restaurant",
+    "contact:tripadvisor": "https://fr.tripadvisor.ch/Restaurant_Review-g2623732-d3686619-Reviews-Manoir_Du_Vignoble-Vionnaz_Canton_of_Valais_Swiss_Alps.html",
+    "name": "Manoir du Vignoble",
+    "opening_hours": "We-Su 10:30-14:30,18:30-23:00",
+    "phone": "+41 24 565 04 44",
+    "rooms": "4",
+    "source:opening_hours": "trop advisor",
+    "tourism": "hotel",
+    "website": "https://manoirduvignoble.ch/"
+  },
+  "id": 5018637061
+}

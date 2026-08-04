@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.656138,
+      46.4629007
+    ]
+  },
+  "properties": {
+    "id": 9949145718,
+    "amenity": "restaurant",
+    "capacity": "82",
+    "delivery": "no",
+    "name": "Tua",
+    "opening_hours": "08:30-16:00",
+    "phone": "+41788472075",
+    "website": "http://www.bivio-stellplatz.ch/Restaurant.html"
+  },
+  "id": 9949145718
+}

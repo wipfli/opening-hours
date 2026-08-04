@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5347473,
+      47.3717437
+    ]
+  },
   "properties": {
-    "@id": "node/4364350636",
+    "id": 4364350636,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "41",
     "addr:postcode": "8001",
@@ -18,12 +25,5 @@
     "website": "https://www.stripped-pizza.com/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5347473,
-      47.3717437
-    ]
-  },
-  "id": "node-4364350636"
+  "id": 4364350636
 }

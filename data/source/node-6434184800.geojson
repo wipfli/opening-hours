@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3664112,
+      46.2294603
+    ]
+  },
+  "properties": {
+    "id": 6434184800,
+    "addr:city": "Sion",
+    "addr:housenumber": "29",
+    "addr:postcode": "1950",
+    "addr:street": "Cour de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Luigia",
+    "opening_hours": "Mo-Th 11:30-14:00,18:30-23:00; Fr 11:30-14:00,18:00-23:00; Sa,Su 12:00-23:00",
+    "phone": "+41 27 322 77 00",
+    "website": "https://luigia.ch"
+  },
+  "id": 6434184800
+}

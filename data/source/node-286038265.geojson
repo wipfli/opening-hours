@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5366859,
+      47.3729055
+    ]
+  },
   "properties": {
-    "@id": "node/286038265",
+    "id": 286038265,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "31",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "wheelchair": "yes",
     "wheelchair:description": "Stufenloser Eingang durch Hotel-Lobby, Rolli-WC mit Lift im oberen Stock"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5366859,
-      47.3729055
-    ]
-  },
-  "id": "node-286038265"
+  "id": 286038265
 }

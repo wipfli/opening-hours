@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3078567,
+      47.0472189
+    ]
+  },
+  "properties": {
+    "id": 506077428,
+    "addr:city": "Luzern",
+    "addr:housenumber": "16",
+    "addr:postcode": "6003",
+    "addr:street": "Habsburgerstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@ampersand-luzern.ch",
+    "contact:phone": "+41 41 210 10 07",
+    "entrance": "yes",
+    "name": "Ampersand",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 17:30-23:00; Su 17:00-23:00",
+    "website": "https://www.ampersand.lu/"
+  },
+  "id": 506077428
+}

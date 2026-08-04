@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1269051,
+      46.1872773
+    ]
+  },
+  "properties": {
+    "id": 12623931143,
+    "addr:city": "Grand-Lancy",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1212",
+    "addr:street": "Esplanade de Pont-Rouge",
+    "amenity": "restaurant",
+    "name": "Le snack",
+    "opening_hours": "Mo-Fr 06:30-17:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 300 01 71",
+    "website": "https://le-snack.ch/boutiques/",
+    "wheelchair": "yes"
+  },
+  "id": 12623931143
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5870231,
+      47.5567745
+    ]
+  },
+  "properties": {
+    "id": 583280000,
+    "addr:city": "Basel",
+    "addr:housenumber": "19",
+    "addr:postcode": "4001",
+    "addr:street": "R\u00fcmelinsplatz",
+    "amenity": "restaurant",
+    "check_date": "2026-06-10",
+    "email": "contact@coccodrillo-ristorante.com",
+    "indoor_seating": "yes",
+    "name": "Ristorante Coccodrillo",
+    "opening_hours": "Mo-Fr 10:30-14:30, 17:00-22:00; Sa 10:30-22:30; Su 11:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 262 33 36",
+    "smoking": "outside",
+    "website": "https://www.coccodrillo-ristorante.com"
+  },
+  "id": 583280000
+}

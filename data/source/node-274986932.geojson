@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372866,
+      47.3676805
+    ]
+  },
   "properties": {
-    "@id": "node/274986932",
+    "id": 274986932,
     "amenity": "restaurant",
     "check_date": "2025-01-16",
     "name": "Trinity",
@@ -12,12 +19,5 @@
     "website": "https://www.trinity-swiss.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5372866,
-      47.3676805
-    ]
-  },
-  "id": "node-274986932"
+  "id": 274986932
 }

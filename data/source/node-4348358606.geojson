@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3738975,
+      47.4216993
+    ]
+  },
+  "properties": {
+    "id": 4348358606,
+    "amenity": "restaurant",
+    "check_date": "2026-05-20",
+    "check_date:opening_hours": "2026-05-20",
+    "cuisine": "italian",
+    "name": "Mamma Assunta",
+    "opening_hours": "Mo-Fr 10:00-22:15; Sa 18:00-23:00",
+    "phone": "+41 71 222 22 31",
+    "website": "https://www.mamma-assunta.ch",
+    "website:menu": "https://www.mamma-assunta.ch/karte",
+    "wheelchair": "yes"
+  },
+  "id": 4348358606
+}

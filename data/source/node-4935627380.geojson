@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5561613,
+      47.3545891
+    ]
+  },
   "properties": {
-    "@id": "node/4935627380",
+    "id": 4935627380,
     "amenity": "restaurant",
     "contact:instagram": "murarestaurant",
     "cuisine": "japanese",
@@ -18,12 +25,5 @@
     "website": "https://www.mura39.ch/",
     "website:menu": "https://www.mura39.ch/_files/ugd/602dd0_d225d7d244c34c2782c0428d9aca1cc0.pdf"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5561613,
-      47.3545891
-    ]
-  },
-  "id": "node-4935627380"
+  "id": 4935627380
 }

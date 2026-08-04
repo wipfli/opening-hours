@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2370618,
+      46.1924112
+    ]
+  },
+  "properties": {
+    "id": 9215171226,
+    "addr:housenumber": "28",
+    "addr:street": "Rue de l'Eglise",
+    "amenity": "restaurant",
+    "name": "La p'tite maison",
+    "opening_hours": "Tu-Th 18:30-23:00; Fr, Sa 18:30-00:00",
+    "phone": "+4127 306 42 62",
+    "website": "https://ptitemaison.ch/"
+  },
+  "id": 9215171226
+}

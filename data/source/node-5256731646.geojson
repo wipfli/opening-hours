@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6215674,
+      46.5213187
+    ]
+  },
+  "properties": {
+    "id": 5256731646,
+    "addr:postcode": "1007",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Oniwa",
+    "opening_hours": "Mo-Sa 11:30-14:30, 18:00-23:00",
+    "phone": "+41 21 312 69 69",
+    "website": "https://www.oniwa-sushi.com/"
+  },
+  "id": 5256731646
+}

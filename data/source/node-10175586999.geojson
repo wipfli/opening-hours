@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4378295,
+      47.3530632
+    ]
+  },
+  "properties": {
+    "id": 10175586999,
+    "addr:city": "Birmensdorf ZH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8903",
+    "addr:street": "Bachstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bistro am Bach",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "payment:cash": "yes",
+    "phone": "+41 44 739 39 69",
+    "website": "http://www.bistroambach.ch",
+    "wheelchair": "yes"
+  },
+  "id": 10175586999
+}

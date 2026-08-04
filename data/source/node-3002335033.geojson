@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6291632,
+      46.5232886
+    ]
+  },
+  "properties": {
+    "id": 3002335033,
+    "addr:postcode": "1003",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@kungfucuisine.ch",
+    "indoor_seating": "yes",
+    "name": "Kung-Fu Cuisine",
+    "opening_hours": "Mo-Sa 08:00-23:00; Su 10:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 311 18 88",
+    "website": "https://www.kungfucuisine.ch/",
+    "wheelchair": "no"
+  },
+  "id": 3002335033
+}

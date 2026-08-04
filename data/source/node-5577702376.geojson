@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4912592,
+      47.3919503
+    ]
+  },
+  "properties": {
+    "id": 5577702376,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "2",
+    "addr:postcode": "8048",
+    "addr:street": "Vulkanplatz",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-10-10",
+    "contact:email": "info@bunt.ch",
+    "cuisine": "regional;meat",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Bunt",
+    "opening_hours": "Mo-Fr 07:00-21:00",
+    "outdoor_seating": "pedestrian_zone",
+    "phone": "+41 44 288 89 89",
+    "reservation": "yes",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.bunt.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5577702376
+}

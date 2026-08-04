@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.728069,
+      46.6626663
+    ]
+  },
+  "properties": {
+    "id": 1390081850,
+    "addr:city": "Krattigen",
+    "addr:housename": "Sunneh\u00fcsi",
+    "addr:housenumber": "10",
+    "addr:postcode": "3704",
+    "addr:street": "Alte Gasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;cake;coffee_shop;sandwich",
+    "name": "Kafi mit Aussichtsterrasse",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "phone": "+41 33 650 78 78",
+    "website": "https://www.sunnehuesi.ch/essen-trinken/cafe-restaurant"
+  },
+  "id": 1390081850
+}

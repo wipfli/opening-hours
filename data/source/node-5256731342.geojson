@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6167027,
+      46.5211312
+    ]
+  },
+  "properties": {
+    "id": 5256731342,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Molisana",
+    "opening_hours": "Mo-Fr 11:15-13:45, 18:15-21:55; Sa 18:15-22:00",
+    "phone": "+41 21 624 83 00",
+    "website": "https://molisana.ch/",
+    "website:menu": "https://molisana.ch/la-cucina-carte/"
+  },
+  "id": 5256731342
+}

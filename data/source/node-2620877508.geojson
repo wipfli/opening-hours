@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3553697,
+      46.9636871
+    ]
+  },
+  "properties": {
+    "id": 2620877508,
+    "addr:city": "Stans",
+    "addr:housenumber": "5",
+    "addr:postcode": "6370",
+    "addr:street": "Bitzistrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Da Gianni",
+    "opening_hours": "Th-Sa 10:00-14:00, 17:00-22:00; Su 16:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41416103388",
+    "website": "https://www.pizzeria-gianni.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2620877508
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2753262,
+      47.0777391
+    ]
+  },
+  "properties": {
+    "id": 1128614101,
+    "alt_name": "Migros Restaurant Emmenbr\u00fccke",
+    "amenity": "restaurant",
+    "branch": "Emmenbr\u00fccke Sonnenplatz",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-17:00; PH off",
+    "operator": "Genossenschaft Migros Luzern",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-emmenbruecke-sonnenplatz",
+    "wheelchair": "yes"
+  },
+  "id": 1128614101
+}

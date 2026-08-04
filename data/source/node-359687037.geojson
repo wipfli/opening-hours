@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7252033,
+      47.5009387
+    ]
+  },
+  "properties": {
+    "id": 359687037,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "12",
+    "addr:postcode": "8400",
+    "addr:street": "Bahnhofplatz",
+    "alt_name": "Santa Lucia Winterthur",
+    "amenity": "restaurant",
+    "branch": "Winterthur",
+    "brand": "Santa Lucia",
+    "check_date:opening_hours": "2023-08-10",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "name": "Santa Lucia",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:30-22:30; Sa,Su 11:30-22:30",
+    "operator": "Bindella",
+    "website": "https://www.bindella.ch/de/santa-lucia-winterthur.html",
+    "wheelchair": "limited"
+  },
+  "id": 359687037
+}

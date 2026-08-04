@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1327893,
+      46.2123586
+    ]
+  },
+  "properties": {
+    "id": 2440334180,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:housenumber": "76",
+    "addr:street": "Rue de la Servette",
+    "amenity": "restaurant",
+    "check_date": "2024-07-20",
+    "email": "info@indian-curryhouse.com",
+    "name": "Indian Curry House",
+    "note": "surveyed by Alex-7 with OsmPad and bicycle",
+    "opening_hours": "Mo-Su 11:00-14:30, 18:00-22:45",
+    "phone": "+41 22 525 44 22",
+    "source": "survey",
+    "website": "https://indian-curryhouse.com/en/"
+  },
+  "id": 2440334180
+}

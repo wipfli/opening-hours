@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6317433,
+      46.523272
+    ]
+  },
+  "properties": {
+    "id": 864657270,
+    "addr:housenumber": "1",
+    "addr:postcode": "1005",
+    "addr:street": "Place de la Riponne",
+    "amenity": "restaurant",
+    "brewery": "yes",
+    "check_date": "2026-01-18",
+    "cuisine": "regional",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@levaudois-sa.ch",
+    "indoor_seating": "yes",
+    "name": "Le Vaudois",
+    "opening_hours": "Su-Th 07:00-00:00; Fr-Sa 07:00-02:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 21 706 40 40",
+    "reservation": "yes",
+    "website": "http://levaudois-sa.ch",
+    "website:menu": "http://levaudois-sa.ch/la carte.pdf"
+  },
+  "id": 864657270
+}

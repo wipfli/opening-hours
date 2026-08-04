@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1477298,
+      46.7976188
+    ]
+  },
+  "properties": {
+    "id": 12206845210,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "5",
+    "addr:postcode": "1700",
+    "addr:street": "Passage du Cardinal",
+    "amenity": "restaurant",
+    "name": "Mycelium",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "phone": "+41 26 526 33 71",
+    "website": "mycelium@zfv.ch"
+  },
+  "id": 12206845210
+}

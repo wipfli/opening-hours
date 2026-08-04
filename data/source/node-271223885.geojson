@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5724184,
+      47.3578267
+    ]
+  },
+  "properties": {
+    "id": 271223885,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "271",
+    "addr:postcode": "8008",
+    "addr:street": "Forchstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-09",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Burgwies",
+    "opening_hours": "Mo-Fr 09:00-14:00,17:00-23:00; Oct 01-Mar 31 Mo-Fr 09:00-14:00,17:00-23:00, Sa 17:00-23:00; Su off",
+    "outdoor_seating": "yes",
+    "website": "https://burgwies.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 271223885
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1276644,
+      46.205459
+    ]
+  },
+  "properties": {
+    "id": 11833030169,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "15",
+    "addr:postcode": "1203",
+    "addr:street": "Avenue des Tilleuls",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "local",
+    "email": "picotin.ch@gmail.com",
+    "name": "Le Picotin",
+    "opening_hours": "Tu-Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-18:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 525 25 35",
+    "website": "https://lepicotin.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 11833030169
+}

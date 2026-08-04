@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5211453,
+      46.7892633
+    ]
+  },
+  "properties": {
+    "id": 2394202941,
+    "addr:city": "Baulmes",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "1446",
+    "addr:street": "Rue de l'H\u00f4tel de Ville",
+    "amenity": "restaurant",
+    "name": "L'Auberge",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 743 58 08",
+    "tourism": "hotel",
+    "website": "https://www.lauberge.ch/"
+  },
+  "id": 2394202941
+}

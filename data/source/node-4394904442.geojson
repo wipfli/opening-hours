@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.255663,
+      47.0548245
+    ]
+  },
+  "properties": {
+    "id": 4394904442,
+    "addr:postcode": "6014",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "email": "mail@oshathai.ch",
+    "name": "Osha Thai Take Away",
+    "opening_hours": "Mo-Fr 11:00-15:00,17:00-21:00; Sa-Su 11:00-21:00",
+    "website": "https://oshathai.ch",
+    "website:menu": "https://oshathai.ch/menu"
+  },
+  "id": 4394904442
+}

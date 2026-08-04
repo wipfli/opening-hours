@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0222049,
+      46.1923512
+    ]
+  },
+  "properties": {
+    "id": 9113069630,
+    "addr:city": "Bellinzona",
+    "addr:country": "CH",
+    "addr:postcode": "6500",
+    "addr:street": "Salita al Castel Grande",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Grotto san Michele",
+    "opening_hours": "Tu-Sa 10:30-24:00, Sa 10:30-17:00",
+    "phone": "+41 91 814 87 81",
+    "website": "https://castelgrande.ch/?page_id=61&lang=it"
+  },
+  "id": 9113069630
+}

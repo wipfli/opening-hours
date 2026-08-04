@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0815142,
+      47.2249312
+    ]
+  },
+  "properties": {
+    "id": 2502417798,
+    "addr:city": "Les Reussilles",
+    "addr:postcode": "2722",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Clef 6",
+    "opening_hours": "Tu-Sa 09:00-23:00",
+    "phone": "+41 32 487 49 80",
+    "website": "https://www.laclef.ch"
+  },
+  "id": 2502417798
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1140604,
+      47.1684558
+    ]
+  },
+  "properties": {
+    "id": 13186671334,
+    "addr:city": "Sursee",
+    "addr:housenumber": "2",
+    "addr:postcode": "6210",
+    "addr:street": "Spitalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "email": "info@molinipizza.ch",
+    "name": "Molini Pizza",
+    "opening_hours": "Mo-Sa 11:00-13:30,17:00-22:00; Su 11:00-22:00",
+    "phone": "+41 44 450 39 39",
+    "takeaway": "yes",
+    "website": "https://www.molinipizza.ch/pizzakurier-sursee"
+  },
+  "id": 13186671334
+}

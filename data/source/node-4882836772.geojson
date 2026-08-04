@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2687408,
+      47.1000593
+    ]
+  },
+  "properties": {
+    "id": 4882836772,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:count": "2",
+    "changing_table:location": "dedicated_room",
+    "contact:phone": "+41 412803434",
+    "name": "Ch\u00e4rnsmatt",
+    "opening_hours": "24/7",
+    "toilets:wheelchair": "yes",
+    "tourism": "hotel",
+    "website": "https://www.chaernsmatt.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4882836772
+}

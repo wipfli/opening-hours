@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5283789,
+      47.3844486
+    ]
+  },
   "properties": {
-    "@id": "node/5422953724",
+    "id": 5422953724,
     "addr:housenumber": "140",
     "addr:street": "Josefstrasse",
     "amenity": "restaurant",
@@ -12,12 +19,5 @@
     "website": "https://sappo.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5283789,
-      47.3844486
-    ]
-  },
-  "id": "node-5422953724"
+  "id": 5422953724
 }

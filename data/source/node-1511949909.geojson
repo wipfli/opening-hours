@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0984495,
+      47.1708327
+    ]
+  },
+  "properties": {
+    "id": 1511949909,
+    "addr:housenumber": "47",
+    "addr:postcode": "6210",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Wyhof",
+    "opening_hours": "Mo-Sa 10:00-24:00",
+    "website": "https://www.wyhof.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1511949909
+}

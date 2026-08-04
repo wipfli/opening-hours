@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9906723,
+      47.6348846
+    ]
+  },
+  "properties": {
+    "id": 6695206185,
+    "amenity": "restaurant",
+    "name": "Steinberg",
+    "opening_hours": "We-Sa 08:30-00:00; Su 09:30-00:00",
+    "website": "https://www.restaurant-steinberg.ch/"
+  },
+  "id": 6695206185
+}

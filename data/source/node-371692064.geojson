@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9607506,
+      46.5850307
+    ]
+  },
+  "properties": {
+    "id": 371692064,
+    "addr:city": "Kleine Scheidegg",
+    "addr:postcode": "3823",
+    "amenity": "restaurant",
+    "check_date": "2024-02-14",
+    "cuisine": "regional;schweiz",
+    "description": "Bedienungsrestaurant & Self-Service",
+    "name": "Bergrestaurant Kleine Scheidegg",
+    "opening_hours": "Mo-Su 08:30-16:00",
+    "phone": "+41 33 828 78 28",
+    "website": "https://bergrestaurant-kleine-scheidegg.ch/de-ch/"
+  },
+  "id": 371692064
+}

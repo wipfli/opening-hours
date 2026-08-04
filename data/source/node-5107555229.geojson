@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7983028,
+      47.3248436
+    ]
+  },
+  "properties": {
+    "id": 5107555229,
+    "addr:housenumber": "115",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "description": "Indonesisch-thail\u00e4ndisches Restaurant und asiatischer Laden",
+    "name": "Rumarasa",
+    "opening_hours": "Mo-Sa 10:00-22:00, 11:30-13:30",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://rumarasa.ch/"
+  },
+  "id": 5107555229
+}

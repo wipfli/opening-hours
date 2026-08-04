@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8936061,
+      46.6857327
+    ]
+  },
+  "properties": {
+    "id": 3904919515,
+    "addr:city": "B\u00f6nigen",
+    "addr:housenumber": "45",
+    "addr:postcode": "3806",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Wirtshaus zum B\u00e4ren",
+    "opening_hours": "Tu-Fr 08:30-23:00; Sa 10:00-23:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 822 19 51",
+    "website": "http://www.b\u00e4ren-b\u00f6nigen.com/"
+  },
+  "id": 3904919515
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4255638,
+      47.3731595
+    ]
+  },
+  "properties": {
+    "id": 5873817017,
+    "addr:city": "B\u00fchler",
+    "addr:country": "CH",
+    "addr:housenumber": "16",
+    "addr:postcode": "9055",
+    "addr:street": "Dorfstrasse",
+    "amenity": "restaurant",
+    "capacity": "25",
+    "cuisine": "thai",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Krung-Thai",
+    "opening_hours": "Mo-Su 10:30-14:00,17:00-22:00",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "http://www.krung-thai.ch/"
+  },
+  "id": 5873817017
+}

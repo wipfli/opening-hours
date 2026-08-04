@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7948008,
+      46.2910284
+    ]
+  },
+  "properties": {
+    "id": 3008544881,
+    "alt_name": "Ristorante Ai Piee",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:fee": "no",
+    "changing_table:location": "room",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Ristorante ai Piee",
+    "opening_hours": "Mo-Fr 07:00-21:30; Sa 08:00-22:00; Su 08:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 746 15 44",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "tourism": "hotel",
+    "website": "http://aipiee.ch",
+    "wheelchair": "yes"
+  },
+  "id": 3008544881
+}

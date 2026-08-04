@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2426889,
+      46.3817192
+    ]
+  },
+  "properties": {
+    "id": 428244212,
+    "amenity": "restaurant",
+    "cuisine": "chinese;vietnamese;thai",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Mekong",
+    "opening_hours": "Tu-Su 12:00-14:00, 18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 362 54 84",
+    "takeaway": "yes",
+    "website": "https://www.mekongnyon.ch/"
+  },
+  "id": 428244212
+}

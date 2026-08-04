@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1877036,
+      46.1711569
+    ]
+  },
+  "properties": {
+    "id": 6905445409,
+    "addr:city": "Saillon",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "1913",
+    "addr:street": "Chemin du Midi",
+    "amenity": "restaurant",
+    "name": "St-Laurent",
+    "opening_hours": "Mo-Fr 07:00-15:00; Sa 07:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 744 44 98",
+    "website": "https://www.saint-laurent.ch"
+  },
+  "id": 6905445409
+}

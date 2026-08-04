@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5480091,
+      46.6202924
+    ]
+  },
+  "properties": {
+    "id": 5927712284,
+    "addr:city": "Daillens",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1306",
+    "addr:street": "Rue Jean Villard-Gilles",
+    "amenity": "restaurant",
+    "email": "info@auberge-labalance.ch",
+    "name": "Auberge Communale La Balance",
+    "opening_hours": "Tu-Fr 10:00-15:00,18:00-24:00; Sa 11:00-15:00,18:00-24:00; Su 11:00-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 861 25 25",
+    "website": "https://www.auberge-labalance.ch/"
+  },
+  "id": 5927712284
+}

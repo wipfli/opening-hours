@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7921202,
+      47.3190504
+    ]
+  },
+  "properties": {
+    "id": 614108019,
+    "addr:city": "Wetzikon ZH",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8620",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizzeria La Posta",
+    "opening_hours": "Mo-Sa 11:00-14:30,17:00-23:00",
+    "website": "https://www.pizzerialaposta.ch/"
+  },
+  "id": 614108019
+}

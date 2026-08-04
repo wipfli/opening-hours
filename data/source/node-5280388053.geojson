@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5070612,
+      47.3856708
+    ]
+  },
   "properties": {
-    "@id": "node/5280388053",
+    "id": 5280388053,
     "access": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -9,6 +16,7 @@
     "addr:postcode": "8048",
     "addr:street": "Hohlstrasse",
     "amenity": "restaurant",
+    "check_date:opening_hours": "2026-03-12",
     "cuisine": "regional",
     "delivery": "no",
     "email": "reparaturcenteraltstetten@zfv.ch",
@@ -20,12 +28,5 @@
     "smoking": "outside",
     "website": "https://www.zfv.ch/de/essen-gehen/sbb-restaurant-reparaturcenter-altstetten"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5070612,
-      47.3856708
-    ]
-  },
-  "id": "node-5280388053"
+  "id": 5280388053
 }

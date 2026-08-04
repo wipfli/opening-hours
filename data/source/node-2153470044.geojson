@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2459325,
+      47.142205
+    ]
+  },
+  "properties": {
+    "id": 2153470044,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "4",
+    "addr:postcode": "2502",
+    "addr:street": "Brunngasse",
+    "addr:street:fr": "Rue des Fontaines",
+    "amenity": "restaurant",
+    "check_date": "2026-06-20",
+    "cuisine": "sushi",
+    "name": "Sushi Tempel",
+    "opening_hours": "Mo off; Tu-Th,Su 11:00-14:00,17:30-22:00; Fr-Sa 11:00-14:00,17:30-22:30",
+    "phone": "+41 31 792 01 20",
+    "source": "GPS",
+    "website": "https://sushitemple.simplywebshop.ch/storedata/listStore"
+  },
+  "id": 2153470044
+}

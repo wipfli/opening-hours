@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4597472,
+      46.2644946
+    ]
+  },
+  "properties": {
+    "id": 5141107383,
+    "addr:housenumber": "50",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "contact:facebook": "https://facebook.com/114210892551842",
+    "cuisine": "crepe",
+    "email": "info@lhohoho.ch",
+    "name": "L'ho'ho'ho",
+    "opening_hours": "We-Sa 10:00-21:30; Su 10:00-18:00",
+    "phone": "+41 27 456 64 14",
+    "website": "https://lhohoho.ch/"
+  },
+  "id": 5141107383
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.591176,
+      47.5637639
+    ]
+  },
+  "properties": {
+    "id": 122337395,
+    "addr:city": "Basel",
+    "addr:housenumber": "1b",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Parterre One",
+    "opening_hours": "Tu-Th 18:00-23:00; Fr-Sa 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41616958998",
+    "smoking": "outside",
+    "website": "https://www.parterre-one.ch/de/gastronomie/one-essen-trinken",
+    "wheelchair": "limited"
+  },
+  "id": 122337395
+}

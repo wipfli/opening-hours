@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6616237,
+      47.2605986
+    ]
+  },
+  "properties": {
+    "id": 12151181217,
+    "addr:city": "Oberbipp",
+    "addr:housenumber": "1",
+    "addr:postcode": "4538",
+    "addr:street": "R\u00f6ssliweg",
+    "amenity": "restaurant",
+    "email": "info@roesslioberbipp.ch",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Mi-Do 16:30-22:30, Fr 16:30-23:00, Sa 10:00-23:00, So 10:00-20:00",
+    "phone": "+41 32 636 27 75",
+    "website": "https://roesslioberbipp.ch"
+  },
+  "id": 12151181217
+}

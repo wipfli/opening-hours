@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9353497,
+      46.9942883
+    ]
+  },
+  "properties": {
+    "id": 13388350201,
+    "addr:housenumber": "31",
+    "addr:postcode": "2000",
+    "addr:street": "Faubourg de l'H\u00f4pital",
+    "amenity": "restaurant",
+    "contact:instagram": "anandacafeboutique",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@ananda-online.ch",
+    "name": "Ananda",
+    "opening_hours": "Mo-We 11:00-14:00; Th-Fr 11:00-14:00, 18:30-22:00; Sa 18:30-22:00",
+    "phone": "+41 32 721 34 44",
+    "website": "https://ananda-online.ch/"
+  },
+  "id": 13388350201
+}

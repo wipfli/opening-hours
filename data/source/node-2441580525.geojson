@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6501686,
+      47.6993883
+    ]
+  },
+  "properties": {
+    "id": 2441580525,
+    "amenity": "restaurant",
+    "name": "Pizzeria La Passione",
+    "opening_hours": "Sa-Su off",
+    "website": "https://www.restaurant-stauffacher.ch/"
+  },
+  "id": 2441580525
+}

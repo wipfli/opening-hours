@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.052301,
+      46.2233945
+    ]
+  },
+  "properties": {
+    "id": 2560689464,
+    "addr:city": "Satigny",
+    "addr:housenumber": "10",
+    "addr:postcode": "1242",
+    "addr:street": "Rue du Pr\u00e9-de-la-Fontaine",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "email": "info@traiteurdechatelaine.ch",
+    "level": "1",
+    "name": "Le Restaurant du Traiteur",
+    "opening_hours": "Mo-Fr 07:00-14:30",
+    "opening_hours:url": "https://www.traiteurdechatelaine.ch/notre-restaurant/",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 796 01 24",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "https://www.traiteurdechatelaine.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2560689464
+}

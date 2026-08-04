@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3059891,
+      47.072
+    ]
+  },
+  "properties": {
+    "id": 8705314768,
+    "amenity": "restaurant",
+    "contact:addr": "Herrengasse 17, 3250 Lyss",
+    "contact:phone": "+41 32 384 11 10",
+    "cuisine": "mexican",
+    "name": "J\u00e4gerst\u00fcbli",
+    "opening_hours": "Mo-Sa 17:30-24:00; Tu 11:30-14:00",
+    "website": "https://mexikanisch-lyss.ch"
+  },
+  "id": 8705314768
+}

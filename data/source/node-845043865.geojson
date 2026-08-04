@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7274269,
+      47.6290277
+    ]
+  },
+  "properties": {
+    "id": 845043865,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-03-10",
+    "name": "Restaurant R\u00f6ssli",
+    "opening_hours": "Sa,Su 11:00-22:00; Tu-Fr 10:30-13:30,16:30-22:00",
+    "website": "https://www.pizzarossli.ch/"
+  },
+  "id": 845043865
+}

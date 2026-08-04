@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5014859,
+      47.0030516
+    ]
+  },
+  "properties": {
+    "id": 5777186681,
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:street": "Maienfelderstrasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "AlpenHirt + KUH",
+    "opening_hours": "Mo,Th-Sa 10:00-22:00; Su 10:30-17:00",
+    "phone": "+41 79 455 40 18",
+    "shop": "specialitys",
+    "website": "https://alpenhirt.ch"
+  },
+  "id": 5777186681
+}

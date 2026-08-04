@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0388129,
+      46.6295823
+    ]
+  },
+  "properties": {
+    "id": 2618801527,
+    "addr:city": "Grindelwald",
+    "addr:country": "CH",
+    "addr:housenumber": "61",
+    "addr:postcode": "3818",
+    "addr:street": "Terrassenweg",
+    "amenity": "restaurant",
+    "cuisine": "coffee_shop;cake;fine_dining;local",
+    "email": "welcome@cafe3692.ch",
+    "name": "Caf\u00e9 3692",
+    "opening_hours": "Su-Tu 08:30-18:00; We-Th off; Fr, Sa 08:30-24:00",
+    "operator": "Myriam & Bruno Kaufmann",
+    "phone": "+41 33 853 16 54",
+    "survey:date": "2015-05-23",
+    "website": "https://cafe3692.ch/"
+  },
+  "id": 2618801527
+}

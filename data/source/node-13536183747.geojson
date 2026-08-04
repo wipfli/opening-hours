@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5981215,
+      46.806536
+    ]
+  },
+  "properties": {
+    "id": 13536183747,
+    "amenity": "restaurant",
+    "name": "Waldstafel-Hock",
+    "opening_hours": "nur in der Wintersaison, t\u00e4glich",
+    "phone": "+41 79 346 51 91",
+    "website": "https://www.waldstafelhock.ch/"
+  },
+  "id": 13536183747
+}

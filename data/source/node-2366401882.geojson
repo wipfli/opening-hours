@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5376629,
+      47.4109228
+    ]
+  },
+  "properties": {
+    "id": 2366401882,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "147",
+    "addr:postcode": "8050",
+    "addr:street": "Birchstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-04",
+    "check_date:opening_hours": "2025-05-04",
+    "cuisine": "italian",
+    "name": "Virt\u00f9",
+    "opening_hours": "Mo-Th 17:00-22:00, Fr,Sa 17:00-23:00; Su off, Mo-Fr 11:00-14:00",
+    "phone": "+41 44 310 33 44",
+    "website": "https://www.ristorante-virtu.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2366401882
+}

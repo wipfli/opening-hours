@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5750937,
+      47.27712
+    ]
+  },
+  "properties": {
+    "id": 1091822960,
+    "addr:city": "Oberrieden",
+    "addr:housenumber": "4b",
+    "addr:postcode": "8942",
+    "addr:street": "D\u00f6rflistrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "delivery": "no",
+    "name": "Il Mio Quattro",
+    "opening_hours": "Mo-Fr 09:00-14:00,17:30-23:00; Sa 17:30-23:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 720 90 90",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "website": "http://www.ilmioquattro.ch/"
+  },
+  "id": 1091822960
+}

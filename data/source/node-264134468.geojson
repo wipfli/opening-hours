@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9145005,
+      45.9343778
+    ]
+  },
+  "properties": {
+    "id": 264134468,
+    "addr:city": "Vico Morcote",
+    "addr:postcode": "6921",
+    "amenity": "restaurant",
+    "email": "info@ristorantevicania.ch",
+    "name": "Ristorante Vicania",
+    "opening_hours": "We-Su 11:00-24:00",
+    "phone": "+41 91 980 24 14",
+    "website": "https://www.ristorantevicania.ch/"
+  },
+  "id": 264134468
+}

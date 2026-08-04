@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8710143,
+      46.531171
+    ]
+  },
+  "properties": {
+    "id": 10676851366,
+    "amenity": "restaurant",
+    "check_date": "2023-02-18",
+    "name": "Ciao Chao",
+    "opening_hours": "11:30-22:00",
+    "phone": "+41 81 852 36 34",
+    "website": "https://ciao-chao.ch"
+  },
+  "id": 10676851366
+}

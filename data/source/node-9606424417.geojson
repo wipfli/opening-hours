@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6360327,
+      46.5219513
+    ]
+  },
+  "properties": {
+    "id": 9606424417,
+    "addr:postcode": "1005",
+    "amenity": "restaurant",
+    "contact:facebook": "lekotchi",
+    "contact:instagram": "lekotchicite",
+    "email": "sushi@lekotchi.ch",
+    "name": "Le Kotchi",
+    "opening_hours": "Mo-Tu, Th 10:00-15:00; We, Fr 10:00-15:00, 18:30-20:30",
+    "phone": "+41 78 903 24 25",
+    "website": "https://lekotchi.ch/"
+  },
+  "id": 9606424417
+}

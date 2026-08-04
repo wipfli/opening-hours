@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.500985,
+      47.3870802
+    ]
+  },
+  "properties": {
+    "id": 5479452522,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "451",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-10-04",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Azzurro",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 492 48 08",
+    "website": "https://www.ristoranteazzurro.ch/"
+  },
+  "id": 5479452522
+}

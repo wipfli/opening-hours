@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6189873,
+      46.8411944
+    ]
+  },
+  "properties": {
+    "id": 7366279118,
+    "addr:city": "Oberdiessbach",
+    "addr:housenumber": "17",
+    "addr:postcode": "3672",
+    "addr:street": "Burgdorfstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@sternen-oberdiessbach.com",
+    "name": "Restaurant Zum Sternen",
+    "opening_hours": "Mo 17:00-23:30; Tu-Fr 07:30-23:30; Sa 17:00-23:30; Su closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 771 03 72",
+    "reservation": "yes",
+    "smoking": "outside",
+    "website": "https://www.sternen-oberdiessbach.com/",
+    "wheelchair": "no"
+  },
+  "id": 7366279118
+}

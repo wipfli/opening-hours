@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7414878,
+      47.505679
+    ]
+  },
+  "properties": {
+    "id": 13805992324,
+    "addr:housenumber": "17",
+    "addr:street": "S\u00fcsenbergstrasse",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@goldenberg-winterthur.ch",
+    "indoor_seating": "yes",
+    "name": "Restaurant Goldenberg",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 242 02 02",
+    "website": "https://restaurantgoldenberg.ch"
+  },
+  "id": 13805992324
+}

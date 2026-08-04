@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6893374,
+      47.3901588
+    ]
+  },
+  "properties": {
+    "id": 11962921783,
+    "addr:city": "Volketswil",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "8604",
+    "addr:street": "In der Au",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Vita",
+    "opening_hours": "09:00-19:00",
+    "opening_hours:kitchen": "11:45-18:15",
+    "website": "https://restaurant-lavita.ch/"
+  },
+  "id": 11962921783
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3755659,
+      47.4266102
+    ]
+  },
+  "properties": {
+    "id": 445782475,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "5",
+    "addr:postcode": "9000",
+    "addr:street": "Metzgergasse",
+    "amenity": "restaurant",
+    "name": "Zum Goldenen Sch\u00e4fli",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-24:00; Su off",
+    "opening_hours:bar": "Mo-Fr 17:00-24:00; Sa 16:00-24:00; Su 00:00-01:00",
+    "website": "https://www.zumgoldenenschaeflisg.ch/",
+    "wheelchair": "no"
+  },
+  "id": 445782475
+}

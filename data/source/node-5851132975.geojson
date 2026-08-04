@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9682436,
+      46.9130421
+    ]
+  },
+  "properties": {
+    "id": 5851132975,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "dog": "outside",
+    "name": "Au Vieux Four",
+    "opening_hours": "We,Th 08:30-22:00; Fr-Sa 08:30-23:00; Su 10:00-14:00",
+    "outdoor_seating": "yes",
+    "website": "http://www.auvieuxfour.ch/"
+  },
+  "id": 5851132975
+}

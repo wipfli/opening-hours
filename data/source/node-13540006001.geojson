@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9091002,
+      47.0586886
+    ]
+  },
+  "properties": {
+    "id": 13540006001,
+    "addr:housenumber": "3",
+    "addr:postcode": "2053",
+    "addr:street": "Route de l'Aurore",
+    "amenity": "restaurant",
+    "email": "evologia.cuisine@ne.ch",
+    "name": "Restaurant la TerreAssiette",
+    "opening_hours": "Mo-Fr 11:30-13:30",
+    "phone": "+41 32 889 36 10",
+    "website": "https://www.ne.ch/autorites/DDTE/SAGR/evologia/restaurants/Pages/accueil.aspx"
+  },
+  "id": 13540006001
+}

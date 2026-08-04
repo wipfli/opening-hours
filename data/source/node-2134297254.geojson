@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3022203,
+      47.3932149
+    ]
+  },
+  "properties": {
+    "id": 2134297254,
+    "addr:city": "Niederwil",
+    "addr:housenumber": "10",
+    "addr:postcode": "5524",
+    "addr:street": "Reusspark",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Gnadenthal",
+    "opening_hours": "Tu-Su 09:00-23:00; Mo off",
+    "opening_hours:kitchen": "Tu-Su 09:00-21:00",
+    "phone": "+41 56 619 69 00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.restaurant-gnadenthal.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2134297254
+}

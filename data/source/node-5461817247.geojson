@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9100764,
+      46.4349518
+    ]
+  },
+  "properties": {
+    "id": 5461817247,
+    "addr:city": "Montreux",
+    "addr:housenumber": "58",
+    "addr:postcode": "1820",
+    "addr:street": "Grand'Rue",
+    "amenity": "restaurant",
+    "check_date": "2026-06-19",
+    "check_date:opening_hours": "2026-06-19",
+    "cuisine": "italian",
+    "name": "1820",
+    "opening_hours": "Mo-Th 11:00-00:00; Fr-Su 11:00-01:00",
+    "website": "https://1820restaurant.ch"
+  },
+  "id": 5461817247
+}

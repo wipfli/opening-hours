@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8021736,
+      47.3275948
+    ]
+  },
+  "properties": {
+    "id": 13107788118,
+    "addr:housenumber": "198",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "name": "Namaste",
+    "opening_hours": "Tu-Fr 10:30-14:00, 17:00-23:00; Sa 17:00-23:00; Su 17:00-22:00",
+    "phone": "+41 44 542 77 77",
+    "website": "https://namastewetzikon.ch/"
+  },
+  "id": 13107788118
+}

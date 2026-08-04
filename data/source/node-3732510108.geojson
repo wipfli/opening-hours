@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425471,
+      47.4104359
+    ]
+  },
+  "properties": {
+    "id": 3732510108,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "350",
+    "addr:place": "Neumarkt Oerlikon",
+    "addr:postcode": "8050",
+    "addr:street": "Hofwiesenstrasse",
+    "alt_name": "Suan Long Oerlikon",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Oerlikon Neumarkt",
+    "cuisine": "chinese;thai",
+    "level": "0",
+    "name": "Suan Long",
+    "opening_hours": "Mo-Sa 11:00-22:00",
+    "operator": "Suan Long Enge",
+    "website": "https://suanlong.ch/restaurant/suan-long-oerlikon/"
+  },
+  "id": 3732510108
+}

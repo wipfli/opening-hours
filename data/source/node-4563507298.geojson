@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2333461,
+      47.5026792
+    ]
+  },
+  "properties": {
+    "id": 4563507298,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Steibr\u00fcchli",
+    "opening_hours": "Mo-Fr 08:45-24:00; Sa 14:00-24:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "separated",
+    "website": "https://www.steibruechli.ch/"
+  },
+  "id": 4563507298
+}

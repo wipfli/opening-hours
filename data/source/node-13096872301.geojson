@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.17398,
+      46.3172805
+    ]
+  },
+  "properties": {
+    "id": 13096872301,
+    "addr:housenumber": "11",
+    "addr:postcode": "1291",
+    "addr:street": "Route de Gen\u00e8ve",
+    "amenity": "restaurant",
+    "contact:facebook": "Pizzeria-Motel-le-L%C3%A9man-265373503499971",
+    "contact:instagram": "motel_le_leman",
+    "cuisine": "italian;italian_pizza;pizza",
+    "email": "info@lemotel.ch",
+    "name": "Motel Le L\u00e9man",
+    "opening_hours": "Tu-Th 11:45-14:00, 18:30-22:00; Fr-Sa 11:45-14:00, 18:30-22:30; Su 11:45-22:00",
+    "phone": "+41 22 776 25 21",
+    "website": "https://lemotel.ch/le-restaurant.html",
+    "website:menu": "https://lemotel.ch/le-restaurant.html#MENU"
+  },
+  "id": 13096872301
+}

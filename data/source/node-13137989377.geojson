@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4550711,
+      47.297829
+    ]
+  },
+  "properties": {
+    "id": 13137989377,
+    "addr:city": "Br\u00fclisau",
+    "addr:housenumber": "2",
+    "addr:postcode": "9058",
+    "addr:street": "Dorf",
+    "amenity": "restaurant",
+    "check_date": "2025-09-12",
+    "cuisine": "regional",
+    "name": "R\u00f6ssli",
+    "opening_hours": "We off; Th 16:00+; Fr-Tu 08:30-24:00",
+    "phone": "+41 71 799 11 04",
+    "website": "https://roessli-bruelisau.ch/gasthaus/"
+  },
+  "id": 13137989377
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7742171,
+      46.6545368
+    ]
+  },
+  "properties": {
+    "id": 13393665784,
+    "addr:city": "Leissigen",
+    "addr:housenumber": "73",
+    "addr:postcode": "3706",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "Hotel/Restaurant Roseng\u00e4rtli",
+    "opening_hours": "Tu-Su 08:15-13:30,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 33 847 13 55",
+    "website": "https://rosengaertli.ch/unser-restaurant/"
+  },
+  "id": 13393665784
+}

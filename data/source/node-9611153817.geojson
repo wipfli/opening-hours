@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6262733,
+      46.5106361
+    ]
+  },
+  "properties": {
+    "id": 9611153817,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "10",
+    "addr:postcode": "1007",
+    "addr:street": "Rue des Fontenailles",
+    "amenity": "restaurant",
+    "contact:email": "info@beiruthouse.ch",
+    "cuisine": "lebanese;mezze;sandwich;burger;shawarma;kafta;soujouk;falafel;baklawa;osmalliyah;mouhalabieh;hommos;moutabbal;labn\u00e9;fattouch;tabboul\u00e9;feuilles_de_vigne;rkakat;sambousek;kibbl\u00e9;batata_harra",
+    "description": "Beirut House, un voyage au c\u0153ur du Liban, saveurs authentiques, hospitalit\u00e9 chaleureuse, un festin inoubliable.",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Beirut House",
+    "opening_hours": "Mo-Sa 11:30-14:30, 17:30-21:30; Su 12:00-21:00",
+    "phone": "+41 21 601 09 73",
+    "website": "https://beiruthouse.ch/",
+    "website:menu": "https://www.beiruthouse-lausanne.ch/"
+  },
+  "id": 9611153817
+}

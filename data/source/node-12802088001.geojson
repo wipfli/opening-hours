@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5922574,
+      47.5663442
+    ]
+  },
+  "properties": {
+    "id": 12802088001,
+    "addr:housenumber": "70",
+    "addr:postcode": "4057",
+    "addr:street": "Feldbergstrasse",
+    "amenity": "restaurant",
+    "name": "Restaurant Lu",
+    "opening_hours": "Tu-Su 10:00-22:00",
+    "website": "https://restaurantlu.com/"
+  },
+  "id": 12802088001
+}

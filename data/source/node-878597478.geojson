@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9038703,
+      47.3500269
+    ]
+  },
+  "properties": {
+    "id": 878597478,
+    "amenity": "restaurant",
+    "beds": "9",
+    "name": "Kreuz",
+    "opening_hours": "Tu-Th 09:00-23:30; Fr 09:00-24:00; Sa 00:00-00:30,09:00-24:00; Su 00:00-00:30",
+    "phone": "+41 62 212 78 18",
+    "rooms": "5",
+    "tourism": "hotel",
+    "website": "https://www.kreuzolten.ch/"
+  },
+  "id": 878597478
+}

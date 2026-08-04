@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6632626,
+      46.5106963
+    ]
+  },
+  "properties": {
+    "id": 8373912338,
+    "addr:city": "Pully",
+    "addr:housenumber": "1",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin des Roches",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Fina Trattoria Italiana",
+    "opening_hours": "Tu-Sa 11:00-22:30",
+    "phone": "+41 21 888 78 67",
+    "website": "https://www.finatrattoria.ch/"
+  },
+  "id": 8373912338
+}

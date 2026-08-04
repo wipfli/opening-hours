@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7918982,
+      46.1683554
+    ]
+  },
+  "properties": {
+    "id": 3126895789,
+    "addr:city": "Locarno",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "6600",
+    "addr:street": "Via dell'Ospedale",
+    "amenity": "restaurant",
+    "check_date": "2026-01-13",
+    "check_date:opening_hours": "2026-01-13",
+    "cuisine": "pizza",
+    "internet_access": "wlan",
+    "name": "Biancorosso",
+    "opening_hours": "Su-Th 09:00-23:00, Fr,Sa 09:00-24:00",
+    "website": "http://www.pizzeriaprimavera.ch",
+    "wheelchair": "limited"
+  },
+  "id": 3126895789
+}

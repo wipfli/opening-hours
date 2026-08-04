@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1589088,
+      46.2041528
+    ]
+  },
+  "properties": {
+    "id": 13060704801,
+    "addr:housenumber": "16",
+    "addr:postcode": "1207",
+    "addr:street": "Rue du 31-D\u00e9cembre",
+    "amenity": "restaurant",
+    "cuisine": "japanese;sushi",
+    "name": "Shogun sp\u00e9cialit\u00e9s sushi",
+    "opening_hours": "Mo 12:00-14:00; Tu-Sa 12:00-14:00, 19:00-22:00",
+    "phone": "+41 22 736 93 06",
+    "website": "https://www.leshogun.ch/"
+  },
+  "id": 13060704801
+}

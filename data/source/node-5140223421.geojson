@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6462612,
+      46.8777496
+    ]
+  },
+  "properties": {
+    "id": 5140223421,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "27",
+    "addr:postcode": "6460",
+    "addr:street": "D\u00e4twylerstrasse",
+    "amenity": "restaurant",
+    "email": "info@uristier-altdorf.ch",
+    "name": "zum schwarzen Uristier",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "operator": "ABC-Event und Catering AG",
+    "phone": "+41418704747",
+    "website": "https://www.uristier-altdorf.ch/"
+  },
+  "id": 5140223421
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6936793,
+      47.3703349
+    ]
+  },
+  "properties": {
+    "id": 1734681913,
+    "addr:city": "N\u00e4nikon",
+    "addr:housename": "Restaurant L\u00f6wen",
+    "addr:housenumber": "47",
+    "addr:postcode": "8606",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@loewen-naenikon.ch",
+    "name": "Landgasthof L\u00f6wen",
+    "opening_hours": "Tu-Fr 11:30 - 14:30, 18:30-00:00, Sa 18:30-00:00",
+    "phone": "+41 44 942 33 55",
+    "toilets:wheelchair": "no",
+    "website": "https://www.loewen-naenikon.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1734681913
+}

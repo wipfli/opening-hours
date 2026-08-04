@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5999925,
+      47.3991366
+    ]
+  },
+  "properties": {
+    "id": 8059840910,
+    "amenity": "restaurant",
+    "cuisine": "crepe;frozen_yogurt",
+    "name": "grepery",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41433338040",
+    "website": "https://www.grepery.ch/duebendorf-stettbach/"
+  },
+  "id": 8059840910
+}

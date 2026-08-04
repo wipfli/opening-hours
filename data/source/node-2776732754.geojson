@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5657129,
+      46.5225192
+    ]
+  },
+  "properties": {
+    "id": 2776732754,
+    "addr:city": "Ecublens (VD)",
+    "addr:housenumber": "8c",
+    "addr:postcode": "1024",
+    "addr:street": "Route Louis-Favre",
+    "amenity": "restaurant",
+    "capacity": "150",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "email": "ciao@gina-ristorante.ch",
+    "indoor_seating": "yes",
+    "name": "Gina Ristorante",
+    "opening_hours": "Mo-Fr 11:45-14:00,18:45-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 691 01 33",
+    "smoking": "outside",
+    "source": "EPFL Website, http://restauration.epfl.ch/gina and http://bottin.epfl.ch/ubrowse.action?acro=GINA",
+    "takeaway": "yes",
+    "website": "https://restauration.epfl.ch/gina",
+    "wheelchair": "yes"
+  },
+  "id": 2776732754
+}

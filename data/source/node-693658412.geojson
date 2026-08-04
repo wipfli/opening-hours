@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.437541,
+      46.975516
+    ]
+  },
+  "properties": {
+    "id": 693658412,
+    "amenity": "restaurant",
+    "cuisine": "regional;italian;pizza",
+    "delivery": "no",
+    "email": "info@restaurant-luna.ch",
+    "name": "Luna",
+    "opening_hours": "Tu-Sa 11:00-23:30",
+    "opening_hours:takeaway": "Tu-Sa 11:30-13:30,18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 302 99 99",
+    "takeaway": "yes",
+    "website": "https://restaurant-luna.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 693658412
+}

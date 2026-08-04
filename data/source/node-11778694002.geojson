@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4828901,
+      47.0108686
+    ]
+  },
+  "properties": {
+    "id": 11778694002,
+    "amenity": "restaurant",
+    "name": "Nostalgie Bar",
+    "opening_hours": "Tu-Su 11:00-22:00",
+    "website": "https://www.nostalgiebar.ch/"
+  },
+  "id": 11778694002
+}

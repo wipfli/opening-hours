@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0448073,
+      47.4022135
+    ]
+  },
+  "properties": {
+    "id": 1927808841,
+    "addr:city": "K\u00fcttigen",
+    "addr:country": "CH",
+    "addr:housenumber": "1a",
+    "addr:postcode": "5022",
+    "addr:street": "Bibersteinerstrasse",
+    "addr:suburb": "Rombach",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Il Mulino",
+    "opening_hours": "Tu-Th 11:00-13:00,17:00-22:00; Fr 11:00-13:00,17:00-23:00; Sa 11:00-23:00; Su 16:00-22:00",
+    "website": "https://www.ilmulino.ch/"
+  },
+  "id": 1927808841
+}

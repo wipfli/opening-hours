@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3638473,
+      46.9586035
+    ]
+  },
+  "properties": {
+    "id": 1512991211,
+    "amenity": "restaurant",
+    "check_date": "2025-09-27",
+    "cuisine": "local;sushi",
+    "indoor_seating": "yes",
+    "name": "Steib\u00f6ckli",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.steib\u00f6ckli.ch",
+    "wheelchair": "no"
+  },
+  "id": 1512991211
+}

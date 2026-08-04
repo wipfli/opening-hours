@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6366259,
+      46.6408724
+    ]
+  },
+  "properties": {
+    "id": 309289389,
+    "addr:city": "Echallens",
+    "addr:housenumber": "4",
+    "addr:postcode": "1040",
+    "addr:street": "Place Emile Gardaz",
+    "amenity": "restaurant",
+    "cuisine": "pizzeria;pizza;salad;bistro;european",
+    "name": "Auberge de la Couronne",
+    "opening_hours": "Lu, Me, Je : 08:00-23:00 / Ve, Sa : 08:30-23:00 / Di : 09:00-22:00",
+    "phone": "+41 21 881 11 77",
+    "website": "https://www.aubergecouronne.ch/"
+  },
+  "id": 309289389
+}

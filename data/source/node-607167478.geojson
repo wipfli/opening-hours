@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4356432,
+      47.1626131
+    ]
+  },
+  "properties": {
+    "id": 607167478,
+    "addr:city": "H\u00fcnenberg",
+    "addr:country": "CH",
+    "addr:housenumber": "82",
+    "addr:postcode": "6331",
+    "addr:street": "B\u00f6sch",
+    "amenity": "restaurant",
+    "name": "Schl\u00f6ssli",
+    "opening_hours": "Mo-Fr",
+    "website": "http://www.restaurantschloessli.ch/"
+  },
+  "id": 607167478
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7181336,
+      47.3500092
+    ]
+  },
+  "properties": {
+    "id": 269234997,
+    "addr:housenumber": "4",
+    "addr:street": "Poststrasse",
+    "alt_name": "Zur Post",
+    "amenity": "restaurant",
+    "check_date": "2026-06-25",
+    "cuisine": "pizza",
+    "email": "info@poestli-dml.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "P\u00f6stli Da Mamma Lisetta",
+    "opening_hours": "Tu-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 940 70 70",
+    "website": "https://poestli-damammalisetta.ch/",
+    "wheelchair": "no"
+  },
+  "id": 269234997
+}

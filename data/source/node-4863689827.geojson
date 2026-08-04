@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6348924,
+      47.4053254
+    ]
+  },
+  "properties": {
+    "id": 4863689827,
+    "addr:housenumber": "29",
+    "addr:street": "Bahnhofstrasse",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "email": "info@freiraumwidnau.ch",
+    "indoor_seating": "yes",
+    "name": "Freiraum",
+    "opening_hours": "Tu-We 11:30-13:30,17:00-00:00; Th 11:30-13:30,17:00-02:00; Fr 11:30-13:30,16:00-02:00; Sa 11:00-02:00",
+    "opening_hours:kitchen": "Tu-Sa 11:30-13:30, 18:00-22:00",
+    "opening_hours:url": "https://freiraum-widnau.ch/",
+    "outdoor_seating": "garden",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41717231200",
+    "smoking": "outside",
+    "website": "https://freiraum-widnau.ch/restaurant/",
+    "wheelchair": "limited"
+  },
+  "id": 4863689827
+}

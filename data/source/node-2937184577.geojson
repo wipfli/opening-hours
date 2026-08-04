@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4553738,
+      46.9487672
+    ]
+  },
+  "properties": {
+    "id": 2937184577,
+    "alt_name": "Restaurant Belle Epoque",
+    "amenity": "restaurant",
+    "check_date": "2026-02-22",
+    "contact:addr": "Gerechtigkeitsgasse 18, 3011 Bern",
+    "contact:email": "info@belle-epoque.ch",
+    "contact:fax": "+41 31 3113936",
+    "contact:phone": "+41 31 3114336",
+    "name": "Belle Epoque",
+    "old_name": "Le Chariot",
+    "opening_hours": "Mo-Su 07:00-23:30",
+    "operator": "BE Hotel Management AG",
+    "source": "website",
+    "website": "https://belle-epoque.ch/?page_id=49"
+  },
+  "id": 2937184577
+}

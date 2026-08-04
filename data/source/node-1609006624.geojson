@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4486371,
+      47.2970153
+    ]
+  },
+  "properties": {
+    "id": 1609006624,
+    "addr:city": "Hedingen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8908",
+    "addr:street": "Affolternstrasse",
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/benis.place/",
+    "cuisine": "pizza;burger",
+    "indoor_seating": "yes",
+    "name": "Beni's Place",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa-Su 11:00-22:00",
+    "outdoor_seating": "sidewalk",
+    "phone": "+41 44 884 89 08",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.benis.place/",
+    "wheelchair": "yes"
+  },
+  "id": 1609006624
+}

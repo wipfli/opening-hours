@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1531002,
+      47.2188539
+    ]
+  },
+  "properties": {
+    "id": 10101128299,
+    "addr:housenumber": "17",
+    "addr:street": "Joderstrasse",
+    "amenity": "restaurant",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo, Th-Sa 10:00-00:30; Su 10:00-22:00; Tu, We off",
+    "phone": "+41 41 930 12 13",
+    "website": "https://www.loewen-rickenbach.ch"
+  },
+  "id": 10101128299
+}

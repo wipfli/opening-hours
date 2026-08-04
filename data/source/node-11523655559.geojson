@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4994145,
+      47.4232082
+    ]
+  },
+  "properties": {
+    "id": 11523655559,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "634",
+    "addr:postcode": "8046",
+    "addr:street": "Wehntalerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-03-23",
+    "check_date:opening_hours": "2026-03-23",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Da Bella Italia",
+    "opening_hours": "Mo-Su 10:30-21:45",
+    "website": "https://www.da-bella-italia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 11523655559
+}

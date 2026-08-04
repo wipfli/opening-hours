@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7268709,
+      47.5004628
+    ]
+  },
+  "properties": {
+    "id": 359686638,
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "8400",
+    "addr:street": "Stadthausstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-06-29",
+    "cuisine": "regional",
+    "name": "Rosa Pulver",
+    "opening_hours": "Tu-Fr 11:30-13:30, 18:00+; Sa 18:00+",
+    "website": "https://rosapulver.ch/"
+  },
+  "id": 359686638
+}

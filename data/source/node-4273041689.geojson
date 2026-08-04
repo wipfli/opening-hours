@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5841075,
+      47.563773
+    ]
+  },
+  "properties": {
+    "id": 4273041689,
+    "addr:city": "Basel",
+    "addr:housenumber": "29",
+    "addr:postcode": "4056",
+    "addr:street": "St. Johanns-Vorstadt",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "email": "info@zurmaegd.ch",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Zur M\u00e4gd",
+    "opening_hours": "Tu-Sa 11:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41612815010",
+    "smoking": "outside",
+    "website": "https://zurmaegd.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4273041689
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8333522,
+      47.1031733
+    ]
+  },
+  "properties": {
+    "id": 1237728786,
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "2300",
+    "addr:street": "Rue des Granges",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Des Faucheurs",
+    "name:fr": "Le Caf\u00e9 des Faucheurs",
+    "opening_hours": "Tu-Sa 10:00-14:00, 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 964 11 00",
+    "website": "https://le-cafe-des-faucheurs.business.site/"
+  },
+  "id": 1237728786
+}

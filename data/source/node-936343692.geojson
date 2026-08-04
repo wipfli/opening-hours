@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4840774,
+      47.0558411
+    ]
+  },
+  "properties": {
+    "id": 936343692,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Rigi Kulm",
+    "opening_hours": "Mo-Fr 21:00-16:30, Sa,Su 08:30-17:30",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.rigikulm.ch/",
+    "wikidata": "Q113012486"
+  },
+  "id": 936343692
+}

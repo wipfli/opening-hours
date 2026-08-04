@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2107739,
+      46.4897371
+    ]
+  },
+  "properties": {
+    "id": 7243678404,
+    "addr:housenumber": "8",
+    "addr:street": "Rue des Allamans",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 du Cerf",
+    "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 925 81 23",
+    "website": "https://lecerfrougemont.ch/"
+  },
+  "id": 7243678404
+}

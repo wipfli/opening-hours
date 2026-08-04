@@ -1,7 +1,0 @@
-The Fischergarten has these hours: Mo - So: 11.30 Uhr bis Ende der Gemütlichkeit, open from 01.03 to 31.10.
-
-The opening time is 11:30 and closing time is variable ("end of coziness"), but it's a seasonal outdoor garden. The closing time is not a fixed hour, so I can only confidently state the opening time. However, for OSM purposes, I'll note the seasonal nature and the opening time.
-
-Since the closing time is not a fixed time ("Ende der Gemütlichkeit"), I cannot construct a complete valid opening hours string with confidence.
-
-UNSURE

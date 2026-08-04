@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8134402,
+      47.5812017
+    ]
+  },
+  "properties": {
+    "id": 1653595929,
+    "addr:city": "Rheinfelden (Baden)",
+    "addr:housenumber": "1",
+    "addr:postcode": "79618",
+    "addr:street": "Schlo\u00df Beuggen",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant Beuggen 1",
+    "opening_hours": "12:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+49762375190",
+    "toilets:wheelchair": "yes",
+    "website": "https://beuggen-eins.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Tagungshaus voll rollstuhlgerecht, Kapelle mit 3 Stufen"
+  },
+  "id": 1653595929
+}

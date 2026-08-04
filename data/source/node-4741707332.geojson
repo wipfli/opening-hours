@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9510134,
+      46.0040038
+    ]
+  },
+  "properties": {
+    "id": 4741707332,
+    "amenity": "restaurant",
+    "name": "Sass",
+    "opening_hours": "11:30-23:00",
+    "opening_hours:signed": "no",
+    "phone": "+41 91 922 21 83",
+    "website": "https://www.sasscafe.ch/"
+  },
+  "id": 4741707332
+}

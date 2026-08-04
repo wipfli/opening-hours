@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5984968,
+      47.3955774
+    ]
+  },
+  "properties": {
+    "id": 5086973225,
+    "addr:city": "D\u00fcbendorf",
+    "addr:housenumber": "10",
+    "addr:postcode": "8600",
+    "addr:street": "Auenstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-04-18",
+    "cuisine": "pizza;italian;italian_pizza;pasta",
+    "delivery": "no",
+    "name": "Pizzeria Cuore Sportivo",
+    "opening_hours": "Mo-Fr 09:00-15:00, 17:00-22:00; Sa-Su 11:00-15:00, 16:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 821 90 83",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.pizzeria-cuoresportivo.ch",
+    "wheelchair": "yes"
+  },
+  "id": 5086973225
+}

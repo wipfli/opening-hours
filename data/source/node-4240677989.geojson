@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.746317,
+      46.0206378
+    ]
+  },
+  "properties": {
+    "id": 4240677989,
+    "amenity": "restaurant",
+    "name": "Grampi's",
+    "opening_hours": "18:00-02:00",
+    "phone": "+41 27 967 77 75",
+    "reservation": "yes",
+    "website": "https://grampis.ch"
+  },
+  "id": 4240677989
+}

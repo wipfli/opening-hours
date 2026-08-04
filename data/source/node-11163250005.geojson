@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5881296,
+      47.5567553
+    ]
+  },
+  "properties": {
+    "id": 11163250005,
+    "addr:housenumber": "4",
+    "addr:postcode": "4001",
+    "addr:street": "Gr\u00fcnpfahlgasse",
+    "amenity": "restaurant",
+    "contact:facebook": "Beef7-101751251647016",
+    "contact:instagram": "beef7_basel",
+    "cuisine": "steak_house",
+    "email": "info@beef7.ch",
+    "indoor_seating": "yes",
+    "name": "Beef7",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-23:00; Sa 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 681 88 00",
+    "smoking": "outside",
+    "website": "https://www.beef7.ch/"
+  },
+  "id": 11163250005
+}

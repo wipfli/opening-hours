@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4798997,
+      46.9550171
+    ]
+  },
+  "properties": {
+    "id": 9105949818,
+    "amenity": "restaurant",
+    "cuisine": "pizza;burger",
+    "email": "mundigerhuus@gmail.com",
+    "name": "Mundiger Pizza & Burger Huus",
+    "opening_hours": "Mo-Fr 10:00-22:30; Sa 16:00-23:00; Su 11:00-23:00; Tu off",
+    "phone": "+41 31 506 35 65",
+    "website": "https://www.mundigerburger.ch/"
+  },
+  "id": 9105949818
+}

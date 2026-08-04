@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3755753,
+      47.4223579
+    ]
+  },
+  "properties": {
+    "id": 9951264247,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "32",
+    "addr:postcode": "9000",
+    "addr:street": "Gallusstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "La Verita",
+    "opening_hours": "Th-Fr 09:00-21:00; Sa 10:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 523 00 77",
+    "website": "https://www.laverita.ch/"
+  },
+  "id": 9951264247
+}

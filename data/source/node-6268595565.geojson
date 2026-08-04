@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5061705,
+      46.9562996
+    ]
+  },
+  "properties": {
+    "id": 6268595565,
+    "amenity": "restaurant",
+    "cuisine": "pizza;pasta;kebab",
+    "delivery": "yes",
+    "name": "Big Mama's Haus",
+    "opening_hours": "Mo-Sa 09:00-24:00; Su 09:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 31 931 67 48",
+    "website": "http://bigmamahaus.ch/"
+  },
+  "id": 6268595565
+}

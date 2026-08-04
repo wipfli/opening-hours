@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9340322,
+      46.9968891
+    ]
+  },
+  "properties": {
+    "id": 1875138043,
+    "addr:city": "Neuch\u00e2tel",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "2000",
+    "addr:street": "Place Blaise-Cendrars",
+    "amenity": "restaurant",
+    "check_date": "2025-07-31",
+    "contact:facebook": "FritesBelga",
+    "contact:instagram": "fritesbelga",
+    "cuisine": "burger;friture;sandwich",
+    "email": "neuchatel@lesbelgeries.com",
+    "name": "Les Belgeries",
+    "opening_hours": "Tu-We 11:30-14:00, 16:30-21:30; Th-Sa 11:30-22:30; Su 11:30-21:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.lesbelgeries.com",
+    "wheelchair": "limited"
+  },
+  "id": 1875138043
+}

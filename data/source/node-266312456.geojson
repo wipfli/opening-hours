@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5727756,
+      47.3995321
+    ]
+  },
+  "properties": {
+    "id": 266312456,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "70",
+    "addr:postcode": "8050",
+    "addr:street": "H\u00fcttenkopfstrasse",
+    "amenity": "restaurant",
+    "name": "Wirtschaft Ziegelh\u00fctte",
+    "opening_hours": "Tu-Th 09:30-23:00; Fr-Sa 09:30-23:30; Su 11:30-22:30",
+    "phone": "+41 44 322 40 03",
+    "website": "https://wirtschaft-ziegelhuette.ch/"
+  },
+  "id": 266312456
+}

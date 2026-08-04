@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5584541,
+      47.127532
+    ]
+  },
+  "properties": {
+    "id": 5934671582,
+    "addr:city": "Utzenstorf",
+    "addr:housenumber": "30",
+    "addr:postcode": "3427",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Mo-Fr 08:00-23:30",
+    "phone": "+41 32 665 40 18",
+    "website": "https://roessli-utzenstorf.ch/"
+  },
+  "id": 5934671582
+}

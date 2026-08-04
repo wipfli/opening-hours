@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9637859,
+      47.1541379
+    ]
+  },
+  "properties": {
+    "id": 4467463589,
+    "amenity": "restaurant",
+    "beds": "32",
+    "email": "info@montsoleil.ch",
+    "name": "Auberge L'Assesseur",
+    "opening_hours": "We-Sa 10:00-22:15; Su 10:00-17:00",
+    "phone": "+41 32 941 23 60",
+    "rooms": "10",
+    "tourism": "hostel",
+    "website": "https://www.montsoleil.ch/"
+  },
+  "id": 4467463589
+}

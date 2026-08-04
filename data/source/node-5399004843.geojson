@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8221286,
+      46.7918454
+    ]
+  },
+  "properties": {
+    "id": 5399004843,
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "11a",
+    "addr:postcode": "7270",
+    "addr:street": "Br\u00e4mab\u00fcelstrasse",
+    "amenity": "restaurant",
+    "name": "Stall Val\u00e4r",
+    "opening_hours": "Tu-Su 18:00-24:00",
+    "website": "https://www.stallvalaer.ch/"
+  },
+  "id": 5399004843
+}

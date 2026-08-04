@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0014181,
+      47.2192464
+    ]
+  },
+  "properties": {
+    "id": 55310884,
+    "addr:housenumber": "100",
+    "addr:street": "Uznacherstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-10",
+    "check_date:opening_hours": "2026-05-10",
+    "contact:facebook": "leuekaltbrunn",
+    "cuisine": "grill;local",
+    "name": "Landgasthof L\u00f6wen",
+    "opening_hours": "Tu-Sa 09:00-22:30; Su 09:15-17:00",
+    "phone": "+41 55 2831593",
+    "website": "https://www.loewen-kaltbrunn.ch/",
+    "website:menu": "https://loewen-kaltbrunn.ch/pdf/speisekarte-leue.pdf"
+  },
+  "id": 55310884
+}

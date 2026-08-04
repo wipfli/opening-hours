@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8125779,
+      46.9672276
+    ]
+  },
+  "properties": {
+    "id": 6680552143,
+    "addr:city": "Chambrelien",
+    "addr:housenumber": "4",
+    "addr:postcode": "2019",
+    "addr:street": "Route de la Gare",
+    "amenity": "restaurant",
+    "check_date": "2026-05-22",
+    "check_date:opening_hours": "2026-05-22",
+    "cuisine": "regional",
+    "name": "Le Bistro LA LOCO",
+    "opening_hours": "Tu 08:45-14:30; We-Fr 08:45-14:30,17:30-22:30; Sa 09:30-14:30,17:45-23:00; Su 09:30-17:00",
+    "phone": "+41 32 855 11 65",
+    "website": "https://www.laloco.ch"
+  },
+  "id": 6680552143
+}

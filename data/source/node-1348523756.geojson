@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5376825,
+      47.2067438
+    ]
+  },
+  "properties": {
+    "id": 1348523756,
+    "addr:housenumber": "4",
+    "addr:street": "Kreuzgasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
+    "check_date": "2026-07-15",
+    "cuisine": "international",
+    "highchair": "yes",
+    "internet_access": "wlan",
+    "name": "Kreuz",
+    "opening_hours": "Mo-Fr 11:00+; Sa 10:00+; Su 17:00+",
+    "operator": "Genossenschaft Kreuz Solothurn",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 622 20 20",
+    "smoking": "outside",
+    "start_date": "1973",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "designated",
+    "tourism": "hotel",
+    "website": "https://www.kreuz-solothurn.ch/",
+    "wheelchair:hotel": "no",
+    "wheelchair:restaurant": "yes"
+  },
+  "id": 1348523756
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.535575,
+      47.3818876
+    ]
+  },
   "properties": {
-    "@id": "node/312592661",
+    "id": 312592661,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "50",
@@ -10,9 +17,9 @@
     "amenity": "restaurant",
     "brand": "Saravanaa Bhavan",
     "brand:wikidata": "Q3528082",
-    "check_date": "2025-11-17",
+    "check_date": "2026-07-27",
     "check_date:diet:vegan": "2025-11-17",
-    "check_date:opening_hours": "2025-07-08",
+    "check_date:opening_hours": "2026-07-27",
     "check_date:smoking": "2025-11-17",
     "cuisine": "indian;south_indian",
     "diet:vegan": "yes",
@@ -28,12 +35,5 @@
     "website": "https://www.saravanaabhavan.swiss",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.535575,
-      47.3818876
-    ]
-  },
-  "id": "node-312592661"
+  "id": 312592661
 }

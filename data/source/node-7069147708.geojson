@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4342897,
+      47.5155657
+    ]
+  },
+  "properties": {
+    "id": 7069147708,
+    "addr:city": "Arbon",
+    "addr:housenumber": "7",
+    "addr:postcode": "9320",
+    "addr:street": "Rathausgasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "I Cugini",
+    "opening_hours": "Mo,We,Th,Fr,Su 11:00-14:00,17:30-22:00; Sa 11:30-13:30,17:30-22:00",
+    "website": "https://www.icugini.ch"
+  },
+  "id": 7069147708
+}

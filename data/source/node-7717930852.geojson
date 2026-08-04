@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0235583,
+      47.1420531
+    ]
+  },
+  "properties": {
+    "id": 7717930852,
+    "amenity": "restaurant",
+    "name": "Boutique Restaurant",
+    "opening_hours": "Th 18:00-24:00",
+    "phone": "+41 41 422 18 74",
+    "website": "https://www.wasserschloss-wyher.ch/"
+  },
+  "id": 7717930852
+}

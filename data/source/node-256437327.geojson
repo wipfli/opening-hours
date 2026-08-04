@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4893752,
+      47.4292515
+    ]
+  },
+  "properties": {
+    "id": 256437327,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "email": "info@waldhaus-katzensee.ch",
+    "name": "Waldhaus Katzensee",
+    "opening_hours": "Mo-Fr 08:00-22:30; Sa 08:00-22:30; Su 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 371 30 03",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://waldhaus-katzensee.ch/"
+  },
+  "id": 256437327
+}

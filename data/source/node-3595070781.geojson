@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.776263,
+      47.5531655
+    ]
+  },
+  "properties": {
+    "id": 3595070781,
+    "amenity": "restaurant",
+    "capacity": "50",
+    "name": "Landgasthof Freihof",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-24:00; Sa 17:00-24:00",
+    "website": "https://www.freihof-dinhard.ch/"
+  },
+  "id": 3595070781
+}

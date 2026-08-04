@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0819729,
+      46.5841073
+    ]
+  },
+  "properties": {
+    "id": 4099014505,
+    "addr:housenumber": "53",
+    "addr:postcode": "1663",
+    "addr:street": "Rue du Bourg",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:description": "in the chalet",
+    "changing_table:location": "unisex_toilet",
+    "check_date:opening_hours": "2024-02-24",
+    "cuisine": "fondue",
+    "email": "chalet@gruyereshotels.ch",
+    "internet_access": "wlan",
+    "name": "Le Chalet de Gruy\u00e8res",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 921 21 54",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://www.chalet-gruyeres.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4099014505
+}

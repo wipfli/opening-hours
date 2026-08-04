@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3960185,
+      47.4311103
+    ]
+  },
+  "properties": {
+    "id": 11953476034,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "154",
+    "addr:postcode": "9000",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "la bocca",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 09:00-23:00; Su 10:00-23:00",
+    "phone": "+41 71 245 58 55",
+    "website": "https://labocca.ch/la-bocca/"
+  },
+  "id": 11953476034
+}

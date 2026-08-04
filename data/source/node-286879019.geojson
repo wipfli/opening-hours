@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4722937,
+      46.8816511
+    ]
+  },
+  "properties": {
+    "id": 286879019,
+    "addr:city": "Wald",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "3086",
+    "addr:street": "Bernstrasse",
+    "addr:suburb": "Zimmerwald",
+    "alt_name": "Restaurant L\u00f6wen",
+    "amenity": "restaurant",
+    "contact:email": "loewen-zimmerwald@sunrise.ch",
+    "contact:fax": "+41 31 8193943",
+    "contact:phone": "+41 31 8191972",
+    "cuisine": "regional",
+    "name": "L\u00f6wen",
+    "opening_hours": "Mo-Tu off; We-Th 11:00-14:00, 17:30-22:00; Fr-Sa 11:00-14:00, 17:30-23:30; Su 10:00-20:00",
+    "operator": "Monique Grubenmann & Ralf Beck",
+    "source": "survey and website",
+    "website": "https://www.loewen-zimmerwald.ch/"
+  },
+  "id": 286879019
+}

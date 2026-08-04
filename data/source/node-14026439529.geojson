@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1392764,
+      47.3904488
+    ]
+  },
+  "properties": {
+    "id": 14026439529,
+    "addr:city": "Hunzenschwil",
+    "addr:housenumber": "2",
+    "addr:postcode": "5502",
+    "addr:street": "Dutschmis",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian;salad;burger;kebab;pasta;wings;chicken;dessert",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Nosch",
+    "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-23:15; Su 11:00-23:00",
+    "phone": "+41 62 891 00 60",
+    "toilets": "yes",
+    "website": "https://noschpizza.ch/"
+  },
+  "id": 14026439529
+}

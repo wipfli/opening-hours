@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6031543,
+      46.5259679
+    ]
+  },
+  "properties": {
+    "id": 8497558291,
+    "addr:city": "Prilly",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "1008",
+    "addr:street": "Avenue du Chablais",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-07-08",
+    "cuisine": "french",
+    "indoor_seating": "yes",
+    "name": "Caf\u00e9 des Bouchers",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 624 08 08",
+    "website": "https://cafedesbouchers.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8497558291
+}

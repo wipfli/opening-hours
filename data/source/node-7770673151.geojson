@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5048934,
+      46.9989934
+    ]
+  },
+  "properties": {
+    "id": 7770673151,
+    "amenity": "restaurant",
+    "name": "gladys",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "+41 81 303 37 20",
+    "website": "https://www.resortragaz.ch/de/restaurants-und-bars/gladys"
+  },
+  "id": 7770673151
+}

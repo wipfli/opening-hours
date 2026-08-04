@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2430745,
+      47.1188118
+    ]
+  },
+  "properties": {
+    "id": 10294989245,
+    "addr:city": "Port",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "2562",
+    "addr:street": "Huebstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "email": "hueb-port@gmx.ch",
+    "name": "HUEB PORT",
+    "opening_hours": "Tu-Sa 11:00-14:00,17:00-23:30",
+    "phone": "+41 32 373 60 10",
+    "website": "https://www.hueb-port.ch/"
+  },
+  "id": 10294989245
+}

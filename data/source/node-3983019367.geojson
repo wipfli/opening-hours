@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4881385,
+      47.38915
+    ]
+  },
+  "properties": {
+    "id": 3983019367,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "141",
+    "addr:postcode": "8048",
+    "addr:street": "Baslerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-08-06",
+    "check_date:diet:vegan": "2025-08-06",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Qirin",
+    "note": "all-capital stylization in names is not allowed in OSM: https://wiki.openstreetmap.org/wiki/Names",
+    "opening_hours": "Mo-Th 10:30-14:30,17:30-22:00; Fr 10:30-14:30,17:30-23:00; Sa 17:30-23:00; PH,Su 13:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.qirin-sushidrinks.ch/"
+  },
+  "id": 3983019367
+}

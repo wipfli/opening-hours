@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8702396,
+      47.0471752
+    ]
+  },
+  "properties": {
+    "id": 251332428,
+    "addr:city": "Eriswil",
+    "addr:place": "Restaurant Ahorn-Alp",
+    "addr:postcode": "4952",
+    "amenity": "restaurant",
+    "check_date": "2023-08-31",
+    "cuisine": "regional",
+    "fax": "+41 62 966 07 75",
+    "name": "Ahornalp",
+    "opening_hours": "Mo-Su 09:00-22:00; Nov-Apr Mo-Tu off",
+    "operator": "Albert Mathis & Maria Coti",
+    "phone": "+41 62 966 17 70",
+    "website": "http://www.ahornalp.ch",
+    "wheelchair": "limited"
+  },
+  "id": 251332428
+}

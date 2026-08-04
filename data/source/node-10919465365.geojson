@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1421016,
+      46.2015675
+    ]
+  },
+  "properties": {
+    "id": 10919465365,
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "diet:halal": "yes",
+    "email": "contact@meyhane.ch",
+    "name": "Meyhan\u00e8",
+    "opening_hours": "Mo 12:00-15:30; Tu-Sa 12:00-15:30, 18:00-00:00; PH off",
+    "phone": "+41 22 320 84 16",
+    "website": "https://www.meyhane.ch/"
+  },
+  "id": 10919465365
+}

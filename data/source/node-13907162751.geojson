@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9218158,
+      46.7208753
+    ]
+  },
+  "properties": {
+    "id": 13907162751,
+    "addr:city": "Davos Dorf",
+    "addr:housenumber": "128",
+    "addr:postcode": "7260",
+    "addr:street": "Dischmastrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "2007",
+    "email": "info@duerrboden.ch",
+    "name": "Berggasthaus D\u00fcrrboden",
+    "opening_hours": "Th-Mo 09:00-17:00",
+    "phone": "+41 81 416 34 14",
+    "tourism": "alpine_hut",
+    "website": "https://www.duerrboden.ch/",
+    "wikidata": "Q1272134",
+    "wikipedia": "de:D\u00fcrrboden"
+  },
+  "id": 13907162751
+}

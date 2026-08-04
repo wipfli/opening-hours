@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1458536,
+      46.1945955
+    ]
+  },
+  "properties": {
+    "id": 2157985921,
+    "addr:city": "Gen\u00e8ve",
+    "addr:country": "CH",
+    "addr:floor": "G",
+    "addr:housenumber": "25",
+    "addr:postcode": "1205",
+    "addr:street": "Rue Pr\u00e9vost-Martin",
+    "amenity": "restaurant",
+    "check_date": "2025-01-29",
+    "contact:facebook": "suahoy.ch",
+    "contact:instagram": "suahoy_gva",
+    "cuisine": "thai",
+    "level": "0",
+    "name": "Suahoy",
+    "note": "surveyed by Alex-7",
+    "opening_hours": "Tu-Fr 12:00-14:00, 19:00-23:00; Sa 19:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 22 320 07 37",
+    "source": "survey",
+    "website": "https://www.suahoy.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2157985921
+}

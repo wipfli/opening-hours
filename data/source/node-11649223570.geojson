@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.888156,
+      46.3295208
+    ]
+  },
+  "properties": {
+    "id": 11649223570,
+    "addr:postcode": "1896",
+    "amenity": "restaurant",
+    "name": "Resto-Bar",
+    "name:fr": "Resto-bar des Halles Planchamps",
+    "opening_hours": "We 09:00-18:30; Th-Fr 09:00-23:00; Sa 08:00-23:00; Su 10:00-15:00",
+    "phone": "+41 24 481 85 75",
+    "website": "https://traiteurplanchamp.ch"
+  },
+  "id": 11649223570
+}

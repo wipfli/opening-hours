@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8170398,
+      47.2262644
+    ]
+  },
+  "properties": {
+    "id": 2414277528,
+    "addr:city": "Rapperswil (SG)",
+    "addr:housenumber": "2",
+    "addr:postcode": "8640",
+    "addr:street": "Rathausstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-05-24",
+    "cuisine": "italian",
+    "name": "Rossini",
+    "opening_hours": "Mo-Fr,Su 10:00-22:00; Sa 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 214 22 22",
+    "website": "https://www.rossinirapperswil.ch/"
+  },
+  "id": 2414277528
+}

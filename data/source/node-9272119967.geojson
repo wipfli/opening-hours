@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6067078,
+      46.5272574
+    ]
+  },
+  "properties": {
+    "id": 9272119967,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "74",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue de Morges",
+    "amenity": "restaurant",
+    "branch": "Lausanne-Ouest",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "indoor_seating": "yes",
+    "name": "10' dieci",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-22:00; Fr 11:00-13:30,17:00-23:00; Sa 11:30-14:00,17:00-23:00; Su 11:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+41 21 648 10 10",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/fr/livraison-pizza-lausanne-ouest"
+  },
+  "id": 9272119967
+}

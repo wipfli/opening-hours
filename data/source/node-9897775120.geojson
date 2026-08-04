@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1476541,
+      46.8093585
+    ]
+  },
+  "properties": {
+    "id": 9897775120,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "12",
+    "addr:postcode": "1700",
+    "addr:street": "Route du Jura",
+    "amenity": "restaurant",
+    "branch": "Fribourg",
+    "cuisine": "pizza",
+    "delivery": "yse",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "name": "Dieci pizza",
+    "opening_hours": "Mo-Th 11:00-13:30,17:00-22:00; Fr-Sa 11:00-13:30,17:00-23:00; Su 11:00-22:00",
+    "phone": "+41264021010",
+    "takeaway": "yes",
+    "website": "https://dieci.ch/fr/livraison-pizza-fribourg"
+  },
+  "id": 9897775120
+}

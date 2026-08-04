@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8445757,
+      46.4633862
+    ]
+  },
+  "properties": {
+    "id": 8060373212,
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "name": "Le restaurant N\u00b0 6",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "phone": "+41 21 642 70 87",
+    "website": "https://lenumero6.ch/"
+  },
+  "id": 8060373212
+}

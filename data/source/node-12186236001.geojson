@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6309998,
+      46.5187138
+    ]
+  },
+  "properties": {
+    "id": 12186236001,
+    "addr:postcode": "1003",
+    "amenity": "restaurant",
+    "contact:facebook": "INFOFACTORYFOOD",
+    "contact:instagram": "beefor.official",
+    "cuisine": "steak_house",
+    "email": "info-lausanne@beefor.ch",
+    "name": "Beef'Or",
+    "opening_hours": "Mo-Su 12:00-14:30, 18:30-22:30",
+    "phone": "+41 21 312 87 32",
+    "website": "https://beefor.ch/lausanne/",
+    "website:menu": "https://beefor.ch/wp-content/uploads/2024/07/menu-juillet-pdf-5.pdf"
+  },
+  "id": 12186236001
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1455198,
+      46.211292
+    ]
+  },
+  "properties": {
+    "id": 13347342167,
+    "addr:housenumber": "13",
+    "addr:postcode": "1201",
+    "addr:street": "Rue de Fribourg",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "email": "Praveeth.shan@makitails.ch",
+    "name": "Makitails",
+    "opening_hours": "Mo-Su 11:00-14:00, Su-We 17:30-22:30, Th-Sa 17:30-24:00",
+    "phone": "+41223605050",
+    "website": "https://www.makitails.ch",
+    "website:menu": "https://www.makitails.ch/menu"
+  },
+  "id": 13347342167
+}

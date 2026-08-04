@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5984646,
+      47.5540734
+    ]
+  },
+  "properties": {
+    "id": 11328121145,
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "4052",
+    "addr:street": "Malzgasse",
+    "amenity": "restaurant",
+    "contact:email": "info@spoon-basel.ch",
+    "contact:phone": "+41 61 274 13 13",
+    "name": "Spoon",
+    "opening_hours": "Mo-Fr 08:00-14:30",
+    "website": "https://www.spoon-basel.ch/"
+  },
+  "id": 11328121145
+}

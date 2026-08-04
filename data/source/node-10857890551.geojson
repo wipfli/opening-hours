@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6611482,
+      46.8275185
+    ]
+  },
+  "properties": {
+    "id": 10857890551,
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/le1424/",
+    "contact:instagram": "le_1424",
+    "diet:vegetarian": "yes",
+    "level": "3",
+    "name": "Le 1424",
+    "opening_hours": "We-Su 11:45-14:30, 18:30-23:00",
+    "opening_hours:kitchen": "We-Su 11:45-14:00, 18:45-21:30",
+    "phone": "+41 24 436 12 27",
+    "website": "https://www.lafabriquecornu.ch/fr/restaurant-le-1424",
+    "website:menu": "https://carte.1424.ch/"
+  },
+  "id": 10857890551
+}

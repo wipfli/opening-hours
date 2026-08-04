@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3079161,
+      46.2237356
+    ]
+  },
+  "properties": {
+    "id": 9037951212,
+    "addr:city": "Conthey",
+    "addr:housenumber": "29",
+    "addr:postcode": "1964",
+    "addr:street": "Route des Rottes",
+    "amenity": "restaurant",
+    "name": "Petits Pois Carottes - ORIF",
+    "opening_hours": "Mo-Fr 06:30-16:00",
+    "phone": "+41273460712",
+    "website": "https://www.orif.ch/fr/services-et-produits-orif/cafe-restaurant-petits-pois-carottes-conthey"
+  },
+  "id": 9037951212
+}

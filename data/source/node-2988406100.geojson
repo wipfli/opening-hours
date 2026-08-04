@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4419395,
+      46.9477382
+    ]
+  },
+  "properties": {
+    "id": 2988406100,
+    "addr:postcode": "3011",
+    "amenity": "restaurant",
+    "contact:addr": "Spitalgasse 33, 3011 Bern",
+    "contact:email": "yokoso@japigo.ch",
+    "contact:fax": "+41 31 3111127",
+    "contact:phone": "+4131 302 01 00",
+    "cuisine": "japanese",
+    "delivery": "yes",
+    "name": "Japigo",
+    "opening_hours": "Tu-Sa 11:30-13:45, 17:30-20:30",
+    "source": "website and survey",
+    "website": "https://www.japigo.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2988406100
+}

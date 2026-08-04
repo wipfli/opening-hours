@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.140683,
+      46.1954536
+    ]
+  },
+  "properties": {
+    "id": 9522633538,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "99",
+    "addr:postcode": "1205",
+    "addr:street": "Boulevard Carl-Vogt",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2024-07-14",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "email": "info@mangiabene-restaurant.ch",
+    "name": "Mangia Bene",
+    "opening_hours": "Mo-Fr 11:45-14:00, 19:00-00:00; Sa 19:00-00:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 552 90 00",
+    "reservation": "yes",
+    "website": "https://www.mangiabene-restaurant.ch"
+  },
+  "id": 9522633538
+}

@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4454835,
+      46.712033
+    ]
+  },
+  "properties": {
+    "id": 5284912625,
+    "addr:city": "Thusis",
+    "addr:housenumber": "1",
+    "addr:postcode": "7430",
+    "addr:street": "F\u00fcrstenauerstrasse",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "Calanda",
+    "capacity": "160",
+    "cuisine": "regional;international;sandwich;coffee_shop;ice_cream",
+    "currency:EUR": "yes",
+    "currency:GBP": "yes",
+    "currency:USD": "yes",
+    "description": "Klar \u2013 rasten an der Autobahn soll schnell gehen. Wer jedoch die Viamala Rastst\u00e4tte Thusis f\u00fcr einen Halt ausw\u00e4hlt, will sich vielleicht pl\u00f6tzlich etwas mehr Zeit nehmen als gedacht.",
+    "diet:healthy": "yes",
+    "diet:mediterranean": "yes",
+    "diet:organic": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@viamala-raststaette.ch",
+    "highchair": "yes",
+    "image": "https://viamala-raststaette.ch/de/Angebot",
+    "internet_access": "yes",
+    "level": "0",
+    "name": "Viamala Rastst\u00e4tte Thusis",
+    "opening_hours": "06:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 81 632 10 20",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.viamala-raststaette.ch",
+    "wheelchair": "yes"
+  },
+  "id": 5284912625
+}

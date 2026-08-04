@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8856416,
+      47.2934789
+    ]
+  },
+  "properties": {
+    "id": 12771842634,
+    "amenity": "restaurant",
+    "name": "Besen-Beiz Bachtel",
+    "opening_hours": "off",
+    "website": "https://www.bachtelkulm.ch/2024/09/06/unsere-besen-beiz/"
+  },
+  "id": 12771842634
+}

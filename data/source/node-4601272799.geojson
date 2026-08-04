@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5954203,
+      47.5591171
+    ]
+  },
+  "properties": {
+    "id": 4601272799,
+    "addr:city": "Basel",
+    "addr:housenumber": "11",
+    "addr:postcode": "4058",
+    "addr:street": "Riehentorstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "zum Rebhaus",
+    "opening_hours": "Mo-Fr 10:00-24:00, Sa,Su 17:00-24:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.zumrebhausbasel.ch/"
+  },
+  "id": 4601272799
+}

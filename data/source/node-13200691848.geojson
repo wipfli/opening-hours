@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6032685,
+      47.5512545
+    ]
+  },
+  "properties": {
+    "id": 13200691848,
+    "addr:city": "Basel",
+    "addr:housenumber": "43",
+    "addr:postcode": "4052",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2025-10-07",
+    "cuisine": "brunch;fondue;breakfast",
+    "description": "Die Caf\u00e9-Bar Pf\u00f6rtnerhaus ist ein Ort, an dem die Freude am Genuss und dem unbeschwerten Zusammensein gefeiert wird. Ob du bei einem Kaffee am Morgen oder einem Glas Wein am Abend entspannst, spielt keine Rolle. Bei uns erwartet dich immer eine kleine, ab",
+    "email": "hello@pfoertnerhaus.ch",
+    "level": "0",
+    "name": "Caf\u00e9-Bar Pf\u00f6rtnerhaus",
+    "opening_hours": "Mo-Fr 09:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 347 28 70",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://www.pfoertnerhaus.ch/",
+    "website:menu": "https://www.pfoertnerhaus.ch/wp-content/uploads/2025/05/Pfoertnerhaus_Sommer25_Speisekartepdf.pdf"
+  },
+  "id": 13200691848
+}

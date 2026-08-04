@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6149334,
+      47.6764342
+    ]
+  },
+  "properties": {
+    "id": 4755868122,
+    "addr:city": "Dachsen",
+    "addr:postcode": "8447",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "email": "info@schlosslaufen.ch",
+    "name": "Restaurant Schloss Laufen",
+    "opening_hours": "We-Su 11:30-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 659 67 67",
+    "website": "https://www.schlosslaufen.ch/de/restaurant/",
+    "wheelchair": "yes"
+  },
+  "id": 4755868122
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5574719,
+      47.1290083
+    ]
+  },
+  "properties": {
+    "id": 7297194387,
+    "alt_name": "Landgasthof B\u00e4ren Utzenstorf",
+    "amenity": "restaurant",
+    "contact:addr": "Hauptstrasse 18, 3427 Utzenstorf",
+    "contact:email": "info@baeren-utzenstorf.ch",
+    "contact:fax": "+41 32 6652969",
+    "contact:phone": "+41 32 6654422",
+    "contact:website": "http://www.baeren-utzenstorf.ch/?kontakt%2Finfo",
+    "name": "B\u00e4ren",
+    "opening_hours": "Mo-Tu off; We-Su 08:00-23:30",
+    "operator": "Familie Thommen",
+    "website": "https://www.baeren-utzenstorf.ch",
+    "wheelchair": "no"
+  },
+  "id": 7297194387
+}

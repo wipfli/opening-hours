@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1374059,
+      46.606777
+    ]
+  },
+  "properties": {
+    "id": 5771419353,
+    "addr:city": "Broc",
+    "addr:housenumber": "1",
+    "addr:place": "La G\u00eete \u00e0 Conrad",
+    "addr:postcode": "1636",
+    "amenity": "restaurant",
+    "name": "Au Creux du Feu",
+    "opening_hours": "Mo-Sa 10:30-23:30; Su 10:30-18:00",
+    "phone": "+41 79 755 88 07",
+    "website": "https://www.aucreuxdufeu.ch"
+  },
+  "id": 5771419353
+}

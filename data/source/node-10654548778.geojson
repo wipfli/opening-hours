@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2615817,
+      47.055742
+    ]
+  },
+  "properties": {
+    "id": 10654548778,
+    "addr:city": "Kappelen",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "3273",
+    "addr:street": "Bielstrasse",
+    "amenity": "restaurant",
+    "email": "info@linde-kappelen.ch",
+    "name": "Linde",
+    "opening_hours": "Mo 09:00+; Th-Sa 09:00+; Su 10:00+",
+    "phone": "+41 32 392 12 42",
+    "website": "https://www.linde-kappelen.ch/"
+  },
+  "id": 10654548778
+}

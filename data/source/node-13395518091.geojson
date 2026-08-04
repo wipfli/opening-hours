@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0771012,
+      46.1045897
+    ]
+  },
+  "properties": {
+    "id": 13395518091,
+    "addr:city": "Martigny",
+    "addr:housenumber": "29",
+    "addr:postcode": "1920",
+    "addr:street": "Avenue de la Gare",
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "internet_access:fee": "no",
+    "name": "Baba Ghanouge",
+    "opening_hours": "Mo-Sa 11:30-14:00; Mo-Sa 18:00-20:00; Su 11:00-14:hh",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 27 723 24 44",
+    "website": "https://www.babaghanouge.ch"
+  },
+  "id": 13395518091
+}

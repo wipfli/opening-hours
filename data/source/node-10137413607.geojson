@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.9958209,
+      46.2160597
+    ]
+  },
+  "properties": {
+    "id": 10137413607,
+    "addr:city": "Dardagny",
+    "addr:housenumber": "150",
+    "addr:postcode": "1283",
+    "addr:street": "Route de l'Allondon",
+    "amenity": "restaurant",
+    "contact:facebook": "Centre-Nature-du-Vallon-de-lAllondon-743023179154185",
+    "contact:instagram": "centrenaturevallonallondon",
+    "cuisine": "regional",
+    "diet:seasonal": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Buvette du Centre Nature du Vallon de l\u2019Allondon",
+    "opening_hours": "Apr-Oct: We,Sa,Su,PH 10:00-17:00",
+    "phone": "+41 22 311 10 10",
+    "website": "https://www.pronatura-ge.ch/fr/buvette"
+  },
+  "id": 10137413607
+}

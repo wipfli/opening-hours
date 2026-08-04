@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5871154,
+      47.2166613
+    ]
+  },
+  "properties": {
+    "id": 4729368995,
+    "addr:city": "Luterbach",
+    "addr:postcode": "4542",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "regional",
+    "email": "info@hotel-roessli-luterbach.ch",
+    "name": "R\u00f6ssli",
+    "opening_hours": "Mo-Fr 08:00-22:30; Sa 09:00-19:00",
+    "phone": "+41 32 6822006",
+    "tourism": "hotel",
+    "website": "https://roessli-luterbach.ch/"
+  },
+  "id": 4729368995
+}

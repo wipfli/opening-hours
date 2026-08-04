@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8944577,
+      47.5539264
+    ]
+  },
+  "properties": {
+    "id": 803004536,
+    "amenity": "restaurant",
+    "check_date": "2025-08-17",
+    "cuisine": "thai",
+    "description": "Ehemalig Nuk Tschokdee",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Thaigers Tschokdee",
+    "opening_hours": "Mo-Sa 11:00-14:00,17:00+; Su 17:00+",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "reusable_packaging:offer": "yes",
+    "takeaway": "yes",
+    "website": "https://www.thaigers-tschokdee.ch/",
+    "wheelchair": "no"
+  },
+  "id": 803004536
+}

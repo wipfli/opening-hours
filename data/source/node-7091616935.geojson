@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7199275,
+      47.5026752
+    ]
+  },
+  "properties": {
+    "id": 7091616935,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "15",
+    "addr:postcode": "8400",
+    "addr:street": "Tellstrasse",
+    "amenity": "restaurant",
+    "capacity": "60",
+    "cuisine": "swiss;fondue;raclette",
+    "delivery": "no",
+    "level": "-1",
+    "name": "FondueKeller",
+    "opening_hours": "Tu-Su 17:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+41 52 224 75 29",
+    "smoking": "no",
+    "website": "https://www.fonduekeller-winterthur.com/",
+    "wheelchair": "limited"
+  },
+  "id": 7091616935
+}

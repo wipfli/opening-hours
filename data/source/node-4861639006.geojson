@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6256924,
+      46.5118185
+    ]
+  },
+  "properties": {
+    "id": 4861639006,
+    "addr:postcode": "1007",
+    "amenity": "restaurant",
+    "contact:facebook": "restaurantlepinocchiolausanne",
+    "contact:instagram": "lupaia.osteria",
+    "cuisine": "italian",
+    "email": "ciao@lupaia.ch",
+    "name": "Osteria Lupaia",
+    "opening_hours": "Tu-We 11:45-14:30, 18:30-22:15; Th-Sa 11:45-14:30, 18:45-23:00",
+    "phone": "+41 21 601 42 78",
+    "website": "https://lupaia.ch",
+    "website:menu": "https://www.lupaia.ch/s/Lupaia-menu.pdf"
+  },
+  "id": 4861639006
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2117691,
+      47.4115993
+    ]
+  },
+  "properties": {
+    "id": 5828835985,
+    "addr:city": "Pleujouse",
+    "addr:housenumber": "18",
+    "addr:postcode": "2953",
+    "addr:street": "Le Ch\u00e2teau",
+    "amenity": "restaurant",
+    "email": "le.chateau@ajoie-net.ch",
+    "name": "Ch\u00e2teau de Pleujouse",
+    "opening_hours": "We-Su 12:00-24:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.chateaudepleujouse.ch",
+    "wheelchair": "limited"
+  },
+  "id": 5828835985
+}

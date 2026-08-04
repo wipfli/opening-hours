@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4439523,
+      46.9480522
+    ]
+  },
+  "properties": {
+    "id": 286879726,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2022-07-26",
+    "cuisine": "italian;pizza",
+    "email": "info@piazzaitalia.ch",
+    "name": "Piazza Italia",
+    "opening_hours": "Mo-Sa 10:30-23:00",
+    "opening_hours:kitchen": "Mo-Sa 10:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 318 10 00",
+    "website": "https://piazzaitalia.ch/"
+  },
+  "id": 286879726
+}

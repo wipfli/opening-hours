@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4070008,
+      47.4361151
+    ]
+  },
+  "properties": {
+    "id": 375598962,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "indoor_seating": "yes",
+    "name": "Waldschenke Altberg",
+    "opening_hours": "Mo,We-Sa 09:00-21:00 open \"Sommer\"; Mo,We-Sa 09:00-19:00 open \"Winter\"; PH,Su 08:30-18:00 open",
+    "outdoor_seating": "yes",
+    "self_service": "yes",
+    "website": "https://www.waldschenke-altberg.ch/",
+    "wheelchair": "no",
+    "wheelchair:description": "Aussenbereich zug\u00e4nglich"
+  },
+  "id": 375598962
+}

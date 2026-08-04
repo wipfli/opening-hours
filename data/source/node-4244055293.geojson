@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5360876,
+      47.3754925
+    ]
+  },
   "properties": {
-    "@id": "node/4244055293",
+    "id": 4244055293,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "31-35",
@@ -28,12 +35,5 @@
     "website": "https://filialen.migros.ch/de/migros-restaurant-zuerich-city",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5360876,
-      47.3754925
-    ]
-  },
-  "id": "node-4244055293"
+  "id": 4244055293
 }

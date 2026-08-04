@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5837924,
+      46.5342279
+    ]
+  },
+  "properties": {
+    "id": 11381938181,
+    "amenity": "restaurant",
+    "contact:instagram": "planetbowlrenens",
+    "diet:vegetarian": "yes",
+    "name": "Planet Bowl",
+    "opening_hours": "Mo, We-Sa 09:00-22:00; Tu 09:30-22:00; Su 17:00-21:00",
+    "phone": "+41 76 693 05 26",
+    "website": "https://renens.planetbowl.ch/"
+  },
+  "id": 11381938181
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274873,
+      47.3715104
+    ]
+  },
   "properties": {
-    "@id": "node/3163049164",
+    "id": 3163049164,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "30",
@@ -14,12 +21,5 @@
     "website": "https://www.werdguet.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5274873,
-      47.3715104
-    ]
-  },
-  "id": "node-3163049164"
+  "id": 3163049164
 }

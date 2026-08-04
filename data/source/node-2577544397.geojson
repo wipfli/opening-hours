@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1832305,
+      47.4152899
+    ]
+  },
+  "properties": {
+    "id": 2577544397,
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 Dober",
+    "opening_hours": "Tu-Fr 06:30-19:00; Sa-Su 06:30-18:00; PH 06:30-18:00",
+    "website": "https://www.confiserie-dober.ch/"
+  },
+  "id": 2577544397
+}

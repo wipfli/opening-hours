@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6932848,
+      47.4707984
+    ]
+  },
+  "properties": {
+    "id": 10946870459,
+    "addr:city": "Nuglar",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "4412",
+    "addr:street": "Bifangstrasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "various",
+    "cuisine": "regional",
+    "microbrewery": "yes",
+    "name": "Alte Brennerei",
+    "opening_hours": "We-Fr 16:00-24:00, Sa-Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 913 02 70",
+    "website": "https://www.altebrennerei.ch/"
+  },
+  "id": 10946870459
+}

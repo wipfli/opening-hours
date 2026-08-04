@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8924518,
+      46.541935
+    ]
+  },
+  "properties": {
+    "id": 1493059270,
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "email": "info@restaurant21.ch",
+    "name": "Piste 21",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 852 15 55",
+    "website": "https://www.restaurant21.ch",
+    "wheelchair": "yes"
+  },
+  "id": 1493059270
+}

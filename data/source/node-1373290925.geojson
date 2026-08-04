@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5303266,
+      47.3823657
+    ]
+  },
+  "properties": {
+    "id": 1373290925,
+    "addr:city": "Z\u00fcrich",
+    "addr:postcode": "8005",
+    "amenity": "restaurant",
+    "check_date": "2025-05-17",
+    "cuisine": "noodle;ramen",
+    "email": "limmatplatz@yume-ramen.ch",
+    "name": "Yume Ramen",
+    "opening_hours": "Mo,Su off; Tu-Fr 18:00-21:30; Sa 12:00-13:30,18:00-21:30",
+    "operator": "Sala of Tokyo",
+    "phone": "+41 44 515 87 20",
+    "website": "https://www.yume-ramen.ch/",
+    "website:menu": "https://drive.google.com/file/d/1bN3rJ9Ap1TsBkYNkFUHYudxzFAbNZj1Z/view",
+    "wheelchair": "no"
+  },
+  "id": 1373290925
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4314041,
+      46.9420149
+    ]
+  },
+  "properties": {
+    "id": 286879695,
+    "alt_name": "Pizzeria Eigerplatz Da Nino",
+    "amenity": "restaurant",
+    "contact:addr": "Belpstrasse 65, 3007 Bern",
+    "contact:email": "info@pizzeriadanino.ch",
+    "contact:facebook": "https://www.facebook.com/Pizzeria-da-Nino-108891017357437/",
+    "contact:fax": "+41 31 3721134",
+    "contact:phone": "+41 31 3711131",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "da Nino",
+    "opening_hours": "Mo-Fr 11:30-22:30",
+    "operator": "Antonio Bucolo",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://pizzeriadanino.ch/",
+    "wheelchair": "no"
+  },
+  "id": 286879695
+}

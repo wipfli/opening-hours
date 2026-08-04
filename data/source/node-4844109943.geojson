@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.461975,
+      47.1818192
+    ]
+  },
+  "properties": {
+    "id": 4844109943,
+    "addr:city": "Cham",
+    "addr:housenumber": "17",
+    "addr:postcode": "6330",
+    "addr:street": "Zugerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Chaophraya Thai Take Away",
+    "opening_hours": "Mo-Sa 11:00-14:00",
+    "phone": "+41 79 276 96 88",
+    "takeaway": "yes",
+    "website": "https://chaophraya.ch/"
+  },
+  "id": 4844109943
+}

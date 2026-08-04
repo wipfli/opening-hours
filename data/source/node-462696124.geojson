@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5459316,
+      47.1102235
+    ]
+  },
+  "properties": {
+    "id": 462696124,
+    "addr:city": "Walchwil",
+    "addr:housenumber": "1",
+    "addr:place": "Pfaffenboden",
+    "addr:postcode": "6318",
+    "amenity": "restaurant",
+    "email": "info@pfaffenboden.ch",
+    "end_date": "2026-02-22",
+    "name": "Pfaffenboden",
+    "opening_hours": "Fr-Su 11:00-18:00",
+    "phone": "+41 41 758 15 06",
+    "website": "https://www.pfaffenboden.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 462696124
+}

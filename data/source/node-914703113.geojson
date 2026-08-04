@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5287964,
+      47.3748928
+    ]
+  },
   "properties": {
-    "@id": "node/914703113",
+    "id": 914703113,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "37",
@@ -20,12 +27,5 @@
     "website": "http://www.ikoo.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5287964,
-      47.3748928
-    ]
-  },
-  "id": "node-914703113"
+  "id": 914703113
 }

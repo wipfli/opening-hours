@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7288079,
+      47.5016738
+    ]
+  },
+  "properties": {
+    "id": 4095400173,
+    "amenity": "restaurant",
+    "name": "Villa Str\u00e4uli",
+    "opening_hours": "May-Sep: Tu-Fr 11:30-14:00; Nov-Mar: Tu-Fr 11:30-14:00",
+    "phone": "+41 52 260 06 15",
+    "website": "https://www.villastraeuli.ch/",
+    "wikidata": "Q66741901"
+  },
+  "id": 4095400173
+}

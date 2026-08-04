@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.560209,
+      46.8423445
+    ]
+  },
+  "properties": {
+    "id": 3840463713,
+    "addr:postcode": "1453",
+    "amenity": "restaurant",
+    "check_date": "2026-04-06",
+    "check_date:opening_hours": "2026-04-06",
+    "name": "Caf\u00e9-Restaurant des Cluds",
+    "opening_hours": "Tu-Su 09:00-23:00",
+    "phone": "+41 24 454 25 94",
+    "website": "https://www.restaurantlescluds.ch/"
+  },
+  "id": 3840463713
+}

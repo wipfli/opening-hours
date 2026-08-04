@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4813684,
+      46.3116992
+    ]
+  },
+  "properties": {
+    "id": 5147815630,
+    "amenity": "restaurant",
+    "name": "CaSy",
+    "opening_hours": "Tu-Su 11:00-24:00",
+    "phone": "+41 27 481 17 18",
+    "website": "https://www.casy-montana.ch"
+  },
+  "id": 5147815630
+}

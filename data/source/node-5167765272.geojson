@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6315802,
+      46.7572941
+    ]
+  },
+  "properties": {
+    "id": 5167765272,
+    "addr:city": "Thun",
+    "addr:housenumber": "3",
+    "addr:postcode": "3600",
+    "addr:street": "Freienhofgasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "email": "info@restaurantfreienhof.ch",
+    "name": "Freienhof",
+    "opening_hours": "Mo-Fr 06:30-23:30; Sa 07:00-23:30; Su 07:00-18:00",
+    "phone": "+41 33 227 50 40",
+    "website": "https://www.restaurantfreienhof.ch"
+  },
+  "id": 5167765272
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1518302,
+      46.8001299
+    ]
+  },
+  "properties": {
+    "id": 3635872031,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "1",
+    "addr:postcode": "1700",
+    "addr:street": "Rue de Locarno",
+    "amenity": "restaurant",
+    "cuisine": "regional;bistro",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Le Diapason",
+    "opening_hours": "Tu-Th 09:00-23:30; Fr 09:00-00:00; Sa 16:00-00:00",
+    "phone": "+41 26 558 81 00",
+    "survey:date": "2015-07-03",
+    "website": "https://www.diapason-fribourg.ch/"
+  },
+  "id": 3635872031
+}

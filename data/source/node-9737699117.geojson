@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1490671,
+      46.2114104
+    ]
+  },
+  "properties": {
+    "id": 9737699117,
+    "addr:housenumber": "25",
+    "addr:postcode": "1201",
+    "addr:street": "Rue des P\u00e2quis",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Espresso Club",
+    "opening_hours": "Mo 18:00-24:00, Tu-Fr 11:30-14:00,18:00-24:00, Sa 18:00-24:00",
+    "website": "http://www.espresso-club-geneve.CH"
+  },
+  "id": 9737699117
+}

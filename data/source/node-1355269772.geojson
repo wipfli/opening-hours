@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8163713,
+      47.2263604
+    ]
+  },
+  "properties": {
+    "id": 1355269772,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "1",
+    "addr:postcode": "8640",
+    "addr:street": "Rathausplatz",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "info@rathaus-rapperswil.ch",
+    "name": "Rathaus",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-15:00; PH off",
+    "outdoor_seating": "yes",
+    "website": "https://rathaus-rapperswil.ch/"
+  },
+  "id": 1355269772
+}

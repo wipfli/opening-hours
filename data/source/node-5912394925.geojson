@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3820691,
+      46.9969785
+    ]
+  },
+  "properties": {
+    "id": 5912394925,
+    "amenity": "restaurant",
+    "name": "Taverne 1879",
+    "opening_hours": "We-Sa 11:30-17:30,18:00-22:00; Su 11:30-17:30",
+    "operator": "B\u00fcrgenstock Resort",
+    "phone": "+41 41 612 60 12",
+    "website": "https://www.buergenstock.ch/eat/taverne1879",
+    "wheelchair": "no",
+    "wheelchair:description": "Zutritt nur \u00fcber mehrere Stufen. Auch zum Kiosk kein rollstuhlgerechter Zugang vorhanden. Entt\u00e4uschend nach einem langen, sehr sch\u00f6nen rollstuhlgeeigneten Weg."
+  },
+  "id": 5912394925
+}

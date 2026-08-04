@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1666279,
+      46.3542756
+    ]
+  },
+  "properties": {
+    "id": 13208485074,
+    "addr:city": "Bogis-Bossey",
+    "addr:housenumber": "1",
+    "addr:postcode": "1279",
+    "addr:street": "Chemin de la Pinte",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining;bistro",
+    "description": "Restaurant gastronomique, brasserie et chambres d'h\u00f4tes",
+    "name": "Auberge de Bogis-Bossey",
+    "opening_hours": "Tu-Sa 09:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 776 63 26",
+    "toilets": "yes",
+    "website": "https://auberge-bogis-bossey.com"
+  },
+  "id": 13208485074
+}

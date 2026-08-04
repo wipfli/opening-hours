@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2439637,
+      46.1637884
+    ]
+  },
+  "properties": {
+    "id": 4579459592,
+    "amenity": "restaurant",
+    "contact:housenumber": "35",
+    "contact:street": "Rue du T\u00e9l\u00e9ph\u00e9rique",
+    "internet_access": "wlan",
+    "name": "Auberge Mont Gel\u00e9",
+    "name:fr": "Auberge Mont Gel\u00e9",
+    "opening_hours": "Mo-Th, Su 08:00-22:30; Fr, Sa 08:00-00:00",
+    "phone": "+41 27 306 26 88",
+    "rooms": "4",
+    "tourism": "hotel",
+    "website": "http://www.montgele.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4579459592
+}

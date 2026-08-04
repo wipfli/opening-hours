@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3142506,
+      47.4795171
+    ]
+  },
+  "properties": {
+    "id": 3686734592,
+    "amenity": "restaurant",
+    "facebook": "https://www.facebook.com/Restaurant-Sonne-143424232369702/",
+    "name": "Sonne",
+    "opening_hours": "Mo 11:00-14:00; Tu-Fr 11:00-14:00, 18:00-23:00; Sa 17:00-23:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+4156 221 24 24",
+    "website": "https://www.sonneennetbaden.ch/"
+  },
+  "id": 3686734592
+}

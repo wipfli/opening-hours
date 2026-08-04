@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5609228,
+      47.4512835
+    ]
+  },
+  "properties": {
+    "id": 8628375424,
+    "amenity": "restaurant",
+    "check_date": "2024-07-01",
+    "email": "zuerich-airport@marche-restaurants.ch",
+    "level": "1",
+    "name": "March\u00e9 Restaurant",
+    "opening_hours": "Mo-Su 06:00-18:00",
+    "phone": "+41 43 816 65 10",
+    "shop": "bakery",
+    "takeaway": "yes",
+    "website": "https://www.marche.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8628375424
+}

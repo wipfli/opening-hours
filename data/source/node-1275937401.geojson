@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6367574,
+      46.5181142
+    ]
+  },
+  "properties": {
+    "id": 1275937401,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1003",
+    "addr:street": "Avenue du Th\u00e9\u00e2tre",
+    "amenity": "restaurant",
+    "capacity": "40",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Le Th\u00e9\u00e2tre",
+    "opening_hours": "Mo-Sa 10:00-15:00,18:30-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 351 51 15",
+    "website": "https://www.restaurant-du-theatre.ch/"
+  },
+  "id": 1275937401
+}

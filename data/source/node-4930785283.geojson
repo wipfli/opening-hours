@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5399219,
+      47.3778811
+    ]
+  },
+  "properties": {
+    "id": 4930785283,
+    "addr:city": "Altst\u00e4tten (SG)",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "9450",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Mi Le Asian Take Away & Shop",
+    "opening_hours": "Tu-Fr 10:00-14:00; Sa 11:00-15:00; Su,Mo,PH off",
+    "phone": "+41 71 755 08 88",
+    "website": "http://www.mi-le.ch"
+  },
+  "id": 4930785283
+}

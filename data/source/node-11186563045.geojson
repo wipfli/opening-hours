@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.612342,
+      47.0576274
+    ]
+  },
+  "properties": {
+    "id": 11186563045,
+    "amenity": "restaurant",
+    "cuisine": "asian;indian;pizza;thai",
+    "name": "Swen Asian Restaurant",
+    "opening_hours": "Tu off; Mo,We-Th 17:15-21:30; Fr-Sa 17:15-22:30; Su 12:00-21:00",
+    "phone": "+41 34 55 68 711",
+    "website": "https://www.swenasian.ch/"
+  },
+  "id": 11186563045
+}

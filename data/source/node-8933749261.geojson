@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1285313,
+      46.2143943
+    ]
+  },
+  "properties": {
+    "id": 8933749261,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Il Marinaio",
+    "opening_hours": "Tu-Sa 11:00-15:00, Tu-Fr 18:30-23:00, Su 11:00-23:00",
+    "phone": "+41762925284",
+    "takeaway": "yes",
+    "website": "https://www.ilmarinaio.ch/"
+  },
+  "id": 8933749261
+}

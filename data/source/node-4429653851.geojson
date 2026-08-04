@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5915587,
+      47.3045489
+    ]
+  },
+  "properties": {
+    "id": 4429653851,
+    "amenity": "restaurant",
+    "check_date": "2023-10-08",
+    "cuisine": "thai",
+    "email": "info@thaipan.ch",
+    "name": "Thai Pan",
+    "note": "Mittagsbuffet CHF20, mit Suppe CHF25.",
+    "opening_hours": "Mo-Fr 11:30-14:30,17:00-22:00; Sa off; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 991 10 35",
+    "takeaway": "yes",
+    "website": "http://thaipan.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4429653851
+}

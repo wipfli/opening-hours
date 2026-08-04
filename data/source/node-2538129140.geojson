@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5482253,
+      47.4067908
+    ]
+  },
+  "properties": {
+    "id": 2538129140,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "306",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-10-25",
+    "cuisine": "indian",
+    "name": "Tamarind Hill",
+    "opening_hours": "Tu-Fr 11:00-14:00, Tu-Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 535 25 95",
+    "website": "https://www.tamarindhill.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2538129140
+}

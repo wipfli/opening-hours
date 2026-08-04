@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4429,
+      46.9515469
+    ]
+  },
+  "properties": {
+    "id": 5481036023,
+    "alt_name": "Bay Modern Brasserie",
+    "amenity": "restaurant",
+    "capacity:bar": "20",
+    "capacity:seating": "60",
+    "contact:addr": "Hodlerstrasse 16b, 3011 Bern",
+    "contact:email": "mail@restaurantbay.ch",
+    "contact:facebook": "https://www.facebook.com/RestaurantBay",
+    "contact:instagram": "https://www.instagram.com/restaurantbaybern/",
+    "contact:phone": "+41 31 3111666",
+    "name": "Bay",
+    "opening_hours": "Mo-Th 11:30-14:00,17:00-23:00; Fr 11:30-14:00,17:00-00:00; Sa 17:00-00:00; PH off",
+    "operator": "Bayleaf AG",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "website": "https://www.restaurantbay.ch"
+  },
+  "id": 5481036023
+}

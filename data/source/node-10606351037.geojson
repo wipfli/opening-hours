@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6112794,
+      47.5738596
+    ]
+  },
+  "properties": {
+    "id": 10606351037,
+    "addr:city": "Basel",
+    "addr:housenumber": "119",
+    "addr:postcode": "4058",
+    "addr:street": "Schorenweg",
+    "amenity": "restaurant",
+    "check_date": "2023-02-04",
+    "name": "Schoren Clubh\u00fc\u00fcsli",
+    "opening_hours": "Tu,Th-Fr 17:00-23:00; Sa-Su 12:00-18:00",
+    "website": "https://vfrkleinhueningen.ch/clublokal/"
+  },
+  "id": 10606351037
+}

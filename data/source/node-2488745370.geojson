@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0044754,
+      46.2187068
+    ]
+  },
+  "properties": {
+    "id": 2488745370,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-07-15",
+    "contact:facebook": "https://www.facebook.com/people/LEcu-du-Valais/100063738063274/",
+    "name": "L'Ecu du Valais",
+    "opening_hours": "Tu-Th 09:00-15:00,17:00-23:00; Fr,Sa 09:00-15:00,17:00-24:00",
+    "phone": "+41 24 485 1473",
+    "website": "https://ecu-valais.ch/"
+  },
+  "id": 2488745370
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.454195,
+      46.9490126
+    ]
+  },
+  "properties": {
+    "id": 1187465093,
+    "alt_name": "Restaurant Caf\u00e9 Postgasse",
+    "amenity": "restaurant",
+    "contact:addr": "Postgasse 48, 3011 Bern",
+    "contact:email": "hofman@bluewin.ch",
+    "contact:phone": "+41 31 3116044",
+    "cuisine": "regional",
+    "name": "Postgasse",
+    "name:ja": "\u30dd\u30b9\u30c8\u30ac\u30c3\u30bb",
+    "old_name": "P\u00f6schtli",
+    "opening_hours": "Mo off; Tu 17:00-23:30; We-Fr 10:00-14:30, 17:30-23:30; Sa 10:00-23:30; Su off",
+    "operator": "Regula & Stephan Hofmann",
+    "source": "survey and website",
+    "website": "https://www.cafepostgasse.ch/"
+  },
+  "id": 1187465093
+}

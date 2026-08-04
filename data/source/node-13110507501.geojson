@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1490043,
+      46.212338
+    ]
+  },
+  "properties": {
+    "id": 13110507501,
+    "addr:housenumber": "5",
+    "addr:postcode": "1201",
+    "addr:street": "Rue du M\u00f4le",
+    "amenity": "restaurant",
+    "cuisine": "portuguese",
+    "email": "donduarte@bluewin.ch",
+    "name": "Don Duarte",
+    "opening_hours": "Mo-Th 07:00-01:00; Fr-Sa 07:00-02:00; Su 09:00-01:00",
+    "website": "https://donduarte.ch/"
+  },
+  "id": 13110507501
+}

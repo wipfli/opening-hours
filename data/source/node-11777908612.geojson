@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5440347,
+      47.3694364
+    ]
+  },
   "properties": {
-    "@id": "node/11777908612",
+    "id": 11777908612,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "3",
     "addr:postcode": "8001",
@@ -15,12 +22,5 @@
     "phone": "+41 766273313",
     "website": "https://reservalounge.ch"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5440347,
-      47.3694364
-    ]
-  },
-  "id": "node-11777908612"
+  "id": 11777908612
 }

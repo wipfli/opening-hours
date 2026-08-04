@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5391076,
+      47.3746638
+    ]
+  },
   "properties": {
-    "@id": "node/4833061570",
+    "id": 4833061570,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "74",
@@ -18,12 +25,5 @@
     "phone": "+41 44 400 05 55",
     "website": "https://www.ooo-zh.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5391076,
-      47.3746638
-    ]
-  },
-  "id": "node-4833061570"
+  "id": 4833061570
 }

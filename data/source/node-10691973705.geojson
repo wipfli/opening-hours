@@ -1,13 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/10691973705",
-    "amenity": "restaurant",
-    "cuisine": "spanish",
-    "name": "Iberia",
-    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-24:00; Sa 11:30-24:00; Su 11:30-22:30",
-    "website": "https://iberiatapas.com/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -15,5 +7,13 @@
       47.3781897
     ]
   },
-  "id": "node-10691973705"
+  "properties": {
+    "id": 10691973705,
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Iberia",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:30-24:00; Sa 11:30-24:00; Su 11:30-22:30",
+    "website": "https://iberiatapas.com/"
+  },
+  "id": 10691973705
 }

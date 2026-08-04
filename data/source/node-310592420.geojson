@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2079126,
+      46.1084386
+    ]
+  },
+  "properties": {
+    "id": 310592420,
+    "addr:city": "Verbier",
+    "addr:country": "CH",
+    "addr:housenumber": "150",
+    "addr:postcode": "1936",
+    "addr:street": "Route de la Marl\u00e8ne",
+    "amenity": "restaurant",
+    "name": "La Marlenaz",
+    "opening_hours": "Mo-Sa 10:30-22:00; Su 10:30-17:00",
+    "phone": "+41 27 771 54 41",
+    "website": "https://www.marlenaz.ch/"
+  },
+  "id": 310592420
+}

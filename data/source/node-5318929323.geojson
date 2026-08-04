@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7633795,
+      46.887167
+    ]
+  },
+  "properties": {
+    "id": 5318929323,
+    "addr:city": "St-Aubin-Sauges",
+    "addr:housenumber": "41",
+    "addr:postcode": "2024",
+    "addr:street": "Rue de la Fontanette",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Maison du Village",
+    "opening_hours": "We-Su 00:00-24:00",
+    "operator": "Chef Marc Strebel",
+    "phone": "+41328353272",
+    "website": "https://maisonduvillage.ch/",
+    "wikidata": "Q90151420"
+  },
+  "id": 5318929323
+}

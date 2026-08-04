@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4186122,
+      46.9782575
+    ]
+  },
+  "properties": {
+    "id": 1070822842,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-09-08",
+    "cuisine": "regional",
+    "email": "restaurant@traube-herrenschwanden.ch",
+    "name": "Traube",
+    "opening_hours": "Apr-Sep: We-Sa 09:30-23:30,Su 11:30-18:00; Oct-Mar: Tu-Sa 09:30-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 301 84 40",
+    "website": "https://www.traube-herrenschwanden.ch/"
+  },
+  "id": 1070822842
+}

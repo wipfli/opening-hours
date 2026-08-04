@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3966728,
+      47.4506574
+    ]
+  },
+  "properties": {
+    "id": 268321129,
+    "addr:city": "Wittenbach",
+    "addr:housenumber": "1",
+    "addr:place": "Abacus-Platz",
+    "addr:postcode": "9300",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "diet:pescetarian": "yes",
+    "diet:vegetarian": "yes",
+    "layer": "-2",
+    "name": "Al Covo",
+    "opening_hours": "Fr,Sa 18:00-22:00; Su 17:00-21:00",
+    "phone": "+41 71 290 20 20",
+    "website": "https://www.alcovo.ch",
+    "wheelchair": "limited"
+  },
+  "id": 268321129
+}

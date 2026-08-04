@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4951807,
+      46.5110727
+    ]
+  },
+  "properties": {
+    "id": 9129950663,
+    "addr:housenumber": "13",
+    "addr:street": "Promenade de Castellane",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "GreenGorilla",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 09:00-16:00",
+    "phone": "+41215259338",
+    "website": "https://www.greengorillacafe.com/",
+    "website:menu": "https://www.greengorillacafe.com/menu",
+    "wheelchair": "yes"
+  },
+  "id": 9129950663
+}

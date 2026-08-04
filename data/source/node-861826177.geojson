@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2045744,
+      47.2671419
+    ]
+  },
+  "properties": {
+    "id": 861826177,
+    "addr:city": "Beinwil am See",
+    "addr:housenumber": "4",
+    "addr:postcode": "5712",
+    "addr:street": "Plattenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "R\u00fctli",
+    "opening_hours": "Tu-Fr 11:30-14:00, 17:00-22:00; Sa 17:00-23:00",
+    "phone": "+41 62 772 07 77",
+    "website": "https://www.ruetlirestaurant.ch/"
+  },
+  "id": 861826177
+}

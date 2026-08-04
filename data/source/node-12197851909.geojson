@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1731249,
+      47.40514
+    ]
+  },
+  "properties": {
+    "id": 12197851909,
+    "addr:city": "Niederlenz",
+    "addr:housenumber": "5",
+    "addr:postcode": "5702",
+    "addr:street": "Wildeggerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "yes",
+    "name": "Kastanienbaum",
+    "opening_hours": "Tu-Su 08:45-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 62 897 23 20",
+    "takeaway": "yes",
+    "website": "https://gasthof-kastanienbaum.com/"
+  },
+  "id": 12197851909
+}

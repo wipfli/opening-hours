@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3701158,
+      47.4207954
+    ]
+  },
+  "properties": {
+    "id": 1236181033,
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "20",
+    "addr:postcode": "9000",
+    "addr:street": "Davidstrasse",
+    "amenity": "restaurant",
+    "name": "The Pinch",
+    "opening_hours": "Mo-We 11:00-22:00; Th,Fr 11:00-23:00; Sa 09:30-23:00; Su 09:30-21:00",
+    "website": "https://www.thepinch.ch/"
+  },
+  "id": 1236181033
+}

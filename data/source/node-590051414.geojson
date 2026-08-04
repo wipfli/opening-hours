@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.605048,
+      47.5653158
+    ]
+  },
+  "properties": {
+    "id": 590051414,
+    "addr:city": "Basel",
+    "addr:housenumber": "40",
+    "addr:postcode": "4058",
+    "addr:street": "Rosentalstrasse",
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Thai Family",
+    "opening_hours": "Mo-Fr 11:00-14:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "http://www.malaithai-restaurant.ch/"
+  },
+  "id": 590051414
+}

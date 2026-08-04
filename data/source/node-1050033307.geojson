@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3310346,
+      47.4503303
+    ]
+  },
+  "properties": {
+    "id": 1050033307,
+    "addr:city": "Neuenhof",
+    "addr:housenumber": "56",
+    "addr:postcode": "5432",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional",
+    "diet:vegetarian": "yes",
+    "name": "Bahnhof",
+    "name:de": "Bahnhof Neuenhof",
+    "opening_hours": "Mo-Th 07:00-18:00+; Sa,Su 09:00-18:00+; Fr 07:00-18:00+",
+    "phone": "+41 56 406 13 46",
+    "self_service": "no",
+    "website": "https://bahnhof-neuenhof.ch/"
+  },
+  "id": 1050033307
+}

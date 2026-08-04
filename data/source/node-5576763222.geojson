@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9584836,
+      46.0076258
+    ]
+  },
+  "properties": {
+    "id": 5576763222,
+    "addr:city": "Lugano",
+    "addr:housenumber": "20",
+    "addr:postcode": "6900",
+    "addr:street": "Via Serafino Balestra",
+    "amenity": "restaurant",
+    "check_date": "2025-06-21",
+    "check_date:currency:XBT": "2025-06-21",
+    "contact:facebook": "https://www.facebook.com/casaemilia.lugano",
+    "cuisine": "italian",
+    "currency:XBT": "yes",
+    "email": "beatricem2009@libero.it",
+    "name": "Casa Emilia",
+    "name:en": "Fingy\u2019s",
+    "opening_hours": "Mo-We 07:30-17:00; Th 07:30-21:00; PH off",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+41 91 922 26 26",
+    "website": "https://www.casaemilialugano.ch"
+  },
+  "id": 5576763222
+}

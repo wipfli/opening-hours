@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.586083,
+      47.1938424
+    ]
+  },
+  "properties": {
+    "id": 9596684970,
+    "amenity": "restaurant",
+    "name": "Tharad",
+    "opening_hours": "09:00-17:00",
+    "phone": "+41 32 681 61 99",
+    "website": "https://www.tharad.ch/restaurant.htm"
+  },
+  "id": 9596684970
+}

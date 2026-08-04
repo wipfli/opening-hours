@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1663674,
+      46.2004649
+    ]
+  },
+  "properties": {
+    "id": 8974578517,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "6",
+    "addr:postcode": "1207",
+    "addr:street": "Avenue de la Gare-des-Eaux-Vives",
+    "amenity": "restaurant",
+    "name": "Caf\u00e9 des Voyageurs",
+    "opening_hours": "Mo-Fr 08:30-23:00",
+    "phone": "+41 22 735 11 11",
+    "website": "https://www.cafe-des-voyageurs.ch/"
+  },
+  "id": 8974578517
+}

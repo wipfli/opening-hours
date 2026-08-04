@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4378288,
+      47.5268111
+    ]
+  },
+  "properties": {
+    "id": 11042925766,
+    "addr:housenumber": "10",
+    "addr:street": "Bachsertalstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-19",
+    "check_date:opening_hours": "2026-04-19",
+    "cuisine": "breakfast;regional",
+    "email": "laden@voda-bachs.ch",
+    "level": "0",
+    "name": "Bistro Bachs",
+    "opening_hours": "Mo, We-Fr 07:30-19:00; Tu 07:30-12:30; Sa 07:30-17:00",
+    "website": "https://www.voda-bachs.ch/bistro-2/"
+  },
+  "id": 11042925766
+}

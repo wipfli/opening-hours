@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5123238,
+      47.3631314
+    ]
+  },
   "properties": {
-    "@id": "node/4313510389",
+    "id": 4313510389,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "28",
@@ -27,12 +34,5 @@
     "website": "https://daizy.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5123238,
-      47.3631314
-    ]
-  },
-  "id": "node-4313510389"
+  "id": 4313510389
 }

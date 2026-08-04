@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1107446,
+      47.5678523
+    ]
+  },
+  "properties": {
+    "id": 302263454,
+    "addr:city": "Weinfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "8570",
+    "addr:street": "Amriswilerstrasse",
+    "alt_name": "Migros Restaurant Weinfelden",
+    "amenity": "restaurant",
+    "branch": "Weinfelden R\u00f6sslifelsen",
+    "check_date": "2025-02-15",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "toilets:wheelchair": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-weinfelden-roesslifelsen",
+    "wheelchair": "yes"
+  },
+  "id": 302263454
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8417215,
+      46.1973134
+    ]
+  },
+  "properties": {
+    "id": 1307046038,
+    "addr:city": "Gr\u00e4chen",
+    "addr:housenumber": "499",
+    "addr:street": "Spieliweida",
+    "amenity": "restaurant",
+    "check_date": "2022-12-27",
+    "cuisine": "pizza;regional",
+    "diet:vegetarian": "yes",
+    "email": "info@weisshorn-graechen.ch",
+    "name": "Weisshorn",
+    "opening_hours": "09:00-24:00",
+    "opening_hours:kitchen": "12:00-14:00,17:30-22:00",
+    "payment:mastercard": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 27 956 23 14",
+    "website": "https://www.weisshorn-graechen.ch"
+  },
+  "id": 1307046038
+}

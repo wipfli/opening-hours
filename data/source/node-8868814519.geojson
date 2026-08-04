@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4937103,
+      46.9579253
+    ]
+  },
+  "properties": {
+    "id": 8868814519,
+    "addr:housenumber": "95",
+    "addr:postcode": "3072",
+    "addr:street": "Bernstrasse",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "email": "hello@swaadbern.ch",
+    "name": "Swaad",
+    "opening_hours": "Mo-Fr 11:30-14:00, 17:00-22:00; Sa 17:00-22:00",
+    "phone": "+41 31 558 33 88",
+    "website": "https://swaadbern.ch/"
+  },
+  "id": 8868814519
+}

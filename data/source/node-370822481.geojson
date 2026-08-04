@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441261,
+      47.3764199
+    ]
+  },
   "properties": {
-    "@id": "node/370822481",
+    "id": 370822481,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "142",
@@ -17,12 +24,5 @@
     "website": "https://weinstube1923.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5441261,
-      47.3764199
-    ]
-  },
-  "id": "node-370822481"
+  "id": 370822481
 }

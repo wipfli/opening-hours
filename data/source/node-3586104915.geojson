@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.86096,
+      46.3896641
+    ]
+  },
+  "properties": {
+    "id": 3586104915,
+    "amenity": "restaurant",
+    "name": "Chez Paul",
+    "opening_hours": "We-Sa 10:00-23:00; Su 10:00-17:00",
+    "website": "https://chezpaul.ch"
+  },
+  "id": 3586104915
+}

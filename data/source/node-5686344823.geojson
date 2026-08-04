@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2161106,
+      46.0632323
+    ]
+  },
+  "properties": {
+    "id": 5686344823,
+    "amenity": "restaurant",
+    "name": "Raclett'House Chez Eddy",
+    "opening_hours": "08:00-23:00",
+    "phone": "+41 27 776 14 70",
+    "website": "https://www.racletthouse.ch/"
+  },
+  "id": 5686344823
+}

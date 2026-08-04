@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8816083,
+      46.4008109
+    ]
+  },
+  "properties": {
+    "id": 4872454821,
+    "addr:city": "Giornico",
+    "addr:housenumber": "25",
+    "addr:postcode": "6745",
+    "addr:street": "Via ai Grotti",
+    "amenity": "restaurant",
+    "cave": "grotto",
+    "check_date": "2023-03-18",
+    "email": "grotto@grottorodai.ch",
+    "image": "https://commons.wikimedia.org/wiki/File:Giornico_Ticino_Switzerland_20230318_110533.jpg",
+    "name": "Grotto Rodai",
+    "name:it": "Grotto Rodai",
+    "opening_hours": "Mo-Tu,Th-Su 09:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 864 10 19",
+    "website": "https://www.grottorodai.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4872454821
+}

@@ -1,11 +1,22 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5441334,
+      47.3781881
+    ]
+  },
   "properties": {
-    "@id": "node/9499319817",
+    "id": 9499319817,
     "addr:housenumber": "15",
     "addr:street": "Weinbergstrasse",
     "amenity": "restaurant",
-    "check_date": "2025-10-30",
+    "check_date": "2026-06-19",
+    "check_date:diet:vegan": "2026-06-19",
+    "check_date:diet:vegetarian": "2026-06-19",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
     "email": "info@mohini.ch",
     "indoor_seating": "yes",
     "name": "Mohini",
@@ -16,12 +27,5 @@
     "website": "https://mohini.ch",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5441334,
-      47.3781881
-    ]
-  },
-  "id": "node-9499319817"
+  "id": 9499319817
 }

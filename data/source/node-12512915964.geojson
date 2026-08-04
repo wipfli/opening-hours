@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5532338,
+      47.0514715
+    ]
+  },
+  "properties": {
+    "id": 12512915964,
+    "addr:city": "Goldau",
+    "addr:postcode": "6410",
+    "addr:street": "Parkstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-09-07",
+    "cuisine": "italian;italian_pizza",
+    "name": "Bubo",
+    "opening_hours": "Mo-Su 08:30-18:00",
+    "website": "https://www.tierpark.ch/gastronomie/tagesbesucher/",
+    "wheelchair": "yes"
+  },
+  "id": 12512915964
+}

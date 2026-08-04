@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.416063,
+      46.923979
+    ]
+  },
+  "properties": {
+    "id": 2339306349,
+    "addr:city": "K\u00f6niz",
+    "addr:housenumber": "257",
+    "addr:street": "Schwarzenburgstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-03-30",
+    "cuisine": "italian;pizza",
+    "delivery": "yes",
+    "drive_in": "no",
+    "drive_through": "no",
+    "name": "Pizzeria Babylon",
+    "opening_hours": "Mo-Th 10:00-14:00,17:00-23:00; Fr 10:00-14:00,17:00-23:30; Sa 11:00-14:00,17:00-23:30; Su 15:00-22:30",
+    "operator": "Ali Moussa",
+    "phone": "+41319720880",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://pizzeria-babylon.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 2339306349
+}

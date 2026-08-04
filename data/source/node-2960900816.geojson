@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6535575,
+      47.0207061
+    ]
+  },
+  "properties": {
+    "id": 2960900816,
+    "addr:city": "Schwyz",
+    "addr:housenumber": "3",
+    "addr:postcode": "6430",
+    "addr:street": "Hauptplatz",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Wysses R\u00f6ssli",
+    "opening_hours": "Mo-Sa 07:00-22:30",
+    "phone": "+41 41 811 19 22",
+    "website": "https://www.wysses-roessli-schwyz.ch/"
+  },
+  "id": 2960900816
+}

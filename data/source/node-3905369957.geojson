@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6167524,
+      47.3925814
+    ]
+  },
+  "properties": {
+    "id": 3905369957,
+    "addr:city": "D\u00fcbendorf",
+    "addr:housenumber": "68",
+    "addr:postcode": "8600",
+    "addr:street": "Wilstrasse",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "level": "0",
+    "name": "Pinocchio",
+    "opening_hours": "Mo-Fr 11:00-14:00, Tu-Sa 17:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 43 819 15 19",
+    "smoking": "no",
+    "website": "https://www.pinocchio-duebendorf.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3905369957
+}

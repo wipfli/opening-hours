@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4870226,
+      47.3887608
+    ]
+  },
+  "properties": {
+    "id": 3803343518,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "145",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterstrasse",
+    "alt_name": "Molino Altstetten",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten Neumarkt",
+    "brand": "Molino",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Molino",
+    "old_name": "Santa Lucia Altstetten",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "Bindella",
+    "outdoor_seating": "terrace",
+    "phone": "+41 44 521 23 44",
+    "takeaway": "yes",
+    "website": "https://molino.ch/de/restaurant/altstetten/",
+    "wheelchair": "yes"
+  },
+  "id": 3803343518
+}

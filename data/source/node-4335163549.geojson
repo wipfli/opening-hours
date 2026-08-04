@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.305903,
+      47.0417709
+    ]
+  },
+  "properties": {
+    "id": 4335163549,
+    "addr:city": "Luzern",
+    "addr:housenumber": "24",
+    "addr:postcode": "6003",
+    "addr:street": "Bireggstrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "only",
+    "indoor_seating": "yes",
+    "name": "BAYTS",
+    "opening_hours": "We 11:00-23:00; Th 16:00-23:00; Fr,Sa 11:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 41 5449527",
+    "reservation": "yes",
+    "website": "https://www.bayts.ch"
+  },
+  "id": 4335163549
+}

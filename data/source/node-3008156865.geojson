@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6629077,
+      46.7863364
+    ]
+  },
+  "properties": {
+    "id": 3008156865,
+    "amenity": "restaurant",
+    "cuisine": "swiss",
+    "female": "yes",
+    "male": "yes",
+    "name": "Br\u00fcggerstuba",
+    "opening_hours": "Mo-Su 09:00-17:30",
+    "phone": "+41 81 378 84 25",
+    "website": "https://arosaberggastro.ch/brueggerstuba/"
+  },
+  "id": 3008156865
+}

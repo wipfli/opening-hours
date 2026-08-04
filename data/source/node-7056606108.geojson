@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2474112,
+      47.1362879
+    ]
+  },
+  "properties": {
+    "id": 7056606108,
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "55",
+    "addr:postcode": "2502",
+    "addr:street": "Zentralstrasse",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/PizzeriaVeronaBiel/",
+    "cuisine": "italian",
+    "email": "info@pizzeria-verona.ch",
+    "indoor_seating": "yes",
+    "name": "Verona",
+    "opening_hours": "Mo-Th 08:00-23:30, Fr,Sa 08:00-00:30, Su 08:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 322 34 13",
+    "smoking": "outside",
+    "website": "https://www.pizzeria-verona.ch",
+    "wheelchair": "yes"
+  },
+  "id": 7056606108
+}

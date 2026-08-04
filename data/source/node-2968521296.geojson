@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4413629,
+      46.9485045
+    ]
+  },
+  "properties": {
+    "id": 2968521296,
+    "alt_name": "Restaurant Mille Sense",
+    "amenity": "restaurant",
+    "contact:addr": "Schweizerhof-Passage, Spitalgasse 38, 3011 Bern",
+    "contact:email": "info@millesens.ch",
+    "contact:fax": "+41 31 3292922",
+    "contact:phone": "+41 31 3292929",
+    "name": "mille sens",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-23:00; Sa 17:00-23:00",
+    "operator": "mille sens gmbh",
+    "source": "survey and website",
+    "website": "https://www.millesens.ch/"
+  },
+  "id": 2968521296
+}

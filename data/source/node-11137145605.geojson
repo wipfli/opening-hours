@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6444685,
+      46.5177546
+    ]
+  },
+  "properties": {
+    "id": 11137145605,
+    "addr:postcode": "1005",
+    "amenity": "restaurant",
+    "contact:instagram": "laesquina_lausanne",
+    "cuisine": "mexican",
+    "email": "123latinosbar@gmail.com",
+    "name": "La Esquina",
+    "opening_hours": "Mo 18:00-23:00; Tu-We 11:30-14:00, 18:00-23:00; Th 11:30-14:00, 18:00-23:30; Fr 11:30-14:00, 18:00-00:00; Sa 18:00-00:00",
+    "phone": "+41 21 211 74 88",
+    "website": "https://la-esquina.ch/"
+  },
+  "id": 11137145605
+}

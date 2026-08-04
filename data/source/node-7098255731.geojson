@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0355726,
+      46.3806287
+    ]
+  },
+  "properties": {
+    "id": 7098255731,
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Edelweiss",
+    "opening_hours": "Mo-Su 09:00-22:30",
+    "operator": "Berghaus Toni",
+    "outdoor_seating": "yes",
+    "phone": "+41 27 927 3737",
+    "website": "https://www.edelweiss-riederalp.ch/"
+  },
+  "id": 7098255731
+}

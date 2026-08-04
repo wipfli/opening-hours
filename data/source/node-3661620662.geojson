@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.239069,
+      46.382445
+    ]
+  },
+  "properties": {
+    "id": 3661620662,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "capacity": "50",
+    "cuisine": "italian",
+    "delivery": "no",
+    "highchair": "yes",
+    "level": "0",
+    "microbrewery": "no",
+    "name": "La Puccia",
+    "opening_hours": "Mo-Sa 10:00-15:00,17:30-00:00; Su 11:00-15:00,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 22 361 20 20",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "public",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lapuccia.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3661620662
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3095865,
+      47.0588211
+    ]
+  },
+  "properties": {
+    "id": 1504787044,
+    "addr:city": "Luzern",
+    "addr:housenumber": "34",
+    "addr:postcode": "6004",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "email": "info@stiefels.ch",
+    "indoor_seating": "yes",
+    "name": "Hopfenkranz",
+    "opening_hours": "Tu-Fr 11:00-14:30,18:00-24:00; Sa 18:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+41 41 410 78 88",
+    "website": "https://www.hopfenkranz.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1504787044
+}

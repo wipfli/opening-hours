@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3057402,
+      47.4079065
+    ]
+  },
+  "properties": {
+    "id": 10091956259,
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "check_date": "2026-08-02",
+    "cuisine": "german",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-19:00; Sa 08:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 314 21 04",
+    "smoking": "outside",
+    "website": "https://www.coop-restaurant.ch/de/restaurantfinder/finderdetailpage.5693.html",
+    "wheelchair": "yes"
+  },
+  "id": 10091956259
+}

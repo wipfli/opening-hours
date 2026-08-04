@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5649451,
+      47.4503387
+    ]
+  },
+  "properties": {
+    "id": 8296830778,
+    "amenity": "restaurant",
+    "bar": "yes",
+    "check_date": "2025-01-05",
+    "cuisine": "french",
+    "email": "welcome@sablier.ch",
+    "level": "9",
+    "name": "Sablier Rooftop Restaurant & Bar",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa 14:00-24:00; Su 10:00-19:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 44 521 99 99",
+    "website": "https://www.sablier.ch",
+    "wheelchair": "yes"
+  },
+  "id": 8296830778
+}

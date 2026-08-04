@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5375254,
+      47.3771315
+    ]
+  },
   "properties": {
-    "@id": "node/283458339",
+    "id": 283458339,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "32",
     "addr:postcode": "8001",
@@ -17,12 +24,5 @@
     "website": "https://www.schuetzengasse.com/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5375254,
-      47.3771315
-    ]
-  },
-  "id": "node-283458339"
+  "id": 283458339
 }

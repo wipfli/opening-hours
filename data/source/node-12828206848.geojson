@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7313696,
+      47.4990681
+    ]
+  },
+  "properties": {
+    "id": 12828206848,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "22",
+    "addr:postcode": "8400",
+    "addr:street": "Oberer Graben",
+    "amenity": "restaurant",
+    "check_date": "2026-06-13",
+    "cuisine": "bangladeshi",
+    "name": "El Volcancito",
+    "opening_hours": "Mo 11:00-14:30, 17:30-21:00; Tu, We 09:00-21:00; Th-Sa 09:00-22:00; Su 09:00-18:00",
+    "outdoor_seating": "pedestrian_zone",
+    "website": "https://www.volcancito.ch/"
+  },
+  "id": 12828206848
+}

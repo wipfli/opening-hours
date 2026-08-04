@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1400691,
+      46.1808925
+    ]
+  },
+  "properties": {
+    "id": 9056608308,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "1227",
+    "addr:street": "Rue Jacques-Dalphin",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Indian Rasoi",
+    "opening_hours": "Tu-Sa 11:45-13:45, 18:30-22:00",
+    "opening_hours:url": "https://indianrasoi.ch/",
+    "operator": "Indian Rasoi S\u00e0rl",
+    "operator:ref:CH:UID": "CHE-497.211.353",
+    "phone": "+41 22 300 06 09",
+    "ref:CH-GE:REG": "1-4XH-52022",
+    "website": "https://indianrasoi.ch"
+  },
+  "id": 9056608308
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1352847,
+      47.6644365
+    ]
+  },
+  "properties": {
+    "id": 89137671,
+    "amenity": "restaurant",
+    "name": "Waaghaus",
+    "opening_hours": "closed",
+    "outdoor_seating": "yes",
+    "website": "http://www.drachenburg.ch",
+    "wheelchair": "no"
+  },
+  "id": 89137671
+}

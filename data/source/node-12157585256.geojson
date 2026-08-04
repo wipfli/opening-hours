@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0414345,
+      47.3973005
+    ]
+  },
+  "properties": {
+    "id": 12157585256,
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "5000",
+    "addr:street": "Gysulastrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;burger",
+    "name": "Aarepizza",
+    "opening_hours": "Mo-Sa 11:00-13:30,17:00-22:30; Su 16:00-22:00",
+    "phone": "+41 62 823 10 70",
+    "website": "https://www.aareburger.ch/"
+  },
+  "id": 12157585256
+}

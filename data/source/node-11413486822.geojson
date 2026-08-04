@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5875977,
+      47.5605777
+    ]
+  },
+  "properties": {
+    "id": 11413486822,
+    "amenity": "restaurant",
+    "check_date": "2026-07-29",
+    "cuisine": "french",
+    "indoor_seating": "yes",
+    "name": "Le Cheval Blanc",
+    "opening_hours": "We-Sa 12:00-14:00,19:00-22:00; Tu 19:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "stars": "3",
+    "website": "https://www.chevalblancbasel.com/"
+  },
+  "id": 11413486822
+}

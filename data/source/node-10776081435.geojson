@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4645875,
+      47.1648608
+    ]
+  },
+  "properties": {
+    "id": 10776081435,
+    "addr:city": "Buchs SG",
+    "addr:housenumber": "18",
+    "addr:postcode": "9470",
+    "addr:street": "Moosweg",
+    "amenity": "restaurant",
+    "cuisine": "pizza;italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Pizzeria da Giovanni",
+    "opening_hours": "We-Su 10:00-13:30,17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41817400722",
+    "website": "https://www.pizzeriadagiovanni.ch/"
+  },
+  "id": 10776081435
+}

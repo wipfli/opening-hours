@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8030177,
+      47.3165832
+    ]
+  },
+  "properties": {
+    "id": 7483327245,
+    "addr:city": "Egerkingen",
+    "addr:housenumber": "14",
+    "addr:postcode": "4622",
+    "addr:street": "Hausimollstrasse",
+    "alt_name": "Migros Restaurant G\u00e4upark",
+    "amenity": "restaurant",
+    "branch": "Egerkingen G\u00e4upark",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q680727",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 09:00-18:30; Th 09:00-21:00; Sa 08:00-18:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-egerkingen-gaeupark"
+  },
+  "id": 7483327245
+}

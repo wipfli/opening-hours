@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6296507,
+      46.7587012
+    ]
+  },
+  "properties": {
+    "id": 5120680621,
+    "amenity": "restaurant",
+    "contact:addr": "Obere Hauptgasse 32 / M\u00fchleplatz 32, 3600 Thun",
+    "contact:email": "hallo@elcamino.ch",
+    "contact:phone": "+41 33 5341524",
+    "cuisine": "breakfast;burger;coffee_shop;regional;sandwich;tea",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "El Camino Cafe/Bar",
+    "opening_hours": "24/7",
+    "operator": "El Camino GmbH",
+    "website": "https://www.elcamino.ch/"
+  },
+  "id": 5120680621
+}

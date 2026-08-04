@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5900301,
+      47.5552409
+    ]
+  },
+  "properties": {
+    "id": 2578294254,
+    "amenity": "restaurant",
+    "check_date": "2026-07-29",
+    "cuisine": "italian;pizza;pasta",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Centro am Barfi",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-24:00; Sa 00:00-01:00,11:30-14:30,18:00-24:00; Su 00:00-01:00,12:00-15:00,18:00-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.centroambarfi.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 2578294254
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1952966,
+      46.1940507
+    ]
+  },
+  "properties": {
+    "id": 9536477862,
+    "addr:city": "Ch\u00eane-Bourg",
+    "addr:housenumber": "40",
+    "addr:postcode": "1225",
+    "addr:street": "Rue de Gen\u00e8ve",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "diet:seasonal": "yes",
+    "name": "MAPO",
+    "opening_hours": "Tu-Fr 12:00-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 22 349 05 60",
+    "website": "https://www.maporestaurant.ch/"
+  },
+  "id": 9536477862
+}

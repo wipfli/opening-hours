@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4322247,
+      46.9526763
+    ]
+  },
+  "properties": {
+    "id": 438280382,
+    "alt_name": "LugBE monthly meeting place",
+    "amenity": "restaurant",
+    "check_date": "2022-06-16",
+    "contact:addr": "B\u00fchlstrasse 57, 3012 Bern",
+    "contact:email": "info@casaitalia.ch",
+    "contact:fax": "+41 31 3029866",
+    "contact:phone": "+41 31 3019074",
+    "cuisine": "italian",
+    "internet_access": "wlan",
+    "name": "Casa d'Italia",
+    "note": "Linuxtreff Bern - LugBE https://lugbe.ch : Monatstreff jeweils erster Donnerstag im Monat, beginnt ab 19 Uhr Monthly meeting 1st Thursday starting 7:00 p.m.",
+    "opening_hours": "Mo-Th 08:30-23:30; Fr-Sa 08:30-00:30; Su 08:30-23:30",
+    "operator": "Donato Liberti",
+    "outdoor_seating": "yes",
+    "website": "https://www.casaitalia.ch",
+    "wheelchair": "no"
+  },
+  "id": 438280382
+}

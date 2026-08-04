@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.634302,
+      46.5223736
+    ]
+  },
+  "properties": {
+    "id": 2669865508,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "6",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Pierre-Viret",
+    "amenity": "restaurant",
+    "check_date": "2025-09-20",
+    "check_date:diet:vegetarian": "2025-09-20",
+    "cuisine": "regional;french",
+    "diet:vegetarian": "yes",
+    "email": "vieuxlo@vtxnet.ch",
+    "fax": "+41 21 323 53 88",
+    "indoor_seating": "yes",
+    "name": "Restaurant Vieux-Lausanne",
+    "opening_hours": "Tu-Th 12:00-14:30, 19:00-23:00; Fr 12:00-14:30, 19:00-24:00; Sa 19:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 323 53 90",
+    "start_date": "1987",
+    "website": "https://www.vieux-lausanne.ch/le-restaurant-du-vieux-lausanne"
+  },
+  "id": 2669865508
+}

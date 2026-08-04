@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0473729,
+      47.4003258
+    ]
+  },
+  "properties": {
+    "id": 5604770962,
+    "addr:housenumber": "1",
+    "addr:street": "Aarenaustrasse",
+    "amenity": "restaurant",
+    "construction": "yes",
+    "name": "Sch\u00fctzenhaus",
+    "opening_hours": "Mo closed; Tu-Th 11:30-23:00; Fr 11:30-23:30; Sa 17:00-23:30; Su 11:30-22:00",
+    "phone": "+41 62 535 99 77",
+    "website": "https://www.schuetzenhaus-aarau.ch"
+  },
+  "id": 5604770962
+}

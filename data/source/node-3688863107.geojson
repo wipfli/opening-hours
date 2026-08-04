@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6285063,
+      46.7606896
+    ]
+  },
+  "properties": {
+    "id": 3688863107,
+    "addr:city": "Thun",
+    "addr:housenumber": "2",
+    "addr:postcode": "3600",
+    "addr:street": "Marktgasse",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "delivery": "yes",
+    "email": "info@tranasianrestaurant.ch",
+    "name": "Tran",
+    "opening_hours": "We-Sa 11:30-14:00, 18:30-22:00; Su 17:30-22:00",
+    "phone": "+41 33 2222442",
+    "takeaway": "yes",
+    "website": "https://www.tranasianrestaurant.ch/"
+  },
+  "id": 3688863107
+}

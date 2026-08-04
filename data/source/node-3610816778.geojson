@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4835281,
+      47.3948562
+    ]
+  },
+  "properties": {
+    "id": 3610816778,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "20",
+    "addr:postcode": "8048",
+    "addr:street": "B\u00e4ndliweg",
+    "amenity": "restaurant",
+    "check_date": "2024-08-21",
+    "cuisine": "international",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Restaurant A1 M.O.V.E.",
+    "opening_hours": "Mo-Fr 11:30-14:00",
+    "opening_hours:url": "http://eldora-a1move.ch/oeffnungszeiten/",
+    "operator": "eldora",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://eldora-a1move.ch/"
+  },
+  "id": 3610816778
+}

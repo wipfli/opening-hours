@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2734972,
+      46.4142798
+    ]
+  },
+  "properties": {
+    "id": 12783088062,
+    "addr:city": "Gland",
+    "addr:housenumber": "38",
+    "addr:postcode": "1196",
+    "addr:street": "Avenue du Mont-Blanc",
+    "amenity": "restaurant",
+    "cuisine": "mexican;tacos",
+    "email": "info@bowlingland.ch",
+    "name": "BowlinGland Mamacita Resto",
+    "opening_hours": "We-Sa 18:00-23:00; Su 12:00-22:00",
+    "phone": "+41 22 999 60 20",
+    "website": "https://bowlingland.ch/",
+    "website:1": "https://bowlingland.ch/mamacita-resto"
+  },
+  "id": 12783088062
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5078367,
+      47.0502321
+    ]
+  },
+  "properties": {
+    "id": 9356549832,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2021-12-16",
+    "cuisine": "regional",
+    "email": "info@restkreuz.ch",
+    "name": "Kreuz",
+    "opening_hours": "Mo-Fr 08:30-14:00,17:00-23:30; Sa,Su,PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 911 02 23",
+    "website": "https://www.restkreuz.ch/"
+  },
+  "id": 9356549832
+}

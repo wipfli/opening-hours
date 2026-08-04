@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5274193,
+      47.3124603
+    ]
+  },
+  "properties": {
+    "id": 428904037,
+    "addr:city": "Adliswil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8134",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-01-14",
+    "cuisine": "sushi",
+    "diet:vegan": "yes",
+    "name": "barf\u00fcsser",
+    "opening_hours": "Tu-Fr 11:30-14:00,17:00-23:00; Sa 17:00-23:00",
+    "opening_hours:signed": "no",
+    "phone": "+41 44 521 44 00",
+    "website": "https://www.barfuesser.ch/de/restaurant-adliswil"
+  },
+  "id": 428904037
+}

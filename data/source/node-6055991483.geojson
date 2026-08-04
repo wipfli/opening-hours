@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2572251,
+      47.1444054
+    ]
+  },
+  "properties": {
+    "id": 6055991483,
+    "addr:housenumber": "143",
+    "addr:street": "Rue du G\u00e9n\u00e9ral-Dufour / General-Dufour-Strasse",
+    "addr:street:de": "General-Dufour-Strasse",
+    "addr:street:fr": "Rue du G\u00e9n\u00e9ral-Dufour",
+    "amenity": "restaurant",
+    "check_date": "2026-06-06",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "name": "Pizzeria Merkur",
+    "opening_hours": "Mo-Sa 10:00-14:30,17:30-24:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 342 15 91",
+    "website": "https://restaurantpizzeriamerkur.ch/"
+  },
+  "id": 6055991483
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5058317,
+      46.9335678
+    ]
+  },
+  "properties": {
+    "id": 2634533920,
+    "addr:city": "G\u00fcmligen",
+    "addr:country": "CH",
+    "addr:housenumber": "221",
+    "addr:postcode": "3073",
+    "addr:street": "Worbstrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@thai-shokdee.ch",
+    "contact:phone": "+41 31 9513040",
+    "cuisine": "thai",
+    "name": "Thai Shokdee",
+    "opening_hours": "Mo 11:00-14:00; Tu-Fr 11:00-14:00,18:00-22:00; Sa 18:00-22:00; Su off",
+    "operator": "Thai Shokdee GmbH",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "http://www.thai-shokdee.ch",
+    "wheelchair": "yes"
+  },
+  "id": 2634533920
+}

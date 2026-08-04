@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3127816,
+      47.0435442
+    ]
+  },
+  "properties": {
+    "id": 506878641,
+    "amenity": "restaurant",
+    "name": "Unterlachenhof",
+    "opening_hours": "Tu-Su 11:00-23:00",
+    "phone": "+41 41 360 13 58",
+    "website": "https://unterlachenhof.ch/"
+  },
+  "id": 506878641
+}

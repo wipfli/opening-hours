@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5889861,
+      47.5553306
+    ]
+  },
+  "properties": {
+    "id": 7540821543,
+    "addr:city": "Basel",
+    "addr:housenumber": "73",
+    "addr:postcode": "4001",
+    "addr:street": "Gerbergasse",
+    "amenity": "restaurant",
+    "branch": "Basel Barfi",
+    "contact:email": "barfi@nooch.ch",
+    "contact:phone": "+41 61 261 67 80",
+    "cuisine": "asian",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Nooch",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://nooch.ch/basel-barfi"
+  },
+  "id": 7540821543
+}

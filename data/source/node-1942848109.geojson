@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5347185,
+      46.6104857
+    ]
+  },
+  "properties": {
+    "id": 1942848109,
+    "addr:city": "Diemtigen",
+    "addr:country": "CH",
+    "addr:hamlet": "Horboden",
+    "addr:housenumber": "48",
+    "addr:postcode": "3755",
+    "addr:street": "Allmiried",
+    "alt_name": "Restaurant Wirieblick",
+    "amenity": "restaurant",
+    "contact:email": "rest.wirieblick@bluewin.ch",
+    "contact:facebook": "https://de-de.facebook.com/people/Wirieblick-Horboden/100011588140065",
+    "contact:mobile": "+41 76 4909391",
+    "contact:phone": "+41 33 6840100",
+    "name": "Wirieblick",
+    "opening_hours": "Mo-Tu off; We-Sa 11:00-22:00; Su 11:00-21:00",
+    "operator": "ReWi Gastro GmbH",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "source": "survey and website",
+    "website": "https://www.wirieblick.ch/"
+  },
+  "id": 1942848109
+}

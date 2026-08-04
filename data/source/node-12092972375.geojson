@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1874003,
+      47.2435133
+    ]
+  },
+  "properties": {
+    "id": 12092972375,
+    "addr:city": "Menziken",
+    "addr:housenumber": "27",
+    "addr:postcode": "5737",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Ristorante Castello 2",
+    "opening_hours": "Tu-Su 10:30-14:00, 17:00-23:00",
+    "phone": "+41 62 530 38 03",
+    "website": "https://ristorante-castello2.ch/"
+  },
+  "id": 12092972375
+}

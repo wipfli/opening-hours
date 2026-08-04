@@ -1,0 +1,48 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4780344,
+      46.9546768
+    ]
+  },
+  "properties": {
+    "id": 677019401,
+    "addr:city": "Ostermundigen",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "3072",
+    "addr:street": "Bernstrasse",
+    "air_conditioning": "yes",
+    "alt_name": "Waldeck",
+    "amenity": "restaurant",
+    "capacity": "160",
+    "check_date:opening_hours": "2025-12-21",
+    "contact:email": "info@restaurant-waldeck.ch",
+    "contact:fax": "+41 31 9316850",
+    "contact:phone": "+41 31 931 67 76",
+    "cuisine": "regional;pizza;swiss;italian;barbecue",
+    "diet:chicken": "yes",
+    "diet:fish": "yes",
+    "diet:healthy": "yes",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:non-vegetarian": "yes",
+    "diet:pescetarian": "yes",
+    "diet:vegetarian": "yes",
+    "dog": "yes",
+    "lunch": "yes",
+    "name": "Restaurant Waldeck",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-21:30",
+    "operator": "Patrik Dolder",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "start_date": "1977",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-waldeck.ch",
+    "wheelchair": "limited"
+  },
+  "id": 677019401
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6370427,
+      46.7764654
+    ]
+  },
+  "properties": {
+    "id": 7136801684,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:housenumber": "29",
+    "addr:postcode": "1400",
+    "addr:street": "Rue Roger-de-Guimps",
+    "amenity": "restaurant",
+    "cuisine": "sandwich",
+    "name": "West food & coffee",
+    "opening_hours": "Tu-Sa 09:00-22:00; Su 11:00-22:00",
+    "phone": "+41 24 426 09 53",
+    "takeaway": "yes",
+    "website": "https://westfood.ch/"
+  },
+  "id": 7136801684
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8630238,
+      47.1541575
+    ]
+  },
+  "properties": {
+    "id": 707965228,
+    "amenity": "restaurant",
+    "name": "Skihaus Ruchweid",
+    "opening_hours": "Fr 17:00-21:00; Sa,Su 10:00-21:00",
+    "website": "https://www.skiklubgalgenen.ch/web/index.php?page=235",
+    "wheelchair": "no"
+  },
+  "id": 707965228
+}

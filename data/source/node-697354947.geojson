@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6043207,
+      47.3958792
+    ]
+  },
+  "properties": {
+    "id": 697354947,
+    "access": "yes",
+    "addr:city": "D\u00fcbendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "96",
+    "addr:postcode": "8600",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;steak_house",
+    "name": "Sonnental",
+    "opening_hours": "Mo-Sa 07:00-22:30; Su 07:00-22:00",
+    "opening_hours:kitchen": "11:30-21:00",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 802 12 82",
+    "website": "https://sorellhotels.com/de/sonnental/speis-trank",
+    "wheelchair": "yes"
+  },
+  "id": 697354947
+}

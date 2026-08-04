@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8948957,
+      46.350095
+    ]
+  },
+  "properties": {
+    "id": 10063916052,
+    "amenity": "restaurant",
+    "check_date": "2022-09-30",
+    "cuisine": "thai",
+    "name": "Joey Bangkok",
+    "opening_hours": "Tu-Sa 12:00-14:00,18:00-23:00",
+    "phone": "+41 24 481 42 42",
+    "website": "https://joeybangkok.ch/"
+  },
+  "id": 10063916052
+}

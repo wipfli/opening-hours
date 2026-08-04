@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7266443,
+      47.5002649
+    ]
+  },
+  "properties": {
+    "id": 4434577593,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "12",
+    "addr:postcode": "8400",
+    "addr:street": "Stadthausstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "level": "0",
+    "name": "Villa Duchessa",
+    "opening_hours": "Mo-Sa 10:00-23:30; Su 10:30-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://villa-duchessa-winterthur.ch/"
+  },
+  "id": 4434577593
+}

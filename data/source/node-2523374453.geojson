@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3581555,
+      46.2281803
+    ]
+  },
+  "properties": {
+    "id": 2523374453,
+    "addr:city": "Sion",
+    "addr:housenumber": "8",
+    "addr:postcode": "1950",
+    "addr:street": "Avenue de France",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizzeria de la Poste",
+    "opening_hours": "Mo-We, Fr-Su 06:00-00:00; Th 06:30-00:00",
+    "phone": "+4127 322 20 42",
+    "website": "https://pizzeria-de-la-poste.negocio.site/"
+  },
+  "id": 2523374453
+}

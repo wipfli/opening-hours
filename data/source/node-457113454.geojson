@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4739526,
+      46.9500279
+    ]
+  },
+  "properties": {
+    "id": 457113454,
+    "alt_name": "Restaurants Sch\u00f6ngr\u00fcn Zentrum Paul Klee",
+    "amenity": "restaurant",
+    "contact:addr": "Monument im Fruchtland 1, 3006 Bern",
+    "contact:email": "info@restaurants-schoengruen.ch",
+    "contact:fax": "+41 31 3590291",
+    "contact:phone": "+41 31 3590290",
+    "name": "Sch\u00f6ngr\u00fcn",
+    "opening_hours": "Tu,Su 10:00-17:00; We,Th 10:00-23:30; Th,Fr 10:00-00:00; Sa 17:00-00:00",
+    "website": "https://www.restaurants-schoengruen.ch",
+    "wheelchair": "yes"
+  },
+  "id": 457113454
+}

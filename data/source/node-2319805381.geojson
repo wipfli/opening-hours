@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3620193,
+      46.2321262
+    ]
+  },
+  "properties": {
+    "id": 2319805381,
+    "addr:city": "Sion",
+    "addr:housenumber": "37",
+    "addr:postcode": "1950",
+    "addr:street": "Place du Midi",
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Coucou Sushi",
+    "opening_hours": "Mo-Sa 11:00-14:30,16:45-21:30",
+    "phone": "+41 27 203 10 10",
+    "website": "https://coucousushi-sion.ch/"
+  },
+  "id": 2319805381
+}

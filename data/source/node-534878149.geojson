@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7189785,
+      47.5048564
+    ]
+  },
+  "properties": {
+    "id": 534878149,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "28",
+    "addr:postcode": "8400",
+    "addr:street": "W\u00fclflingerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2023-07-07",
+    "cuisine": "burger;salad",
+    "email": "info@nachbarsbox.ch",
+    "name": "nachbarsbox",
+    "opening_hours": "Tu-Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 544 51 80",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://nachbarsbox.ch/"
+  },
+  "id": 534878149
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.045422,
+      46.8833837
+    ]
+  },
+  "properties": {
+    "id": 8539689237,
+    "addr:city": "Avenches",
+    "addr:postcode": "1580",
+    "addr:street": "Route de Berne",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Restaurant des Bains",
+    "opening_hours": "Sep-Jun Tu,Su 08:00+; Sep-Jun Tu,Su 17:00+ off; Jul,Aug Tu 08:00+; Jul,Aug Tu 17:00+ off; Jul,Aug Su off; We-Sa 08:00+; Mo off",
+    "phone": "+41 26 675 36 60",
+    "website": "http://www.restaurantdesbains.ch/"
+  },
+  "id": 8539689237
+}

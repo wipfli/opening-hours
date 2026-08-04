@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1429328,
+      46.1973115
+    ]
+  },
+  "properties": {
+    "id": 5075066022,
+    "addr:housenumber": "8",
+    "addr:postcode": "1205",
+    "addr:street": "Rue de Carouge",
+    "amenity": "restaurant",
+    "name": "Mikado",
+    "name:fr": "Mikado",
+    "opening_hours": "Mo-Sa 10:00-21:00",
+    "phone": "+41223204477",
+    "website": "https://www.sushi.ch/"
+  },
+  "id": 5075066022
+}

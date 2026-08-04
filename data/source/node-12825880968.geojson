@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6984604,
+      47.0654815
+    ]
+  },
+  "properties": {
+    "id": 12825880968,
+    "addr:city": "Les Brenets",
+    "addr:housenumber": "1",
+    "addr:postcode": "2416",
+    "addr:street": "Le Champ de la Fontaine",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-05-10",
+    "name": "Restaurant Bellevue",
+    "opening_hours": "Apr: Mo off; Apr: Tu-Sa 09:00-15:00,17:00-23:00; Jul-Aug: Mo-Sa 08:30-23:00; Jul-Aug: Su 08:30-18:00; Sep-Jun: Mo off",
+    "phone": "+41 32 931 14 21",
+    "website": "https://www.restaurant-bellevue-les-brenets.ch/"
+  },
+  "id": 12825880968
+}

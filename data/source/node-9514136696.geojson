@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6007922,
+      47.5521616
+    ]
+  },
+  "properties": {
+    "id": 9514136696,
+    "addr:city": "Basel",
+    "addr:housenumber": "2",
+    "addr:postcode": "4052",
+    "addr:street": "Hardstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza",
+    "indoor_seating": "yes",
+    "name": "Restaurant Murano",
+    "opening_hours": "Mo-Fr 09:00-24:00, Sa,Su 10:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 271 88 88",
+    "smoking": "outside",
+    "website": "https://www.murano.ch/"
+  },
+  "id": 9514136696
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8610991,
+      46.9645436
+    ]
+  },
+  "properties": {
+    "id": 4893492039,
+    "addr:housenumber": "57",
+    "addr:place": "Gf\u00e4hl",
+    "amenity": "restaurant",
+    "name": "Sch\u00e4rmtanne-Beizli",
+    "opening_hours": "Mo-Tu off; We-Sa 09:00-20:00; Su 09:00-19:00",
+    "phone": "+41 34 495 51 27",
+    "source": "Survey/Bing",
+    "website": "https://www.schaermtanne-beizli.ch"
+  },
+  "id": 4893492039
+}

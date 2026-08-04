@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6641312,
+      47.1802625
+    ]
+  },
+  "properties": {
+    "id": 271717985,
+    "amenity": "restaurant",
+    "check_date": "2025-12-15",
+    "diet:vegan": "no",
+    "diet:vegetarian": "no",
+    "name": "Gasthof Kreuz",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00",
+    "website": "https://www.gasthof-kreuz-aeschi.ch"
+  },
+  "id": 271717985
+}

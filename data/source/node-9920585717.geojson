@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6214714,
+      47.4921534
+    ]
+  },
+  "properties": {
+    "id": 9920585717,
+    "addr:city": "Arlesheim",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "4144",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "cuisine": "mediterranean",
+    "name": "Domst\u00fcbli",
+    "opening_hours": "Mo-Sa 09:00-14:00, 18:00-23:30",
+    "website": "https://www.domstuebli.ch/"
+  },
+  "id": 9920585717
+}

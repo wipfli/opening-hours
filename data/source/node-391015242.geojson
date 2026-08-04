@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5046063,
+      47.1727745
+    ]
+  },
+  "properties": {
+    "id": 391015242,
+    "addr:city": "Zug",
+    "addr:housenumber": "2",
+    "addr:postcode": "6300",
+    "addr:street": "Hafenplatz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "email": "hafenrestaurant@remimag.ch",
+    "indoor_seating": "yes",
+    "name": "Hafenrestaurant",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 711 90 70",
+    "toilets:wheelchair": "no",
+    "website": "https://www.hafenrestaurant.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 391015242
+}

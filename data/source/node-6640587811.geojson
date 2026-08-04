@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6313244,
+      46.5225537
+    ]
+  },
+  "properties": {
+    "id": 6640587811,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "9",
+    "addr:postcode": "1003",
+    "addr:street": "Rue William-Haldimand",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "level": "1",
+    "name": "CrazyWolf",
+    "opening_hours": "Mo-Fr 11:15-14:00,17:30-22:00; Sa 11:15-15:00,17:30-22:00; Su 11:00-14:30,17:30-22:00",
+    "phone": "+41 21 323 40 00",
+    "website": "https://www.crazywolf-lausanne.com",
+    "website:menu": "https://www.crazywolf-lausanne.com/menu1"
+  },
+  "id": 6640587811
+}

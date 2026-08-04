@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0629558,
+      47.0990433
+    ]
+  },
+  "properties": {
+    "id": 1783966926,
+    "amenity": "restaurant",
+    "name": "Schwert",
+    "opening_hours": "Mo 11:00-14:00, 17:00-23:00; Tu-Fr 11:00-23:00; Sa 17:00-23:00",
+    "phone": "+41 55 618 42 80",
+    "tourism": "hotel",
+    "website": "https://hotelschwert.ch/"
+  },
+  "id": 1783966926
+}

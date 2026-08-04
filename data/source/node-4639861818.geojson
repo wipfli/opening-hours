@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6433823,
+      46.8819877
+    ]
+  },
+  "properties": {
+    "id": 4639861818,
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "6",
+    "addr:postcode": "6460",
+    "addr:street": "Tellsgasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-03-27",
+    "diet:vegetarian": "no",
+    "name": "Tellenbr\u00e4u",
+    "opening_hours": "Tu-Sa 09:00-23:30",
+    "phone": "+41 41 870 10 49",
+    "website": "https://www.tellenbrau.ch"
+  },
+  "id": 4639861818
+}

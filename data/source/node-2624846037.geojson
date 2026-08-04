@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5001108,
+      47.4194419
+    ]
+  },
+  "properties": {
+    "id": 2624846037,
+    "addr:city": "Laufen",
+    "addr:country": "CH",
+    "addr:housenumber": "64",
+    "addr:postcode": "4242",
+    "addr:street": "Delsbergerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "pazzo napoletano",
+    "opening_hours": "Th-Mo 11:30-14:00, 17:30-22:00",
+    "phone": "+41 61 761 30 88",
+    "website": "https://pazzonapoletano.ch/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Rampe etwas steil"
+  },
+  "id": 2624846037
+}

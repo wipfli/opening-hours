@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.635171,
+      46.5258364
+    ]
+  },
+  "properties": {
+    "id": 11375339601,
+    "addr:postcode": "1005",
+    "amenity": "restaurant",
+    "check_date": "2023-11-25",
+    "contact:instagram": "blackmarketramen",
+    "cuisine": "japanese;ramen",
+    "email": "info@blackmarketramen.com",
+    "indoor_seating": "yes",
+    "name": "Black Market Ramen",
+    "opening_hours": "Tu-Sa 11:30-14:00, 17:30-21:00",
+    "outdoor_seating": "yes",
+    "website": "https://blackmarketramen.com/",
+    "website:menu": "https://blackmarketramen.com/#ramen"
+  },
+  "id": 11375339601
+}

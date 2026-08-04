@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6561789,
+      46.5227691
+    ]
+  },
+  "properties": {
+    "id": 11069996817,
+    "amenity": "restaurant",
+    "check_date": "2025-01-24",
+    "cuisine": "thai",
+    "name": "Thai square",
+    "opening_hours": "Mo-Sa 11:30-14:00, 17:00-20:30; Su 11:45-13:30, 18:00-21:00",
+    "website": "https://www.thaisquarelausanne.ch"
+  },
+  "id": 11069996817
+}

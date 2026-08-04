@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4488702,
+      46.9476025
+    ]
+  },
+  "properties": {
+    "id": 282774244,
+    "alt_name": "Restaurant Falken",
+    "amenity": "restaurant",
+    "check_date": "2025-07-20",
+    "contact:addr": "M\u00fcnstergasse 64, 3011 Bern",
+    "contact:email": "info@falkenbern.ch",
+    "contact:fax": "+41 31 3113062",
+    "contact:phone": "+41 31 3113095",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Falken",
+    "opening_hours": "Mo-Fr 09:00-23:30; Sa 08:00-23:30; Su off",
+    "operator": "Helene Hebeisen",
+    "smoking": "no",
+    "source": "survey and website",
+    "website": "https://www.falken.restaurant/",
+    "wheelchair": "no"
+  },
+  "id": 282774244
+}

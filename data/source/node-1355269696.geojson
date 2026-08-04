@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8147369,
+      47.2260541
+    ]
+  },
+  "properties": {
+    "id": 1355269696,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "La Scala",
+    "opening_hours": "Mo-Fr 11:00-14:00, 17:00-24:00; Sa-Su 11:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 214 12 22",
+    "website": "https://www.lascala.ch/",
+    "wheelchair": "no"
+  },
+  "id": 1355269696
+}

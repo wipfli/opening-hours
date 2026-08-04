@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9971757,
+      47.1275718
+    ]
+  },
+  "properties": {
+    "id": 12001369178,
+    "amenity": "restaurant",
+    "brand": "Coop Restaurant",
+    "brand:wikidata": "Q432564",
+    "delivery": "no",
+    "name": "Coop Restaurant",
+    "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-21:00; Sa 07:30-17:00; PH off",
+    "outdoor_seating": "no",
+    "reservation": "no",
+    "takeaway": "no",
+    "website": "https://www.coop-restaurant.ch/content/cooprestaurant/en/restaurantfinder/finderdetailpage.2258.html"
+  },
+  "id": 12001369178
+}

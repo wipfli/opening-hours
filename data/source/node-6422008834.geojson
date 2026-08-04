@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.015441,
+      46.9502081
+    ]
+  },
+  "properties": {
+    "id": 6422008834,
+    "amenity": "restaurant",
+    "name": "Restaurant Bahnhof",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "website": "https://www.rest-bahnhof-schuepfheim.ch"
+  },
+  "id": 6422008834
+}

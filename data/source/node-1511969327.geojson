@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1098498,
+      47.1727561
+    ]
+  },
+  "properties": {
+    "id": 1511969327,
+    "amenity": "restaurant",
+    "check_date": "2026-03-18",
+    "cuisine": "italian",
+    "name": "Caruso",
+    "opening_hours": "Tu-Sa 11:00-24:00",
+    "opening_hours:kitchen": "Tu-Fr 11:30-14:00,18:00-22:00; Sa 11:30-24:00",
+    "phone": "+41 41 921 10 44",
+    "website": "https://www.caruso-sursee.ch/"
+  },
+  "id": 1511969327
+}

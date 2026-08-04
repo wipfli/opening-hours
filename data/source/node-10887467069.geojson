@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9627746,
+      46.0115264
+    ]
+  },
+  "properties": {
+    "id": 10887467069,
+    "amenity": "restaurant",
+    "check_date": "2026-06-08",
+    "check_date:opening_hours": "2026-06-08",
+    "cuisine": "pizza",
+    "currency:XBT": "yes",
+    "name": "Mamis Food",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "payment:lightning": "yes",
+    "phone": "+41919702223",
+    "website": "https://www.mamisfood.ch/"
+  },
+  "id": 10887467069
+}

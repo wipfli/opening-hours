@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3440926,
+      47.3511292
+    ]
+  },
+  "properties": {
+    "id": 1284570892,
+    "addr:city": "Bremgarten AG",
+    "addr:housenumber": "1",
+    "addr:postcode": "5620",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizza Mario",
+    "opening_hours": "Mo-Fr 10:15-14:00,17:00-22:30; Sa 15:00-22:30; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+41 56 558 93 93",
+    "self_service": "yes",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://mario.edan.io",
+    "wheelchair": "yes"
+  },
+  "id": 1284570892
+}

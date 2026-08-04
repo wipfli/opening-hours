@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.769903,
+      46.863366
+    ]
+  },
+  "properties": {
+    "id": 6449551090,
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "name": "Rose Restaurant & Bar",
+    "opening_hours": "We, Fr-Sa 16:00-00:00; Th 08:00-00:00",
+    "phone": "+41 41 880 01 05",
+    "website": "https://www.arnold-uri.ch"
+  },
+  "id": 6449551090
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4356639,
+      46.9501111
+    ]
+  },
+  "properties": {
+    "id": 253677578,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "3012",
+    "addr:street": "Schanzeneckstrasse",
+    "alt_name": "UNIess - BISTRO BAR LOUNGE",
+    "amenity": "restaurant",
+    "contact:email": "info@uniess.ch",
+    "contact:fax": "+41 31 6315507",
+    "contact:phone": "+41 31 6315505",
+    "name": "UNIess",
+    "old_name": "Kantine",
+    "opening_hours": "Mo-Fr 08:00-15:00; Sa,Su off",
+    "operator": "Genossenschaft ZFV-Unternehmungen",
+    "source": "website",
+    "takeaway": "yes",
+    "website": "https://www.uniess.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 253677578
+}

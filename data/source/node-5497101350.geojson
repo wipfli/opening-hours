@@ -1,22 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/5497101350",
-    "access": "yes",
-    "amenity": "restaurant",
-    "cuisine": "regional",
-    "delivery": "no",
-    "diet:vegetarian": "yes",
-    "fixme": "check opening hours again after reopening on 2025-08-11",
-    "name": "Mensa UZH Zentrum Mercato (Untere Mensa)",
-    "opening_hours": "closed \"Closed for renovation in 2025, see website, open from August 11 again\"",
-    "opening_hours:kitchen": "Mo-Fr 11:00-13:30",
-    "operator": "ZFV-Unternehmungen",
-    "outdoor_seating": "yes",
-    "smoking": "outside",
-    "takeaway": "no",
-    "website": "https://www.mensa.uzh.ch/de/menueplaene/zentrum-mercato"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -24,5 +7,25 @@
       47.3738499
     ]
   },
-  "id": "node-5497101350"
+  "properties": {
+    "id": 5497101350,
+    "access": "yes",
+    "addr:housenumber": "10",
+    "addr:street": "K\u00fcnstlergasse",
+    "amenity": "restaurant",
+    "check_date": "2026-08-03",
+    "cuisine": "regional",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "name": "Untere Mensa UZH",
+    "opening_hours": "week 08-22,38-51 Mo-Fr 10:00-19:30 \"Hauptsemester\"; week 01-07,23-37,52-53 Mo-Fr 10:00-15:00 \"Zwischensemester\"; PH off",
+    "opening_hours:kitchen": "week 08-22,38-51 Mo-Fr 11:00-14:30,17:00-19:00 \"Hauptsemester\"; week 01-07,23-37,52-53 Mo-Fr 11:00-14:30 \"Zwischensemester\"; PH off",
+    "operator": "ZFV-Unternehmungen",
+    "outdoor_seating": "yes",
+    "self_service": "only",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://www.zfv.ch/de/essen-gehen/untere-mensa-uzh"
+  },
+  "id": 5497101350
 }

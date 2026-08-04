@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3370287,
+      47.2744423
+    ]
+  },
+  "properties": {
+    "id": 2965967709,
+    "amenity": "restaurant",
+    "name": "Adler",
+    "opening_hours": "Mo-Th 07:00-23:30; Fr 07:00-24:00; Sa 08:00-24:00; Su 08:00-22:00",
+    "website": "https://www.adlermuri.ch"
+  },
+  "id": 2965967709
+}

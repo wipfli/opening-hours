@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2640175,
+      47.1511845
+    ]
+  },
+  "properties": {
+    "id": 9770632819,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "delivery": "yes",
+    "name": "Thaifood",
+    "opening_hours": "Mo,We,Th 11:00-13:30,17:00-22:00; Fr 11:00-13:30,17:00-24:00; Tu 17:00-22:00; Sa 17:00-24:00; Su 17:00-23:00",
+    "phone": "+41 32 525 93 99",
+    "takeaway": "yes",
+    "website": "https://thaifooddelivery.ch/"
+  },
+  "id": 9770632819
+}

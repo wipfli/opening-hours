@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8604266,
+      47.5536966
+    ]
+  },
+  "properties": {
+    "id": 606130605,
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "name": "Restaurant Wiesental",
+    "opening_hours": "Mo-Fr 08:00-23:00; Su 10:00-16:00",
+    "opening_hours:covid19": "Mo-Fr 11:00-14:00,18:00-20:00; Sa 18:00-20:00",
+    "takeaway": "yes",
+    "website": "https://www.restaurant-wiesental.ch/"
+  },
+  "id": 606130605
+}

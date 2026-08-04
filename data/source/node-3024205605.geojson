@@ -1,16 +1,27 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5207529,
+      47.3744654
+    ]
+  },
   "properties": {
-    "@id": "node/3024205605",
+    "id": 3024205605,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "171",
     "addr:postcode": "8003",
     "addr:street": "Badenerstrasse",
     "amenity": "restaurant",
-    "check_date": "2026-01-22",
+    "check_date": "2026-04-11",
+    "check_date:diet:vegan": "2026-04-11",
+    "check_date:diet:vegetarian": "2026-04-11",
     "check_date:opening_hours": "2026-01-22",
     "cuisine": "lebanese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
     "name": "Bebek",
     "opening_hours": "Mo-Su 08:00-24:00; Fr-Sa 08:00-01:00",
     "opening_hours:signed": "no",
@@ -20,12 +31,5 @@
     "website": "https://bebek.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5207529,
-      47.3744654
-    ]
-  },
-  "id": "node-3024205605"
+  "id": 3024205605
 }

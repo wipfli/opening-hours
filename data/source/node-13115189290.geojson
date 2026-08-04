@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4997099,
+      46.5096045
+    ]
+  },
+  "properties": {
+    "id": 13115189290,
+    "addr:housenumber": "24",
+    "addr:street": "Rue Louis-de-Savoie",
+    "amenity": "restaurant",
+    "cuisine": "korean",
+    "name": "Madame Kim",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-15:00",
+    "website": "https://www.madamekim.ch/"
+  },
+  "id": 13115189290
+}

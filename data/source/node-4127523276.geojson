@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6244673,
+      46.527522
+    ]
+  },
+  "properties": {
+    "id": 4127523276,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "15",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue des Bergi\u00e8res",
+    "amenity": "restaurant",
+    "name": "L\u2019Auberge de Beaulieu",
+    "opening_hours": "Tu-We 10:30-00:00; Th 10:30-01:00; Fr-Sa 10:30-02:00; Su 10:30-18:00",
+    "phone": "+41 21 683 03 03",
+    "website": "https://www.aubergedebeaulieu.ch"
+  },
+  "id": 4127523276
+}

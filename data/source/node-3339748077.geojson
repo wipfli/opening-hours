@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6206668,
+      47.0592103
+    ]
+  },
+  "properties": {
+    "id": 3339748077,
+    "addr:city": "Burgdorf",
+    "addr:housenumber": "27",
+    "addr:postcode": "3400",
+    "addr:street": "Lyssachstrasse",
+    "alt_name": "Migros Restaurant Burgdorf",
+    "amenity": "restaurant",
+    "branch": "Burgdorf Neumarkt",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "brand:wikipedia": "de:Migros",
+    "cuisine": "international",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 07:30-17:00; PH off",
+    "operator": "Genossenschaft Migros Aare",
+    "outdoor_seating": "no",
+    "takeaway": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-burgdorf-neumarkt",
+    "wheelchair": "yes"
+  },
+  "id": 3339748077
+}

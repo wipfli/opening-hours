@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5903738,
+      47.5675379
+    ]
+  },
+  "properties": {
+    "id": 71525604,
+    "addr:city": "Basel",
+    "addr:housenumber": "64",
+    "addr:postcode": "4057",
+    "addr:street": "Oetlingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "eintracht@megableu.ch",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Eintracht",
+    "opening_hours": "Tu-Sa 11:00-14:30,17:00-23:00; Su 11:00-14:30,17:00-20:00; Mo off",
+    "operator": "Fam. Torzi",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 691 44 10",
+    "smoking": "outside",
+    "website": "https://www.megableu.ch/",
+    "wheelchair": "no"
+  },
+  "id": 71525604
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5292088,
+      47.3266149
+    ]
+  },
+  "properties": {
+    "id": 83370553,
+    "addr:housenumber": "105",
+    "addr:postcode": "8134",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "cuisine": "burger",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Boom",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00",
+    "website": "https://ibiszurich.ch/restaurant-boom/"
+  },
+  "id": 83370553
+}

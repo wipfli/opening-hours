@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7301867,
+      47.498871
+    ]
+  },
+  "properties": {
+    "id": 359690720,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "check_date": "2026-03-05",
+    "cuisine": "regional",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "level": "0;1",
+    "name": "Obergass",
+    "opening_hours": "Mo 18:00-24:00; Tu-Fr 09:00-24:00; Sa 10:00-24:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 52 212 98 28",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.restaurant-obergass.ch/",
+    "wheelchair": "no"
+  },
+  "id": 359690720
+}

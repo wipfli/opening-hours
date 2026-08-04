@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4454001,
+      46.9361377
+    ]
+  },
+  "properties": {
+    "id": 2377115339,
+    "amenity": "restaurant",
+    "contact:addr": "Dalmaziquai 111, 3005 Bern",
+    "contact:phone": "+41 31 3510603",
+    "cuisine": "ticinese",
+    "name": "Grottino by Metzgerst\u00fcbli",
+    "note": "Saisonbetrieb April bis Oktober",
+    "old_name": "Il Grottino di Alibaba",
+    "opening_hours": "Mo-Tu off; We-Sa 12:00-23:00; Su 12:00-20:00",
+    "source": "survey and website",
+    "website": "https://grottino-by-metzgerst\u00fcbli.ch"
+  },
+  "id": 2377115339
+}

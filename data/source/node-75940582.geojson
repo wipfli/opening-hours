@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5956372,
+      47.5656669
+    ]
+  },
+  "properties": {
+    "id": 75940582,
+    "amenity": "restaurant",
+    "check_date": "2024-08-28",
+    "name": "Zum Goldenen Fass",
+    "opening_hours": "Tu-Th 18:30-24:00, Fr,Sa 18:30-01:00; Su,Mo off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "website": "https://www.goldenes-fass.ch/",
+    "wheelchair": "no"
+  },
+  "id": 75940582
+}

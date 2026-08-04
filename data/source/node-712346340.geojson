@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2462714,
+      47.1368754
+    ]
+  },
+  "properties": {
+    "id": 712346340,
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "check_date": "2026-05-22",
+    "email": "arcade@stadthausag.ch",
+    "indoor_seating": "yes",
+    "name": "L'Arcade",
+    "opening_hours": "Mo-Th 08:30-23:00; Fr 08:30-23:30; Sa 08:00-18:00; Su off",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 322 36 02",
+    "smoking": "outside",
+    "toilets:wheelchair": "designated",
+    "website": "https://www.stadthausag.ch/arcade",
+    "wheelchair": "yes"
+  },
+  "id": 712346340
+}

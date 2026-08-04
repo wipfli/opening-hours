@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4554328,
+      46.9329733
+    ]
+  },
+  "properties": {
+    "id": 2931792689,
+    "addr:city": "K\u00f6niz",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "3084",
+    "addr:street": "Strandweg",
+    "addr:suburb": "Wabern",
+    "amenity": "restaurant",
+    "email": "eichholz@serini.be",
+    "name": "Restaurant Serini Eichholz",
+    "opening_hours": "Jan-Mar off; Apr-Sep Mo-Su 07:00-22:00; Oct-Dec off",
+    "operator": "Chef Chef GmbH",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 552 26 01",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.serini.be/",
+    "wheelchair": "yes"
+  },
+  "id": 2931792689
+}

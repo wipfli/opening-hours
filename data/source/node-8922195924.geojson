@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8741923,
+      46.5307931
+    ]
+  },
+  "properties": {
+    "id": 8922195924,
+    "amenity": "restaurant",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "level": "0",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "operator:wikidata": "Q74013313",
+    "phone": "+41 58 712 95 40",
+    "website": "https://gastro.migros.ch/standorte/migros-restaurant-samedan"
+  },
+  "id": 8922195924
+}

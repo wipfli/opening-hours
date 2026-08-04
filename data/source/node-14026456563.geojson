@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1400204,
+      47.4021405
+    ]
+  },
+  "properties": {
+    "id": 14026456563,
+    "addr:city": "Rupperswil",
+    "addr:housenumber": "30",
+    "addr:postcode": "5102",
+    "addr:street": "Sportplatzweg",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "grill;burger;chicken",
+    "indoor_seating": "yes",
+    "name": "Clubbeiz Stockhard",
+    "opening_hours": "We-Th 21:00",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "https://fcrupperswil.ch/clubbeiz-stockhard/",
+    "wheelchair": "no"
+  },
+  "id": 14026456563
+}

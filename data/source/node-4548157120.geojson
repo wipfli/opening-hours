@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5569262,
+      47.2155257
+    ]
+  },
+  "properties": {
+    "id": 4548157120,
+    "amenity": "restaurant",
+    "highchair": "yes",
+    "name": "Restaurant Time Out",
+    "opening_hours": "Mo-Sa 08:30-22:00; Su 08:30-18:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 32 686 55 55",
+    "self_service": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.szzag.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4548157120
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5913795,
+      47.566215
+    ]
+  },
+  "properties": {
+    "id": 1430898779,
+    "addr:city": "Basel",
+    "addr:housenumber": "56",
+    "addr:postcode": "4057",
+    "addr:street": "Feldbergstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-25",
+    "check_date:diet:vegan": "2025-11-20",
+    "check_date:diet:vegetarian": "2025-11-20",
+    "check_date:opening_hours": "2026-02-25",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Bon Gout",
+    "opening_hours": "Mo,Tu,Th,Fr 11:00-22:00; Sa 12:00-22:00; Su 13:00-22:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.bon-gout.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1430898779
+}

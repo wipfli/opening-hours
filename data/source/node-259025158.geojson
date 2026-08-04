@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4384939,
+      46.949584
+    ]
+  },
+  "properties": {
+    "id": 259025158,
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "3012",
+    "addr:street": "Parkterrasse",
+    "amenity": "restaurant",
+    "contact:email": "info@grosseschanze.ch",
+    "contact:phone": "+41 31 318 72 00",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "layer": "5",
+    "name": "Grosse Schanze",
+    "opening_hours": "May-Sep Mo-We 07:00-20:00, Th-Fr 07:00-22:00, Sa-Su \"on reservation\"; Oct-Apr Mo-Fr 07:00-20:00, Sa-Su \"on reservation\"",
+    "operator": "ZFV AG",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "website": "https://www.grosseschanze.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 259025158
+}

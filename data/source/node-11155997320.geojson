@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5497429,
+      46.5463066
+    ]
+  },
+  "properties": {
+    "id": 11155997320,
+    "addr:city": "Bussigny",
+    "addr:housenumber": "4",
+    "addr:postcode": "1030",
+    "addr:street": "Route de la Chaux",
+    "amenity": "restaurant",
+    "name": "Le Stamm",
+    "opening_hours": "Mo 08:00-17:00; Tu-Fr 08:00-23:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 21 633 21 71",
+    "website": "https://qg.center/fr/stamm/"
+  },
+  "id": 11155997320
+}

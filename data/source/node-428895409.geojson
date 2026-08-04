@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3971433,
+      47.4060643
+    ]
+  },
+  "properties": {
+    "id": 428895409,
+    "addr:city": "Dietikon",
+    "addr:housenumber": "21",
+    "addr:postcode": "8953",
+    "addr:street": "Badenerstrasse",
+    "alt_name": "Molino Dietikon",
+    "amenity": "restaurant",
+    "branch": "Dietikon",
+    "brand": "Molino",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "level": "0",
+    "name": "Molino",
+    "opening_hours": "Mo-Sa 08:30-23:00; Su 10:00-23:00",
+    "opening_hours:covid19": "11:00-14:00, 17:00-22:00",
+    "operator": "Ospena Group",
+    "outdoor_seating": "yes",
+    "website": "https://molino.ch/de/pizzeria-ristorante-molino-dietikon",
+    "wheelchair": "limited"
+  },
+  "id": 428895409
+}

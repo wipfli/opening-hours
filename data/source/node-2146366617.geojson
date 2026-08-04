@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4296184,
+      47.0315498
+    ]
+  },
+  "properties": {
+    "id": 2146366617,
+    "addr:city": "Weggis",
+    "addr:housenumber": "27",
+    "addr:postcode": "6353",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "attribution": "Nov-Feb geschlossen",
+    "cuisine": "burger;sausage;salad;beer;wine;coffee;bootvermietung;pedalovermietung",
+    "email": "info@l\u00fcchtt\u00fcrmli.ch",
+    "image": "https://www.instagram.com/luechttuermli_weggis/",
+    "name": "L\u00fcchtt\u00fcrmli",
+    "opening_hours": "We-Mo 10:00-23:00",
+    "phone": "+41 76 298 39 68",
+    "seamark:small_craft_facility:category": "visitor_berth",
+    "seamark:type": "small_craft_facility",
+    "takeaway": "yes",
+    "website": "www.l\u00fcchtt\u00fcrmli.ch"
+  },
+  "id": 2146366617
+}

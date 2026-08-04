@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4522871,
+      46.9563407
+    ]
+  },
+  "properties": {
+    "id": 598242991,
+    "amenity": "restaurant",
+    "contact:addr:full": "Moserstrasse 14b, 3013 Bern",
+    "contact:phone": "+41 31 3330788",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Del Gusto",
+    "opening_hours": "Mo-Su 08:00-23:30",
+    "website": "https://del-gusto.ch"
+  },
+  "id": 598242991
+}

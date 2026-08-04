@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7878862,
+      46.8158612
+    ]
+  },
+  "properties": {
+    "id": 493599694,
+    "addr:city": "Cheyres",
+    "addr:housenumber": "342",
+    "addr:postcode": "1468",
+    "addr:street": "Route d'Yverdon-les-Bains",
+    "amenity": "restaurant",
+    "contact:facebook": "LaGrappeCheyres",
+    "contact:instagram": "lagrappecheyres",
+    "cuisine": "italian",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "La Grappe",
+    "opening_hours": "Tu-Sa 08:00-14:00,17:00-22:00; Su 08:00-14:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 663 55 55",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://lagrappe-cheyres.ch",
+    "wheelchair": "limited"
+  },
+  "id": 493599694
+}

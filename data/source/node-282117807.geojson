@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.377489,
+      47.253664
+    ]
+  },
+  "properties": {
+    "id": 282117807,
+    "addr:city": "Court",
+    "addr:housenumber": "4",
+    "addr:postcode": "2738",
+    "addr:street": "Graitery",
+    "alt_name": "chez Therese",
+    "amenity": "restaurant",
+    "beds": "5",
+    "cuisine": "regional",
+    "ele": "1199",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "motorcycle_friendly": "customary",
+    "name": "Auberge du Graitery",
+    "opening_hours": "Mo,Tu,Fr,Sa 09:00-00:30; Su 09:00-18:00; We,Th,PH off",
+    "payment:credit_cards": "no",
+    "phone": "+41 32 493 27 11",
+    "website": "https://www.auberge-graitery.ch"
+  },
+  "id": 282117807
+}

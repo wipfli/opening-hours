@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8990143,
+      47.3238108
+    ]
+  },
+  "properties": {
+    "id": 12587075781,
+    "amenity": "restaurant",
+    "cuisine": "sushi;momo",
+    "delivery": "Mo,We-Fr 11:30-13:30,17:00-21:30; Sa 12:00-14:00,17:00-21:30; PH,Su 12:00-21:00",
+    "level": "0",
+    "name": "Yushu",
+    "opening_hours": "Mo,We-Fr 11:30-13:30,17:00-21:30; Sa 12:00-14:00,17:00-21:30; PH,Su 12:00-21:00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://www.yushu.ch",
+    "wheelchair": "no"
+  },
+  "id": 12587075781
+}

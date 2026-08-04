@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.684791,
+      47.5169456
+    ]
+  },
+  "properties": {
+    "id": 4095987438,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "42",
+    "addr:postcode": "8408",
+    "addr:street": "Maienriedweg",
+    "alt_name": "Gioa e Anna",
+    "amenity": "restaurant",
+    "cuisine": "ticinese",
+    "name": "Grotto Maienried",
+    "opening_hours": "May-Oct: Fr[1,-1]-Fr[1,-1] + 1 day 16:00-22:00; Fr[1,-1] + 2 days 11:00-20:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 79 262 04 09",
+    "website": "https://www.grotto-maienried.ch/"
+  },
+  "id": 4095987438
+}

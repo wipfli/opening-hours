@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3693547,
+      47.4229191
+    ]
+  },
+  "properties": {
+    "id": 2587072484,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "2",
+    "addr:place": "Bahnhofplatz",
+    "addr:postcode": "9000",
+    "alt_name": "Migros Restaurant St. Gallen Bahnhof",
+    "amenity": "restaurant",
+    "branch": "St. Gallen Bahnhof",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "check_date:opening_hours": "2025-07-25",
+    "cuisine": "international",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Fr 07:00-21:00, Sa-Su 08:00-16:00",
+    "operator": "Genossenschaft Migros Ostschweiz",
+    "outdoor_seating": "yes",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-st-gallen-bahnhof",
+    "wheelchair": "yes"
+  },
+  "id": 2587072484
+}

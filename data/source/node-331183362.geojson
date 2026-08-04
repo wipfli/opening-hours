@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.543866,
+      47.3758264
+    ]
+  },
   "properties": {
-    "@id": "node/331183362",
+    "id": 331183362,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "132",
@@ -18,12 +25,5 @@
     "website": "https://www.bierhalle-wolf.ch/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.543866,
-      47.3758264
-    ]
-  },
-  "id": "node-331183362"
+  "id": 331183362
 }

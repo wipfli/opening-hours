@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1174346,
+      47.1214095
+    ]
+  },
+  "properties": {
+    "id": 54754465,
+    "addr:housenumber": "104",
+    "addr:postcode": "8757",
+    "addr:street": "Kerenzerbergstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "R\u00f6merTurm",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "phone": "+41 55 614 62 62",
+    "tourism": "hotel",
+    "website": "https://www.roemerturm.ch/"
+  },
+  "id": 54754465
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5246725,
+      47.3747605
+    ]
+  },
   "properties": {
-    "@id": "node/656754116",
+    "id": 656754116,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -15,12 +22,5 @@
     "website": "https://www.instagram.com/baba.baos",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5246725,
-      47.3747605
-    ]
-  },
-  "id": "node-656754116"
+  "id": 656754116
 }

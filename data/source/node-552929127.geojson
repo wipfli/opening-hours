@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5416447,
+      47.3832538
+    ]
+  },
   "properties": {
-    "@id": "node/552929127",
+    "id": 552929127,
     "amenity": "restaurant",
     "cuisine": "swiss",
     "name": "Drei Stuben",
@@ -13,12 +20,5 @@
     "wheelchair": "limited",
     "wheelchair:description": "WCs befinden sich im Keller"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5416447,
-      47.3832538
-    ]
-  },
-  "id": "node-552929127"
+  "id": 552929127
 }

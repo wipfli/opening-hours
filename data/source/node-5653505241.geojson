@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.578038,
+      46.5339199
+    ]
+  },
+  "properties": {
+    "id": 5653505241,
+    "addr:city": "Chavannes-pr\u00e8s-Renens",
+    "addr:housenumber": "15a",
+    "addr:postcode": "1022",
+    "addr:street": "Avenue de Pr\u00e9faully",
+    "amenity": "restaurant",
+    "cuisine": "burger;pizza",
+    "name": "Brasserie de Chavannes",
+    "opening_hours": "Mo-Su 11:00-14:00, 17:00-21:45",
+    "website": "https://www.brasserie-des-chavannes-chavannes-pres-renens.ch"
+  },
+  "id": 5653505241
+}

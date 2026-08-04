@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6187537,
+      47.6793744
+    ]
+  },
+  "properties": {
+    "id": 7949539307,
+    "addr:city": "Neuhausen am Rheinfall",
+    "addr:housenumber": "1",
+    "addr:postcode": "8212",
+    "addr:street": "Heinrich Moser-Platz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "cuisine": "burger;cake;regional;sandwich;tapas",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "gruenerbaum@gmos.ch",
+    "level": "0",
+    "name": "gr\u00fcnerbaum-gastronomie",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Migros",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "phone": "+41 58 712 01 80",
+    "ref:vatin": "CHE-456.277.478",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "website": "https://www.restaurant-gruenerbaum.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 7949539307
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3392738,
+      46.7468833
+    ]
+  },
+  "properties": {
+    "id": 4350782490,
+    "addr:city": "Tenna",
+    "addr:housenumber": "28",
+    "addr:postcode": "7106",
+    "addr:street": "Mitte",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Berghotel Alpenblick",
+    "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-18:00",
+    "operator": "Verein tennaplus",
+    "phone": "+41 81 645 11 23",
+    "website": "https://www.alpenblick.ch/"
+  },
+  "id": 4350782490
+}

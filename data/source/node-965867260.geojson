@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4080106,
+      46.8079068
+    ]
+  },
+  "properties": {
+    "id": 965867260,
+    "addr:city": "R\u00fcschegg Heubach",
+    "addr:country": "CH",
+    "addr:housenumber": "592",
+    "addr:postcode": "3154",
+    "addr:street": "Wislisau",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Lamm",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "Cornelia Wyssen",
+    "website": "https://lamm-wislisau.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 965867260
+}

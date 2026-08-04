@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4948742,
+      47.3792831
+    ]
+  },
+  "properties": {
+    "id": 311960281,
+    "amenity": "restaurant",
+    "check_date": "2025-04-28",
+    "cuisine": "pizza",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Il Salento",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-23:00; Sa 11:00-14:00,17:00-23:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.ristoranteilsalento.ch"
+  },
+  "id": 311960281
+}

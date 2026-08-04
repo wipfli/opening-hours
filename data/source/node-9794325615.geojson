@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3158956,
+      47.3646376
+    ]
+  },
+  "properties": {
+    "id": 9794325615,
+    "addr:city": "Hundwil",
+    "addr:housenumber": "65",
+    "addr:postcode": "9064",
+    "addr:street": "Wies",
+    "amenity": "restaurant",
+    "changing_table": "no",
+    "cuisine": "regional",
+    "email": "info@roessli-hundwil.ch",
+    "level": "0",
+    "name": "Landgasthaus R\u00f6ssli",
+    "opening_hours": "Mo,Th-Fr 10:00-14:00,17:00-23:30; Sa-Su 10:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 71 367 12 15",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://www.roessli-hundwil.ch/",
+    "wheelchair": "no"
+  },
+  "id": 9794325615
+}

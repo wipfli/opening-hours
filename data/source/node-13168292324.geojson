@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5443854,
+      47.3325945
+    ]
+  },
+  "properties": {
+    "id": 13168292324,
+    "addr:city": "Kilchberg ZH",
+    "addr:housenumber": "30",
+    "addr:postcode": "8802",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "email": "info@moenchhof-am-see.ch",
+    "name": "Hafenbeiz",
+    "opening_hours": "Oct-Apr 11:30-24:00",
+    "phone": "+41 44 715 50 09",
+    "website": "https://www.moenchhof-am-see.ch/de/hafenbeiz/"
+  },
+  "id": 13168292324
+}

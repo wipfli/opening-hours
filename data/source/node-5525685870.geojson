@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5292431,
+      46.2919118
+    ]
+  },
+  "properties": {
+    "id": 5525685870,
+    "addr:city": "Sierre",
+    "addr:housenumber": "27",
+    "addr:postcode": "3960",
+    "addr:street": "Avenue G\u00e9n\u00e9ral-Guisan",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Villa",
+    "opening_hours": "Mo-Sa 08:00-00:00",
+    "website": "https://www.la-villa-vs.ch/restaurant/",
+    "website:menu": "https://www.la-villa-vs.ch/menus-et-vins/"
+  },
+  "id": 5525685870
+}

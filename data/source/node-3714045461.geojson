@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4543929,
+      47.2787122
+    ]
+  },
+  "properties": {
+    "id": 3714045461,
+    "addr:city": "Affoltern am Albis",
+    "addr:housenumber": "100",
+    "addr:postcode": "8910",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "changing_table:count": "2",
+    "changing_table:location": "male_toilet;female_toilet",
+    "check_date": "2025-04-19",
+    "cuisine": "regional",
+    "name": "Central",
+    "opening_hours": "Mo 10:00-14:00; Tu-Fr 10:00-14:00,18:00-22:30; Sa 18:00-22:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 761 61 15",
+    "website": "https://centralaffoltern.ch/"
+  },
+  "id": 3714045461
+}

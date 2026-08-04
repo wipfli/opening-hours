@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1549328,
+      46.2011514
+    ]
+  },
+  "properties": {
+    "id": 11103304405,
+    "addr:housenumber": "18",
+    "addr:postcode": "1207",
+    "addr:street": "Cours de Rive",
+    "amenity": "restaurant",
+    "contact:facebook": "umamidoswitzerland",
+    "contact:instagram": "umamido_switzerland",
+    "cuisine": "asian;japanese;ramen",
+    "email": "hello@umamido.ch",
+    "name": "Umamido Rive",
+    "opening_hours": "Mo-We, Su 11:30-21:30; Th-Sa 11:30-22:00",
+    "phone": "+41228400214",
+    "website": "https://www.umamido.ch/locations-pages/umamido-beurs-gtd3c"
+  },
+  "id": 11103304405
+}

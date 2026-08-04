@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2963092,
+      47.1361327
+    ]
+  },
+  "properties": {
+    "id": 13094954932,
+    "addr:city": "Walenstadtberg",
+    "addr:housenumber": "76",
+    "addr:postcode": "8881",
+    "addr:street": "Bergstrasse",
+    "amenity": "restaurant",
+    "brewery": "qu\u00f6llfrisch;paulaner;sch\u00fctzengarten",
+    "cuisine": "regional",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "email": "team.stauffacher@gmail.com",
+    "name": "Restaurant Stauffacher",
+    "opening_hours": "Mo,Tu,Sa,Su off; We 13:30-22:00; Th,Fr 17:00-23:00 || \"by appointment\"",
+    "phone": "+41 79 960 72 17",
+    "website": "https://www.restaurant-stauffacher.ch/",
+    "website:menu": "https://www.restaurant-stauffacher.ch/menus"
+  },
+  "id": 13094954932
+}

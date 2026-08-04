@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4444986,
+      46.9492827
+    ]
+  },
+  "properties": {
+    "id": 286879731,
+    "alt_name": "Ristorante Luce",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "contact:addr": "Zeughausgasse 28, 3011 Bern",
+    "contact:email": "info@ristoranteluce.ch",
+    "contact:facebook": "https://www.facebook.com/ristoranteluce",
+    "contact:phone": "+41 31 3109999",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Luce",
+    "opening_hours": "Mo-Su 09:00-24:00",
+    "operator": "Nilovic + Nilovic",
+    "outdoor_seating": "yes",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.ristoranteluce.ch",
+    "wheelchair": "yes"
+  },
+  "id": 286879731
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.1172528,
+      47.3287273
+    ]
+  },
+  "properties": {
+    "id": 9219000756,
+    "amenity": "restaurant",
+    "contact:whatsapp": "+41762772073",
+    "email": "kontakt@wirtshauszurtrostburg.ch",
+    "name": "Wirtshaus zur Trostburg",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-22:30; Sa 17:00-22:00; Su-Mo off",
+    "operator": "\u00d6estereichisch",
+    "outdoor_seating": "yes",
+    "phone": "+41627762376",
+    "website": "https://wirtshauszurtrostburg.ch/"
+  },
+  "id": 9219000756
+}

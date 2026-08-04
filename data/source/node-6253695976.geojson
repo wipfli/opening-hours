@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6158002,
+      47.4244816
+    ]
+  },
+  "properties": {
+    "id": 6253695976,
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "4",
+    "addr:postcode": "8305",
+    "addr:street": "Riedenerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-01-31",
+    "email": "ruetli-dietlikon@bluewin.ch",
+    "name": "R\u00fctli",
+    "opening_hours": "Mo 10:00-18:00; Tu-Fr 10:00-23:00; Sa 10:00-22:00; Su off",
+    "outdoor_seating": "yes",
+    "website": "https://www.ruetli-dietlikon.ch/",
+    "wheelchair": "no"
+  },
+  "id": 6253695976
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5616996,
+      47.3667843
+    ]
+  },
   "properties": {
-    "@id": "node/1368304836",
+    "id": 1368304836,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "81",
     "addr:postcode": "8032",
@@ -18,12 +25,5 @@
     "website": "https://www.restaurant-luca.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5616996,
-      47.3667843
-    ]
-  },
-  "id": "node-1368304836"
+  "id": 1368304836
 }

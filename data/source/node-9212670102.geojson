@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1285141,
+      46.4732241
+    ]
+  },
+  "properties": {
+    "id": 9212670102,
+    "amenity": "restaurant",
+    "name": "Au Montagnard",
+    "opening_hours": "Fr-Mo 16:00-23:00",
+    "phone": "+41 26 924 35 33",
+    "website": "https://aumontagnard.ch"
+  },
+  "id": 9212670102
+}

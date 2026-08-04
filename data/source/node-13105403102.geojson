@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2052429,
+      46.3972228
+    ]
+  },
+  "properties": {
+    "id": 13105403102,
+    "addr:housenumber": "7A",
+    "addr:postcode": "1274",
+    "addr:street": "Rue des Fl\u00e9ch\u00e8res",
+    "amenity": "restaurant",
+    "contact:instagram": "barbacoanyon",
+    "cuisine": "barbecue;brazilian",
+    "opening_hours": "Mo-Sa 09:00-22:30; Su 12:00-15:30,18:30-22:00",
+    "phone": "+4122 558 01 86",
+    "website": "https://barbacoanyon.ch/"
+  },
+  "id": 13105403102
+}

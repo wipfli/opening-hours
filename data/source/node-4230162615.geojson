@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1278121,
+      46.2233035
+    ]
+  },
+  "properties": {
+    "id": 4230162615,
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Le Bistro",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-16:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://lebistropetitsaconnex.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 4230162615
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6476947,
+      46.7767874
+    ]
+  },
+  "properties": {
+    "id": 4559495011,
+    "addr:postcode": "1400",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Les 4 Marronniers",
+    "opening_hours": "Mo-Su 10:30-14:30, 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 557 88 18",
+    "takeaway": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://les4marronniers.com/",
+    "wheelchair": "yes"
+  },
+  "id": 4559495011
+}

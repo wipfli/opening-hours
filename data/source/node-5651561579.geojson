@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6295217,
+      46.5154705
+    ]
+  },
+  "properties": {
+    "id": 5651561579,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "20",
+    "addr:postcode": "1006",
+    "addr:street": "Boulevard de Grancy",
+    "amenity": "restaurant",
+    "contact:facebook": "narutorestaurants",
+    "contact:instagram": "naruto_restaurants",
+    "cuisine": "japanese",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Naruto",
+    "opening_hours": "Mo,Tu 11:00-14:00,17:00-22:00; We-Sa 11:00-14:00,17:00-22:30; Su 12:00-15:00,17:00-22:00",
+    "opening_hours:cuisine": "Mo,Tu 11:00-14:00,18:00-22:00; We-Sa 11:00-14:00,18:00-22:30; Su 12:00-15:00,18:00-22:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.naruto.ch/",
+    "website:menu": "https://www.naruto.ch/menu"
+  },
+  "id": 5651561579
+}

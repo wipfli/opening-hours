@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1105228,
+      46.2097973
+    ]
+  },
+  "properties": {
+    "id": 12861122601,
+    "addr:housenumber": "16",
+    "addr:street": "Rue Jean-Simonet",
+    "amenity": "restaurant",
+    "cuisine": "balkan",
+    "email": "info@lysdore.ch",
+    "name": "Lys Dor\u00e9",
+    "opening_hours": "Mo-Sa 10:00-22:00; Su 10:00-20:00",
+    "phone": "+41 76 603 60 68",
+    "self_service": "no",
+    "website": "https://lysdore.ch",
+    "website:menu": "https://lysdore.ch/menu/"
+  },
+  "id": 12861122601
+}

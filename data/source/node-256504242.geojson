@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4572525,
+      47.179013
+    ]
+  },
+  "properties": {
+    "id": 256504242,
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "name": "Restaurant Ganesha",
+    "opening_hours": "Mo-Fr 11:30-14:00,17:00-22:00; Sa,Su 17:00-22:00",
+    "phone": "+41417800257",
+    "takeaway": "yes",
+    "website": "https://www.restaurantganesha.ch"
+  },
+  "id": 256504242
+}

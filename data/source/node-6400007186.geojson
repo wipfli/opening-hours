@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4468655,
+      47.0298643
+    ]
+  },
+  "properties": {
+    "id": 6400007186,
+    "addr:city": "Vilters",
+    "addr:housenumber": "8",
+    "addr:postcode": "7324",
+    "addr:street": "Aeulistrasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Kiesfang",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+41 817255210",
+    "website": "https://www.kiesfang.ch/"
+  },
+  "id": 6400007186
+}

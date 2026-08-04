@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5630221,
+      47.5643051
+    ]
+  },
+  "properties": {
+    "id": 2961150343,
+    "addr:city": "Basel",
+    "addr:housenumber": "216",
+    "addr:postcode": "4055",
+    "addr:street": "Hegenheimerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-19",
+    "indoor_seating": "yes",
+    "name": "Bali Umami Soulfood",
+    "opening_hours": "Mo-Fr 11:30-14:00, Th,Fr 18:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.bali-umami.ch/"
+  },
+  "id": 2961150343
+}

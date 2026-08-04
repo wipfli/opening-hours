@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5956923,
+      47.4098176
+    ]
+  },
+  "properties": {
+    "id": 3268664483,
+    "addr:housenumber": "3",
+    "addr:street": "Richtiplatz",
+    "amenity": "restaurant",
+    "check_date": "2025-07-05",
+    "cuisine": "indian",
+    "drink:beer": "no",
+    "drink:liquor": "no",
+    "drink:mango_lassi": "yes",
+    "drink:wine": "no",
+    "name": "Sahar",
+    "opening_hours": "Mo-Fr 10:00-14:30,17:30-23:00; Sa 12:00-23:00; Su off",
+    "opening_hours:covid19": "off",
+    "outdoor_seating": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://sahar.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3268664483
+}

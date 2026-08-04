@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5802149,
+      47.5496409
+    ]
+  },
+  "properties": {
+    "id": 292057785,
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Sukhothai",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00",
+    "opening_hours:kitchen": "Tu-Fr 11:45-13:30,18:00-22:00; Sa 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 283 20 20",
+    "reservation": "recommended",
+    "smoking": "outside",
+    "website": "http://www.thairestaurant.ch/de/home/"
+  },
+  "id": 292057785
+}

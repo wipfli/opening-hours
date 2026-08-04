@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1405983,
+      46.2062781
+    ]
+  },
+  "properties": {
+    "id": 9156420769,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "5",
+    "addr:postcode": "1201",
+    "addr:street": "Rue du Temple",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "description": "At La r\u00e9plique you can savor a vegetarian cuisine from the market and in season that combines local and foreign flavors, colorful dishes. In the evening, for an aperitif or after a show, you can taste regional products, organic cheeses and plates to share",
+    "diet:organic": "yes",
+    "diet:vegetarian": "yes",
+    "image": "https://saintgervais.ch/wp-content/uploads/PHOTO-2019-10-02-15-04-39.jpg",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "La r\u00e9plique",
+    "opening_hours": "Mo-Fr 12:00-14:00; Tu-Sa 17:30-00:00",
+    "phone": "+41 22 908 20 20",
+    "smoking": "outside",
+    "website": "https://saintgervais.ch/la-replique/"
+  },
+  "id": 9156420769
+}

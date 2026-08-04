@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.699504,
+      47.5113417
+    ]
+  },
+  "properties": {
+    "id": 1479407508,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "214",
+    "addr:postcode": "8408",
+    "addr:street": "W\u00fclflingerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "winterthur@schloss-wuelflingen.ch",
+    "name": "Schloss W\u00fclflingen",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:30-22:00; Sa-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 222 18 67",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.schlosswuelflingen.ch/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Einige R\u00e4ume nur \u00fcber hohe Schwellen erreichbar, Hilfe erforderlich. Lift vorhanden."
+  },
+  "id": 1479407508
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.486242,
+      47.3886212
+    ]
+  },
+  "properties": {
+    "id": 12070188866,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "140a",
+    "addr:postcode": "8048",
+    "addr:street": "Altstetterstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten",
+    "changing_table": "yes",
+    "changing_table:location": "Im ersten Stock vor den WCs. / Upstairs outside of the bathrooms.",
+    "check_date": "2025-10-16",
+    "cuisine": "mexican",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@lataqueria.ch",
+    "indoor_seating": "yes",
+    "name": "La Taqueria",
+    "opening_hours": "Mo-Su 11:30-22:00",
+    "outdoor_seating": "patio",
+    "phone": "+41 43 321 50 50",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lataqueria.ch/",
+    "website:menu": "https://www.lataqueria.ch/menu",
+    "wheelchair": "limited"
+  },
+  "id": 12070188866
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4551664,
+      46.9623208
+    ]
+  },
+  "properties": {
+    "id": 514536836,
+    "addr:full": "Weingartstrasse 32, 3014 Bern",
+    "amenity": "restaurant",
+    "contact:phone": "+41 31 9915151",
+    "cuisine": "italian",
+    "email": "calabrisella.info@gmail.com",
+    "name": "Calabrisella",
+    "opening_hours": "Tu-Su 09:00-23:30; Fr 09:00-00:30; Sa 10:00-00:30; Su 10:00-23:30",
+    "operator": "Hilkka Helinae und Giovanni Pungillo",
+    "website": "https://www.calabrisella-bern.ch/"
+  },
+  "id": 514536836
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8023867,
+      47.3275002
+    ]
+  },
+  "properties": {
+    "id": 662543996,
+    "addr:housenumber": "5",
+    "addr:street": "Ettenhauserstrasse",
+    "amenity": "restaurant",
+    "description": "Mittags stehen drei saisonale Men\u00fcs zur Wahl, das w\u00f6chentlich wechselnde Dessert rundet Ihr Essen ab. Bei sch\u00f6nem Wetter bedienen wir Sie gerne auf der Sonnenterrasse.",
+    "name": "Konter",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "phone": "+41 43 488 15 38",
+    "website": "https://www.restaurant-konter.ch/home/",
+    "wheelchair": "yes"
+  },
+  "id": 662543996
+}

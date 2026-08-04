@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4250393,
+      47.0319563
+    ]
+  },
+  "properties": {
+    "id": 12613580891,
+    "addr:city": "Weggis",
+    "addr:housenumber": "52",
+    "addr:postcode": "6353",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Equo 1706",
+    "opening_hours": "Th-Mo,PH 18:00-23:00; Tu,We off",
+    "website": "https://roessli.ch/de/restaurant/"
+  },
+  "id": 12613580891
+}

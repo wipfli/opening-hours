@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0433238,
+      47.3926864
+    ]
+  },
+  "properties": {
+    "id": 1675844200,
+    "addr:housenumber": "4",
+    "addr:street": "Kirchgasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-29",
+    "cuisine": "spanish",
+    "level": "0",
+    "name": "Sevilla",
+    "opening_hours": "Tu, We 17:00-23:00; Th, Fr 17:00-00:00; Sa 11:00-00:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 62 822 25 21",
+    "reservation": "yes",
+    "smoking": "no",
+    "source": "survey",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.sevilla-aarau.ch",
+    "wheelchair": "no"
+  },
+  "id": 1675844200
+}

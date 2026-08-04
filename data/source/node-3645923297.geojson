@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.538611,
+      47.3762774
+    ]
+  },
   "properties": {
-    "@id": "node/3645923297",
+    "id": 3645923297,
     "amenity": "restaurant",
     "brand": "roots",
     "indoor_seating": "yes",
@@ -11,12 +18,5 @@
     "website": "https://rootsandfriends.com/location/lintheschergasse",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.538611,
-      47.3762774
-    ]
-  },
-  "id": "node-3645923297"
+  "id": 3645923297
 }

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6335811,
+      46.5217909
+    ]
+  },
+  "properties": {
+    "id": 1541546045,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "4",
+    "addr:postcode": "1003",
+    "addr:street": "Rue de la Mercerie",
+    "amenity": "restaurant",
+    "check_date": "2026-06-01",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Caf\u00e9 du Gr\u00fctli",
+    "opening_hours": "Mo-Fr 10:00-14:30, 18:30-23:00; Sa 10:00-15:00, 18:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 312 94 93",
+    "start_date": "1849",
+    "website": "http://www.cafedugruetli.ch/"
+  },
+  "id": 1541546045
+}

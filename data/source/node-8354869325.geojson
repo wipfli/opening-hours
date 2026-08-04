@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.3818446,
+      47.4164063
+    ]
+  },
+  "properties": {
+    "id": 8354869325,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "84",
+    "addr:postcode": "9000",
+    "addr:street": "St.Georgen-Strasse",
+    "amenity": "restaurant",
+    "name": "Adler",
+    "opening_hours": "Tu-Th 08:30-22:00; Fr-Sa 08:30-23:00; Su 09:00-21:00",
+    "website": "https://restaurant-adler-stgeorgen.ch/"
+  },
+  "id": 8354869325
+}

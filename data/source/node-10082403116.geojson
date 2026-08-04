@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6274864,
+      46.5087759
+    ]
+  },
+  "properties": {
+    "id": 10082403116,
+    "addr:postcode": "1006",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "indoor_seating": "yes",
+    "name": "Takayama",
+    "opening_hours": "Mo-Su 18:00-21:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 601 98 88",
+    "website": "https://www.takayama-sushibar-lausanne.ch/"
+  },
+  "id": 10082403116
+}

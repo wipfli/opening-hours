@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1853548,
+      46.1720758
+    ]
+  },
+  "properties": {
+    "id": 11092485665,
+    "addr:city": "Saillon",
+    "addr:housenumber": "25",
+    "addr:postcode": "1913",
+    "addr:street": "Rue du Bourg",
+    "amenity": "restaurant",
+    "name": "Le Nouvo Bourg",
+    "opening_hours": "We-Su 10:00-15:30,18:00-23:30",
+    "phone": "+41 27 744 14 30",
+    "website": "https://www.nouvobourg.ch"
+  },
+  "id": 11092485665
+}

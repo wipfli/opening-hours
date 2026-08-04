@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5393486,
+      47.3722486
+    ]
+  },
   "properties": {
-    "@id": "node/2920747284",
+    "id": 2920747284,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "28",
@@ -15,12 +22,5 @@
     "website": "https://www.widderhotel.com/de/restaurants/soi-28/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5393486,
-      47.3722486
-    ]
-  },
-  "id": "node-2920747284"
+  "id": 2920747284
 }

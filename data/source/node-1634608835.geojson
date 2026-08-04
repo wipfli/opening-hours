@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.141112,
+      46.1843822
+    ]
+  },
+  "properties": {
+    "id": 1634608835,
+    "addr:city": "Carouge GE",
+    "addr:country": "CH",
+    "addr:housename": "Place du march\u00e9",
+    "addr:housenumber": "4",
+    "addr:postcode": "1227",
+    "addr:street": "Place du March\u00e9",
+    "amenity": "restaurant",
+    "email": "info@cafedumarchecarouge.ch",
+    "name": "Caf\u00e9 du March\u00e9",
+    "opening_hours": "Mo-Sa 06:30-23:30; Su 09:30-23:00",
+    "phone": "+41 22 827 16 96",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.cafedumarchecarouge.ch",
+    "wheelchair": "limited",
+    "wheelchair:description": "seuil d'entr\u00e9e=2.5cm; hauteur sous table=72.5cm; WC aux m\u00eame \u00e9tages=non; dimension WC=95x76"
+  },
+  "id": 1634608835
+}

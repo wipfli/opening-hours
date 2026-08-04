@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5408521,
+      47.3740885
+    ]
+  },
   "properties": {
-    "@id": "node/4109042665",
+    "id": 4109042665,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "3",
@@ -15,12 +22,5 @@
     "opening_hours": "Mo-Fr 10:30-21:00; Sa 11:30-21:00",
     "website": "https://konshi-zuerich.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5408521,
-      47.3740885
-    ]
-  },
-  "id": "node-4109042665"
+  "id": 4109042665
 }

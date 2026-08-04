@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5585046,
+      47.3596206
+    ]
+  },
   "properties": {
-    "@id": "node/270797381",
+    "id": 270797381,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "10",
@@ -18,12 +25,5 @@
     "website": "https://www.restaurant-neumuenster.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5585046,
-      47.3596206
-    ]
-  },
-  "id": "node-270797381"
+  "id": 270797381
 }

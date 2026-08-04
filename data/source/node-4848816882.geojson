@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365761,
+      47.3701012
+    ]
+  },
   "properties": {
-    "@id": "node/4848816882",
+    "id": 4848816882,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "40",
@@ -18,12 +25,5 @@
     "website": "https://www.gabbani.com/de/gabbani-zurich/restaurant-gabbani/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5365761,
-      47.3701012
-    ]
-  },
-  "id": "node-4848816882"
+  "id": 4848816882
 }

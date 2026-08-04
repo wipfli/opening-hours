@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7695734,
+      46.1542527
+    ]
+  },
+  "properties": {
+    "id": 664833749,
+    "addr:city": "Ascona",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "6612",
+    "addr:street": "Vicolo Sant'Omobono",
+    "amenity": "restaurant",
+    "cuisine": "regional;italian",
+    "name": "Grotto Baldoria",
+    "opening_hours": "Mo-Su 12:00-14:00, 18:00-22:00",
+    "website": "https://www.grottobaldoria.ch/"
+  },
+  "id": 664833749
+}

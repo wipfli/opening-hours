@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.512105,
+      47.3626932
+    ]
+  },
+  "properties": {
+    "id": 13711711003,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "25",
+    "addr:postcode": "8045",
+    "addr:street": "R\u00e4ffelstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "delivery": "yes",
+    "level": "-1",
+    "name": "Ciao Cucina",
+    "opening_hours": "Tu-Sa 10:30-14:00,16:30-22:30; Su 11:00-22:30",
+    "takeaway": "only",
+    "website": "https://ciaocucina.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 13711711003
+}

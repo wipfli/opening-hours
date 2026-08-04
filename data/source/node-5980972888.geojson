@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6256546,
+      46.9039935
+    ]
+  },
+  "properties": {
+    "id": 5980972888,
+    "addr:city": "Fl\u00fcelen",
+    "addr:housenumber": "14",
+    "addr:postcode": "6454",
+    "addr:street": "Axenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Gotthard Pizzakurier & Restaurant",
+    "opening_hours": "Mo 11:00-13:30,17:00-21:30; Tu11:00-13:30,17:00-21:30; We 11:00-13:30,17:00-21:30; Th 10:45-13:30,16:45-21:30; Fr 10:45-13:30,16:45-21:45; Sa 10:45-21:45; Su 10:45-21:30",
+    "phone": "+41 41 870 70 90",
+    "takeaway": "yes",
+    "website": "https://www.gotthard-pizzakurier-restaurant.ch/colofon"
+  },
+  "id": 5980972888
+}

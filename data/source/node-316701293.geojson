@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6222862,
+      47.4141814
+    ]
+  },
+  "properties": {
+    "id": 316701293,
+    "addr:city": "Dietlikon",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8305",
+    "addr:street": "Moorstrasse",
+    "amenity": "restaurant",
+    "branch": "Dietlikon",
+    "name": "The Butcher",
+    "opening_hours": "Mo-Sa 11:00-23:00, Su 12:00-22:00",
+    "operator": "Fredy Wiesner Gastronomie",
+    "website": "https://www.butcher.ch/zuerich-dietlikon"
+  },
+  "id": 316701293
+}

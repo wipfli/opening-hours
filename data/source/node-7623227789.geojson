@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1190991,
+      46.1689123
+    ]
+  },
+  "properties": {
+    "id": 7623227789,
+    "addr:city": "Plan-les-Ouates",
+    "addr:housenumber": "127",
+    "addr:postcode": "1228",
+    "addr:street": "Route de Saint-Julien",
+    "amenity": "restaurant",
+    "cuisine": "sushi;japanese",
+    "name": "Sushi Time",
+    "opening_hours": "Tu-Fr 11:30-14:00, Mo-Su 18:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.sushitime.ch"
+  },
+  "id": 7623227789
+}

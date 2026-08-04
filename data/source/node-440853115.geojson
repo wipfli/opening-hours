@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9548257,
+      47.5011375
+    ]
+  },
+  "properties": {
+    "id": 440853115,
+    "addr:city": "W\u00e4ngi",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "9545",
+    "addr:street": "Lommiserstrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-03-02",
+    "cuisine": "regional",
+    "email": "info@linde-waengi.ch",
+    "name": "Gasthof Linde",
+    "opening_hours": "Tu-Sa 08:30-24:00; Su 08:30-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 378 12 15",
+    "rooms": "8",
+    "tourism": "hotel",
+    "website": "https://www.linde-waengi.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 440853115
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7593093,
+      47.4935324
+    ]
+  },
+  "properties": {
+    "id": 4095400171,
+    "addr:city": "Winterthur",
+    "addr:housenumber": "28",
+    "addr:postcode": "8404",
+    "addr:street": "Rudolf-Diesel-Strasse",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "asian;chinese",
+    "name": "Echt KungFu",
+    "opening_hours": "Tu-Sa 11:00-14:00, 16:30-22:00; Su 16:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 52 232 01 88",
+    "website": "https://www.echtkungfu.ch/"
+  },
+  "id": 4095400171
+}

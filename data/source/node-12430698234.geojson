@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.78945,
+      47.3705212
+    ]
+  },
+  "properties": {
+    "id": 12430698234,
+    "amenity": "restaurant",
+    "email": "info@lindenbaum.ch",
+    "name": "Lindenbaum",
+    "opening_hours": "Mo-Fr 8:00-18:00",
+    "opening_hours:kitchen": "Mo-Fr 11:30-13:00",
+    "smoking": "no",
+    "website": "https://www.lindenbaum.ch/dienstleistungen/gastronomie"
+  },
+  "id": 12430698234
+}

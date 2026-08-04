@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1530682,
+      46.7991272
+    ]
+  },
+  "properties": {
+    "id": 10099016369,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "30",
+    "addr:postcode": "1700",
+    "addr:street": "Boulevard de P\u00e9rolles",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "info@chengdu-suisse.ch",
+    "indoor_seating": "yes",
+    "name": "Chengdu (\u6210 \u90fd)",
+    "opening_hours": "Mo-Fr 10:30-14:30, 17:15-22:00; Sa 11:00-14:30, 17:15-22:00; Su 11:00-14:30",
+    "outdoor_seating": "no",
+    "phone": "+41 26 321 16 23",
+    "website": "https://chengdu-suisse.ch/",
+    "website:menu": "https://chengdu-suisse.ch/wp-content/uploads/2024/12/Menuplan-des-octobre-2024.pdf"
+  },
+  "id": 10099016369
+}

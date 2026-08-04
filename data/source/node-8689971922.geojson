@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.541114,
+      47.3781912
+    ]
+  },
+  "properties": {
+    "id": 8689971922,
+    "addr:city": "Altst\u00e4tten SG",
+    "addr:housenumber": "2",
+    "addr:postcode": "9450",
+    "addr:street": "Rathausplatz",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "regional;burger",
+    "delivery": "yes",
+    "email": "info@rathaus-restaurant.ch",
+    "level": "0",
+    "mobile": "+41 77 424 73 53",
+    "name": "Restaurant Bar Rathaus",
+    "opening_hours": "Mo-Su 09:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 717 55 00 12",
+    "reservation": "yes",
+    "start_date": "2015-11-28",
+    "takeaway": "yes",
+    "website": "https://rathaus-restaurant.ch/"
+  },
+  "id": 8689971922
+}

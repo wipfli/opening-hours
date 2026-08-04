@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7182767,
+      47.2393879
+    ]
+  },
+  "properties": {
+    "id": 383891068,
+    "amenity": "restaurant",
+    "email": "info@seeperle.ch",
+    "name": "Seeperle",
+    "opening_hours": "Tu - Sa 17:00 - 23:00",
+    "phone": "+41 44 926 12 31",
+    "website": "https://seeperle.ch"
+  },
+  "id": 383891068
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5340237,
+      47.372174
+    ]
+  },
   "properties": {
-    "@id": "node/983601220",
+    "id": 983601220,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "83",
@@ -18,12 +25,5 @@
     "wheelchair": "limited",
     "wheelchair:description": "Eingang \u00fcber Terasse von hinten"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5340237,
-      47.372174
-    ]
-  },
-  "id": "node-983601220"
+  "id": 983601220
 }

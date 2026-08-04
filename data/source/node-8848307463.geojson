@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4161589,
+      46.9302057
+    ]
+  },
+  "properties": {
+    "id": 8848307463,
+    "alt_name": "Pho Saigon B\u00f9i",
+    "amenity": "restaurant",
+    "check_date": "2025-11-14",
+    "cuisine": "vietnamese",
+    "diet:vegetarian": "yes",
+    "mobile": "+41 78 848 91 98",
+    "name": "Pho Saigon Bui",
+    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa 11:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 31 971 61 65",
+    "website": "https://pho-saigon.ch"
+  },
+  "id": 8848307463
+}

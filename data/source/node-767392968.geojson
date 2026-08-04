@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7757466,
+      47.2630625
+    ]
+  },
+  "properties": {
+    "id": 767392968,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gartenbeizli Hasel",
+    "opening_hours": "\"bei guter witterung\"",
+    "opening_hours:covid19": "off",
+    "outdoor_seating": "yes",
+    "phone": "+41 55 244 11 76",
+    "website": "https://www.hasel-hombrechtikon.ch/haselbeizli/",
+    "wheelchair": "yes"
+  },
+  "id": 767392968
+}

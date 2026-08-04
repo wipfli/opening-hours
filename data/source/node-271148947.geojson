@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5486513,
+      47.3661112
+    ]
+  },
   "properties": {
-    "@id": "node/271148947",
+    "id": 271148947,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "27",
     "addr:postcode": "8008",
@@ -19,12 +26,5 @@
     "website": "https://restaurant-weisseskreuz.ch/",
     "wheelchair": "no"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5486513,
-      47.3661112
-    ]
-  },
-  "id": "node-271148947"
+  "id": 271148947
 }

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478329,
+      47.3643245
+    ]
+  },
   "properties": {
-    "@id": "node/5859687885",
+    "id": 5859687885,
     "addr:postcode": "8008",
     "amenity": "restaurant",
     "cuisine": "japanese",
@@ -11,12 +18,5 @@
     "phone": "+41 44 254 57 54",
     "website": "https://www.sakusaku.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5478329,
-      47.3643245
-    ]
-  },
-  "id": "node-5859687885"
+  "id": 5859687885
 }

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9252061,
+      46.1232689
+    ]
+  },
+  "properties": {
+    "id": 12334624901,
+    "addr:housenumber": "36",
+    "addr:postcode": "6802",
+    "addr:street": "Via Cantonale",
+    "amenity": "restaurant",
+    "name": "Albergo Elvezia",
+    "opening_hours": "Mo-Fr 06:30-23:30; Sa 08:00-23:30; Su 18:00-23:30",
+    "phone": "+41 91 946 46 27",
+    "website": "https://albergoelvezia.ch/"
+  },
+  "id": 12334624901
+}

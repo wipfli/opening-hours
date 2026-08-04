@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4537215,
+      46.8369053
+    ]
+  },
+  "properties": {
+    "id": 13340077558,
+    "addr:housenumber": "102",
+    "addr:street": "Via Nova",
+    "amenity": "restaurant",
+    "name": "Restaurant Sternen",
+    "opening_hours": "Tu-Su 07:00-23:00",
+    "phone": "+41 81 633 27 27",
+    "website": "https://www.gartenhotel-sternen.ch/restaurant/restaurant-sternen/"
+  },
+  "id": 13340077558
+}

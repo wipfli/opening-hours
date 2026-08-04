@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0244667,
+      47.334905
+    ]
+  },
+  "properties": {
+    "id": 6834048784,
+    "addr:city": "K\u00f6lliken",
+    "addr:housenumber": "41",
+    "addr:postcode": "5742",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "Texas_Barbecue",
+    "email": "domisbbq@gmx.ch",
+    "name": "Domi`s Barbecue",
+    "opening_hours": "Mo-Sa 18:30-22:30",
+    "phone": "+41 62 724 14 01",
+    "website": "https://www.domis-barbecue.ch/"
+  },
+  "id": 6834048784
+}

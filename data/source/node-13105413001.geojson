@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1299624,
+      46.1966519
+    ]
+  },
+  "properties": {
+    "id": 13105413001,
+    "addr:housenumber": "6",
+    "addr:postcode": "1227",
+    "addr:street": "Chemin de la Gravi\u00e8re",
+    "amenity": "restaurant",
+    "contact:instagram": "barbacoageneve",
+    "cuisine": "barbecue;brazilian;french",
+    "internet_access": "wlan",
+    "name": "BARBACOA BURGERS & GRILL Gen\u00e8ve",
+    "opening_hours": "Mo-Tu 11:00-15:00; We-Sa 11:00-15:00, 18:30-23:30",
+    "phone": "+41223436622",
+    "website": "https://barbacoageneve.ch/",
+    "website:menu": "https://barbacoageneve.ch/#menu"
+  },
+  "id": 13105413001
+}

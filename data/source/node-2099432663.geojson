@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.132495,
+      46.199067
+    ]
+  },
+  "properties": {
+    "id": 2099432663,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "21",
+    "addr:postcode": "1205",
+    "addr:street": "Avenue de Sainte-Clotilde",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "email": "contact@ledarshana.ch",
+    "name": "Le Darshana",
+    "old_name": "Jaipur",
+    "opening_hours": "Mo-Fr 12:00-14:30,18:30-22:30; Sa-Su 18:30-22:30",
+    "phone": "+41 22 329 05 04",
+    "website": "https://www.ledarshana.ch/"
+  },
+  "id": 2099432663
+}

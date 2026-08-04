@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8433849,
+      47.3020449
+    ]
+  },
+  "properties": {
+    "id": 1822590892,
+    "addr:city": "Hinwil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8340",
+    "addr:street": "D\u00fcrntnerstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-02-15",
+    "check_date:opening_hours": "2026-02-15",
+    "cuisine": "regional",
+    "name": "Freihof",
+    "opening_hours": "Tu-Fr 08:30-23:30; Sa 16:00-23:30; PH off",
+    "smoking": "isolated",
+    "website": "https://freihof-hinwil.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1822590892
+}

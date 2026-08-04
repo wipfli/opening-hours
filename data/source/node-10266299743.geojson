@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6410947,
+      46.5571725
+    ]
+  },
+  "properties": {
+    "id": 10266299743,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Oi Ma'",
+    "opening_hours": "Mo, Su 09:00-14:30; Tu 09:00-14:30, 17:00-22:00; We-Sa 09:00-22:00",
+    "opening_hours:kitchen": "Mo, Su 11:30-14:00; Tu-Sa 11:30-14:00, 18:30-22:00",
+    "phone": "+41 21 652 37 44",
+    "website": "https://www.oima.ch/"
+  },
+  "id": 10266299743
+}

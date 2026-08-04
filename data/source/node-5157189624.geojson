@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5848972,
+      47.5598481
+    ]
+  },
+  "properties": {
+    "id": 5157189624,
+    "addr:city": "Basel",
+    "addr:housenumber": "21",
+    "addr:postcode": "4051",
+    "addr:street": "Petersgraben",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "indoor_seating": "yes",
+    "name": "Indian Tandoori Palace",
+    "opening_hours": "Mo-Sa 11:30-14:00,18:00-23:00; Su 18:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 61 261 42 62",
+    "smoking": "outside",
+    "website": "http://www.indiantandooripalace.com"
+  },
+  "id": 5157189624
+}

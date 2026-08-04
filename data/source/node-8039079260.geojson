@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.614699,
+      47.3948315
+    ]
+  },
+  "properties": {
+    "id": 8039079260,
+    "addr:housenumber": "11",
+    "addr:street": "Untere Zelglistrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "W\u00e4ndli",
+    "opening_hours": "PH,Mo-Su 10:00-14:00,17:00-22:00",
+    "phone": "+41 44 821 26 44",
+    "website": "https://www.waendli.ch"
+  },
+  "id": 8039079260
+}

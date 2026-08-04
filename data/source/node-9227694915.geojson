@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1546427,
+      46.8149386
+    ]
+  },
+  "properties": {
+    "id": 9227694915,
+    "addr:city": "Fribourg",
+    "addr:housenumber": "3",
+    "addr:postcode": "1700",
+    "addr:street": "Impasse de la Sous-Station",
+    "alt_name": "Le biergarten, Freiburger Biermanufaktur, Poya FR",
+    "amenity": "restaurant",
+    "cuisine": "beer",
+    "email": "info@freiburger-biermanufaktur.ch",
+    "name": "le Biergarten",
+    "opening_hours": "Th-Fr 16:00-22:00; Sa 11:00-22:00",
+    "phone": "+41 26 411 50 00",
+    "website": "https://www.freiburger-biermanufaktur.ch/fr/le-biergarten"
+  },
+  "id": 9227694915
+}

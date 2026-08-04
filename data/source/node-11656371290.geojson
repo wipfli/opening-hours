@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5370912,
+      47.3679576
+    ]
+  },
   "properties": {
-    "@id": "node/11656371290",
+    "id": 11656371290,
     "addr:city": "Z\u00fcrich",
     "addr:housenumber": "36",
     "addr:postcode": "8002",
@@ -18,12 +25,5 @@
     "website": "https://kailashparbat.ch",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5370912,
-      47.3679576
-    ]
-  },
-  "id": "node-11656371290"
+  "id": 11656371290
 }

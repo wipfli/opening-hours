@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4951684,
+      47.3685002
+    ]
+  },
+  "properties": {
+    "id": 4949132245,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "183",
+    "addr:postcode": "8047",
+    "addr:street": "Triemlistrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-01-20",
+    "cuisine": "international",
+    "delivery": "yes",
+    "name": "Ey-Hof",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 07:00-22:00",
+    "opening_hours:kitchen": "11:30-13:30,17:00-20:30",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "website": "https://ey-hof.ch/",
+    "wheelchair": "no"
+  },
+  "id": 4949132245
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5370098,
+      47.1434321
+    ]
+  },
+  "properties": {
+    "id": 849883438,
+    "amenity": "restaurant",
+    "check_date": "2025-06-28",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "name": "Restaurant Vordergeissboden",
+    "opening_hours": "Mo-Tu,Su 10:00-17:00; We-Sa 10:00-20:30",
+    "outdoor_seating": "yes",
+    "website": "https://www.vordergeissboden.ch/"
+  },
+  "id": 849883438
+}

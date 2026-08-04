@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5780761,
+      47.534738
+    ]
+  },
+  "properties": {
+    "id": 12188275401,
+    "addr:postcode": "8427",
+    "amenity": "restaurant",
+    "check_date": "2026-02-02",
+    "cuisine": "lebanese",
+    "name": "Family House Restaurant",
+    "opening_hours": "Tu-Sa 17:00-22:00; Su 16:00-21:00; PH open",
+    "outdoor_seating": "yes",
+    "website": "https://www.family-house-restaurant.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 12188275401
+}

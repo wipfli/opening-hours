@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5266714,
+      47.3507677
+    ]
+  },
   "properties": {
-    "@id": "node/5137182675",
+    "id": 5137182675,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "15",
@@ -24,12 +31,5 @@
     "website": "http://www.muggenbuehl.ch/",
     "wheelchair": "yes"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5266714,
-      47.3507677
-    ]
-  },
-  "id": "node-5137182675"
+  "id": 5137182675
 }

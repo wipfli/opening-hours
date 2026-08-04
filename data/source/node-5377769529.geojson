@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5838468,
+      47.5538533
+    ]
+  },
+  "properties": {
+    "id": 5377769529,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Kastanienhof",
+    "opening_hours": "Tu-Fr 12:00-14:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://arche-basel.ch/kastanienhof/"
+  },
+  "id": 5377769529
+}

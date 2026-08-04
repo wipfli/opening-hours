@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3018882,
+      47.0783528
+    ]
+  },
+  "properties": {
+    "id": 8691065247,
+    "amenity": "restaurant",
+    "contact:addr": "Bielstrasse 53, 3250 Lyss",
+    "contact:email": "restaurant.sonne.lyss@besonet.ch",
+    "contact:phone": "+41 32 3847171",
+    "name": "Sonne",
+    "opening_hours": "Mo off; Tu-Th 11:00-23:00; Fr-Sa 11:00-23:30; Su 11:00-21:00",
+    "website": "https://restaurantsonnelyss.weebly.com"
+  },
+  "id": 8691065247
+}

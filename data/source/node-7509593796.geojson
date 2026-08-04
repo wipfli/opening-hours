@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6403058,
+      47.7638127
+    ]
+  },
+  "properties": {
+    "id": 7509593796,
+    "amenity": "restaurant",
+    "name": "Beiz B\u00fcttenhardt",
+    "opening_hours": "Th-Su 11:00-18:00",
+    "website": "https://www.beiz-buettenhardt.ch"
+  },
+  "id": 7509593796
+}

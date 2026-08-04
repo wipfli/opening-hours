@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6282024,
+      46.7599688
+    ]
+  },
+  "properties": {
+    "id": 1634592921,
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Panda Wok",
+    "opening_hours": "Tu-Su 11:00-22:00; Mo off",
+    "takeaway": "yes",
+    "website": "https://www.pandawok.ch/"
+  },
+  "id": 1634592921
+}

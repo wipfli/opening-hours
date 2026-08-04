@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7863216,
+      46.3498442
+    ]
+  },
+  "properties": {
+    "id": 1736699438,
+    "addr:city": "Sonogno",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "6637",
+    "addr:street": "Strada de Red\u00f2rta",
+    "amenity": "restaurant",
+    "email": "info@grottoredorta.ch",
+    "name": "Grotto Redorta",
+    "opening_hours": "Mo 10:00-17:00; We-Su 10:00-20:00; Fr,Sa 10:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 91 746 13 34",
+    "website": "http://www.grottoredorta.ch/"
+  },
+  "id": 1736699438
+}

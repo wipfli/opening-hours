@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5774232,
+      47.5586462
+    ]
+  },
+  "properties": {
+    "id": 12799015393,
+    "amenity": "restaurant",
+    "delivery": "no",
+    "email": "hotel@odelya.ch",
+    "name": "Ayledo",
+    "opening_hours": "Mo-Fr 06:30-17:00;Sa 06:30-11:00;Su 07:30-11:00",
+    "operator": "Hotel Odelya",
+    "phone": "+41612602121",
+    "takeaway": "no",
+    "website": "https://www.ayledo.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 12799015393
+}

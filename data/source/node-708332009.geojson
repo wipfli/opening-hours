@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.400649,
+      47.4057501
+    ]
+  },
+  "properties": {
+    "id": 708332009,
+    "addr:city": "Dietikon",
+    "addr:housenumber": "1",
+    "addr:postcode": "8953",
+    "addr:street": "Kronenplatz",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Taverne zur Krone",
+    "opening_hours": "Tu-Fr 11:00-23:00; Sa 09:00-23:00",
+    "outdoor_seating": "yes",
+    "toilets": "yes",
+    "website": "https://www.kronedietikon.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 708332009
+}

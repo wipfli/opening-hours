@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9005193,
+      47.0587775
+    ]
+  },
+  "properties": {
+    "id": 13820362301,
+    "addr:housenumber": "1",
+    "addr:postcode": "2053",
+    "addr:street": "Rue du Bois du P\u00e2quier",
+    "amenity": "restaurant",
+    "check_date": "2026-05-12",
+    "check_date:opening_hours": "2026-05-12",
+    "cuisine": "mediterranean;pizza;turkish",
+    "email": "yildizugo@msn.com",
+    "level": "0",
+    "name": "Restaurant Olive",
+    "opening_hours": "Tu-Su 10:00-14:00,18:00-22:00; Su 10:00-14:00; Mo off",
+    "phone": "+41325015950",
+    "website": "https://restaurantolive.ch/",
+    "website:menu": "https://www.restaurantolive.ch/?page_id=8"
+  },
+  "id": 13820362301
+}

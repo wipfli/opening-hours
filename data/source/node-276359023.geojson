@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7089856,
+      47.0842373
+    ]
+  },
+  "properties": {
+    "id": 276359023,
+    "amenity": "restaurant",
+    "check_date": "2026-07-20",
+    "name": "Saut-du-Doubs",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "phone": "+41 32 932 10 70",
+    "website": "https://www.restaurantlesautdudoubs.ch/"
+  },
+  "id": 276359023
+}

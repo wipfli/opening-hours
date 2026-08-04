@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3681481,
+      47.3629927
+    ]
+  },
+  "properties": {
+    "id": 5746432329,
+    "addr:city": "Rudolfstetten",
+    "addr:housenumber": "23",
+    "addr:postcode": "8964",
+    "addr:street": "Mutschellenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "level": "0",
+    "name": "Chaophraya Thai Take Away",
+    "opening_hours": "Mo-Sa 11:00-14:00",
+    "opening_hours:covid19": "Mo-Sa 11:00-14:00",
+    "phone": "+41 79 276 96 88",
+    "takeaway": "yes",
+    "website": "https://chaophraya.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 5746432329
+}

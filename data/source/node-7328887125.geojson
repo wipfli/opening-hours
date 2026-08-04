@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2724154,
+      47.4952918
+    ]
+  },
+  "properties": {
+    "id": 7328887125,
+    "addr:city": "Kirchdorf AG",
+    "addr:housenumber": "10",
+    "addr:postcode": "5416",
+    "addr:street": "Paradiesstrasse",
+    "amenity": "restaurant",
+    "cuisine": "pizza;regional;turkish",
+    "delivery": "yes",
+    "name": "Restaurant Pizzeria Paradies",
+    "opening_hours": "17:00-22:00",
+    "phone": "+41 56 282 02 24",
+    "smoking": "isolated",
+    "takeaway": "yes",
+    "website": "https://www.restaurantparadieskirchdorf.ch"
+  },
+  "id": 7328887125
+}

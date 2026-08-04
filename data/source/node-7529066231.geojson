@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3729417,
+      46.9440219
+    ]
+  },
+  "properties": {
+    "id": 7529066231,
+    "addr:city": "Bern",
+    "addr:housenumber": "4",
+    "addr:postcode": "3027",
+    "addr:street": "Gilberte-de-Courgenay-Platz",
+    "amenity": "restaurant",
+    "branch": "Bern Westside",
+    "brand": "Yooji's",
+    "check_date": "2022-09-17",
+    "check_date:opening_hours": "2021-09-11",
+    "cuisine": "sushi",
+    "delivery": "yes",
+    "email": "westside@yoojis.ch",
+    "level": "1",
+    "level:ref": "0",
+    "name": "Yooji's",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr 11:00-23:30; Sa 10:00-23:30",
+    "operator": "Two Spice",
+    "payment:mastercard": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 31 333 02 02",
+    "takeaway": "yes",
+    "website": "https://www.yoojis.com/standorte/bern-i-westside/"
+  },
+  "id": 7529066231
+}

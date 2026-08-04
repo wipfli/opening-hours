@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4429432,
+      47.4011268
+    ]
+  },
+  "properties": {
+    "id": 4440630689,
+    "addr:housenumber": "29",
+    "addr:street": "Brandstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-07-13",
+    "indoor_seating": "yes",
+    "name": "Mezze",
+    "name:de": "Mezze",
+    "opening_hours": "Mo-Fr 10:30-22:30, Sa 11:00-23:00, Su,PH 12:00-22:00",
+    "outdoor_seating": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.mezze-lb.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 4440630689
+}

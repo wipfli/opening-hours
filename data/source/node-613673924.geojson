@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4887363,
+      47.3906861
+    ]
+  },
+  "properties": {
+    "id": 613673924,
+    "addr:housenumber": "561",
+    "addr:street": "Hohlstrasse",
+    "amenity": "restaurant",
+    "branch": "Z\u00fcrich Altstetten",
+    "cuisine": "kebab;pizza;turkish",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Akara\u2018s",
+    "opening_hours": "Mo-Th 06:00-00:30, Fr,Sa 06:00-01:00",
+    "outdoor_seating": "yes",
+    "website": "https://akaras.ch/",
+    "wheelchair": "no"
+  },
+  "id": 613673924
+}

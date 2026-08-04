@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7462344,
+      46.0203302
+    ]
+  },
+  "properties": {
+    "id": 4058068494,
+    "addr:city": "Zermatt",
+    "addr:country": "CH",
+    "addr:housenumber": "80",
+    "addr:postcode": "3920",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Whymper-Stube",
+    "opening_hours": "Mo-Su 11:00-18:00+",
+    "phone": "+41 27 967 22 96",
+    "website": "www.whymper-stube.ch"
+  },
+  "id": 4058068494
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8918967,
+      47.1281249
+    ]
+  },
+  "properties": {
+    "id": 1277577625,
+    "addr:city": "Vorderthal",
+    "addr:housenumber": "21",
+    "addr:postcode": "8857",
+    "addr:street": "W\u00e4gitalstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional;swiss",
+    "email": "restaurantschweizerhof21@gmail.com",
+    "name": "Restaurant Schweizerhof",
+    "opening_hours": "Mo-Fr 08:30-22:00; Sa 10:00-22:00; Su 10:00-21:00; PH off",
+    "phone": "+41554461500",
+    "website": "http://www.schweizerhof-vorderthal.ch"
+  },
+  "id": 1277577625
+}

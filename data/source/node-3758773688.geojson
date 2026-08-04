@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5905993,
+      47.5680679
+    ]
+  },
+  "properties": {
+    "id": 3758773688,
+    "addr:city": "Basel",
+    "addr:housenumber": "122",
+    "addr:postcode": "4057",
+    "addr:street": "Klybeckstrasse",
+    "amenity": "restaurant",
+    "capacity": "30",
+    "cuisine": "ethiopian",
+    "indoor_seating": "yes",
+    "name": "Shiro",
+    "opening_hours": "Tu-Th 16:00-23:00; Fr-Sa 17:00-00:00",
+    "outdoor_seating": "no",
+    "smoking": "outside",
+    "takeaway": "no",
+    "website": "https://shiro-basel.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 3758773688
+}

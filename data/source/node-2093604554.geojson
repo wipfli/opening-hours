@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.2585032,
+      46.7925872
+    ]
+  },
+  "properties": {
+    "id": 2093604554,
+    "addr:city": "Sagogn",
+    "addr:housenumber": "5",
+    "addr:postcode": "7152",
+    "addr:street": "Via Vitg dado",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Stiva Grischuna",
+    "opening_hours": "Tu-Sa 09:00-11:00, 16:00-23:00",
+    "phone": "+41 81 921 60 70",
+    "website": "https://www.stiva-grischuna.ch/"
+  },
+  "id": 2093604554
+}

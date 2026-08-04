@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478953,
+      47.0495511
+    ]
+  },
+  "properties": {
+    "id": 5194530712,
+    "addr:city": "Goldau",
+    "addr:housenumber": "2",
+    "addr:postcode": "6410",
+    "addr:street": "Parkstrasse",
+    "amenity": "restaurant",
+    "check_date": "2025-05-28",
+    "cuisine": "pizza;kebab;burger",
+    "name": "Rigi Kebab House",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 41 855 50 60",
+    "website": "https://www.alibaba-goldau.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 5194530712
+}

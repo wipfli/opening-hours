@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6971291,
+      46.5652324
+    ]
+  },
+  "properties": {
+    "id": 9061613313,
+    "addr:housenumber": "12",
+    "addr:street": "Chemin du Chalet de Praroman",
+    "amenity": "restaurant",
+    "name": "Lauraworld",
+    "opening_hours": "Tu-Fr 11:00-15:00; Fr, Sa 18:00-23:00",
+    "phone": "+41 21 903 38 27",
+    "website": "http://lauraworld.ch"
+  },
+  "id": 9061613313
+}

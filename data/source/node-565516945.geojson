@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.6027952,
+      47.5112863
+    ]
+  },
+  "properties": {
+    "id": 565516945,
+    "amenity": "restaurant",
+    "name": "Reinacherhof",
+    "opening_hours": "Mo-Sa 10:00-23:30; Su 10:00-22:00",
+    "phone": "+41 61 711 05 44",
+    "website": "https://www.hotel-reinacherhof.ch"
+  },
+  "id": 565516945
+}

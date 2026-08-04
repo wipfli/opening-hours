@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.419409,
+      47.4515919
+    ]
+  },
+  "properties": {
+    "id": 5305225771,
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "311",
+    "addr:postcode": "9016",
+    "addr:street": "Rorschacher Strasse",
+    "amenity": "restaurant",
+    "name": "Seeblick",
+    "opening_hours": "Mo-Su 07:00-10:00,11:30-14:00,17:30-21:00",
+    "phone": "+41 71 282 0000",
+    "website": "https://oberwaid.ch/hotel/geniessen/restaurant"
+  },
+  "id": 5305225771
+}

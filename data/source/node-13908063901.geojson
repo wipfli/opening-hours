@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1404652,
+      46.8202631
+    ]
+  },
+  "properties": {
+    "id": 13908063901,
+    "addr:housenumber": "58",
+    "addr:postcode": "1763",
+    "addr:street": "Route de Chantemerle",
+    "amenity": "restaurant",
+    "cuisine": "balkan;kebab;turkish",
+    "email": "info@alalouche.ch",
+    "internet_access": "wlan",
+    "name": "\u00c0 la louche",
+    "opening_hours": "Tu-Fr 12:00-14:00, 17:00-22:00; Sa 10:00-23:00; Su 12:00-21:00",
+    "phone": "+41 26 303 45 61",
+    "website": "https://www.alalouche.ch/",
+    "website:menu": "https://www.alalouche.ch/Menu"
+  },
+  "id": 13908063901
+}

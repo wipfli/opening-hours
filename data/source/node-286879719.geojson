@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4440108,
+      46.9474101
+    ]
+  },
+  "properties": {
+    "id": 286879719,
+    "alt_name": "Entrec\u00f4te Caf\u00e9 F\u00e9d\u00e9ral",
+    "amenity": "restaurant",
+    "contact:addr": "B\u00e4renplatz 31, 3011 Bern",
+    "contact:email": "info@entrecote.ch",
+    "contact:fax": "+41 31 3111673",
+    "contact:phone": "+41 31 3111624",
+    "contact:website": "http://www.entrecote.ch",
+    "name": "F\u00e9d\u00e9ral",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "smoking": "no",
+    "source": "survey and website",
+    "website": "http://www.entrecote.ch",
+    "wheelchair": "yes"
+  },
+  "id": 286879719
+}

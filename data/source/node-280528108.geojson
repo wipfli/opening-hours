@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4448525,
+      46.9561265
+    ]
+  },
+  "properties": {
+    "id": 280528108,
+    "alt_name": "Restaurant & Take away OKRA",
+    "amenity": "restaurant",
+    "check_date": "2026-01-03",
+    "contact:addr": "Lorrainestrasse 9, 3013 Bern",
+    "contact:email": "info@okra.ch",
+    "contact:facebook": "https://www.facebook.com/pages/Restaurant-OKRA/127068844074364",
+    "contact:phone": "+41 31 3321844",
+    "cuisine": "indian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Okra",
+    "opening_hours": "Mo off; Tu-Fr 11:00-14:00, 17:30-23:30; Sa-Su 17:30-23:30",
+    "operator": "Okra GmbH",
+    "outdoor_seating": "yes",
+    "source": "survey and website",
+    "takeaway": "yes",
+    "website": "https://www.okra.ch/",
+    "wheelchair": "no"
+  },
+  "id": 280528108
+}

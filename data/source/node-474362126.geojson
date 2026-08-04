@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4627853,
+      46.9412968
+    ]
+  },
+  "properties": {
+    "id": 474362126,
+    "addr:city": "Bern",
+    "addr:housenumber": "93",
+    "addr:postcode": "3006",
+    "addr:street": "Thunstrasse",
+    "alt_name": "Pokhara Nepali Kitchen",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/pokharanepalikitchen",
+    "contact:instagram": "https://www.instagram.com/pokharanepalikitchen/",
+    "cuisine": "nepali",
+    "email": "info@pokharakitchen.ch",
+    "name": "Pokhara Nepali Kitchen",
+    "opening_hours": "Tu-Fr 11:30-14:00,18:00-22:00; Sa 18:00-22:00",
+    "phone": "+41 31 312 93 93",
+    "website": "https://www.pokharakitchen.ch/",
+    "wheelchair": "no"
+  },
+  "id": 474362126
+}

@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.531395,
+      47.3812815
+    ]
+  },
   "properties": {
-    "@id": "node/6765623991",
+    "id": 6765623991,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "80",
@@ -19,12 +26,5 @@
     "website:menu": "https://www.lunchgate.ch/restaurant/spritzwerk/",
     "wheelchair": "limited"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.531395,
-      47.3812815
-    ]
-  },
-  "id": "node-6765623991"
+  "id": 6765623991
 }

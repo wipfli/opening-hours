@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464781,
+      47.4100617
+    ]
+  },
+  "properties": {
+    "id": 310139071,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "354",
+    "addr:postcode": "8050",
+    "addr:street": "Schaffhauserstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-07-03",
+    "check_date:opening_hours": "2025-11-07",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Metzgerhalle",
+    "opening_hours": "Mo-Sa 09:00-23:30; Su 08:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 311 96 17",
+    "toilets:wheelchair": "yes",
+    "website": "https://metzgerhalle-oerlikon.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 310139071
+}

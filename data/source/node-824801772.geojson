@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4382717,
+      46.9475754
+    ]
+  },
+  "properties": {
+    "id": 824801772,
+    "addr:housenumber": "8",
+    "addr:street": "Bubenbergplatz",
+    "amenity": "restaurant",
+    "check_date": "2024-12-24",
+    "contact:addr": "Bubenbergplatz 8, 3011 Bern",
+    "contact:email": "info@cavallostar.ch",
+    "contact:phone": "+41 31 3117679",
+    "cuisine": "italian;pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "level": "1",
+    "name": "Cavallo Star",
+    "opening_hours": "Mo-Sa 08:30-23:00; Su 10:00-22:00",
+    "opening_hours:kitchen": "Mo-Sa 11:00-22:30; Su 11:00-21:30",
+    "operator": "Cavallo-Star GmbH",
+    "outdoor_seating": "yes",
+    "takeaway": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.cavallostar.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 824801772
+}

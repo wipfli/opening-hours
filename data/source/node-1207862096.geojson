@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4973137,
+      46.507582
+    ]
+  },
+  "properties": {
+    "id": 1207862096,
+    "addr:city": "Morges",
+    "addr:country": "CH",
+    "addr:housenumber": "90",
+    "addr:postcode": "1110",
+    "addr:street": "Rue Louis de Savoie",
+    "amenity": "restaurant",
+    "cuisine": "japanese;chinese",
+    "name": "Fukuoka",
+    "opening_hours": "Tu-Sa 11:30-14:00, 18:30-22:00; Su 11:30-14:30, 18:30-22:00",
+    "phone": "+41 21 801 26 87",
+    "website": "http://lefukuoka.ch"
+  },
+  "id": 1207862096
+}

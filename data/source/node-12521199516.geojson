@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5333524,
+      47.3632634
+    ]
+  },
   "properties": {
-    "@id": "node/12521199516",
+    "id": 12521199516,
     "addr:housenumber": "11",
     "addr:street": "General-Wille-Strasse",
     "amenity": "restaurant",
@@ -16,12 +23,5 @@
     "payment:debit_cards": "yes",
     "website": "https://www.spoonthaikitchen.ch/enge"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5333524,
-      47.3632634
-    ]
-  },
-  "id": "node-12521199516"
+  "id": 12521199516
 }

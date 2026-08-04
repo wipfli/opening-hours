@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4609222,
+      46.2668084
+    ]
+  },
+  "properties": {
+    "id": 9041171867,
+    "amenity": "restaurant",
+    "name": "Instinct Amazonia",
+    "opening_hours": "Mo-We 18:00-23:00; Th, Su 11:30-15:00, 18:30-00:00; Fr, Sa 11:30-15:00, 18:30-01:00",
+    "phone": "+41 27 458 33 36",
+    "website": "https://www.amazoniarestaurant.ch/"
+  },
+  "id": 9041171867
+}

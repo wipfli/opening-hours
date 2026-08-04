@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9692309,
+      46.2940613
+    ]
+  },
+  "properties": {
+    "id": 9901188005,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2025-06-11",
+    "email": "info@lehasard.ch",
+    "name": "Le Hasard",
+    "opening_hours": "Tu-Fr 08:45-15:00; Sa 11:00-16:00,18:30-23:00",
+    "phone": "+41 24 499 23 69",
+    "website": "https://www.lehasard.ch/"
+  },
+  "id": 9901188005
+}

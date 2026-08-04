@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9502072,
+      46.0048227
+    ]
+  },
+  "properties": {
+    "id": 10217022957,
+    "addr:city": "Lugano",
+    "addr:housenumber": "7",
+    "addr:postcode": "6900",
+    "addr:street": "Piazza Cioccaro",
+    "amenity": "restaurant",
+    "check_date": "2026-01-14",
+    "check_date:opening_hours": "2026-01-14",
+    "cuisine": "sushi",
+    "currency:XBT": "yes",
+    "name": "Level Sushi",
+    "opening_hours": "Tu-Su 11:45-22:30",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "no",
+    "phone": "+41919220808",
+    "website": "https://www.facebook.com/levelsushilugano/"
+  },
+  "id": 10217022957
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.453547,
+      47.282172
+    ]
+  },
+  "properties": {
+    "id": 443097967,
+    "addr:housenumber": "148",
+    "addr:postcode": "8910",
+    "addr:street": "Z\u00fcrichstrasse",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Restaurant Freihof Pizzeria da Galipo",
+    "name:de": "Restaurant Freihof Pizzeria da Galipo",
+    "opening_hours": "Tu-Fr 10:00-14:00, 17:00-23:00; Sa-Su 09:00-23:30",
+    "phone": "+41447601616",
+    "website": "https://www.pizzeria-galipo.ch/"
+  },
+  "id": 443097967
+}

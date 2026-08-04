@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.57397,
+      47.5708898
+    ]
+  },
+  "properties": {
+    "id": 1810731427,
+    "addr:city": "Basel",
+    "addr:housenumber": "121",
+    "addr:postcode": "4056",
+    "addr:street": "Voltastrasse",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2023-03-03",
+    "cuisine": "indian",
+    "indoor_seating": "yes",
+    "name": "Mandir",
+    "opening_hours": "Mo-Fr 11:30-14:00,18:00-23:00; Sa,Su 17:00-23:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.hotel-spalenbrunnen.ch/Restaurant-mandir_5_de.html",
+    "wheelchair": "no"
+  },
+  "id": 1810731427
+}

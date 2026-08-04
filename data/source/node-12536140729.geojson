@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7277886,
+      47.4980708
+    ]
+  },
+  "properties": {
+    "id": 12536140729,
+    "addr:city": "Winterthur",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Don Camillo",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-22:30; Sa 12:00-14:30, 18:00-22:30; Mo 18:00-22:30",
+    "outdoor_seating": "yes",
+    "website": "https://pizzeriadoncamillo.ch/"
+  },
+  "id": 12536140729
+}

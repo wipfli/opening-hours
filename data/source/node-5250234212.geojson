@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1357722,
+      46.2033876
+    ]
+  },
+  "properties": {
+    "id": 5250234212,
+    "addr:housenumber": "9",
+    "addr:street": "Rue du Stand",
+    "amenity": "restaurant",
+    "check_date": "2023-03-30",
+    "description": "Hamburger restaurant",
+    "name": "FMR Funky Monkey Room",
+    "opening_hours": "Mo-Fr 09:00-02:00; Sa 05:00-02:00; Su 05:00-00:00",
+    "phone": "+41227001926",
+    "website": "http://www.fmrbar.ch"
+  },
+  "id": 5250234212
+}

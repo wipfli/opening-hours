@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6426685,
+      46.7796309
+    ]
+  },
+  "properties": {
+    "id": 5878023473,
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "1400",
+    "addr:street": "Rue du Casino",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Le b\u00f8tanik",
+    "opening_hours": "Mo-Fr 10:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 24 525 81 10",
+    "website": "https://www.lebotanik.ch"
+  },
+  "id": 5878023473
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5911914,
+      47.5512924
+    ]
+  },
+  "properties": {
+    "id": 3638026952,
+    "addr:city": "Basel",
+    "addr:housenumber": "33",
+    "addr:postcode": "4051",
+    "addr:street": "Elisabethenstrasse",
+    "amenity": "restaurant",
+    "branch": "Basel",
+    "contact:phone": "+41 61 551 00 14",
+    "cuisine": "italian",
+    "indoor_seating": "yes",
+    "name": "Luigia",
+    "opening_hours": "Mo-Th 11:30-14:00,17:30-22:30; Fr 11:30-14:00,17:30-23:00; Sa 12:00-15:00,17:30-23:00; Su,PH 12:00-15:00,17:30-22:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.luigia.ch/de/restaurant/luigia-basilea/"
+  },
+  "id": 3638026952
+}

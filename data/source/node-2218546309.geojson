@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1819335,
+      46.6216107
+    ]
+  },
+  "properties": {
+    "id": 2218546309,
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "daPap\u00e0",
+    "opening_hours": "We-Su 17:00-23:00; Mo,Tu off",
+    "outdoor_seating": "yes",
+    "source": "knowledge",
+    "website": "https://7132.com/de/gastronomie/7132-dapap%C3%A0"
+  },
+  "id": 2218546309
+}

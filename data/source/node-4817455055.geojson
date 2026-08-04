@@ -1,19 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/4817455055",
-    "addr:city": "Z\u00fcrich",
-    "addr:housenumber": "12",
-    "addr:postcode": "8001",
-    "addr:street": "Stampfenbachstrasse",
-    "amenity": "restaurant",
-    "cuisine": "japanese",
-    "email": "makihauszh@gmail.com",
-    "name": "Maki Haus",
-    "opening_hours": "Mo-Fr 11:30-14:00, Mo-Sa 18:00-22:00",
-    "phone": "+41 44 211 01 01",
-    "website": "https://makihaus.ch/"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -21,5 +7,20 @@
       47.37828
     ]
   },
-  "id": "node-4817455055"
+  "properties": {
+    "id": 4817455055,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "12",
+    "addr:postcode": "8001",
+    "addr:street": "Stampfenbachstrasse",
+    "amenity": "restaurant",
+    "check_date": "2026-04-24",
+    "cuisine": "japanese",
+    "email": "makihauszh@gmail.com",
+    "name": "Maki Haus",
+    "opening_hours": "Mo-Fr 11:30-14:30,18:00-21:00; Sa 18:00-21:00; Su off",
+    "phone": "+41 44 211 01 01",
+    "website": "https://makihaus.ch/"
+  },
+  "id": 4817455055
 }

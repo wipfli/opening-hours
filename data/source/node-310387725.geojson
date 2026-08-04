@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6608376,
+      46.5435104
+    ]
+  },
+  "properties": {
+    "id": 310387725,
+    "addr:city": "Epalinges",
+    "addr:housenumber": "2",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin des Croisettes",
+    "amenity": "restaurant",
+    "diet:seasonal": "yes",
+    "indoor_seating": "yes",
+    "name": "L'Union",
+    "opening_hours": "Mo-Tu 07:00-15:00; We-Fr 07:00-22:00; Sa 09:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 654 41 00",
+    "tourism": "hotel",
+    "website": "https://restaurant-lunion-epalinges.jimdosite.com/"
+  },
+  "id": 310387725
+}

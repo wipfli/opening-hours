@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.472179,
+      46.9714532
+    ]
+  },
+  "properties": {
+    "id": 291587420,
+    "addr:city": "Ittigen",
+    "addr:country": "CH",
+    "addr:housenumber": "140",
+    "addr:postcode": "3063",
+    "addr:street": "Papierm\u00fchlestrasse",
+    "alt_name": "Restaurant Bellevue Ittigen",
+    "amenity": "restaurant",
+    "check_date": "2025-10-27",
+    "contact:email": "contact@bellevue-ittigen.ch",
+    "contact:fax": "+41 31 9217713",
+    "contact:phone": "+41 31 9217712",
+    "contact:website": "http://www.bellevue-ittigen.ch/kontakt",
+    "name": "Bellevue",
+    "opening_hours": "Mo-Fr 11:00-23:30; Sa-Su off",
+    "operator": "bellevue ittigen gmbh",
+    "source": "survey and website",
+    "website": "https://www.bellevue-ittigen.ch/"
+  },
+  "id": 291587420
+}

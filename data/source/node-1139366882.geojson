@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5210169,
+      47.3931636
+    ]
+  },
+  "properties": {
+    "id": 1139366882,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "8037",
+    "addr:street": "Breitensteinstrasse",
+    "amenity": "restaurant",
+    "check_date": "2024-08-14",
+    "cuisine": "indian",
+    "email": "info@indian-bbq.ch",
+    "name": "Indian BBQ",
+    "opening_hours": "Mo-Fr 11:30-14:00; Mo-Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 725 58 58",
+    "self_service": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.indian-bbq.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1139366882
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4198141,
+      46.9328294
+    ]
+  },
+  "properties": {
+    "id": 6206462087,
+    "addr:city": "Liebefeld",
+    "addr:housenumber": "27",
+    "addr:postcode": "3097",
+    "addr:street": "Waldeggstrasse",
+    "alt_name": "Dreig\u00e4nger Second Hand Shop",
+    "amenity": "restaurant",
+    "contact:email": "info@dreigaenger.ch",
+    "contact:facebook": "https://www.facebook.com/dreigaenger/",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Dreig\u00e4nger",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 31 979 70 70",
+    "takeaway": "yes",
+    "website": "https://dreigaenger.ch",
+    "wheelchair": "yes"
+  },
+  "id": 6206462087
+}

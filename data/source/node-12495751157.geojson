@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0024774,
+      45.9073061
+    ]
+  },
+  "properties": {
+    "id": 12495751157,
+    "amenity": "restaurant",
+    "email": "info@peonia.ch",
+    "inscription": "OSTERIA CON ALLOGGIO LA PEONIA",
+    "name": "Osteria La Peonia",
+    "opening_hours": "Apr 01 - Oct 31",
+    "phone": "+41 91 6469888",
+    "tourism": "guest_house",
+    "website": "https://www.peonia.ch/"
+  },
+  "id": 12495751157
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8474627,
+      46.8565076
+    ]
+  },
+  "properties": {
+    "id": 8849215445,
+    "amenity": "restaurant",
+    "email": "restaurant@la-plage.ch",
+    "name": "La Plage",
+    "opening_hours": "Mar-Oct",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 663 18 85",
+    "website": "http://la-plage.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 8849215445
+}

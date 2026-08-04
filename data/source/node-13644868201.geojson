@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.152097,
+      46.194766
+    ]
+  },
+  "properties": {
+    "id": 13644868201,
+    "addr:housenumber": "8b",
+    "addr:street": "Avenue de Champel",
+    "amenity": "restaurant",
+    "check_date": "2026-03-13",
+    "check_date:opening_hours": "2026-03-13",
+    "cuisine": "burger;ice_cream;pancake",
+    "name": "La Cabane",
+    "opening_hours": "Mo-Fr 07:30-20:00",
+    "phone": "+41223469122",
+    "website": "https://www.cabanechampel.ch/"
+  },
+  "id": 13644868201
+}

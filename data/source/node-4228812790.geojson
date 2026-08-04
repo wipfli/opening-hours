@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3026263,
+      47.0509927
+    ]
+  },
+  "properties": {
+    "id": 4228812790,
+    "addr:city": "Luzern",
+    "addr:housenumber": "11",
+    "addr:postcode": "6003",
+    "addr:street": "Reusssteg",
+    "amenity": "restaurant",
+    "capacity": "75-130",
+    "cuisine": "greek;mediterranean;seafood;chicken;take_away",
+    "delivery": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Ammos",
+    "opening_hours": "Su-Tu 11:30+; Tu off",
+    "outdoor_seating": "yes",
+    "phone": "+41 41 240 00 88",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.ammos.ch"
+  },
+  "id": 4228812790
+}

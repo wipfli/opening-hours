@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5886898,
+      47.5551319
+    ]
+  },
+  "properties": {
+    "id": 567050965,
+    "addr:city": "Basel",
+    "addr:housenumber": "76",
+    "addr:postcode": "4001",
+    "addr:street": "Gerbergasse",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Mister Wong",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr, Sa 11:00-00:00; Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "https://www.misterwong.ch/filialen/basel-gerbergasse",
+    "wheelchair": "limited"
+  },
+  "id": 567050965
+}

@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1501592,
+      47.1173159
+    ]
+  },
+  "properties": {
+    "id": 32851853,
+    "amenity": "restaurant",
+    "name": "Sternen",
+    "opening_hours": "Su-Th 08:00-23:00;Fr-Sa 08:00-24:00",
+    "phone": "+41 55 614 11 77",
+    "tourism": "hotel",
+    "website": "https://www.sternen-obstalden.ch/"
+  },
+  "id": 32851853
+}

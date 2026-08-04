@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4428061,
+      46.9500934
+    ]
+  },
+  "properties": {
+    "id": 8199621997,
+    "addr:city": "Bern",
+    "addr:housenumber": "29",
+    "addr:postcode": "3011",
+    "addr:street": "Speichergasse",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "email": "info@qin-restaurant.ch",
+    "name": "Qin",
+    "name:zh": "\u79e6",
+    "opening_hours": "Mo-We 11:30-13:30, 18:00-20:30; Th-Fr 11:30-14:00, 18:00-22:00; Sa 17:00-22:00; Su off",
+    "phone": "+41 31 312 2180",
+    "website": "https://www.qin-restaurant.ch"
+  },
+  "id": 8199621997
+}

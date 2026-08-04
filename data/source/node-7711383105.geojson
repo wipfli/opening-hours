@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8207843,
+      47.2292333
+    ]
+  },
+  "properties": {
+    "id": 7711383105,
+    "addr:city": "Rapperswil",
+    "addr:housenumber": "4",
+    "addr:postcode": "8640",
+    "addr:street": "Z\u00fcrcherstrasse",
+    "alt_name": "Migros Restaurant Sonnenhof",
+    "amenity": "restaurant",
+    "branch": "Rapperswil Sonnenhof",
+    "brand": "Migros Restaurant",
+    "brand:wikidata": "Q111803848",
+    "cuisine": "international",
+    "level": "1",
+    "name": "Migros Restaurant",
+    "opening_hours": "Mo-Sa 08:00-15:00; PH off",
+    "operator": "Genossenschaft Migros Z\u00fcrich",
+    "website": "https://filialen.migros.ch/de/migros-restaurant-rapperswil-sonnenhof"
+  },
+  "id": 7711383105
+}

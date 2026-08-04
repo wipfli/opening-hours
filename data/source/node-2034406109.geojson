@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6352703,
+      47.6996341
+    ]
+  },
+  "properties": {
+    "id": 2034406109,
+    "amenity": "restaurant",
+    "name": "Gasthaus zum Adler",
+    "opening_hours": "Tu-Sa 08:30-23:00; Su, PH 09:00-22:00; Mo off",
+    "phone": "+41 52 625 55 15",
+    "website": "https://www.gasthaus-adler.ch/index.php?id=2"
+  },
+  "id": 2034406109
+}

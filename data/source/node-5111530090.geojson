@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9378325,
+      46.3173096
+    ]
+  },
+  "properties": {
+    "id": 5111530090,
+    "addr:city": "Aigle",
+    "addr:housenumber": "4",
+    "addr:postcode": "1860",
+    "addr:street": "Chemin Sous le Grand-Pr\u00e9",
+    "amenity": "restaurant",
+    "name": "Migros",
+    "opening_hours": "Mo 08:30-18:30; Tu-Th 08:00-18:30; Fr 08:00-21:00; Sa 07:30-17:00; Su,PH closed",
+    "phone": "+41 585735180",
+    "website": "https://www.migros.ch"
+  },
+  "id": 5111530090
+}

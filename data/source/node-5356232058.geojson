@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3004792,
+      46.795772
+    ]
+  },
+  "properties": {
+    "id": 5356232058,
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Gabriel",
+    "opening_hours": "Tu-Sa 18:00-20:30",
+    "outdoor_seating": "yes",
+    "phone": "+41 81 864 11 52",
+    "service:bicycle:charging": "yes",
+    "service:bicycle:charging:access": "customers",
+    "tourism": "hotel",
+    "website": "https://www.hotel-gabriel.ch/",
+    "wikidata": "Q112014053"
+  },
+  "id": 5356232058
+}

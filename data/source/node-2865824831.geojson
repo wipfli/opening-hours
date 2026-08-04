@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5004329,
+      47.3918896
+    ]
+  },
+  "properties": {
+    "id": 2865824831,
+    "addr:city": "Z\u00fcrich",
+    "addr:housenumber": "1",
+    "addr:postcode": "8048",
+    "addr:street": "Aargauerstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "indoor_seating": "yes",
+    "name": "Restaurant Markthalle",
+    "opening_hours": "Mo-Fr 07:00-10:00,11:00-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 44 272 77 34",
+    "website": "https://restaurant-markthalle.zuerich/"
+  },
+  "id": 2865824831
+}

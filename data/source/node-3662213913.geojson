@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8963718,
+      47.5547915
+    ]
+  },
+  "properties": {
+    "id": 3662213913,
+    "amenity": "restaurant",
+    "cuisine": "american;mexican;tex-mex",
+    "level": "0",
+    "name": "US-Mex",
+    "opening_hours": "Mo-Th 11:30-14:00, 17:00-23:00; Sa 11:30-23:00; Su 11:30-22:00",
+    "opening_hours:kitchen": "Mo-Th 11:30-13:30, 17:00-22:30; Sa 11:30-22:30; Su 11:30-21:30",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "website": "https://www.usmex.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3662213913
+}

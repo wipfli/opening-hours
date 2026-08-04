@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5161558,
+      47.375895
+    ]
+  },
   "properties": {
-    "@id": "node/5325690372",
+    "id": 5325690372,
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
     "addr:housenumber": "248",
@@ -15,12 +22,5 @@
     "outdoor_seating": "no",
     "website": "https://www.mitundohne-kebab.ch/"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5161558,
-      47.375895
-    ]
-  },
-  "id": "node-5325690372"
+  "id": 5325690372
 }

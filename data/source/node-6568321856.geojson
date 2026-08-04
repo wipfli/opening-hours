@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2543972,
+      47.3877889
+    ]
+  },
+  "properties": {
+    "id": 6568321856,
+    "addr:housenumber": "1",
+    "addr:street": "Poststrasse",
+    "amenity": "restaurant",
+    "name": "Dubach-Haus",
+    "opening_hours": "Mo-Th 17:30-23:30, 09:00-18:00; Fr 17:30-00:00",
+    "phone": "+41 56 555 80 66",
+    "website": "https://www.5607dubach.ch"
+  },
+  "id": 6568321856
+}

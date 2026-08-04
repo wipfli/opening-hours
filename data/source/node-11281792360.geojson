@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9822169,
+      45.8649715
+    ]
+  },
+  "properties": {
+    "id": 11281792360,
+    "addr:city": "Mendrisio",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "6850",
+    "addr:street": "Via Alfonso Turconi",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Fior di Pizza",
+    "opening_hours": "Mo-Fr 08:30-14:00,18:30-22:00; Sa,Su 18:30-22:00",
+    "phone": "+41 91 223 09 61",
+    "takeaway": "yes",
+    "website": "https://fior-di-pizza.digitalone.site/"
+  },
+  "id": 11281792360
+}

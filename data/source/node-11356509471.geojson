@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.5844253,
+      46.5341615
+    ]
+  },
+  "properties": {
+    "id": 11356509471,
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2026-02-10",
+    "name": "Chez CFF",
+    "opening_hours": "Mo-Fr 07:30-14:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 515 71 02",
+    "takeaway": "yes",
+    "website": "https://www.zfv.ch/fr/se-restaurer/sbb-restaurant-dufour",
+    "website:menu": "https://app.food2050.ch/fr/v2/zfv/sbb/sbb-dufour/menu-du-midi/menu/weekly.pdf"
+  },
+  "id": 11356509471
+}

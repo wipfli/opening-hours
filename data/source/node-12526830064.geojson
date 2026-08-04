@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2288351,
+      46.6038519
+    ]
+  },
+  "properties": {
+    "id": 12526830064,
+    "amenity": "restaurant",
+    "name": "Restaurant du Centre Sportif",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su,PH 08:00-21:00",
+    "phone": "+41 21 845 73 16",
+    "website": "https://www.centresportif.ch/restaurant"
+  },
+  "id": 12526830064
+}

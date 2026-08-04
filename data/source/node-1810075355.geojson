@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7856709,
+      46.9011406
+    ]
+  },
+  "properties": {
+    "id": 1810075355,
+    "amenity": "restaurant",
+    "check_date": "2025-06-07",
+    "cuisine": "japanese",
+    "name": "Kob\u00e9",
+    "opening_hours": "Tu-Sa 11:45-14:15, 18:30-22:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+41 32 544 22 44",
+    "website": "https://restaurant-kobe.ch/"
+  },
+  "id": 1810075355
+}

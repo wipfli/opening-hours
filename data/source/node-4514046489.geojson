@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0868159,
+      47.1308379
+    ]
+  },
+  "properties": {
+    "id": 4514046489,
+    "addr:housenumber": "1",
+    "addr:postcode": "8872",
+    "addr:street": "Seeflechsenstrasse",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Landgasthof Bi\u00e4sche",
+    "opening_hours": "We-Su 10:00-22:00",
+    "phone": "+41556161551",
+    "website": "https://biaesche.ch/"
+  },
+  "id": 4514046489
+}

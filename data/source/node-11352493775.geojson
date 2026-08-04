@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4984989,
+      47.3923769
+    ]
+  },
+  "properties": {
+    "id": 11352493775,
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "imbisstransit@hotmail.com",
+    "name": "Wirtschaft zum Transit",
+    "opening_hours": "We-Fr 11:30-23:00",
+    "phone": "+41 44 419 00 12",
+    "website": "https://wirtschaftzumtransit.wordpress.com/"
+  },
+  "id": 11352493775
+}

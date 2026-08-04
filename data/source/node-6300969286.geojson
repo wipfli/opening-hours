@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.3904218,
+      46.9415515
+    ]
+  },
+  "properties": {
+    "id": 6300969286,
+    "amenity": "restaurant",
+    "cuisine": "regional;burger",
+    "diet:vegetarian": "yes",
+    "name": "Restaurant Tramway",
+    "opening_hours": "We-Su 17:00+; Mo, Tu off",
+    "website": "https://www.tramway.ch/"
+  },
+  "id": 6300969286
+}

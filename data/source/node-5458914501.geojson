@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.9103242,
+      46.4313794
+    ]
+  },
+  "properties": {
+    "id": 5458914501,
+    "addr:city": "Montreux",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "1820",
+    "addr:street": "Grand'Rue",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "diet:vegetarian": "yes",
+    "name": "Dolce Vita",
+    "opening_hours": "Mo-Sa 08:00-23:00; Su 09:00-23:00",
+    "opening_hours:kitchen": "Mo-Su 11:30-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 21 963 09 65",
+    "takeaway": "yes",
+    "website": "https://dolce-restaurant.ch/"
+  },
+  "id": 5458914501
+}

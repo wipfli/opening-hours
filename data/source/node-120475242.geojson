@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.721418,
+      47.2545703
+    ]
+  },
+  "properties": {
+    "id": 120475242,
+    "addr:city": "St\u00e4fa",
+    "addr:postcode": "8712",
+    "addr:street": "Bergstrasse",
+    "amenity": "restaurant",
+    "name": "sunshine hill american bar & restaurant",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 10:30-22:00",
+    "website": "https://www.sunshinehill.ch/"
+  },
+  "id": 120475242
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4993097,
+      46.8908317
+    ]
+  },
+  "properties": {
+    "id": 1327368519,
+    "addr:city": "Belp",
+    "addr:country": "CH",
+    "addr:housenumber": "30",
+    "addr:postcode": "3123",
+    "addr:street": "Dorfstrasse",
+    "alt_name": "Kreuz Belp",
+    "amenity": "restaurant",
+    "contact:email": "info@kreuz-belp.ch",
+    "contact:facebook": "https://www.facebook.com/pages/Restaurant-und-Konferenzzentrum-Kreuz-Belp/494224017340407",
+    "contact:phone": "+41 31 8194240",
+    "name": "Kreuz",
+    "opening_hours": "Mo-Fr 08:30-23:30; Sa 07:30-23:30; Su off",
+    "operator": "Restaurant Kreuz Sch\u00e4rer (Einzelunternehmen)",
+    "source": "survey and website",
+    "website": "https://www.kreuz-belp.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 1327368519
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1573924,
+      46.2031371
+    ]
+  },
+  "properties": {
+    "id": 4564678336,
+    "addr:city": "Gen\u00e8ve",
+    "addr:housenumber": "8",
+    "addr:street": "Rue des Eaux-Vives",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Noodl",
+    "opening_hours": "Mo-Su 12:00-14:00,18:30-22:30",
+    "phone": "+41 22 736 11 88",
+    "website": "http://www.noodl.ch"
+  },
+  "id": 4564678336
+}

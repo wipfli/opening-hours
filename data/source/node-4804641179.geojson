@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5112981,
+      47.0248149
+    ]
+  },
+  "properties": {
+    "id": 4804641179,
+    "addr:city": "Fl\u00e4sch",
+    "addr:housenumber": "2",
+    "addr:postcode": "7306",
+    "addr:street": "Ausserdorf",
+    "amenity": "restaurant",
+    "name": "Bistro Fl\u00e4sch",
+    "opening_hours": "We, Sa, Su 09:00-17:00; Th, Fr 09:00-22:00",
+    "phone": "+41 81 302 74 51",
+    "website": "https://www.bistro-flaesch.ch/"
+  },
+  "id": 4804641179
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0273926,
+      46.9485154
+    ]
+  },
+  "properties": {
+    "id": 2698005868,
+    "addr:city": "Cudrefin",
+    "addr:housenumber": "4",
+    "addr:postcode": "1588",
+    "addr:street": "Rue de l'Ancienne-Ecole",
+    "amenity": "restaurant",
+    "capacity": "100",
+    "cuisine": "pizza;regional;steak_house;italian;italian_pizza",
+    "name": "Le Chalet",
+    "opening_hours": "We,Th 10:00-14:00,17:00-23:00; Fr 10:00-14:00,17:00-23:30; Sa 10:00-14:30,17:00-23:30; Su 10:00-14:30,17:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+41 26 677 13 61",
+    "source": "website",
+    "takeaway": "yes",
+    "website": "http://www.pizzeria-lechalet.ch"
+  },
+  "id": 2698005868
+}

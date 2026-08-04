@@ -1,20 +1,5 @@
 {
   "type": "Feature",
-  "properties": {
-    "@id": "node/270938371",
-    "addr:city": "Z\u00fcrich",
-    "addr:country": "CH",
-    "addr:housenumber": "8",
-    "addr:postcode": "8001",
-    "addr:street": "M\u00fcnsterhof",
-    "amenity": "restaurant",
-    "name": "Zunfthaus zur Waag",
-    "opening_hours": "Mo-Sa 11:30-14:00, 18:00-22:00; Nov-Dec Su 11:30-14:00",
-    "website": "https://zunfthaus-zur-waag.ch/",
-    "wheelchair": "no",
-    "wikidata": "Q9392139",
-    "wikimedia_commons": "Category:Zunfthaus zur Waag"
-  },
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -22,5 +7,21 @@
       47.3702401
     ]
   },
-  "id": "node-270938371"
+  "properties": {
+    "id": 270938371,
+    "addr:city": "Z\u00fcrich",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8001",
+    "addr:street": "M\u00fcnsterhof",
+    "amenity": "restaurant",
+    "check_date": "2026-04-27",
+    "name": "Zunfthaus zur Waag",
+    "opening_hours": "Mo-Sa 11:30-14:00, 18:00-22:00; Nov-Dec Su 11:30-14:00",
+    "website": "https://zunfthaus-zur-waag.ch/",
+    "wheelchair": "no",
+    "wikidata": "Q9392139",
+    "wikimedia_commons": "Category:Zunfthaus zur Waag"
+  },
+  "id": 270938371
 }

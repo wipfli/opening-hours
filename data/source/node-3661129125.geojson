@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.2371082,
+      46.3829319
+    ]
+  },
+  "properties": {
+    "id": 3661129125,
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Chez Lin",
+    "opening_hours": "Mo-Sa 11:00-20:00",
+    "website": "https://www.sushi-chezlin.ch/accueil_nyon.html"
+  },
+  "id": 3661129125
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5059975,
+      47.4769468
+    ]
+  },
+  "properties": {
+    "id": 3371462822,
+    "addr:postcode": "9400",
+    "amenity": "restaurant",
+    "check_date": "2026-07-06",
+    "check_date:opening_hours": "2026-07-06",
+    "cuisine": "italian;pizza",
+    "internet_access": "wlan",
+    "name": "Pizzeria Gemelli",
+    "opening_hours": "Mo, We-Fr 11:30-23:00; Sa 17:00-23:00; Su 17:00-22:30",
+    "phone": "+4171 855 16 80",
+    "website": "https://www.pizzeria-gemelli.ch/"
+  },
+  "id": 3371462822
+}

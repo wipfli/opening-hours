@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4625241,
+      47.0021775
+    ]
+  },
+  "properties": {
+    "id": 6436640482,
+    "amenity": "restaurant",
+    "cuisine": "regional;pizza;pasta",
+    "name": "Bahnhof Zollikofen",
+    "opening_hours": "Mo-Th 06:00-23:30; Fr 06:00-24:00; Sa 08:00-24:00; Su 08:00-23:30",
+    "phone": "+41 31 911 16 58",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.hotel-bahnhof-zollikofen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 6436640482
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0082211,
+      47.3980798
+    ]
+  },
+  "properties": {
+    "id": 1547020470,
+    "addr:housename": "Restaurant Waage",
+    "addr:housenumber": "9",
+    "addr:postcode": "5015",
+    "addr:street": "Hauptstrasse",
+    "amenity": "restaurant",
+    "cuisine": "american;burger;tex-mex",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Andy's Place",
+    "opening_hours": "Mo-Fr 12:00-14:00,18:00-24:00; Sa-Su 12:00-24:00",
+    "phone": "+41628441698",
+    "website": "https://www.andys-place.ch"
+  },
+  "id": 1547020470
+}

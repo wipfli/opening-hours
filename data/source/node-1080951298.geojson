@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4637208,
+      47.0967803
+    ]
+  },
+  "properties": {
+    "id": 1080951298,
+    "addr:city": "Immensee",
+    "addr:housenumber": "2",
+    "addr:postcode": "6405",
+    "addr:street": "Tieftalweg",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Seerestaurant zum Schl\u00fcssel",
+    "opening_hours": "May 2-Sep 30 Mo, Tu, Th-Sa 11:00-14:30, 18:00-23:00; Su 11:30-22:00",
+    "phone": "+41 41 850 53 53",
+    "website": "https://www.restaurantschluesselamsee.ch/",
+    "wheelchair": "yes"
+  },
+  "id": 1080951298
+}

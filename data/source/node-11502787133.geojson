@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8425692,
+      46.4616917
+    ]
+  },
+  "properties": {
+    "id": 11502787133,
+    "addr:housenumber": "14",
+    "addr:postcode": "1800",
+    "addr:street": "Avenue Paul-Ceresole",
+    "amenity": "restaurant",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100064057241240",
+    "contact:instagram": "chisana.sushi",
+    "cuisine": "japanese;sushi",
+    "diet:vegetarian": "yes",
+    "name": "Chisana Sushi",
+    "opening_hours": "Mo, We-Su 11:30-14:00, 18:00-22:00",
+    "phone": "+41 21 921 32 22",
+    "start_date": "02.2023",
+    "takeaway": "yes",
+    "website": "https://www.chisanasushi.ch/",
+    "website:menu": "https://www.chisanasushi.ch/_files/ugd/b65ce9_c4c9cf82c0224295992e093b84840882.pdf"
+  },
+  "id": 11502787133
+}

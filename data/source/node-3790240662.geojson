@@ -1,7 +1,14 @@
 {
   "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5498961,
+      47.3720996
+    ]
+  },
   "properties": {
-    "@id": "node/3790240662",
+    "id": 3790240662,
     "access": "yes",
     "addr:city": "Z\u00fcrich",
     "addr:country": "CH",
@@ -20,12 +27,5 @@
     "self_service": "yes",
     "website": "https://www.mensa.uzh.ch/de/menueplaene/raemi59.html"
   },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5498961,
-      47.3720996
-    ]
-  },
-  "id": "node-3790240662"
+  "id": 3790240662
 }

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7227943,
+      46.3262821
+    ]
+  },
+  "properties": {
+    "id": 3550707567,
+    "addr:city": "Gampel",
+    "addr:housenumber": "1",
+    "addr:postcode": "3945",
+    "addr:street": "Zur Seilbahn",
+    "amenity": "restaurant",
+    "ele": "1518",
+    "name": "Restaurant Seilbahn",
+    "opening_hours": "We-Mo,PH 08:00-20:00",
+    "outdoor_seating": "yes",
+    "toilets": "yes",
+    "website": "https://www.buffet-jeizinen.ch/",
+    "wheelchair": "limited"
+  },
+  "id": 3550707567
+}

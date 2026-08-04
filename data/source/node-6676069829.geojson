@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6765817,
+      47.2270605
+    ]
+  },
+  "properties": {
+    "id": 6676069829,
+    "addr:city": "W\u00e4denswil",
+    "addr:housenumber": "77",
+    "addr:postcode": "8820",
+    "addr:street": "Seestrasse",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "email": "info@restaurant-lokma.ch",
+    "indoor_seating": "yes",
+    "name": "Lokma",
+    "opening_hours": "Mo-Th 11:00-14:00,17:00-22:00; Fr-Sa 17:00-23:00; Su 17:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+41435576058",
+    "website": "https://www.restaurant-lokma.ch/"
+  },
+  "id": 6676069829
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.272633,
+      47.0325022
+    ]
+  },
+  "properties": {
+    "id": 4353577125,
+    "amenity": "restaurant",
+    "changing_table": "yes",
+    "email": "wichlern.kriens@bluewin.ch",
+    "name": "Wirtshaus Wichlern",
+    "opening_hours": "We,Th 10:30-22:00; Fr,Sa 10:30-23:00; Su 09:00-21:00",
+    "phone": "+41 41 320 54 31",
+    "website": "https://www.wichlern.ch/"
+  },
+  "id": 4353577125
+}

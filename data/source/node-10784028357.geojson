@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8936432,
+      47.5477352
+    ]
+  },
+  "properties": {
+    "id": 10784028357,
+    "amenity": "restaurant",
+    "name": "Kochstudio COOK & FIT",
+    "opening_hours": "Tu-Th 11:30-14:00; PH off",
+    "website": "https://cookandfit.ch/"
+  },
+  "id": 10784028357
+}

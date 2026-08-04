@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1500026,
+      46.2092096
+    ]
+  },
+  "properties": {
+    "id": 5114990143,
+    "addr:housenumber": "13",
+    "addr:postcode": "1201",
+    "addr:street": "Quai du Mont-Blanc",
+    "amenity": "restaurant",
+    "name": "Le Chat Bott\u00e9",
+    "name:fr": "Le Chat Bott\u00e9",
+    "opening_hours": "Mo-Fr 12:00-14:00, 19:00-22:00",
+    "phone": "+41 2 27 16 69 20",
+    "website": "http://www.beau-rivage.ch",
+    "wikidata": "Q90136293"
+  },
+  "id": 5114990143
+}

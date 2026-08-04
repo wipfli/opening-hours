@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7881592,
+      47.5558141
+    ]
+  },
+  "properties": {
+    "id": 9769405204,
+    "addr:city": "Rheinfelden (Baden)",
+    "addr:housenumber": "8",
+    "addr:postcode": "79618",
+    "addr:street": "Rheinbr\u00fcckstra\u00dfe",
+    "amenity": "restaurant",
+    "check_date": "2025-08-19",
+    "cuisine": "italian",
+    "diet:gluten_free": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Ristorante I Fratelli",
+    "opening_hours": "Tu-Sa 11:30-14:00, 18:00-22:00; Su 11:30-15:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 7623 30254",
+    "website": "https://www.ristorante-i-fratelli.de/"
+  },
+  "id": 9769405204
+}

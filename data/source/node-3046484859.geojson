@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7742185,
+      46.1684304
+    ]
+  },
+  "properties": {
+    "id": 3046484859,
+    "addr:city": "Locarno",
+    "addr:housenumber": "13",
+    "addr:postcode": "6600",
+    "addr:street": "Via Vilibaldo Bastoria",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ristorante Costa Azzurra",
+    "opening_hours": "Tu-Su 10:00-24:00",
+    "phone": "+41 91 751 38 02",
+    "website": "https://www.costa-azzurra.ch/"
+  },
+  "id": 3046484859
+}
