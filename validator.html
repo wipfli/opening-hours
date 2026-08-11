@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>LLM Validator</title>
+
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+
+            background: #0d1117;
+            color: #e6edf3;
+        }
+
+        header {
+            background: #161b22;
+            color: #e6edf3;
+            padding: 10px 16px;
+            flex: 0 0 auto;
+            border-bottom: 1px solid #30363d;
+        }
+
+        #main {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .panel {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            border-right: 1px solid #30363d;
+            overflow: hidden;
+        }
+
+        .panel:last-child {
+            border-right: none;
+        }
+
+        .panel h3 {
+            margin: 0 0 10px 0;
+            color: #58a6ff;
+        }
+
+        pre {
+            flex: 1;
+            overflow: auto;
+            margin: 0;
+            padding: 12px;
+
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+
+            white-space: pre-wrap;
+            word-break: break-word;
+
+            font-size: 16px;
+            line-height: 1.45;
+            font-family: Consolas, Menlo, Monaco, monospace;
+        }
+
+        textarea {
+            width: 100%;
+            height: 80px;
+            box-sizing: border-box;
+
+            background: #161b22;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+
+            font-size: 15px;
+            padding: 10px;
+        }
+
+        footer {
+            flex: 0 0 auto;
+            padding: 12px 16px;
+            border-top: 1px solid #30363d;
+            background: #0d1117;
+        }
+
+        .buttons {
+            margin-top: 20px;
+        }
+
+        button {
+            font-size: 15px;
+            padding: 10px 18px;
+            margin-right: 8px;
+
+            border: 1px solid #30363d;
+            border-radius: 6px;
+
+            background: #21262d;
+            color: #e6edf3;
+
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #30363d;
+        }
+
+        button.correct {
+            background: #238636;
+        }
+
+        button.correct:hover {
+            background: #2ea043;
+        }
+
+        button.wrong {
+            background: #da3633;
+        }
+
+        button.wrong:hover {
+            background: #f85149;
+        }
+
+        button.partial {
+            background: #8957e5;
+        }
+
+        button.partial:hover {
+            background: #a371f7;
+        }
+
+        button.unsure {
+            background: #9e6a03;
+        }
+
+        button.unsure:hover {
+            background: #bb8009;
+        }
+
+        #hours {
+            font-size: 16px;
+            flex: 0 0 auto;
+            margin-bottom: 12px;
+        }
+
+        #parsed {
+            flex: 0 0 120px;
+            margin-bottom: 12px;
+        }
+
+        .hours-table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .hours-table td {
+            padding: 4px 8px;
+            border-bottom: 1px solid #30363d;
+        }
+
+        .hours-table td:first-child {
+            width: 70px;
+            font-weight: bold;
+            color: #58a6ff;
+        }
+
+        .textpanel {
+            flex: 1;
+            overflow: auto;
+
+            white-space: pre-wrap;
+            word-break: break-word;
+
+            font-size: 16px;
+            line-height: 1.45;
+            font-family: Consolas, Menlo, Monaco, monospace;
+
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 12px;
+        }
+
+        .highlight {
+            display: block;
+            background: #30363d;
+            margin-left: -12px;
+            margin-right: -12px;
+            padding-left: 12px;
+            padding-right: 12px;
+        }
+
+        .hours-change {
+            background: #6b5200;
+            color: #ffe082;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+        <h2 id="title">Loading...</h2>
+        <div id="progress"></div>
+    </header>
+
+    <div id="main">
+
+        <div class="panel">
+            <h3>OSM Properties</h3>
+            <pre id="geo"></pre>
+        </div>
+
+        <div class="panel">
+            <h3>Website Text</h3>
+            <div id="text" class="textpanel"></div>
+        </div>
+
+        <div class="panel">
+            <h3>LLM Output</h3>
+
+            <pre id="parsed"></pre>
+
+            <div id="hours"></div>
+
+            <h4>Comment</h4>
+
+            <textarea id="comment" placeholder="Comment"></textarea>
+
+            <div class="buttons">
+                <button class="correct" onclick="save('correct')">✓ Correct</button>
+                <button class="wrong" onclick="save('wrong')">✗ Wrong</button>
+                <button onclick="goBack()">← Back</button>
+            </div>
+
+        </div>
+    </div>
+
+    </div>
+
+
+
+    <script>
+
+
+
+        const KEYWORDS = [
+
+            // English
+            "opening",
+            "opening hours",
+            "hours",
+
+            // German
+            "öffnungszeiten",
+            "oeffnungszeiten",
+            "öffnungszeit",
+
+            // French
+            "horaires",
+            "heures d'ouverture",
+
+            // Italian
+            "orari",
+            "orario",
+            "orari di apertura",
+
+            // Common labels
+            "times",
+            "daily",
+        ];
+
+        function escapeHtml(s) {
+
+            return s
+                .replaceAll("&", "&amp;")
+                .replaceAll("<", "&lt;")
+                .replaceAll(">", "&gt;");
+        }
+
+        function renderWebsite(text) {
+
+            let lines = text.split("\n");
+
+            let highlight = new Set();
+
+            for (let i = 0; i < lines.length; i++) {
+
+                const line = lines[i];
+                const lower = line.toLowerCase();
+
+                let score = 0;
+
+                // Headings like "Öffnungszeiten", "Horaires", ...
+                if (KEYWORDS.some(k => lower.includes(k)))
+                    score += 10;
+
+                // Times like 09:00, 9.30, 10h00
+                score += (line.match(/\b\d{1,2}[:.h]\d{2}\b/g) || []).length * 5;
+
+                // Times like 11-22, 11–00
+                score += (line.match(/\b\d{1,2}\s*[-–]\s*\d{1,2}\b/g) || []).length * 5;
+
+                // Common time words
+                if (/\b(uhr|heure|heures|ore)\b/i.test(line))
+                    score += 2;
+
+                // Closed
+                if (/\b(closed|geschlossen|chiuso|fermé|fermée)\b/i.test(line))
+                    score += 3;
+
+                // Day abbreviations / names (German, English, French, Italian)
+                const dayMatches = line.match(
+                    /\b(Mo|Di|Mi|Do|Fr|Sa|So|Mon|Tue|Wed|Thu|Fri|Sat|Sun|Lun|Mar|Mer|Jeu|Ven|Dim)\.?\b/gi
+                );
+
+                if (dayMatches)
+                    score += dayMatches.length * 2;
+
+                // Highlight likely opening-hours sections
+                if (score >= 5) {
+
+                    for (let j = Math.max(0, i - 1);
+                        j <= Math.min(lines.length - 1, i + 2);
+                        j++) {
+
+                        highlight.add(j);
+                    }
+                }
+            }
+
+            let html = "";
+
+            for (let i = 0; i < lines.length; i++) {
+
+                let line = escapeHtml(lines[i]);
+
+                if (highlight.has(i))
+                    html += `<div class="highlight">${line}</div>`;
+                else
+                    html += `<div>${line}</div>`;
+
+            }
+            html += "\n".repeat(100);
+
+            document.getElementById("text").innerHTML = html;
+        }
+
+        let current = null;
+        let history = [];
+
+        async function loadStats() {
+
+            const r = await fetch("/api/stats");
+            const s = await r.json();
+
+            document.getElementById("progress").innerText =
+                `${s.validated} / ${s.total} validated`;
+        }
+
+        async function showRecord(record) {
+
+            current = record;
+
+            document.getElementById("title").innerText =
+                "Record " + current.id;
+
+            document.getElementById("geo").textContent =
+                JSON.stringify(current.geojson.properties, null, 2);
+
+            renderWebsite(current.text);
+            document.getElementById("text").scrollTop = 0;
+
+            document.getElementById("parsed").textContent =
+                current.parsed;
+
+            renderHours(current.parsed);
+
+            document.getElementById("comment").value = "";
+
+            loadStats();
+        }
+
+        async function loadNext() {
+
+            const r = await fetch("/api/next");
+
+            if (current !== null)
+                history.push(current.id);
+
+            const next = await r.json();
+
+            if (next == null) {
+                alert("Everything validated.");
+                return;
+            }
+
+            showRecord(next);
+        }
+
+        async function goBack() {
+
+            if (history.length === 0)
+                return;
+
+            const id = history.pop();
+
+            const r = await fetch("/api/record/" + id);
+            const record = await r.json();
+
+            showRecord(record);
+        }
+
+        const DAYS = ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"];
+
+        function parseHours(str) {
+
+            let result = {
+                Mo: "", Tu: "", We: "", Th: "",
+                Fr: "", Sa: "", Su: ""
+            };
+
+            for (const part of str.split(";")) {
+
+                let p = part.trim();
+                if (!p) continue;
+
+                let m = p.match(/^([A-Za-z,\- ]+)\s+(.*)$/);
+                if (!m) continue;
+
+                let daySpec = m[1];
+                let value = m[2];
+
+                for (const piece of daySpec.split(",")) {
+
+                    let d = piece.trim();
+
+                    if (d.includes("-")) {
+
+                        let [a, b] = d.split("-").map(x => x.trim());
+
+                        let start = DAYS.indexOf(a);
+                        let end = DAYS.indexOf(b);
+
+                        if (start >= 0 && end >= start) {
+                            for (let i = start; i <= end; i++)
+                                result[DAYS[i]] = value;
+                        }
+
+                    } else {
+
+                        if (DAYS.includes(d))
+                            result[d] = value;
+                    }
+                }
+            }
+
+            return result;
+        }
+
+        function renderHours(str) {
+
+            let h = parseHours(str);
+
+            let html = '<table class="hours-table">';
+
+            let previous = null;
+
+            for (const d of DAYS) {
+
+                let value = h[d] || "";
+
+                if (value === "off")
+                    value = "Closed";
+
+                let display = escapeHtml(value);
+
+                if (previous !== null && value !== previous) {
+                    display = `<span class="hours-change">${display}</span>`;
+                }
+
+                html += `<tr><td>${d}</td><td>${display}</td></tr>`;
+
+                previous = value;
+            }
+
+            html += "</table>";
+
+            document.getElementById("hours").innerHTML = html;
+        }
+
+        async function save(status) {
+
+            if (current == null)
+                return;
+
+            await fetch("/api/save", {
+
+                method: "POST",
+
+                headers: {
+                    "Content-Type": "application/json"
+                },
+
+                body: JSON.stringify({
+
+                    id: current.id,
+
+                    status: status,
+
+                    comment: document.getElementById("comment").value
+
+                })
+
+            });
+
+            loadNext();
+        }
+
+        loadNext();
+
+        document.addEventListener("keydown", function (e) {
+
+            // Ignore shortcuts while typing in the comment box
+            if (
+                document.activeElement.tagName === "TEXTAREA" ||
+                document.activeElement.tagName === "INPUT"
+            ) {
+                return;
+            }
+
+            switch (e.key.toLowerCase()) {
+
+                case "j":
+                    e.preventDefault();
+                    save("correct");
+                    break;
+            }
+        });
+
+    </script>
+
+</body>
+
+</html>
