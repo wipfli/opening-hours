@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.winits.ch/winitstakeaway/
+Call log:
+  - navigating to "https://www.winits.ch/winitstakeaway/", waiting until "networkidle"

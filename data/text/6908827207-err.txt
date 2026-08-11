@@ -1,0 +1,3 @@
+Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to "www.larupedisanzeno.ch", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://www.xn--bren-gsteig-l8a.ch/restaurant", waiting until "load"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.domis-barbecue.ch/
+Call log:
+  - navigating to "https://www.domis-barbecue.ch/", waiting until "networkidle"

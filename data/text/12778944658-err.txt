@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cafe-de-la-poste.ch/
+Call log:
+  - navigating to "https://www.cafe-de-la-poste.ch/", waiting until "networkidle"

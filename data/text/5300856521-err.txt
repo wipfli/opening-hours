@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mondial-pizza.ch/
+Call log:
+  - navigating to "https://mondial-pizza.ch/", waiting until "networkidle"

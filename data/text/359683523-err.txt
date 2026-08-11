@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_REFUSED at https://bistro-george.ch/
+Call log:
+  - navigating to "https://bistro-george.ch/", waiting until "networkidle"

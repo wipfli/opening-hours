@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.steakhouse-steinbock.com/
+Call log:
+  - navigating to "http://www.steakhouse-steinbock.com/", waiting until "networkidle"

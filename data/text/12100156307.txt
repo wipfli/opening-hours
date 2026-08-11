@@ -1,0 +1,6 @@
+HOME
+MENU
+LOCATIONS
+INFORMATION
+shopping_cart
+account_circle

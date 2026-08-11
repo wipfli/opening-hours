@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kostbar-uri.ch/
+Call log:
+  - navigating to "http://www.kostbar-uri.ch/", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cernier.happybowl.ch/
+Call log:
+  - navigating to "https://cernier.happybowl.ch/", waiting until "networkidle"

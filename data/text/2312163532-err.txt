@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pom.be.ch/pom/de/index/bevoelkerungsschutz-militaer/kaserne-waffenplatz/betrieb_kasernenanlagenwaffenplatz.html
+Call log:
+  - navigating to "https://www.pom.be.ch/pom/de/index/bevoelkerungsschutz-militaer/kaserne-waffenplatz/betrieb_kasernenanlagenwaffenplatz.html", waiting until "networkidle"

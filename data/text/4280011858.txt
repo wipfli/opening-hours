@@ -1,0 +1,8 @@
+DE
+FR
+IT
+EN
+Configuration error
+Due to a configuration error, the website you are trying to access appears to be unavailable.
+Are you the operator of this website?
+Please check that you have correctly configured this domain and the corresponding website in your Hostpoint Control Panel.

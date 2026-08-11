@@ -1,0 +1,67 @@
+Ihre PLZ
+5425-Schneisingen
+8105-Watt Bi Regensdorf
+8105-Regensdorf
+8106-Regensdorf
+8106-Adlikon
+8107-Buchs ZH
+8108-Dällikon
+8113-Boppelsen
+8153-Rümlang
+8154-Oberglatt
+8155-Niederhasli
+8156-Niederhasli
+8156-Oberhasli
+8157-Dielsdorf
+8158-Regensberg
+8162-Steinmaur
+8164-Bachs
+8165-Schleinikon
+8165-Oberweningen
+8165-Bachs
+8165-Schöfflisdorf
+8166-Niederweningen
+8172-Niederglatt
+8173-Neerach
+8174-Stadel
+8175-Raat
+8175-Windlach
+8181-Höri
+8187-Weiach
+8580-Amriswil
+8580-Amriswil (Biessenhofen)
+8580-Amriswil (Hagenwil b. Amriswil)
+8580-Amriswil (Hefenhofen)
+8580-Amriswil (Sommeri)
+8581-Schocherswil
+8582-Dozwil
+8583-Sulgen
+8585-Langbrickenbach
+8586-Erlen (Andwil TG)
+8586-Erlen (Riedt b. Erlen)
+8586-Erlen (Buch b. Kümmertshausen)
+8586-Erlen (Ennetaach)
+8586-Erlen (Engishofen)
+8586-Erlen (Buchackern)
+8586-Erlen (Kümmertshausen)
+8586-Erlen
+8587-Oberaach
+8588-Zihlschlacht
+8589-Sitterdorf
+8590-Romanshorn
+8592-Uttwil
+8593-Kesswil
+8594-Güttingen
+8595-Altnau
+8599-Salmsach
+9214-Kradolf
+9216-Hohentannen
+9220-Bischofszell
+9220-Arbon
+9308-Lömmenschwil
+9312-Häggenschwill
+9313-Muolen
+9314-Steinebrunn
+9315-Neukirch (Egnach)
+9322-Egnach
+GO !

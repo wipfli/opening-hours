@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CERT_DATE_INVALID at http://laufenbachgossau.ch/
+Call log:
+  - navigating to "http://laufenbachgossau.ch/", waiting until "networkidle"

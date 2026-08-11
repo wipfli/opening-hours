@@ -1,0 +1,40 @@
+CART
+Discounts will be applied in checkout screen
+CHECKOUT
+Home
+Order Online
+AGB
+Impressum
+Daily Menu
+Contact/Reservation
+Info
+Checkout
+Login
+Register
+Home
+Order Online
+Daily Menu
+Contact/Reservation
+Info
+Checkout
+Welcome
+Online order in 3 steps
+Just order now and get it!
+Bestellung erhalten
+Ihre Bestellungen werden sofort an unseren Koch weitergeleitet.
+Vorbereitung
+Wir vorbereiten Ihre Bestellungen mit Priorität
+Lieferung
+Lieferung kann je nach Ihre standort 30 bis 50min. dauern.
+En Guete!
+Buon Appetito!
+ORDER ONLINE
+DAILY MENU
+English
+Deutsche
+Home
+Order Online
+Contact
+Info
+AGB
+Impressum

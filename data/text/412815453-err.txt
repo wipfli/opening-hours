@@ -1,0 +1,3 @@
+Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://molino.ch/fr/restaurants/pizzeria-ristorante-molino-vevey/", waiting until "load"

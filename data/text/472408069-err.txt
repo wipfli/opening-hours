@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://alpwirtschaft-schornenrain.ch/
+Call log:
+  - navigating to "http://alpwirtschaft-schornenrain.ch/", waiting until "networkidle"

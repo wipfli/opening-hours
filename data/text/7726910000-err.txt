@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://baeren-veltheim.ch/
+Call log:
+  - navigating to "https://baeren-veltheim.ch/", waiting until "networkidle"

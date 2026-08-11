@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.la-parenthese.ch/
+Call log:
+  - navigating to "https://www.la-parenthese.ch/", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://biaesche.ch/
+Call log:
+  - navigating to "https://biaesche.ch/", waiting until "networkidle"

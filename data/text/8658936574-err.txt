@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_REFUSED at https://aspirelounge.ch/
+Call log:
+  - navigating to "https://aspirelounge.ch/", waiting until "networkidle"

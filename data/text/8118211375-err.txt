@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kingstandoori.ch/
+Call log:
+  - navigating to "http://www.kingstandoori.ch/", waiting until "networkidle"

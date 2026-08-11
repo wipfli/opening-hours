@@ -1,0 +1,103 @@
+CART
+Discounts will be applied in checkout screen
+Total:
+CHF 0.00
+Home
+About
+AGB
+Impressum
+Contact
+Info
+Checkout
+Login
+Register
+Home
+About
+Contact
+Info
+Checkout
+Previous
+PIDE
+BURGER
+TACOS
+SALATE
+SNACK's
+GETRÄNKE
+DESSERT
+BIER - WEIN
+MENÛ Hamburger
+PIZZA
+LAHMACUN
+DÔNER KEBAP
+TELLER
+BOX FOOD
+VEGI
+PIDE
+BURGER
+TACOS
+SALATE
+SNACK's
+GETRÄNKE
+DESSERT
+BIER - WEIN
+MENÛ Hamburger
+PIZZA
+LAHMACUN
+DÔNER KEBAP
+TELLER
+BOX FOOD
+VEGI
+PIDE
+BURGER
+TACOS
+SALATE
+SNACK's
+GETRÄNKE
+DESSERT
+BIER - WEIN
+Next
+Hamburger Menü
++ Pommes und +Softgetränk
+Burger
+Hamburger Original
+Gourmet Burger
+Cheeseburger
+Ei Burger
+Chilli Burger
+Kebap Burger
+Chicken Tropic mit Ananas
+Hawaii Burger mit Ananas
+Big Burger
+Chicken Burger
+Getränke
+Sprite
+Ice Tea
+Apfelschorle
+Uludag
+Cola Dose 0,33 l
+Ayran
+CHF 22.00
+ADD TO CART
+Kebap Menü
+mit Dosegetränk und Pommes
+Kebap nach Wahl
+Döner Kebap
+Dürüm Kebap
+Getränke
+Sprite
+Ice Tea
+Apfelschorle
+Mineral
+Uludag
+Cola Dose 0,33 l
+Ayran
+CHF 22.00
+ADD TO CART
+English
+Deutsche
+Home
+About
+Contact
+Info
+AGB
+Impressum

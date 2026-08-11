@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_CLOSED at https://hallobeirut.ch/
+Call log:
+  - navigating to "https://hallobeirut.ch/", waiting until "networkidle"

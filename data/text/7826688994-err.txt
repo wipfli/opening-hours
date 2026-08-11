@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://industriehalle-kurier.ch/
+Call log:
+  - navigating to "https://industriehalle-kurier.ch/", waiting until "networkidle"

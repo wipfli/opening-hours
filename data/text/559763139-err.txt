@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_REFUSED at http://www.xn--schwiizerpschtli-vwb.ch/
+Call log:
+  - navigating to "http://www.xn--schwiizerpschtli-vwb.ch/", waiting until "networkidle"

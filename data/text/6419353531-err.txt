@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://restaurant-pasquart.ch/
+Call log:
+  - navigating to "http://restaurant-pasquart.ch/", waiting until "networkidle"

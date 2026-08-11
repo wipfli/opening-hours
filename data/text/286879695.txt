@@ -1,0 +1,278 @@
+Pizza-Special
+NUMERO OTTO
+Zucchinicreme | Basilikum | Provolone | Mozzarella Fior di Latte | Marinierte Zucchini | Haselnusscreme | Zitronengel | Petersilie
+18.00
+Take Away Karte
+Pizze
+MARGHERITA
+Pelati | Mozzarella fior di latte | Basilikum | Olivenöl
+13.00
+MARINARA
+Pelati gialli | Basilikum | Datterino-Tomaten | Salmoriglio | Oregano | Olivenöl
+13.00
+DIAVOLA
+Pelati | Mozzarella fior di latte | Salame piccante | rote Zwiebeln | Salmoriglio
+17.00
+TRENTASETTE
+Pelati | Büffelmozzarella | scharfe Rindersalami
+18.00
+PROSCIUTTO
+Pelati | Basilikum | Mozzarella fior di latte | Prosciutto | Mascarpone | Olivenöl
+17.00
+BASILICO
+Pelati | Basilikum | Stracciatella di burrata | Pistazien | Basilikumpesto
+18.00
+SICILIANA
+Pelati | Basilikum | Caponata| Stracciatella di burrata | Petersilie | rote Zwiebelcreme | Mandeln | Olivenöl
+18.00
+4 STAGIONI GIALLA
+Pelati gialli | Basilikum | Stracciatella di burrata | Prosciutto | Pilze | Oliven-Crumble | Artischocken
+20.00
+NINO
+Pelati | Mozzarella fior di latte | Rucola | Artischocken | Coppa | Olivenöl
+21.00
+WHITE FUNGHI
+Pilzrahmsauce | Mozzarella fior di latte | Zitrone | Pilze | Spinat | Olivenöl
+17.00
+BUFALINA
+Pelati | Basilikum | Büffelmozzarella | Olivenöl
+15.00
+NAPOLI
+Pelati | Basilikum | Büffelmozzarella | Mozzarella fior di latte | Sardellen | Oliven | Oregano | Olivenöl
+17.00
+FILOSOFA
+Pelati | Mozzarella fior di latte | Salame piccante | Gorgonzola | Oliven
+18.00
+BOLO
+Pelati | Basilikum | Rindfleisch-Bolognese | Mozzarella fior di latte | Petersilie | Pfeffer | Olivenöl
+19.00
+PROSCIUTTO E FUNGHI
+Pelati | Basilikum | Mozzarella fior di latte | Prosciutto | Pilze | Olivenöl
+18.00
+BASILICO VEGETALE
+Pelati | Basilikum | Pflanzliche Stracciatella della casa | Pistazien | Basilikumpesto
+18.00
+SICILIANA VEGETALE
+Pelati | Basilikum | Caponata | Pflanzliche Stracciatella della casa | Petersilie | rote Zwiebelcreme | Mandeln | Olivenöl
+18.00
+4 STAGIONI VEGETALE
+Pelati gialli | Basilikum | Pflanzliche Stracciatella della casa | Auberginen | Pilze | Oliven-Crumble | Artischocken
+19.00
+EIGERPLATZ
+Pelati | Pilzcreme | Prosciutto | Stracciatella di burrata | Coppa | Olivenöl
+22.00
+PIZZA-SPECIAL
+siehe Angebot
+vegetarisch
+vegan
+Schwein
+Rind
+Fisch
+Take Away Preise in CHF inkl. MwSt
+Bibite
+Supereistee
+daNino
+33 cl
+4.50
+Yuzu Limo
+Urban Lemonade
+33 cl
+5.50
+Calamansi Limo
+Urban Lemonade
+33 cl
+5.50
+Limonata
+San Pellegrino
+33 cl
+4.00
+Aranciata
+San Pellegrino
+33 cl
+4.00
+Chinotto
+San Pellegrino
+33 cl
+4.00
+Apfelschorle
+Ramseier
+33 cl
+5.00
+Cola | Cola Zero
+Coca Cola
+33 cl
+4.00
+Lola Cola
+Lola
+33 cl
+5.00
+Mate
+Lori‘s
+33 cl
+5.00
+Kombucha Passionsfrucht
+Urban Kombucha
+33 cl
+5.50
+Mineral mit
+San Pellegrino
+33 cl
+3.50
+Mineral ohne
+Acqua Panna
+50 cl
+3.50
+Birra
+Moretti l‘autentica
+offen, Lager, 4.6 %
+30 cl
+4.00
+Moretti l‘autentica
+Flasche, Lager, 4.6 %
+33 cl
+5.00
+Ichnusa non filtrata
+Flasche, unfiltriert, 5 %
+50 cl
+7.50
+Ichnusa limone
+Flasche, Radler, 2.0 %
+33 cl
+5.00
+Jever Pilsener
+Flasche, Pils, 4.9%
+33 cl
+5.50
+Mundaka
+CRAK Brewery, Session IPA, Dose, 4.6%
+33 cl
+6.50
+Orange Gose
+Põhjala, Gose, Dose 5.5 %
+33 cl
+8.00
+Memento vivi
+White Frontier, Himbeer-Sour, Dose, 5.5%
+33 cl
+8.00
+Vino e Bollicine
+Vino della casa - rosso | bianco
+Barbera d‘Asti, 14% | Arneis, Cascine del Frate
+10 cl
+5.00
+25 cl
+12.00
+50 cl
+23.00
+1 litro
+44.00
+Prosecco rosé brut
+Carpenè Malvoti, 12 %
+10 cl
+6.00
+75 cl
+36.00
+Lambrusco
+Corte Manzini, 11 %
+10 cl
+7.00
+75 cl
+42.00
+Cidre
+Heftig, 5.5%
+75 cl
+34.00
+Aperitivo
+Vermouth bianco
+10 cl
+9.00
+Campari Soda
+8.00
+Pastis
+7.00
+Spumoni
+Campari, Grapefruitsaft, Tonic Water
+12.00
+Veronese
+Amaro Montenegro, Tonic Water, Limette
+9.00
+Aperol Spritz piccolino
+Aperol, Prosecco, Olive
+9.00
+Negroni
+Gin, Bitter, Vermouth rosso
+12.00
+Ed’s Rum&Coke
+Ed’s Rum, Coca Cola
+12.00
+Garibaldi
+Campari, Orangensaft
+10.00
+Senza alcool
+Spumoni nulla
+San Bitter, Grapefruitsaft, Tonic Water
+9.00
+Moretti zero
+Flasche, Lager, 0.05 %
+33 cl
+4.50
+ZIPA
+Zeer, Dose, IPA, 0.3 %
+33 cl
+5.50
+Prenzlauer 0
+Põhjala, Himbeer-Sour, Dose, 0.5%
+33 cl
+7.00
+San Bitter
+San Pellegrino
+10 cl
+4.00
+Antipasti
+Olive verdi
+5.00
+Insalata
+7.00
+Dolci
+Panna cotta
+al caramello
+7.00
+Tiramisù
+della casa
+7.00
+Pizza alla nutella
+Nutella vegetale, Pistazien
+slice
+5.00
+ganz
+20.00
+Glace am Stiel
+divese Sorten
+Digestivi
+Limoncello
+della casa
+4 cl
+5.00
+Aluna Coconut
+Kaffelikör
+4 cl
+6.00
+Gualco Grappa
+Barolo / Cortese
+2 cl
+6.00
+Cafe
+Espresso
+3.50
+Take Away Preise in CHF inkl. MwSt
+Öffnungszeiten
+Montag – Freitag
+11.30 – 22:30
+Kontakt
+Pizzeria da Nino
+Belpstrasse 65
+3007 Bern
+info@pizzeriadanino.ch
++41 31 371 11 31
+@pizzeria_danino
+Datenschutz • Impressum

@@ -1,0 +1,6 @@
+Page.evaluate: TypeError: Cannot read properties of undefined (reading 'outerHeight')
+    at scrollTo (https://www.spitaluster.ch/min/f=jslib/jquery-2.1.4/jquery-2.1.4.js,jslib/utils/utils.js,ultimate-images/plugins/underscore.js,jslib/swiper-3.3.1/swiper.js,jslib/fitFontSize/jquery.fitFontSize.js,scripts/plugins/packery.pkgd.js,scripts/plugins/jquery.boundText.js,scripts/plugins/jquery.maskedinput.js,jslib/styledInput-2.0/styledInput.js,scripts/plugins/jquery.mousewheel.js,scripts/plugins/iframeResizer.js,scripts/plugins/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.js,scripts/jquery.tooltipster/js/tooltipster.bundle.js,scripts/iehacks.js,scripts/tabbing.js,scripts/helpers.js,scripts/functions.js,scripts/dummy22.js:1484:83)
+    at eval (eval at evaluate (:290:30), <anonymous>:1:8)
+    at eval (<anonymous>)
+    at UtilityScript.evaluate (<anonymous>:290:30)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)

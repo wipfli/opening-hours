@@ -1,0 +1,153 @@
+Restaurant Golden Mango Lausanne. 92, Avenue de Morges
+shopping_cart
+0
+keyboard_arrow_right
+Next
+keyboard_arrow_left
+Previous
+SPÉCIALITÉ (33)
+POULET (14)
+BOEUF (11)
+CREVETTE (13)
+CANARD (9)
+PORC (10)
+POISSON (2)
+ENTRÉE (11)
+VÉGÉTARIEN (6)
+DESSERT (2)
+BOISSON (6)
+shopping_cart
+77) Khaoman Kai
+Poulet croustillant avec riz vapeur façon Thaïe
+17.50 CHF
+shopping_cart
+78) Sikhong Mu Bai Chaphlu
+Travers de porc au curry et aux feuilles de chaphlu
+22.50 CHF
+shopping_cart
+79) Khao Kha Mu
+Jarrets de porc braisés aux cinq épices
+22.50 CHF
+shopping_cart
+80) Matsaman Nuea
+Boeuf au curry massaman
+22.50 CHF
+shopping_cart
+81) Kuaitiao Nuea Tun
+Soupe de nouilles au boeuf mijoté
+22.50 CHF
+shopping_cart
+82) Kuaitiao Mu Tun
+Soupe de nouilles au porc mijoté
+22.50 CHF
+shopping_cart
+83) Kuaitiao Kua Nuea
+Nouilles sautées au boeuf avec oeuf et ciboule
+21.00 CHF
+shopping_cart
+84) Kuaitiao Kua Khung
+Nouilles sautées au crevettes avec oeuf et ciboule
+22.00 CHF
+shopping_cart
+85) Kuaitiao Kua Kai
+Nouilles sautées au poulet avec oeuf et ciboule
+19.00 CHF
+shopping_cart
+86) Kuaitiao Kua Pet
+Nouilles sautées au canard avec oeuf et ciboule
+21.00 CHF
+shopping_cart
+87) Kuaitiao Kua Mu
+Nouilles sautées au porc avec oeuf et ciboule
+20.00 CHF
+shopping_cart
+88) Kuaitiao Kua Talay
+Nouilles sautées aux fruits de mer avec oeuf et ciboule
+22.00 CHF
+shopping_cart
+89) Kuaitiao Kua Tofu
+Nouilles sautées au tofu avec oeuf et ciboule
+18.00 CHF
+shopping_cart
+90) Kuaitiao Phat Khimao Nuea
+Nouilles sautées au boeuf et basilic
+21.00 CHF
+shopping_cart
+91) Kuaitiao Phat Khimao Kung
+Nouilles sautées aux crevettes et basilic
+22.00 CHF
+shopping_cart
+92) Kuaitiao Phat Khimao Kai
+Nouilles sautées au poulet et basilic
+19.00 CHF
+shopping_cart
+93) Kuaitiao Phat Khimao Pet
+Nouilles sautées au canard et basilic
+21.00 CHF
+shopping_cart
+94) Kuaitiao Phat Khimao Mu
+Nouilles sautées au porc et basilic
+20.00 CHF
+shopping_cart
+95) Kuaitiao Phat Khimao Talay
+Nouilles sautées aux fruits de mer et basilic
+22.00 CHF
+shopping_cart
+96) Kuaitiao Phat Khimao Tofu
+Nouilles sautées au tofu et basilic
+18.00 CHF
+shopping_cart
+97) Kuaitiao Phat Si-io Nuea
+Nouilles sautées au boeuf à la sauce soja, kale et oeuf
+21.00 CHF
+shopping_cart
+98) Kuaitiao Phat Si-io Kung
+Nouilles sautées au crevettes à la sauce soja, kale et oeuf
+22.00 CHF
+shopping_cart
+99) Kuaitiao Phat Si-io Kai
+Nouilles sautées au poulet à la sauce soja, kale et oeuf
+19.00 CHF
+shopping_cart
+100) Kuaitiao Phat Si-io Pet
+Nouilles sautées au canard à la sauce soja, kale et oeuf
+21.00 CHF
+shopping_cart
+101) Kuaitiao Phat Si-io Mu
+Nouilles sautées au porc à la sauce soja, kale et oeuf
+20.00 CHF
+shopping_cart
+102) Kuaitiao Phat Si-io Talay
+Nouilles sautées aux fruits de mer à la sauce soja, kale et oeuf
+22.00 CHF
+shopping_cart
+103) Kuaitiao Phat Si-io Tofu
+Nouilles sautées au tofu à la sauce soja, kale et oeuf
+18.00 CHF
+shopping_cart
+104) Kuaitiao Rat Na Nuea
+Nouilles sautées au boeuf aux légumes en sauce
+21.00 CHF
+shopping_cart
+105) Kuaitiao Rat Na Kung
+Nouilles sautées au crevettes aux légumes en sauce
+22.00 CHF
+shopping_cart
+106) Kuaitiao Rat Na Kai
+Nouilles sautées au poulet aux légumes en sauce
+19.00 CHF
+shopping_cart
+107) Kuaitiao Rat Na Mu
+Nouilles sautées au porc aux légumes en sauce
+20.00 CHF
+shopping_cart
+108) Kuaitiao Rat Na Talay
+Nouilles sautées aux fruits de mer aux légumes en sauce
+22.00 CHF
+shopping_cart
+109) Kuaitiao Rat Na Tofu
+Nouilles sautées au tofu aux légumes en sauce
+18.00 CHF
+Golden Mango restaurant
+92, Avenue de Morges. 1004 Lausanne
+Téléphone : 021 219 22 12 Mobile : 079 375 99 88

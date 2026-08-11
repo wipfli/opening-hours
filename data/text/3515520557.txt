@@ -1,0 +1,323 @@
+Passer au contenu principal
+Accueil
+Menus /菜单
+Resevation
+Menu pour emporter ou sur place
+La carte du vin
+中文菜单
+Menu pour emporter ou sur place
+Entrée
+1.potage maison
+(prix sur place 11.00)
+9 CHF
+Sans gluten
+2. soupe au ravioli de porc
+(prix sur place 11.00)
+9 CHF
+3.Potage aux vermicelles et poulet
+(prix sur place 9.00)
+8 CHF
+3A. soupe poulet au maïs
+(prix sur place 9.00)
+8 CHF
+4.Potage aigre piquant(avec crevettes)
+(Prix sur place 11.00)
+9 CHF
+Piquant
+5.Potage aux fruits de mer
+Prix sur place11.00
+9 CHF
+6.Potage aux crabes et asperges
+(Prix sur place11.00 )
+9 CHF
+7.Salade chinoise
+(Prix sur place9.00 )
+8 CHF
+Sans gluten
+Végétarien
+Végétalien
+8.Salade chinoise au poulet
+(Prix sur place 14.00 )
+13 CHF
+10.Salade aux crevettes géantes
+(Prix sur place 18.00 )
+18 CHF
+11.Rouleaux de printemps 3 pièces
+(Prix sur place10.00 )
+9 CHF
+Végétarien
+Végétalien
+12 Rouleaux Sam-Si (poulet &légumes)
+(Prix sur place 12.00 )
+10 CHF
+13. Raviolis frits
+(Prix sur place 12.00 )
+10 CHF
+14.Travers de porc aux épices
+(Prix sur place 25.00)
+22.50 CHF
+15. Toast aux crevettes et graines de sésame
+15 CHF
+16. Crevettes en beignet 4pieces
+(Prix sur place 9.00 )
+8 CHF
+17. Brioches chinoises à la vapeur au porc laqué
+(Prix sur place 8.00 )
+8 CHF
+19. Ha Kao ( raviolis aux crevettes à la vapeur)
+(Prix sur place 12.00 )
+11 CHF
+20. Sui Mai (raviolis au porc & crevettes à la vapeur)
+(Prix sur place12.00 )
+11 CHF
+20A xia long bao (raviolis au porc)
+(Prix sur place12.00 )
+10 CHF
+21. Wo Tip (raviolis Rôtis au porc)
+(Prix sur place 12.00 )
+10 CHF
+111.samoussa poulet
+10 CHF
+112. Assortiment
+(prix sur place 28.00CHF )
+24 CHF
+poulet
+riz sauté ou nouilles sautées
+Les Plats sont accompagnés du riz nature.
+Changer à riz sauté ou nouilles sautées +4.00
+4 CHF
+22. Poulet sauté au basilic
+(Prix sur place 26.50 )
+21.50 CHF
+23. Poulet aigre-doux à l'ananas frais
+(Prix sur place26.00 )
+21 CHF
+24. Poulet frit aux citrons
+(Prix sur place 26.00 )
+21 CHF
+25. Poulet au curry rouge
+(prix sur place 26.00)
+21 CHF
+Légèrement piquant
+26A .poulet au noix de cajou
+(prix sur place 26.00)
+21 CHF
+26. Poulet aux pousses de bambou et champignons parfumés
+(prix sur place 26.00)
+21 CHF
+27. Brochettes de poulet à la sauce saté
+(prix sur place 26.50)
+22 CHF
+Légèrement piquant
+29. Poulet croustillant aigre-douce et ananas frais
+(prix sur place 26.00)
+21 CHF
+114 poulet piquant Seui-Tsui...
+(Prix sur place24.00 )
+21 CHF
+Canard
+riz sauté ou nouilles sautées
+Les Plats sont accompagnés du riz nature.
+Changer à riz sauté ou nouilles sautées +4.00
+4 CHF
+18. Canard laqué à la pékinoise (entier) et ses crêpes
+(prix sur place 79.00)
+70 CHF
+28. Canard laqué à la cantonaise(le demi canard)
+(prix sur place 31.00)
+27 CHF
+30. Canard aux pousses de bambou et champignons
+(prix sur place 29.00)
+25 CHF
+31. Canard sauté style Sichuan
+(prix sur place 29.00)
+25 CHF
+32. Canard laqué aux citrons
+(prix sur place 31.00)
+27 CHF
+33. Canard aigre-doux à l'ananas frais
+(prix sur place 29.00)
+25 CHF
+Boeuf
+riz sauté ou nouilles sautées
+Les Plats sont accompagnés du riz nature.
+Changer à riz sauté ou nouilles sautées +4.00
+4 CHF
+34. Bœuf aux ciboulettes et gingembre
+(prix sur place 29.00)
+25 CHF
+35. Bœuf sauté à la sauce de Sichuan
+(prix sur place 29.00)
+25 CHF
+36 . Bœuf sauté aux légumes chinois
+(prix sur place 29.00)
+25 CHF
+37A Boeuf curry rouge
+(prix sur place 29.00)
+25 CHF
+37. Bœuf sauté à la sauce saté
+(prix sur place 29.00)
+25 CHF
+38. Aiguillettes de bœuf croustillant
+(prix sur place 29.00)
+26 CHF
+Sans gluten
+39. Bœuf piquant sauté sur plaque chauffante
+(prix sur place 29.00)
+25 CHF
+Piquant
+39A Boeuf basilc
+(prix sur place 29.00)
+25 CHF
+116 Bœuf piquant Seui-Tsui...
+(prix sur place 26.00)
+24 CHF
+Piquant
+Crevette
+riz sauté ou nouilles sautées
+Les Plats sont accompagnés du riz nature.
+Changer à riz sauté ou nouilles sautées +4.00
+4 CHF
+40. 虾 Crevettes sautées au sel et au poivre
+(prix sur place 33.50)
+26 CHF
+41. crevette sichuan
+(prix sur place 33.50)
+26 CHF
+Légèrement piquant
+42. Crevettes aigre-douces à l'ananas frais
+(prix sur place 33.50)
+26 CHF
+44. Crevettes au curry rouge
+(prix sur place 33.50)
+26 CHF
+Légèrement piquant
+45. Crevettes piquantes
+(prix sur place 33.50)
+26 CHF
+Légèrement piquant
+48. crevettes à l'ail
+(prix sur place 33.50)
+26 CHF
+Légèrement piquant
+208. Crevettes sautées à la citronnelle
+(prix sur place 33.50)
+26 CHF
+209. Crevettes sautées au Pat Choi et légumes
+(prix sur place 33.50)
+26 CHF
+210. Crevettes à l'ail et sauce soja
+(prix sur place 33.50)
+26 CHF
+118 Poisson piquantes Seui-Tsui...
+(prix sur place 26.00)
+21 CHF
+Piquant
+117 Crevettes piquantes Seui-Tsui...
+(prix sur place 28.00)
+26 CHF
+Piquant
+212. Bar commun a la vapeur
+(prix sur place 43)
+43 CHF
+Porc & Agneau
+47. Émincé de porc aux pousses de soja
+(prix sur place 26.00)
+22 CHF
+51. Porc frit à la sauce aigre- douce
+(prix sur place 26.00)
+22 CHF
+52. Ma-Po Tofu
+(prix sur place 26.00)
+22 CHF
+207. Aubergine farcie avec haché de porc et crevettes
+(prix sur place 32.00)
+26 CHF
+203. Agneau sauté au gingembre et à l`ail
+(prix sur place 28.00)
+24 CHF
+204. Agneau sauté aux oignons et poivrons, sauté à la sauce haricot noir
+(prix sur place 28.00)
+24 CHF
+205. Agneau piquant sauté sur plaque chauffante
+(prix sur place 28.00)
+24 CHF
+Légèrement piquant
+115. Porc piquant Seui-Tsui...
+(prix sur place 24.00)
+21 CHF
+Piquant
+Nouilles sautées & Riz sauté
+54. Tofu aux champignons parfumés et légumes
+(prix sur place 19.00)
+16 CHF
+Sans gluten
+Végétarien
+56. Légumes sauté à la cantonaise (Lo Han Chai)
+(prix sur place 19.00)
+16 CHF
+Sans gluten
+Végétarien
+67 .Pak choi au champiñon chitaque
+(prix sur place 22.00CHF）
+18 CHF
+69. liseron d'eau
+21 CHF
+58. Nouilles sautées quatre-saisons
+(prix sur place 26.00)
+22 CHF
+60. Nouilles sautées au bœuf
+(prix sur place 23.00)
+19 CHF
+61. Nouilles sautées aux crevettes
+(prix sur place 24.00)
+20 CHF
+62. Riz sauté au poulet
+(prix sur place 18.00)
+15 CHF
+63. Riz sauté a la cantonaise(avec porc)
+(prix sur place 10.00)
+8 CHF
+65. Nouilles sautées aux légumes
+(prix sur place 16 .50)
+14.50 CHF
+Végétarien
+66. Riz sauté aux crevettes
+(prix sur place 22.00)
+18 CHF
+68 . RIZ SAUTÉES AU BOEUF
+(prix sur place 22.00)
+18 CHF
+100. Nouilles sautées au poulet, choux,
+(prix sur place 18.00)
+16 CHF
+101 .Soupe de Nouilles chinoises aux raviolis
+(prix sur place 18.00)
+18 CHF
+102. Pate de riz sauté au bœuf
+(prix sur place 24.00)
+20 CHF
+57. Nouille de riz saute a la mode singapour
+(prix sur place 26)
+21 CHF
+104. Nouilles sautées aux légumes et canard laqué
+(prix sur place 26.00)
+22 CHF
+Nos Menus
+Menu La Jonque 2 personnes
+Entrée : 2*Potage aigre piquant au ravioli ----Travers de porc frits(2pcs) ----Sui Mai(4pcs)
+Plat principal: Poulet sauté au basilic et Canard laqué
+Accompagnement :Riz cantonais ou légumes sautés
+Dessert:Coupe de lychees ou une boule glace à choix
+disponibilité sur demande en avant ( par téléphone) pour les réservations en ligne .
+116 CHF
+Menu «Pékinois » 2 personnes
+Entrée : 2*Potage aux raviolis chinois---Rouleaux Sam-Si(4pcs)
+Plat principal: Peau de canard laqué à la pékinoise
+et ses crêpes (une canard entier )
+Accompagnement :Riz cantonais ou légumes sautés
+Dessert:Coupe de lychees ou une boule glace à choix
+disponibilité sur demande en avant ( par téléphone) pour les réservations en ligne .
+130 CHF
+021 616 55 11
+©2020 par La Jonque. Créé avec Wix.com

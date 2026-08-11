@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.restaurant-le-comptoir.ch/
+Call log:
+  - navigating to "https://www.restaurant-le-comptoir.ch/", waiting until "networkidle"

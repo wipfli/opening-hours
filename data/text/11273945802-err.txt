@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.stadthof.ch/restaurant.html
+Call log:
+  - navigating to "https://www.stadthof.ch/restaurant.html", waiting until "networkidle"

@@ -1,36 +1,70 @@
 import llm
+import json
 
 def parse_text(model, website_text, tags):
-    tag_lines = []
-    for tag in tags.keys():
-        tag_lines.append(f'- {tag}={tags[tag]}')
 
-    prompt = f"""Extract the OpenStreetMap `opening_hours` string from the website content below.
+    if len(website_text) > 5_000:
+        return 'LENGTH_LIMIT_EXCEEDED'
+
+    tag_lines = ''
+    for tag in tags.keys():
+        tag_lines += f'- {tag}={tags[tag]}\n'
+
+    prompt = f"""You are an information extraction system.
+
+Your task is to determine the regular opening hours of exactly one OpenStreetMap venue from the website text.
+
+The venue has the following OpenStreetMap tags:
+
+{tag_lines}
 
 Instructions:
-- Prioritize quality over speculation.
-- Only return an OpenStreetMap opening hours string if you are absolutely confident that it is correct.
-- Do not use ticks around the opening hours string, just put the text on the line without anything around it.
-- Only the last line of your output matters. If you need to correct yourself, put the correct answer on the last line of your output. 
-- Use the OpenStreetMap tags below to find the hours if there are multiple locations or venues on one site.
-- Always state on which days of the week the hours apply.
-- If the venue is closed on certain days, use the word "off". Example "Sa-Su off".
-- Use OpenStreetMap's 2-letter day abbreviations: Mo, Tu, We, Th, Fr, Sa, Su.
-- If a venue is only open by appointment on certain days, you MUST exclude these days from the opening hours string.
-- Some websites use JavaScript to show only the hours for the current day. If you think this could be the case, you MUST return "UNSURE" on the last line.
-- If there are signs of a permanent future closure, return "UNSURE" on the last line.
-- If no hours are found in the website, return "UNSURE" on the last line.
-- If you are unsure what to do, return "UNSURE" on the last line.
-- If you find contradicting opening hours, return "UNSURE" on the last line.
-- Your last output line MUST be either a valid opening hours string or the word "UNSURE". It is NEVER your explanation.
 
-The venue has these OpenStreetMap tags:
-{'\n'.join(tag_lines)}
+1. The website may contain information about multiple locations, food trucks, catering, delivery services, events, or businesses.
+   Only extract opening hours that clearly belong to the venue matching the OpenStreetMap tags.
 
-Website content:
+2. Find the regular weekly opening hours.
+   Ignore:
+   - holiday hours
+   - temporary changes
+   - event schedules
+   - reservation times
+   - delivery hours
+   - kitchen hours
+   - breakfast/lunch specials
+   - opening dates
+   - "today's hours" unless the full weekly schedule is given
+
+3. Convert the extracted schedule into valid OpenStreetMap opening_hours syntax.
+
+4. Every day of the week must be accounted for.
+   Days when the venue is closed must be written using "off".
+   Example:
+   Mo-Fr 11:00-14:00; Sa-Su off
+
+5. If any guessing would be required, return UNSURE.
+   This includes:
+   - no opening hours found
+   - multiple conflicting schedules
+   - multiple possible matching venues
+   - incomplete weekly schedule
+   - uncertain conversion to OSM syntax
+   - indications that the venue has permanently closed
+
+6. Think through the extraction internally, but DO NOT output your reasoning.
+
+Output requirements:
+
+- Output exactly ONE line.
+- The line must contain either:
+    - a valid OpenStreetMap opening_hours string
+    - UNSURE
+- Do not output any explanation or additional text.
+
+Website text:
+
 {website_text}
 """
-
     model = llm.get_model(model)
     response = model.prompt(prompt)
     return response.text()
@@ -46,10 +80,10 @@ if __name__ == '__main__':
         Zollstrasse 56
         8005 Zürich
     '''
-    model = 'claude-opus-4.6'
+    model = 'openrouter/qwen/qwen3.8-max'
     tags = {
         'amenity': 'restaurant',
         'wheelchair': 'yes',
     }
-    result = parse_text(model, website_text, tags)
-    print(result)
+    response = parse_text(model, website_text, tags)
+    print(response)

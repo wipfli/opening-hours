@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://steakhouselafontaine.ch/
+Call log:
+  - navigating to "https://steakhouselafontaine.ch/", waiting until "networkidle"

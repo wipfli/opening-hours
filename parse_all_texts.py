@@ -1,50 +1,47 @@
 from glob import glob
 import json
 import os
+from multiprocessing import Pool
 
 import parse_text
 
+def single(text_filepath, model):
+    print(text_filepath)
+    
+    if text_filepath.endswith('-err.txt'):
+        print('err website, skipping...')
+        return
+
+    filename = text_filepath.replace('data/text/', '')
+    output_filepath = f'data/parsed/{filename}'
+
+    if os.path.isfile(output_filepath):
+        print('already done, skipping...')
+        return
+
+    feature = None
+    with open(f'data/source/node-{filename.replace(".txt", ".geojson")}') as f:
+        feature = json.load(f)
+
+    website_text = None
+    with open(text_filepath) as f:
+        website_text = f.read()
+
+    tags = feature['properties']
+    
+    parsed = parse_text.parse_text(model, website_text, tags)
+
+    with open(output_filepath, 'w') as f:
+        f.write(parsed)
+
 def main():
     filepaths = sorted(glob('data/text/*'))
-    model = 'claude-haiku-4.5'
-    # model = 'claude-sonnet-4.6'
+    model = 'openrouter/qwen/qwen3.8-max'
     os.makedirs('data/parsed', exist_ok=True)
 
-    for i in range(len(filepaths)):
-        print(f'{i} / {len(filepaths)}')
-        filepath = filepaths[i]
-        if filepath.endswith('-err.txt'):
-            print('err website, skipping...')
-            continue
-        filename = filepath.replace('data/text/', '')
-        feature = None
-        with open(f'data/source/{filename.replace(".txt", ".geojson")}') as f:
-            feature = json.load(f)
-        url = feature['properties']['website']
-
-        website_text = None
-        with open(filepath) as f:
-            website_text = f.read()
-
-        tags = {}
-        tag_list = ['name', 'amenity', 'addr:street', 'addr:city']
-        print('tags:')
-        for tag in tag_list:
-            if tag in feature['properties']:
-                tags[tag] = feature['properties'][tag]
-                print(f'{tag}={feature["properties"][tag]}')
-        
-        print()
-        parsed = parse_text.parse_text(model, website_text, tags)
-
-        print(f'url:\n{url}\n')
-        print(f'website_text:\n================\n{website_text}\n================\n')
-        print(f'parsed:\n{parsed}')
-
-        with open(f'data/parsed/{filename}', 'w') as f:
-            f.write(parsed)
-
-        print('\n\n\n\n')
+    argument_tuples = [(filepath, model) for filepath in filepaths]
+    with Pool(10) as pool:
+        pool.starmap(single, argument_tuples, chunksize=1)
 
 if __name__ == '__main__':
     main()

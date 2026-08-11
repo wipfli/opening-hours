@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.beiz-buettenhardt.ch/
+Call log:
+  - navigating to "https://www.beiz-buettenhardt.ch/", waiting until "networkidle"

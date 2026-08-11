@@ -1,0 +1,47 @@
+restaurant_menu
+RESTAURANT
+access_time
+ÖFFNUNGSZEITEN
+CONTACT
+mail_outline
+KONTAKT
+FACEBOOK
+TAGESMENÜ
+LOKALITÄT
+KONTAKT
+RESTAURANT
+TAGESMENÜ LOKALITÄT FOOD & DRINKS EVENTS MENÜLETTER
+Dienstag, 04. August 2026
+frisch & günstig
+VORSPEISEN
+Abwechslungsreiches Salatbüffet oder eine feine Tagessuppe
+TAGESMENU
+Ofenfrischer Fleischkäse, Bratensauce und Röstikroketten
+18.50 CHF
+VORSPEISEN
+Abwechslungsreiches Salatbüffet oder eine feine Tagessuppe
+BURGER-MENU
+American Burger mit Cheddar, pikante Coleslaw, Tomate, Lattich & Pommes
+17.50 CHF
+VORSPEISEN
+Abwechslungsreiches Salatbüffet oder eine feine Tagessuppe
+Softeis Aktuell
+Vanille Softeis mit Lotus Biscoff Crumble und Topping
+6.50 CHF
+MENÜLETTER ANMELDEN
+Lokalität
+Das Restaurant bietet einigen Sitzplätze im gemütlichen Restaurant und zusätzliche Sitzplätze auf einer Terasse mit schöner Aussicht in die Surselva.
+FOOD & DRINKS
+Food & Drinks
+Shaka's Mission
+Grillieren ist unsere Leidenschaft! ob Steaks, Beefburgers, Veganes  oder einfach nur eine Olma Bratwurst - we love it.
+Bei den saftigen Premium Burgern aus 100% Rindsfleisch, den knusprigen Buns und rezentem Bündner Raclettekäse setzen wir auf Regionalität und Nachhaltigkeit und sind bestrebt den BESTEN Burger der Surselva für Dich frisch zu grillieren.
+Trendige Getränke - auch homemade - urbanes lockeres Ambiente und die herzlichen Mitarbeiter machen das Shaka zu einem Unikat!
+GO FOR IT!!!
+EVENTS
+Die Shaka Ilanz Events werden in den folgenden Wochen publiziert.
+MENÜLETTER ANMELDEN
+vorname *
+nachname *
+mail *
+anmelden

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.werkhalle.net/kantine/
+Call log:
+  - navigating to "http://www.werkhalle.net/kantine/", waiting until "networkidle"

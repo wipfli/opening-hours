@@ -1,0 +1,26 @@
+CART
+Discounts will be applied in checkout screen
+CHECKOUT
+Home
+Order Online
+AGB
+Impressum
+Contact
+Info
+Checkout
+Login
+Register
+Home
+Order Online
+Contact
+Info
+Checkout
+ORDER ONLINE
+English
+Deutsche
+Home
+Order Online
+Contact
+Info
+AGB
+Impressum

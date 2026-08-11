@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.linde-huentwangen.ch/
+Call log:
+  - navigating to "http://www.linde-huentwangen.ch/", waiting until "networkidle"

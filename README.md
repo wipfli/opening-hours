@@ -96,3 +96,7 @@ All files in the `data/parsed` folder were verified by hand to be correct. Going
 The code is licensed as BSD-3, see [LICENSE.md](LICENSE.md).
 
 Features in the `data` folder are extracted from OpenStreetMap licensed as ODbL, copyright OpenStreetMap contributors.
+
+```
+uv run uvicorn validator:app --reload
+```

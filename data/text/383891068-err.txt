@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://seeperle.ch/
+Call log:
+  - navigating to "https://seeperle.ch/", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: Download is starting
+Call log:
+  - navigating to "https://files.persona.co/77372/Carte_e-te-_2021.pdf", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://restaurant-viktoria.ch/
+Call log:
+  - navigating to "https://restaurant-viktoria.ch/", waiting until "networkidle"

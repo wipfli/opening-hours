@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CERT_DATE_INVALID at https://www.cafe-restaurant-sangria.ch/
+Call log:
+  - navigating to "https://www.cafe-restaurant-sangria.ch/", waiting until "networkidle"

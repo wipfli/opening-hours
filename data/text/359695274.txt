@@ -1,0 +1,245 @@
+CART
+Discounts will be applied in checkout screen
+Total:
+CHF 0.00
+Home
+About
+AGB
+Impressum
+Contact
+Info
+Checkout
+Login
+Register
+Home
+About
+Contact
+Info
+Checkout
+Previous
+Pasta
+Insel spezial
+Snacks
+Desserts
+Ben & Jerry's
+Salate
+Alkoholfreie Getränke
+Alkoholische Getränke
+Pizza
+Pide
+Piazza-Kebap-Gerichten
+Boxen
+Burger
+Piazza Tellergerichte
+Börek
+Pasta
+Insel spezial
+Snacks
+Desserts
+Ben & Jerry's
+Salate
+Alkoholfreie Getränke
+Alkoholische Getränke
+Pizza
+Pide
+Piazza-Kebap-Gerichten
+Boxen
+Burger
+Piazza Tellergerichte
+Börek
+Pasta
+Insel spezial
+Snacks
+Desserts
+Ben & Jerry's
+Salate
+Alkoholfreie Getränke
+Alkoholische Getränke
+Next
+Pizza Margherita
+Tomaten, Mozzarella
+CHF 15.50
+ADD TO CART
+Pizza Funghi
+Tomaten, Mozzarella, frische Champignons
+CHF 16.50
+ADD TO CART
+Pizza Gorgonzola
+Tomaten, Mozzarella, Gorgonzola
+CHF 16.50
+ADD TO CART
+Pizza Prosciutto
+Tomaten, Mozzarella, Hinterschinken
+CHF 16.50
+ADD TO CART
+Pizza Salami (scharf)
+Tomaten, Mozzarella, scharfe Salami
+CHF 17.50
+-1.00
+ADD TO CART
+Pizza Groyss
+Tomaten, Mozzarella, kebapfleisch,pommes
+CHF 20.50
+-1.00
+ADD TO CART
+Pizza Diavola (scharf)
+Tomaten, Mozzarella, scharfe Salami, frische Peperoncini, Oliven
+CHF 17.50
+ADD TO CART
+Pizza Prosciutto Funghi
+Tomaten, Mozzarella, Vorderschinken, frische Champignons
+CHF 16.50
+ADD TO CART
+Pizza Hawaii
+Tomaten, Mozzarella, Vorderschinken, Ananas
+CHF 16.50
+ADD TO CART
+Pizza Kebap
+Tomaten, Mozzarella, Kebapfleisch
+CHF 17.50
+-1.00
+ADD TO CART
+Pizza Florida
+Tomaten, Mozzarella, Pouletfleisch, frische Peperoni
+CHF 17.50
+ADD TO CART
+Pizza Napoli
+Tomaten, Mozzarella, Sardellen Kapern, Oliven
+CHF 16.50
+ADD TO CART
+Pizza Gamberetti
+Tomaten, Mozzarella, Crevetten, frischer Knoblauch
+CHF 17.50
+ADD TO CART
+Pizza Siciliana
+Tomaten, Mozzarella, Hinterschinken, Spinat, Oliven, Ei
+CHF 17.50
+ADD TO CART
+Pizza Vegetaria
+Tomaten, Mozzarella, verschiedenes Gemüse
+CHF 17.50
+-1.00
+ADD TO CART
+Pizza Pollo
+Tomaten, Mozzarella, Curry-Pouletstreifen
+CHF 17.50
+-1.00
+ADD TO CART
+Pizza Padrone
+Tomaten, Mozzarella, Kalbfleisch, Zwiebeln, Peperoncini
+CHF 18.50
+ADD TO CART
+Pizza Capriccosa
+Tomaten, Mozzarella, Artischocken, frischen Champignons, Schinken, Peperoni, Oliven
+CHF 18.85
+ADD TO CART
+Pizza Quattro Formaggi
+Tomaten, Mozzarella, Gorgonzola, Grana Padano, Mascarpone, Fetakäse
+CHF 17.50
+ADD TO CART
+Pizza Frutti di Mare
+Tomaten, Mozzarella, Meeresfrüchten, frischer Knoblauch
+CHF 17.50
+ADD TO CART
+Calzone (zugedeckt)
+Tomaten, Mozzarella, frische Champignons, Vorderschinken, Ei
+CHF 19.50
+ADD TO CART
+Calzone Kebap (zugedeckt)
+Tomaten, Mozzarella, Kebabfleisch
+CHF 20.50
+ADD TO CART
+Pizza Rustica
+Tomaten, Mozzarella, Speck, Zwiebeln, Ei
+CHF 17.50
+ADD TO CART
+Pizza Quattro Stagioni
+Tomaten, Mozzarella, Hinterschinken, Artischocken, frischen Champignons, Peperoni
+CHF 17.50
+ADD TO CART
+Pizza Tonno
+Tomaten, Mozzarella, Thunfisch, Zwiebeln, Oliven
+CHF 17.50
+ADD TO CART
+Pizza Boscaiola
+Tomaten, Mozzarella, Speck, Steinpilzen
+CHF 17.50
+ADD TO CART
+Pizza Winti
+Tomaten, Mozzarella, Hinterschinken, Rucola, Masacrpone, Mozzarella, Cherrytomaten
+CHF 18.50
+ADD TO CART
+Pizza Sucuk
+Tomaten, Mozzarella, Sucuk
+CHF 17.50
+ADD TO CART
+Pizza Etna (scharf)
+Tomaten, Mozzarella, Zwiebeln, Peperoncini, Speck, scharfer Salami, Knoblauch
+CHF 18.50
+ADD TO CART
+Pizza Svizzera
+Tomaten, Mozzarella, Speck, Salami, Vorderschinken
+CHF 17.50
+ADD TO CART
+Pizza Piazza
+Tomaten, Mozzarella, Schinken, Salami, Peperoncini, Kebapfleisch, frische Champignons
+CHF 18.50
+ADD TO CART
+Pizza Fiorentina
+Tomaten, Mozzarella, Spinat, Crevetten, frischem Knoblauch, Oregano
+CHF 17.50
+ADD TO CART
+Pizza Efe
+Tomaten, Mozzarella, Spinat, frisch gegrillte Peperoni, Gorgonzola
+CHF 17.50
+ADD TO CART
+Pizza Eliz
+Tomaten, Mozzarella, Auberginen, Zucchini, frische gegrillte Peperoni
+CHF 17.50
+ADD TO CART
+Pizza Aslan
+Tomaten, Mozzarella, Rohschinken, Parmesan, Rucola
+CHF 17.50
+ADD TO CART
+Pizza Raclette
+Tomaten, Mozzarella, Raclette Käse, Zwiebeln
+CHF 17.50
+ADD TO CART
+Pizza Milano
+Tomaten, Mozzarella, Hackfleisch, Petersilie, Mozzarella
+CHF 17.50
+ADD TO CART
+Pizza Winterthur
+Tomaten, Mozzarella, Crevetten, Zwiebeln, Tomaten, Knoblauch, Pesto
+CHF 17.50
+ADD TO CART
+Pizza Amigo
+Tomaten, Mozzarella, Broccoli, Spinat, Ei
+CHF 17.50
+ADD TO CART
+Pizza Hirten
+Tomaten, Mozzarella, Zwiebeln, Petersilie, Knoblauch, marinierte Paprika
+CHF 17.50
+-2.00
+ADD TO CART
+Pizza Steinpilze
+Tomaten, Mozzarella, Steinpilze
+CHF 18.50
+ADD TO CART
+Calzone
+Tomaten, Mozzarella, frische Champignons, Vorderschinken, Ei
+CHF 20.00
+ADD TO CART
+Calzone Kebap
+Tomaten, Mozzarella, Kebabfleisch
+CHF 20.50
+-1.00
+ADD TO CART
+English
+Deutsche
+Home
+About
+Contact
+Info
+AGB
+Impressum

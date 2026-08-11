@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://im-feldhof.ch/et
+Call log:
+  - navigating to "https://im-feldhof.ch/et", waiting until "networkidle"

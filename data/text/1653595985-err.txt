@@ -1,0 +1,3 @@
+Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "http://www.filinirestaurant.com/restaurant-basel", waiting until "load"

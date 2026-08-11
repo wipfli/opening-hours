@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fromatzet.ch/
+Call log:
+  - navigating to "https://www.fromatzet.ch/", waiting until "networkidle"

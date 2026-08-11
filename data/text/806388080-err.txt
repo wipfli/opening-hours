@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://contrattempi.ch/
+Call log:
+  - navigating to "http://contrattempi.ch/", waiting until "networkidle"

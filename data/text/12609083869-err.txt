@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sake-restaurant.ch/
+Call log:
+  - navigating to "https://sake-restaurant.ch/", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_RESET at https://konshi-zuerich.ch/
+Call log:
+  - navigating to "https://konshi-zuerich.ch/", waiting until "networkidle"

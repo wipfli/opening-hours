@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.xn--restaurant-nihsli-b0b0ja.ch/
+Call log:
+  - navigating to "http://www.xn--restaurant-nihsli-b0b0ja.ch/", waiting until "networkidle"

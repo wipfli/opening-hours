@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lebistroquet.ch/
+Call log:
+  - navigating to "http://www.lebistroquet.ch/", waiting until "networkidle"

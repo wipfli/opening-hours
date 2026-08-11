@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://restaurant-gaessli.ch/
+Call log:
+  - navigating to "https://restaurant-gaessli.ch/", waiting until "networkidle"

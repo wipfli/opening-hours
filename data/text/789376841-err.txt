@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.restaurant-tennishalle.ch/
+Call log:
+  - navigating to "http://www.restaurant-tennishalle.ch/", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_REFUSED at https://www.ochsen-zofingen.ch/
+Call log:
+  - navigating to "https://www.ochsen-zofingen.ch/", waiting until "networkidle"

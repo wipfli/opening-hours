@@ -1,0 +1,393 @@
+MENU
+AVIS
+CONTACT
+MENTIONS LÉGALES
+RESTAURANT DU COMMERCE
+Cuisine française
+Cuisine suisse et pâtes
+Pizzas
+Entrées , salades
+Desserts
+Boissons
+Bières
+Vins blancs
+Vins rosés
+Vins rouges
+Spiritueux
+Cuisine française
+Steak cheval 200 gr. Sauce forestière
+31,00 CHF
+Consigne de (0,00 CHF)
+Escalope viennoise maison
+29,00 CHF
+Consigne de (0,00 CHF)
+Escalope de porc avec sauce forestière
+29,00 CHF
+Consigne de (0,00 CHF)
+Escalope viennoise faite maison
+29,00 CHF
+Consigne de (0,00 CHF)
+Escalope de porc avec sauce citron
+28,00 CHF
+Consigne de (0,00 CHF)
+Escalope de porc sauce café du paris
+28,00 CHF
+Consigne de (0,00 CHF)
+Émincé de poulet au curry
+25,00 CHF
+Consigne de (0,00 CHF)
+Émincé de poulet avec sauce forestière
+27,00 CHF
+Consigne de (0,00 CHF)
+Gambas au curry
+29,00 CHF
+Consigne de (0,00 CHF)
+Gambas gratinées au four
+28,00 CHF
+Consigne de (0,00 CHF)
+Entrecôte de bœuf avec sauce forestière (180g)
+33,00 CHF
+Consigne de (0,00 CHF)
+Entrecôte de bœuf avec sauce forestière (280g)
+43,00 CHF
+Consigne de (0,00 CHF)
+Entrecôte de boeuf avec sauce café de Paris (280g)
+41,00 CHF
+Consigne de (0,00 CHF)
+Entrecôte de boeuf avec sauce café de Paris (180g)
+31,00 CHF
+Consigne de (0,00 CHF)
+Steak cheval 200gr sauce café de Paris
+30,00 CHF
+Consigne de (0,00 CHF)
+Menu du jour ,
+Menu du jour varié fait maison, informations disponibles pour les menus de la semaine sur pages Google ou sur appeler
+23,00 CHF
+Consigne de (0,00 CHF)
+Filet de perche meunière
+32,00 CHF
+Consigne de (0,00 CHF)
+Tartare de boeuf 200gr
+35,00 CHF
+Consigne de (0,00 CHF)
+Tartare de boeuf (300g)
+47,00 CHF
+Consigne de (0,00 CHF)
+Tartare de saumon garni 200gr
+33,00 CHF
+Consigne de (0,00 CHF)
+Kinder menu Nuggets frites
+Des jouets pour enfants
+15,90 CHF
+Consigne de (0,00 CHF)
+Cuisine suisse et pâtes
+Spaghetti Chef
+Émincé de bœuf, champignons et jambon cru
+24,00 CHF
+Consigne de (0,00 CHF)
+Penne Napolitaine
+19,00 CHF
+Consigne de (0,00 CHF)
+Penne Al Pesto
+20,00 CHF
+Consigne de (0,00 CHF)
+Penne Bolognaise
+21,00 CHF
+Consigne de (0,00 CHF)
+Penne Carbonara
+Lardon,crème, jeune œufs, parmesan
+23,00 CHF
+Consigne de (0,00 CHF)
+Spaghetti Carbonara
+Lardon,crème, jeune œufs, parmesan
+23,00 CHF
+Consigne de (0,00 CHF)
+Spaghetti Arabiata
+Sauce tomate poivron , ail,piment et basilic
+22,00 CHF
+Consigne de (0,00 CHF)
+Spaghetti à la crème,
+Émincé poulet et champignons paris,parmesan
+25,00 CHF
+Consigne de (0,00 CHF)
+Spaghetti fruits de mer
+Sauce tomate, poivron, champignons paris,ail, piment et basilic
+25,00 CHF
+Consigne de (0,00 CHF)
+Spaghetti somon
+27,00 CHF
+Consigne de (0,00 CHF)
+Kit fondue fromage pour 1 personne
+Fromage moitié moitié de blonay, 1 dl vin blanc avec pain et gel combustible. 230 g.
+25,00 CHF
+Consigne de (0,00 CHF)
+Kit fondue fromage pour 2 personnes
+Fromage moitié moitié de blonay, 2 dl vin blanc avec pain et gel combustible. 450 g.
+45,00 CHF
+Consigne de (0,00 CHF)
+Pâtes spaghetti napolitaine
+Sauce tomate avec huile d'olive basilic ail
+19,00 CHF
+Consigne de (0,00 CHF)
+Pâtes spaghetti al pesto
+20,00 CHF
+Consigne de (0,00 CHF)
+Spaghetti Bolognaise
+Viande haché bœuf, sauces tomate, carottes épices
+21,00 CHF
+Consigne de (0,00 CHF)
+Penne Arrabiata
+Sauce tomate, poivron, champignons paris,ail, piment et basilic
+22,00 CHF
+Consigne de (0,00 CHF)
+Penne fruit de mer
+Mélange de fruits mer, sauce tomate, fines herbes
+25,00 CHF
+Consigne de (0,00 CHF)
+Penne à la Crème
+Émincé poulet et champignons paris,parmesan
+25,00 CHF
+Consigne de (0,00 CHF)
+Penne Chef
+Émincé de bœuf, champignons, jambon cru, parmesan, huile d'olive
+27,00 CHF
+Consigne de (0,00 CHF)
+Penne somon
+27,00 CHF
+Consigne de (0,00 CHF)
+Pizzas
+Pizza quattro stagioni
+Sauce tomate, mozzarella, jambon, artichaut, poivrons, fruits de mer et origan. Taille au choix.
+18,50 CHF
+Consigne de (0,00 CHF)
+Pizza bosco
+Sauce tomate, mozzarella, mélange de champignons sautés et origan. Taille au choix.
+18,50 CHF
+Consigne de (0,00 CHF)
+Pizza parma
+Sauce tomate, mozzarella, jambon crû et origan. Taille au choix.
+19,50 CHF
+Consigne de (0,00 CHF)
+Pizza à composer 2 personnes
+Sauce tomate, mozzarella, origan et ingrédients au choix.
+26,00 CHF
+Consigne de (0,00 CHF)
+Pizza blanche
+crème au lieu de sauce tomate
+14,50 CHF
+Consigne de (0,00 CHF)
+Pizza el capo
+Sauce tomate, mozzarella, émincé de bœuf, champignons frais, olives, copeaux de parmesan, huile d'olive et origan. Taille au choix.
+23,50 CHF
+Consigne de (0,00 CHF)
+Pizza à composer 1 personne
+Sauce tomate, mozzarella, origan et ingrédients au choix.
+14,50 CHF
+Consigne de (0,00 CHF)
+Pizza arrabiata
+Sauce tomate, mozzarella, jambon, olives, piment et origan. Taille au choix.
+16,50 CHF
+Consigne de (0,00 CHF)
+Pizza prosciutto funghi
+Sauce tomate, mozzarella, jambon, champignons de Paris français et origan. Taille au choix.
+17,50 CHF
+Consigne de (0,00 CHF)
+Pizza capricciosa
+Sauce tomate, mozzarella, jambon, artichaut, champignons de Paris frais, œuf et origan. Taille au choix.
+18,50 CHF
+Consigne de (0,00 CHF)
+Pizza Margherita
+Sauce tomate, mozzarella et origan. Taille au choix.
+14,50 CHF
+Consigne de (0,00 CHF)
+Pizza napoletana
+Sauce tomate, mozzarella, anchois, câpres et origan. Taille au choix.
+16,50 CHF
+Consigne de (0,00 CHF)
+Pizza prosciutto
+Sauce tomate, mozzarella, jambon et origan. Taille au choix.
+16,50 CHF
+Consigne de (0,00 CHF)
+Entrées , salades
+Salade indienne
+Salade verte avec maïs et émincé de poulet au curry. Servi avec sauce au choix.
+21,50 CHF
+Consigne de (0,00 CHF)
+Cocktail de crevettes
+Servi sur chiffonnade de salade.
+14,50 CHF
+Consigne de (0,00 CHF)
+Salade du patron
+Salade verte avec tomates, carottes, aubergines grillées, maïs, jambon et thon.
+21,00 CHF
+Consigne de (0,00 CHF)
+Assiette jambon cru
+Servi avec crudités et pain beurré.
+21,00 CHF
+Consigne de (0,00 CHF)
+Salade mêlée
+Légumes du jour, servi avec sauce au choix.
+8,50 CHF
+Consigne de (0,00 CHF)
+Bruschetta
+Pain gratiné à l'ail avec salade de tomates et fines herbes, 2 pièces.
+9,50 CHF
+Consigne de (0,00 CHF)
+Salade verte
+Sauce au choix.
+6,50 CHF
+Consigne de (0,00 CHF)
+Desserts
+Profital
+9,00 CHF
+Consigne de (0,00 CHF)
+Crema e pistacchio
+12,00 CHF
+Consigne de (0,00 CHF)
+Spagnolo
+12,00 CHF
+Consigne de (0,00 CHF)
+Cocco
+12,00 CHF
+Consigne de (0,00 CHF)
+Flûte sorbet citron
+À la liqueur de limoncello.
+12,00 CHF
+Consigne de (0,00 CHF)
+Tranche de tarte du jour maison
+8,00 CHF
+Consigne de (0,00 CHF)
+Mousse au chocolat
+7,00 CHF
+Consigne de (0,00 CHF)
+Tiramisu fait maison
+9,00 CHF
+Consigne de (0,00 CHF)
+Baklava
+2,00 CHF
+Consigne de (0,00 CHF)
+Boissons
+Nestea pêche 0.33l
+4,00 CHF
+Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Jus de pomme 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Eau minérale gazeuse 0,5l
+4,00 CHF
+Consigne de (0,00 CHF), 8,00 CHF/l, 0,5l
+Rivella rouge 0.5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Oasis tropical 0,33l
+4,00 CHF
+Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Red Bull 0,25l
+5,00 CHF
+Consigne de (0,00 CHF), 20,00 CHF/l, 0,25l
+L'eau plat 0.5l
+4,00 CHF
+Consigne de (0,00 CHF), 16,00 CHF/l, 0,25l
+Fanta 0,33l
+4,00 CHF
+Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Fanta Exotique 0,33l
+4,00 CHF
+Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Sprite 0,33l
+4,00 CHF
+Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Nestea citron 0.33l
+4,00 CHF
+Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Coca-Cola 0,33l
+4,00 CHF
+Contient de la caféine (9,6 mg/100 ml), Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Coca-Cola Zero 0,33l
+4,00 CHF
+Contient de la caféine (9,6 mg/100 ml), Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Coca-Cola Cherry 0,33l
+4,00 CHF
+Contient de la caféine (9,6 mg/100 ml), Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Bières
+Heineken 6 pack
+25,00 CHF
+5 % vol, Consigne de (0,00 CHF), 50,00 CHF/l, 0,5l
+6 pack super Bock 0,330 lt
+22,00 CHF
+5 % vol, Consigne de (0,00 CHF), 11,11 CHF/l, 1,98l
+Feldschlössen 6 pack
+25,00 CHF
+5 % vol, Consigne de (0,00 CHF), 50,00 CHF/l, 0,5l
+Bière Feldschlösschen
+5,00 CHF
+5 % vol, Consigne de (0,00 CHF)
+Heineken
+6,00 CHF
+5 % vol, Consigne de (0,00 CHF)
+Super Bock 0,330 lt
+4,00 CHF
+5 % vol, Consigne de (0,00 CHF), 12,12 CHF/l, 0,33l
+Vins blancs
+La réserve du caviste 0,75l
+Union viticole cully
+33,00 CHF
+13 % vol, Consigne de (0,00 CHF), 44,00 CHF/l, 0,75l
+Vevey Grand Cru 0,75l
+32,00 CHF
+Consigne de (0,00 CHF)
+Vins rosés
+No 1 cuvée E Obrist rosé 0,75l
+Cépages, Garanoir, Gamaret, Vaud AOC
+33,00 CHF
+13 % vol, Consigne de (0,00 CHF), 44,00 CHF/l, 0,75l
+La Masurdelle rosé 0,75l
+Cépages, Gamay, Pinot Noir, Vaud AOC
+32,00 CHF
+38 % vol, Consigne de (0,00 CHF), 42,67 CHF/l, 0,75l
+Vins rouges
+Vevey Pinot Noir Grand Cru 0,75l
+Pinot noir,lavaux
+32,00 CHF
+38 % vol, Consigne de (0,00 CHF), 42,67 CHF/l, 0,75l
+Tour Rouge 0,75l
+Cépages, Gamaret, Merlot, Syrah, Garanoir, 2013/14. Assemblage rouge, Chablais AOC
+39,00 CHF
+38 % vol, Consigne de (0,00 CHF), 52,00 CHF/l, 0,75l
+N°1 Cuvée E.Obrist 0,75l
+Cépages, Gamaret, Gamay, Garanoir, Pinot Noir, 2013/14. Assemblage rouge, Vaud AOC
+35,00 CHF
+38 % vol, Consigne de (0,00 CHF), 46,67 CHF/l, 0,75l
+Vin du mois rouges de la région 0,75l
+Vin du mois de la région
+32,00 CHF
+38 % vol, Consigne de (0,00 CHF), 42,67 CHF/l, 0,75l
+Spiritueux
+Chivas 12 Whisky 0,7l
+79,00 CHF
+40,0 % vol, Consigne de (0,00 CHF), 112,86 CHF/l, 0,7l
+Jack Daniel's Whisky 0,7l
+59,00 CHF
+40,0 % vol, Consigne de (0,00 CHF), 84,29 CHF/l, 0,7l
+Martini 0,7l
+29,00 CHF
+18 % vol, Consigne de (0,00 CHF), 41,43 CHF/l, 0,7l
+Johnnie Walker - Red Label Whisky 0,7l
+49,00 CHF
+38 % vol, Consigne de (0,00 CHF), 70,00 CHF/l, 0,7l
+Smirnoff 0,7l
+49,00 CHF
+38 % vol, Consigne de (0,00 CHF), 70,00 CHF/l, 0,7l
+Commandez En Ligne
+CONTACT
+Restaurant du Commerce
+5 Avenue de Corsier
+1800 Vevey
+INFORMATIONS
+Conditions d'utilisation
+Déclaration de confidentialité
+Politique d'utilisation des cookies
+Mentions légales
+Nous utilisons des cookies et d'autres technologies pour améliorer et personnaliser votre expérience utilisateur, des analyses pour l'optimisation et des publicités en partenariat avec des tiers. Nous utilisons nos propres cookies et des cookies de tiers. En cliquant sur OK, vous acceptez l'utilisation de tous les cookies. Nous installons toujours les cookies nécessaires. Sélectionnez Gérer vos préférences pour choisir les cookies que vous souhaitez accepter, ajuster votre préférence et trouver plus d'informations.
+OK
+Essentiels

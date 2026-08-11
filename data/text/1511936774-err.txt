@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CONNECTION_REFUSED at https://pizzeria-schweizerheim.ch/
+Call log:
+  - navigating to "https://pizzeria-schweizerheim.ch/", waiting until "networkidle"

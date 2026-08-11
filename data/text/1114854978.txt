@@ -1,0 +1,148 @@
+CART
+Discounts will be applied in checkout screen
+Total:
+CHF 0.00
+Home
+About
+AGB
+Impressum
+Contact
+Info
+Checkout
+Login
+Register
+Home
+About
+Contact
+Info
+Checkout
+Previous
+Lahmacun
+Pide
+Pepito
+Salate
+Ben & Jerry's
+Desserts
+Alkoholfreie Getränke
+Alkoholische Getränke
+SPARMENÜS
+Pizza
+Pasta
+Döner und Snacks
+Box-Food
+Tellergerichte
+Lahmacun
+Pide
+Pepito
+Salate
+Ben & Jerry's
+Desserts
+Alkoholfreie Getränke
+Alkoholische Getränke
+SPARMENÜS
+Pizza
+Pasta
+Döner und Snacks
+Box-Food
+Tellergerichte
+Lahmacun
+Pide
+Pepito
+Salate
+Ben & Jerry's
+Desserts
+Alkoholfreie Getränke
+Alkoholische Getränke
+Next
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Kebap Taschenbrot MENÜ
+Kebap Taschenbrot
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 17.00
+ADD TO CART
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Kebap Dürüm MENÜ
+Kebap Fladenbrot
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 18.00
+ADD TO CART
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Pepito Lamm MENÜ
+Pepito Lamm
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 19.00
+ADD TO CART
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Pepito MENÜ
+Pepito Poulet
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 18.00
+ADD TO CART
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Mega Dürüm MENÜ
+Mega Dürüm
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 25.00
+ADD TO CART
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Hamburger MENÜ
+Hamburger
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 17.00
+ADD TO CART
+SPARMENÜS
+serviert mit Pommes und Dosengetränke nach Wahl
+Cheeseburger MENÜ
+Cheeseburger
+Getränke nach Wahl
+Coca Cola 0,33l
+Fanta 0,33l
+Sprite 0,33l
+Ice Tea Zitrone 0,33l
+Ayran 0,33l
+CHF 18.00
+ADD TO CART
+English
+Deutsche
+Home
+About
+Contact
+Info
+AGB
+Impressum

@@ -1,0 +1,19 @@
+Ihre PLZ
+8004-Zürich
+8005-Zürich
+8006-Oberstrass
+8046-Affoltern
+8048-Altstetten
+8049-Hönng
+8050-Oerlikon
+8051-Schwamendingen
+8052-Seebach
+8057-Oerlikon
+8105-Regensdorf
+8106-Regensdorf
+8152-Glattbrugg-Opfikon
+8153-Rümlang
+8302-Kloten
+8304-Wallisellen
+8600-Dübendorf
+GO !

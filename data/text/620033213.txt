@@ -1,0 +1,257 @@
+Cocktails
+Cherry Chirulín
+Pisco, Kirsche, Limette
+14
+Green Tomato Margarita
+Tequila, Tomate, Jalapeño, Dry Curaçao, Limette
+14
+Watermelon Mezcalita
+Mezcal, Wassermelone, Dry Curaçao, Limette
+14
+Boozy Arnold Palmer
+Rum, Homemade Iced Tea, Zitrone, Minze
+14
+Mezcal Negroni
+Mezcal, Vermouth, Gentiane
+15
+Vieux Carré
+Rye Whiskey, Vermouth, Bénédictine, Bitters
+16
+Food Abendkarte
+Pickles & Grilled Olives
+(v)
+10
+Apéro-Mischung
+(v)
+Mais, Mandel, Erdnuss
+4
+Brot, Olivenöl - "Butter"
+(v)
+Hausgemachtes Brot, Sardisches Olivenöl
+5
+Caesar Salad
+Lattich, Panko, Parmigiano Reggiano
+11
+Wassermelone, Gurke, Tomate
+(v)
+Toasted Sesame, Basilikum
+15
+Eggplant Parm
+Panierte Aubergine, Sugo, Scamorza, Parmigiano
+16
+Pommes Frites
+(v)
+9
+Okra-Spiess
+(v)
+Green Tomato Relish
+15
+Grillierter Schweinehals
+(Schwein CH)
+Pickled Peaches, Basilikum, Guanciale (Schwein, IT)
+28
+Persillé vom Grill
+(Rind CH)
+Corn Purée, Creole Caponata, Mandel
+31
+Fried Chicken Sliders
+(Poulet CH)
+Japanese "Milk" Bread, Pickles, Coleslaw
+26
+Fried Mushroom Sliders
+(v)
+Japanese „Milk“ Bread, Pickles, Coleslaw
+25
+Watermelon Sorbet
+(v)
+Kokosnusskondesmilch
+9
+Mittagsangebot
+Fried Chicken Sandwich
+(Poulet CH)
+Japanese "Milk" Bread, Pickles, Coleslaw
+In-house
+19
+Take Away
+16
+Fried Mushroom Sandwich
+(v)
+Japanese "Milk" Bread, Pickles, Coleslaw
+In-house
+19
+Take Away
+16
+Mit Pommes Frites
+(v)
++3
+Alkoholfreie Getränke
+Tafelwasser
+3/5 dl/1 l
+Ohne Kohlensäure à Discrétion pro Person
+2.00
+Mit Kohlensäure versetzt
+3.00 4.00 7.50
+Hausgemacht
+3/5 dl
+Frisch gepresste Zitronenlimonade
+4.70 7.20
+Flasche
+Coca Cola, 2 dl
+4.50
+Coca Cola Zero, 2 dl
+4.50
+Urban Lemonade Yuzu Lime Bio, 3.3 dl
+6.50
+Urban Lemonade Calamansi, 3.3 dl
+6.50
+Seicha Matcha Drink – Grapefruit, 3.3 dl
+6.00
+Le Tribute – Ginger Beer, 2 dl
+6.00
+Le Tribute – Tonic Water, 2 dl
+6.00
+Crodino, 1,75 dl
+5.50
+Saft und Sirup
+3/5 dl
+Vom Sirupier:
+4.00 6.00
+Holunderblüte, Himbeere, Zitronengras
+Apfelsaft Möhl, klar oder als Schorle
+4.50 6.50
+Kaffee und Heissgetränke
+Espresso
+3.90
+Doppio
+6.00
+Café Crema
+4.50
+Cappuccino
+5.50
+Schale
+5.50
+Tee von Länggasstee:
+4.80
+Marokkanische Minze, Verveine, Ginger Lemon, Berner Rose, Qimen Haoya, Sencha Yamato
+Bier
+Offen
+2/3/5 dl
+Appenzeller Lager Hell, 4.8% Vol.
+3.40 4.80 7.40
+Jever Pilsener, 4.9% Vol.
+3.80 5.70 8.60
+Panaché mit frischer Limonade
+3.90 5.80 8.80
+Flasche
+Appenzeller, Birra da Ris glutenfrei, 5.0% Vol., 3.3 dl
+6.00
+Appenzeller – Amber, 5.0% Vol., 3.3 dl
+6.00
+Sierra Nevada – Pale Ale, 5.6% Vol., 3.5 dl
+7.50
+Bier alkoholfrei
+Jever Fun Pilsener <0.5 % Vol., 3.3 dl
+5.50
+Wein
+Schaum
+1/7.5 dl
+Prosecco Loggia Extra Dry DOC
+6.50 35.00
+Clera, Loggia del Colle,
+Italien, Valdobbia, 11.5% Vol.
+Franciacorta Extra Brut
+52.00
+Pinot Nero, Chardonnay, Millesimato,
+Italien, Lombardei, 2020,13.5% Vol.
+Weiss
+1/7.5 dl
+Vermentino, Les Amis DOC
+7.00 38.00
+Vermentino, Vigna Enaoli, Bambagioni Stefano,
+Italien, Toskana, 2024, 13.5% Vol.,
+Roero Arneis DOC Cst
+8.00 42.00
+Arneis, Cantina Ceste,
+Italien Piemont, 2024, 13.5% Vol.
+Salmariano, Verdicchio Riserva
+48.00
+Verdicchio, Marotti Campi,
+Italien, Marche, 2020,13.5% Vol.
+Amphora Gris Natural
+52.00
+Xarel.lo, Pares Balta,
+Spanien, Penedès, 2022, 12.5% Vol.
+Gespritzer Weisswein süss mit frischer Limonade
+8.50
+Gespritzer Weisswein sauer
+7.50
+Orange
+1/7.5 dl
+Nudo Orange Vermentino IGT
+48.00
+Vermentino, Vigna Enaoli, Bambagioni,
+Italien, Toscana, 2023, 12.5% Vol.
+Rosa
+1/7.5 dl
+Rosato, Les Amis DOC
+7.00 38.00
+Sangiovese, Vigna Enaoli, Bambagioni,
+Italien, Toscana, 2023, 13.5% Vol.
+Rot
+1/7.5 dl
+After Work Tempranillo Organic
+6.50 35.00
+Tempranillo, Finca Loranque,
+Spanien, Tierra de Castilla, 2023, 14.0% Vol.
+Les Amis Nudo Rosso DOC
+7.00 38.00
+Sangiovese, Vigna Enaoli, Bambagioni,
+Italien, Toskana, 2022, 13.5% Vol.
+Barbera d’Alba DOC Palazzotto
+9.00 48.00
+Barbera, Cadia di Giachino,
+Italien Piemont, 2022, 15.0% Vol.
+Maurleo, Rosso Toscana Igt
+46.00
+Sangiovese, Malvasia Nera, Pietro Beconcini Agr.,
+Italien, Toskana, 2020, 14.0% Vol.
+2Pi R, Tinto Priorat
+56.00
+Garnatxa, Carinyena, Gratavinum, Parés Baltà,
+Spanien, Priorat, 2022, 13.5% Vol.
+Hisenda Miret
+62.00
+Garnatxa, Pares Balta,
+Spanien Penedès, 2020, 14.5% Vol.
+Barolo Bussia DOCG
+82.00
+Nebbiolo, Giacomo Fenocchio,
+Italien, Piemont, 2018, 14.5% Vol.
+Bei Allergien und Unverträglichkeiten wende dich an unser Personal – Wir stehen dir für Auskünfte über die Inhaltsstoffe und Allergene gerne zur Verfügung.
+Alle Preise in CHF inkl. 8.1 % Mwst.
+Kein Verkauf von Bier, Wein und anderen alkoholischen  Getränken an Personen unter 16 Jahren. Sowie kein Verkauf von Spirituosen, Aperitifs und Alcopops an Personen unter 18 Jahren.
+Impressum
+Kontakt:
+Bayou Gastro GmbH
+Lorrainestrasse 32
+CH-3013 Bern
+Schweiz 031 503 19 36
+‍hallo@bayou-bar.ch
+‍Vertretungsberechtigte Personen:
+Joana Schertenleib
+Robin Zurbrügg
+Handelsregister Nr:  CHE-196.644.334
+Design: Cécile Kobel
+Code: GLUNZ
+‍Haftungsausschluss:
+Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen. Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen. Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
+‍Haftungsausschluss für Links:
+‍Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs. Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des jeweiligen Nutzers.
+Lorrainestrasse 32, 3013 Bern
+Instagram
+Di–Fr: 11:30–14:00
+Di–Do: 17:00–23:30
+Fr-Sa: 17:00-00:30
+031 503 19 36
+reservationen@bayou-bar.ch
+Menü

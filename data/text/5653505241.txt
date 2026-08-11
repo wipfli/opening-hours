@@ -1,0 +1,211 @@
+MENU
+AVIS
+CONTACT
+MENTIONS LÉGALES
+BRASSERIE DES CHAVANNES
+Pizza, Ø 33cm
+Plats
+Boissons non alcoolisées
+Boissons alcoolisées
+Pizza, Ø 33cm
+Pizza Chorizo
+Préparé avec sauce tomate, mozzarella, chorizo piquant
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Supreme
+Préparé avec sauce tomate, mozzarella, mats, olives, champignons, oeuf
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Royal
+Préparé avec sauce tomate, mozzarella, sucuk, maïs, olives, champignons
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Giardino
+Préparé avec sauce tomate, mozzarella, artichauts, poivrons, champignons, olives
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Ortolana
+Préparé avec sauce tomate, mozzarella, artichauts, poivrons, aubergine
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Epinards
+Préparé avec sauce tomate, mozzarella, epinards, feta
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Fruits de Mer
+Préparé avec sauce tomate, mozzarella, cocktail de fruits de mer, olives
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Mélanges de Légumes d'été
+Préparé avec sauce tomate, mozzarella, choux-fleurs, haricots, carottes, petits pois
+15,00 CHF
+Consigne de (0,00 CHF)
+Pizza Brocolis
+Préparé avec sauce tomate, mozzarella, feta, oignons, tomate cherry
+15,00 CHF
+Consigne de (0,00 CHF)
+Pizza Sucuk
+Préparé avec sauce tomate, mozzarella, aucun
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Jambon de dinde
+Préparé avec sauce tomate, mozzarella, jambon de dinde
+15,00 CHF
+Consigne de (0,00 CHF)
+Pizza 4 Fromage
+Préparé avec sauce tomate, mozzarella, emmentaler, gorgonzola, parmesan
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Romana
+Préparé avec sauce tomate, mozzarella, jambon, champignons
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Grecque
+Préparé avec sauce tomate, mozzarella, feta, oignons, olives, tomate cherry
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Thon
+Préparé avec sauce tomate, mozzarella, thon, oignons, olives
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Napolitaine
+Préparé avec sauce tomate, mozzarella, anchois, câpres
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Sultan
+Préparé avec sauce tomate, mozzarella, viande haché, oignons
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Poulet
+Préparé avec sauce tomate, mozzarella, poulet emincé, poivrons
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Diavola
+Préparé avec sauce tomate, mozzarella, salami, poivrons, oignons
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Margherita
+Préparé avec sauce tomate, mozzarella
+14,00 CHF
+Consigne de (0,00 CHF)
+Pizza Jambon
+Préparé avec sauce tomate, mozzarella, jambon
+16,90 CHF
+Consigne de (0,00 CHF)
+Pizza Champignons
+Préparé avec sauce tomate, mozzarella, champignons
+16,90 CHF
+Consigne de (0,00 CHF)
+Pizza Tunisienne
+Préparé avec sauce tomate, mozzarella, merguez, poivrons, oignons
+16,90 CHF
+Consigne de (0,00 CHF)
+Pizza Vegetarienne
+Préparé avec sauce tomate, mozzarella, courgette, aubergine, poivrons, olives
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza 4 Saison
+Préparé avec sauce tomate, mozzarella, jambon, champignons, poivrons, olives
+16,00 CHF
+Consigne de (0,00 CHF)
+Pizza Hawaienne
+Préparé avec sauce tomate, mozzarella, jambon, ananas
+16,00 CHF
+Consigne de (0,00 CHF)
+Plats
+Cevapcici (7 Pièces)
+Préparé avec Viande de boeuf haché marinée, salade, tomate, ketchup, mayonnaise, frites
+29,00 CHF
+Consigne de (0,00 CHF)
+Escalope de poulet pané
+Préparé avec Blanc de poulet pané, salade, tomate, citron, ketchup, mayonnaise, frites
+19,00 CHF
+Consigne de (0,00 CHF)
+Nuggets Poulet (6 Pièces)
+Servi avec ketchup et mayonnaise
+9,00 CHF
+Consigne de (0,00 CHF)
+Frites
+Servi avec ketchup et mayonnaise
+7,00 CHF
+Consigne de (0,00 CHF)
+Piccata de dinde
+Servi avec salade et frites
+19,00 CHF
+Consigne de (0,00 CHF)
+Burger Poulet
+Servi avec frites
+16,50 CHF
+Consigne de (0,00 CHF)
+Escalope de poulet grillé
+Préparé avec Escalope de poulet marinée, salade, tomate, citron, ketchup, mayonnaise, frites
+18,00 CHF
+Consigne de (0,00 CHF)
+Hamburger
+Préparé avec Steak haché boeuf, salade, tomate, cornichons, ketchup, mayonnaise, frites
+16,50 CHF
+Consigne de (0,00 CHF)
+Cheeseburger
+Préparé avec Steak haché boeuf, salade, tomate, cornichons, fromage cheddar, ketchup, mayonnaise, frites
+17,50 CHF
+Consigne de (0,00 CHF)
+Boissons non alcoolisées
+Fizzy Mandarine 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Thé froid citron 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Fizzy Citron 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Red Bull 0,25l
+5,00 CHF
+Consigne de (0,00 CHF), 20,00 CHF/l, 0,25l
+Fizzy Framboise 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Fanta 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Thé froid pêche 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Coca-Cola 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Coca-Cola Zéro 0,5l
+4,50 CHF
+Consigne de (0,00 CHF), 9,00 CHF/l, 0,5l
+Boissons alcoolisées
+Goron Rouge 0,5l
+19,50 CHF
+Consigne de (0,00 CHF), 39,00 CHF/l, 0,5l
+Féchy Blanc 0,5l
+19,50 CHF
+Consigne de (0,00 CHF), 39,00 CHF/l, 0,5l
+Pinot Noir Rouge 0,5l
+22,00 CHF
+12 % vol, Consigne de (0,00 CHF), 44,00 CHF/l, 0,5l
+Superbock 0,33l
+3,70 CHF
+Consigne de (0,00 CHF), 11,21 CHF/l, 0,33l
+Sagres 0,33l
+3,70 CHF
+5 % vol, Consigne de (0,00 CHF), 11,21 CHF/l, 0,33l
+Heineken 0,33l
+3,70 CHF
+5 % vol, Consigne de (0,00 CHF), 11,21 CHF/l, 0,33l
+Commandez En Ligne
+CONTACT
+Brasserie des Chavannes
+15A Avenue de Préfaully
+1022 Chavannes-près-Renens
+INFORMATIONS
+Conditions d'utilisation
+Déclaration de confidentialité
+Politique d'utilisation des cookies
+Mentions légales
+Nous utilisons des cookies et d'autres technologies pour améliorer et personnaliser votre expérience utilisateur, des analyses pour l'optimisation et des publicités en partenariat avec des tiers. Nous utilisons nos propres cookies et des cookies de tiers. En cliquant sur OK, vous acceptez l'utilisation de tous les cookies. Nous installons toujours les cookies nécessaires. Sélectionnez Gérer vos préférences pour choisir les cookies que vous souhaitez accepter, ajuster votre préférence et trouver plus d'informations.
+OK
+Essentiels

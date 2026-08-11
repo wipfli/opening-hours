@@ -1,0 +1,33 @@
+OpenStreetMap
+Edit
+History
+Export
+GPS Traces
+User Diaries
+Communities
+Copyright
+Help
+Donate
+About
+Log In
+Sign Up
+Where is this?
+Changeset: 175329919
+note/5031690
+Closed 8 months ago by Piagno
+Tags
+changesets_count	13075
+closed:note	5073892
+created_by	iD 2.37.3
+host	https://www.openstreetmap.org/edit
+imagery_used	swisstopo SWISSIMAGE
+locale	de-CH
+Discussion
+Log in to join the discussion
+Nodes 1
+Étage 19 (1502171755), v6
+Changeset XML · osmChange XML
+175329843 · Piagno · 175330086
+20 m
+50 ft
+© OpenStreetMap contributors ♥️ Make a Donation. Website and API terms

@@ -1,0 +1,71 @@
+TABLE RESERVATION
+VOUCHERS
+Book a room
+HOTEL
+RESTAURANT
+BANQUETS & MEETINGS
+DIGITAL GUEST DIRECTORY
+ABOUT US
+CONTACT
+Book and inquire about rooms
+Check the availability of our rooms and book easily online.
+Check availability
+Hotel Restaurant Seegarten Marina Spiez
+Located directly on the lake, nestled in the picturesque bay of Spiez on the beautiful Lake Thun, surrounded by a magnificent mountain landscape, you will find genuine hospitality with us in the beautiful Bernese Oberland.
+We look forward to welcoming you and wish you many individual moments of leisure and enjoyment with us.
+The M. & M. Beutler family, owners
+Caroline Reber & Juri Seidel, managing directors
+and the entire Seegarten Marina team
+Welcome to the most beautiful bay in Europe!
+Discover the nearby town and the surrounding nature, enjoy the lake, stroll along the nearby vineyard, explore Spiez Castle or simply enjoy the wonderfully fresh air and the view.
+Hotel Restaurant Seegarten Marina Spiez
+Schachenstrasse 3
+CH-3700 Spiez/BE
+Tel. +41 33 655 67 67
+Fax +41 33 655 67 65
+info@seegarten-marina.ch
+Opening hours
+Restaurant
+open Monday to Sunday.
+Hot meals served continuously from 11:30 am to 10:00 pm.
+Small menu: 2:00 pm to 5:30 pm & 9:00 pm to 10:00 pm.
+Pizza menu: 4:00 pm to 10:00 pm.
+We reserve the right to adjust our opening hours depending on the number of guests. Thank you for your understanding.
+Book a room | Table reservation | Vouchers | Terms and conditions
+© 2025 HOTEL RESTAURANT SEEGARTEN MARINA SPIEZ | LEGAL NOTICE | PRIVACY POLICY | COMMUNICATE WEBDESIGN SPIEZ
+EN
+We use cookies
+We use cookies on our website. Some of them are essential for the operation of the site, while others help us to improve this website and the user experience (tracking cookies). You can decide for yourself whether you want to allow cookies. Please note that if you decline, some functionalities of the site may no longer be available.
+Accept Refuse
+Further information
+day. Mews.Distributor( // Set Configuration ID of your booking engine. { configurationIds: ['017af496-202c-491d-8ad5-b25d009e4a64'], }, // Add callback which will enable Submit button and open the Booking Engine Widget upon button click. function (api) { // Listen on submit and when user submits, open booking engine with given dates. const listenOnSubmit = () => { // Find the form in DOM and listen on submit. const form = document.getElementById('date-form'); form.addEventListener('submit', event => { // Don't use the default submit button behavior. We want to handle it ourselves. event.preventDefault(); // Get the dates from the date form. const { start, end } = event.target.elements; const [startYears, startMonths, startDays] = start.value.split('-'); const [endYears, endMonths, endDays] = end.value.split('-'); const startDate = new Date(startYears, startMonths - 1, startDays); const endDate = new Date(endYears, endMonths - 1, endDays); // Use the Booking Engine Widget Javascript API to set the dates in the widget and open it. api.setStartDate(startDate); api.setEndDate(endDate); api.open(); }); }; listenOnSubmit(); // Enable the submit button, because the Booking Engine Widget is ready to be used. const enableSubmit = () => { const submitButton = document.getElementById('dates-submit'); submitButton.value = 'Search'; submitButton.disabled = false; }; enableSubmit(); } // 4th note - this guide is written for the production environment. );
+We use cookies
+We use cookies on our website. Some of them are essential for the operation of the site, while others help us to improve this website and the user experience (tracking cookies). You can decide for yourself whether you want to allow cookies. Please note that if you decline, some functionalities of the site may no longer be available.
+Accept Refuse
+Further information
+hotel
+Room Overview
+Standard Single Room
+Single room with lake view
+Standard Double Room
+Comfort room with partial lake view
+Double room with lake view
+Superior Double Room Lake View
+Apartment with lake view
+Junior Suite Lake View
+Large apartment
+restaurant
+premises
+Daily menu
+Banquets & Meetings
+banquets
+Meetings
+Digital guest directory
+About Us
+team
+Guiding principles
+Vacancies
+contact
+Contact information & location
+Arrival information
+partner

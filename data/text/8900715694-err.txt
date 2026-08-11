@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://maestrofrick.ch/
+Call log:
+  - navigating to "https://maestrofrick.ch/", waiting until "networkidle"

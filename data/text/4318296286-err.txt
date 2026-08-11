@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.steakhose-leopold.ch/
+Call log:
+  - navigating to "http://www.steakhose-leopold.ch/", waiting until "networkidle"

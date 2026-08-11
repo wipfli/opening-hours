@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.roggenloch.ch/
+Call log:
+  - navigating to "http://www.roggenloch.ch/", waiting until "networkidle"

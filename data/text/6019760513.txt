@@ -1,0 +1,10 @@
+404 Not Found
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: index.html
+RequestId: TE4EY1F2TW68F1TD
+HostId: iMh8PMA2D+upWGVFQoq+RdXVcz0rT2h6dA03kVG0VYQ8QpyfpT4TFYGg28k+sHTwL+1ydd0jQxD3ok3dtJnbd5vqmIPIFPn7
+An Error Occurred While Attempting to Retrieve a Custom Error Document
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: redirect.html

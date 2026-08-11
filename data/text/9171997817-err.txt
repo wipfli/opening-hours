@@ -1,0 +1,3 @@
+Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kaffeezentrum.ch/
+Call log:
+  - navigating to "https://www.kaffeezentrum.ch/", waiting until "networkidle"

@@ -1,0 +1,76 @@
+Speis & Trank
+Brunch
+Events und Seminare
+Offene Stellen
+Kontakt
+AGB's
+Reservieren
+Video abspielen
+Willkommen in der Geerlisburg
+Liebe Gäste
+Wir freuen uns Sie in der Geerlisburg
+begrüssen zu dürfen.
+Nehmen Sie sich eine Auszeit vom Alltag und
+kommen Sie zu uns. Eine bezaubernde Aussicht
+mit einem schmackhaften Essen erwartet Sie.
+Wir freuen uns auf SIE.
+Torsten Knopp & Ihr Geerlisburg-Team
+Kinderkarte
+Glacékarte
+Speisekarte
+Snacks
+Getränkekarte
+Apéro
+Indoorspielplatz auf 200 m2
+Der Riesenspass für Kinder!
+Entspannt ins Restaurant, denn auch der Nachwuchs ist beschäftigt.
+Mit unserem grossen Indoor-Spielplatz ist das möglich!
+Eintritt 5.- CHF
+(Ein Teil der Einnahmen gehen an die Stiftung SOS-Kinderdorf.
+Damit ermöglichen Sie Familien und Kindern in Not eine Chance auf eine Zukunft.)
+Hinweis zur Fundgrube
+Bitte beachten Sie, dass wir Gegenstände in der Fundgrube maximal 2 Wochen aufbewahren können.
+Nicht abgeholte Dinge werden nach Ablauf dieser Frist entsorgt. Vielen Dank für Ihr Verständnis!
+#geerlisburg
+Events und Seminare
+Ob Hochzeit, Taufe, Konfirmation, Geburtstag oder Leidmahl; wir schnüren für Sie das passende Paket. Unser feuererprobtes Team macht Ihren Anlass zu einem unvergesslichen Ereignis und zwar für jedes Budget. Verraten Sie uns Ihre Wünsche – wir offerieren Ihnen Ihren Event.
+Seminare oder Workshops an einem inspirierenden Ort durchführen?
+Klar doch, wir sind dazu professionell eingerichtet und haben die passenden Räumlichkeiten. Besuchen Sie uns und lassen Sie sich beraten. Schön, Sie bei uns zu haben.
+Hier finden Sie alles dazu!
+Die Küche der Geerlisburg ist
+inspiriert von herrlichen Produkten aus der regionalen Natur, abwechslungsreich, ehrlich und
+harmonisch.
+Gastgeber Torsten Knopp und sein fröhliches Team zaubern für Sie unvergessliche Genussmomente
+und Geerlisburger Eigenkreationen auf die Teller.
+Die Mitarbeitenden freuen sich sehr, Sie beraten und bedienen zu dürfen. Streifen Sie den Alltagsstress vor unserer Haustür ab und lassen Sie sich in unserem Haus kulinarisch verwöhnen.
+Reservation
+Reservieren Sie Ihren Tisch gleich online unter nachstehendem Link.
+Sie können nur die Zeiten reservieren die es anzeigt.
+Andernfalls sind wir schon ausgebucht.
+Besten Dank für Ihr
+Verständnis.
+Tisch reservieren
+Bei Gruppen ab 11 Personen
+klicken Sie bitte auf folgenden Link:
+Events und Seminar
+Wir freuen uns auf Ihren Besuch!
+Bei schönem Wetter lässt sich’s besonders gut sein in unserem Garten. Essen, trinken und plaudern, dazu die Blicke in die Ferne schweifen lassen – Urlaubsfeeling pur vor den Toren der Stadt Zürich. Dieser spezielle Ort wird auch Sie verzaubern und immer wieder hierhin führen. Wir freuen uns auf Sie.
+Kontakt
+Schreiben Sie uns!
+Senden
+Restaurant Geerlisburg
+Gerlisberg 2
+8302 Kloten
+Telefon 044 577 55 88
+info@geerlisburg.ch
+Öffnungszeiten:
+Die Geerlisburg ist wie folgt geöffnet:
+Montag bis Sonntag:
+11:30 - 22:30
+(es kann vereinzelt, sein dass wir wegen Events geschlossen haben! Besten Dank für Ihr Verständnis)
+Tisch reservieren
+Zu den offenen Stellen >>>
+Newsletter abonieren
+Anmelden
+© 2022 Geerlisburg   Impressum   Datenschutz
+if (typeof is_hours_script_loaded === 'undefined') { var is_hours_script_loaded = true; function getBusinessHoursDataMylsScript(scriptElement) { const hours_script = { BASE_URL: "https://api.myls.ch/api" }; const script_url = scriptElement.getAttribute("src"); const urlObj = new URL(script_url); const params = new URLSearchParams(urlObj.search); const entityId = params.get('entity_id'); const locale = params.get('locale'); const text_color = params.get('text_color'); const mode = params.get('mode'); const day_name = params.get('day_name') || 'full'; if (entityId && locale) { fetch(`${hours_script.BASE_URL}/script/get-business-hours`, { method: 'POST', headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' }, body: JSON.stringify({ entity_id: entityId, locale, text_color, mode,day_name }) }).then(res => res.text()).then(data => { const container = document.createElement('div'); container.innerHTML = data; scriptElement.parentElement.appendChild(container); }).catch(err => { console.log(err, "this is error"); }); } } setTimeout(function () { document.querySelectorAll('script[id="business-hours-script"]').forEach(scriptElement => { getBusinessHoursDataMylsScript(scriptElement); }); }, 300); }

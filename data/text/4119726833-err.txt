@@ -1,0 +1,3 @@
+Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.gastronomia-vaglio.com/
+Call log:
+  - navigating to "https://www.gastronomia-vaglio.com/", waiting until "networkidle"

@@ -1,0 +1,3 @@
+Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.qingdaoexpress.ch/
+Call log:
+  - navigating to "https://www.qingdaoexpress.ch/", waiting until "networkidle"
